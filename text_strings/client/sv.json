@@ -1424,5 +1424,7 @@
   "child_task_share_popover_title": "Dela din uppgift!",
   "child_task_share_popover_text": "Bra jobbat! Dela din uppgift",
   "goal_pie_chart_parenthelp_child": "Föräldrahjälp har aktiverats.\nNär du når %1$d betalar föräldern resterande %2$d.",
-  "goal_pie_chart_start_child": "Du startade med %1$d i din spargris när du började spara till %2$d."
+  "goal_pie_chart_start_child": "Du startade med %1$d i din spargris när du började spara till %2$d.",
+  "are_you_sure_popover_title": "Är du säker?",
+  "are_you_sure_popover_yes": "Ja, jag är säker"
 }

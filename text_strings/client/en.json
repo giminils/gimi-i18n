@@ -1413,5 +1413,7 @@
   "child_task_share_popover_title": "Share your task!",
   "child_task_share_popover_text": "Good work! Share your task",
   "goal_pie_chart_parenthelp_child": "Parent help has been activated.\nWhen you reach %1$d, your parent will pay the last %2$d.",
-  "goal_pie_chart_start_child": "You started with %1$d in your piggy bank when you started saving for %2$d."
+  "goal_pie_chart_start_child": "You started with %1$d in your piggy bank when you started saving for %2$d.",
+  "are_you_sure_popover_title": "Are you sure?",
+  "are_you_sure_popover_yes": "Yes, I'm sure"
 }

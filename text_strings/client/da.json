@@ -1413,5 +1413,7 @@
   "child_task_share_popover_title": "PLZ_TRANSLATE Del din opgave!",
   "child_task_share_popover_text": "PLZ_TRANSLATE Godt arbejde! Del din opgave",
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Forældrehjælp er blevet aktiveret.\nNår du når %1$d, betaler din forælder den sidste %2$d.",
-  "goal_pie_chart_start_child": "PLZ_TRANSLATE Du startede med %1$d i din sparegris, da du begyndte at gemme %2$d."
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Du startede med %1$d i din sparegris, da du begyndte at gemme %2$d.",
+  "are_you_sure_popover_title": "PLZ_TRANSLATE Er du sikker?",
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja jeg er sikker"
 }

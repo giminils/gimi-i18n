@@ -1413,5 +1413,7 @@
   "child_task_share_popover_title": "PLZ_TRANSLATE Teilen Sie Ihre Aufgabe!",
   "child_task_share_popover_text": "PLZ_TRANSLATE Gute Arbeit! Teilen Sie Ihre Aufgabe",
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Elternhilfe wurde aktiviert.\nWenn Sie %1$d erreichen, wird Ihr Elternteil die letzten %2$d bezahlen.",
-  "goal_pie_chart_start_child": "PLZ_TRANSLATE Du hast mit %1$d in deinem Sparschwein begonnen, als du für %2$d begonnen hast."
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Du hast mit %1$d in deinem Sparschwein begonnen, als du für %2$d begonnen hast.",
+  "are_you_sure_popover_title": "PLZ_TRANSLATE Bist du sicher?",
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja, ich bin mir sicher"
 }
