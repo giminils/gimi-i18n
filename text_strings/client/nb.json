@@ -1409,5 +1409,7 @@
   "share_app_popover_text": "PLZ_TRANSLATE Jeg har en app som gjør at foreldrene mine virkelig kan gi meg min ukentlig / månedlig godtgjørelse som de lovet.",
   "share_app_popover_shared_text": "PLZ_TRANSLATE Jeg har en app som gjør at foreldrene mine virkelig kan gi meg min Ukentlig / Månedlig godtgjørelse som de lovet. Får du ditt ukentlige / månedlige godtgjørelse?\nFå den på AppStore eller Google Play",
   "goal_map_pie_amount": "PLZ_TRANSLATE Av %1$d",
-  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Innledende kapital"
+  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Innledende kapital",
+  "child_task_share_popover_title": "PLZ_TRANSLATE Del oppgaven din!",
+  "child_task_share_popover_text": "PLZ_TRANSLATE Godt jobba! Del oppgaven din"
 }

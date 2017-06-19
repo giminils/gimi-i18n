@@ -1409,5 +1409,7 @@
   "share_app_popover_text": "PLZ_TRANSLATE Ich habe eine App, die es meinen Eltern erlaubt, mir meine wöchentliche / monatliche Vergütung zu geben, wie sie es versprochen haben.",
   "share_app_popover_shared_text": "PLZ_TRANSLATE Ich habe eine App, die meinen Eltern erlaubt, mir wirklich meine wöchentliche / monatliche Zulage zu geben, wie sie versprochen haben. Erhalten Sie Ihre wöchentliche / monatliche Vergütung?\nHolen Sie es auf AppStore oder Google Play",
   "goal_map_pie_amount": "PLZ_TRANSLATE Von %1$d",
-  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Startkapital"
+  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Startkapital",
+  "child_task_share_popover_title": "PLZ_TRANSLATE Teilen Sie Ihre Aufgabe!",
+  "child_task_share_popover_text": "PLZ_TRANSLATE Gute Arbeit! Teilen Sie Ihre Aufgabe"
 }

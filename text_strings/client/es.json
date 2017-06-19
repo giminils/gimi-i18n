@@ -1409,5 +1409,7 @@
   "share_app_popover_text": "PLZ_TRANSLATE Tengo una aplicación que permite a mis padres que realmente me dan mi subsidio semanal / mensual, como lo prometieron.",
   "share_app_popover_shared_text": "PLZ_TRANSLATE Tengo una aplicación que permite a mis padres a que realmente me dan mi asignación semanal / mensual como prometieron. ¿Recibe su subsidio semanal / mensual?\nConsígalo en AppStore o Google Play",
   "goal_map_pie_amount": "PLZ_TRANSLATE De %1$d",
-  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capital inicial"
+  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capital inicial",
+  "child_task_share_popover_title": "PLZ_TRANSLATE ¡Comparte tu tarea!",
+  "child_task_share_popover_text": "PLZ_TRANSLATE ¡Buen trabajo! Comparta su tarea"
 }

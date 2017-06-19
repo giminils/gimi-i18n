@@ -1409,5 +1409,7 @@
   "share_app_popover_text": "PLZ_TRANSLATE Ho un'applicazione che permette ai miei genitori di dare veramente la mia indennità settimanale / mensile come hanno promesso.",
   "share_app_popover_shared_text": "PLZ_TRANSLATE Ho un'applicazione che permette ai miei genitori di darmi veramente la mia indennità settimanale / mensile come hanno promesso. Ricevi l'indennità settimanale / mensile?\nOttenerlo su AppStore o su Google Play",
   "goal_map_pie_amount": "PLZ_TRANSLATE Di %1$d",
-  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capitale iniziale"
+  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capitale iniziale",
+  "child_task_share_popover_title": "PLZ_TRANSLATE Condividi il tuo compito!",
+  "child_task_share_popover_text": "PLZ_TRANSLATE Buon lavoro! Condividi il tuo compito"
 }

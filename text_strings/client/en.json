@@ -1409,5 +1409,7 @@
   "share_app_popover_text": "I have an app that allows my parents to really give me my weekly/monthly allowance as they promised.",
   "share_app_popover_shared_text": "I have an app that allows my parents to really give me my Weekly/Monthly allowance as they promised. Do you receive your weekly/monthly allowance?\nGet it on AppStore or Google Play",
   "goal_map_pie_amount": "Of %1$d",
-  "goal_map_pie_starting_amount": "Initial capital"
+  "goal_map_pie_starting_amount": "Initial capital",
+  "child_task_share_popover_title": "Share your task!",
+  "child_task_share_popover_text": "Good work! Share your task"
 }
