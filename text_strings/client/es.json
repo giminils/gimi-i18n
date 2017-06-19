@@ -1416,5 +1416,6 @@
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Empezó con %1$d en su alcancía cuando empezó a guardar para %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE ¿Estás seguro?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Sí estoy seguro",
-  "delete_child_history_desc": "PLZ_TRANSLATE Al hacer clic en Sí a continuación, todo el historial (transacciones, objetivos de ahorro y tareas) desaparecerá, así como la asignación y la cuenta de ahorros se restaurará a sus valores originales. Los padres vinculados y las cuentas bancarias no desaparecerán."
+  "delete_child_history_desc": "PLZ_TRANSLATE Al hacer clic en Sí a continuación, todo el historial (transacciones, objetivos de ahorro y tareas) desaparecerá, así como la asignación y la cuenta de ahorros se restaurará a sus valores originales. Los padres vinculados y las cuentas bancarias no desaparecerán.",
+  "delete_child_history": "PLZ_TRANSLATE Borrar historial"
 }
