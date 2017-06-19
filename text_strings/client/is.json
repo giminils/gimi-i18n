@@ -1408,5 +1408,6 @@
   "share_app_popover_title": "PLZ_TRANSLATE %1$d skipuleggur peningana",
   "share_app_popover_text": "PLZ_TRANSLATE Ég er með forrit sem leyfir foreldrum mínum að gefa mér vikulega / mánaðarlega endurgreiðslu eins og þeir lofuðu.",
   "share_app_popover_shared_text": "PLZ_TRANSLATE Ég er með forrit sem gerir foreldrum mínum kleift að gefa mér vikulega / mánaðarlega endurgreiðslu eins og þeir lofuðu. Færðu vikulega / mánaðarlega greiðsluna þína?\nFáðu það á AppStore eða Google Play",
-  "goal_map_pie_amount": "PLZ_TRANSLATE Af %1$d"
+  "goal_map_pie_amount": "PLZ_TRANSLATE Af %1$d",
+  "goal_map_pie_starting_amount": "PLZ_TRANSLATE Upphaflegt eigið fé"
 }
