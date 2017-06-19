@@ -1415,5 +1415,6 @@
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Vanem abi on aktiveeritud.\nKui jõuate %1$d, oma vanema maksab viimase %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Sa algas %1$d oma notsu panga kui sa hakkasid säästa %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Oled sa kindel?",
-  "are_you_sure_popover_yes": "PLZ_TRANSLATE Jah, ma olen kindel"
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Jah, ma olen kindel",
+  "delete_child_history_desc": "PLZ_TRANSLATE Kui klõpsate Jah allpool kogu ajalugu (tehingute kokkuhoid eesmärgid ja ülesanded) kaob samuti toetust ja hoiuarve taastatakse selle algne väärtusi. Seotud vanemad ja pangakontod ei kao."
 }

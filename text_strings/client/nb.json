@@ -1415,5 +1415,6 @@
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Foreldrehjelp har blitt aktivert.\nNår du når %1$d, betaler foreldrene dine den siste %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Du startet med %1$d i spargrisen din når du begynte å lagre for %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Er du sikker?",
-  "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja jeg er sikker"
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja jeg er sikker",
+  "delete_child_history_desc": "PLZ_TRANSLATE Når du klikker Ja nedenfor, forsvinner all historikk (transaksjoner, besparelsesmål og oppgaver), samt godtgjørelsen og sparekontoen blir gjenopprettet til de opprinnelige verdiene. Forbundne foreldre og bankkontoer forsvinner ikke."
 }

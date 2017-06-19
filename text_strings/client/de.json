@@ -1415,5 +1415,6 @@
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Elternhilfe wurde aktiviert.\nWenn Sie %1$d erreichen, wird Ihr Elternteil die letzten %2$d bezahlen.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Du hast mit %1$d in deinem Sparschwein begonnen, als du für %2$d begonnen hast.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Bist du sicher?",
-  "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja, ich bin mir sicher"
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja, ich bin mir sicher",
+  "delete_child_history_desc": "PLZ_TRANSLATE Wenn Sie auf Ja klicken, verschwindet der gesamte Verlauf (Transaktionen, Sparziele und Aufgaben) sowie die Vergütung und das Sparkonto wird auf seine ursprünglichen Werte wiederhergestellt. Verknüpfte Eltern und Bankkonten werden nicht verschwinden."
 }

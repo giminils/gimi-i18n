@@ -1415,5 +1415,6 @@
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE L'aiuto genitore è stato attivato.\nQuando raggiungete %1$d, il tuo genitore pagherà l'ultimo %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Hai iniziato con %1$d nella tua banca salvadana quando hai iniziato a risparmiare per %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Sei sicuro?",
-  "are_you_sure_popover_yes": "PLZ_TRANSLATE Sì sono sicuro"
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Sì sono sicuro",
+  "delete_child_history_desc": "PLZ_TRANSLATE Quando si sceglie Sì sotto, tutte le cronache (transazioni, obiettivi e attività di risparmio) scompaiono, così come l'account di indennità e il risparmio verranno ripristinati ai valori originali. I genitori collegati ei conti bancari non scompariranno."
 }

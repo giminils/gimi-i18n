@@ -1415,5 +1415,6 @@
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Vanhemman apua on aktivoitu.\nKun saavutat %1$d, vanhempasi maksaa viimeinen %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Aloitit %1$d oman säästöpossu kun alkoi säästää %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Oletko varma?",
-  "are_you_sure_popover_yes": "PLZ_TRANSLATE Kyllä, olen varma"
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Kyllä, olen varma",
+  "delete_child_history_desc": "PLZ_TRANSLATE Kun klikkaamalla Kyllä alla, kaikki historia (transaktioiden säästöjä tavoitteet ja tehtävät) katoavat sekä korvauksen ja säästötilin palautuu alkuperäiseen arvoja. Liittyy vanhemmat ja pankkitilit eivät katoa."
 }

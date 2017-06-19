@@ -1415,5 +1415,6 @@
   "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE L'aide parentale a été activée.\nLorsque vous arrivez au %1$d, votre parent paiera le dernier %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Vous avez commencé avec %1$d dans votre tirelire lorsque vous avez commencé à économiser pour %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Êtes-vous sûr?",
-  "are_you_sure_popover_yes": "PLZ_TRANSLATE Oui, je suis sûr"
+  "are_you_sure_popover_yes": "PLZ_TRANSLATE Oui, je suis sûr",
+  "delete_child_history_desc": "PLZ_TRANSLATE Lorsque vous cliquez sur Oui ci-dessous, tout l'historique (transactions, objectifs d'économies et tâches) disparaîtra ainsi que l'allocation et le compte d'épargne sera restauré à ses valeurs d'origine. Les parents liés et les comptes bancaires ne disparaîtront pas."
 }
