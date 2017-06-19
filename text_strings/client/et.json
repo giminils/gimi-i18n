@@ -1407,5 +1407,6 @@
   "transaction_amount_illigal": "PLZ_TRANSLATE Seda tüüpi tehing ei tohiks olla alla 0",
   "share_app_popover_title": "PLZ_TRANSLATE %1$d korraldab raha",
   "share_app_popover_text": "PLZ_TRANSLATE Mul on rakendus, mis võimaldab mu vanemad tõesti mulle mu nädala / kuu toetust, kui nad lubasid.",
-  "share_app_popover_shared_text": "PLZ_TRANSLATE Mul on rakendus, mis võimaldab mu vanemad tõesti mulle mu Weekly / igakuine toetus nagu nad lubasid. Kas saate oma nädala / kuu elatusraha?\nHankige see AppStore või Google Play"
+  "share_app_popover_shared_text": "PLZ_TRANSLATE Mul on rakendus, mis võimaldab mu vanemad tõesti mulle mu Weekly / igakuine toetus nagu nad lubasid. Kas saate oma nädala / kuu elatusraha?\nHankige see AppStore või Google Play",
+  "goal_map_pie_amount": "PLZ_TRANSLATE of %1$d"
 }

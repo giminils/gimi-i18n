@@ -1407,5 +1407,6 @@
   "transaction_amount_illigal": "PLZ_TRANSLATE Tällaiseen toimintaan ei pitäisi olla alle 0",
   "share_app_popover_title": "PLZ_TRANSLATE %1$d järjestää rahat",
   "share_app_popover_text": "PLZ_TRANSLATE Olen sovellus, jonka avulla vanhempani todella antaa minulle viikossa / kuukaudessa päivärahaa he lupasivat.",
-  "share_app_popover_shared_text": "PLZ_TRANSLATE Olen sovellus, jonka avulla vanhempani todella antaa minulle viikossa / kuukaudessa päivärahaa he lupasivat. Saatteko viikoittain / kuukausittaisen korvauksen?\nGet it AppStore tai Google Play"
+  "share_app_popover_shared_text": "PLZ_TRANSLATE Olen sovellus, jonka avulla vanhempani todella antaa minulle viikossa / kuukaudessa päivärahaa he lupasivat. Saatteko viikoittain / kuukausittaisen korvauksen?\nGet it AppStore tai Google Play",
+  "goal_map_pie_amount": "PLZ_TRANSLATE of %1$d"
 }

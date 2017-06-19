@@ -1418,5 +1418,6 @@
   "transaction_amount_illigal": "Denna typ av transaktion ska inte vara under 0",
   "share_app_popover_title": "%1$d ordnar pengarna",
   "share_app_popover_text": "Jag har en app som gör så att mina föräldrar verkligen ger mig Veckopeng/Månadspeng som de lovat.",
-  "share_app_popover_shared_text": "Jag har en app som gör så att mina föräldrar verkligen ger mig Veckopeng/Månadspeng som de lovat. Får du din veckopeng/månadspeng hela tiden?\nSkaffa på AppStore eller Google Play"
+  "share_app_popover_shared_text": "Jag har en app som gör så att mina föräldrar verkligen ger mig Veckopeng/Månadspeng som de lovat. Får du din veckopeng/månadspeng hela tiden?\nSkaffa på AppStore eller Google Play",
+  "goal_map_pie_amount": "av %1$d"
 }

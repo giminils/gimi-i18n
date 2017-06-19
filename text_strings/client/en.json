@@ -1407,5 +1407,6 @@
   "transaction_amount_illigal": "This type of transaction should not be under 0",
   "share_app_popover_title": "%1$d arranges the money",
   "share_app_popover_text": "I have an app that allows my parents to really give me my weekly/monthly allowance as they promised.",
-  "share_app_popover_shared_text": "I have an app that allows my parents to really give me my Weekly/Monthly allowance as they promised. Do you receive your weekly/monthly allowance?\nGet it on AppStore or Google Play"
+  "share_app_popover_shared_text": "I have an app that allows my parents to really give me my Weekly/Monthly allowance as they promised. Do you receive your weekly/monthly allowance?\nGet it on AppStore or Google Play",
+  "goal_map_pie_amount": "Of %1$d"
 }

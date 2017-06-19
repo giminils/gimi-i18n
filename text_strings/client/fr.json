@@ -1407,5 +1407,6 @@
   "transaction_amount_illigal": "PLZ_TRANSLATE Ce type de transaction ne doit pas être inférieur à 0",
   "share_app_popover_title": "PLZ_TRANSLATE %1$d organise l'argent",
   "share_app_popover_text": "PLZ_TRANSLATE J'ai une application qui permet à mes parents de me donner vraiment mon allocation hebdomadaire / mensuelle comme ils l'ont promis.",
-  "share_app_popover_shared_text": "PLZ_TRANSLATE J'ai une application qui permet à mes parents de me donner vraiment mon allocation hebdomadaire / mensuelle comme ils l'ont promis. Recevez-vous votre allocation hebdomadaire / mensuelle?\nObtenez-le sur AppStore ou Google Play"
+  "share_app_popover_shared_text": "PLZ_TRANSLATE J'ai une application qui permet à mes parents de me donner vraiment mon allocation hebdomadaire / mensuelle comme ils l'ont promis. Recevez-vous votre allocation hebdomadaire / mensuelle?\nObtenez-le sur AppStore ou Google Play",
+  "goal_map_pie_amount": "PLZ_TRANSLATE De %1$d"
 }
