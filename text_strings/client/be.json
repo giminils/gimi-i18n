@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE з %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE першапачатковы капітал",
   "child_task_share_popover_title": "PLZ_TRANSLATE Падзяліцеся задачай!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Добрая праца! Падзяліцеся задачы"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Добрая праца! Падзяліцеся задачы",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Бацька дапамога была актываваная.\nКалі вы дасягне %1$d, вашы бацькі будуць плаціць апошні %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Вы пачалі з %1$d ў вашай скарбонцы, калі вы пачалі эканоміць на %2$d."
 }

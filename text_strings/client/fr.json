@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE De %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Le capital initial",
   "child_task_share_popover_title": "PLZ_TRANSLATE Partagez votre tâche!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Bon travail! Partagez votre tâche"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Bon travail! Partagez votre tâche",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE L'aide parentale a été activée.\nLorsque vous arrivez au %1$d, votre parent paiera le dernier %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Vous avez commencé avec %1$d dans votre tirelire lorsque vous avez commencé à économiser pour %2$d."
 }

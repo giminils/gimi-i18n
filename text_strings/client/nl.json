@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE Van %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Startkapitaal",
   "child_task_share_popover_title": "PLZ_TRANSLATE Deel je taak!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Goed werk! Deel uw taak"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Goed werk! Deel uw taak",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Ouderhulp is geactiveerd.\nAls u %1$d bereikt, betaalt uw ouder de laatste %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Je begon met %1$d in je spaarpot als je begon te sparen voor %2$d."
 }

@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE Af %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Upphaflegt eigið fé",
   "child_task_share_popover_title": "PLZ_TRANSLATE Deila verkefni þínu!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Góð vinna! Deila verkefni þínu"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Góð vinna! Deila verkefni þínu",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Foreldraaðstoð hefur verið virkjað.\nÞegar þú nærð %1$d mun foreldri þinn greiða síðasta %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Þú byrjaðir með %1$d í grís bankanum þínum þegar þú byrjaðir að vista fyrir %2$d."
 }

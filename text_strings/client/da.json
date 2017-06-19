@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE Af %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Indledende kapital",
   "child_task_share_popover_title": "PLZ_TRANSLATE Del din opgave!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Godt arbejde! Del din opgave"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Godt arbejde! Del din opgave",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Forældrehjælp er blevet aktiveret.\nNår du når %1$d, betaler din forælder den sidste %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Du startede med %1$d i din sparegris, da du begyndte at gemme %2$d."
 }

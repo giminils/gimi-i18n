@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE Di %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capitale iniziale",
   "child_task_share_popover_title": "PLZ_TRANSLATE Condividi il tuo compito!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Buon lavoro! Condividi il tuo compito"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Buon lavoro! Condividi il tuo compito",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE L'aiuto genitore è stato attivato.\nQuando raggiungete %1$d, il tuo genitore pagherà l'ultimo %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Hai iniziato con %1$d nella tua banca salvadana quando hai iniziato a risparmiare per %2$d."
 }

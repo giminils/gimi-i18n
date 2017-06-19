@@ -1411,5 +1411,7 @@
   "goal_map_pie_amount": "PLZ_TRANSLATE of %1$d",
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE alkupääomaa",
   "child_task_share_popover_title": "PLZ_TRANSLATE Jaa tehtävä!",
-  "child_task_share_popover_text": "PLZ_TRANSLATE Hyvää työtä! Jaa tehtävän"
+  "child_task_share_popover_text": "PLZ_TRANSLATE Hyvää työtä! Jaa tehtävän",
+  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Vanhemman apua on aktivoitu.\nKun saavutat %1$d, vanhempasi maksaa viimeinen %2$d.",
+  "goal_pie_chart_start_child": "PLZ_TRANSLATE Aloitit %1$d oman säästöpossu kun alkoi säästää %2$d."
 }
