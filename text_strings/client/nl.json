@@ -1417,5 +1417,6 @@
   "are_you_sure_popover_title": "PLZ_TRANSLATE Weet je het zeker?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja ik weet het zeker",
   "delete_child_history_desc": "PLZ_TRANSLATE Wanneer u op Ja klikt, verdwijnt alle geschiedenis (transacties, besparingsdoelstellingen en taken) evenals de vergoeding en de spaarrekening wordt hersteld naar de oorspronkelijke waarden. Gekoppelde ouders en bankrekeningen zullen niet verdwijnen.",
-  "delete_child_history": "PLZ_TRANSLATE Verwijder de geschiedenis"
+  "delete_child_history": "PLZ_TRANSLATE Verwijder de geschiedenis",
+  "task_history_iterations": "PLZ_TRANSLATE Voerde %1$d keer voor"
 }

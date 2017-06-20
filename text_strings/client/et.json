@@ -1417,5 +1417,6 @@
   "are_you_sure_popover_title": "PLZ_TRANSLATE Oled sa kindel?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Jah, ma olen kindel",
   "delete_child_history_desc": "PLZ_TRANSLATE Kui klõpsate Jah allpool kogu ajalugu (tehingute kokkuhoid eesmärgid ja ülesanded) kaob samuti toetust ja hoiuarve taastatakse selle algne väärtusi. Seotud vanemad ja pangakontod ei kao.",
-  "delete_child_history": "PLZ_TRANSLATE Kustuta ajalugu"
+  "delete_child_history": "PLZ_TRANSLATE Kustuta ajalugu",
+  "task_history_iterations": "PLZ_TRANSLATE Läbi %1$d korda enne"
 }
