@@ -109,7 +109,7 @@
   "push_monthly_allowance_pre_payout_parent_3": "Es ist Zeit für {child}s monatliches Taschengeld!",
   "push_monthly_allowance_pre_payout_parent_4": "Es ist Zeit für {child}'s monatliches Taschengeld!",
   "push_weekly_assignment_0": "Heute kannst du die Aufgabe {task} für {value} erledigen, was für eine tolle Möglichkeit!",
-  "push_weekly_assignment_1": "Was ein schöner Tag! Heute kannst Du {value} verdienen! Öffne die App und sieh Dir die zu erledigende Aufgabe an!",
+  "push_weekly_assignment_1": "Was für ein schöner Tag! Heute kannst Du {value} verdienen! Öffne die App und sieh Dir die zu erledigende Aufgabe an!",
   "push_weekly_assignment_2": "Du hast eine neue Aufgabe {task} erhalten, guck Dir an, was Du Dir verdienen kannst!",
   "push_weekly_assignment_3": "Hurra, eine neue Aufgabe! Du kannst um {value} reicher werden! Kontrolliere schnell, was zu tun ist!",
   "push_weekly_assignment_4": "{task} ist Deine neue Aufgabe! Schnell, sieh Dir an, was Du Dir verdienen kannst!",
