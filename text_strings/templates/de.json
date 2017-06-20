@@ -1,8 +1,8 @@
 {
-  "task_category_name_cleaning": "PLZ_TRANSLATE Cleaning",
-  "task_category_description_school": "PLZ_TRANSLATE For keeping everything fresh & clean",
-  "task_category_name_school": "PLZ_TRANSLATE School",
-  "task_category_description_cleaning": "PLZ_TRANSLATE For a good school attendance",
+  "task_category_name_cleaning": "Reinigung",
+  "task_category_description_school": "Um alles frisch und sauber zu halten",
+  "task_category_name_school": "Schule",
+  "task_category_description_cleaning": "Gute Teilnahme am Schulunterricht",
   "task_category_name_laundry": "PLZ_TRANSLATE Laundry",
   "task_category_description_laundry": "PLZ_TRANSLATE For help with laundry",
   "task_category_name_kitchen": "PLZ_TRANSLATE Kitchen help",
