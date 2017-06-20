@@ -1418,5 +1418,6 @@
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja jeg er sikker",
   "delete_child_history_desc": "PLZ_TRANSLATE Når du klikker Ja nedenfor, forsvinner all historikk (transaksjoner, besparelsesmål og oppgaver), samt godtgjørelsen og sparekontoen blir gjenopprettet til de opprinnelige verdiene. Forbundne foreldre og bankkontoer forsvinner ikke.",
   "delete_child_history": "PLZ_TRANSLATE Slett historie",
-  "task_history_iterations": "PLZ_TRANSLATE Utført %1$d ganger før"
+  "task_history_iterations_multiple": "PLZ_TRANSLATE Utført %1$d ganger før",
+  "task_history_iterations_once": "PLZ_TRANSLATE Utført %1$d en gang før"
 }

@@ -1418,5 +1418,6 @@
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Sí estoy seguro",
   "delete_child_history_desc": "PLZ_TRANSLATE Al hacer clic en Sí a continuación, todo el historial (transacciones, objetivos de ahorro y tareas) desaparecerá, así como la asignación y la cuenta de ahorros se restaurará a sus valores originales. Los padres vinculados y las cuentas bancarias no desaparecerán.",
   "delete_child_history": "PLZ_TRANSLATE Borrar historial",
-  "task_history_iterations": "PLZ_TRANSLATE Realizado %1$d veces antes"
+  "task_history_iterations_multiple": "PLZ_TRANSLATE Realizado %1$d veces antes",
+  "task_history_iterations_once": "PLZ_TRANSLATE Realizado %1$d una vez antes"
 }
