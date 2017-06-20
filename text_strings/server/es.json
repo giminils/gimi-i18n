@@ -85,7 +85,7 @@
   "push_disabled_task_created": "¡{child} ha propuesto una tarea {task}!",
   "push_weekly_payout_message_parent": "{amount} de la asignación semanal fue transferido a la cuenta bancaria de {child}.",
   "push_monthly_payout_message_parent": "{amount} de la asignación mensual fue transferido a la cuenta bancaria de {child}.",
-  "push_charge_message_parent": "Actualmente {amount} serán transferidos mañana a la cuenta bancaria de {child}",
+  "push_charge_message_parent": "Hasta el momento, {amount} serán transferidos a la cuenta bancaria de {child} mañana",
   "dashboard_disabled_task_created": "Tarea sugerida {task}.",
   "push_trustly_mandate_revoked": "Tu cuenta bancaria está desconectada, actualiza tu información para utilizar transferencias bancarias.",
   "push_weekly_allowance_pre_payout_0": "¡Tiempo para su asignación semanal!",
