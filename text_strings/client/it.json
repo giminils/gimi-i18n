@@ -1419,5 +1419,6 @@
   "delete_child_history_desc": "PLZ_TRANSLATE Quando si sceglie Sì sotto, tutte le cronache (transazioni, obiettivi e attività di risparmio) scompaiono, così come l'account di indennità e il risparmio verranno ripristinati ai valori originali. I genitori collegati ei conti bancari non scompariranno.",
   "delete_child_history": "PLZ_TRANSLATE Cancellare la cronologia",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Eseguito %1$d volte prima",
-  "task_history_iterations_once": "PLZ_TRANSLATE Eseguito %1$d una volta prima"
+  "task_history_iterations_once": "PLZ_TRANSLATE Eseguito %1$d una volta prima",
+  "boost": "Boost"
 }

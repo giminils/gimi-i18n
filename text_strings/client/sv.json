@@ -1430,5 +1430,6 @@
   "delete_child_history_desc": "Vi klick på Ja nedan kommer all historik (transaktioner, sparmål och uppgifter) försvinna samt veckopengen och sparkontot kommer återställas till ursprungliga värden. Länkade föräldrar och bankkonton kommer inte att försvinna.",
   "delete_child_history": "Radera historik",
   "task_history_iterations_multiple": "Utförd %1$d gånger förut",
-  "task_history_iterations_once": "Utförd %1$d gång förut"
+  "task_history_iterations_once": "Utförd %1$d gång förut",
+  "boost": "Boost"
 }

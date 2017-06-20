@@ -1419,5 +1419,6 @@
   "delete_child_history_desc": "PLZ_TRANSLATE Når du klikker på Ja nedenfor, forsvinder al historik (transaktioner, besparelsesmål og opgaver) såvel som godtgørelsen og opsparingskontoen genoprettes til de oprindelige værdier. Forbundne forældre og bankkonti forsvinder ikke.",
   "delete_child_history": "PLZ_TRANSLATE Slet historik",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Udført %1$d gange før",
-  "task_history_iterations_once": "PLZ_TRANSLATE Udført %1$d en gang før"
+  "task_history_iterations_once": "PLZ_TRANSLATE Udført %1$d en gang før",
+  "boost": "Boost"
 }
