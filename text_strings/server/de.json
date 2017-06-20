@@ -6,7 +6,7 @@
   "push_withdrawal_child": "{transaction.created_by.name} wurde abgehoben {transaction.str_value} von dem virtuellen Sparschwein",
   "push_withdrawal_parent": "{transaction.created_by.name} wurde abgehoben {transaction.str_value} von {transaction.child.name}s virtuellem Sparschwein",
   "push_timed_assignment_expired": "Keine Belohnung! Die Zeit ist abgelaufen für {assignment.task.title}.",
-  "push_connected_with_parent": "PLZ_TRANSLATE Juchu! Du bist jetzt mit einem Elternteil verbunden!",
+  "push_connected_with_parent": "Juchu! Du bist jetzt mit einem Elternteil verbunden!",
   "push_invite_accepted": "{user} hat Deine Anfrage angenommen!",
   "push_new_assignment": "PLZ_TRANSLATE Yihaa! You have got a new task!",
   "push_assignment_active_again": "PLZ_TRANSLATE Task {assignment.task.title} is available again. First come, first served!",
