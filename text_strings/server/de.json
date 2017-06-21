@@ -134,8 +134,8 @@
   "push_goal_sponsored": "{goal.updated_by.name} sponserte das Sparziel {goal.title}!",
   "push_goal_boost_decreased": "Du hast einen Bonus für Dein Sparziel verpasst!",
   "push_goal_boosts_decreased": "Du hast einen Bonus für dein Sparziel verpasst!",
-  "dashboard_goal_boost_decreased": "PLZ_CHECK Verloren einen Aufschwung auf Sparkurskarte.",
-  "dashboard_goal_boosts_decreased": "PLZ_CHECK Verlorene Verstärkung auf Sparkurskarte.",
+  "dashboard_goal_boost_decreased": "Ein Bonus für das Sparziel wurde verpasst.",
+  "dashboard_goal_boosts_decreased": "Ein Bonus für das Sparziel wurde verpasst.",
   "push_goal_almost_completed": "Gut gemacht! Du hast Dein Sparziel fast erreicht !",
   "push_duration_assignment_created": "PLZ_TRANSLATE Du hast eine neue Aufgabe zugewiesen!"
 }
