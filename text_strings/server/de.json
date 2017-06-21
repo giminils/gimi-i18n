@@ -136,5 +136,6 @@
   "push_goal_boosts_decreased": "Du hast einen Bonus für dein Sparziel verpasst!",
   "dashboard_goal_boost_decreased": "PLZ_CHECK Verloren einen Aufschwung auf Sparkurskarte.",
   "dashboard_goal_boosts_decreased": "PLZ_CHECK Verlorene Verstärkung auf Sparkurskarte.",
-  "push_goal_almost_completed": "Gut gemacht! Du hast Dein Sparziel fast erreicht !"
+  "push_goal_almost_completed": "Gut gemacht! Du hast Dein Sparziel fast erreicht !",
+  "push_new_duration_assignment": "PLZ_TRANSLATE Du hast eine neue Aufgabe zugewiesen!"
 }

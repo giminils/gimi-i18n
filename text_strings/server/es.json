@@ -136,5 +136,6 @@
   "push_goal_boosts_decreased": "¡Ha perdido el aumento en su mapa de metas de ahorro!",
   "dashboard_goal_boost_decreased": "Perdió el impulso en el mapa de metas de ahorro.",
   "dashboard_goal_boosts_decreased": "Aumento perdido en el mapa de metas de ahorro.",
-  "push_goal_almost_completed": "¡Buen trabajo! ¡Casi ha terminado con su meta de ahorro!"
+  "push_goal_almost_completed": "¡Buen trabajo! ¡Casi ha terminado con su meta de ahorro!",
+  "push_new_duration_assignment": "PLZ_TRANSLATE ¡Te han asignado una nueva tarea!"
 }

@@ -136,5 +136,6 @@
   "push_goal_boosts_decreased": "PLZ_TRANSLATE Olete kaotanud suurendab oma säästud eesmärk kaarti!",
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Kaotatud hoogu hoiuste eesmärk kaardil.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Kaotatud suurendab hoiuste eesmärk kaardil.",
-  "push_goal_almost_completed": "PLZ_TRANSLATE Hea töö! Olete peaaegu valmis oma säästud eesmärk!"
+  "push_goal_almost_completed": "PLZ_TRANSLATE Hea töö! Olete peaaegu valmis oma säästud eesmärk!",
+  "push_new_duration_assignment": "PLZ_TRANSLATE Sind on uue ülesande!"
 }

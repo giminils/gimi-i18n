@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "No reward! The time has run out for {assignment.task.title}.",
   "push_connected_with_parent": "JippiKaYeah! You are now connected to a parent!",
   "push_invite_accepted": "{user} has accepted your invitation!",
-  "push_new_assignment": "Yihaa! You have got a new task!",
+  "push_new_assignment": "Yihaa! You've been assigned a new task!",
   "push_assignment_active_again": "Task {assignment.task.title} is available again. First come, first served!",
   "push_assignment_done": "{assignment.child.name} executed right now {assignment.task.title}!",
   "push_assignment_done_by_other": "You weren't quick enough! {child.name} finished {assignment.task.title} before you.",
@@ -136,5 +136,6 @@
   "push_goal_boosts_decreased": "You've lost boosts on your savings goal map!",
   "dashboard_goal_boost_decreased": "Lost a boost on savings goal map.",
   "dashboard_goal_boosts_decreased": "Lost boosts on savings goal map.",
-  "push_goal_almost_completed": "Good work! You're almost done with your savings goal!"
+  "push_goal_almost_completed": "Good work! You're almost done with your savings goal!",
+  "push_new_duration_assignment": "You've been assigned a new task!"
 }
