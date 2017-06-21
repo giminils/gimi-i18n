@@ -1420,5 +1420,6 @@
   "delete_child_history": "PLZ_TRANSLATE Kustuta ajalugu",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Läbi %1$d korda enne",
   "task_history_iterations_once": "PLZ_TRANSLATE Läbi %1$d kord enne",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "PLZ_TRANSLATE Juurdepääs kaamera eitas"
 }

@@ -1420,5 +1420,6 @@
   "delete_child_history": "PLZ_TRANSLATE Eyða sögu",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Framkvæma %1$d sinnum áður",
   "task_history_iterations_once": "PLZ_TRANSLATE Framkvæmdi %1$d einu sinni áður",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "PLZ_TRANSLATE Aðgangur að myndavél hafnað"
 }

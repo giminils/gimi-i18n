@@ -1420,5 +1420,6 @@
   "delete_child_history": "Delete history",
   "task_history_iterations_multiple": "Performed %1$d times before",
   "task_history_iterations_once": "Performed %1$d once before",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "Access to camera denied"
 }

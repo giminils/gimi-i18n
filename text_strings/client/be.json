@@ -1420,5 +1420,6 @@
   "delete_child_history": "PLZ_TRANSLATE выдаліць гісторыю",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Якія выконваюцца %1$d разоў да",
   "task_history_iterations_once": "PLZ_TRANSLATE Выкананы %1$d аднойчы",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "PLZ_TRANSLATE Доступ да камеры адмоўлена"
 }

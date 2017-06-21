@@ -1420,5 +1420,6 @@
   "delete_child_history": "PLZ_TRANSLATE Slet historik",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Udført %1$d gange før",
   "task_history_iterations_once": "PLZ_TRANSLATE Udført %1$d en gang før",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "PLZ_TRANSLATE Adgang til kamera nægtet"
 }

@@ -1420,5 +1420,6 @@
   "delete_child_history": "PLZ_TRANSLATE Poista historia",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Esityskieli %1$d kertaa ennen",
   "task_history_iterations_once": "PLZ_TRANSLATE Esityskieli %1$d kerran ennen",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "PLZ_TRANSLATE Pääsy kameraan estetty"
 }

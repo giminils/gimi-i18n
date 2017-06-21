@@ -1420,5 +1420,6 @@
   "delete_child_history": "PLZ_TRANSLATE Verlauf löschen",
   "task_history_iterations_multiple": "PLZ_TRANSLATE Gelöst %1$d mal vor",
   "task_history_iterations_once": "PLZ_TRANSLATE Vorbereitet %1$d einmal vor",
-  "boost": "Boost"
+  "boost": "Boost",
+  "camera_permission_denied": "PLZ_TRANSLATE Zugang zur Kamera verweigert"
 }
