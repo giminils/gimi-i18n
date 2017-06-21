@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "A Perdu un gain sur la carte des objectifs d'épargne.",
   "dashboard_goal_boosts_decreased": "Les gains perdus sur la carte des objectifs d'épargne.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Bon travail! Vous avez presque fini avec votre objectif d'épargne!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE On vous a assigné une nouvelle tâche!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE On vous a assigné une nouvelle tâche!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} tâche créée: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} tâche mise à jour: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} tâche proposée: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE {user.name} tâche supprimée: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} tâche rejetée: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} tâche approuvée: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} n'a pas réussi à terminer la tâche: {assignment.task.title} à temps",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} tâche terminée {assignment.task.title} en premier",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} a créé l'objectif d'économie {goal.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} but d'économie mis à jour {goal.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} but d'économie retiré {goal.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} but d'économies complété {goal.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} a ajouté un nouveau souhait: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} souhaité mise à jour: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} souhaite supprimé: {wish.title}"
 }

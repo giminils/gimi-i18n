@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Mistet et løft på opsparingsmålkartet.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øger på opsparing mål map.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Godt arbejde! Du er næsten færdig med dit opsparingsmål!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE Du har fået en ny opgave!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Du har fået en ny opgave!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} oprettet opgave: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} opdateret opgave: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} foreslået opgave: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE {user.name} fjernet opgave: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} afvist opgave: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} godkendt opgave: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} lykkedes ikke at fuldføre opgaven: {assignment.task.title} i tide",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} gennemført opgave {assignment.task.title} først",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} oprettet besparelsesmål {target.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} opdateret besparelsesmål {target.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} fjernet besparelsesmål {target.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} gennemført besparelsesmål {target.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} tilføjede et nyt ønske: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} opdateret ønske: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} fjernet ønske: {wish.title}"
 }

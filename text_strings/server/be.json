@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Страчаны імпульс на зберажэнні мэты карты.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Страчаныя фарсіруе на зберажэнні мэты карты.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Добрая праца! Вы амаль скончылі з вашай ашчаднай мэтай!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE Вы былі прызначаныя новыя задачы!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Вы былі прызначаныя новыя задачы!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} створаная задача: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} абноўлена задача: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} прапанаваў задачу: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE {user.name} выдаленая задача: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} адвергнутая задача: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} зацверджана задача: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} не ўдалося выканаць задачу: {assignment.task.title} ў часе",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} завяршэння задачы {assignment.task.title} першы",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} стварыў ашчадную мэта {goal.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} абноўлена эканомія мэта {goal.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} выдаленая ашчадная мэта {goal.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name}  завершана ашчадных мэтаў {goal.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} дададзены новы пажаданне: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} абноўлена пажаданне: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} выдалены жаданне: {wish.title}"
 }

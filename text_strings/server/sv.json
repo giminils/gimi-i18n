@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "Tappade en boost på sparkartan.",
   "dashboard_goal_boosts_decreased": "Tappade flera boosts på sparkartan.",
   "push_goal_almost_completed": "Bra jobbat med sparandet! Du har nästan uppnått ett sparmål!",
-  "push_duration_assignment_created": "Yihaa! Du har fått en ny uppgift!"
+  "push_duration_assignment_created": "Yihaa! Du har fått en ny uppgift!",
+  "event_task_created": "{task.owner.name} har skapat uppgiften: {task.title}",
+  "event_task_updated": "{user.name} har ändrat uppgiften: {task.title}",
+  "event_task_suggested": "{task.owner.name} har förslagit uppgiften: {task.title}",
+  "event_task_deleted": "{user.name} har tagit bort uppgiften: {task.title}",
+  "event_assignment_rejected": "{user.name} har underkänt uppgiften: {assignment.task.title}",
+  "event_assignment_approved": "{assignment.approved_by.name} har godkänt uppgiften: {assignment.task.title}",
+  "event_assignment_expired": "{assignment.child.name} klarade inte uppgiften {assignment.task.title} innan tiden tog slut",
+  "event_assignment_completed_by_other": "{assignment.task.shared_task_completed_by} klarade uppgiften {assignment.task.title} innan dig",
+  "event_goal_created": "{goal.created_by.name} har skapat sparmålet {goal.title}",
+  "event_goal_updated": "{goal.updated_by.name} har uppdaterat sparmålet {goal.title}",
+  "event_goal_deleted": "{user.name} har tagit bort sparmålet {goal.title}",
+  "event_goal_completed": "{goal.child.name} har klarat sparmålet {goal.title}",
+  "event_wish_created": "{wish.child.name} har skapat en ny önskan i önskelistan: {wish.title}",
+  "event_wish_updated": "{wish.updated_by.name} har uppdaterat önskan: {wish.title}",
+  "event_wish_deleted": "{user.name} har tagit bort önskan: {wish.title}"
 }

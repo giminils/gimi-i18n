@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmið.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Lost uppörvun á sparnaðarmarkmiði.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Góð vinna! Þú ert næstum búinn með sparnaðarmarkmið þitt!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE Þú hefur fengið nýtt verkefni!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Þú hefur fengið nýtt verkefni!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} búin verkefni: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} uppfært verkefni: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} fyrirhugað verkefni: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE {user.name} fjarlægð verkefni: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} hafnað verkefni: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} samþykkt verkefni: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} tókst ekki að klára verkefni: {assignment.task.title} í tíma",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} lokið verkefni {assignment.task.title} fyrst",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} búið til sparnaðarmarkmið {goal.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} uppfært sparnaðarmarkmið {goal.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} fjarlægt sparnaðarmarkmið {goal.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} lokið sparnaði markmiði {goal.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} bætti við nýjum óskum: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} uppfært ósk: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} fjarlægt ósk: {wish.title}"
 }

@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "Lost a boost on savings goal map.",
   "dashboard_goal_boosts_decreased": "Lost boosts on savings goal map.",
   "push_goal_almost_completed": "Good work! You're almost done with your savings goal!",
-  "push_duration_assignment_created": "You've been assigned a new task!"
+  "push_duration_assignment_created": "You've been assigned a new task!",
+  "event_task_created": "{task.owner.name} created task: {task.title}",
+  "event_task_updated": "{user.name} updated task: {task.title}",
+  "event_task_suggested": "{task.owner.name} proposed task: {task.title}",
+  "event_task_deleted": "{user.name} removed task: {task.title}",
+  "event_assignment_rejected": "{user.name} rejected task: {assignment.task.title}",
+  "event_assignment_approved": "{assignment.approved_by.name} approved task: {assignment.task.title}",
+  "event_assignment_expired": "{assignment.child.name} didn't manage to complete task: {assignment.task.title} in time",
+  "event_assignment_completed_by_other": "{assignment.task.shared_task_completed_by} completed task {assignment.task.title} first",
+  "event_goal_created": "{goal.created_by.name} created savings goal {goal.title}",
+  "event_goal_updated": "{goal.updated_by.name} updated savings goal {goal.title}",
+  "event_goal_deleted": "{user.name} removed savings goal {goal.title}",
+  "event_goal_completed": "{goal.child.name} completed savings goal {goal.title}",
+  "event_wish_created": "{wish.child.name} added a new wish: {wish.title}",
+  "event_wish_updated": "{wish.updated_by.name} updated wish: {wish.title}",
+  "event_wish_deleted": "{user.name} removed wish: {wish.title}"
 }

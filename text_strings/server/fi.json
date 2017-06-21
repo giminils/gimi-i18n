@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "Olet menettänyt säästötavoitteesi boostin.",
   "dashboard_goal_boosts_decreased": "Olet menettänyt säästötavoitteidesi boostit.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Hyvää työtä! Melkein valmista kanssa säästöjä tavoite!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE Sinulle on annettu uusi tehtävä!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Sinulle on annettu uusi tehtävä!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} luotu tehtävä: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} päivitetty tehtävän: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} ehdotettu tehtävä: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE {user.name} poistettiin tehtävä: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} hylättiin tehtävä: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} hyväksytty tehtävä: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} ei onnistunut suorittaa tehtävän: {assignment.task.title} ajoissa",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} päätökseen tehtävä {assignment.task.title} ensimmäinen",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} luotu säästöt maalia {goal.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} päivitetty säästöt maalia {goal.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} poistettiin säästöt maalia {goal.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} päätökseen säästöt maalia {goal.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} lisätty uusi toive: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} päivitetty toivomus: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} poistettiin toive: {wish.title}"
 }

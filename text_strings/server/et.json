@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Kaotatud hoogu hoiuste eesmärk kaardil.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Kaotatud suurendab hoiuste eesmärk kaardil.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Hea töö! Olete peaaegu valmis oma säästud eesmärk!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE Sind on uue ülesande!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Sind on uue ülesande!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} loodud ülesanne: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} uuendatud ülesanne: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} ettepanek ülesanne: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE {user.name} eemaldati ülesanne: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} lükkas ülesanne: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} heaks ülesanne: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} ei suutnud täita ülesanne: {assignment.task.title} aeg",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} lõpule ülesanne {assignment.task.title} esimese",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} loodud säästukalkulaator {goal.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} uuendatud säästukalkulaator {goal.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} eemaldati säästukalkulaator {goal.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} lõpule säästukalkulaator {goal.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} logis soov: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} uuendatud soov: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} eemaldati soov: {wish.title}"
 }

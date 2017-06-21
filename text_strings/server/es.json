@@ -137,5 +137,20 @@
   "dashboard_goal_boost_decreased": "Perdió el impulso en el mapa de metas de ahorro.",
   "dashboard_goal_boosts_decreased": "Aumento perdido en el mapa de metas de ahorro.",
   "push_goal_almost_completed": "¡Buen trabajo! ¡Casi ha terminado con su meta de ahorro!",
-  "push_duration_assignment_created": "PLZ_TRANSLATE ¡Te han asignado una nueva tarea!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE ¡Te han asignado una nueva tarea!",
+  "event_task_created": "PLZ_TRANSLATE {task.owner.name} tarea creada: {task.title}",
+  "event_task_updated": "PLZ_TRANSLATE {user.name} tarea actualizada: {task.title}",
+  "event_task_suggested": "PLZ_TRANSLATE {task.owner.name} tarea propuesta: {task.title}",
+  "event_task_deleted": "PLZ_TRANSLATE Tarea {user.name} eliminada: {task.title}",
+  "event_assignment_rejected": "PLZ_TRANSLATE {user.name} rechazó la tarea: {assignment.task.title}",
+  "event_assignment_approved": "PLZ_TRANSLATE {assignment.approved_by.name} tarea aprobada: {assignment.task.title}",
+  "event_assignment_expired": "PLZ_TRANSLATE {assignment.child.name} no logró completar la tarea: {assignment.task.title} en el tiempo",
+  "event_assignment_completed_by_other": "PLZ_TRANSLATE {assignment.task.shared_task_completed_by} tarea completada {assignment.task.title} primero",
+  "event_goal_created": "PLZ_TRANSLATE {goal.created_by.name} creado objetivo de ahorro {goal.title}",
+  "event_goal_updated": "PLZ_TRANSLATE {goal.updated_by.name} objetivo de ahorro actualizado {goal.title}",
+  "event_goal_deleted": "PLZ_TRANSLATE {user.name} eliminado el objetivo de ahorro {goal.title}",
+  "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} objetivo de ahorro completado {goal.title}",
+  "event_wish_created": "PLZ_TRANSLATE {wish.child.name} añadió un nuevo deseo: {wish.title}",
+  "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} deseo actualizado: {wish.title}",
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} removed deseado: {wish.title}"
 }
