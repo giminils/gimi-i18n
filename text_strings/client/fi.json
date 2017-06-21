@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Pääsy kameraan estetty",
   "update_by_user": "PLZ_TRANSLATE Päivitetty käyttäjä:",
-  "permission_denied_only_parent": "PLZ_TRANSLATE Vain vanhempi voi nollata historia"
+  "permission_denied_only_parent": "PLZ_TRANSLATE Vain vanhempi voi nollata historia",
+  "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Haluatko nollata %1$d historiaa",
+  "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Oletko varma?",
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE asettaa uudelleen"
 }

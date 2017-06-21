@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Aðgangur að myndavél hafnað",
   "update_by_user": "PLZ_TRANSLATE Uppfært af notandanum:",
-  "permission_denied_only_parent": "PLZ_TRANSLATE Aðeins foreldri getur endurstillt sögu"
+  "permission_denied_only_parent": "PLZ_TRANSLATE Aðeins foreldri getur endurstillt sögu",
+  "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Viltu endurstilla %1$d sögu",
+  "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Ertu viss?",
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Endurstilla"
 }

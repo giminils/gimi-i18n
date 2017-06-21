@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "Access to camera denied",
   "update_by_user": "Updated by the user:",
-  "permission_denied_only_parent": "Only parent can reset history"
+  "permission_denied_only_parent": "Only parent can reset history",
+  "child_settings_reset_history_child_popover_title": "Do you want to reset %1$d history",
+  "child_settings_reset_history_child_popover_message": "Are you sure?",
+  "child_settings_reset_history_child_popover_reset_action": "Reset"
 }

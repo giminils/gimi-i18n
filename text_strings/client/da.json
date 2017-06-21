@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Adgang til kamera nægtet",
   "update_by_user": "PLZ_TRANSLATE Opdateret af brugeren:",
-  "permission_denied_only_parent": "PLZ_TRANSLATE Kun forælder kan nulstille historikken"
+  "permission_denied_only_parent": "PLZ_TRANSLATE Kun forælder kan nulstille historikken",
+  "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Vil du nulstille %1$d historie",
+  "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Er du sikker?",
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Nulstille"
 }

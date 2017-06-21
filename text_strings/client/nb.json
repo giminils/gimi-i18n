@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Tilgang til kamera nektet",
   "update_by_user": "PLZ_TRANSLATE Oppdatert av brukeren:",
-  "permission_denied_only_parent": "PLZ_TRANSLATE Bare foreldre kan tilbakestille historikken"
+  "permission_denied_only_parent": "PLZ_TRANSLATE Bare foreldre kan tilbakestille historikken",
+  "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Ønsker du å tilbakestille %1$d historie",
+  "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Er du sikker?",
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE tilbakestille"
 }

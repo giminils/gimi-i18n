@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE L'accesso alla fotocamera è stato negato",
   "update_by_user": "PLZ_TRANSLATE Aggiornato dall'utente:",
-  "permission_denied_only_parent": "PLZ_TRANSLATE Solo il genitore può reimpostare la cronologia"
+  "permission_denied_only_parent": "PLZ_TRANSLATE Solo il genitore può reimpostare la cronologia",
+  "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Si desidera ripristinare la storia di %1$d",
+  "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Sei sicuro?",
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reset"
 }

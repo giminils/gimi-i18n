@@ -1423,5 +1423,8 @@
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Доступ да камеры адмоўлена",
   "update_by_user": "PLZ_TRANSLATE Зменена карыстальнікам:",
-  "permission_denied_only_parent": "PLZ_TRANSLATE Толькі бацька можа скінуць гісторыю"
+  "permission_denied_only_parent": "PLZ_TRANSLATE Толькі бацька можа скінуць гісторыю",
+  "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Вы хочаце скінуць %1$d гісторыі",
+  "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Вы ўпэўнены?",
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE скід"
 }
