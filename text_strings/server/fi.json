@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Harmi, sinulla ei ole enää {assignment.task.title}.",
   "push_connected_with_parent": "Juhuu! Sinut on linkitetty yhteen vanhempiesi kanssa!",
   "push_invite_accepted": "{user} hyväksyi kutsusi!",
-  "push_new_assignment": "Jihaa! Olet saanut uuden tehtävän!",
+  "push_assignment_created": "Jihaa! Olet saanut uuden tehtävän!",
   "push_assignment_active_again": "Tehtävä {assignment.task.title} on taas saatavilla. Kuka ehtii ensin?",
   "push_assignment_done": "{assignment.child.name} suoritti juuri {assignment.task.title}!",
   "push_assignment_done_by_other": "Nyt et ollut tarpeeksi nopea! {child.name} ehti {assignment.task.title} ensin.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Välkommen till Veckopengen!\n http//onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} arkiverade sparmålet {goal.title}",
   "push_timed_assignment_created": "Kurkistaa sisään, sinulla ajoitettu tehtävä!",
-  "push_new_shared_assignment": "Kurkistaa app, olet kilpailevat Tehtävän suorittamiseen!",
-  "push_new_repeating_assignment": "Tutustu! Sinulla on uusi tehtävä, joka saat aina rahat suorittaa!",
+  "push_shared_assignment_created": "Kurkistaa app, olet kilpailevat Tehtävän suorittamiseen!",
+  "push_repeating_assignment_created": "Tutustu! Sinulla on uusi tehtävä, joka saat aina rahat suorittaa!",
   "push_check_wish_list": "Kuukausi vasemmalle syntymäpäivä. Tarkista toivelistalla!",
   "push_assignment_approved_parent": "{parent} Hyväksytty tehtävän {task} ({value})",
   "dashboard_assignment_approved": "Tehtävä {assignment.task.title} hyväksyttiin. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "Olet menettänyt säästötavoitteesi boostin.",
   "dashboard_goal_boosts_decreased": "Olet menettänyt säästötavoitteidesi boostit.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Hyvää työtä! Melkein valmista kanssa säästöjä tavoite!",
-  "push_new_duration_assignment": "PLZ_TRANSLATE Sinulle on annettu uusi tehtävä!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Sinulle on annettu uusi tehtävä!"
 }

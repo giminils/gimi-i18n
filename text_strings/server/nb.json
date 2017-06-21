@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Dessverre, du følgte ikke med {assignment.task.title}.",
   "push_connected_with_parent": "Tjoho! Du har nå blitt koblet sammen med en forelder!",
   "push_invite_accepted": "{user} aksepterte akkurat din invitasjon!",
-  "push_new_assignment": "Yihaa! Du har fått en ny oppgave!",
+  "push_assignment_created": "Yihaa! Du har fått en ny oppgave!",
   "push_assignment_active_again": "Oppgaven {assignment.task.title} er tilgjengelig igjen. Førstemann til mølla!",
   "push_assignment_done": "{assignment.child.name} utførte akkurat {assignment.task.title}!",
   "push_assignment_done_by_other": "Nå var du ikke rask nok! {child.name} utførte {assignment.task.title} før deg.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Välkommen till Veckopengen!\n http//onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} arkiverade sparmålet {goal.title}",
   "push_timed_assignment_created": "Titte på, du har en tidsbestemt oppgave!",
-  "push_new_shared_assignment": "Kikke inn i app, du konkurrerer i å fullføre en oppgave!",
-  "push_new_repeating_assignment": "Sjekk ut! Du har en ny oppgave som du alltid få pengene til å utføre!",
+  "push_shared_assignment_created": "Kikke inn i app, du konkurrerer i å fullføre en oppgave!",
+  "push_repeating_assignment_created": "Sjekk ut! Du har en ny oppgave som du alltid få pengene til å utføre!",
   "push_check_wish_list": "En måned igjen til bursdagen din. Sjekk ønskeliste!",
   "push_assignment_approved_parent": "{parent} Godkjent oppgave {task} ({value})",
   "dashboard_assignment_approved": "Oppgaven {assignment.task.title} ble godkjent. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Mistet et løft på målkart for besparelser.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øker på besparelser målkart.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Godt jobba! Du er nesten ferdig med ditt sparemål!",
-  "push_new_duration_assignment": "PLZ_TRANSLATE Du har fått en ny oppgave!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Du har fått en ny oppgave!"
 }

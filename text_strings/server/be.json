@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "PLZ_TRANSLATE No reward! The time has run out for {assignment.task.title}.",
   "push_connected_with_parent": "PLZ_TRANSLATE JippiKaYeah! You are now connected to a parent!",
   "push_invite_accepted": "PLZ_TRANSLATE {user} has accepted your invitation!",
-  "push_new_assignment": "PLZ_TRANSLATE Yihaa! You have got a new task!",
+  "push_assignment_created": "PLZ_TRANSLATE Yihaa! You have got a new task!",
   "push_assignment_active_again": "PLZ_TRANSLATE Task {assignment.task.title} is available again. First come, first served!",
   "push_assignment_done": "PLZ_TRANSLATE {assignment.child.name} executed right now {assignment.task.title}!",
   "push_assignment_done_by_other": "PLZ_TRANSLATE You weren't quick enough! {child.name} finished {assignment.task.title} before you.",
@@ -76,8 +76,8 @@
   "sms_app_download": "PLZ_TRANSLATE Welcome to Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "PLZ_TRANSLATE {goal.updated_by.name} archived savings goal {goal.title}",
   "push_timed_assignment_created": "PLZ_TRANSLATE Take a look, you have received a timed task!",
-  "push_new_shared_assignment": "PLZ_TRANSLATE Check it out, you're in competition to complete a task!",
-  "push_new_repeating_assignment": "PLZ_TRANSLATE Take a look, you have received a repeatable task!",
+  "push_shared_assignment_created": "PLZ_TRANSLATE Check it out, you're in competition to complete a task!",
+  "push_repeating_assignment_created": "PLZ_TRANSLATE Take a look, you have received a repeatable task!",
   "push_check_wish_list": "PLZ_TRANSLATE One month left to your birthday. Check the wish list!",
   "push_assignment_approved_parent": "PLZ_TRANSLATE {parent} approved task {task}. ({value})",
   "dashboard_assignment_approved": "PLZ_TRANSLATE The task {assignment.task.title} was approved. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Страчаны імпульс на зберажэнні мэты карты.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Страчаныя фарсіруе на зберажэнні мэты карты.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Добрая праца! Вы амаль скончылі з вашай ашчаднай мэтай!",
-  "push_new_duration_assignment": "PLZ_TRANSLATE Вы былі прызначаныя новыя задачы!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Вы былі прызначаныя новыя задачы!"
 }

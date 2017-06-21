@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Keine Belohnung! Die Zeit für {assignment.task.title} ist abgelaufen.",
   "push_connected_with_parent": "Juchu! Du bist jetzt mit einem Elternteil verbunden!",
   "push_invite_accepted": "{user} hat Deine Anfrage angenommen!",
-  "push_new_assignment": "Juchu! Du hast eine neue Aufgabe!",
+  "push_assignment_created": "Juchu! Du hast eine neue Aufgabe!",
   "push_assignment_active_again": "Die Aufgabe {assignment.task.title} ist wieder verfügbar. Wer zuerst kommt, mahlt zuerst!",
   "push_assignment_done": "{assignment.child.name} hat soeben {assignment.task.title} ausgeführt!",
   "push_assignment_done_by_other": "Du warst nicht schnell genug! {child.name} hat {assignment.task.title} vor Dir beendet.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Herzlich Willkommen bei Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} hat das Sparziel {goal.title} erreicht",
   "push_timed_assignment_created": "Guck mal, Du hast eine zeitlich begrenzte Aufgabe erhalten!",
-  "push_new_shared_assignment": "Guck Dir das an, Du wirst herausgefordert, eine Aufgabe zu beenden!",
-  "push_new_repeating_assignment": "Guck mal, Du hast eine wiederholbare Aufgabe erhalten!",
+  "push_shared_assignment_created": "Guck Dir das an, Du wirst herausgefordert, eine Aufgabe zu beenden!",
+  "push_repeating_assignment_created": "Guck mal, Du hast eine wiederholbare Aufgabe erhalten!",
   "push_check_wish_list": "In einem Monat hast Du Geburtstag. Wirf einen Blick auf die Wunschliste!",
   "push_assignment_approved_parent": "{parent} hat die Aufgabe {task} akzeptiert. ({value})",
   "dashboard_assignment_approved": "Die Aufgabe {assignment.task.title} wurde akzeptiert. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "PLZ_CHECK Verloren einen Aufschwung auf Sparkurskarte.",
   "dashboard_goal_boosts_decreased": "PLZ_CHECK Verlorene Verstärkung auf Sparkurskarte.",
   "push_goal_almost_completed": "Gut gemacht! Du hast Dein Sparziel fast erreicht !",
-  "push_new_duration_assignment": "PLZ_TRANSLATE Du hast eine neue Aufgabe zugewiesen!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Du hast eine neue Aufgabe zugewiesen!"
 }

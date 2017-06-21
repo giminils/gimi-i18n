@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Tyvärr, du hann inte med {assignment.task.title}",
   "push_connected_with_parent": "Tjoho! Du har nu blivit ihopkopplad med en förälder!",
   "push_invite_accepted": "{user} accepterade precis din inbjudan!",
-  "push_new_assignment": "Yihaa! Du har fått en ny uppgift!",
+  "push_assignment_created": "Yihaa! Du har fått en ny uppgift!",
   "push_assignment_active_again": "Uppgiften {assignment.task.title} är tillgänglig igen. Först till kvarn!",
   "push_assignment_done": "{assignment.child.name} utförde precis {assignment.task.title}!",
   "push_assignment_done_by_other": "Nu var du inte snabb nog! {child.name} utförde {assignment.task.title} innan dig",
@@ -76,8 +76,8 @@
   "sms_app_download": "Välkommen till Veckopengen!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} arkiverade sparmålet {goal.title}",
   "push_timed_assignment_created": "Kika in, du har fått en tidsinställd uppgift!",
-  "push_new_shared_assignment": "Kika in i appen, du är med och tävlar i att bli klar med en uppgift!",
-  "push_new_repeating_assignment": "Kolla in! Du har fått en ny uppgift som du alltid får pengar för att utföra!",
+  "push_shared_assignment_created": "Kika in i appen, du är med och tävlar i att bli klar med en uppgift!",
+  "push_repeating_assignment_created": "Kolla in! Du har fått en ny uppgift som du alltid får pengar för att utföra!",
   "push_check_wish_list": "En månad kvar till din födelsedag. Kolla önskelistan!",
   "push_assignment_approved_parent": "{parent} godkände uppgiften {task}. ({value})",
   "dashboard_assignment_approved": "Uppgiften {assignment.task.title} blev godkänd. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "Tappade en boost på sparkartan.",
   "dashboard_goal_boosts_decreased": "Tappade flera boosts på sparkartan.",
   "push_goal_almost_completed": "Bra jobbat med sparandet! Du har nästan uppnått ett sparmål!",
-  "push_new_duration_assignment": "Yihaa! Du har fått en ny uppgift!"
+  "push_duration_assignment_created": "Yihaa! Du har fått en ny uppgift!"
 }

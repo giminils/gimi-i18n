@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Du nåede det desværre ikke {assignment.task.title}.",
   "push_connected_with_parent": "Tjuhej! Du er nu blevet koblet sammen med en forælder!",
   "push_invite_accepted": "{user} har lige accepteret din indbydelse!",
-  "push_new_assignment": "Yihaa! Du har fået en ny opgave!",
+  "push_assignment_created": "Yihaa! Du har fået en ny opgave!",
   "push_assignment_active_again": "Opgaven {assignment.task.title} er tilgængelig igen. Først til mølle!",
   "push_assignment_done": "{assignment.child.name} har lige udført {assignment.task.title}!",
   "push_assignment_done_by_other": "Du var ikke hurtig nok! {child.name} udførte {assignment.task.title} inden dig.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Velkommen til Ugepenge!\n http//onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} gemte opsparingsmålet {goal.title}",
   "push_timed_assignment_created": "Gå ind og kig, du har fået en tidsbegrænset opgave!",
-  "push_new_shared_assignment": "Kig ind i app'en, du konkurrerer om at fuldføre en opgave!",
-  "push_new_repeating_assignment": "Kig ind! Du har en ny opgave, som kan gentages!",
+  "push_shared_assignment_created": "Kig ind i app'en, du konkurrerer om at fuldføre en opgave!",
+  "push_repeating_assignment_created": "Kig ind! Du har en ny opgave, som kan gentages!",
   "push_check_wish_list": "En måned tilbage til din fødselsdag. Tjek ønskelisten!",
   "push_assignment_approved_parent": "{parent} godkendte opgaven {task}. ({value})",
   "dashboard_assignment_approved": "Opgaven {assignment.task.title} blev godkendt. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "PLZ_TRANSLATE Mistet et løft på opsparingsmålkartet.",
   "dashboard_goal_boosts_decreased": "PLZ_TRANSLATE Mistet øger på opsparing mål map.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Godt arbejde! Du er næsten færdig med dit opsparingsmål!",
-  "push_new_duration_assignment": "PLZ_TRANSLATE Du har fået en ny opgave!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Du har fået en ny opgave!"
 }

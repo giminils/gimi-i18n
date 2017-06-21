@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Geen beloning, de tijd is verlopen voor  {assignment.task.title}.",
   "push_connected_with_parent": "Joepie! Je bent nu verbonden met een ouder!",
   "push_invite_accepted": "{user} heeft de uitnodiging geaccepteerd!",
-  "push_new_assignment": "Joepie! Je kreeg een nieuwe taak!",
+  "push_assignment_created": "Joepie! Je kreeg een nieuwe taak!",
   "push_assignment_active_again": "Taak {assignment.task.title} is nu opnieuw beschikbaar. Kom eens kijken!",
   "push_assignment_done": "{assignment.child.name} heeft nu {assignment.task.title} gedaan!",
   "push_assignment_done_by_other": "Je was niet snel genoeg! {child.name} voerde {assignment.task.title} al uit.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Welkom bij Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} verwijderde spaardoel {goal.title}",
   "push_timed_assignment_created": "Neem een kijkje, je hebt een taak voor tijd gekregen!",
-  "push_new_shared_assignment": "Neem een kijkje, je zit in een competitie voor een taak!",
-  "push_new_repeating_assignment": "Neem een kijkje, je hebt een herhaalde taak gekregen!",
+  "push_shared_assignment_created": "Neem een kijkje, je zit in een competitie voor een taak!",
+  "push_repeating_assignment_created": "Neem een kijkje, je hebt een herhaalde taak gekregen!",
   "push_check_wish_list": "Nog een maand tot je verjaardaag. Bekijk de wenslijst!",
   "push_assignment_approved_parent": "{parent} heeft {task} goedgekeurd. ({value})",
   "dashboard_assignment_approved": "De taak {assignment.task.title} was goedgekeurd. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "Verloor een boost op de spaarkaart.",
   "dashboard_goal_boosts_decreased": "Verloor verhogingen op de doelkaart van het spaargeld.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Goed werk! Je bent bijna klaar met je spaardoel!",
-  "push_new_duration_assignment": "PLZ_TRANSLATE Je hebt een nieuwe taak toegewezen!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE Je hebt een nieuwe taak toegewezen!"
 }

@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "Aucune récompense! Le temps pour effectuer la tâche: {assignment.task.title} est expiré .",
   "push_connected_with_parent": "Youhouu! Vous êtes maintenant connecté à un parent!",
   "push_invite_accepted": "{user} a accepté votre invitation!",
-  "push_new_assignment": "Youhouu! Vous avez une nouvelle tâche!",
+  "push_assignment_created": "Youhouu! Vous avez une nouvelle tâche!",
   "push_assignment_active_again": "La tâche {assignment.task.title} est encore une fois disponible. Premier arrivé, premier servi!",
   "push_assignment_done": "{assignment.child.name} a maintenant exécuté la tâche {assignment.task.title}!",
   "push_assignment_done_by_other": "Vous n'avez pas été assez rapide! {child.name} a terminé la tâche {assignment.task.title} avant vous.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Bienvenue dans Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} a archivé un objectif d'épargne {goal.title}",
   "push_timed_assignment_created": "Regardez, vous avez reçu une tâche à durée determinée!",
-  "push_new_shared_assignment": "Vous êtes en compétition pour accomplir une tâche!",
-  "push_new_repeating_assignment": "Regardez, vous avez une nouvelle tâche routinière!",
+  "push_shared_assignment_created": "Vous êtes en compétition pour accomplir une tâche!",
+  "push_repeating_assignment_created": "Regardez, vous avez une nouvelle tâche routinière!",
   "push_check_wish_list": "Il reste encore un mois avant votre anniversaire. Consultez la liste de souhaits!",
   "push_assignment_approved_parent": "{parent} a approuvé la tâche {task} ({value})",
   "dashboard_assignment_approved": "La tâche {assignment.task.title} a été approuvé. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "A Perdu un gain sur la carte des objectifs d'épargne.",
   "dashboard_goal_boosts_decreased": "Les gains perdus sur la carte des objectifs d'épargne.",
   "push_goal_almost_completed": "PLZ_TRANSLATE Bon travail! Vous avez presque fini avec votre objectif d'épargne!",
-  "push_new_duration_assignment": "PLZ_TRANSLATE On vous a assigné une nouvelle tâche!"
+  "push_duration_assignment_created": "PLZ_TRANSLATE On vous a assigné une nouvelle tâche!"
 }

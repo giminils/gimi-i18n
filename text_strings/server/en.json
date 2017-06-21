@@ -8,7 +8,7 @@
   "push_timed_assignment_expired": "No reward! The time has run out for {assignment.task.title}.",
   "push_connected_with_parent": "JippiKaYeah! You are now connected to a parent!",
   "push_invite_accepted": "{user} has accepted your invitation!",
-  "push_new_assignment": "Yihaa! You've been assigned a new task!",
+  "push_assignment_created": "Yihaa! You've been assigned a new task!",
   "push_assignment_active_again": "Task {assignment.task.title} is available again. First come, first served!",
   "push_assignment_done": "{assignment.child.name} executed right now {assignment.task.title}!",
   "push_assignment_done_by_other": "You weren't quick enough! {child.name} finished {assignment.task.title} before you.",
@@ -76,8 +76,8 @@
   "sms_app_download": "Welcome to Gimi!\n http://onelink.to/t69wn8",
   "push_goal_archived": "{goal.updated_by.name} archived savings goal {goal.title}",
   "push_timed_assignment_created": "Take a look, you have received a timed task!",
-  "push_new_shared_assignment": "Check it out, you're in competition to complete a task!",
-  "push_new_repeating_assignment": "Take a look, you have received a repeatable task!",
+  "push_shared_assignment_created": "Check it out, you're in competition to complete a task!",
+  "push_repeating_assignment_created": "Take a look, you have received a repeatable task!",
   "push_check_wish_list": "One month left to your birthday. Check the wish list!",
   "push_assignment_approved_parent": "{parent} approved task {task}. ({value})",
   "dashboard_assignment_approved": "The task {assignment.task.title} was approved. ({assignment.str_value})",
@@ -137,5 +137,5 @@
   "dashboard_goal_boost_decreased": "Lost a boost on savings goal map.",
   "dashboard_goal_boosts_decreased": "Lost boosts on savings goal map.",
   "push_goal_almost_completed": "Good work! You're almost done with your savings goal!",
-  "push_new_duration_assignment": "You've been assigned a new task!"
+  "push_duration_assignment_created": "You've been assigned a new task!"
 }
