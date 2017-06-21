@@ -1387,7 +1387,7 @@
   "task_approved_desc": "PLZ_TRANSLATE %1$d kiideti heaks ja olete kogunud %2$d sisse notsu panga!",
   "edit_boost_title": "PLZ_TRANSLATE Whip või porgand?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Abi %1$d tõstes kell verstapostid. Kuid see ei ole ainult halleluuja, mis on saavutatud hoogu on kadunud, kui %1$d läheb alla verstapost uuesti",
-  "edit_boost_input_title": "PLZ_TRANSLATE Boost on verstapostid",
+  "edit_boost_input_title": "PLZ_TRANSLATE Boost igal teetähis",
   "edit_boost_description": "PLZ_TRANSLATE %1$d lisatakse kui %2$d läbib mistahes 9 vahe.",
   "task_per_hour_card_text": "PLZ_TRANSLATE Tasu arvutatakse taimer!",
   "time_minute": "PLZ_TRANSLATE %1$d hetke",

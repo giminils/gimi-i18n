@@ -1387,7 +1387,7 @@
   "task_approved_desc": "%1$d was approved and you have collected %2$d in the piggy bank!",
   "edit_boost_title": "Whip or carrot?",
   "edit_boost_subtitle": "Help %1$d by boosting at milestones. However, it is not just hallelujah, an achieved boost is lost if %1$d goes below a milestone again",
-  "edit_boost_input_title": "Boost at milestones",
+  "edit_boost_input_title": "Boost at every milestone",
   "edit_boost_description": "%1$d is added when %2$d passes any of the 9 milestones.",
   "task_per_hour_card_text": "The reward is calculated using the timer!",
   "time_minute": "%1$d minute",
