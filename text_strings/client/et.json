@@ -1426,5 +1426,6 @@
   "permission_denied_only_parent": "PLZ_TRANSLATE Ainult vanem saab nullida ajalugu",
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Kas soovite nullida %1$d ajalugu",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Oled sa kindel?",
-  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE lähtestama"
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE lähtestama",
+  "game_scoreboard_title": "PLZ_TRANSLATE tabloo"
 }

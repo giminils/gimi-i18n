@@ -1426,5 +1426,6 @@
   "permission_denied_only_parent": "PLZ_TRANSLATE Aðeins foreldri getur endurstillt sögu",
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Viltu endurstilla %1$d sögu",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Ertu viss?",
-  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Endurstilla"
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Endurstilla",
+  "game_scoreboard_title": "PLZ_TRANSLATE Stigatafla"
 }

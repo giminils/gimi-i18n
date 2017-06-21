@@ -1437,5 +1437,6 @@
   "permission_denied_only_parent": "Endast förälder kan återställa historiken",
   "child_settings_reset_history_child_popover_title": "Vill du återställa %1$d historia",
   "child_settings_reset_history_child_popover_message": "Är du säker?",
-  "child_settings_reset_history_child_popover_reset_action": "Återställa"
+  "child_settings_reset_history_child_popover_reset_action": "Återställa",
+  "game_scoreboard_title": "Topplistan"
 }

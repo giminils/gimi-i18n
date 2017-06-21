@@ -1426,5 +1426,6 @@
   "permission_denied_only_parent": "PLZ_TRANSLATE Alleen ouder kan de geschiedenis resetten",
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Wil je %1$d geschiedenis resetten",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Weet je het zeker?",
-  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reset"
+  "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reset",
+  "game_scoreboard_title": "PLZ_TRANSLATE Scorebord"
 }

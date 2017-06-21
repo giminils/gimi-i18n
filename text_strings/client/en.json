@@ -1426,5 +1426,6 @@
   "permission_denied_only_parent": "Only parent can reset history",
   "child_settings_reset_history_child_popover_title": "Do you want to reset %1$d history",
   "child_settings_reset_history_child_popover_message": "Are you sure?",
-  "child_settings_reset_history_child_popover_reset_action": "Reset"
+  "child_settings_reset_history_child_popover_reset_action": "Reset",
+  "game_scoreboard_title": "Scoreboard"
 }
