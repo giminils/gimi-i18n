@@ -1422,5 +1422,5 @@
   "task_history_iterations_once": "PLZ_TRANSLATE Framkvæmdi %1$d einu sinni áður",
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Aðgangur að myndavél hafnað",
-  "update_by_user": "Uppdaterad av användaren:"
+  "update_by_user": "PLZ_TRANSLATE Uppfært af notandanum:"
 }

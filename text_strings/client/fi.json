@@ -1422,5 +1422,5 @@
   "task_history_iterations_once": "PLZ_TRANSLATE Esityskieli %1$d kerran ennen",
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Pääsy kameraan estetty",
-  "update_by_user": "Uppdaterad av användaren:"
+  "update_by_user": "PLZ_TRANSLATE Päivitetty käyttäjä:"
 }
