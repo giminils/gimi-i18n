@@ -1421,5 +1421,6 @@
   "task_history_iterations_multiple": "PLZ_TRANSLATE Realizado %1$d veces antes",
   "task_history_iterations_once": "PLZ_TRANSLATE Realizado %1$d una vez antes",
   "boost": "Boost",
-  "camera_permission_denied": "PLZ_TRANSLATE Se ha denegado el acceso a la cámara"
+  "camera_permission_denied": "PLZ_TRANSLATE Se ha denegado el acceso a la cámara",
+  "update_by_user": "Uppdaterad av användaren:"
 }

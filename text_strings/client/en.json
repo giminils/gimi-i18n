@@ -1421,5 +1421,6 @@
   "task_history_iterations_multiple": "Performed %1$d times before",
   "task_history_iterations_once": "Performed %1$d once before",
   "boost": "Boost",
-  "camera_permission_denied": "Access to camera denied"
+  "camera_permission_denied": "Access to camera denied",
+  "update_by_user": "Updated by the user:"
 }

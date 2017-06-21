@@ -1432,5 +1432,6 @@
   "task_history_iterations_multiple": "Utförd %1$d gånger förut",
   "task_history_iterations_once": "Utförd %1$d gång förut",
   "boost": "Boost",
-  "camera_permission_denied": "Åtkomst till kamera nekad"
+  "camera_permission_denied": "Åtkomst till kamera nekad",
+  "update_by_user": "Uppdaterad av användaren:"
 }
