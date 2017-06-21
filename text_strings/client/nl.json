@@ -1422,5 +1422,6 @@
   "task_history_iterations_once": "PLZ_TRANSLATE Voerde %1$d een keer voor",
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Toegang tot camera geweigerd",
-  "update_by_user": "PLZ_TRANSLATE Bijgewerkt door de gebruiker:"
+  "update_by_user": "PLZ_TRANSLATE Bijgewerkt door de gebruiker:",
+  "permission_denied_only_parent": "PLZ_TRANSLATE Alleen ouder kan de geschiedenis resetten"
 }

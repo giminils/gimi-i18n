@@ -1422,5 +1422,6 @@
   "task_history_iterations_once": "PLZ_TRANSLATE Utført %1$d en gang før",
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Tilgang til kamera nektet",
-  "update_by_user": "PLZ_TRANSLATE Oppdatert av brukeren:"
+  "update_by_user": "PLZ_TRANSLATE Oppdatert av brukeren:",
+  "permission_denied_only_parent": "PLZ_TRANSLATE Bare foreldre kan tilbakestille historikken"
 }

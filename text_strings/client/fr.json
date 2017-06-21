@@ -1422,5 +1422,6 @@
   "task_history_iterations_once": "PLZ_TRANSLATE Réalisé %1$d une fois auparavant",
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Accès à la caméra refusé",
-  "update_by_user": "PLZ_TRANSLATE Mise à jour par l'utilisateur:"
+  "update_by_user": "PLZ_TRANSLATE Mise à jour par l'utilisateur:",
+  "permission_denied_only_parent": "PLZ_TRANSLATE Seul le parent peut réinitialiser l'historique"
 }

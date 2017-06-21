@@ -1422,5 +1422,6 @@
   "task_history_iterations_once": "PLZ_TRANSLATE Выкананы %1$d аднойчы",
   "boost": "Boost",
   "camera_permission_denied": "PLZ_TRANSLATE Доступ да камеры адмоўлена",
-  "update_by_user": "PLZ_TRANSLATE Зменена карыстальнікам:"
+  "update_by_user": "PLZ_TRANSLATE Зменена карыстальнікам:",
+  "permission_denied_only_parent": "PLZ_TRANSLATE Толькі бацька можа скінуць гісторыю"
 }
