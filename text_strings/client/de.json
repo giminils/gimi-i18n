@@ -1427,5 +1427,9 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Möchten Sie %1$d Geschichte zurücksetzen",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Bist du sicher?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Zurücksetzen",
-  "game_scoreboard_title": "PLZ_TRANSLATE Anzeigetafel"
+  "game_scoreboard_title": "PLZ_TRANSLATE Anzeigetafel",
+  "boost_change_popover_warning_title": "Tidigare boost kommer att ändras",
+  "boost_change_popover_warning_text": "Du har tidigare gett %1$d boost för att uppnå det här sparmålet. Ändrar du summan på boosten så ändras också all tidigare boost.",
+  "continue": "Fortsätt",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Bildnachweis erforderlich"
 }

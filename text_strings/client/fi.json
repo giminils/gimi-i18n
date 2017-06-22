@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE Tulostaulu",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Edellinen Tehostaa muuttuu",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Olet aiemmin antanut %1$d vauhtia tämän tavoitteen saavuttamiseksi. Muuttaminen määrä vauhtia muuttuu myös kaikki aiemmat lisää.",
-  "continue": "PLZ_TRANSLATE Jatkaa"
+  "continue": "PLZ_TRANSLATE Jatkaa",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Photo vaaditaan todisteita"
 }

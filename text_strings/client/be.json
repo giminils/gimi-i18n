@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE табло",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Папярэднія фарсіруе зменіцца",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Вы ўжо далі %1$d імпульс для дасягнення гэтай мэты. Змена колькасці фарсіравання таксама зменіць ўвесь папярэдні падштурхоўвання.",
-  "continue": "PLZ_TRANSLATE працягваць"
+  "continue": "PLZ_TRANSLATE працягваць",
+  "task_requires_picture_proof": "PLZ_TRANSLATE патрабуецца фотаздымак доказы"
 }

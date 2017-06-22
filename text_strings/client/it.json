@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE tabellone segnapunti",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Gli incrementi precedenti cambieranno",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Hai già dato %1$d spinta per raggiungere questo obiettivo. La modifica della quantità di boost modificherà anche tutte le boost precedenti.",
-  "continue": "PLZ_TRANSLATE Continua"
+  "continue": "PLZ_TRANSLATE Continua",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Sono necessarie prove fotografiche"
 }

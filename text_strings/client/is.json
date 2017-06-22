@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE Stigatafla",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Fyrri aukning mun breytast",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Þú hefur áður gefið %1$d uppörvun til að ná þessu markmiði. Breyting á upphæð uppörvunarinnar mun einnig breyta öllum fyrri aukahlutum.",
-  "continue": "PLZ_TRANSLATE Haltu áfram"
+  "continue": "PLZ_TRANSLATE Haltu áfram",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Photo sönnunargögn krafist"
 }

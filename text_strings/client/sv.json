@@ -1441,5 +1441,6 @@
   "game_scoreboard_title": "Topplistan",
   "boost_change_popover_warning_title": "Tidigare boost kommer att ändras",
   "boost_change_popover_warning_text": "Du har tidigare gett %1$d boost för att uppnå det här sparmålet. Ändrar du summan på boosten så ändras också all tidigare boost.",
-  "continue": "Fortsätt"
+  "continue": "Fortsätt",
+  "task_requires_picture_proof": "Bildbevis krävs"
 }

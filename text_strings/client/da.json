@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE resultattavlen",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Tidligere boosts vil ændre sig",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Du har tidligere givet %1$d boost for at nå dette mål. Hvis du ændrer mængden af ​​boostet, ændres alle tidligere boosts.",
-  "continue": "PLZ_TRANSLATE Blive ved"
+  "continue": "PLZ_TRANSLATE Blive ved",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Foto bevis kræves"
 }

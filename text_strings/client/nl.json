@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE Scorebord",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Vorige verhogingen zullen veranderen",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Je hebt eerder %1$d boost gegeven om dit doel te bereiken. Als u de waarde van de boost verandert, verandert ook alle vorige boosts.",
-  "continue": "PLZ_TRANSLATE voortzetten"
+  "continue": "PLZ_TRANSLATE voortzetten",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Foto bewijs vereist"
 }

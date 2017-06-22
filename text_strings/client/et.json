@@ -1430,5 +1430,6 @@
   "game_scoreboard_title": "PLZ_TRANSLATE tabloo",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Eelmine suurendab muutuvad",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Olete varem andnud %1$d tõuke selle eesmärgi saavutamiseks. Muutuv summa tõuke muutuvad ka kõik eelmised suurendab.",
-  "continue": "PLZ_TRANSLATE jätkama"
+  "continue": "PLZ_TRANSLATE jätkama",
+  "task_requires_picture_proof": "PLZ_TRANSLATE Foto nõutavad tõendid"
 }
