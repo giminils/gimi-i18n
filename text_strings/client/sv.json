@@ -1399,7 +1399,7 @@
   "edit_boost_title": "Piska eller morot?",
   "edit_boost_subtitle": "Hjälp %1$d genom att boosta vid milstolpar. Det är dock inte bara halleluja, en uppnådd boost förloras om %1$d hamnar under en milstolpe igen",
   "edit_boost_input_title": "Boost vid varje milstolpe",
-  "edit_boost_description": "%1$d läggs till när %2$d passerar någon av de 9 milstolparna.",
+  "edit_boost_description": "%1$d läggs till när %2$d passerar någon av de 9 milstolparna. Det betyder att %2$d endast behöver spara %3$d utav %4$d",
   "task_per_hour_card_text": "Belöningen räknas ut med hjälp av tidtagaruret!",
   "time_minute": "%1$d minut",
   "time_minutes": "%1$d minuter",

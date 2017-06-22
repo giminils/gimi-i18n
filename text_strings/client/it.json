@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Frusta o carota?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Aiuta %1$d incrementando le pietre miliari. Tuttavia, non è solo hallelujah, una spinta ottenuta viene persa se %1$d scende al di sotto di una pietra miliare",
   "edit_boost_input_title": "PLZ_TRANSLATE Aumenta ogni pietra miliare",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d passa a una delle 9 tappe.",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d supera una delle 9 tappe. Ciò significa che %2$d deve solo salvare %3$d su %4$d",
   "task_per_hour_card_text": "PLZ_TRANSLATE La ricompensa viene calcolata usando il timer!",
   "time_minute": "PLZ_TRANSLATE %1$d minuti",
   "time_minutes": "PLZ_TRANSLATE %1$d minuti",
