@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Frusta o carota?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Aiuta %1$d incrementando le pietre miliari. Tuttavia, non è solo hallelujah, una spinta ottenuta viene persa se %1$d scende al di sotto di una pietra miliare",
   "edit_boost_input_title": "PLZ_TRANSLATE Aumenta ogni pietra miliare",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d supera una delle 9 tappe. Ciò significa che %2$d deve solo salvare %3$d su %4$d",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d viene aggiunto quando %2$d passa a una delle 9 pietre miliari. Ciò significa che %2$d deve salvare solo %3$d di %4$d",
   "task_per_hour_card_text": "PLZ_TRANSLATE La ricompensa viene calcolata usando il timer!",
   "time_minute": "PLZ_TRANSLATE %1$d minuti",
   "time_minutes": "PLZ_TRANSLATE %1$d minuti",
@@ -1429,7 +1429,7 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reset",
   "game_scoreboard_title": "PLZ_TRANSLATE tabellone segnapunti",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Gli incrementi precedenti cambieranno",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Hai già dato %1$d spinta per raggiungere questo obiettivo. La modifica della quantità di boost modificherà anche tutte le boost precedenti.",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Hai già dato un %1$d per raggiungere questo obiettivo. La modifica della quantità di boost modificherà anche tutte le boost precedenti.",
   "continue": "PLZ_TRANSLATE Continua",
   "task_requires_picture_proof": "PLZ_TRANSLATE Sono necessarie prove fotografiche"
 }

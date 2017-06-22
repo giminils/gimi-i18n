@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Hvíta eða gulrót?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Hjálp %1$d með því að auka á áfangastaði. Hins vegar er það ekki bara hallelujah, það sem er náð er glatað ef %1$d fer undir áfangastað aftur",
   "edit_boost_input_title": "PLZ_TRANSLATE Uppörvun á hverjum tímapunkti",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d er bætt við þegar %2$d nær einhverju 9 áfanga. Þetta þýðir að %2$d þarf aðeins að vista %3$d af %4$d",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d er bætt við þegar %2$d fer yfir einhverja 9 áfanga. Þetta þýðir að %2$d þarf aðeins að vista %3$d af %4$d",
   "task_per_hour_card_text": "PLZ_TRANSLATE Verðlaunin eru reiknuð með því að nota tímann!",
   "time_minute": "PLZ_TRANSLATE %1$d mínútu",
   "time_minutes": "PLZ_TRANSLATE %1$d mínútur",
@@ -1429,7 +1429,7 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Endurstilla",
   "game_scoreboard_title": "PLZ_TRANSLATE Stigatafla",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Fyrri aukning mun breytast",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Þú hefur áður gefið %1$d uppörvun til að ná þessu markmiði. Breyting á upphæð uppörvunarinnar mun einnig breyta öllum fyrri aukahlutum.",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Þú hefur áður gefið %1$d aukningu til að ná þessu markmiði. Breyting á upphæð uppörvunarinnar mun einnig breyta öllum fyrri aukahlutum.",
   "continue": "PLZ_TRANSLATE Haltu áfram",
   "task_requires_picture_proof": "PLZ_TRANSLATE Photo sönnunargögn krafist"
 }

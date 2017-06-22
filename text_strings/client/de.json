@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Peitsche oder Karotte?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Hilfe %1$d durch die Förderung von Meilensteinen. Allerdings ist es nicht nur hallelujah, ein erreichter Schub geht verloren, wenn %1$d unter einen Meilenstein geht",
   "edit_boost_input_title": "PLZ_TRANSLATE Steig bei jedem Meilenstein",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​passiert.",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​übergibt. Dies bedeutet, dass %2$d nur %3$d aus %4$d sparen muss",
   "task_per_hour_card_text": "PLZ_TRANSLATE Die Belohnung wird mit dem Timer berechnet!",
   "time_minute": "PLZ_TRANSLATE %1$d minute",
   "time_minutes": "PLZ_TRANSLATE %1$d Minuten",
@@ -1428,8 +1428,8 @@
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Bist du sicher?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Zurücksetzen",
   "game_scoreboard_title": "PLZ_TRANSLATE Anzeigetafel",
-  "boost_change_popover_warning_title": "Tidigare boost kommer att ändras",
-  "boost_change_popover_warning_text": "Du har tidigare gett %1$d boost för att uppnå det här sparmålet. Ändrar du summan på boosten så ändras också all tidigare boost.",
-  "continue": "Fortsätt",
+  "boost_change_popover_warning_title": "PLZ_TRANSLATE Vorherige Verstärkungen werden sich ändern",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Sie haben zuvor %1$d Boost gegeben, um dieses Ziel zu erreichen. Das Ändern des Betrags des Boosts ändert auch alle vorherigen Verstärkungen.",
+  "continue": "PLZ_TRANSLATE Fortsetzen",
   "task_requires_picture_proof": "PLZ_TRANSLATE Bildnachweis erforderlich"
 }

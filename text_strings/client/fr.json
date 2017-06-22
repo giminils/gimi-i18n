@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Fouetter ou carotte?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Aidez le %1$d en stimulant les jalons. Cependant, ce n'est pas seulement l'alléluia, un coup de pouce atteint est perdu si %1$d va au-dessous d'une étape encore",
   "edit_boost_input_title": "PLZ_TRANSLATE Accélérer à chaque étape",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d est ajouté lorsque %2$d passe l'un des 9 jalons. Cela signifie que %2$d doit seulement enregistrer %3$d sur %4$d",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d est ajouté lorsque %2$d passe l&#39;un des 9 jalons. Cela signifie que %2$d doit seulement économiser %3$d en %4$d",
   "task_per_hour_card_text": "PLZ_TRANSLATE La récompense est calculée à l'aide de la minuterie!",
   "time_minute": "PLZ_TRANSLATE %1$d minute",
   "time_minutes": "PLZ_TRANSLATE %1$d minutes",
@@ -1429,7 +1429,7 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Réinitialiser",
   "game_scoreboard_title": "PLZ_TRANSLATE Tableau de bord",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Les augmentations précédentes changeront",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Vous avez déjà accordé %1$d pour atteindre cet objectif. La modification de la quantité de l'impulsion changera également toutes les améliorations précédentes.",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Vous avez déjà donné %1$d boost pour atteindre cet objectif. La modification de la quantité de l&#39;impulsion changera également toutes les améliorations précédentes.",
   "continue": "PLZ_TRANSLATE Continuer",
   "task_requires_picture_proof": "PLZ_TRANSLATE Photo épreuve requise"
 }

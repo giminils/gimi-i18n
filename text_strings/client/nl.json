@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Zweep of wortel?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Help %1$d door te stimuleren op mijlpalen. Het is echter niet alleen hallelujah, een verbeterde boost is verloren als %1$d weer onder een mijlpaal gaat",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost op elke mijlpaal",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d wordt toegevoegd wanneer %2$d een van de 9 mijlpalen passeert. Dit betekent dat %2$d alleen %3$d uit %4$d moet opslaan",
+  "edit_boost_description": "PLZ_TRANSLATE %1$d wordt toegevoegd wanneer %2$d over een van de 9 mijlpalen gaat. Dit betekent dat %2$d alleen %3$d van %4$d moet opslaan",
   "task_per_hour_card_text": "PLZ_TRANSLATE De beloning wordt berekend met behulp van de timer!",
   "time_minute": "PLZ_TRANSLATE %1$d minuut",
   "time_minutes": "PLZ_TRANSLATE %1$d minuten",
@@ -1429,7 +1429,7 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reset",
   "game_scoreboard_title": "PLZ_TRANSLATE Scorebord",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Vorige verhogingen zullen veranderen",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Je hebt eerder %1$d boost gegeven om dit doel te bereiken. Als u de waarde van de boost verandert, verandert ook alle vorige boosts.",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE U heeft eerder %1$d boost gegeven om dit doel te bereiken. Als u de waarde van de boost verandert, verandert ook alle vorige boosts.",
   "continue": "PLZ_TRANSLATE voortzetten",
   "task_requires_picture_proof": "PLZ_TRANSLATE Foto bewijs vereist"
 }
