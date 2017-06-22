@@ -1,6 +1,5 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-
-// @martin, alright, i would first do this as a seperate project called anna becuase we dont want to screw up sara and this might not work
+var USE_EXPERIMENTAL = true
 var fs = require('fs')
 var translate = require('@google-cloud/translate')({
   projectId: 'gimi-969a7',
@@ -13,7 +12,7 @@ let templateDir = ['./text_strings/client', './text_strings/server', './text_str
 let RunAnna = (filePath):* => {
   var hasPLZTranslate = false
   let getPath = (file) => `${filePath}/${file}`
-  var {toHash, fromHash, translationHelpTemplate, translateFrom} = AnnaHelper
+  var {toHash, fromHash, translationHelpTemplate, translateFrom, toHashExperimental, fromHashExperimental} = AnnaHelper
   let getTranslateFromPath = `${filePath}/` + translateFrom
 
   let translateTextStringForFile = (file, textId) => {
@@ -61,7 +60,8 @@ let RunAnna = (filePath):* => {
     }
 
     // hash %1$d to num evals to work with google translate
-    stringToTranslate = toHash(stringToTranslate)
+    if(USE_EXPERIMENTAL) stringToTranslate = toHashExperimental(stringToTranslate)
+    else stringToTranslate = toHash(stringToTranslate)
 
     return translate.translate(stringToTranslate, lang, (err, translation) => {
       if (err) {
@@ -70,7 +70,11 @@ let RunAnna = (filePath):* => {
       if (hasPLZTranslate) {
         return console.warn(`Should not have PLZ_TRANSLATE in textid: ${textId} in file: ${getTranslateFromPath}`)
       }
-      var translatedText = fromHash(translation)
+
+      var translatedText
+      if(USE_EXPERIMENTAL) translatedText = fromHashExperimental(translation)
+      else translatedText = fromHash(translation)
+
       console.log(`Translated text: '${stringToTranslate}' to: '${translatedText}' in ${filePath}/${file}`)
       var re = /PLZ_TRANSLATE/g
       if (re.test(translatedText)) {

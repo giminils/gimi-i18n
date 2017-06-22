@@ -19,7 +19,27 @@ let fromHash = (text: string) => {
   return text
 }
 
+let toHashExperimental = (text: string) => {
+  symbolsThatShouldNotBeReplaced.forEach((symbol, index) => {
+    var splits = text.split(symbol)
+    text = splits.join(`<span class="notranslate">${symbol}</span>`)
+  })
+
+  //support server strings
+  text = text.replace(/{/g,'<span class="notranslate">{');
+  text = text.replace(/}/g, '}</span>')
+
+  return text
+}
+
+let fromHashExperimental = (text: string) => {
+  text = text.replace(/<span class="notranslate">/g,'');
+  text = text.replace(/<\/span>/g, '')
+  return text
+}
+
+
 let translationHelpTemplate = 'PLZ_TRANSLATE'
 
 let translateFrom = 'en.json'
-module.exports = {toHash, fromHash, translationHelpTemplate, translateFrom}
+module.exports = {toHash, fromHash, toHashExperimental, fromHashExperimental, translationHelpTemplate, translateFrom}
