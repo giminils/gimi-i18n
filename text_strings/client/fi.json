@@ -1429,5 +1429,6 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE asettaa uudelleen",
   "game_scoreboard_title": "PLZ_TRANSLATE Tulostaulu",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Edellinen Tehostaa muuttuu",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Olet aiemmin antanut %1$d vauhtia tämän tavoitteen saavuttamiseksi. Muuttaminen määrä vauhtia muuttuu myös kaikki aiemmat lisää."
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Olet aiemmin antanut %1$d vauhtia tämän tavoitteen saavuttamiseksi. Muuttaminen määrä vauhtia muuttuu myös kaikki aiemmat lisää.",
+  "continue": "PLZ_TRANSLATE Jatkaa"
 }

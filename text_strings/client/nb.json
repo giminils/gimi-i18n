@@ -1429,5 +1429,6 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE tilbakestille",
   "game_scoreboard_title": "PLZ_TRANSLATE Scoreboard",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Tidligere forsterkninger vil endres",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Du har tidligere gitt %1$d boost for å oppnå dette målet. Endre mengden av boostet vil også endre alle tidligere boost."
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Du har tidligere gitt %1$d boost for å oppnå dette målet. Endre mengden av boostet vil også endre alle tidligere boost.",
+  "continue": "PLZ_TRANSLATE Fortsette"
 }

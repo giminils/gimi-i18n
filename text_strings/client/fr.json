@@ -1429,5 +1429,6 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Réinitialiser",
   "game_scoreboard_title": "PLZ_TRANSLATE Tableau de bord",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Les augmentations précédentes changeront",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Vous avez déjà accordé %1$d pour atteindre cet objectif. La modification de la quantité de l'impulsion changera également toutes les améliorations précédentes."
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Vous avez déjà accordé %1$d pour atteindre cet objectif. La modification de la quantité de l'impulsion changera également toutes les améliorations précédentes.",
+  "continue": "PLZ_TRANSLATE Continuer"
 }

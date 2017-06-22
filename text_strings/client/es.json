@@ -1429,5 +1429,6 @@
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reiniciar",
   "game_scoreboard_title": "PLZ_TRANSLATE Marcador",
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Los aumentos anteriores cambiarán",
-  "boost_change_popover_warning_text": "PLZ_TRANSLATE Usted ha dado anteriormente %1$d impulso para lograr este objetivo. Cambiar la cantidad del impulso también cambiará todos los aumentos previos."
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Usted ha dado anteriormente %1$d impulso para lograr este objetivo. Cambiar la cantidad del impulso también cambiará todos los aumentos previos.",
+  "continue": "PLZ_TRANSLATE Continuar"
 }

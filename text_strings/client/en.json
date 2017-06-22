@@ -1429,5 +1429,6 @@
   "child_settings_reset_history_child_popover_reset_action": "Reset",
   "game_scoreboard_title": "Scoreboard",
   "boost_change_popover_warning_title": "Previous boosts will change",
-  "boost_change_popover_warning_text": "You have previously given %1$d boost to achieve this goal. Changing the amount of the boost will also change all previous boosts."
+  "boost_change_popover_warning_text": "You have previously given %1$d boost to achieve this goal. Changing the amount of the boost will also change all previous boosts.",
+  "continue": "Continue"
 }
