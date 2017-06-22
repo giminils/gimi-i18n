@@ -1181,7 +1181,6 @@
   "savings_goal_map_hint_child_sponsor": "Vous avez épargné\n%1$d et ils vous manquent encore %2$d pour atteindre votre objectif. Votre parent parraine avec %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Modifier le montant de l'aide pour %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Modifier le montant de l'augmentation pour %1$d",
-  "approve_task_with_video": "Filmer une vidéo 🎥",
   "child_settings_steps_tracking_test": "Essayez de garder vos traces",
   "parent_settings_allowance_near": "Allocations à proximité",
   "not_set": "Non défini",
@@ -1282,7 +1281,6 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
-  "task_requires_photo_action": "Prendre une photo 📷",
   "go_back": "Retour",
   "goal_completed_long_text_child": "<b>Félicitations</b>! Vos avez atteint votre objectif!. Une fois terminé, vous continuerez votre aventure.",
   "goal_completed_long_text_parent": "<b>Félicitations</b> ! %1$d a atteint son objectif!. Une fois terminé, %1$d continuera son aventure.",
@@ -1427,5 +1425,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Voulez-vous réinitialiser l'historique %1$d",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Êtes-vous sûr?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Réinitialiser",
-  "game_scoreboard_title": "PLZ_TRANSLATE Tableau de bord"
+  "game_scoreboard_title": "PLZ_TRANSLATE Tableau de bord",
+  "approve_task_with_video": "PLZ_TRANSLATE Enregistrer une vidéo",
+  "task_requires_photo_action": "PLZ_TRANSLATE Prendre une photo"
 }

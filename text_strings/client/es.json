@@ -1181,7 +1181,6 @@
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE You have saved\n%1$d and have %2$d left to reach your goal. Your parent sponsor with %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Editar la cantidad de ayuda para %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Editar la cantidad de impulso para %1$d",
-  "approve_task_with_video": "PLZ_TRANSLATE Grabar video",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Trate de mantener un registro",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Permiso cerca de usted",
   "not_set": "PLZ_TRANSLATE No establecido",
@@ -1282,7 +1281,6 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
-  "task_requires_photo_action": "PLZ_TRANSLATE Tomar una foto",
   "go_back": "PLZ_TRANSLATE Regresa",
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>¡Enhorabuena</b> ! Su objetivo meta se alcanza. Cuando haya terminado, continuará su viaje.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>¡Enhorabuena</b> ! %1$d se alcanza el objetivo. Una vez completado, %1$d continuará el viaje.",
@@ -1427,5 +1425,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE ¿Quieres restablecer la historia de %1$d",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE ¿Estás seguro?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reiniciar",
-  "game_scoreboard_title": "PLZ_TRANSLATE Marcador"
+  "game_scoreboard_title": "PLZ_TRANSLATE Marcador",
+  "approve_task_with_video": "PLZ_TRANSLATE Grabar video",
+  "task_requires_photo_action": "PLZ_TRANSLATE Toma una foto"
 }

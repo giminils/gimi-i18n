@@ -1181,7 +1181,6 @@
   "savings_goal_map_hint_child_sponsor": "Du har opsparet\n%1$d og har %2$d tilbage at spare op for at nå målet. Din forælder støtter med %3$d",
   "savings_goal_edit_parent_help_title": "Rediger hjælp beløb til %1$d",
   "savings_goal_edit_parent_boost_title": "Rediger boost beløb t %1$d",
-  "approve_task_with_video": "Optag video 🎥",
   "child_settings_steps_tracking_test": "Prøv at holde styr på det",
   "parent_settings_allowance_near": "Godtgørelse i nærheden af dig",
   "not_set": "Ikke indstillet",
@@ -1282,7 +1281,6 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
-  "task_requires_photo_action": "Tag et billede 📷",
   "go_back": "Gå tilbage",
   "goal_completed_long_text_child": " <b>Tillykke</b> ! Dit mål er nået. Når det er fuldført, kan du fortsætte din rejse.",
   "goal_completed_long_text_parent": " <b>Tillykke</b> ! %1$d Målet er nået. Når det er fuldført, vil %1$d kunne fortsætte sin rejse.",
@@ -1427,5 +1425,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Vil du nulstille %1$d historie",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Er du sikker?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Nulstille",
-  "game_scoreboard_title": "PLZ_TRANSLATE resultattavlen"
+  "game_scoreboard_title": "PLZ_TRANSLATE resultattavlen",
+  "approve_task_with_video": "PLZ_TRANSLATE Optag video",
+  "task_requires_photo_action": "PLZ_TRANSLATE Tag et billede"
 }

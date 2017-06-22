@@ -1192,7 +1192,6 @@
   "savings_goal_map_hint_child_sponsor": "Du har sparat\n%1$d och har %2$d kvar till målet. Din förälder sponsrar med %3$d",
   "savings_goal_edit_parent_help_title": "Sätt sponsrad summa för %1$d",
   "savings_goal_edit_parent_boost_title": "Sätt boost summa för %1$d",
-  "approve_task_with_video": "Filma 🎥",
   "child_settings_steps_tracking_test": "Försök att hålla koll",
   "parent_settings_allowance_near": "Veckopeng nära dig",
   "not_set": "Ej satt",
@@ -1293,7 +1292,6 @@
   "instagram_url": "https://www.instagram.com/veckopengen/",
   "facebook_url": "https://www.facebook.com/veckopengen/",
   "twitter_url": "https://twitter.com/veckopengen/",
-  "task_requires_photo_action": "Ta bild 📷",
   "go_back": "Tillbaka",
   "goal_completed_long_text_child": "<b>Grattis</b>! Ditt sparmål är uppnått. När det har avslutats fortsätter du din sparresa.",
   "goal_completed_long_text_parent": "<b>Grattis</b>! %1$d sparmål är uppnått. När det har avslutats fortsätter %1$d sin sparresa.",
@@ -1438,5 +1436,7 @@
   "child_settings_reset_history_child_popover_title": "Vill du återställa %1$d historia",
   "child_settings_reset_history_child_popover_message": "Är du säker?",
   "child_settings_reset_history_child_popover_reset_action": "Återställa",
-  "game_scoreboard_title": "Topplistan"
+  "game_scoreboard_title": "Topplistan",
+  "approve_task_with_video": "Filma",
+  "task_requires_photo_action": "Ta bild"
 }

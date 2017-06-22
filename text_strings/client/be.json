@@ -1181,7 +1181,6 @@
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE You have saved\n%1$d and have %2$d left to reach your goal. Your parent sponsor with %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Змяніць колькасць дапамогі %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Змяніць колькасць падштурхоўвання для %1$d",
-  "approve_task_with_video": "PLZ_TRANSLATE Запіс відэа 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE старайцеся сачыць",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Дапаможнік побач з вамі",
   "not_set": "PLZ_TRANSLATE Не ўстаноўлена",
@@ -1282,7 +1281,6 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
-  "task_requires_photo_action": "PLZ_TRANSLATE сфатаграфуйце 📷",
   "go_back": "PLZ_TRANSLATE Вяртацца",
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Віншуем!</b> Ваша мэта мэта дасягнутая. Калі яна будзе скончаная, вы будзеце працягваць сваё падарожжа.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Віншуем!</b> %1$d мэта дасягнутая. Пасля завяршэння %1$d будуць працягваць падарожжа.",
@@ -1427,5 +1425,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Вы хочаце скінуць %1$d гісторыі",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Вы ўпэўнены?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE скід",
-  "game_scoreboard_title": "PLZ_TRANSLATE табло"
+  "game_scoreboard_title": "PLZ_TRANSLATE табло",
+  "approve_task_with_video": "PLZ_TRANSLATE запіс відэа",
+  "task_requires_photo_action": "PLZ_TRANSLATE сфатаграфуйце"
 }
