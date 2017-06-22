@@ -1427,5 +1427,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Вы хочаце скінуць %1$d гісторыі",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Вы ўпэўнены?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE скід",
-  "game_scoreboard_title": "PLZ_TRANSLATE табло"
+  "game_scoreboard_title": "PLZ_TRANSLATE табло",
+  "boost_change_popover_warning_title": "PLZ_TRANSLATE Папярэднія фарсіруе зменіцца",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Вы ўжо далі %1$d імпульс для дасягнення гэтай мэты. Змена колькасці фарсіравання таксама зменіць ўвесь папярэдні падштурхоўвання."
 }

@@ -1427,5 +1427,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Voulez-vous réinitialiser l'historique %1$d",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Êtes-vous sûr?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Réinitialiser",
-  "game_scoreboard_title": "PLZ_TRANSLATE Tableau de bord"
+  "game_scoreboard_title": "PLZ_TRANSLATE Tableau de bord",
+  "boost_change_popover_warning_title": "PLZ_TRANSLATE Les augmentations précédentes changeront",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Vous avez déjà accordé %1$d pour atteindre cet objectif. La modification de la quantité de l'impulsion changera également toutes les améliorations précédentes."
 }

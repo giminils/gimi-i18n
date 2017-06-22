@@ -1427,5 +1427,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Kas soovite nullida %1$d ajalugu",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Oled sa kindel?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE lähtestama",
-  "game_scoreboard_title": "PLZ_TRANSLATE tabloo"
+  "game_scoreboard_title": "PLZ_TRANSLATE tabloo",
+  "boost_change_popover_warning_title": "PLZ_TRANSLATE Eelmine suurendab muutuvad",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Olete varem andnud %1$d tõuke selle eesmärgi saavutamiseks. Muutuv summa tõuke muutuvad ka kõik eelmised suurendab."
 }

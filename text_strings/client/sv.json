@@ -1438,5 +1438,7 @@
   "child_settings_reset_history_child_popover_title": "Vill du återställa %1$d historia",
   "child_settings_reset_history_child_popover_message": "Är du säker?",
   "child_settings_reset_history_child_popover_reset_action": "Återställa",
-  "game_scoreboard_title": "Topplistan"
+  "game_scoreboard_title": "Topplistan",
+  "boost_change_popover_warning_title": "Tidigare boost kommer att ändras",
+  "boost_change_popover_warning_text": "Du har tidigare gett %1$d boost för att uppnå det här sparmålet. Ändrar du summan på boosten så ändras också all tidigare boost."
 }

@@ -1427,5 +1427,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Wil je %1$d geschiedenis resetten",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Weet je het zeker?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Reset",
-  "game_scoreboard_title": "PLZ_TRANSLATE Scorebord"
+  "game_scoreboard_title": "PLZ_TRANSLATE Scorebord",
+  "boost_change_popover_warning_title": "PLZ_TRANSLATE Vorige verhogingen zullen veranderen",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Je hebt eerder %1$d boost gegeven om dit doel te bereiken. Als u de waarde van de boost verandert, verandert ook alle vorige boosts."
 }

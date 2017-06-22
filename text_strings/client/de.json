@@ -1427,5 +1427,7 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Möchten Sie %1$d Geschichte zurücksetzen",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Bist du sicher?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE Zurücksetzen",
-  "game_scoreboard_title": "PLZ_TRANSLATE Anzeigetafel"
+  "game_scoreboard_title": "PLZ_TRANSLATE Anzeigetafel",
+  "boost_change_popover_warning_title": "PLZ_TRANSLATE Vorherige Verstärkungen werden sich ändern",
+  "boost_change_popover_warning_text": "PLZ_TRANSLATE Sie haben bisher %1$d geboten, um dieses Ziel zu erreichen. Das Ändern des Betrags des Boosts ändert auch alle vorherigen Verstärkungen."
 }
