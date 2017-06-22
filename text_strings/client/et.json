@@ -1181,6 +1181,7 @@
   "savings_goal_map_hint_child_sponsor": "PLZ_TRANSLATE You have saved\n%1$d and have %2$d left to reach your goal. Your parent sponsor with %3$d",
   "savings_goal_edit_parent_help_title": "PLZ_TRANSLATE Edit abi summa %1$d",
   "savings_goal_edit_parent_boost_title": "PLZ_TRANSLATE Edit tõuke summa %1$d",
+  "approve_task_with_video": "PLZ_TRANSLATE Salvestage video 🎥",
   "child_settings_steps_tracking_test": "PLZ_TRANSLATE Püüa jälgida",
   "parent_settings_allowance_near": "PLZ_TRANSLATE Saastekvootide teie lähedal",
   "not_set": "PLZ_TRANSLATE ei ole määratud",
@@ -1281,6 +1282,7 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "PLZ_TRANSLATE Pildista 📷",
   "go_back": "PLZ_TRANSLATE Mine tagasi",
   "goal_completed_long_text_child": "PLZ_TRANSLATE <b>Õnnitleme!</b> Teie eesmärk eesmärk on saavutatud. Kui allalaadimine on lõppenud, saate jätkata oma teekonda.",
   "goal_completed_long_text_parent": "PLZ_TRANSLATE <b>Õnnitleme!</b> %1$d eesmärk on saavutatud. Täidetud %1$d jätkab reisi.",
@@ -1425,7 +1427,5 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Kas soovite nullida %1$d ajalugu",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Oled sa kindel?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE lähtestama",
-  "game_scoreboard_title": "PLZ_TRANSLATE tabloo",
-  "approve_task_with_video": "PLZ_TRANSLATE Salvestage video",
-  "task_requires_photo_action": "PLZ_TRANSLATE Tee pilti"
+  "game_scoreboard_title": "PLZ_TRANSLATE tabloo"
 }

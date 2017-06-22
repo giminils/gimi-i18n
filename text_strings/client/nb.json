@@ -1181,6 +1181,7 @@
   "savings_goal_map_hint_child_sponsor": "Du har spart\n%1$d og har %2$d igjen for å nå målet ditt. Dine foreldre sponser med %3$d",
   "savings_goal_edit_parent_help_title": "Rediger hjelpebeløp for %1$d",
   "savings_goal_edit_parent_boost_title": "Rediger boostbeløp for %1$d",
+  "approve_task_with_video": "Ta opp video 🎥",
   "child_settings_steps_tracking_test": "Forsøk å holde følge",
   "parent_settings_allowance_near": "Belønning nær deg",
   "not_set": "Ikke satt",
@@ -1281,6 +1282,7 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "Ta bilde 📷",
   "go_back": "Gå tilbake",
   "goal_completed_long_text_child": "<b>Gratulerer</b> ! Målet ditt er nådd. Når det er ferdig, fortsetter din reise.",
   "goal_completed_long_text_parent": "<b>Gratulerer</b> ! %1$d målet er nådd. Når du er ferdig, vil %1$d fortsette reisen.",
@@ -1425,7 +1427,5 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Ønsker du å tilbakestille %1$d historie",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Er du sikker?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE tilbakestille",
-  "game_scoreboard_title": "PLZ_TRANSLATE Scoreboard",
-  "approve_task_with_video": "PLZ_TRANSLATE Ta opp video",
-  "task_requires_photo_action": "PLZ_TRANSLATE Ta et bilde"
+  "game_scoreboard_title": "PLZ_TRANSLATE Scoreboard"
 }

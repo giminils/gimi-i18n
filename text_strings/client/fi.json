@@ -1181,6 +1181,7 @@
   "savings_goal_map_hint_child_sponsor": "Olet säästänyt\n%1$d ja sinulla on %2$d jäljellä tavoitteestasi. Vanhempasi on sponsoroinut sinua %3$d",
   "savings_goal_edit_parent_help_title": "Muokkaa sponsoroitua summaa %1$d:lla",
   "savings_goal_edit_parent_boost_title": "Muokkaa Boost-summaa %1$d:lla",
+  "approve_task_with_video": "Kuvaa video 🎥",
   "child_settings_steps_tracking_test": "Yritä seurata",
   "parent_settings_allowance_near": "Viikkoraha lähelläsi",
   "not_set": "Ei valittu",
@@ -1281,6 +1282,7 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
+  "task_requires_photo_action": "Ota kuva 📷",
   "go_back": "Mene takaisin",
   "goal_completed_long_text_child": "<b>Onneksi olkoon!</b> Tavoitteesi on saavutettu. Kun se on valmis, voit jatkaa säästämistä.",
   "goal_completed_long_text_parent": "<b>Onneksi olkoon!</b> %1$d tavoite on saavutettu. Valmistuttuaan %1$d jatkaa säästämistään.",
@@ -1425,7 +1427,5 @@
   "child_settings_reset_history_child_popover_title": "PLZ_TRANSLATE Haluatko nollata %1$d historiaa",
   "child_settings_reset_history_child_popover_message": "PLZ_TRANSLATE Oletko varma?",
   "child_settings_reset_history_child_popover_reset_action": "PLZ_TRANSLATE asettaa uudelleen",
-  "game_scoreboard_title": "PLZ_TRANSLATE Tulostaulu",
-  "approve_task_with_video": "PLZ_TRANSLATE Kuvaa video",
-  "task_requires_photo_action": "PLZ_TRANSLATE Ota kuva"
+  "game_scoreboard_title": "PLZ_TRANSLATE Tulostaulu"
 }
