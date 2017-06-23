@@ -1194,7 +1194,7 @@
   "connection_handler_connecting": "Connecting",
   "connection_handler_connected": "Connected",
   "savings_goal_nothing_saved_child": "You have not saved anything",
-  "savings_goal_nothing_saved_parent": "%1$d have not saved anything",
+  "savings_goal_nothing_saved_parent": "%1$d has not saved anything",
   "savings_goal_info_text_overview_parent_help_child": "You have now reached %1$d of your savings goals. You have the %2$d in your piggy bank and %3$d left to save. Parent help is activated and you're supported with %4$d to your savings goals. You have reached %5$d saving goals in total",
   "savings_goal_info_text_overview_child": "You have now reached %1$d of your savings goal. You have %2$d in your piggy bank and %3$d left to save.  You have reached %4$d savings goal in total",
   "savings_goal_info_text_overview_parent_help_parent": "%1$d has now reached %2$d the savings goal. %3$d is in the piggy bank and %4$d is yet to be saved. Parental help is enabled and you sponsor with %5$d. %1$d has reached %6$d savings goals in total",
