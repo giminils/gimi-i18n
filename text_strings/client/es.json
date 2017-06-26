@@ -1438,5 +1438,6 @@
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Cuando invita a un niño, se envía un mensaje al niño para descargar la aplicación. Una vez que el niño haya descargado la aplicación, hará clic en el enlace del mensaje para conectarse a usted.",
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Se ha enviado un mensaje a su hijo para descargar la aplicación. Una vez descargada la aplicación, su hijo puede tocar el enlace del mensaje para conectarse.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Objetivos de ahorro alcanzados",
-  "goal_map_pie_saved_title": "PLZ_TRANSLATE El hucha"
+  "goal_map_pie_saved_title": "PLZ_TRANSLATE El hucha",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Objetivos alcanzados: %1$d Promedio de la suma: %2$d Logro más alto: %3$d Ranking de %4$d años de edad: Top% 5 $ d ([Total Saved in% 6 $ d])"
 }

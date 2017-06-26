@@ -1438,5 +1438,6 @@
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Kui kutsute last, saadetakse teade, et laps alla laadida app. Kui laps on alla rakenduse, siis klõpsa lingil, et suhelda oma.",
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Sõnum on saadetud teie laps alla app. Kui rakendus on alla laaditud, teie laps saab puudutada lingil ühendada.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutatud kokkuhoid eesmärgid",
-  "goal_map_pie_saved_title": "PLZ_TRANSLATE notsu panga"
+  "goal_map_pie_saved_title": "PLZ_TRANSLATE notsu panga",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutatud eesmärgid: %1$d keskmine summa: %2$d Kõrgeim saavutatud: %3$d asetuse %4$d aastastest: Top% 5 $ d ([Kokku salvestatud% 6 $ d])"
 }

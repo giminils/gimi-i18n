@@ -1449,5 +1449,6 @@
   "invite_child_popover_help_desc": "När du bjuder in ett barn så skickas ett meddelande till barnet om att ladda ned appen. När barnet laddat ned appen så ska de klicka på länken i meddelandet för att koppla er samman.",
   "invite_child_popover_success_desc": "Ett meddelande har skickats till ditt barn om att ladda ned appen. När appen laddats ned så kan ditt barn trycka på länken i meddelandet för att koppla er samman.",
   "goal_map_pie_all_goals_title": "Uppnådda sparmål",
-  "goal_map_pie_saved_title": "Spargrisen"
+  "goal_map_pie_saved_title": "Spargrisen",
+  "goal_map_pie_all_goals_desc": "Antal uppnådda: %1$d\nSnittsumma: %2$d\nHögst uppnådda: %3$d\nRanking för %4$d åringar: Topp %5$d ([Totalt sparat i %6$d])"
 }

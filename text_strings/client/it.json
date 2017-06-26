@@ -1438,5 +1438,6 @@
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Quando inviti un bambino, viene inviato un messaggio al bambino per scaricare l'applicazione. Una volta che il bambino ha scaricato l'applicazione, fanno clic sul collegamento nel messaggio per connettersi a te.",
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Un messaggio è stato inviato al tuo bambino per scaricare l'applicazione. Una volta scaricata l'applicazione, il tuo bambino può toccare il collegamento nel messaggio per connettersi.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Raggiunto gli obiettivi di risparmio",
-  "goal_map_pie_saved_title": "PLZ_TRANSLATE La banca piggy"
+  "goal_map_pie_saved_title": "PLZ_TRANSLATE La banca piggy",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Gol raggiunti: %1$d Somma media: %2$d Massimo raggiunto: %3$d Ranking per %4$d anni: Top% 5 $ d ([Totale salvato in% 6 $ d])"
 }
