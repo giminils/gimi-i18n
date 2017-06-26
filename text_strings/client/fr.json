@@ -1435,5 +1435,6 @@
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d voulez vous coupler avec vous",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Appuyez sur Confirmer l&#39;appariement pour correspondre avec %1$d",
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Confirmer l'appariement",
-  "invite_child_popover_help_desc": "PLZ_TRANSLATE Lorsque vous invitez un enfant, un message est envoyé à l'enfant pour télécharger l'application. Une fois que l'enfant a téléchargé l'application, ils cliquent sur le lien dans le message pour vous connecter."
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Lorsque vous invitez un enfant, un message est envoyé à l'enfant pour télécharger l'application. Une fois que l'enfant a téléchargé l'application, ils cliquent sur le lien dans le message pour vous connecter.",
+  "invite_child_popover_success_desc": "PLZ_TRANSLATE Un message a été envoyé à votre enfant pour télécharger l'application. Une fois l'application téléchargée, votre enfant peut toucher le lien dans le message pour se connecter."
 }

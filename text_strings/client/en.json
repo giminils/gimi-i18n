@@ -1435,5 +1435,6 @@
   "connect_nearby_popover_title": "%1$d want to pair with you",
   "connect_nearby_popover_desc": "Press confirm pairing to pair with %1$d",
   "connect_nearby_popover_connect_button": "Confirm pairing",
-  "invite_child_popover_help_desc": "When you invite a child, a message is sent to the child to download the app. Once the child has downloaded the app, they will click on the link in the message to connect to you."
+  "invite_child_popover_help_desc": "When you invite a child, a message is sent to the child to download the app. Once the child has downloaded the app, they will click on the link in the message to connect to you.",
+  "invite_child_popover_success_desc": "A message has been sent to your child to download the app. Once the app is downloaded, your child can tap the link in the message to connect."
 }

@@ -1435,5 +1435,6 @@
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d soovite siduda teiega",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Press kinnitavad sidumist siduda %1$d",
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Kinnita sidumist",
-  "invite_child_popover_help_desc": "PLZ_TRANSLATE Kui kutsute last, saadetakse teade, et laps alla laadida app. Kui laps on alla rakenduse, siis klõpsa lingil, et suhelda oma."
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Kui kutsute last, saadetakse teade, et laps alla laadida app. Kui laps on alla rakenduse, siis klõpsa lingil, et suhelda oma.",
+  "invite_child_popover_success_desc": "PLZ_TRANSLATE Sõnum on saadetud teie laps alla app. Kui rakendus on alla laaditud, teie laps saab puudutada lingil ühendada."
 }
