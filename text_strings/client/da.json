@@ -1439,5 +1439,5 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Der er sendt en besked til dit barn for at downloade appen. Når appen er downloadet, kan dit barn trykke på linket i meddelelsen for at oprette forbindelse.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Opnåede besparelsesmål",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE Spargrisen",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Opnåede mål: %1$d Gennemsnitlig sum: %2$d Højeste opnået: %3$d Ranking for %4$d årige: Top% 5 $ d ([I alt gemt i% 6 $ d])"
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Opnåede mål: %1$d Gennemsnitlig sum: %2$d Højeste opnået: %3$d Ranking for %4$d årige: Top% 5 $ d (% 6 $ d)"
 }
