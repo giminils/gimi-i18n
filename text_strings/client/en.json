@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "Previous boosts will change",
   "boost_change_popover_warning_text": "You have previously given %1$d boost to achieve this goal. Changing the amount of the boost will also change all previous boosts.",
   "continue": "Continue",
-  "task_requires_picture_proof": "Photo evidence required"
+  "task_requires_picture_proof": "Photo evidence required",
+  "connect_nearby_popover_title": "%1$d want to pair with you",
+  "connect_nearby_popover_desc": "Press confirm pairing to pair with %1$d",
+  "connect_nearby_popover_connect_button": "Confirm pairing"
 }

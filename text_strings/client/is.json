@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Fyrri aukning mun breytast",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Þú hefur áður gefið %1$d aukningu til að ná þessu markmiði. Breyting á upphæð uppörvunarinnar mun einnig breyta öllum fyrri aukahlutum.",
   "continue": "PLZ_TRANSLATE Haltu áfram",
-  "task_requires_picture_proof": "PLZ_TRANSLATE Photo sönnunargögn krafist"
+  "task_requires_picture_proof": "PLZ_TRANSLATE Photo sönnunargögn krafist",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d vill para við þig",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Ýttu á staðfestu pörun til að para við %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Staðfestu pörun"
 }

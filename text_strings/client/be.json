@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Папярэднія фарсіруе зменіцца",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Вы ўжо далі %1$d імпульс для дасягнення гэтай мэты. Змена колькасці фарсіравання таксама зменіць ўвесь папярэдні падштурхоўвання.",
   "continue": "PLZ_TRANSLATE працягваць",
-  "task_requires_picture_proof": "PLZ_TRANSLATE патрабуецца фотаздымак доказы"
+  "task_requires_picture_proof": "PLZ_TRANSLATE патрабуецца фотаздымак доказы",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d хочуць спарвацца з вамі",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Націсніце пацвярджэнне спалучэння для спалучэння з %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE пацвердзіце спалучэнне"
 }

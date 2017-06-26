@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Les augmentations précédentes changeront",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Vous avez déjà donné %1$d boost pour atteindre cet objectif. La modification de la quantité de l&#39;impulsion changera également toutes les améliorations précédentes.",
   "continue": "PLZ_TRANSLATE Continuer",
-  "task_requires_picture_proof": "PLZ_TRANSLATE Photo épreuve requise"
+  "task_requires_picture_proof": "PLZ_TRANSLATE Photo épreuve requise",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d voulez vous coupler avec vous",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Appuyez sur Confirmer l&#39;appariement pour correspondre avec %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Confirmer l'appariement"
 }

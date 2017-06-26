@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Tidligere forsterkninger vil endres",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Du har tidligere gitt %1$d boost for å oppnå dette målet. Endre mengden av boostet vil også endre alle tidligere boost.",
   "continue": "PLZ_TRANSLATE Fortsette",
-  "task_requires_picture_proof": "PLZ_TRANSLATE Foto bevis nødvendig"
+  "task_requires_picture_proof": "PLZ_TRANSLATE Foto bevis nødvendig",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d vil parre med deg",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Trykk på Bekreft paring for å parre med %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bekreft sammenkobling"
 }

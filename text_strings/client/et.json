@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Eelmine suurendab muutuvad",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Olete varem andnud %1$d tõuke selle eesmärgi saavutamiseks. Muutuv summa tõuke muutuvad ka kõik eelmised suurendab.",
   "continue": "PLZ_TRANSLATE jätkama",
-  "task_requires_picture_proof": "PLZ_TRANSLATE Foto nõutavad tõendid"
+  "task_requires_picture_proof": "PLZ_TRANSLATE Foto nõutavad tõendid",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d soovite siduda teiega",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Press kinnitavad sidumist siduda %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Kinnita sidumist"
 }

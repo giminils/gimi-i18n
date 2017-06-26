@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "Frühere Verstärkungen werden sich ändern",
   "boost_change_popover_warning_text": "Du hast bisher einen Boost von %1$d erhalten, um dieses Ziel zu erreichen. Das Ändern des Boots-Betrags ändert auch alle vorherigen Förderungen.",
   "continue": "Fortsetzen",
-  "task_requires_picture_proof": "Bildnachweis erforderlich"
+  "task_requires_picture_proof": "Bildnachweis erforderlich",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d möchte mit dir paaren",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Drücken Sie die Bestätigungspaarung, um mit %1$d zu paaren",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Pairing bestätigen"
 }

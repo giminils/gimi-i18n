@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Gli incrementi precedenti cambieranno",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Hai già dato un %1$d per raggiungere questo obiettivo. La modifica della quantità di boost modificherà anche tutte le boost precedenti.",
   "continue": "PLZ_TRANSLATE Continua",
-  "task_requires_picture_proof": "PLZ_TRANSLATE Sono necessarie prove fotografiche"
+  "task_requires_picture_proof": "PLZ_TRANSLATE Sono necessarie prove fotografiche",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d desidera accoppiarsi con te",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Premere conferma l&#39;accoppiamento per accoppiare con %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Conferma l'associazione"
 }

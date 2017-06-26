@@ -1431,5 +1431,8 @@
   "boost_change_popover_warning_title": "PLZ_TRANSLATE Los aumentos anteriores cambiarán",
   "boost_change_popover_warning_text": "PLZ_TRANSLATE Usted ha dado previamente %1$d impulso para lograr este objetivo. Cambiar la cantidad de impulso también cambiará todos los aumentos anteriores.",
   "continue": "PLZ_TRANSLATE Continuar",
-  "task_requires_picture_proof": "PLZ_TRANSLATE Se requiere evidencia fotográfica"
+  "task_requires_picture_proof": "PLZ_TRANSLATE Se requiere evidencia fotográfica",
+  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d quiere emparejar con usted",
+  "connect_nearby_popover_desc": "PLZ_TRANSLATE Presione confirmar emparejamiento para emparejar con %1$d",
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Confirmar emparejamiento"
 }
