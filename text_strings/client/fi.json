@@ -1439,5 +1439,6 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Viesti on lähetetty lapsesi lataa sovellus. Kun sovellus on ladattu, lapsesi voi napauttaa linkkiä viestissä yhteyden.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutettu säästöjä tavoitteet",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE säästöpossu",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutti tavoitteensa: %1$d Keskimäärin summa: %2$d Korkein saavutettu: %3$d Ranking %4$d vuotiaiden: Top% 5 $ d (% 6 $ d)"
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutti tavoitteensa: %1$d Keskimäärin summa: %2$d Korkein saavutettu: %3$d Ranking %4$d vuotiaiden: Top% 5 $ d (% 6 $ d)",
+  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Vanhemman apua on aktivoitu. Kun %1$d nousee %2$d , maksat loput %3$d ."
 }

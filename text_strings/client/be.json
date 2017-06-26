@@ -1439,5 +1439,6 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Паведамленне было адпраўлена на ваш дзіця, каб загрузіць дадатак. Пасля таго, як прыкладанне загружаецца, ваш дзіця можа націснуць на спасылку ў паведамленні, для падлучэння.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Дасягнутыя ашчадныя мэты",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE скарбонкі",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Дасягнутыя мэты: %1$d Сярэдняя сума: %2$d Самая высокая дасягнута: %3$d Рэйтынг за %4$d - летніх: Top% 5 $ D (% $ 6 г)"
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Дасягнутыя мэты: %1$d Сярэдняя сума: %2$d Самая высокая дасягнута: %3$d Рэйтынг за %4$d - летніх: Top% 5 $ D (% $ 6 г)",
+  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Бацька дапамога была актываваная. Калі %1$d дасягае %2$d , вы плаціце пакінутыя %3$d ."
 }
