@@ -1451,5 +1451,7 @@
   "goal_map_pie_all_goals_title": "Uppnådda sparmål",
   "goal_map_pie_saved_title": "Spargrisen",
   "goal_map_pie_all_goals_desc": "Antal uppnådda: %1$d\nSnittsumma: %2$d\nHögst uppnådda: %3$d\nRanking för %4$d åringar: Topp %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "Föräldrahjälp har aktiverats.\nNär %1$d når %2$d betalar du resterande %3$d."
+  "goal_pie_chart_parenthelp_parent": "Föräldrahjälp har aktiverats.\nNär %1$d når %2$d betalar du resterande %3$d.",
+  "left_to_save_child": "Du har %1$d kvar att spara.",
+  "left_to_save_parent": "%1$d har %2$d kvar att spara."
 }

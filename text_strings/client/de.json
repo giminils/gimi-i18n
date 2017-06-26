@@ -1439,5 +1439,8 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Eine Nachricht wurde an Ihr Kind gesendet, um die App herunterzuladen. Sobald die App heruntergeladen ist, kann Ihr Kind den Link in der Nachricht anschließen, um eine Verbindung herzustellen.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Erreichte Sparziele",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE Die Sparschwein",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste erreichte: %3$d Rangliste für %4$d Jahr alt: Top% 5 $ d ([gesamt gespart in% 6 $ d])"
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste erreichte: %3$d Rangliste für %4$d Jahr alt: Top% 5 $ d ([gesamt gespart in% 6 $ d])",
+  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Elternhilfe wurde aktiviert. Wenn %1$d %2$d , bezahlt man die restlichen %3$d .",
+  "left_to_save_child": "PLZ_TRANSLATE Sie haben %1$d links zu speichern.",
+  "left_to_save_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern."
 }

@@ -1440,5 +1440,7 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutettu säästöjä tavoitteet",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE säästöpossu",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutti tavoitteensa: %1$d Keskimäärin summa: %2$d Korkein saavutettu: %3$d Ranking %4$d vuotiaiden: Top% 5 $ d (% 6 $ d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Vanhemman apua on aktivoitu. Kun %1$d nousee %2$d , maksat loput %3$d ."
+  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Vanhemman apua on aktivoitu. Kun %1$d nousee %2$d , maksat loput %3$d .",
+  "left_to_save_child": "PLZ_TRANSLATE Sinulla on %1$d vasemmalle pelastaa.",
+  "left_to_save_parent": "PLZ_TRANSLATE %1$d on %2$d vasemmalle säästämiseksi."
 }
