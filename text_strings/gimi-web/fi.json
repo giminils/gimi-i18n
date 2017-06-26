@@ -6,14 +6,14 @@
   "title.about": "Gimi >> Meistä",
   "title.terms": "Gimi >> Ehdot",
   "title.faq": "Gimi >> FAQ",
-  
+
   "header.home": "Koti",
   "header.family": "Perheyhteisö",
   "header.training": "Valmennus",
   "header.about": "Meistä",
   "header.news": "Uutiset",
   "header.job": "Työpaikat",
-  
+
   "footer.amout_paid_out": "Viikko- ja kuukausirahaa maksettu",
   "footer.about_companyname": "Gimistä",
   "footer.about": "Me Gimillä pyrimme tekemään helpoksi terveen ja vastuullisen rahankäytön lapsille ja nuorille. Meidän työkalumme edistävät turvallista, opettavaista ja hauskempaa talouden hallintaa sekä lapsille että vanhemmille.",
@@ -22,7 +22,7 @@
   "footer.press": "Lehdistö",
   "footer.terms": "Ehdot",
   "footer.faq": "FAQ",
-  
+
   "home.slide1.header": "Puhutaan rahasta!",
   "home.slide1.desc": "Gimi on sovellus, jolla on ekonomisia superfunktioita, tehden rahankäsittelystä hauskaa ja opettavaista. Sekä lapsille että vanhemmille.",
   "home.slide2.header": "PLZ_CHECK Me olemme asiantuntijoita!",
@@ -30,7 +30,7 @@
   "home.slide3.header": "Perhe ensin!",
   "home.slide3.desc": "Olemme kehittäneet omat eettiset sääntömme, jotta koko perhe voi tuntea olonsa turvalliseksi. <a href=\"/terms\" target=\"_blank\"><em>Lue eettiset sääntömme täältä.</em></a>",
   "home.watch": "Näytä video",
-  
+
   "home.section1.header": "Perheen talous hauskaksi",
   "home.section1.desc": "Gimillä on loistavia perheominaisuuksia, jotka antavat lasten käsitellä omia rahojaan ja antavat heille ekonomisia supervoimia tosielämässä.",
   "home.section2.header": "Pidä kirjaa rahoista",
@@ -54,7 +54,7 @@
   "home.section5.point3": "säästetty jalkapalloa varten",
   "home.section6.download_tip": "Lataa nyt ja vapauta supervoimasi!",
   "home.section6.button": "Perheyhteisö",
-  
+
   "home.quote1": "“Helppo käyttää ja hieno tapa motivoida lapsiani!”",
   "home.quote1_sub": "37-vuotias kahden lapsen äiti",
   "home.quote1_name": "Anna",
@@ -70,7 +70,7 @@
   "home.quote5": "“Helppo tapa opettaa lapsille rahan arvo!”",
   "home.quote5_sub": "29 vuotta, Henryn äiti",
   "home.quote5_name": "Johanna",
-  
+
   "family.section1.header": "Perheenjäsenet...",
   "family.section1.desc": "…ovat kehittymässä perheen talouden supersankareiksi. He säästävät, jakavat askareita sekä pitävät kirjaa viikko- ja kuukausirahoistaan. Täältä voit seurata heidän matkaansa kohti parempaa rahankäyttöä perheen kesken.",
   "family.slider1.amount": "3 $",
@@ -130,7 +130,7 @@
   "family.section5.body": "Lapset puhuvat ja oppivat rahasta kotona. Gimi on koonnut vinkkejä ja keinoja vanhemmille, jotka haluavat pitää hauskaa ja samalla auttaa lapsiaan ymmärtämään rahankäyttöä. Sukella valmennukseen ja muutu supervanhemmaksi!",
   "family.section5.tip": "Ole supervanhempi!",
   "family.section5.button": "Valmennus",
-  
+
   "training.section1.header": "Talousharjoittelua supervanhemmille.",
   "training.section1.subtitle": "Täällä annamme sinulle vanhempana vinkkejä ja trikkejä rahan käytön opettamiseen lapsellesi.",
   "training.section1.point1.title": "Puhu rahasta!",
@@ -168,7 +168,7 @@
   "training.tab3.person.tip1": "Let the children create a business at home so that they better can understand trading.",
   "training.tab3.person.tip2": "To become aware of consequences from own behaviour is educative for children and Gimi can help focus more on that subject.",
   "training.tab3.bubble1": "Encouraging the stuff you want to see more from, is the best way to affect childrens behaviour.",
-  
+
   "about.header": "This is family business!",
   "about.subtitle": "We are here to change and improve the way young people learn how to handle digital money. We welcome all kids and parents to join our cause!",
   "about.section1.header": "Let the weekly pocket money live on!",
@@ -196,7 +196,7 @@
   "about.section4.mat": "Front end",
   "about.section4.join": "Want to join our team?",
   "about.section5": "Helping children and youths is important and something we take very serious. That is why we are not only educating young people in handling their own money. We are every month supporting ”The children's cancer fund” with parts of our employees salaries. By doing that we hope that we will help ”The children's cancer fund” with their important work in the fight against cancer.",
-  
+
   "faq.title": "FAQ",
   "faq.q1": "In which way do you use the information that is collected through the app?",
   "faq.q1.a": "We will not sell any information that we collect through Gimi. We might make some surveys in general without any personal information being touched.",
@@ -254,6 +254,6 @@
   "faq.q27.a": "PLZ_TRANSLATE Ei, sovellus on ilmainen. ",
   "faq.q28": "PLZ_TRANSLATE Mille alustat ovat viikkoraha?",
   "faq.q28.a": "PLZ_TRANSLATE Se on saatavilla App Storesta ja Google Playsta, niin sekä iPhone ja Android-puhelimet.",
-
+  "news.more": "Lue lisää",
   "currency": "USD"
 }
