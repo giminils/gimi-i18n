@@ -1436,5 +1436,6 @@
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Trykk på Bekreft paring for å parre med %1$d",
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bekreft sammenkobling",
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Når du inviterer et barn, sendes en melding til barnet for å laste ned appen. Når barnet har lastet ned appen, vil de klikke på lenken i meldingen for å koble deg til.",
-  "invite_child_popover_success_desc": "PLZ_TRANSLATE En melding er sendt til barnet ditt for å laste ned appen. Når appen er lastet ned, kan barnet ditt trykke på linken i meldingen for å koble til."
+  "invite_child_popover_success_desc": "PLZ_TRANSLATE En melding er sendt til barnet ditt for å laste ned appen. Når appen er lastet ned, kan barnet ditt trykke på linken i meldingen for å koble til.",
+  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Alle besparelsesmål"
 }

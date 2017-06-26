@@ -1436,5 +1436,6 @@
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Druk bevestig koppeling om te koppelen met %1$d",
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bevestig pairing",
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Wanneer u een kind uitnodigt, wordt er een bericht naar het kind gestuurd om de app te downloaden. Zodra het kind de app heeft gedownload, klikt u op de link in het bericht om verbinding te maken met u.",
-  "invite_child_popover_success_desc": "PLZ_TRANSLATE Er is een bericht naar je kind gestuurd om de app te downloaden. Zodra de app is gedownload, kan je kind op de link in het bericht tikken om te verbinden."
+  "invite_child_popover_success_desc": "PLZ_TRANSLATE Er is een bericht naar je kind gestuurd om de app te downloaden. Zodra de app is gedownload, kan je kind op de link in het bericht tikken om te verbinden.",
+  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Alle besparingsdoelstellingen"
 }

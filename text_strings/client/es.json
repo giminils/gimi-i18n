@@ -1436,5 +1436,6 @@
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Presione confirmar emparejamiento para emparejar con %1$d",
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Confirmar emparejamiento",
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Cuando invita a un niño, se envía un mensaje al niño para descargar la aplicación. Una vez que el niño haya descargado la aplicación, hará clic en el enlace del mensaje para conectarse a usted.",
-  "invite_child_popover_success_desc": "PLZ_TRANSLATE Se ha enviado un mensaje a su hijo para descargar la aplicación. Una vez descargada la aplicación, su hijo puede tocar el enlace del mensaje para conectarse."
+  "invite_child_popover_success_desc": "PLZ_TRANSLATE Se ha enviado un mensaje a su hijo para descargar la aplicación. Una vez descargada la aplicación, su hijo puede tocar el enlace del mensaje para conectarse.",
+  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Todos los objetivos de ahorro"
 }
