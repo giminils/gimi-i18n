@@ -1439,7 +1439,7 @@
   "invite_child_popover_success_desc": "A message has been sent to your child to download the app. Once the app is downloaded, your child can tap the link in the message to connect.",
   "goal_map_pie_all_goals_title": "Reached savings goals",
   "goal_map_pie_saved_title": "the piggy Bank",
-  "goal_map_pie_all_goals_desc": "Achieved goals: %1$d\nAverage sum: %2$d\nHighest achieved: %3$d\nRanking for %4$d year olds: Top %5$d (%6$d)",
+  "goal_map_pie_all_goals_desc": "Achieved goals: %1$d\nAverage amount: %2$d\nHighest achieved: %3$d\nRanking for %4$d year olds: Top %5$d (%6$d)",
   "goal_pie_chart_parenthelp_parent": "Parent help has been activated.\nWhen %1$d reaches %2$d, you pay the remaining %3$d.",
   "left_to_save_child": "You have %1$d left to save.",
   "left_to_save_parent": "%1$d has %2$d left to save."

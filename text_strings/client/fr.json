@@ -1439,8 +1439,8 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Un message a été envoyé à votre enfant pour télécharger l'application. Une fois l'application téléchargée, votre enfant peut toucher le lien dans le message pour se connecter.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Objectifs d'épargne réalisés",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE La tirelire",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Objectifs atteints: %1$d Somme moyenne: %2$d Plus haut résultat: %3$d Classement pour %4$d an old: Top% 5 $ d (% 6 $ d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE L&#39;aide parentale a été activée. Lorsque %1$d atteint %2$d , vous payez le %3$d restant %3$d .",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Objectifs atteints: %1$d Montant moyen: %2$d Plus haut résultat: %3$d Classement pour %4$d an old: Top %5$d (%6$d)",
+  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE L&#39;aide parentale a été activée. Lorsque %1$d atteint %2$d , vous payez le restant %3$d .",
   "left_to_save_child": "PLZ_TRANSLATE Vous avez %1$d gauche pour sauvegarder.",
   "left_to_save_parent": "PLZ_TRANSLATE %1$d a %2$d gauche pour sauvegarder."
 }

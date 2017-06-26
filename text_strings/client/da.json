@@ -1439,7 +1439,7 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Der er sendt en besked til dit barn for at downloade appen. Når appen er downloadet, kan dit barn trykke på linket i meddelelsen for at oprette forbindelse.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Opnåede besparelsesmål",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE Spargrisen",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Opnåede mål: %1$d Gennemsnitlig sum: %2$d Højeste opnået: %3$d Ranking for %4$d årige: Top% 5 $ d (% 6 $ d)",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Opnåede mål: %1$d Gennemsnitlig mængde: %2$d Højeste opnået: %3$d Ranking for %4$d årige: Top %5$d (%6$d)",
   "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Forældrehjælp er blevet aktiveret. Når %1$d når %2$d , betaler du de resterende %3$d .",
   "left_to_save_child": "PLZ_TRANSLATE Du har %1$d tilbage for at gemme.",
   "left_to_save_parent": "PLZ_TRANSLATE %1$d har %2$d tilbage for at gemme."

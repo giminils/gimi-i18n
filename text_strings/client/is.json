@@ -1439,7 +1439,7 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Skilaboð hafa verið send til barnsins til að hlaða niður forritinu. Þegar forritið er hlaðið niður getur barnið þitt smellt á tengilinn í skilaboðunum sem tengjast.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Náði markmiðum um sparnað",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE Grís bankans",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Náðu markmiðum: %1$d Meðaltal: %2$d Hæsta einkunn: %3$d Ranking fyrir %4$d ára: Top% 5 $ d (% 6 $ d)",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Náðu markmiðum: %1$d Meðaltal upphæð: %2$d Hæsta afrek: %3$d Ranking fyrir %4$d ára: Top %5$d (%6$d)",
   "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Foreldraaðstoð hefur verið virkjað. Þegar %1$d nær %2$d , greiðir þú eftir %3$d .",
   "left_to_save_child": "PLZ_TRANSLATE Þú hefur %1$d vinstri til að vista.",
   "left_to_save_parent": "PLZ_TRANSLATE %1$d hefur %2$d eftir til að vista."

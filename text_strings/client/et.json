@@ -1439,7 +1439,7 @@
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Sõnum on saadetud teie laps alla app. Kui rakendus on alla laaditud, teie laps saab puudutada lingil ühendada.",
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutatud kokkuhoid eesmärgid",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE notsu panga",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutatud eesmärgid: %1$d keskmine summa: %2$d Kõrgeim saavutatud: %3$d Edetabel %4$d aastased: Top% 5 $ d (% 6 $ d)",
+  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutatud eesmärgid: %1$d keskmine summa: %2$d Kõrgeim saavutatud: %3$d reitingu %4$d aastased: Top %5$d (%6$d)",
   "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Vanem abi on aktiveeritud. Kui %1$d jõuab %2$d , maksad ülejäänud %3$d .",
   "left_to_save_child": "PLZ_TRANSLATE Sul on %1$d vasakule salvestada.",
   "left_to_save_parent": "PLZ_TRANSLATE %1$d on %2$d vasakule salvestada."
