@@ -1434,5 +1434,6 @@
   "task_requires_picture_proof": "PLZ_TRANSLATE Photo sönnunargögn krafist",
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d vill para við þig",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Ýttu á staðfestu pörun til að para við %1$d",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Staðfestu pörun"
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Staðfestu pörun",
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Þegar þú býður barn, er skilaboð send til barnsins til að hlaða niður forritinu. Þegar barnið hefur hlaðið niður forritinu munu þau smella á tengilinn í skilaboðunum til að tengjast þér."
 }

@@ -1434,5 +1434,6 @@
   "task_requires_picture_proof": "PLZ_TRANSLATE Photo vaaditaan todisteita",
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d paritettavaa kanssasi",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Paina vahvista pariksi pariutumaan %1$d",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE vahvista pariksi"
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE vahvista pariksi",
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Kun kutsut lapsi, lähetetään viesti lapselle ladata sovelluksen. Kun lapsi on ladannut sovelluksen, ne klikkaa linkkiä viestissä yhteyden sinulle."
 }

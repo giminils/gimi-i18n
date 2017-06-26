@@ -1434,5 +1434,6 @@
   "task_requires_picture_proof": "PLZ_TRANSLATE Foto bevis kræves",
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d vil parre med dig",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Tryk på bekræft parring for at parre med %1$d",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bekræft parring"
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bekræft parring",
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Når du inviterer et barn, sendes en besked til barnet for at downloade appen. Når barnet har downloadet appen, klikker de på linket i meddelelsen for at oprette forbindelse til dig."
 }

@@ -1434,5 +1434,6 @@
   "task_requires_picture_proof": "PLZ_TRANSLATE патрабуецца фотаздымак доказы",
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d хочуць спарвацца з вамі",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Націсніце пацвярджэнне спалучэння для спалучэння з %1$d",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE пацвердзіце спалучэнне"
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE пацвердзіце спалучэнне",
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Калі вы запрашаеце дзіцяці, паведамленне адпраўляецца да дзіцяці, каб загрузіць дадатак. Пасля таго, як дзіця запампаваў прыкладанне, яны будуць націскаць на спасылку ў паведамленні, для падлучэння да вас."
 }

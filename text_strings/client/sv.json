@@ -1445,5 +1445,6 @@
   "task_requires_picture_proof": "Bildbevis krävs",
   "connect_nearby_popover_title": "%1$d vill koppla ihop med dig",
   "connect_nearby_popover_desc": "Tryck på bekräfta ihopkoppling för att koppla ihop med %1$d",
-  "connect_nearby_popover_connect_button": "bekräfta ihopkoppling"
+  "connect_nearby_popover_connect_button": "bekräfta ihopkoppling",
+  "invite_child_popover_help_desc": "När du bjuder in ett barn så skickas ett meddelande till barnet om att ladda ned appen. När barnet laddat ned appen så ska de klicka på länken i meddelandet för att koppla er samman."
 }

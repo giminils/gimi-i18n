@@ -1434,5 +1434,6 @@
   "task_requires_picture_proof": "PLZ_TRANSLATE Se requiere evidencia fotográfica",
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d quiere emparejar con usted",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Presione confirmar emparejamiento para emparejar con %1$d",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Confirmar emparejamiento"
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Confirmar emparejamiento",
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Cuando invita a un niño, se envía un mensaje al niño para descargar la aplicación. Una vez que el niño haya descargado la aplicación, hará clic en el enlace del mensaje para conectarse a usted."
 }

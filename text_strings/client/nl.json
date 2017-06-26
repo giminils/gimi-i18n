@@ -1434,5 +1434,6 @@
   "task_requires_picture_proof": "PLZ_TRANSLATE Foto bewijs vereist",
   "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d wil met je koppelen",
   "connect_nearby_popover_desc": "PLZ_TRANSLATE Druk bevestig koppeling om te koppelen met %1$d",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bevestig pairing"
+  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Bevestig pairing",
+  "invite_child_popover_help_desc": "PLZ_TRANSLATE Wanneer u een kind uitnodigt, wordt er een bericht naar het kind gestuurd om de app te downloaden. Zodra het kind de app heeft gedownload, klikt u op de link in het bericht om verbinding te maken met u."
 }
