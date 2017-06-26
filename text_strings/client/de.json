@@ -1437,5 +1437,6 @@
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Pairing bestätigen",
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Wenn Sie ein Kind einladen, wird eine Nachricht an das Kind gesendet, um die App herunterzuladen. Sobald das Kind die App heruntergeladen hat, werden sie auf den Link in der Nachricht klicken, um eine Verbindung zu Ihnen herzustellen.",
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Eine Nachricht wurde an Ihr Kind gesendet, um die App herunterzuladen. Sobald die App heruntergeladen ist, kann Ihr Kind den Link in der Nachricht anschließen, um eine Verbindung herzustellen.",
-  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Erreichte Sparziele"
+  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Erreichte Sparziele",
+  "goal_map_pie_saved_title": "PLZ_TRANSLATE Die Sparschwein"
 }

@@ -1437,5 +1437,6 @@
   "connect_nearby_popover_connect_button": "PLZ_TRANSLATE vahvista pariksi",
   "invite_child_popover_help_desc": "PLZ_TRANSLATE Kun kutsut lapsi, lähetetään viesti lapselle ladata sovelluksen. Kun lapsi on ladannut sovelluksen, ne klikkaa linkkiä viestissä yhteyden sinulle.",
   "invite_child_popover_success_desc": "PLZ_TRANSLATE Viesti on lähetetty lapsesi lataa sovellus. Kun sovellus on ladattu, lapsesi voi napauttaa linkkiä viestissä yhteyden.",
-  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutettu säästöjä tavoitteet"
+  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutettu säästöjä tavoitteet",
+  "goal_map_pie_saved_title": "PLZ_TRANSLATE säästöpossu"
 }
