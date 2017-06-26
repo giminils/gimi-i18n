@@ -1423,7 +1423,6 @@
   "goal_map_pie_starting_amount": "Startkapital",
   "child_task_share_popover_title": "Dela din uppgift!",
   "child_task_share_popover_text": "Bra jobbat! Dela din uppgift",
-  "goal_pie_chart_parenthelp_child": "Föräldrahjälp har aktiverats.\nNär du når %1$d betalar föräldern resterande %2$d.",
   "goal_pie_chart_start_child": "Du startade med %1$d i din spargris när du började spara till %2$d.",
   "are_you_sure_popover_title": "Är du säker?",
   "are_you_sure_popover_yes": "Ja, jag är säker",
@@ -1451,7 +1450,8 @@
   "goal_map_pie_all_goals_title": "Uppnådda sparmål",
   "goal_map_pie_saved_title": "Spargrisen",
   "goal_map_pie_all_goals_desc": "Antal uppnådda: %1$d\nSnittsumma: %2$d\nHögst uppnådda: %3$d\nRanking för %4$d åringar: Topp %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "Föräldrahjälp har aktiverats.\nNär %1$d når %2$d betalar du resterande %3$d.",
-  "left_to_save_child": "Du har %1$d kvar att spara.",
-  "left_to_save_parent": "%1$d har %2$d kvar att spara."
+  "goal_map_pie_overview_desc_parent_help_child": "Du har %1$d kvar att spara. Föräldrahjälp har aktiverats.\nNär du når %2$d betalar föräldern resterande %3$d.",
+  "goal_map_pie_overview_desc_parent_help_parent": "%1$d har %2$d kvar att spara. Föräldrahjälp har aktiverats.\nNär %1$d når %3$d betalar du resterande %4$d.",
+  "goal_map_pie_overview_desc_child": "Du har %1$d kvar att spara.",
+  "goal_map_pie_overview_desc_parent": "%1$d har %2$d kvar att spara."
 }

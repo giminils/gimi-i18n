@@ -1412,7 +1412,6 @@
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capital inicial",
   "child_task_share_popover_title": "PLZ_TRANSLATE ¡Comparte tu tarea!",
   "child_task_share_popover_text": "PLZ_TRANSLATE ¡Buen trabajo! Comparta su tarea",
-  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Se ha activado la ayuda de los padres.\nCuando llegue a %1$d, su padre pagará el último %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Empezó con %1$d en su alcancía cuando empezó a guardar para %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE ¿Estás seguro?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Sí estoy seguro",
@@ -1440,7 +1439,8 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Objetivos de ahorro alcanzados",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE El hucha",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Objetivos alcanzados: %1$d Cantidad promedio: %2$d Logro más alto: %3$d Clasificación para %4$d años: Top %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Se ha activado la ayuda de los padres. Cuando %1$d llega a %2$d , paga el restante %3$d .",
-  "left_to_save_child": "PLZ_TRANSLATE Usted tiene %1$d para ahorrar.",
-  "left_to_save_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar."
+  "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Usted tiene %1$d para ahorrar. Se ha activado la ayuda de los padres. Cuando llegue a %2$d , su padre pagará el restante %3$d .",
+  "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar. Se ha activado la ayuda de los padres. Cuando %1$d llega a %3$d , paga el restante %4$d .",
+  "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Usted tiene %1$d para ahorrar.",
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar."
 }

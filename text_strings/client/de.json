@@ -1412,7 +1412,6 @@
   "goal_map_pie_starting_amount": "PLZ_CHECK Startkapital [@Rickard, this is exact same in swedish, is this correct]",
   "child_task_share_popover_title": "Teile Deine Aufgabe!",
   "child_task_share_popover_text": "Gute Arbeit! Teile Deine Aufgabe",
-  "goal_pie_chart_parenthelp_child": "Elterliche Hilfe wurde aktiviert.\nWenn Du %1$d erreichst, wird das Elternteil die letzten %2$d bezahlen.",
   "goal_pie_chart_start_child": "Du hast mit %1$d in deinem Sparschwein begonnen, als du begonnen hast für %2$d zu sparen.",
   "are_you_sure_popover_title": "Bist du sicher?",
   "are_you_sure_popover_yes": "Ja, ich bin mir sicher",
@@ -1440,7 +1439,8 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Erreichte Sparziele",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE Die Sparschwein",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste erreichte: %3$d Rangliste für %4$d Jahr alt: Top %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Elternhilfe wurde aktiviert. Wenn %1$d %2$d , bezahlt man die restlichen %3$d .",
-  "left_to_save_child": "PLZ_TRANSLATE Sie haben %1$d links zu speichern.",
-  "left_to_save_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern."
+  "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Sie haben %1$d links zu speichern. Elternhilfe wurde aktiviert. Wenn du %2$d , wird dein Elternteil die restlichen %3$d bezahlen.",
+  "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern. Elternhilfe wurde aktiviert. Wenn %1$d %3$d , bezahlt man die restlichen %4$d .",
+  "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Sie haben %1$d links zu speichern.",
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern."
 }

@@ -1412,7 +1412,6 @@
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE першапачатковы капітал",
   "child_task_share_popover_title": "PLZ_TRANSLATE Падзяліцеся задачай!",
   "child_task_share_popover_text": "PLZ_TRANSLATE Добрая праца! Падзяліцеся задачы",
-  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Бацька дапамога была актываваная.\nКалі вы дасягне %1$d, вашы бацькі будуць плаціць апошні %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Вы пачалі з %1$d ў вашай скарбонцы, калі вы пачалі эканоміць на %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Вы ўпэўнены?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Так, я ўпэўнены,",
@@ -1440,7 +1439,8 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Дасягнутыя ашчадныя мэты",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE скарбонкі",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Дасягнутыя мэты: %1$d Сярэдняя колькасць: %2$d Самая высокая дасягнута: %3$d Рэйтынг за %4$d - летніх: Лепшыя %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Бацька дапамога была актываваная. Калі %1$d дасягае %2$d , вы плаціце пакінутыя %3$d .",
-  "left_to_save_child": "PLZ_TRANSLATE У вас ёсць %1$d засталося захаваць.",
-  "left_to_save_parent": "PLZ_TRANSLATE %1$d мае %2$d засталося захаваць."
+  "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE У вас ёсць %1$d засталося захаваць. Бацька дапамога была актываваная. Калі вы дасягаеце %2$d , ваш бацька будзе плаціць тыя, што засталіся %3$d .",
+  "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d мае %2$d засталося захаваць. Бацька дапамога была актываваная. Калі %1$d дасягае %3$d , вы плаціце пакінутыя %4$d .",
+  "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE У вас ёсць %1$d засталося захаваць.",
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d мае %2$d засталося захаваць."
 }

@@ -1412,7 +1412,6 @@
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Innledende kapital",
   "child_task_share_popover_title": "PLZ_TRANSLATE Del oppgaven din!",
   "child_task_share_popover_text": "PLZ_TRANSLATE Godt jobba! Del oppgaven din",
-  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Foreldrehjelp har blitt aktivert.\nNår du når %1$d, betaler foreldrene dine den siste %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Du startet med %1$d i spargrisen din når du begynte å lagre for %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Er du sikker?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Ja jeg er sikker",
@@ -1440,7 +1439,8 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Oppnådde besparelsesmål",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE Spargrisen",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Oppnådd mål: %1$d Gjennomsnittlig beløp: %2$d Høyest oppnådd: %3$d Rangering for %4$d åringer: Topp %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Foreldrehjelp har blitt aktivert. Når %1$d når %2$d , betaler du de resterende %3$d .",
-  "left_to_save_child": "PLZ_TRANSLATE Du har %1$d igjen for å lagre.",
-  "left_to_save_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre."
+  "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Du har %1$d igjen for å lagre. Foreldrehjelp har blitt aktivert. Når du når %2$d , betaler foreldrene dine de resterende %3$d .",
+  "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre. Foreldrehjelp har blitt aktivert. Når %1$d når %3$d , betaler du de resterende %4$d .",
+  "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Du har %1$d igjen for å lagre.",
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre."
 }

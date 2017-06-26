@@ -1412,7 +1412,6 @@
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE algkapital",
   "child_task_share_popover_title": "PLZ_TRANSLATE Jagage oma ülesanne!",
   "child_task_share_popover_text": "PLZ_TRANSLATE Hea töö! Jagage oma ülesande",
-  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE Vanem abi on aktiveeritud.\nKui jõuate %1$d, oma vanema maksab viimase %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Sa algas %1$d oma notsu panga kui sa hakkasid säästa %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Oled sa kindel?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Jah, ma olen kindel",
@@ -1440,7 +1439,8 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Saavutatud kokkuhoid eesmärgid",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE notsu panga",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Saavutatud eesmärgid: %1$d keskmine summa: %2$d Kõrgeim saavutatud: %3$d reitingu %4$d aastased: Top %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE Vanem abi on aktiveeritud. Kui %1$d jõuab %2$d , maksad ülejäänud %3$d .",
-  "left_to_save_child": "PLZ_TRANSLATE Sul on %1$d vasakule salvestada.",
-  "left_to_save_parent": "PLZ_TRANSLATE %1$d on %2$d vasakule salvestada."
+  "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Sul on %1$d vasakule salvestada. Vanem abi on aktiveeritud. Kui jõuate %2$d , oma vanema maksab ülejäänud %3$d .",
+  "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d on %2$d vasakule salvestada. Vanem abi on aktiveeritud. Kui %1$d jõuab %3$d , maksad ülejäänud %4$d .",
+  "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Sul on %1$d vasakule salvestada.",
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d on %2$d vasakule salvestada."
 }

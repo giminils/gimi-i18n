@@ -1412,7 +1412,6 @@
   "goal_map_pie_starting_amount": "PLZ_TRANSLATE Capitale iniziale",
   "child_task_share_popover_title": "PLZ_TRANSLATE Condividi il tuo compito!",
   "child_task_share_popover_text": "PLZ_TRANSLATE Buon lavoro! Condividi il tuo compito",
-  "goal_pie_chart_parenthelp_child": "PLZ_TRANSLATE L'aiuto genitore è stato attivato.\nQuando raggiungete %1$d, il tuo genitore pagherà l'ultimo %2$d.",
   "goal_pie_chart_start_child": "PLZ_TRANSLATE Hai iniziato con %1$d nella tua banca salvadana quando hai iniziato a risparmiare per %2$d.",
   "are_you_sure_popover_title": "PLZ_TRANSLATE Sei sicuro?",
   "are_you_sure_popover_yes": "PLZ_TRANSLATE Sì sono sicuro",
@@ -1440,7 +1439,8 @@
   "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Raggiunto gli obiettivi di risparmio",
   "goal_map_pie_saved_title": "PLZ_TRANSLATE La banca piggy",
   "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Gol raggiunti: %1$d importo medio: %2$d massimo raggiunto: %3$d Ranking per %4$d anni: Top %5$d (%6$d)",
-  "goal_pie_chart_parenthelp_parent": "PLZ_TRANSLATE L&#39;aiuto del genitore è stato attivato. Quando %1$d raggiunge %2$d , si paga il rimanente %3$d .",
-  "left_to_save_child": "PLZ_TRANSLATE Hai salvato %1$d .",
-  "left_to_save_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare."
+  "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Hai salvato %1$d . L&#39;aiuto del genitore è stato attivato. Quando raggiungete %2$d , il tuo genitore pagherà il rimanente %3$d .",
+  "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare. L&#39;aiuto del genitore è stato attivato. Quando %1$d raggiunge %3$d , pagherai il rimanente %4$d .",
+  "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Hai salvato %1$d .",
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare."
 }
