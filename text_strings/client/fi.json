@@ -1449,5 +1449,6 @@
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Aloitit %1$d alkupääoman. Olet tallentanut %2$d jälkeen, kun loit säästöjä tavoite. Olet saanut %3$d vauhtia matkan aikana.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d alkoi %2$d alkupääoman. %1$d on pelastanut %3$d lähtien säästö tavoite luotiin. %1$d on saanut %4$d tehostetun matkan aikana.",
   "push_notification_deep_link": "PLZ_TRANSLATE Aika aloittaa tehtäviä lapsillesi? Klikkaa tästä lisää tehtävä",
-  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Aika alkaa säästää? Klikkaa tästä lisää säästöjä tavoite"
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Aika alkaa säästää? Klikkaa tästä lisää säästöjä tavoite",
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Uusi blogikirjoitus siitä, miten lapsi voi oppia rahan arvoa"
 }

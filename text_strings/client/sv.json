@@ -1460,5 +1460,6 @@
   "goal_map_pie_piggy_bank_desc_child": "Du började med %1$d i startkapital.\nDu har sparat %2$d sedan du skapade sparmålet.\nDu har fått %3$d i boost under din sparresa.",
   "goal_map_pie_piggy_bank_desc_parent": "%1$d började med %2$d i startkapital.\n%1$d har sparat %3$d sedan sparmålet skapades.\n%1$d har fått %4$d i boost under sin sparresa.",
   "push_notification_deep_link": "Dags att börja med uppgifter till dina barn? Klicka här för att lägga till en uppgift",
-  "push_notification_new_goal_deeplink": "Dags att börja spara? Klicka här för att lägga till ett sparmål"
+  "push_notification_new_goal_deeplink": "Dags att börja spara? Klicka här för att lägga till ett sparmål",
+  "push_notification_open_website_deeplink": "Nytt blogginlägg om hur ditt barn kan lära sig värdet utav pengar"
 }

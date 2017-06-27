@@ -1449,5 +1449,6 @@
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Vous avez commencé avec %1$d dans le capital initial. Vous avez enregistré %2$d puisque vous avez créé l&#39;objectif d&#39;économies. Vous avez reçu %3$d boost pendant votre voyage.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d commencé avec %2$d dans le capital initial. %1$d a enregistré %3$d puisque l&#39;objectif d&#39;économies a été créé. %1$d a reçu %4$d en boost pendant le voyage.",
   "push_notification_deep_link": "PLZ_TRANSLATE Heure de commencer les tâches pour vos enfants? Cliquez ici pour ajouter une tâche",
-  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Il est temps de commencer à économiser? Cliquez ici pour ajouter un objectif d'économie"
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Il est temps de commencer à économiser? Cliquez ici pour ajouter un objectif d'économie",
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nouveau blog sur la façon dont votre enfant peut apprendre la valeur de l'argent"
 }

@@ -1449,5 +1449,6 @@
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Du startede med %1$d i startkapitalen. Du har gemt %2$d siden du oprettede besparelsesmålet. Du har modtaget %3$d boost under din rejse.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d startede med %2$d i startkapitalen. %1$d har gemt %3$d siden besparelsesmålet blev oprettet. %1$d har modtaget %4$d i boost under rejsen.",
   "push_notification_deep_link": "PLZ_TRANSLATE Tid til at starte med opgaver for dine børn? Klik her for at tilføje en opgave",
-  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tid til at begynde at spare? Klik her for at tilføje et besparelsesmål"
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tid til at begynde at spare? Klik her for at tilføje et besparelsesmål",
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nyt blogindlæg om hvordan dit barn kan lære værdien af ​​penge"
 }

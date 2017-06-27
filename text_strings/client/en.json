@@ -1449,5 +1449,6 @@
   "goal_map_pie_piggy_bank_desc_child": "You started with %1$d in initial capital.\nYou have saved %2$d since you created the savings goal.\nYou have received %3$d boost during your trip.",
   "goal_map_pie_piggy_bank_desc_parent": "%1$d started with %2$d in initial capital.\n%1$d has saved %3$d since the savings goal was created.\n%1$d has received %4$d in boost during the trip.",
   "push_notification_deep_link": "Time to start with tasks for your children? Click here to add a task",
-  "push_notification_new_goal_deeplink": "Time to start saving? Click here to add a savings goal"
+  "push_notification_new_goal_deeplink": "Time to start saving? Click here to add a savings goal",
+  "push_notification_open_website_deeplink": "New blog post about how your child can learn the value of money"
 }
