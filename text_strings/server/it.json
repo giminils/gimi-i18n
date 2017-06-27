@@ -152,5 +152,6 @@
   "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} obiettivo di risparmio completato {goal.title}",
   "event_wish_created": "PLZ_TRANSLATE {wish.child.name} ha aggiunto un nuovo desiderio: {wish.title}",
   "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} desiderio aggiornato: {wish.title}",
-  "event_wish_deleted": "PLZ_TRANSLATE {user.name} desidera rimosso: {wish.title}"
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} desidera rimosso: {wish.title}",
+  "event_birthday": "PLZ_TRANSLATE È oggi il compleanno di {child.name} !"
 }

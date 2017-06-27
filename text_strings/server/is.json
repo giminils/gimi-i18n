@@ -152,5 +152,6 @@
   "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} lokið sparnaði markmiði {goal.title}",
   "event_wish_created": "PLZ_TRANSLATE {wish.child.name} bætti við nýjum óskum: {wish.title}",
   "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} uppfært ósk: {wish.title}",
-  "event_wish_deleted": "PLZ_TRANSLATE {user.name} fjarlægt ósk: {wish.title}"
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} fjarlægt ósk: {wish.title}",
+  "event_birthday": "PLZ_TRANSLATE Það er {child.name} afmæli í dag!"
 }

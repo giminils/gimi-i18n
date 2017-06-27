@@ -152,5 +152,6 @@
   "event_goal_completed": "{goal.child.name} har klarat sparmålet {goal.title}",
   "event_wish_created": "{wish.child.name} har skapat en ny önskan i önskelistan: {wish.title}",
   "event_wish_updated": "{wish.updated_by.name} har uppdaterat önskan: {wish.title}",
-  "event_wish_deleted": "{user.name} har tagit bort önskan: {wish.title}"
+  "event_wish_deleted": "{user.name} har tagit bort önskan: {wish.title}",
+  "event_birthday": "{child.name} har födelsedag idag!"
 }

@@ -152,5 +152,6 @@
   "event_goal_completed": "{goal.child.name} completed savings goal {goal.title}",
   "event_wish_created": "{wish.child.name} added a new wish: {wish.title}",
   "event_wish_updated": "{wish.updated_by.name} updated wish: {wish.title}",
-  "event_wish_deleted": "{user.name} removed wish: {wish.title}"
+  "event_wish_deleted": "{user.name} removed wish: {wish.title}",
+  "event_birthday": "It's {child.name} birthday today!"
 }

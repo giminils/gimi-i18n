@@ -152,5 +152,6 @@
   "event_goal_completed": "PLZ_TRANSLATE {goal.child.name} päätökseen säästöt maalia {goal.title}",
   "event_wish_created": "PLZ_TRANSLATE {wish.child.name} lisätty uusi toive: {wish.title}",
   "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} päivitetty toivomus: {wish.title}",
-  "event_wish_deleted": "PLZ_TRANSLATE {user.name} poistettiin toive: {wish.title}"
+  "event_wish_deleted": "PLZ_TRANSLATE {user.name} poistettiin toive: {wish.title}",
+  "event_birthday": "PLZ_TRANSLATE Se {child.name} täyttää tänään!"
 }
