@@ -1282,7 +1282,7 @@
   "instagram_url": "https://www.instagram.com/gimitheapp/",
   "facebook_url": "https://www.facebook.com/gimitheapp/",
   "twitter_url": "https://twitter.com/gimitheapp",
-  "task_requires_photo_action": "Prendre une photo 📷",
+  "task_requires_photo_action": "PLZ_TRANSLATE Prendre une photo",
   "go_back": "Retour",
   "goal_completed_long_text_child": "<b>Félicitations</b>! Vos avez atteint votre objectif!. Une fois terminé, vous continuerez votre aventure.",
   "goal_completed_long_text_parent": "<b>Félicitations</b> ! %1$d a atteint son objectif!. Une fois terminé, %1$d continuera son aventure.",
