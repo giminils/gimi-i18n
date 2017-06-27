@@ -1447,5 +1447,6 @@
   "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Veita stuðning frá upphafi og hluta sem þú velur að taka af því markmiði þegar það hefur verið náð",
   "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Gefðu hjálp á leiðinni og summan af peningum í hvert skipti sem barnið þitt klifrar eitt af níu áfangunum",
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Þú byrjaðir með %1$d í upphaflegu hlutafé. Þú hefur vistað %2$d síðan þú bjóst til sparnaðarmarkmiðið. Þú hefur fengið %3$d aukningu meðan á ferðinni stendur.",
-  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d byrjaði með %2$d í upphaflegu hlutafé. %1$d hefur vistað %3$d þar sem sparnaðarmarkmiðið var búið til. %1$d hefur fengið %4$d í aukningu á ferðinni."
+  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d byrjaði með %2$d í upphaflegu hlutafé. %1$d hefur vistað %3$d þar sem sparnaðarmarkmiðið var búið til. %1$d hefur fengið %4$d í aukningu á ferðinni.",
+  "push_notification_deep_link": "PLZ_TRANSLATE Tími til að byrja með verkefni fyrir börnin þín? Smelltu hér til að bæta við verkefni"
 }
