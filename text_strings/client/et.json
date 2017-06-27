@@ -1448,5 +1448,6 @@
   "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Saada abi teel ja rahasumma iga kord, kui teie laps ronib üks üheksast verstapostid",
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Sa algas %1$d in algkapitali. Olete salvestanud %2$d kuna lõite kokkuhoid eesmärk. Saite %3$d tõuke reisi ajal.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d algas %2$d in algkapitali. %1$d on salvestatud %3$d kuna kokkuhoid eesmärk oli loodud. %1$d on saanud %4$d kiirendusrežiimis reisi ajal.",
-  "push_notification_deep_link": "PLZ_TRANSLATE Aeg alustada ülesanded oma lastele? Vajuta siia, et lisada ülesanne"
+  "push_notification_deep_link": "PLZ_TRANSLATE Aeg alustada ülesanded oma lastele? Vajuta siia, et lisada ülesanne",
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Aeg alustada säästmine? Vajuta siia lisada säästukalkulaator"
 }

@@ -1448,5 +1448,6 @@
   "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Gi hjelp på veien og en sum penger hver gang barnet ditt klatrer en av de ni milepælene",
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Du startet med %1$d i startkapitalen. Du har lagret %2$d siden du opprettet besparelsesmålet. Du har mottatt %3$d boost under reisen.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d startet med %2$d i startkapitalen. %1$d har lagret %3$d siden besparelsesmålet ble opprettet. %1$d har mottatt %4$d i boost under turen.",
-  "push_notification_deep_link": "PLZ_TRANSLATE Tid til å begynne med oppgaver for barna dine? Klikk her for å legge til en oppgave"
+  "push_notification_deep_link": "PLZ_TRANSLATE Tid til å begynne med oppgaver for barna dine? Klikk her for å legge til en oppgave",
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tid til å begynne å lagre? Klikk her for å legge til et sparemål"
 }

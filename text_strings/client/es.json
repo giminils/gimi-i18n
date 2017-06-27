@@ -1448,5 +1448,6 @@
   "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dar ayuda en el camino y una suma de dinero cada vez que su hijo sube uno de los nueve hitos",
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Comenzaste con %1$d en el capital inicial. Ha guardado %2$d desde que creó el objetivo de ahorro. Ha recibido %3$d aumento de durante su viaje.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d comenzó con %2$d en el capital inicial. %1$d ha guardado %3$d desde que se creó la meta de ahorro. %1$d ha recibido %4$d en aumento durante el viaje.",
-  "push_notification_deep_link": "PLZ_TRANSLATE ¿Es hora de empezar con las tareas para sus hijos? Haga clic aquí para añadir una tarea"
+  "push_notification_deep_link": "PLZ_TRANSLATE ¿Es hora de empezar con las tareas para sus hijos? Haga clic aquí para añadir una tarea",
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE ¿Es hora de empezar a ahorrar? Haga clic aquí para agregar un objetivo de ahorro"
 }

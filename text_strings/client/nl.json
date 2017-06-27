@@ -1448,5 +1448,6 @@
   "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Geef hulp op de weg en een bedrag geld telkens als je kind een van de negen mijlpalen beklimt",
   "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Je bent begonnen met %1$d in beginkapitaal. U heeft %2$d opgeslagen sinds u het besparingsdoel hebt gecreëerd. U heeft tijdens uw reis %3$d boost ontvangen.",
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d begonnen met %2$d in beginkapitaal. %1$d heeft %3$d opgeslagen sinds het besparingsdoel is gemaakt. %1$d heeft tijdens de reis %4$d ontvangen.",
-  "push_notification_deep_link": "PLZ_TRANSLATE Tijd om te beginnen met taken voor je kinderen? Klik hier om een ​​taak toe te voegen"
+  "push_notification_deep_link": "PLZ_TRANSLATE Tijd om te beginnen met taken voor je kinderen? Klik hier om een ​​taak toe te voegen",
+  "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tijd om te besparen? Klik hier om een ​​besparingsdoel toe te voegen"
 }
