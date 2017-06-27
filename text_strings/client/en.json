@@ -1445,5 +1445,7 @@
   "goal_map_pie_overview_desc_parent": "%1$d has %2$d left to save.",
   "goal_help_view_add_parent_help_headline": "Take part",
   "goal_help_view_add_parent_help_desc": "Provide support from start and a part that you choose to take off the goal once it has been achieved",
-  "goal_help_view_add_boost_help_desc": "Give help on the way and a sum of money every time your child climbs one of the nine milestones"
+  "goal_help_view_add_boost_help_desc": "Give help on the way and a sum of money every time your child climbs one of the nine milestones",
+  "goal_map_pie_piggy_bank_desc_child": "You started with %1$d in initial capital.\nYou have saved %2$d since you created the savings goal.\nYou have received %3$d boost during your trip.",
+  "goal_map_pie_piggy_bank_desc_parent": "%1$d started with %2$d in initial capital.\n%1$d has saved %3$d since the savings goal was created.\n%1$d has received %4$d in boost during the trip."
 }

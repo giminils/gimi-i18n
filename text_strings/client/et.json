@@ -1445,5 +1445,7 @@
   "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d on %2$d vasakule salvestada.",
   "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Osa võtma",
   "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Toetada algusest ja osa, mida saab valida startida eesmärk, kui see on saavutatud",
-  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Saada abi teel ja rahasumma iga kord, kui teie laps ronib üks üheksast verstapostid"
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Saada abi teel ja rahasumma iga kord, kui teie laps ronib üks üheksast verstapostid",
+  "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Sa algas %1$d in algkapitali. Olete salvestanud %2$d kuna lõite kokkuhoid eesmärk. Saite %3$d tõuke reisi ajal.",
+  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d algas %2$d in algkapitali. %1$d on salvestatud %3$d kuna kokkuhoid eesmärk oli loodud. %1$d on saanud %4$d kiirendusrežiimis reisi ajal."
 }

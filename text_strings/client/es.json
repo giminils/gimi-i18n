@@ -1445,5 +1445,7 @@
   "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar.",
   "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Participar",
   "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Proporcionar apoyo desde el inicio y una parte que elija para sacar el objetivo una vez que se ha logrado",
-  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dar ayuda en el camino y una suma de dinero cada vez que su hijo sube uno de los nueve hitos"
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dar ayuda en el camino y una suma de dinero cada vez que su hijo sube uno de los nueve hitos",
+  "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Comenzaste con %1$d en el capital inicial. Ha guardado %2$d desde que creó el objetivo de ahorro. Ha recibido %3$d aumento de durante su viaje.",
+  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d comenzó con %2$d en el capital inicial. %1$d ha guardado %3$d desde que se creó la meta de ahorro. %1$d ha recibido %4$d en aumento durante el viaje."
 }

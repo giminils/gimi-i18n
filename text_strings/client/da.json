@@ -1445,5 +1445,7 @@
   "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d tilbage for at gemme.",
   "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Deltage",
   "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Giv støtte fra start og en del, som du vælger at tage ud af målet, når det er opnået",
-  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Giv hjælp på vejen og en sum penge hver gang dit barn klatrer en af ​​de ni milepæle"
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Giv hjælp på vejen og en sum penge hver gang dit barn klatrer en af ​​de ni milepæle",
+  "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Du startede med %1$d i startkapitalen. Du har gemt %2$d siden du oprettede besparelsesmålet. Du har modtaget %3$d boost under din rejse.",
+  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d startede med %2$d i startkapitalen. %1$d har gemt %3$d siden besparelsesmålet blev oprettet. %1$d har modtaget %4$d i boost under rejsen."
 }

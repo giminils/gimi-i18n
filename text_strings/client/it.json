@@ -1445,5 +1445,7 @@
   "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare.",
   "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Prendere parte",
   "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Fornire il supporto dall'inizio e da una parte che scegli di decollare l'obiettivo una volta raggiunta",
-  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dai aiuto sulla strada e una somma di denaro ogni volta che il tuo bambino salta una delle nove pietre miliari"
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dai aiuto sulla strada e una somma di denaro ogni volta che il tuo bambino salta una delle nove pietre miliari",
+  "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Hai iniziato con %1$d nel capitale iniziale. Hai salvato %2$d dal momento che hai creato l&#39;obiettivo di risparmio. Hai ricevuto la spinta %3$d durante il tuo viaggio.",
+  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d iniziato con %2$d nel capitale iniziale. %1$d ha salvato %3$d dal momento che è stato creato un obiettivo di risparmio. %1$d ha ricevuto %4$d in boost durante il viaggio."
 }

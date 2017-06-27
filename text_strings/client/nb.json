@@ -1445,5 +1445,7 @@
   "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre.",
   "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Delta",
   "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Gi støtte fra start og en del du velger å ta av målet når det er oppnådd",
-  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Gi hjelp på veien og en sum penger hver gang barnet ditt klatrer en av de ni milepælene"
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Gi hjelp på veien og en sum penger hver gang barnet ditt klatrer en av de ni milepælene",
+  "goal_map_pie_piggy_bank_desc_child": "PLZ_TRANSLATE Du startet med %1$d i startkapitalen. Du har lagret %2$d siden du opprettet besparelsesmålet. Du har mottatt %3$d boost under reisen.",
+  "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d startet med %2$d i startkapitalen. %1$d har lagret %3$d siden besparelsesmålet ble opprettet. %1$d har mottatt %4$d i boost under turen."
 }
