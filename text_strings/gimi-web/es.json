@@ -247,5 +247,6 @@
   "faq.q28.a": "PLZ_TRANSLATE It is on the App Store and Google Play, for both iPhone and Android phones.",
   "news.more": "Lee mas",
   "currency": "EUR",
-  "cookie_warning": "PLZ_TRANSLATE Utilizamos cookies para asegurar que le ofrecemos la mejor experiencia en nuestro sitio web. Procediendo a la siguiente página o haciendo clic en \"Acepto\" acepta el uso de cookies. Lea más sobre nuestro uso de cookies aquí:"
+  "footer.cookie_warning": "PLZ_TRANSLATE Utilizamos cookies para asegurar que le ofrecemos la mejor experiencia en nuestro sitio web. Procediendo a la siguiente página o haciendo clic en \"Acepto\" acepta el uso de cookies. Lea más sobre nuestro uso de cookies aquí:",
+  "footer.click_here": "PLZ_TRANSLATE haga clic aquí"
 }

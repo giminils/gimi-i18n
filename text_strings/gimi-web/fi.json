@@ -247,5 +247,6 @@
   "faq.q28.a": "PLZ_TRANSLATE Se on saatavilla App Storesta ja Google Playsta, niin sekä iPhone ja Android-puhelimet.",
   "news.more": "Lue lisää",
   "currency": "EUR",
-  "cookie_warning": "PLZ_TRANSLATE Käytämme evästeitä, jotta voimme antaa sinulle parhaan kokemuksen sivuillamme. Etenemällä seuraavalle sivulle tai klikkaamalla \"Hyväksyn\" hyväksyt käyttö evästeet. Lue lisää käytöstä evästeiden tässä:"
+  "footer.cookie_warning": "PLZ_TRANSLATE Käytämme evästeitä, jotta voimme antaa sinulle parhaan kokemuksen sivuillamme. Etenemällä seuraavalle sivulle tai klikkaamalla \"Hyväksyn\" hyväksyt käyttö evästeet. Lue lisää käytöstä evästeiden tässä:",
+  "footer.click_here": "PLZ_TRANSLATE Klikkaa tästä"
 }

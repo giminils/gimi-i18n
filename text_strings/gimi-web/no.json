@@ -247,5 +247,6 @@
   "faq.q28.a": "PLZ_TRANSLATE Den er tilgjengelig på App Store og Google Play, og for både iPhone og Android-telefoner.",
   "news.more": "Les mer",
   "currency": "kr",
-  "cookie_warning": "PLZ_TRANSLATE Vi bruker informasjonskapsler for å sikre at vi gir deg den beste opplevelsen på nettstedet vårt. Ved å gå videre til neste side eller klikke på \"Jeg godtar\" aksepterer du bruken av informasjonskapsler. Les mer om bruken av informasjonskapsler her:"
+  "footer.cookie_warning": "PLZ_TRANSLATE Vi bruker informasjonskapsler for å sikre at vi gir deg den beste opplevelsen på nettstedet vårt. Ved å gå videre til neste side eller klikke på \"Jeg godtar\" aksepterer du bruken av informasjonskapsler. Les mer om bruken av informasjonskapsler her:",
+  "footer.click_here": "PLZ_TRANSLATE Klikk her"
 }
