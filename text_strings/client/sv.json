@@ -1453,5 +1453,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "Du har %1$d kvar att spara. Föräldrahjälp har aktiverats.\nNär du når %2$d betalar föräldern resterande %3$d.",
   "goal_map_pie_overview_desc_parent_help_parent": "%1$d har %2$d kvar att spara. Föräldrahjälp har aktiverats.\nNär %1$d når %3$d betalar du resterande %4$d.",
   "goal_map_pie_overview_desc_child": "Du har %1$d kvar att spara.",
-  "goal_map_pie_overview_desc_parent": "%1$d har %2$d kvar att spara."
+  "goal_map_pie_overview_desc_parent": "%1$d har %2$d kvar att spara.",
+  "goal_help_view_add_parent_help_headline": "Ta andel",
+  "goal_help_view_add_parent_help_desc": "Ge stöd från start och en andel som du väljer att ta av sparmålet när det väl har uppnåtts",
+  "goal_help_view_add_boost_help_desc": "Ge hjälp på vägen och en summa pengar varje gång ditt barn klättrar förbi någon av de nio milstolparna"
 }

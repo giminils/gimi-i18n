@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Sie haben %1$d links zu speichern. Elternhilfe wurde aktiviert. Wenn du %2$d , wird dein Elternteil die restlichen %3$d bezahlen.",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern. Elternhilfe wurde aktiviert. Wenn %1$d %3$d , bezahlt man die restlichen %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Sie haben %1$d links zu speichern.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d hat %2$d links zu speichern.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Teilnehmen",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Geben Sie Unterstützung von Anfang und einem Teil, den Sie wählen, um das Ziel zu entfernen, sobald es erreicht worden ist",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Geben Sie Hilfe auf dem Weg und eine Summe Geld jedes Mal, wenn Ihr Kind einen der neun Meilensteine ​​klettert"
 }

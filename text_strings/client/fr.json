@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Vous avez %1$d gauche pour sauvegarder. L&#39;aide parentale a été activée. Lorsque vous atteignez %2$d , votre parent paiera le restant de %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d a %2$d gauche pour sauvegarder. L&#39;aide parentale a été activée. Lorsque %1$d atteint %3$d , vous payez le restant de %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Vous avez %1$d gauche pour sauvegarder.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d a %2$d gauche pour sauvegarder."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d a %2$d gauche pour sauvegarder.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Prendre part",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Fournir un soutien dès le début et une partie que vous choisissez de décrocher le but une fois qu'il a été atteint",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Donnez l'aide sur le chemin et une somme d'argent à chaque fois que votre enfant grimpe l'un des neuf jalons"
 }

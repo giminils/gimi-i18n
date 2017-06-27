@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Je hebt %1$d over om op te slaan. Ouderhulp is geactiveerd. Wanneer u %2$d , betaalt uw ouder de resterende %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d heeft %2$d over om op te slaan. Ouderhulp is geactiveerd. Wanneer %1$d %3$d , betaalt u de resterende %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Je hebt %1$d over om op te slaan.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d heeft %2$d over om op te slaan."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d heeft %2$d over om op te slaan.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Deelnemen",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Geef ondersteuning van start en een deel dat u ervoor kiest om het doel af te halen zodra het is bereikt",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Geef hulp op de weg en een bedrag geld telkens als je kind een van de negen mijlpalen beklimt"
 }

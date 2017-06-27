@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "You have %1$d left to save. Parent help has been activated.\nWhen you reach %2$d, your parent will pay the remaining %3$d.",
   "goal_map_pie_overview_desc_parent_help_parent": "%1$d has %2$d left to save. Parent help has been activated.\nWhen %1$d reaches %3$d, you pay the remaining %4$d.",
   "goal_map_pie_overview_desc_child": "You have %1$d left to save.",
-  "goal_map_pie_overview_desc_parent": "%1$d has %2$d left to save."
+  "goal_map_pie_overview_desc_parent": "%1$d has %2$d left to save.",
+  "goal_help_view_add_parent_help_headline": "Take part",
+  "goal_help_view_add_parent_help_desc": "Provide support from start and a part that you choose to take off the goal once it has been achieved",
+  "goal_help_view_add_boost_help_desc": "Give help on the way and a sum of money every time your child climbs one of the nine milestones"
 }

@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Hai salvato %1$d . L&#39;aiuto del genitore è stato attivato. Quando raggiungete %2$d , il tuo genitore pagherà il rimanente %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare. L&#39;aiuto del genitore è stato attivato. Quando %1$d raggiunge %3$d , pagherai il rimanente %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Hai salvato %1$d .",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d ha %2$d lasciato per salvare.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Prendere parte",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Fornire il supporto dall'inizio e da una parte che scegli di decollare l'obiettivo una volta raggiunta",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dai aiuto sulla strada e una somma di denaro ogni volta che il tuo bambino salta una delle nove pietre miliari"
 }

@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Usted tiene %1$d para ahorrar. Se ha activado la ayuda de los padres. Cuando llegue a %2$d , su padre pagará el restante %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar. Se ha activado la ayuda de los padres. Cuando %1$d llega a %3$d , paga el restante %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Usted tiene %1$d para ahorrar.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d tiene %2$d para guardar.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Participar",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Proporcionar apoyo desde el inicio y una parte que elija para sacar el objetivo una vez que se ha logrado",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Dar ayuda en el camino y una suma de dinero cada vez que su hijo sube uno de los nueve hitos"
 }

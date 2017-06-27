@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE У вас ёсць %1$d засталося захаваць. Бацька дапамога была актываваная. Калі вы дасягаеце %2$d , ваш бацька будзе плаціць тыя, што засталіся %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d мае %2$d засталося захаваць. Бацька дапамога была актываваная. Калі %1$d дасягае %3$d , вы плаціце пакінутыя %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE У вас ёсць %1$d засталося захаваць.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d мае %2$d засталося захаваць."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d мае %2$d засталося захаваць.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Удзельнічаць",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Забяспечыць падтрымку ад пачатку і частак, якія вы выбіраеце, каб зняць мэта, як толькі гэта было дасягнута",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Дайце дапамогу на дарозе і суму грошай кожны раз, калі ваш дзіця падымаецца адзін з дзевяці этапаў"
 }

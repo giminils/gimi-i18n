@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Du har %1$d igjen for å lagre. Foreldrehjelp har blitt aktivert. Når du når %2$d , betaler foreldrene dine de resterende %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre. Foreldrehjelp har blitt aktivert. Når %1$d når %3$d , betaler du de resterende %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Du har %1$d igjen for å lagre.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d igjen for å lagre.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Delta",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Gi støtte fra start og en del du velger å ta av målet når det er oppnådd",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Gi hjelp på veien og en sum penger hver gang barnet ditt klatrer en av de ni milepælene"
 }

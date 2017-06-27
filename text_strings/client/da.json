@@ -1442,5 +1442,8 @@
   "goal_map_pie_overview_desc_parent_help_child": "PLZ_TRANSLATE Du har %1$d tilbage for at gemme. Forældrehjælp er blevet aktiveret. Når du når %2$d , betaler din forælder de resterende %3$d .",
   "goal_map_pie_overview_desc_parent_help_parent": "PLZ_TRANSLATE %1$d har %2$d tilbage for at gemme. Forældrehjælp er blevet aktiveret. Når %1$d når %3$d , betaler du de resterende %4$d .",
   "goal_map_pie_overview_desc_child": "PLZ_TRANSLATE Du har %1$d tilbage for at gemme.",
-  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d tilbage for at gemme."
+  "goal_map_pie_overview_desc_parent": "PLZ_TRANSLATE %1$d har %2$d tilbage for at gemme.",
+  "goal_help_view_add_parent_help_headline": "PLZ_TRANSLATE Deltage",
+  "goal_help_view_add_parent_help_desc": "PLZ_TRANSLATE Giv støtte fra start og en del, som du vælger at tage ud af målet, når det er opnået",
+  "goal_help_view_add_boost_help_desc": "PLZ_TRANSLATE Giv hjælp på vejen og en sum penge hver gang dit barn klatrer en af ​​de ni milepæle"
 }
