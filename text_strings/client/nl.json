@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Zweep of wortel?",
   "edit_boost_subtitle": "PLZ_TRANSLATE Help %1$d door te stimuleren op mijlpalen. Het is echter niet alleen hallelujah, een verbeterde boost is verloren als %1$d weer onder een mijlpaal gaat",
   "edit_boost_input_title": "PLZ_TRANSLATE Boost op elke mijlpaal",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d wordt toegevoegd wanneer %2$d over een van de 9 mijlpalen gaat. Dit betekent dat %2$d alleen %3$d van %4$d moet opslaan",
+  "edit_boost_description": "PLZ_TRANSLATE <b>%1$d</b> wordt toegevoegd wanneer %2$d over een van de 9 mijlpalen gaat. Dit betekent dat %2$d alleen %3$d van %4$d moet opslaan",
   "task_per_hour_card_text": "PLZ_TRANSLATE De beloning wordt berekend met behulp van de timer!",
   "time_minute": "PLZ_TRANSLATE %1$d minuut",
   "time_minutes": "PLZ_TRANSLATE %1$d minuten",

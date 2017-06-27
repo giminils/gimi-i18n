@@ -1388,7 +1388,7 @@
   "edit_boost_title": "Strafe oder Belohnung?",
   "edit_boost_subtitle": "Hilfe %1$d durch die Förderung von Meilensteinen. Ein erhaltener Schub geht verloren, wenn %1$d wieder unter den Meilenstein fällt",
   "edit_boost_input_title": "Boost bei jedem Meilenstein",
-  "edit_boost_description": "%1$d wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​passiert. Dies bedeutet, dass %2$d nur %3$d von %4$d sparen muss",
+  "edit_boost_description": "<b>%1$d</b> wird hinzugefügt, wenn %2$d einen der 9 Meilensteine ​​passiert. Dies bedeutet, dass %2$d nur %3$d von %4$d sparen muss",
   "task_per_hour_card_text": "Die Belohnung wird mit einem Timer berechnet!",
   "time_minute": "%1$d Minute",
   "time_minutes": "%1$d Minuten",

@@ -1388,7 +1388,7 @@
   "edit_boost_title": "PLZ_TRANSLATE Látigo o zanahoria",
   "edit_boost_subtitle": "PLZ_TRANSLATE Ayuda %1$d mediante el impulso en los hitos. Sin embargo, no es sólo aleluya, un impulso logrado se pierde si %1$d va por debajo de un hito de nuevo",
   "edit_boost_input_title": "PLZ_TRANSLATE Aumento en cada hito",
-  "edit_boost_description": "PLZ_TRANSLATE %1$d se agrega cuando %2$d pasa alguno de los 9 hitos. Esto significa que %2$d sólo necesita guardar %3$d de %4$d",
+  "edit_boost_description": "PLZ_TRANSLATE <b>%1$d</b> se agrega cuando %2$d pasa alguno de los 9 hitos. Esto significa que %2$d sólo necesita guardar %3$d de %4$d",
   "task_per_hour_card_text": "PLZ_TRANSLATE La recompensa se calcula usando el temporizador!",
   "time_minute": "PLZ_TRANSLATE %1$d minuto",
   "time_minutes": "PLZ_TRANSLATE %1$d minutos",
