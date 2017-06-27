@@ -153,5 +153,7 @@
   "event_wish_created": "PLZ_TRANSLATE {wish.child.name} logis soov: {wish.title}",
   "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} uuendatud soov: {wish.title}",
   "event_wish_deleted": "PLZ_TRANSLATE {user.name} eemaldati soov: {wish.title}",
-  "event_birthday": "PLZ_TRANSLATE See on {child.name} täna sünnipäev!"
+  "event_birthday": "PLZ_TRANSLATE See on {child.name} täna sünnipäev!",
+  "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}",
+  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}"
 }

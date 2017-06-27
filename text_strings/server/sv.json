@@ -153,5 +153,7 @@
   "event_wish_created": "{wish.child.name} har skapat en ny önskan i önskelistan: {wish.title}",
   "event_wish_updated": "{wish.updated_by.name} har uppdaterat önskan: {wish.title}",
   "event_wish_deleted": "{user.name} har tagit bort önskan: {wish.title}",
-  "event_birthday": "{child.name} har födelsedag idag!"
+  "event_birthday": "{child.name} har födelsedag idag!",
+  "event_assignment_reminder": "{parent.name} har påminnt dig om uppgiften {assignment.task.title}",
+  "push_assignment_reminder": "{parent.name} har påminnt dig om uppgiften {assignment.task.title}"
 }

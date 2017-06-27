@@ -153,5 +153,7 @@
   "event_wish_created": "PLZ_TRANSLATE {wish.child.name} hat einen neuen Wunsch hinzugefügt: {wish.title}",
   "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} aktualisierter Wunsch: {wish.title}",
   "event_wish_deleted": "PLZ_TRANSLATE {user.name} entfernt Wunsch: {wish.title}",
-  "event_birthday": "PLZ_TRANSLATE Es ist {child.name} Geburtstag heute!"
+  "event_birthday": "PLZ_TRANSLATE Es ist {child.name} Geburtstag heute!",
+  "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} hat dir gerade eine Erinnerung für {assignment.task.title} gesendet.",
+  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} hat dir gerade eine Erinnerung für {assignment.task.title} gesendet."
 }

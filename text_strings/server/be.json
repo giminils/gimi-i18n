@@ -153,5 +153,7 @@
   "event_wish_created": "PLZ_TRANSLATE {wish.child.name} дададзены новы пажаданне: {wish.title}",
   "event_wish_updated": "PLZ_TRANSLATE {wish.updated_by.name} абноўлена пажаданне: {wish.title}",
   "event_wish_deleted": "PLZ_TRANSLATE {user.name} выдалены жаданне: {wish.title}",
-  "event_birthday": "PLZ_TRANSLATE Гэта {child.name} сёння дзень нараджэння!"
+  "event_birthday": "PLZ_TRANSLATE Гэта {child.name} сёння дзень нараджэння!",
+  "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} проста паслаў вам напамін {assignment.task.title}",
+  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} проста паслаў вам напамін {assignment.task.title}"
 }
