@@ -54,8 +54,8 @@
   "home.quote1_sub": "37 jaar oude moeder van twee",
   "home.quote1_name": "Anna",
   "home.quote2": "“Ik hou ervan dat ik mijn geld zie groeien over tijd!”",
-  "home.quote2_sub": "10 jaar",
   "home.quote2_name": "Leon",
+  "home.quote2_sub": "10 jaar",
   "home.quote3": "“Het is leuk om je zakgeld te hebben in de app!”",
   "home.quote3_sub": "8 years",
   "home.quote3_name": "Benny",
@@ -246,5 +246,6 @@
   "faq.q28": " Voor welke platformen is Gimi beschikbaar?",
   "faq.q28.a": "Het is verkrijgbaar in de App Store en Google Play, dan is voor zowel de iPhone en Android-telefoons.",
   "news.more": "Lees verder",
-  "currency": "EUR"
+  "currency": "EUR",
+  "cookie_warning": "PLZ_TRANSLATE Wij gebruiken cookies om ervoor te zorgen dat wij u de beste ervaring op onze website geven. Door door te gaan naar de volgende pagina of door te klikken op \"Ik accepteer\" accepteer je het gebruik van cookies. Lees hier meer over ons gebruik van cookies:"
 }

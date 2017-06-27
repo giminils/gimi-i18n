@@ -54,8 +54,8 @@
   "home.quote1_sub": "37 år gammel mor til to",
   "home.quote1_name": "Anna",
   "home.quote2": "“Jeg elsker måten mine penger vokser over tid!”",
-  "home.quote2_sub": "10 år",
   "home.quote2_name": "Leon",
+  "home.quote2_sub": "10 år",
   "home.quote3": "“Det er kult å lommepengene dine i en app!”",
   "home.quote3_sub": "8 år",
   "home.quote3_name": "Benny",
@@ -246,5 +246,6 @@
   "faq.q28": "PLZ_TRANSLATE For hvilke plattformer er ukentlig kvote?",
   "faq.q28.a": "PLZ_TRANSLATE Den er tilgjengelig på App Store og Google Play, og for både iPhone og Android-telefoner.",
   "news.more": "Les mer",
-  "currency": "kr"
+  "currency": "kr",
+  "cookie_warning": "PLZ_TRANSLATE Vi bruker informasjonskapsler for å sikre at vi gir deg den beste opplevelsen på nettstedet vårt. Ved å gå videre til neste side eller klikke på \"Jeg godtar\" aksepterer du bruken av informasjonskapsler. Les mer om bruken av informasjonskapsler her:"
 }

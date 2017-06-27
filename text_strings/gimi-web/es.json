@@ -54,8 +54,8 @@
   "home.quote1_sub": "37 year old mother of two",
   "home.quote1_name": "Anna",
   "home.quote2": "“I love the way my money grows over time!”",
-  "home.quote2_sub": "10 years",
   "home.quote2_name": "Leon",
+  "home.quote2_sub": "10 years",
   "home.quote3": "“It's cool to have your pocket money in an app!”",
   "home.quote3_sub": "8 years",
   "home.quote3_name": "Benny",
@@ -246,5 +246,6 @@
   "faq.q28": "PLZ_TRANSLATE What platforms are there for the week?",
   "faq.q28.a": "PLZ_TRANSLATE It is on the App Store and Google Play, for both iPhone and Android phones.",
   "news.more": "Lee mas",
-  "currency": "EUR"
+  "currency": "EUR",
+  "cookie_warning": "PLZ_TRANSLATE Utilizamos cookies para asegurar que le ofrecemos la mejor experiencia en nuestro sitio web. Procediendo a la siguiente página o haciendo clic en \"Acepto\" acepta el uso de cookies. Lea más sobre nuestro uso de cookies aquí:"
 }

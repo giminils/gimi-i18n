@@ -54,8 +54,8 @@
   "home.quote1_sub": "Mère de deux enfants âgée de37 ans ",
   "home.quote1_name": "Anna",
   "home.quote2": "“J’adore le fait que mon argent croît au cours du temps!”",
-  "home.quote2_sub": "10 ans",
   "home.quote2_name": "Leon",
+  "home.quote2_sub": "10 ans",
   "home.quote3": "“C’est cool de disposer de son argent de poche à l’intérieur d’une application!”",
   "home.quote3_sub": "8 ans",
   "home.quote3_name": "Benny",
@@ -78,7 +78,7 @@
   "family.slider2.task": "Ranger la chambre",
   "family.slider2.common": "Tâche la plus commune",
   "family.slider2.goal": "Lego",
-  "family.slider2.popular":"Objectif d’épargne le plus populaire ",
+  "family.slider2.popular": "Objectif d’épargne le plus populaire ",
   "family.slider3.amount": "5 $",
   "family.slider3.period": " Allocation hebdo moyenne ",
   "family.slider3.task": "Faire son lit",
@@ -246,5 +246,6 @@
   "faq.q28": "Quelles plateformes il y’ a pour la semaine? ",
   "faq.q28.a": "C’est disponible sur l'App Store et Google Play, compatible avec  iPhone et téléphones Android.",
   "news.more": "Lire la suite",
-  "currency": "EUR"
+  "currency": "EUR",
+  "cookie_warning": "PLZ_TRANSLATE Nous utilisons des cookies pour nous assurer que nous vous offrons la meilleure expérience sur notre site. En passant à la page suivante ou en cliquant sur \"J'accepte\", vous acceptez l'utilisation des cookies. En savoir plus sur notre utilisation des cookies ici:"
 }

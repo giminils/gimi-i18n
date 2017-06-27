@@ -54,8 +54,8 @@
   "home.quote1_sub": "37 år og mor til to",
   "home.quote1_name": "Anna",
   "home.quote2": "“Jeg elsker den måde pengene vokser over tid!”",
-  "home.quote2_sub": "10 år",
   "home.quote2_name": "Leon",
+  "home.quote2_sub": "10 år",
   "home.quote3": "“Det er fedt at ha´ ens lommepenge i en App!”",
   "home.quote3_sub": "8 år",
   "home.quote3_name": "Benny",
@@ -246,5 +246,6 @@
   "faq.q28": "På hvilke platformer kan jeg finde Gimi?",
   "faq.q28.a": "Du kan finde den på App Store og Google Play. Den egner sig til både iPhones og Androide mobiltelefoner.",
   "news.more": "Læs mere",
-  "currency": "DKr"
+  "currency": "DKr",
+  "cookie_warning": "PLZ_TRANSLATE Vi bruger cookies for at sikre, at vi giver dig den bedste oplevelse på vores hjemmeside. Ved at gå videre til næste side eller klikke på \"Jeg accepterer\" accepterer du brugen af ​​cookies. Læs mere om vores brug af cookies her:"
 }
