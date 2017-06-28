@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d byrjaði með %2$d í upphaflegu hlutafé. %1$d hefur vistað %3$d þar sem sparnaðarmarkmiðið var búið til. %1$d hefur fengið %4$d í aukningu á ferðinni.",
   "push_notification_deep_link": "PLZ_TRANSLATE Tími til að byrja með verkefni fyrir börnin þín? Smelltu hér til að bæta við verkefni",
   "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tími til að byrja að vista? Smelltu hér til að bæta við sparnaði",
-  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nýtt blogg um hvernig barnið þitt getur lært verðmæti peninga"
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nýtt blogg um hvernig barnið þitt getur lært verðmæti peninga",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Hægt að framkvæma einu sinni og það hverfur",
+  "task_standing_desc": "PLZ_TRANSLATE Getur alltaf verið framkvæmt og mun ekki hverfa fyrr en það er eytt",
+  "task_timer_desc": "PLZ_TRANSLATE Verður að framkvæma innan ákveðins tímabils til þess að ekki verði brugðist",
+  "task_periodic_desc": "PLZ_TRANSLATE Verkefnið skilar alltaf á tilteknum dögum hverrar viku",
+  "task_duration_desc": "PLZ_TRANSLATE Hægt er alltaf að framkvæma og mældur tími ákvarðar launahæðina"
 }

@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "%1$d started with %2$d in initial capital.\n%1$d has saved %3$d since the savings goal was created.\n%1$d has received %4$d in boost during the trip.",
   "push_notification_deep_link": "Time to start with tasks for your children? Click here to add a task",
   "push_notification_new_goal_deeplink": "Time to start saving? Click here to add a savings goal",
-  "push_notification_open_website_deeplink": "New blog post about how your child can learn the value of money"
+  "push_notification_open_website_deeplink": "New blog post about how your child can learn the value of money",
+  "task_non_recurring_desc": "Can be performed once and then it disappears",
+  "task_standing_desc": "Can always be performed and will not disappear until it is deleted",
+  "task_timer_desc": "Must be performed within a certain time period in order not to be failed",
+  "task_periodic_desc": "The task always returns on given days of each week",
+  "task_duration_desc": "Can always be performed and measured time determines the reward amount"
 }

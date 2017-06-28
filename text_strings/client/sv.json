@@ -1461,5 +1461,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "%1$d började med %2$d i startkapital.\n%1$d har sparat %3$d sedan sparmålet skapades.\n%1$d har fått %4$d i boost under sin sparresa.",
   "push_notification_deep_link": "Dags att börja med uppgifter till dina barn? Klicka här för att lägga till en uppgift",
   "push_notification_new_goal_deeplink": "Dags att börja spara? Klicka här för att lägga till ett sparmål",
-  "push_notification_open_website_deeplink": "Nytt blogginlägg om hur ditt barn kan lära sig värdet utav pengar"
+  "push_notification_open_website_deeplink": "Nytt blogginlägg om hur ditt barn kan lära sig värdet utav pengar",
+  "task_non_recurring_desc": "Kan utföras en gång och sedan försvinner den",
+  "task_standing_desc": "Kan alltid utföras och försvinner först då den raderas",
+  "task_timer_desc": "Måste utföras inom en viss tid för att inte bli underkänd",
+  "task_periodic_desc": "Uppgiften återkommer alltid på givna dagar varje vecka",
+  "task_duration_desc": "Kan alltid utföras och uppmätt tid avgör belöningens storlek"
 }

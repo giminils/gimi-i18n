@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "%1$d startet med %2$d i startkapital. %1$d har spart %3$d siden sparemålet ble opprettet. %1$d har mottatt %4$d i boost under reisens gang.",
   "push_notification_deep_link": "Tiden er inne for å starte med oppgaver for barna dine? Klikk her for å legge til en oppgave",
   "push_notification_new_goal_deeplink": "Tid er inne for å starte sparingen? Klikk her for å legge til et sparemål",
-  "push_notification_open_website_deeplink": "Nytt blogginnlegg om hvordan barnet ditt kan lære verdien av penger"
+  "push_notification_open_website_deeplink": "Nytt blogginnlegg om hvordan barnet ditt kan lære verdien av penger",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Kan utføres en gang, og den forsvinner",
+  "task_standing_desc": "PLZ_TRANSLATE Kan alltid utføres og vil ikke forsvinne før den er slettet",
+  "task_timer_desc": "PLZ_TRANSLATE Må utføres innen en bestemt tidsperiode for ikke å mislykkes",
+  "task_periodic_desc": "PLZ_TRANSLATE Oppgaven returnerer alltid på bestemte dager i hver uke",
+  "task_duration_desc": "PLZ_TRANSLATE Kan alltid utføres og målt tid bestemmer belønningsbeløpet"
 }

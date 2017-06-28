@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d alkoi %2$d alkupääoman. %1$d on pelastanut %3$d lähtien säästö tavoite luotiin. %1$d on saanut %4$d tehostetun matkan aikana.",
   "push_notification_deep_link": "PLZ_TRANSLATE Aika aloittaa tehtäviä lapsillesi? Klikkaa tästä lisää tehtävä",
   "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Aika alkaa säästää? Klikkaa tästä lisää säästöjä tavoite",
-  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Uusi blogikirjoitus siitä, miten lapsi voi oppia rahan arvoa"
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Uusi blogikirjoitus siitä, miten lapsi voi oppia rahan arvoa",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Voidaan suorittaa kerran ja sitten se katoaa",
+  "task_standing_desc": "PLZ_TRANSLATE Voidaan aina tehdä eikä häviä ennen kuin se poistetaan",
+  "task_timer_desc": "PLZ_TRANSLATE On suoritettava tietyn ajanjakson jottei epäonnistunut",
+  "task_periodic_desc": "PLZ_TRANSLATE Tehtävä palauttaa aina annetuilla viikonpäivinä",
+  "task_duration_desc": "PLZ_TRANSLATE Voidaan aina suorittaa ja mitattu aika määrittää palkkion määrä"
 }

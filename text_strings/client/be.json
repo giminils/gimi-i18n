@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d пачаў з %2$d ў пачатковым капітале. %1$d назапасіў %3$d , паколькі мэта эканоміі была створана. %1$d атрымаў %4$d ў наддува падчас паездкі.",
   "push_notification_deep_link": "PLZ_TRANSLATE Час, каб пачаць з заданнямі для вашых дзяцей? Націсніце тут, каб дадаць задачу",
   "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Час, каб пачаць эканоміць? Націсніце тут, каб дадаць ашчадныя мэты",
-  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Новы пост у блогу аб тым, як ваш дзіця можа даведацца кошт грошай"
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Новы пост у блогу аб тым, як ваш дзіця можа даведацца кошт грошай",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Можа быць выканана адзін раз, а затым ён знікае",
+  "task_standing_desc": "PLZ_TRANSLATE заўсёды можа быць выканана і ня зьнікне да таго часу, пакуль не будзе выдаленая",
+  "task_timer_desc": "PLZ_TRANSLATE Павінна быць выканана на працягу пэўнага перыяду часу, каб не быць няспраўныя",
+  "task_periodic_desc": "PLZ_TRANSLATE Задача заўсёды вяртаецца на зададзеныя дні кожнага тыдня",
+  "task_duration_desc": "PLZ_TRANSLATE заўсёды можа быць выканана, і вымеранае час вызначае велічыню ўзнагароджання"
 }

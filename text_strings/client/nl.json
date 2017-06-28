@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d begonnen met %2$d in beginkapitaal. %1$d heeft %3$d opgeslagen sinds het besparingsdoel is gemaakt. %1$d heeft tijdens de reis %4$d ontvangen.",
   "push_notification_deep_link": "PLZ_TRANSLATE Tijd om te beginnen met taken voor je kinderen? Klik hier om een ​​taak toe te voegen",
   "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tijd om te besparen? Klik hier om een ​​besparingsdoel toe te voegen",
-  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nieuw blogbericht over hoe je kind de waarde van geld kan leren"
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nieuw blogbericht over hoe je kind de waarde van geld kan leren",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Kan één keer worden uitgevoerd en dan verdwijnt het",
+  "task_standing_desc": "PLZ_TRANSLATE Kan altijd worden uitgevoerd en verdwijnt niet totdat het is verwijderd",
+  "task_timer_desc": "PLZ_TRANSLATE Moet binnen een bepaalde periode worden uitgevoerd om niet te mislukken",
+  "task_periodic_desc": "PLZ_TRANSLATE De taak komt altijd terug op bepaalde dagen van elke week",
+  "task_duration_desc": "PLZ_TRANSLATE Kan altijd worden uitgevoerd en gemeten tijd bepaalt het beloningsbedrag"
 }

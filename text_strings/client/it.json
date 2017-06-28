@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d iniziato con %2$d nel capitale iniziale. %1$d ha salvato %3$d dal momento che è stato creato un obiettivo di risparmio. %1$d ha ricevuto %4$d in boost durante il viaggio.",
   "push_notification_deep_link": "PLZ_TRANSLATE Il tempo per iniziare con i compiti per i tuoi figli? Clicca qui per aggiungere un'attività",
   "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Tempo per iniziare a salvare? Clicca qui per aggiungere un obiettivo di risparmio",
-  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nuovo post sul blog su come tuo figlio può imparare il valore del denaro"
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE Nuovo post sul blog su come tuo figlio può imparare il valore del denaro",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Può essere eseguita una volta e poi scompare",
+  "task_standing_desc": "PLZ_TRANSLATE Può sempre essere eseguito e non scompare finché non viene eliminato",
+  "task_timer_desc": "PLZ_TRANSLATE Deve essere eseguito entro un certo periodo di tempo per non essere fallito",
+  "task_periodic_desc": "PLZ_TRANSLATE L'attività viene sempre restituita nei giorni indicati di ogni settimana",
+  "task_duration_desc": "PLZ_TRANSLATE Può sempre essere eseguito e il tempo misurato determina l'importo della ricompensa"
 }

@@ -1450,5 +1450,10 @@
   "goal_map_pie_piggy_bank_desc_parent": "PLZ_TRANSLATE %1$d algas %2$d in algkapitali. %1$d on salvestatud %3$d kuna kokkuhoid eesmärk oli loodud. %1$d on saanud %4$d kiirendusrežiimis reisi ajal.",
   "push_notification_deep_link": "PLZ_TRANSLATE Aeg alustada ülesanded oma lastele? Vajuta siia, et lisada ülesanne",
   "push_notification_new_goal_deeplink": "PLZ_TRANSLATE Aeg alustada säästmine? Vajuta siia lisada säästukalkulaator",
-  "push_notification_open_website_deeplink": "PLZ_TRANSLATE New blog post, kuidas teie laps saab õppida raha väärtust"
+  "push_notification_open_website_deeplink": "PLZ_TRANSLATE New blog post, kuidas teie laps saab õppida raha väärtust",
+  "task_non_recurring_desc": "PLZ_TRANSLATE Saab teostada üks kord ja siis kaob",
+  "task_standing_desc": "PLZ_TRANSLATE Saab alati läbi ja ei kao enne, kui see on kustutatud",
+  "task_timer_desc": "PLZ_TRANSLATE Tuleb teha teatud aja jooksul, et mitte siis,",
+  "task_periodic_desc": "PLZ_TRANSLATE Ülesanne naaseb alati etteantud nädalapäevadel",
+  "task_duration_desc": "PLZ_TRANSLATE Saab alati läbi ja mõõdetud aja määrab tasu suurus"
 }
