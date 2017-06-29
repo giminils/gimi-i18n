@@ -1174,7 +1174,7 @@
   "notifications_count": "%1$d Benachrichtigungen",
   "notifications_count_one": "%1$d Benachrichtigung",
   "health_tracker_title": "Überwachung der Gesundheit",
-  "change_pig_setting": "PLS_CHECK Change pig",
+  "change_pig_setting": "Sparschwein verändern",
   "savings_goal_map_hint_parent": "%1$d hat\n%2$d gespart und es bleiben %3$d übrig bis zum Erreichen des Ziels.",
   "savings_goal_map_hint_child": "Du hast\n%1$d gespart und hast %2$d übrig bis zum Erreichen des Ziels.",
   "savings_goal_map_hint_parent_sponsor": "%1$d hat\n%2$d gespart und hat %3$d übrig bis zum Erreichen des Ziels. Du hilfst mit %4$d",
