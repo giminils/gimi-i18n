@@ -1455,5 +1455,6 @@
   "task_standing_desc": "PLZ_TRANSLATE Kan alltid utføres og vil ikke forsvinne før den er slettet",
   "task_timer_desc": "PLZ_TRANSLATE Må utføres innen en bestemt tidsperiode for ikke å mislykkes",
   "task_periodic_desc": "PLZ_TRANSLATE Oppgaven returnerer alltid på bestemte dager i hver uke",
-  "task_duration_desc": "PLZ_TRANSLATE Kan alltid utføres og målt tid bestemmer belønningsbeløpet"
+  "task_duration_desc": "PLZ_TRANSLATE Kan alltid utføres og målt tid bestemmer belønningsbeløpet",
+  "no_pies_text": "PLZ_TRANSLATE Kunne ikke laste inn grafene, prøv igjen senere"
 }

@@ -1455,5 +1455,6 @@
   "task_standing_desc": "PLZ_TRANSLATE Peut toujours être exécuté et ne disparaîtra que s'il est supprimé",
   "task_timer_desc": "PLZ_TRANSLATE Doit être effectué dans une certaine période afin de ne pas être échoué",
   "task_periodic_desc": "PLZ_TRANSLATE La tâche revient toujours les jours de chaque semaine",
-  "task_duration_desc": "PLZ_TRANSLATE Peut toujours être exécuté et le temps mesuré détermine le montant de la récompense"
+  "task_duration_desc": "PLZ_TRANSLATE Peut toujours être exécuté et le temps mesuré détermine le montant de la récompense",
+  "no_pies_text": "PLZ_TRANSLATE Impossible de charger les graphiques, réessayez plus tard"
 }

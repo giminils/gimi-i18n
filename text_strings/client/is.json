@@ -1455,5 +1455,6 @@
   "task_standing_desc": "PLZ_TRANSLATE Getur alltaf verið framkvæmt og mun ekki hverfa fyrr en það er eytt",
   "task_timer_desc": "PLZ_TRANSLATE Verður að framkvæma innan ákveðins tímabils til þess að ekki verði brugðist",
   "task_periodic_desc": "PLZ_TRANSLATE Verkefnið skilar alltaf á tilteknum dögum hverrar viku",
-  "task_duration_desc": "PLZ_TRANSLATE Hægt er alltaf að framkvæma og mældur tími ákvarðar launahæðina"
+  "task_duration_desc": "PLZ_TRANSLATE Hægt er alltaf að framkvæma og mældur tími ákvarðar launahæðina",
+  "no_pies_text": "PLZ_TRANSLATE Gat ekki hlaðið myndunum, vinsamlegast reyndu aftur síðar"
 }

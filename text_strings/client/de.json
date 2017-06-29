@@ -1417,7 +1417,6 @@
   "are_you_sure_popover_yes": "Ja, ich bin mir sicher",
   "delete_child_history_desc": "Wenn Du auf Ja klickst, verschwindet der gesamte Verlauf (Überweisungen, Sparziele und Aufgaben) sowie die Vergütung und das Sparkonto werden auf ihre ursprünglichen Werte wiederhergestellt. Verknüpfte Eltern und Bankkonten werden nicht gelöscht.",
   "delete_child_history": "Verlauf löschen",
-  "delete_child_history": "Verlauf löschen",
   "task_history_iterations_multiple": "%1$d Mal vorher durchgeführt",
   "task_history_iterations_once": "%1$d erst einmal durhcgeführt",
   "boost": "Boost",
@@ -1456,5 +1455,6 @@
   "task_standing_desc": "PLZ_TRANSLATE Kann immer durchgeführt werden und verschwindet nicht, bis es gelöscht wird",
   "task_timer_desc": "PLZ_TRANSLATE Muss innerhalb eines bestimmten Zeitraums durchgeführt werden, um nicht zu versagen",
   "task_periodic_desc": "PLZ_TRANSLATE Die Aufgabe kehrt immer an bestimmten Wochentagen zurück",
-  "task_duration_desc": "PLZ_TRANSLATE Kann immer durchgeführt werden und gemessene Zeit bestimmt die Belohnung Betrag"
+  "task_duration_desc": "PLZ_TRANSLATE Kann immer durchgeführt werden und gemessene Zeit bestimmt die Belohnung Betrag",
+  "no_pies_text": "PLZ_TRANSLATE Die Grafiken konnten nicht geladen werden. Bitte versuchen Sie es später erneut"
 }

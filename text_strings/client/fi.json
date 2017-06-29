@@ -1455,5 +1455,6 @@
   "task_standing_desc": "PLZ_TRANSLATE Voidaan aina tehdä eikä häviä ennen kuin se poistetaan",
   "task_timer_desc": "PLZ_TRANSLATE On suoritettava tietyn ajanjakson jottei epäonnistunut",
   "task_periodic_desc": "PLZ_TRANSLATE Tehtävä palauttaa aina annetuilla viikonpäivinä",
-  "task_duration_desc": "PLZ_TRANSLATE Voidaan aina suorittaa ja mitattu aika määrittää palkkion määrä"
+  "task_duration_desc": "PLZ_TRANSLATE Voidaan aina suorittaa ja mitattu aika määrittää palkkion määrä",
+  "no_pies_text": "PLZ_TRANSLATE Ei voinut ladata kaavioita, yritä myöhemmin uudelleen"
 }
