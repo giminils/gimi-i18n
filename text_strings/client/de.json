@@ -1432,12 +1432,12 @@
   "boost_change_popover_warning_text": "Du hast bisher einen Boost von %1$d erhalten, um dieses Ziel zu erreichen. Das Ändern des Boots-Betrags ändert auch alle vorherigen Förderungen.",
   "continue": "Fortsetzen",
   "task_requires_picture_proof": "Bildnachweis erforderlich",
-  "connect_nearby_popover_title": "PLZ_TRANSLATE %1$d möchte mit dir paaren",
-  "connect_nearby_popover_desc": "PLZ_TRANSLATE Drücken Sie die Bestätigungspaarung, um mit %1$d zu paaren",
-  "connect_nearby_popover_connect_button": "PLZ_TRANSLATE Pairing bestätigen",
-  "invite_child_popover_help_desc": "PLZ_TRANSLATE Wenn Sie ein Kind einladen, wird eine Nachricht an das Kind gesendet, um die App herunterzuladen. Sobald das Kind die App heruntergeladen hat, werden sie auf den Link in der Nachricht klicken, um eine Verbindung zu Ihnen herzustellen.",
-  "invite_child_popover_success_desc": "PLZ_TRANSLATE Eine Nachricht wurde an Ihr Kind gesendet, um die App herunterzuladen. Sobald die App heruntergeladen ist, kann Ihr Kind den Link in der Nachricht anschließen, um eine Verbindung herzustellen.",
-  "goal_map_pie_all_goals_title": "PLZ_TRANSLATE Erreichte Sparziele",
-  "goal_map_pie_saved_title": "PLZ_TRANSLATE Die Sparschwein",
-  "goal_map_pie_all_goals_desc": "PLZ_TRANSLATE Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste erreichte: %3$d Rangliste für %4$d Jahr alt: Top% 5 $ d ([gesamt gespart in% 6 $ d])"
+  "connect_nearby_popover_title": "1$d möchte sich mit Dir verbinden",
+  "connect_nearby_popover_desc": "Klick auf die Verbindungs-Bestätigung, um Dich mit %1$d zu verbinden",
+  "connect_nearby_popover_connect_button": "Verbindung bestätigen",
+  "invite_child_popover_help_desc": "Dein Kind wurde per Nachricht dazu eingeladen, sich die App runterzuladen.Sobald das Kind die App heruntergeladen hat, kann es auf den Link in der Nachricht klicken, um eine Verbindung zu Dir herzustellen.",
+  "invite_child_popover_success_desc": "Es wurde eine Nachricht mit der Downloadempfehlung an Dein Kind verschickt. Sobald die App heruntergeladen wurde, kann Dein Kind auf den Link in der Nachricht klicken, um eine Verbindung herzustellen.",
+  "goal_map_pie_all_goals_title": "Erreichte Sparziele",
+  "goal_map_pie_saved_title": "Das Sparschwein",
+  "goal_map_pie_all_goals_desc": "Erreichte Ziele: %1$d Durchschnittliche Summe: %2$d Höchste Summe: %3$d Rangliste für %4$d Jährige: Top% 5 $ d ([Gesamt gespart in% 6 $ d])"
 }
