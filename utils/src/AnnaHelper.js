@@ -1,25 +1,6 @@
-var symbolsThatShouldNotBeReplaced = ['%1$s', '%2$s', '%3$s', '%4$s', '%1$d', '%2$d', '%3$d', '%4$d', 'PLZ_TRANSLATE']
-var hashPrefix = 8943894903403
+var symbolsThatShouldNotBeReplaced = ['%1$s', '%2$s', '%3$s', '%4$s', '%1$d', '%2$d', '%3$d', '%4$d', '%5$d', '%6$d', '%7$d', '%8$d', 'PLZ_TRANSLATE']
 
 let toHash = (text: string) => {
-  symbolsThatShouldNotBeReplaced.forEach((symbol, index) => {
-    var splits = text.split(symbol)
-    text = splits.join(`${hashPrefix}${index}`)
-  })
-
-  return text
-}
-
-let fromHash = (text: string) => {
-  symbolsThatShouldNotBeReplaced.forEach((symbol, index) => {
-    var splits = text.split(`${hashPrefix}${index}`)
-    text = splits.join(symbol)
-  })
-
-  return text
-}
-
-let toHashExperimental = (text: string) => {
   symbolsThatShouldNotBeReplaced.forEach((symbol, index) => {
     var splits = text.split(symbol)
     text = splits.join(`<span class="notranslate">${symbol}</span>`)
@@ -32,7 +13,7 @@ let toHashExperimental = (text: string) => {
   return text
 }
 
-let fromHashExperimental = (text: string) => {
+let fromHash = (text: string) => {
   text = text.replace(/<span class="notranslate">/g,'');
   text = text.replace(/<\/span>/g, '')
   return text
@@ -42,4 +23,4 @@ let fromHashExperimental = (text: string) => {
 let translationHelpTemplate = 'PLZ_TRANSLATE'
 
 let translateFrom = 'en.json'
-module.exports = {toHash, fromHash, toHashExperimental, fromHashExperimental, translationHelpTemplate, translateFrom}
+module.exports = {toHash, fromHash, translationHelpTemplate, translateFrom}
