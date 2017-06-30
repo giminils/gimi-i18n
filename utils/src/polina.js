@@ -53,7 +53,14 @@ let RunPolina = (filePath):* => {
   if (!textIdToTranslate) { console.log('use: npm run poli -- <text_id>') }
 
   if (textIdToTranslate) {
-    translateTextStringForFile('en.json', textIdToTranslate)
+    if(textIdToTranslate.indexOf(',') > 0) {
+      var splitIds = textIdToTranslate.split(',')
+      for (var i=0; i<splitIds.length; i++) {
+          translateTextStringForFile('en.json', splitIds[i])
+      }
+    } else {
+      translateTextStringForFile('en.json', textIdToTranslate)
+    }
   }
 }
 templateDir.forEach((filePath) => {
