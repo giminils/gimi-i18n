@@ -1471,5 +1471,6 @@
   "saved_pie_desc_child": "PLZ_TRANSLATE Hai salvato %1$d dal momento che hai iniziato a salvare per %2$d",
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d è stato salvato poiché %2$d iniziato a salvare per %3$d",
   "boost_pie_desc_child": "PLZ_TRANSLATE Hai ricevuto un totale di %1$d dalle pietre miliari che hai passato da quando hai iniziato a salvare per %2$d",
-  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d hanno ricevuto un totale di %2$d da pietre miliari passate da quando %1$d iniziato a risparmiare per %3$d"
+  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d hanno ricevuto un totale di %2$d da pietre miliari passate da quando %1$d iniziato a risparmiare per %3$d",
+  "total_for_period": "PLZ_TRANSLATE Totale per %1$d"
 }

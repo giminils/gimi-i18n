@@ -1471,5 +1471,6 @@
   "saved_pie_desc_child": "PLZ_TRANSLATE Olete salvestanud %1$d , sest sa hakkasid säästa %2$d",
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d on salvestatud alates %2$d hakkas säästa %3$d",
   "boost_pie_desc_child": "PLZ_TRANSLATE Olete saanud kokku %1$d alates verstapostid, et olete läbinud, sest sa hakkasid säästa %2$d",
-  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d saanud kokku %2$d alates verstapostid möödunud %1$d hakkas säästa %3$d"
+  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d saanud kokku %2$d alates verstapostid möödunud %1$d hakkas säästa %3$d",
+  "total_for_period": "PLZ_TRANSLATE Kokku %1$d"
 }

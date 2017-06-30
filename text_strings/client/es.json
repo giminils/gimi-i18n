@@ -1471,5 +1471,6 @@
   "saved_pie_desc_child": "PLZ_TRANSLATE Has guardado %1$d desde que empezaste a guardar %2$d",
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d se ha guardado desde %2$d empezó a guardar para %3$d",
   "boost_pie_desc_child": "PLZ_TRANSLATE Ha recibido un total de %1$d de hitos que ha pasado desde que empezó a guardar %2$d",
-  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d recibió un total de %2$d de hitos pasados ​​desde que %1$d comenzó a ahorrar para %3$d"
+  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d recibió un total de %2$d de hitos pasados ​​desde que %1$d comenzó a ahorrar para %3$d",
+  "total_for_period": "PLZ_TRANSLATE Total para %1$d"
 }
