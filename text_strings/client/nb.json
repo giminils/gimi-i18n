@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Kunne ikke laste inn grafene, prøv igjen senere",
   "permissions_settings_label": "PLZ_TRANSLATE tillatelser",
   "authorized": "PLZ_TRANSLATE autorisert",
-  "undertermined": "PLZ_TRANSLATE Undertermined",
-  "denied": "PLZ_TRANSLATE nektet"
+  "undetermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE nektet",
+  "notification": "PLZ_TRANSLATE Trykk på varsler",
+  "contacts": "PLZ_TRANSLATE Kontakt",
+  "microphone": "PLZ_TRANSLATE mikrofon",
+  "photo": "PLZ_TRANSLATE Galleri",
+  "camera": "PLZ_TRANSLATE Kamera"
 }

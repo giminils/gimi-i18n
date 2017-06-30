@@ -1470,6 +1470,11 @@
   "no_pies_text": "Kunde inte ladda in graferna, försök igen senare",
   "permissions_settings_label": "Behörigheter",
   "authorized": "Auktoriserad",
-  "undertermined": "Obestämd",
-  "denied": "Nekad"
+  "undetermined": "Obestämd",
+  "denied": "Nekad",
+  "notification": "Pushnotiser",
+  "contacts": "Kontakter",
+  "microphone": "Mikrofon",
+  "photo": "Bildgalleri",
+  "camera": "Kamera"
 }

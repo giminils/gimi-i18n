@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Ei voinut ladata kaavioita, yritä myöhemmin uudelleen",
   "permissions_settings_label": "PLZ_TRANSLATE käyttöoikeudet",
   "authorized": "PLZ_TRANSLATE valtuutettu",
-  "undertermined": "PLZ_TRANSLATE määrittämätön",
-  "denied": "PLZ_TRANSLATE Denied"
+  "undetermined": "PLZ_TRANSLATE määrittämätön",
+  "denied": "PLZ_TRANSLATE Denied",
+  "notification": "PLZ_TRANSLATE Push-ilmoitukset",
+  "contacts": "PLZ_TRANSLATE Yhteydet",
+  "microphone": "PLZ_TRANSLATE Mikrofoni",
+  "photo": "PLZ_TRANSLATE galleria",
+  "camera": "PLZ_TRANSLATE Kamera"
 }

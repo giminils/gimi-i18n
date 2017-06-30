@@ -1459,6 +1459,11 @@
   "no_pies_text": "Could not load the graphs, please try again later",
   "permissions_settings_label": "Permissions",
   "authorized": "Authorized",
-  "undertermined": "Undertermined",
-  "denied": "Denied"
+  "undetermined": "Undertermined",
+  "denied": "Denied",
+  "notification": "Push notifications",
+  "contacts": "Contacts",
+  "microphone": "Microphone",
+  "photo": "Gallery",
+  "camera": "Camera"
 }

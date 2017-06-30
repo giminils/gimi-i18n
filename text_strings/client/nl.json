@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Kan de grafieken niet laden, probeer het later nogmaals",
   "permissions_settings_label": "PLZ_TRANSLATE machtigingen",
   "authorized": "PLZ_TRANSLATE Erkende",
-  "undertermined": "PLZ_TRANSLATE Undertermined",
-  "denied": "PLZ_TRANSLATE Denied"
+  "undetermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE Denied",
+  "notification": "PLZ_TRANSLATE Push notificaties",
+  "contacts": "PLZ_TRANSLATE Contacten",
+  "microphone": "PLZ_TRANSLATE Microfoon",
+  "photo": "PLZ_TRANSLATE Galerij",
+  "camera": "PLZ_TRANSLATE Camera"
 }

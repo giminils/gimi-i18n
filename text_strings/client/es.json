@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE No se pudieron cargar los gráficos. Inténtalo de nuevo más tarde.",
   "permissions_settings_label": "PLZ_TRANSLATE Permisos",
   "authorized": "PLZ_TRANSLATE Autorizado",
-  "undertermined": "PLZ_TRANSLATE Subterminado",
-  "denied": "PLZ_TRANSLATE Negado"
+  "undetermined": "PLZ_TRANSLATE Subterminado",
+  "denied": "PLZ_TRANSLATE Negado",
+  "notification": "PLZ_TRANSLATE Notificaciones push",
+  "contacts": "PLZ_TRANSLATE Contactos",
+  "microphone": "PLZ_TRANSLATE Micrófono",
+  "photo": "PLZ_TRANSLATE Galería",
+  "camera": "PLZ_TRANSLATE Cámara"
 }

@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Laadimine ei õnnestunud graafikud, proovige hiljem uuesti",
   "permissions_settings_label": "PLZ_TRANSLATE Permissions",
   "authorized": "PLZ_TRANSLATE volitatud",
-  "undertermined": "PLZ_TRANSLATE Undertermined",
-  "denied": "PLZ_TRANSLATE eitas"
+  "undetermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE eitas",
+  "notification": "PLZ_TRANSLATE Tõukemärguanded",
+  "contacts": "PLZ_TRANSLATE sidemed",
+  "microphone": "PLZ_TRANSLATE mikrofon",
+  "photo": "PLZ_TRANSLATE galerii",
+  "camera": "PLZ_TRANSLATE kaamera"
 }

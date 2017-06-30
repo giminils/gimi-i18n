@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Gat ekki hlaðið myndunum, vinsamlegast reyndu aftur síðar",
   "permissions_settings_label": "PLZ_TRANSLATE Heimildir",
   "authorized": "PLZ_TRANSLATE Leyfilegt",
-  "undertermined": "PLZ_TRANSLATE Undertermined",
-  "denied": "PLZ_TRANSLATE Neitað"
+  "undetermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE Neitað",
+  "notification": "PLZ_TRANSLATE Ýttu á tilkynningar",
+  "contacts": "PLZ_TRANSLATE Tengiliðir",
+  "microphone": "PLZ_TRANSLATE Hljóðnemi",
+  "photo": "PLZ_TRANSLATE Gallerí",
+  "camera": "PLZ_TRANSLATE Myndavél"
 }

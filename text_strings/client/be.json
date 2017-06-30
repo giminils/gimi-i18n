@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Не атрымалася загрузіць графікі, калі ласка, паспрабуйце пазней",
   "permissions_settings_label": "PLZ_TRANSLATE правы доступу",
   "authorized": "PLZ_TRANSLATE упаўнаважаны",
-  "undertermined": "PLZ_TRANSLATE Undertermined",
-  "denied": "PLZ_TRANSLATE адмоўлена"
+  "undetermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE адмоўлена",
+  "notification": "PLZ_TRANSLATE націсніце апавяшчэнне",
+  "contacts": "PLZ_TRANSLATE кантакты",
+  "microphone": "PLZ_TRANSLATE мікрафон",
+  "photo": "PLZ_TRANSLATE галерэя",
+  "camera": "PLZ_TRANSLATE камера"
 }

@@ -1459,6 +1459,11 @@
   "no_pies_text": "PLZ_TRANSLATE Die Grafiken konnten nicht geladen werden. Bitte versuchen Sie es später erneut",
   "permissions_settings_label": "PLZ_TRANSLATE Berechtigungen",
   "authorized": "PLZ_TRANSLATE Autorisiert",
-  "undertermined": "PLZ_TRANSLATE Untertrieben",
-  "denied": "PLZ_TRANSLATE Verweigert"
+  "undetermined": "PLZ_TRANSLATE Untertrieben",
+  "denied": "PLZ_TRANSLATE Verweigert",
+  "notification": "PLZ_TRANSLATE Mitteilungen",
+  "contacts": "PLZ_TRANSLATE Kontakte",
+  "microphone": "PLZ_TRANSLATE Mikrofon",
+  "photo": "PLZ_TRANSLATE Galerie",
+  "camera": "PLZ_TRANSLATE Kamera"
 }
