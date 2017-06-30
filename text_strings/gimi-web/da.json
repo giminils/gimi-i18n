@@ -67,7 +67,7 @@
   "home.quote5_name": "Johanna",
   "family.section1.header": "Fmiliemedlemmer...",
   "family.section1.desc": "…bliver selvlærte superhelte i familieøkonomi. De sparer op, udfører opgaver og holder øje med deres ugentlige og månedlige lommepenge. Her kan du følge deres vej henimod en bedre familieøkonomisk forvaltning af pengene.",
-  "family.slider1.amount": "3 $",
+  "family.slider1.amount": "3 €",
   "family.slider1.period": "Gennemsnitlig ugentlig lommepenge ydelse",
   "family.slider1.task": "Vask op",
   "family.slider1.common": "Hyppig opgave",
@@ -248,5 +248,6 @@
   "news.more": "Læs mere",
   "currency": "DKr",
   "footer.cookie_warning": "PLZ_TRANSLATE Vi bruger cookies for at sikre, at vi giver dig den bedste oplevelse på vores hjemmeside. Ved at gå videre til næste side eller klikke på \"Jeg accepterer\" accepterer du brugen af ​​cookies. Læs mere om vores brug af cookies her:",
-  "footer.click_here": "PLZ_TRANSLATE Klik her"
+  "footer.click_here": "PLZ_TRANSLATE Klik her",
+  "hiring": "PLZ_TRANSLATE We're hiring"
 }

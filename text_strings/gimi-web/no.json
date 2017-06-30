@@ -67,7 +67,7 @@
   "home.quote5_name": "Johanna",
   "family.section1.header": "Familiemedlemmene...",
   "family.section1.desc": "…er på vei til å bli selvtenkende superhelter når det kommer til familieøkonomiare. De sparer, deler oppgaver og holder kontroll på uke- eller månedspengene. Her kan du følge med på deres reise mot bedre økonomiledelse i familien.",
-  "family.slider1.amount": "3 $",
+  "family.slider1.amount": "3 €",
   "family.slider1.period": "Gjennomsnittlig ukentlig beløp",
   "family.slider1.task": "Ta oppvasken",
   "family.slider1.common": "Vanligste oppgaven",
@@ -248,5 +248,6 @@
   "news.more": "Les mer",
   "currency": "kr",
   "footer.cookie_warning": "Vi bruker cookies for å sikre at vi gir deg den beste opplevelsen på nettstedet vårt. Ved å gå videre til neste side eller klikke på \"Jeg godtar\" aksepterer du bruken av cookies. Les mer om bruken av cookies her:",
-  "footer.click_here": "Klikk her"
+  "footer.click_here": "Klikk her",
+  "hiring": "PLZ_TRANSLATE We're hiring"
 }

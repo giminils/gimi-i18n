@@ -67,7 +67,7 @@
   "home.quote5_name": "Johanna",
   "family.section1.header": "The family members...",
   "family.section1.desc": "…are becoming self-taught superheroes in family finance. They save, share tasks and keep track of their weekly and monthly pocket money. Here you can follow their journey towards better money management in the family.",
-  "family.slider1.amount": "3 $",
+  "family.slider1.amount": "3 €",
   "family.slider1.period": "Average weekly allowance",
   "family.slider1.task": "Doing the dishes",
   "family.slider1.common": "Most common task",
@@ -248,5 +248,6 @@
   "news.more": "Lee mas",
   "currency": "EUR",
   "footer.cookie_warning": "PLZ_TRANSLATE Utilizamos cookies para asegurar que le ofrecemos la mejor experiencia en nuestro sitio web. Procediendo a la siguiente página o haciendo clic en \"Acepto\" acepta el uso de cookies. Lea más sobre nuestro uso de cookies aquí:",
-  "footer.click_here": "PLZ_TRANSLATE haga clic aquí"
+  "footer.click_here": "PLZ_TRANSLATE haga clic aquí",
+  "hiring": "PLZ_TRANSLATE We're hiring"
 }

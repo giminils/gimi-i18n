@@ -67,7 +67,7 @@
   "home.quote5_name": "Johanna",
   "family.section1.header": "Les membres de la famille...",
   "family.section1.desc": "…ils sont en train de devenir des superhéros autodidactes dans les finances familiales. Ils épargnent, partagent des tâches et gèrent leur argent de poche hebdo et mensuel. Ici, vous pourrez suivre leur parcours pour une meilleure gestion d’argent de poche au sein de la famille.",
-  "family.slider1.amount": "3 $",
+  "family.slider1.amount": "3 €",
   "family.slider1.period": "Allocation hebdomadaire moyenne ",
   "family.slider1.task": "Laver la vaisselle ",
   "family.slider1.common": "Tâche la plus commune ",
@@ -248,5 +248,6 @@
   "news.more": "Lire la suite",
   "currency": "EUR",
   "footer.cookie_warning": "PLZ_TRANSLATE Nous utilisons des cookies pour nous assurer que nous vous offrons la meilleure expérience sur notre site. En passant à la page suivante ou en cliquant sur \"J'accepte\", vous acceptez l'utilisation des cookies. En savoir plus sur notre utilisation des cookies ici:",
-  "footer.click_here": "PLZ_TRANSLATE Cliquez ici"
+  "footer.click_here": "PLZ_TRANSLATE Cliquez ici",
+  "hiring": "PLZ_TRANSLATE We're hiring"
 }
