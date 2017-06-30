@@ -1467,5 +1467,7 @@
   "photo": "PLZ_TRANSLATE Galleri",
   "camera": "PLZ_TRANSLATE Kamera",
   "initial_capital_pie_desc_child": "PLZ_TRANSLATE Du startede med %1$d i din spargebog, da du begyndte at gemme for %2$d",
-  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d startede med %2$d i spargrisen, da %1$d begyndte at gemme for %3$d"
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d startede med %2$d i spargrisen, da %1$d begyndte at gemme for %3$d",
+  "saved_pie_desc_child": "PLZ_TRANSLATE Du har gemt %1$d siden du begyndte at gemme for %2$d",
+  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d er blevet gemt siden %2$d begyndte at gemme for %3$d"
 }

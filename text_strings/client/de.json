@@ -1467,5 +1467,7 @@
   "photo": "PLZ_TRANSLATE Galerie",
   "camera": "PLZ_TRANSLATE Kamera",
   "initial_capital_pie_desc_child": "PLZ_TRANSLATE Du hast mit %1$d in deinem Sparschwein begonnen, als du für %2$d gestartet hast",
-  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d begann mit %2$d in der Sparschwein, wenn %1$d begann, für %3$d sparen"
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d begann mit %2$d in der Sparschwein, wenn %1$d begann, für %3$d sparen",
+  "saved_pie_desc_child": "PLZ_TRANSLATE Sie haben %1$d gespeichert, seit Sie damit begonnen haben, für %2$d sparen",
+  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d wurde gespeichert, da %2$d begann, für %3$d sparen"
 }

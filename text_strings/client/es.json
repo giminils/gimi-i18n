@@ -1467,5 +1467,7 @@
   "photo": "PLZ_TRANSLATE Galería",
   "camera": "PLZ_TRANSLATE Cámara",
   "initial_capital_pie_desc_child": "PLZ_TRANSLATE Comenzaste con %1$d en tu alcancía cuando empezaste a ahorrar para %2$d",
-  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d empezó con %2$d en la alcancía cuando %1$d empezó a ahorrar para %3$d"
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d empezó con %2$d en la alcancía cuando %1$d empezó a ahorrar para %3$d",
+  "saved_pie_desc_child": "PLZ_TRANSLATE Has guardado %1$d desde que empezaste a guardar %2$d",
+  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d se ha guardado desde %2$d empezó a guardar para %3$d"
 }

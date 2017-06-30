@@ -1467,5 +1467,7 @@
   "photo": "PLZ_TRANSLATE galerii",
   "camera": "PLZ_TRANSLATE kaamera",
   "initial_capital_pie_desc_child": "PLZ_TRANSLATE Sa algas %1$d oma notsu panga kui sa hakkasid säästa %2$d",
-  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d algas %2$d in notsu panga kui %1$d hakkas säästa %3$d"
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d algas %2$d in notsu panga kui %1$d hakkas säästa %3$d",
+  "saved_pie_desc_child": "PLZ_TRANSLATE Olete salvestanud %1$d , sest sa hakkasid säästa %2$d",
+  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d on salvestatud alates %2$d hakkas säästa %3$d"
 }

@@ -1467,5 +1467,7 @@
   "photo": "PLZ_TRANSLATE Galleria",
   "camera": "PLZ_TRANSLATE macchina fotografica",
   "initial_capital_pie_desc_child": "PLZ_TRANSLATE Hai iniziato con %1$d nella tua banca salvadana quando hai iniziato a salvare per %2$d",
-  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d iniziato con %2$d nel salvadanaio quando %1$d iniziato a salvare per %3$d"
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d iniziato con %2$d nel salvadanaio quando %1$d iniziato a salvare per %3$d",
+  "saved_pie_desc_child": "PLZ_TRANSLATE Hai salvato %1$d dal momento che hai iniziato a salvare per %2$d",
+  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d è stato salvato poiché %2$d iniziato a salvare per %3$d"
 }
