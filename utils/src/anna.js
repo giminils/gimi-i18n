@@ -85,15 +85,27 @@ let RunAnna = (filePath):* => {
     })
   }
 
+  let translateTextId = (textIdToTranslate) => {
+    Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
+      .then(() => console.log('saved Successfully :)'))
+      .catch((err) => console.error(err.message))
+  }
+
   let textIdToTranslate = process.argv[2]
 
   if (!textIdToTranslate) { console.log('use: npm run anna -- <text_id>') }
 
   if (textIdToTranslate) {
-    Promise.all(fs.readdirSync(filePath).map((file) => translateTextStringForFile(file, textIdToTranslate)))
-      .then(() => console.log('saved Successfully :)'))
-      .catch((err) => console.error(err.message))
+    if(textIdToTranslate.indexOf(',') > 0) {
+      var splitIds = textIdToTranslate.split(',')
+      for (var i=0; i<splitIds.length; i++) {
+          translateTextId(splitIds[i])
+      }
+    } else {
+      translateTextId(textIdToTranslate)
+    }
   }
+
 }
 templateDir.forEach((filePath) => {
   RunAnna(filePath)
