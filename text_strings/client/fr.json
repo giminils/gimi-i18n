@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE La tâche revient toujours les jours de chaque semaine",
   "task_duration_desc": "PLZ_TRANSLATE Peut toujours être exécuté et le temps mesuré détermine le montant de la récompense",
   "no_pies_text": "PLZ_TRANSLATE Impossible de charger les graphiques, réessayez plus tard",
-  "permissions_settings_label": "PLZ_TRANSLATE Autorisations"
+  "permissions_settings_label": "PLZ_TRANSLATE Autorisations",
+  "authorized": "PLZ_TRANSLATE Autorisé",
+  "undertermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE Refusé"
 }

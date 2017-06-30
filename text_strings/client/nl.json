@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE De taak komt altijd terug op bepaalde dagen van elke week",
   "task_duration_desc": "PLZ_TRANSLATE Kan altijd worden uitgevoerd en gemeten tijd bepaalt het beloningsbedrag",
   "no_pies_text": "PLZ_TRANSLATE Kan de grafieken niet laden, probeer het later nogmaals",
-  "permissions_settings_label": "PLZ_TRANSLATE machtigingen"
+  "permissions_settings_label": "PLZ_TRANSLATE machtigingen",
+  "authorized": "PLZ_TRANSLATE Erkende",
+  "undertermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE Denied"
 }

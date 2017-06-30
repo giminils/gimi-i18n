@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE Verkefnið skilar alltaf á tilteknum dögum hverrar viku",
   "task_duration_desc": "PLZ_TRANSLATE Hægt er alltaf að framkvæma og mældur tími ákvarðar launahæðina",
   "no_pies_text": "PLZ_TRANSLATE Gat ekki hlaðið myndunum, vinsamlegast reyndu aftur síðar",
-  "permissions_settings_label": "PLZ_TRANSLATE Heimildir"
+  "permissions_settings_label": "PLZ_TRANSLATE Heimildir",
+  "authorized": "PLZ_TRANSLATE Leyfilegt",
+  "undertermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE Neitað"
 }

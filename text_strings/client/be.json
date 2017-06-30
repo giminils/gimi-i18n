@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE Задача заўсёды вяртаецца на зададзеныя дні кожнага тыдня",
   "task_duration_desc": "PLZ_TRANSLATE заўсёды можа быць выканана, і вымеранае час вызначае велічыню ўзнагароджання",
   "no_pies_text": "PLZ_TRANSLATE Не атрымалася загрузіць графікі, калі ласка, паспрабуйце пазней",
-  "permissions_settings_label": "PLZ_TRANSLATE правы доступу"
+  "permissions_settings_label": "PLZ_TRANSLATE правы доступу",
+  "authorized": "PLZ_TRANSLATE упаўнаважаны",
+  "undertermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE адмоўлена"
 }

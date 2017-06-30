@@ -1468,5 +1468,8 @@
   "task_periodic_desc": "Uppgiften återkommer alltid på givna dagar varje vecka",
   "task_duration_desc": "Kan alltid utföras och uppmätt tid avgör belöningens storlek",
   "no_pies_text": "Kunde inte ladda in graferna, försök igen senare",
-  "permissions_settings_label": "Behörigheter"
+  "permissions_settings_label": "Behörigheter",
+  "authorized": "Auktoriserad",
+  "undertermined": "Obestämd",
+  "denied": "Nekad"
 }

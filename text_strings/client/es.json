@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE La tarea siempre regresa en determinados días de cada semana",
   "task_duration_desc": "PLZ_TRANSLATE Siempre se puede realizar y el tiempo medido determina el monto de la recompensa",
   "no_pies_text": "PLZ_TRANSLATE No se pudieron cargar los gráficos. Inténtalo de nuevo más tarde.",
-  "permissions_settings_label": "PLZ_TRANSLATE Permisos"
+  "permissions_settings_label": "PLZ_TRANSLATE Permisos",
+  "authorized": "PLZ_TRANSLATE Autorizado",
+  "undertermined": "PLZ_TRANSLATE Subterminado",
+  "denied": "PLZ_TRANSLATE Negado"
 }

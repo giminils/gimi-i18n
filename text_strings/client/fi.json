@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE Tehtävä palauttaa aina annetuilla viikonpäivinä",
   "task_duration_desc": "PLZ_TRANSLATE Voidaan aina suorittaa ja mitattu aika määrittää palkkion määrä",
   "no_pies_text": "PLZ_TRANSLATE Ei voinut ladata kaavioita, yritä myöhemmin uudelleen",
-  "permissions_settings_label": "PLZ_TRANSLATE käyttöoikeudet"
+  "permissions_settings_label": "PLZ_TRANSLATE käyttöoikeudet",
+  "authorized": "PLZ_TRANSLATE valtuutettu",
+  "undertermined": "PLZ_TRANSLATE määrittämätön",
+  "denied": "PLZ_TRANSLATE Denied"
 }

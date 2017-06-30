@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "PLZ_TRANSLATE Oppgaven returnerer alltid på bestemte dager i hver uke",
   "task_duration_desc": "PLZ_TRANSLATE Kan alltid utføres og målt tid bestemmer belønningsbeløpet",
   "no_pies_text": "PLZ_TRANSLATE Kunne ikke laste inn grafene, prøv igjen senere",
-  "permissions_settings_label": "PLZ_TRANSLATE tillatelser"
+  "permissions_settings_label": "PLZ_TRANSLATE tillatelser",
+  "authorized": "PLZ_TRANSLATE autorisert",
+  "undertermined": "PLZ_TRANSLATE Undertermined",
+  "denied": "PLZ_TRANSLATE nektet"
 }

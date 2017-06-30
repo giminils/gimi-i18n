@@ -1457,5 +1457,8 @@
   "task_periodic_desc": "The task always returns on given days of each week",
   "task_duration_desc": "Can always be performed and measured time determines the reward amount",
   "no_pies_text": "Could not load the graphs, please try again later",
-  "permissions_settings_label": "Permissions"
+  "permissions_settings_label": "Permissions",
+  "authorized": "Authorized",
+  "undertermined": "Undertermined",
+  "denied": "Denied"
 }
