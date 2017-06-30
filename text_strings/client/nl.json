@@ -1465,5 +1465,7 @@
   "contacts": "PLZ_TRANSLATE Contacten",
   "microphone": "PLZ_TRANSLATE Microfoon",
   "photo": "PLZ_TRANSLATE Galerij",
-  "camera": "PLZ_TRANSLATE Camera"
+  "camera": "PLZ_TRANSLATE Camera",
+  "initial_capital_pie_desc_child": "PLZ_TRANSLATE Je begon met %1$d in je spaarpot als je begon te bewaren voor %2$d",
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d begonnen met %2$d in de spaarpot als %1$d gestart voor %3$d"
 }

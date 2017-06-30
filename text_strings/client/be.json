@@ -1465,5 +1465,7 @@
   "contacts": "PLZ_TRANSLATE кантакты",
   "microphone": "PLZ_TRANSLATE мікрафон",
   "photo": "PLZ_TRANSLATE галерэя",
-  "camera": "PLZ_TRANSLATE камера"
+  "camera": "PLZ_TRANSLATE камера",
+  "initial_capital_pie_desc_child": "PLZ_TRANSLATE Вы пачалі з %1$d ў вашай скарбонцы , калі вы пачалі эканоміць на %2$d",
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d пачаў з %2$d у скарбонку , калі %1$d пачаў эканоміць на %3$d"
 }

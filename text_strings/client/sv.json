@@ -1476,5 +1476,7 @@
   "contacts": "Kontakter",
   "microphone": "Mikrofon",
   "photo": "Bildgalleri",
-  "camera": "Kamera"
+  "camera": "Kamera",
+  "initial_capital_pie_desc_child": "Du startade med %1$d i din spargris när du började spara till %2$d",
+  "initial_capital_pie_desc_parent": "%1$d startade med %2$d i sin spargris när %1$d började spara till %3$d"
 }

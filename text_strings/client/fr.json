@@ -1465,5 +1465,7 @@
   "contacts": "PLZ_TRANSLATE Contacts",
   "microphone": "PLZ_TRANSLATE Microphone",
   "photo": "PLZ_TRANSLATE Galerie",
-  "camera": "PLZ_TRANSLATE Caméra"
+  "camera": "PLZ_TRANSLATE Caméra",
+  "initial_capital_pie_desc_child": "PLZ_TRANSLATE Vous avez commencé avec %1$d dans votre tirelire lorsque vous avez commencé à économiser pour %2$d",
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d commencé avec %2$d dans la tirelire lorsque %1$d commencé à économiser pour %3$d"
 }

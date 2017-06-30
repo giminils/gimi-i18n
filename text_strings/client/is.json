@@ -1465,5 +1465,7 @@
   "contacts": "PLZ_TRANSLATE Tengiliðir",
   "microphone": "PLZ_TRANSLATE Hljóðnemi",
   "photo": "PLZ_TRANSLATE Gallerí",
-  "camera": "PLZ_TRANSLATE Myndavél"
+  "camera": "PLZ_TRANSLATE Myndavél",
+  "initial_capital_pie_desc_child": "PLZ_TRANSLATE Þú byrjaðir með %1$d í grís bankanum þínum þegar þú byrjaðir að vista fyrir %2$d",
+  "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d byrjaði með %2$d í sparisjóðnum þegar %1$d byrjaði að vista fyrir %3$d"
 }
