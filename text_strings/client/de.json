@@ -1456,5 +1456,6 @@
   "task_timer_desc": "PLZ_TRANSLATE Muss innerhalb eines bestimmten Zeitraums durchgeführt werden, um nicht zu versagen",
   "task_periodic_desc": "PLZ_TRANSLATE Die Aufgabe kehrt immer an bestimmten Wochentagen zurück",
   "task_duration_desc": "PLZ_TRANSLATE Kann immer durchgeführt werden und gemessene Zeit bestimmt die Belohnung Betrag",
-  "no_pies_text": "PLZ_TRANSLATE Die Grafiken konnten nicht geladen werden. Bitte versuchen Sie es später erneut"
+  "no_pies_text": "PLZ_TRANSLATE Die Grafiken konnten nicht geladen werden. Bitte versuchen Sie es später erneut",
+  "permissions_settings_label": "PLZ_TRANSLATE Berechtigungen"
 }

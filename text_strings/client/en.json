@@ -1456,5 +1456,6 @@
   "task_timer_desc": "Must be performed within a certain time period in order not to be failed",
   "task_periodic_desc": "The task always returns on given days of each week",
   "task_duration_desc": "Can always be performed and measured time determines the reward amount",
-  "no_pies_text": "Could not load the graphs, please try again later"
+  "no_pies_text": "Could not load the graphs, please try again later",
+  "permissions_settings_label": "Permissions"
 }

@@ -1456,5 +1456,6 @@
   "task_timer_desc": "PLZ_TRANSLATE Deve essere eseguito entro un certo periodo di tempo per non essere fallito",
   "task_periodic_desc": "PLZ_TRANSLATE L'attività viene sempre restituita nei giorni indicati di ogni settimana",
   "task_duration_desc": "PLZ_TRANSLATE Può sempre essere eseguito e il tempo misurato determina l'importo della ricompensa",
-  "no_pies_text": "PLZ_TRANSLATE Impossibile caricare i grafici, riprova più tardi"
+  "no_pies_text": "PLZ_TRANSLATE Impossibile caricare i grafici, riprova più tardi",
+  "permissions_settings_label": "PLZ_TRANSLATE permessi"
 }

@@ -1456,5 +1456,6 @@
   "task_timer_desc": "PLZ_TRANSLATE Tuleb teha teatud aja jooksul, et mitte siis,",
   "task_periodic_desc": "PLZ_TRANSLATE Ülesanne naaseb alati etteantud nädalapäevadel",
   "task_duration_desc": "PLZ_TRANSLATE Saab alati läbi ja mõõdetud aja määrab tasu suurus",
-  "no_pies_text": "PLZ_TRANSLATE Laadimine ei õnnestunud graafikud, proovige hiljem uuesti"
+  "no_pies_text": "PLZ_TRANSLATE Laadimine ei õnnestunud graafikud, proovige hiljem uuesti",
+  "permissions_settings_label": "PLZ_TRANSLATE Permissions"
 }
