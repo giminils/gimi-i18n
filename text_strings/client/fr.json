@@ -1469,5 +1469,7 @@
   "initial_capital_pie_desc_child": "PLZ_TRANSLATE Vous avez commencé avec %1$d dans votre tirelire lorsque vous avez commencé à économiser pour %2$d",
   "initial_capital_pie_desc_parent": "PLZ_TRANSLATE %1$d commencé avec %2$d dans la tirelire lorsque %1$d commencé à économiser pour %3$d",
   "saved_pie_desc_child": "PLZ_TRANSLATE Vous avez enregistré %1$d depuis que vous avez commencé à économiser pour %2$d",
-  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d a été enregistré puisque %2$d commencé à économiser pour %3$d"
+  "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d a été enregistré puisque %2$d commencé à économiser pour %3$d",
+  "boost_pie_desc_child": "PLZ_TRANSLATE Vous avez reçu un total de %1$d des jalons que vous avez passés depuis que vous avez commencé à économiser pour %2$d",
+  "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d ont reçu un total de %2$d des jalons passés depuis %1$d commencé à économiser pour %3$d"
 }

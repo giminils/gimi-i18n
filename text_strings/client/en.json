@@ -1469,5 +1469,7 @@
   "initial_capital_pie_desc_child": "You started with %1$d in your piggy bank when you started saving for %2$d",
   "initial_capital_pie_desc_parent": "%1$d started with %2$d in the piggy bank when %1$d started saving for %3$d",
   "saved_pie_desc_child": "You have saved %1$d since you started saving for %2$d",
-  "saved_pie_desc_parent": "%1$d has been saved since %2$d started saving for %3$d"
+  "saved_pie_desc_parent": "%1$d has been saved since %2$d started saving for %3$d",
+  "boost_pie_desc_child": "You have received a total of %1$d from milestones that you have passed since you started saving for %2$d",
+  "boost_pie_desc_parent": "%1$d have received a total of %2$d from milestones passed since %1$d started saving for %3$d"
 }

@@ -1480,5 +1480,7 @@
   "initial_capital_pie_desc_child": "Du startade med %1$d i din spargris när du började spara till %2$d",
   "initial_capital_pie_desc_parent": "%1$d startade med %2$d i sin spargris när %1$d började spara till %3$d",
   "saved_pie_desc_child": "Du har sparat %1$d sedan du började spara till %2$d",
-  "saved_pie_desc_parent": "%1$d har sparats sedan %2$d började spara till %3$d"
+  "saved_pie_desc_parent": "%1$d har sparats sedan %2$d började spara till %3$d",
+  "boost_pie_desc_child": "Du har fått totalt %1$d från milstolpar som du har passerat sedan du började spara till %2$d",
+  "boost_pie_desc_parent": "%1$d har fått totalt %2$d från milstolpar som har passerats sedan %1$d började spara till %3$d"
 }
