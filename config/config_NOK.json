@@ -21,5 +21,7 @@
   "minimumTransactionAmount": 4,
   "maximumSavingsBonusAmount": 99999,
   "minimumGoalAmount": 10,
-  "maximumGoalAmount": 99999
+  "maximumGoalAmount": 99999,
+  "minimumTaskAmount": 1,
+  "maximumTaskAmount": 9999
 }
