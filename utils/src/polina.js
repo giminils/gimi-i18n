@@ -50,7 +50,7 @@ let RunPolina = (filePath):* => {
 
   let textIdToTranslate = process.argv[2]
 
-  if (!textIdToTranslate) { console.log('use: npm run poli -- <text_id>') }
+  if (!textIdToTranslate) { console.log('use: npm run poli <text_id>') }
 
   if (textIdToTranslate) {
     if(textIdToTranslate.indexOf(',') > 0) {
