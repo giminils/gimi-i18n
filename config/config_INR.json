@@ -20,5 +20,6 @@
   "minimumSavingsBonusAmount": 50,
   "minimumTransactionAmount": 10,
   "maximumSavingsBonusAmount": 99999,
-  "minimumGoalAmount": 10
+  "minimumGoalAmount": 10,
+  "maximumGoalAmount": 99999
 }
