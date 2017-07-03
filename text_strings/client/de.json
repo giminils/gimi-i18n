@@ -1472,5 +1472,6 @@
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d wurde gespeichert, da %2$d begann, für %3$d sparen",
   "boost_pie_desc_child": "PLZ_TRANSLATE Sie haben insgesamt %1$d aus Meilensteinen erhalten, die Sie verstrichen haben, seit Sie mit der Einsparung von %2$d",
   "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d erhielten insgesamt %2$d von Meilensteinen, die seit %1$d begonnen wurden, um für %3$d sparen",
-  "total_for_period": "PLZ_TRANSLATE Summe für %1$d"
+  "total_for_period": "PLZ_TRANSLATE Summe für %1$d",
+  "error_message_taking_too_long": "PLZ_TRANSLATE Responce zu lange nehmen"
 }

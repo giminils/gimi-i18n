@@ -1472,5 +1472,6 @@
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d is opgeslagen sinds %2$d gestart voor %3$d",
   "boost_pie_desc_child": "PLZ_TRANSLATE Je hebt in totaal %1$d van mijlpalen die je hebt overgegaan sinds je begon met op te slaan voor %2$d",
   "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d heeft in totaal %2$d van mijlpalen ontvangen sinds %1$d gestart voor %3$d",
-  "total_for_period": "PLZ_TRANSLATE Totaal voor %1$d"
+  "total_for_period": "PLZ_TRANSLATE Totaal voor %1$d",
+  "error_message_taking_too_long": "PLZ_TRANSLATE Responce te lang nemen"
 }

@@ -1472,5 +1472,6 @@
   "saved_pie_desc_parent": "%1$d on säästetty siitä, kun %2$d alkoi säästämään %3$d:een",
   "boost_pie_desc_child": "Olet saanut yhteensä %1$d saavutetuista välitavoitteista aloitettuasi säästämään %2$d:een",
   "boost_pie_desc_parent": "%1$d ovat saaneet yhteensä %2$d saavutetuista välitavoitteista siitä, kun %1$d alkoi säästämään %3$d:een",
-  "total_for_period": "Yhteensä %1$d"
+  "total_for_period": "Yhteensä %1$d",
+  "error_message_taking_too_long": "PLZ_TRANSLATE Response kestää liian kauan"
 }

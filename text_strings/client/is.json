@@ -1472,5 +1472,6 @@
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d hefur verið vistað síðan %2$d byrjaði að vista fyrir %3$d",
   "boost_pie_desc_child": "PLZ_TRANSLATE Þú hefur fengið samtals %1$d frá áfangastöðum sem þú hefur staðist síðan þú byrjaðir að vista fyrir %2$d",
   "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d hefur fengið samtals %2$d frá áfangastigi liðnum frá því að %1$d byrjaði að vista fyrir %3$d",
-  "total_for_period": "PLZ_TRANSLATE Samtals fyrir %1$d"
+  "total_for_period": "PLZ_TRANSLATE Samtals fyrir %1$d",
+  "error_message_taking_too_long": "PLZ_TRANSLATE Taka á móti of langan tíma"
 }

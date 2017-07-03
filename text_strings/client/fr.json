@@ -1472,5 +1472,6 @@
   "saved_pie_desc_parent": "PLZ_TRANSLATE %1$d a été enregistré puisque %2$d commencé à économiser pour %3$d",
   "boost_pie_desc_child": "PLZ_TRANSLATE Vous avez reçu un total de %1$d des jalons que vous avez passés depuis que vous avez commencé à économiser pour %2$d",
   "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d ont reçu un total de %2$d des jalons passés depuis %1$d commencé à économiser pour %3$d",
-  "total_for_period": "PLZ_TRANSLATE Total pour %1$d"
+  "total_for_period": "PLZ_TRANSLATE Total pour %1$d",
+  "error_message_taking_too_long": "PLZ_TRANSLATE Responce prenant trop longtemps"
 }
