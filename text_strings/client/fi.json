@@ -1473,5 +1473,7 @@
   "boost_pie_desc_child": "Olet saanut yhteensä %1$d saavutetuista välitavoitteista aloitettuasi säästämään %2$d:een",
   "boost_pie_desc_parent": "%1$d ovat saaneet yhteensä %2$d saavutetuista välitavoitteista siitä, kun %1$d alkoi säästämään %3$d:een",
   "total_for_period": "Yhteensä %1$d",
-  "error_message_taking_too_long": "PLZ_TRANSLATE Response kestää liian kauan"
+  "error_message_taking_too_long": "PLZ_TRANSLATE Response kestää liian kauan",
+  "wish_list_share_title_child": "PLZ_TRANSLATE Jaa toivelista",
+  "wish_list_share_text_child": "PLZ_TRANSLATE Jos jaat muistilistalle, olet todennäköisesti saada mitä haluat!"
 }
