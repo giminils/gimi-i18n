@@ -1486,5 +1486,7 @@
   "total_for_period": "Totalt för %1$d",
   "error_message_taking_too_long": "Svaret tar för lång tid",
   "wish_list_share_title_child": "Dela din önskelista",
-  "wish_list_share_text_child": "Om du delar din önskelista så är det större chans att du får det du önskar dig"
+  "wish_list_share_text_child": "Om du delar din önskelista så är det större chans att du får det du önskar dig",
+  "wish_list_sharing_title_child": "Jag har gjort en önskelista!",
+  "wish_list_sharing_message_child": "Jag har gjort en önskelista på appen %1$d! Jag önskar mig %2$d"
 }

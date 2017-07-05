@@ -1475,5 +1475,7 @@
   "total_for_period": "PLZ_TRANSLATE Totale per %1$d",
   "error_message_taking_too_long": "PLZ_TRANSLATE La risposta è troppo lunga",
   "wish_list_share_title_child": "PLZ_TRANSLATE Condividi la tua wishlist",
-  "wish_list_share_text_child": "PLZ_TRANSLATE Se condividi la tua wishlist, hai maggiori probabilità di ottenere quello che vuoi!"
+  "wish_list_share_text_child": "PLZ_TRANSLATE Se condividi la tua wishlist, hai maggiori probabilità di ottenere quello che vuoi!",
+  "wish_list_sharing_title_child": "PLZ_TRANSLATE Ho fatto una wishlist!",
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Ho fatto una wishlist sulla app %1$d ! Desidero %2$d"
 }

@@ -1475,5 +1475,7 @@
   "total_for_period": "PLZ_TRANSLATE Усяго на %1$d",
   "error_message_taking_too_long": "PLZ_TRANSLATE Хуткадзейнасць занадта доўга",
   "wish_list_share_title_child": "PLZ_TRANSLATE Падзяліцеся сваім спісам пажаданняў",
-  "wish_list_share_text_child": "PLZ_TRANSLATE Калі вы апублікуеце спіс пажаданняў, вы, хутчэй за ўсё, каб атрымаць тое, што вы хочаце!"
+  "wish_list_share_text_child": "PLZ_TRANSLATE Калі вы апублікуеце спіс пажаданняў, вы, хутчэй за ўсё, каб атрымаць тое, што вы хочаце!",
+  "wish_list_sharing_title_child": "PLZ_TRANSLATE Я зрабіў спіс пажаданняў!",
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Я зрабіў спіс пажаданняў на %1$d ок! Я жадаю %2$d"
 }

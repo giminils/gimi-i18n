@@ -1475,5 +1475,7 @@
   "total_for_period": "PLZ_TRANSLATE Samtals fyrir %1$d",
   "error_message_taking_too_long": "PLZ_TRANSLATE Taka á móti of langan tíma",
   "wish_list_share_title_child": "PLZ_TRANSLATE Deila óskalistanum þínum",
-  "wish_list_share_text_child": "PLZ_TRANSLATE Ef þú deilir óskalistanum þínum ertu líklegri til að fá það sem þú vilt!"
+  "wish_list_share_text_child": "PLZ_TRANSLATE Ef þú deilir óskalistanum þínum ertu líklegri til að fá það sem þú vilt!",
+  "wish_list_sharing_title_child": "PLZ_TRANSLATE Ég hef gert óskalistann!",
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Ég hef gert óskalistann á forritinu %1$d ! Ég óska ​​eftir %2$d"
 }

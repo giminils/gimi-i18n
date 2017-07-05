@@ -1475,5 +1475,7 @@
   "total_for_period": "Yhteensä %1$d",
   "error_message_taking_too_long": "PLZ_TRANSLATE Response kestää liian kauan",
   "wish_list_share_title_child": "PLZ_TRANSLATE Jaa toivelista",
-  "wish_list_share_text_child": "PLZ_TRANSLATE Jos jaat muistilistalle, olet todennäköisesti saada mitä haluat!"
+  "wish_list_share_text_child": "PLZ_TRANSLATE Jos jaat muistilistalle, olet todennäköisesti saada mitä haluat!",
+  "wish_list_sharing_title_child": "PLZ_TRANSLATE Olen tehnyt toivelista!",
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Olen tehnyt toivelista on %1$d sovellusta! Toivon %2$d"
 }
