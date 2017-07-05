@@ -1477,5 +1477,6 @@
   "wish_list_share_title_child": "Share your wishlist",
   "wish_list_share_text_child": "If you share your wishlist, you're more likely to get what you want!",
   "wish_list_sharing_title_child": "I have made a wishlist!",
-  "wish_list_sharing_message_child": "I have made a wishlist on the %1$d app! I wish for %2$d"
+  "wish_list_sharing_message_child": "I have made a wishlist on the %1$d app! I wish for %2$d",
+  "task_share_text_child": "I just performed the task %1$d via the %2$d app and earned %3$d. #%4$d"
 }

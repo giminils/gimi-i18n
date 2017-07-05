@@ -1477,5 +1477,6 @@
   "wish_list_share_title_child": "PLZ_TRANSLATE Jagage oma soovinimekirja",
   "wish_list_share_text_child": "PLZ_TRANSLATE Kui jagate oma soovinimekirja oled suurem tõenäosus saada, mida sa tahad!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Olen teinud sooviloendi!",
-  "wish_list_sharing_message_child": "PLZ_TRANSLATE Olen teinud sooviloendi kohta %1$d rakendust! Ma soovin %2$d"
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Olen teinud sooviloendi kohta %1$d rakendust! Ma soovin %2$d",
+  "task_share_text_child": "PLZ_TRANSLATE Ma lihtsalt läbi ülesande %1$d kaudu %2$d rakendust ja teenitud %3$d . # %4$d"
 }

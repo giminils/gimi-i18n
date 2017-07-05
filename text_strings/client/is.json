@@ -1477,5 +1477,6 @@
   "wish_list_share_title_child": "PLZ_TRANSLATE Deila óskalistanum þínum",
   "wish_list_share_text_child": "PLZ_TRANSLATE Ef þú deilir óskalistanum þínum ertu líklegri til að fá það sem þú vilt!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Ég hef gert óskalistann!",
-  "wish_list_sharing_message_child": "PLZ_TRANSLATE Ég hef gert óskalistann á forritinu %1$d ! Ég óska ​​eftir %2$d"
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Ég hef gert óskalistann á forritinu %1$d ! Ég óska ​​eftir %2$d",
+  "task_share_text_child": "PLZ_TRANSLATE Ég gerði bara verkefniið %1$d gegnum %2$d forritið og fékk %3$d . # %4$d"
 }

@@ -1477,5 +1477,6 @@
   "wish_list_share_title_child": "PLZ_TRANSLATE Del din ønskeliste",
   "wish_list_share_text_child": "PLZ_TRANSLATE Hvis du deler din ønskeliste, er du mere tilbøjelig til at få det, du vil have!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Jeg har lavet en ønskeliste!",
-  "wish_list_sharing_message_child": "PLZ_TRANSLATE Jeg har lavet en ønskeliste på %1$d app! Jeg ønsker %2$d"
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Jeg har lavet en ønskeliste på %1$d app! Jeg ønsker %2$d",
+  "task_share_text_child": "PLZ_TRANSLATE Jeg har netop udført opgaven %1$d via %2$d appen og tjent %3$d . # %4$d"
 }

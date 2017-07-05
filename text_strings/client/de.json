@@ -1477,5 +1477,6 @@
   "wish_list_share_title_child": "PLZ_TRANSLATE Teilen Sie Ihre Wunschliste",
   "wish_list_share_text_child": "PLZ_TRANSLATE Wenn Sie Ihre Wunschliste teilen, sind Sie eher zu bekommen, was Sie wollen!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Ich habe eine Wunschliste gemacht!",
-  "wish_list_sharing_message_child": "PLZ_TRANSLATE Ich habe eine Wunschliste auf die %1$d app gemacht! Ich wünsche für %2$d"
+  "wish_list_sharing_message_child": "PLZ_TRANSLATE Ich habe eine Wunschliste auf die %1$d app gemacht! Ich wünsche für %2$d",
+  "task_share_text_child": "PLZ_TRANSLATE Ich habe gerade die Aufgabe %1$d über die %2$d app und verdient %3$d . # %4$d"
 }
