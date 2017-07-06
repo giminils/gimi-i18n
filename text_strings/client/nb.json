@@ -1481,5 +1481,6 @@
   "task_share_text_child": "PLZ_TRANSLATE Jeg har nettopp utført oppgaven %1$d via %2$d appen og opptjent %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-kode",
   "add_pin": "PLZ_TRANSLATE Legg til PIN-kode",
-  "edit_pin": "PLZ_TRANSLATE Endre PIN-kode"
+  "edit_pin": "PLZ_TRANSLATE Endre PIN-kode",
+  "confirm_pin": "PLZ_TRANSLATE Bekreft PIN-kode"
 }

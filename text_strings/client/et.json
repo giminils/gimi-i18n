@@ -1481,5 +1481,6 @@
   "task_share_text_child": "PLZ_TRANSLATE Ma lihtsalt läbi ülesande %1$d kaudu %2$d rakendust ja teenitud %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-koodi",
   "add_pin": "PLZ_TRANSLATE Lisa pin-koodi",
-  "edit_pin": "PLZ_TRANSLATE Muuda PIN-koodi"
+  "edit_pin": "PLZ_TRANSLATE Muuda PIN-koodi",
+  "confirm_pin": "PLZ_TRANSLATE Kinnita PIN"
 }

@@ -1481,5 +1481,6 @@
   "task_share_text_child": "PLZ_TRANSLATE Ich habe gerade die Aufgabe %1$d über die %2$d app und verdient %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-Code",
   "add_pin": "PLZ_TRANSLATE PIN-Code hinzufügen",
-  "edit_pin": "PLZ_TRANSLATE PIN-Code ändern"
+  "edit_pin": "PLZ_TRANSLATE PIN-Code ändern",
+  "confirm_pin": "PLZ_TRANSLATE PIN bestätigen"
 }

@@ -1481,5 +1481,6 @@
   "task_share_text_child": "PLZ_TRANSLATE Je viens d&#39;exécuter la tâche %1$d via l&#39;application %2$d et gagné %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE Code PIN",
   "add_pin": "PLZ_TRANSLATE Ajouter un code PIN",
-  "edit_pin": "PLZ_TRANSLATE Modifier le code PIN"
+  "edit_pin": "PLZ_TRANSLATE Modifier le code PIN",
+  "confirm_pin": "PLZ_TRANSLATE Confirmer le code PIN"
 }

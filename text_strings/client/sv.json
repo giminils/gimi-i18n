@@ -1492,5 +1492,6 @@
   "task_share_text_child": "Jag utförde precis uppgiften %1$d genom appen %2$d och tjänade %3$d. #%4$d",
   "parent_settings_pin_code": "Pinkod",
   "add_pin": "Lägg till pinkod",
-  "edit_pin": "Ändra pinkod"
+  "edit_pin": "Ändra pinkod",
+  "confirm_pin": "Bekräfta pinkod"
 }

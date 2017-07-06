@@ -1481,5 +1481,6 @@
   "task_share_text_child": "PLZ_TRANSLATE Я проста выканаў задачу %1$d праз %2$d прыкладання і зарабіў %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-код",
   "add_pin": "PLZ_TRANSLATE Дадаць пін-код",
-  "edit_pin": "PLZ_TRANSLATE Змяніць пін-код"
+  "edit_pin": "PLZ_TRANSLATE Змяніць пін-код",
+  "confirm_pin": "PLZ_TRANSLATE Пацвярджэнне PIN-код"
 }

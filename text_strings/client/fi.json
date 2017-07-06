@@ -1481,5 +1481,6 @@
   "task_share_text_child": "PLZ_TRANSLATE Olen juuri suorittanut tehtävän %1$d kautta %2$d sovellusta ja ansaitsi %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE Pin-koodi",
   "add_pin": "PLZ_TRANSLATE Lisää pin-koodi",
-  "edit_pin": "PLZ_TRANSLATE Muuta pin-koodi"
+  "edit_pin": "PLZ_TRANSLATE Muuta pin-koodi",
+  "confirm_pin": "PLZ_TRANSLATE vahvista PIN"
 }

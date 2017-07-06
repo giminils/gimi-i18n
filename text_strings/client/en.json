@@ -1481,5 +1481,6 @@
   "task_share_text_child": "I just performed the task %1$d via the %2$d app and earned %3$d. #%4$d",
   "parent_settings_pin_code": "Pin code",
   "add_pin": "Add pin code",
-  "edit_pin": "Change pin code"
+  "edit_pin": "Change pin code",
+  "confirm_pin": "Confirm PIN"
 }
