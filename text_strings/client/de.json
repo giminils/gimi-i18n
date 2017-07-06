@@ -1302,7 +1302,7 @@
   "news_popover_last": "2. Jetzt gibt es Kategorien für Aus- und Einzahlungen - also wirst Du sehen, ob das Geld zu Süßigkeiten oder Apps darauf geht!",
   "news_popover_button": "Schön, dann bin ich bereit!",
   "lost_boost_popover_title": "Du hast einen Schub verloren",
-  "lost_boost_popover_text": "Du hast Geld aus dem Sparschwein ausgegeben, deshalb verlierst Du den Schub von %1$d, den Sie zuvor am Meilenstein erhalten.",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Du hast Geld in das Sparschwein ausgegeben, was dich dazu veranlaßt hat, den Schub zu verlieren, den du in früheren Meilensteinen hast.",
   "lost_boost_popover_see_transaction": "Siehe Überweisung",
   "reverted_transaction_headline": "Rückbuchung",
   "reverted_transaction_info": "Überweisung %1$d rückgängig gemacht",

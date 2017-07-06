@@ -1302,7 +1302,7 @@
   "news_popover_last": "2. Ils existent maintenant des catégories dédiées aux dépenses et aux dépôts dans le but de voir si l'argent va aux bonbons ou aux applications!",
   "news_popover_button": "Très bien! Je suis alors prêt!",
   "lost_boost_popover_title": "Vous avez perdu un gain",
-  "lost_boost_popover_text": "Vous avez dépensé l'argent de la tirelire, ainsi vous avez perdu un gain de %1$d que vous avez précédemment reçu lors d'une étape importante.",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Vous avez dépensé de l'argent dans la tirelire, ce qui vous a permis de perdre le coup de pouce dont vous avez eu des jalons précédents.",
   "lost_boost_popover_see_transaction": "Voir transfert",
   "reverted_transaction_headline": "Opération Annulée",
   "reverted_transaction_info": "Operation de %1$d annulée",

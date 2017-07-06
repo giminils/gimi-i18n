@@ -1302,7 +1302,7 @@
   "news_popover_last": "2. ¡Ahora hay categorías para los gastos y los depósitos - por lo que verás si el dinero va a dulces o a las aplicaciones!",
   "news_popover_button": "¡Bien, entonces estoy listo!",
   "lost_boost_popover_title": "Has perdido un impulso",
-  "lost_boost_popover_text": "Has gastado dinero de la alcancía que te hizo perder %1$d en el impulso que recibiste anteriormente en una etapa.",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Has gastado dinero en la alcancía, lo que te hizo perder el impulso que tienes en los hitos anteriores.",
   "lost_boost_popover_see_transaction": "Ver transacción",
   "reverted_transaction_headline": "Transacción revertida",
   "reverted_transaction_info": "La transacción %1$d se ha revertido",

@@ -1302,7 +1302,7 @@
   "news_popover_last": " 2. Nyt menoilla ja talletuksilla on luokat - niin näet jos rahat menevät karkkiin tai sovelluksiin!",
   "news_popover_button": "Hienoa, sitten olen valmis!",
   "lost_boost_popover_title": "Olet menettänyt Boostin",
-  "lost_boost_popover_text": "Olet käyttänyt rahaa säästöpossusta, mikä sai sinut menettämään %1$d Boostista jota aikaisemmin sait saavutuksesta.",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Olet viettänyt rahaa säästöpossu, joka teki menetät vauhtia sinulla aiemmissa virstanpylväitä.",
   "lost_boost_popover_see_transaction": "Katso siirto",
   "reverted_transaction_headline": "Palautettu siirto",
   "reverted_transaction_info": "Siirto %1$d palautettu",

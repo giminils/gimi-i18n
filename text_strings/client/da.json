@@ -1302,7 +1302,7 @@
   "news_popover_last": "2. Nu er der kategorier for udgifter og indskud - så kan du se om pengene går til slik eller apps!",
   "news_popover_button": "Nice, så er jeg klar!",
   "lost_boost_popover_title": "Du har mistet et boost",
-  "lost_boost_popover_text": "Du har brugt penge fra spargrisen, hvilket gjorde at du tabte %1$d i boost, som du tidligere modtog på en milepæl.",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Du har brugt penge i spargrisen, hvilket gjorde at du miste det løft, du har på tidligere milepæle.",
   "lost_boost_popover_see_transaction": "Se transaktion",
   "reverted_transaction_headline": "Tilbagefør transaktion",
   "reverted_transaction_info": "Transaktion %1$d tilbageført",

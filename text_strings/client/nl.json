@@ -1302,7 +1302,7 @@
   "news_popover_last": "2. Nu zijn er categorieën voor kosten en deposito's - dus je zult zien of het geld gaat naar snoep of apps!",
   "news_popover_button": "Leuk, dan ben ik klaar!",
   "lost_boost_popover_title": "Je hebt een boost verloren",
-  "lost_boost_popover_text": "Je hebt geld uitgegeven van de spaarpot, waardoor je %1$d in de boost verloor die je eerder op een mijlpaal hebt ontvangen.",
+  "lost_boost_popover_text": "PLZ_TRANSLATE Je hebt geld doorgebracht in de spaarpot, waardoor je de boost verloor die je hebt gehad op eerdere mijlpalen.",
   "lost_boost_popover_see_transaction": "Zie transactie",
   "reverted_transaction_headline": " Gekoppelde transactie",
   "reverted_transaction_info": "Transactie %1$d terug gezet",
