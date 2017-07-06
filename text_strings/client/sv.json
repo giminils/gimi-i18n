@@ -1489,5 +1489,8 @@
   "wish_list_share_text_child": "Om du delar din önskelista så är det större chans att du får det du önskar dig",
   "wish_list_sharing_title_child": "Jag har gjort en önskelista!",
   "wish_list_sharing_message_child": "Jag har gjort en önskelista på appen %1$d! Jag önskar mig %2$d",
-  "task_share_text_child": "Jag utförde precis uppgiften %1$d genom appen %2$d och tjänade %3$d. #%4$d"
+  "task_share_text_child": "Jag utförde precis uppgiften %1$d genom appen %2$d och tjänade %3$d. #%4$d",
+  "parent_settings_pin_code": "Pinkod",
+  "add_pin": "Lägg till pinkod",
+  "edit_pin": "Ändra pinkod"
 }

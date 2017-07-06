@@ -1478,5 +1478,8 @@
   "wish_list_share_text_child": "PLZ_TRANSLATE Als u uw wenslijst deelt, bent u meer kans om te krijgen wat u wilt!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Ik heb een wenslijst gemaakt!",
   "wish_list_sharing_message_child": "PLZ_TRANSLATE Ik heb een wishlist gemaakt op de %1$d app! Ik wens %2$d",
-  "task_share_text_child": "PLZ_TRANSLATE Ik heb net de taak %1$d via de %2$d app en verdiende %3$d . # %4$d"
+  "task_share_text_child": "PLZ_TRANSLATE Ik heb net de taak %1$d via de %2$d app en verdiende %3$d . # %4$d",
+  "parent_settings_pin_code": "PLZ_TRANSLATE Pincode",
+  "add_pin": "PLZ_TRANSLATE Voeg pincode toe",
+  "edit_pin": "PLZ_TRANSLATE Wijzig pincode"
 }

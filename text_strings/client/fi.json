@@ -1478,5 +1478,8 @@
   "wish_list_share_text_child": "PLZ_TRANSLATE Jos jaat muistilistalle, olet todennäköisesti saada mitä haluat!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Olen tehnyt toivelista!",
   "wish_list_sharing_message_child": "PLZ_TRANSLATE Olen tehnyt toivelista on %1$d sovellusta! Toivon %2$d",
-  "task_share_text_child": "PLZ_TRANSLATE Olen juuri suorittanut tehtävän %1$d kautta %2$d sovellusta ja ansaitsi %3$d . # %4$d"
+  "task_share_text_child": "PLZ_TRANSLATE Olen juuri suorittanut tehtävän %1$d kautta %2$d sovellusta ja ansaitsi %3$d . # %4$d",
+  "parent_settings_pin_code": "PLZ_TRANSLATE Pin-koodi",
+  "add_pin": "PLZ_TRANSLATE Lisää pin-koodi",
+  "edit_pin": "PLZ_TRANSLATE Muuta pin-koodi"
 }

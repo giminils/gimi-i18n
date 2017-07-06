@@ -1478,5 +1478,8 @@
   "wish_list_share_text_child": "PLZ_TRANSLATE Se condividi la tua wishlist, hai maggiori probabilità di ottenere quello che vuoi!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Ho fatto una wishlist!",
   "wish_list_sharing_message_child": "PLZ_TRANSLATE Ho fatto una wishlist sulla app %1$d ! Desidero %2$d",
-  "task_share_text_child": "PLZ_TRANSLATE Ho appena eseguito l&#39;attività %1$d tramite l&#39;app %2$d e guadagnato %3$d . # %4$d"
+  "task_share_text_child": "PLZ_TRANSLATE Ho appena eseguito l&#39;attività %1$d tramite l&#39;app %2$d e guadagnato %3$d . # %4$d",
+  "parent_settings_pin_code": "PLZ_TRANSLATE Codice PIN",
+  "add_pin": "PLZ_TRANSLATE Aggiungi codice pin",
+  "edit_pin": "PLZ_TRANSLATE Cambiare il codice pin"
 }
