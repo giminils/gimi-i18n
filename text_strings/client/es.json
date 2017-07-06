@@ -1478,6 +1478,7 @@
   "wish_list_share_text_child": "PLZ_TRANSLATE Si compartes tu lista de deseos, ¡es más probable que obtengas lo que quieres!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE ¡He hecho una lista!",
   "wish_list_sharing_message_child": "PLZ_TRANSLATE ¡He hecho una lista de deseos en la aplicación %1$d ! Deseo para %2$d",
+  "task_share_headline_child": "PLZ_TRANSLATE Acabo de realizar la tarea %1$d",
   "task_share_text_child": "PLZ_TRANSLATE Acabo de realizar la tarea %1$d través de la aplicación %2$d y gané %3$d . # %4$d",
   "parent_settings_pin_code": "PLZ_TRANSLATE Código PIN",
   "add_pin": "PLZ_TRANSLATE Añadir código PIN",
