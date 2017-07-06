@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-код",
   "add_pin": "PLZ_TRANSLATE Дадаць пін-код",
   "edit_pin": "PLZ_TRANSLATE Змяніць пін-код",
-  "confirm_pin": "PLZ_TRANSLATE Пацвярджэнне PIN-код"
+  "confirm_pin": "PLZ_TRANSLATE Пацвярджэнне PIN-код",
+  "parent_interactable_sheet_title": "PLZ_TRANSLATE новае падзея",
+  "select_child": "PLZ_TRANSLATE выберыце дзіцяці",
+  "select_activity": "PLZ_TRANSLATE выберыце дзеянне",
+  "deduction": "PLZ_TRANSLATE дэдукцыя",
+  "support_savings_goal": "PLZ_TRANSLATE Эканомія падтрымкі мэты",
+  "all_children": "PLZ_TRANSLATE Пры размяшчэнні ўсіх дзяцей"
 }

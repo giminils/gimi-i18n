@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "PLZ_TRANSLATE Pincode",
   "add_pin": "PLZ_TRANSLATE Voeg pincode toe",
   "edit_pin": "PLZ_TRANSLATE Wijzig pincode",
-  "confirm_pin": "PLZ_TRANSLATE Bevestig de pincode"
+  "confirm_pin": "PLZ_TRANSLATE Bevestig de pincode",
+  "parent_interactable_sheet_title": "PLZ_TRANSLATE Nieuw evenement",
+  "select_child": "PLZ_TRANSLATE Selecteer een kind",
+  "select_activity": "PLZ_TRANSLATE Selecteer activiteit",
+  "deduction": "PLZ_TRANSLATE Aftrek",
+  "support_savings_goal": "PLZ_TRANSLATE Ondersteuningsbesparingsdoel",
+  "all_children": "PLZ_TRANSLATE Alle kinderen"
 }

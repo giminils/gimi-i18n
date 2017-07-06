@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN númer",
   "add_pin": "Lägg till pinkod",
   "edit_pin": "PLZ_TRANSLATE Breyta pinna kóða",
-  "confirm_pin": "PLZ_TRANSLATE Staðfestu PIN"
+  "confirm_pin": "PLZ_TRANSLATE Staðfestu PIN",
+  "parent_interactable_sheet_title": "PLZ_TRANSLATE Ný atburður",
+  "select_child": "PLZ_TRANSLATE Veldu barn",
+  "select_activity": "PLZ_TRANSLATE Veldu virkni",
+  "deduction": "PLZ_TRANSLATE Frádráttur",
+  "support_savings_goal": "PLZ_TRANSLATE Stuðningur sparnaður markmið",
+  "all_children": "PLZ_TRANSLATE Öll börn"
 }

@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "Pin code",
   "add_pin": "Add pin code",
   "edit_pin": "Change pin code",
-  "confirm_pin": "Confirm PIN"
+  "confirm_pin": "Confirm PIN",
+  "parent_interactable_sheet_title": "New event",
+  "select_child": "Select a child",
+  "select_activity": "Select activity",
+  "deduction": "Deduction",
+  "support_savings_goal": "Support savings goal",
+  "all_children": "All children"
 }

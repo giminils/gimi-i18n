@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-koodi",
   "add_pin": "PLZ_TRANSLATE Lisa pin-koodi",
   "edit_pin": "PLZ_TRANSLATE Muuda PIN-koodi",
-  "confirm_pin": "PLZ_TRANSLATE Kinnita PIN"
+  "confirm_pin": "PLZ_TRANSLATE Kinnita PIN",
+  "parent_interactable_sheet_title": "PLZ_TRANSLATE uus sündmus",
+  "select_child": "PLZ_TRANSLATE Valige laps",
+  "select_activity": "PLZ_TRANSLATE Vali tegevus",
+  "deduction": "PLZ_TRANSLATE mahaarvamine",
+  "support_savings_goal": "PLZ_TRANSLATE Toetus säästukalkulaator",
+  "all_children": "PLZ_TRANSLATE Kõik lapsed"
 }

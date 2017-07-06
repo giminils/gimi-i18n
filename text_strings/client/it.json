@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "PLZ_TRANSLATE Codice PIN",
   "add_pin": "PLZ_TRANSLATE Aggiungi codice pin",
   "edit_pin": "PLZ_TRANSLATE Cambiare il codice pin",
-  "confirm_pin": "PLZ_TRANSLATE Conferma PIN"
+  "confirm_pin": "PLZ_TRANSLATE Conferma PIN",
+  "parent_interactable_sheet_title": "PLZ_TRANSLATE Nuovo evento",
+  "select_child": "PLZ_TRANSLATE Seleziona un bambino",
+  "select_activity": "PLZ_TRANSLATE Seleziona l'attività",
+  "deduction": "PLZ_TRANSLATE Deduzione",
+  "support_savings_goal": "PLZ_TRANSLATE Obiettivo di risparmio di sostegno",
+  "all_children": "PLZ_TRANSLATE Tutti i bambini"
 }

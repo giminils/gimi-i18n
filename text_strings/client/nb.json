@@ -1483,5 +1483,11 @@
   "parent_settings_pin_code": "PLZ_TRANSLATE PIN-kode",
   "add_pin": "PLZ_TRANSLATE Legg til PIN-kode",
   "edit_pin": "PLZ_TRANSLATE Endre PIN-kode",
-  "confirm_pin": "PLZ_TRANSLATE Bekreft PIN-kode"
+  "confirm_pin": "PLZ_TRANSLATE Bekreft PIN-kode",
+  "parent_interactable_sheet_title": "PLZ_TRANSLATE Ny begivenhet",
+  "select_child": "PLZ_TRANSLATE Velg et barn",
+  "select_activity": "PLZ_TRANSLATE Velg aktivitet",
+  "deduction": "PLZ_TRANSLATE Fradrag",
+  "support_savings_goal": "PLZ_TRANSLATE Støttebesparelsesmål",
+  "all_children": "PLZ_TRANSLATE Alle barn"
 }
