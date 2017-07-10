@@ -1489,5 +1489,7 @@
   "select_activity": "Select activity",
   "deduction": "Deduction",
   "support_savings_goal": "Support savings goal",
-  "all_children": "All children"
+  "all_children": "All children",
+  "goal_popover_title_amount_reached": "%1$d You did it!",
+  "goal_popover_text_amount_reached": "%1$d reached the savings goal. %2$d in x days. Good job!"
 }

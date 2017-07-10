@@ -1489,5 +1489,7 @@
   "select_activity": "PLZ_TRANSLATE Selecteer activiteit",
   "deduction": "PLZ_TRANSLATE Aftrek",
   "support_savings_goal": "PLZ_TRANSLATE Ondersteuningsbesparingsdoel",
-  "all_children": "PLZ_TRANSLATE Alle kinderen"
+  "all_children": "PLZ_TRANSLATE Alle kinderen",
+  "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Je hebt het gedaan!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d heeft het besparingsdoel bereikt. %2$d in x dagen. Goed gedaan!"
 }

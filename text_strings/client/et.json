@@ -1489,5 +1489,7 @@
   "select_activity": "PLZ_TRANSLATE Vali tegevus",
   "deduction": "PLZ_TRANSLATE mahaarvamine",
   "support_savings_goal": "PLZ_TRANSLATE Toetus säästukalkulaator",
-  "all_children": "PLZ_TRANSLATE Kõik lapsed"
+  "all_children": "PLZ_TRANSLATE Kõik lapsed",
+  "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Sa tegid seda!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d jõudnud kokkuhoid eesmärk. %2$d x päevaga. Tubli töö!"
 }

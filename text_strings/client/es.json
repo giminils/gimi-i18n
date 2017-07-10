@@ -1489,5 +1489,7 @@
   "select_activity": "PLZ_TRANSLATE Seleccionar actividad",
   "deduction": "PLZ_TRANSLATE Deducción",
   "support_savings_goal": "PLZ_TRANSLATE Objetivo de ahorro de apoyo",
-  "all_children": "PLZ_TRANSLATE Todos los niños"
+  "all_children": "PLZ_TRANSLATE Todos los niños",
+  "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Lo hiciste!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d alcanzó el objetivo de ahorro. %2$d en x días. ¡Buen trabajo!"
 }

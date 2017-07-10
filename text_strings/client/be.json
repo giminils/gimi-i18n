@@ -1489,5 +1489,7 @@
   "select_activity": "PLZ_TRANSLATE выберыце дзеянне",
   "deduction": "PLZ_TRANSLATE дэдукцыя",
   "support_savings_goal": "PLZ_TRANSLATE Эканомія падтрымкі мэты",
-  "all_children": "PLZ_TRANSLATE Пры размяшчэнні ўсіх дзяцей"
+  "all_children": "PLZ_TRANSLATE Пры размяшчэнні ўсіх дзяцей",
+  "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Вы зрабілі гэта!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d дасягнулі эканоміі мэты. %2$d у х дзён. Добрая праца!"
 }
