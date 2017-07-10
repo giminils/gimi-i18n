@@ -1491,5 +1491,9 @@
   "support_savings_goal": "PLZ_TRANSLATE Toetus säästukalkulaator",
   "all_children": "PLZ_TRANSLATE Kõik lapsed",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Sa tegid seda!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d jõudnud kokkuhoid eesmärk. %2$d x päevaga. Tubli töö!"
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d jõudnud kokkuhoid eesmärk. %2$d x päevaga. Tubli töö!",
+  "share_view_title": "PLZ_TRANSLATE Levitage %1$d",
+  "share_view_intro": "PLZ_TRANSLATE Täname, et jagada ja aidata levitada majandusliku suurvõimu!",
+  "share_view_via_email": "PLZ_TRANSLATE Jaga kaudu E-post",
+  "share_view_via_message": "PLZ_TRANSLATE Jaga kaudu teade"
 }

@@ -1491,5 +1491,9 @@
   "support_savings_goal": "PLZ_TRANSLATE Støtte besparelsesmål",
   "all_children": "PLZ_TRANSLATE Alle børn",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Du gjorde det!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d nåede besparelsesmålet. %2$d i x dage. Godt arbejde!"
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d nåede besparelsesmålet. %2$d i x dage. Godt arbejde!",
+  "share_view_title": "PLZ_TRANSLATE Spred ordet om %1$d",
+  "share_view_intro": "PLZ_TRANSLATE Tak for at dele og hjælpe med at sprede økonomiske supermagter!",
+  "share_view_via_email": "PLZ_TRANSLATE Del via e-mail",
+  "share_view_via_message": "PLZ_TRANSLATE Del via meddelelse"
 }

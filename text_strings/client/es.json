@@ -1491,5 +1491,9 @@
   "support_savings_goal": "PLZ_TRANSLATE Objetivo de ahorro de apoyo",
   "all_children": "PLZ_TRANSLATE Todos los niños",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Lo hiciste!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d alcanzó el objetivo de ahorro. %2$d en x días. ¡Buen trabajo!"
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d alcanzó el objetivo de ahorro. %2$d en x días. ¡Buen trabajo!",
+  "share_view_title": "PLZ_TRANSLATE Difundir la palabra sobre %1$d",
+  "share_view_intro": "PLZ_TRANSLATE ¡Gracias por compartir y ayudar a expandir las superpotencias económicas!",
+  "share_view_via_email": "PLZ_TRANSLATE Compartir via correo electrónico",
+  "share_view_via_message": "PLZ_TRANSLATE Compartir vía Mensaje"
 }
