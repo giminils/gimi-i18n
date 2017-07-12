@@ -1238,7 +1238,7 @@
   "parent_help": "Föräldrahjälpen",
   "parent_help_label": "Föräldrahjälp",
   "savings_goal_edit_no_sponsor_description": "Du väljer att inte hjälpa ditt barn med det här sparmålet.",
-  "savings_goal_item_sponsored_parent": "PLZ_TRANSLATE Du tar en andel och stödjer sparmålet med %1$d",
+  "savings_goal_item_sponsored_parent": "Du tar en andel och stödjer sparmålet med %1$d",
   "savings_goal_item_sponsored_child": "Föräldrahjälpen är aktiverad. Du stödjs med %1$d",
   "savings_goal_item_finished": "Grattis! Avsluta för att påbörja ett nytt sparmål.",
   "savings_goal_item_not_sponsored_parent": "Ta andel av sparmål",
@@ -1507,6 +1507,6 @@
   "share_view_intro": "Tack för att du delar och hjälper till att sprida ekonomiska superkrafter!",
   "share_view_via_email": "Dela via E-post",
   "share_view_via_message": "Dela via Meddelande",
-  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Du boostar med %1$d per milstolpe och sparmålet med totalt %2$d.",
-  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Du tar en andel på %1$d och boostar varje milstolpe med %2$d. Totalt stödjer du sparmålet med %3$d."
+  "savings_goal_item_boost_parent": "Du boostar med %1$d per milstolpe och sparmålet med totalt %2$d.",
+  "savings_goal_item_boost_and_sponsor_parent": "Du tar en andel på %1$d och boostar varje milstolpe med %2$d. Totalt stödjer du sparmålet med %3$d."
 }
