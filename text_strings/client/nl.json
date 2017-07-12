@@ -1495,5 +1495,7 @@
   "share_view_title": "PLZ_TRANSLATE Verspreid het woord over %1$d",
   "share_view_intro": "PLZ_TRANSLATE Dank u voor het delen en helpen om de economische supermacht te verspreiden!",
   "share_view_via_email": "PLZ_TRANSLATE Deel via e-mail",
-  "share_view_via_message": "PLZ_TRANSLATE Deel via Bericht"
+  "share_view_via_message": "PLZ_TRANSLATE Deel via Bericht",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Je verhoogt met %1$d per mijlpaal en ondersteunt het doel met een totaal van %2$d .",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE U neemt een percentage van %1$d en verhoogt elke mijlpaal met %2$d . In totaal ondersteunt u het doel met %3$d ."
 }

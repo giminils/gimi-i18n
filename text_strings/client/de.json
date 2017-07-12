@@ -1495,5 +1495,7 @@
   "share_view_title": "PLZ_TRANSLATE Verbreiten Sie das Wort über %1$d",
   "share_view_intro": "PLZ_TRANSLATE Danke für das Teilen und helfen, ökonomische Supermächte zu verbreiten!",
   "share_view_via_email": "PLZ_TRANSLATE Teilen per E-Mail",
-  "share_view_via_message": "PLZ_TRANSLATE Per Nachricht teilen"
+  "share_view_via_message": "PLZ_TRANSLATE Per Nachricht teilen",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Sie steigern mit %1$d pro Meilenstein und unterstützen das Ziel mit insgesamt %2$d .",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Sie nehmen einen Prozentsatz von %1$d und steigern jeden Meilenstein mit %2$d . Insgesamt unterstützen Sie das Ziel mit %3$d ."
 }

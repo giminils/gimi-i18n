@@ -1495,5 +1495,7 @@
   "share_view_title": "PLZ_TRANSLATE Levitage %1$d",
   "share_view_intro": "PLZ_TRANSLATE Täname, et jagada ja aidata levitada majandusliku suurvõimu!",
   "share_view_via_email": "PLZ_TRANSLATE Jaga kaudu E-post",
-  "share_view_via_message": "PLZ_TRANSLATE Jaga kaudu teade"
+  "share_view_via_message": "PLZ_TRANSLATE Jaga kaudu teade",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Suurendage %1$d verstapost ja toetage eesmärki kokku %2$d .",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Kasutate protsent %1$d ja suurendage iga verstaposti %2$d . Kokku toetate eesmärki %3$d ."
 }

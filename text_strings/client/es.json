@@ -1495,5 +1495,7 @@
   "share_view_title": "PLZ_TRANSLATE Difundir la palabra sobre %1$d",
   "share_view_intro": "PLZ_TRANSLATE ¡Gracias por compartir y ayudar a expandir las superpotencias económicas!",
   "share_view_via_email": "PLZ_TRANSLATE Compartir via correo electrónico",
-  "share_view_via_message": "PLZ_TRANSLATE Compartir vía Mensaje"
+  "share_view_via_message": "PLZ_TRANSLATE Compartir vía Mensaje",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Aumenta con %1$d por hito y apoya la meta con un total de %2$d .",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Toma un porcentaje de %1$d y aumenta cada hito con %2$d . En total, usted apoya la meta con %3$d ."
 }

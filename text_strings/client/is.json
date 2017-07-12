@@ -1495,5 +1495,7 @@
   "share_view_title": "PLZ_TRANSLATE Dreifðu orðinu um %1$d",
   "share_view_intro": "PLZ_TRANSLATE Þakka þér fyrir að deila og hjálpa til við að dreifa efnahagslegum stórveldum!",
   "share_view_via_email": "PLZ_TRANSLATE Deila með tölvupósti",
-  "share_view_via_message": "PLZ_TRANSLATE Deila með skilaboðum"
+  "share_view_via_message": "PLZ_TRANSLATE Deila með skilaboðum",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Þú hækkar með %1$d á áfangastað og styður markmiðið með samtals %2$d .",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Þú tekur hlutfall af %1$d og aukið hverja áfanga með %2$d . Alls styðja þú markmiðið með %3$d ."
 }

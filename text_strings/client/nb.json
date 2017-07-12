@@ -1495,5 +1495,7 @@
   "share_view_title": "PLZ_TRANSLATE Spre ordet om %1$d",
   "share_view_intro": "PLZ_TRANSLATE Takk for at du deler og bidrar til å spre økonomiske supermakt!",
   "share_view_via_email": "PLZ_TRANSLATE Del via e-post",
-  "share_view_via_message": "PLZ_TRANSLATE Del via Melding"
+  "share_view_via_message": "PLZ_TRANSLATE Del via Melding",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Du øker med %1$d per milepæl og støtter målet med totalt %2$d .",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Du tar en prosentandel av %1$d og øker hver milepæl med %2$d . Totalt støtter du målet med %3$d ."
 }

@@ -1506,5 +1506,7 @@
   "share_view_title": "Tipsa om %1$d",
   "share_view_intro": "Tack för att du delar och hjälper till att sprida ekonomiska superkrafter!",
   "share_view_via_email": "Dela via E-post",
-  "share_view_via_message": "Dela via Meddelande"
+  "share_view_via_message": "Dela via Meddelande",
+  "savings_goal_item_boost_parent": "PLZ_TRANSLATE Du boostar med %1$d per milstolpe och sparmålet med totalt %2$d.",
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Du tar en andel på %1$d och boostar varje milstolpe med %2$d. Totalt stödjer du sparmålet med %3$d."
 }

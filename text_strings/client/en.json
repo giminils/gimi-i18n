@@ -1495,5 +1495,7 @@
   "share_view_title": "Spread the word about %1$d",
   "share_view_intro": "Thank you for sharing and helping to spread economic superpowers!",
   "share_view_via_email": "Share via E-mail",
-  "share_view_via_message": "Share via Message"
+  "share_view_via_message": "Share via Message",
+  "savings_goal_item_boost_parent": "You boost with %1$d per milestone and support the goal with a total of %2$d.",
+  "savings_goal_item_boost_and_sponsor_parent": "You take a percentage of %1$d and boost each milestone with %2$d. In total, you support the goal with %3$d."
 }
