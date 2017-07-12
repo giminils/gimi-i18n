@@ -1497,5 +1497,7 @@
   "share_view_via_email": "PLZ_TRANSLATE Deel via e-mail",
   "share_view_via_message": "PLZ_TRANSLATE Deel via Bericht",
   "savings_goal_item_boost_parent": "PLZ_TRANSLATE Je verhoogt met %1$d per mijlpaal en ondersteunt het doel met een totaal van %2$d .",
-  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE U neemt een percentage van %1$d en verhoogt elke mijlpaal met %2$d . In totaal ondersteunt u het doel met %3$d ."
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE U neemt een percentage van %1$d en verhoogt elke mijlpaal met %2$d . In totaal ondersteunt u het doel met %3$d .",
+  "empty_notification_list_title": "PLZ_TRANSLATE Geen meldingen hier",
+  "empty_notification_list_text": "PLZ_TRANSLATE Hier worden uw meldingen weergegeven"
 }

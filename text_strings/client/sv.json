@@ -1508,5 +1508,7 @@
   "share_view_via_email": "Dela via E-post",
   "share_view_via_message": "Dela via Meddelande",
   "savings_goal_item_boost_parent": "Du boostar med %1$d per milstolpe och sparmålet med totalt %2$d.",
-  "savings_goal_item_boost_and_sponsor_parent": "Du tar en andel på %1$d och boostar varje milstolpe med %2$d. Totalt stödjer du sparmålet med %3$d."
+  "savings_goal_item_boost_and_sponsor_parent": "Du tar en andel på %1$d och boostar varje milstolpe med %2$d. Totalt stödjer du sparmålet med %3$d.",
+  "empty_notification_list_title": "PLZ_TRANSLATE Inga notifikationer här",
+  "empty_notification_list_text": "PLZ_TRANSLATE Här kommer dina notifikationer dyka upp"
 }

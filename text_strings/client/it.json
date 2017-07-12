@@ -1497,5 +1497,7 @@
   "share_view_via_email": "PLZ_TRANSLATE Condividi via E-mail",
   "share_view_via_message": "PLZ_TRANSLATE Condividi via il messaggio",
   "savings_goal_item_boost_parent": "PLZ_TRANSLATE Potrai aumentare con %1$d per pietra miliare e sostenere l&#39;obiettivo con un totale di %2$d .",
-  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Prendi una percentuale di %1$d e aumenta ogni pietra miliare con %2$d . In totale, supportate l&#39;obiettivo con %3$d ."
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Prendi una percentuale di %1$d e aumenta ogni pietra miliare con %2$d . In totale, supportate l&#39;obiettivo con %3$d .",
+  "empty_notification_list_title": "PLZ_TRANSLATE Nessuna notifica qui",
+  "empty_notification_list_text": "PLZ_TRANSLATE Qui vengono visualizzate le tue notifiche"
 }

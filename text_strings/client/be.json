@@ -1497,5 +1497,7 @@
   "share_view_via_email": "PLZ_TRANSLATE Падзяліцца па электроннай пошце",
   "share_view_via_message": "PLZ_TRANSLATE Падзяліцца праз паведамленне",
   "savings_goal_item_boost_parent": "PLZ_TRANSLATE Вы павялічыць з %1$d за мяжы і падтрымліваюць мэты ў агульнай складанасці %2$d .",
-  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Вы бераце працэнт %1$d і павялічыць кожную вяху з %2$d . У цэлым, вы падтрымліваеце мэты з %3$d ."
+  "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Вы бераце працэнт %1$d і павялічыць кожную вяху з %2$d . У цэлым, вы падтрымліваеце мэты з %3$d .",
+  "empty_notification_list_title": "PLZ_TRANSLATE Няма апавяшчэнняў тут",
+  "empty_notification_list_text": "PLZ_TRANSLATE Тут будуць з'яўляцца вашы апавяшчэння"
 }
