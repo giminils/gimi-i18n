@@ -1227,7 +1227,7 @@
   "parent_help": "Aide parentale",
   "parent_help_label": "Aide parentale",
   "savings_goal_edit_no_sponsor_description": "Vous avez choisi de ne pas aider votre enfant pour atteindre son objectif d'épargne.",
-  "savings_goal_item_sponsored_parent": "Vous êtes en train d'aider avec %1$d%",
+  "savings_goal_item_sponsored_parent": "PLZ_TRANSLATE Vous prenez une part et supportez le but avec %1$d",
   "savings_goal_item_sponsored_child": "L'aide parentale est active. Vous êtes soutenu avec %1$d",
   "savings_goal_item_finished": "Félicitations! Terminez pour établir un nouvel objectif d'épargne.",
   "savings_goal_item_not_sponsored_parent": "Faites partie des objectifs d'épargne",

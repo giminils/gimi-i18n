@@ -1227,7 +1227,7 @@
   "parent_help": "Forældrehjælp",
   "parent_help_label": "Forældrehjælp",
   "savings_goal_edit_no_sponsor_description": "Du har valgt ikke at hjælpe dit barn med dette opsparingsmål.",
-  "savings_goal_item_sponsored_parent": "Du hjælper til med %1$d%",
+  "savings_goal_item_sponsored_parent": "PLZ_TRANSLATE Du tager en andel og støtter målet med %1$d",
   "savings_goal_item_sponsored_child": "Forældrehjælpen er aktiveret. Du støtter med %1$d",
   "savings_goal_item_finished": "Tillykke! Afslut for at påbegynde et nyt opsparingsmål.",
   "savings_goal_item_not_sponsored_parent": "Tag en del af opsparingsmålet",

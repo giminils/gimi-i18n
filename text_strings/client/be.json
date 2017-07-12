@@ -1227,7 +1227,7 @@
   "parent_help": "PLZ_TRANSLATE бацька дапамогу",
   "parent_help_label": "PLZ_TRANSLATE бацька дапамогу",
   "savings_goal_edit_no_sponsor_description": "PLZ_TRANSLATE Вы выбіраеце ня дапамагчы дзіцяці з гэтай ашчаднай мэтай.",
-  "savings_goal_item_sponsored_parent": "PLZ_TRANSLATE Вы дапамагаеце з %1$d%",
+  "savings_goal_item_sponsored_parent": "PLZ_TRANSLATE Вы бераце долю і падтрымліваць мэты з %1$d",
   "savings_goal_item_sponsored_child": "PLZ_TRANSLATE Бацька дапамогу актывуецца. Вы падтрымлівалі з %1$d",
   "savings_goal_item_finished": "PLZ_TRANSLATE Віншуем! Гатова, каб пачаць новую ашчадную мэта.",
   "savings_goal_item_not_sponsored_parent": "PLZ_TRANSLATE Вазьміце частка мэты эканоміі",

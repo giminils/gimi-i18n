@@ -1227,7 +1227,7 @@
   "parent_help": "Elterliche Hilfe",
   "parent_help_label": "Elterliche Hilfe",
   "savings_goal_edit_no_sponsor_description": "Du hast ausgewählt, Deinem Kind nicht mit diesem Sparziel zu helfen.",
-  "savings_goal_item_sponsored_parent": "Du hilfst mit %1$d%",
+  "savings_goal_item_sponsored_parent": "PLZ_TRANSLATE Sie nehmen einen Anteil und unterstützen das Ziel mit %1$d",
   "savings_goal_item_sponsored_child": "Elterliche Hilfe wird aktiviert. Du wirst mit %1$d unterstützt",
   "savings_goal_item_finished": "Herzlichen Glückwunsch! Schließe das jetzige Sparziel ab, um ein neues Sparziel zu beginnen.",
   "savings_goal_item_not_sponsored_parent": "Hilf beim Sparen",
