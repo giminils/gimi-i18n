@@ -1473,7 +1473,7 @@
   "boost_pie_desc_child": "PLZ_TRANSLATE Du har mottatt totalt %1$d fra milepæler du har passert siden du begynte å lagre for %2$d",
   "boost_pie_desc_parent": "PLZ_TRANSLATE %1$d har mottatt totalt %2$d fra milepæler bestått siden %1$d begynte å lagre for %3$d",
   "total_for_period": "PLZ_TRANSLATE Totalt for %1$d",
-  "error_message_taking_too_long": "PLZ_TRANSLATE Responce tar for lang tid",
+  "error_message_taking_too_long": "PLZ_TRANSLATE Response tar for lang tid",
   "wish_list_share_title_child": "PLZ_TRANSLATE Del din ønskeliste",
   "wish_list_share_text_child": "PLZ_TRANSLATE Hvis du deler din ønskeliste, er du mer sannsynlig å få det du vil ha!",
   "wish_list_sharing_title_child": "PLZ_TRANSLATE Jeg har laget en ønskeliste!",
