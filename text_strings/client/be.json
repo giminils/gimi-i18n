@@ -1500,5 +1500,7 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Вы бераце працэнт %1$d і павялічыць кожную вяху з %2$d . У цэлым, вы падтрымліваеце мэты з %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Няма апавяшчэнняў тут",
   "empty_notification_list_text": "PLZ_TRANSLATE Тут будуць з'яўляцца вашы апавяшчэння",
-  "error_message_fingerprint_permission": "PLZ_TRANSLATE Адсутнасць дазволаў або датчыкаў адбіткаў пальцаў."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Адсутнасць дазволаў або датчыкаў адбіткаў пальцаў.",
+  "fingerprint_popup_header": "PLZ_TRANSLATE сканаванне пальца",
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Праверце свой палец, каб працягнуць"
 }

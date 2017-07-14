@@ -1500,5 +1500,7 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Prendi una percentuale di %1$d e aumenta ogni pietra miliare con %2$d . In totale, supportate l&#39;obiettivo con %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Nessuna notifica qui",
   "empty_notification_list_text": "PLZ_TRANSLATE Qui vengono visualizzate le tue notifiche",
-  "error_message_fingerprint_permission": "PLZ_TRANSLATE Autorizzazioni mancanti o sensori di impronte digitali."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Autorizzazioni mancanti o sensori di impronte digitali.",
+  "fingerprint_popup_header": "PLZ_TRANSLATE Scansione del dito",
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Scansione del dito per continuare"
 }

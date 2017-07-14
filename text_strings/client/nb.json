@@ -1500,5 +1500,7 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Du tar en prosentandel av %1$d og øker hver milepæl med %2$d . Totalt støtter du målet med %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Ingen varsler her",
   "empty_notification_list_text": "PLZ_TRANSLATE Her vises varselene dine",
-  "error_message_fingerprint_permission": "PLZ_TRANSLATE Mangler tillatelser eller fingeravtrykksensorer."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Mangler tillatelser eller fingeravtrykksensorer.",
+  "fingerprint_popup_header": "PLZ_TRANSLATE Skann fingeren",
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Skann fingeren for å fortsette"
 }
