@@ -1500,5 +1500,5 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Þú tekur hlutfall af %1$d og aukið hverja áfanga með %2$d . Alls styðja þú markmiðið með %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Engar tilkynningar hér",
   "empty_notification_list_text": "PLZ_TRANSLATE Hér birtast tilkynningar þínar",
-  "error_message_fingerprint_permission": "Saknade behörigheter eller fingeravtryckssensorer."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Vantar heimildir eða fingrafarskynjara."
 }

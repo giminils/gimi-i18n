@@ -1500,5 +1500,5 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Sie nehmen einen Prozentsatz von %1$d und steigern jeden Meilenstein mit %2$d . Insgesamt unterstützen Sie das Ziel mit %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Keine Benachrichtigungen hier",
   "empty_notification_list_text": "PLZ_TRANSLATE Hier werden Ihre Benachrichtigungen angezeigt",
-  "error_message_fingerprint_permission": "Saknade behörigheter eller fingeravtryckssensorer."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Fehlende Berechtigungen oder Fingerabdrucksensoren."
 }

@@ -1500,5 +1500,5 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE U neemt een percentage van %1$d en verhoogt elke mijlpaal met %2$d . In totaal ondersteunt u het doel met %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Geen meldingen hier",
   "empty_notification_list_text": "PLZ_TRANSLATE Hier worden uw meldingen weergegeven",
-  "error_message_fingerprint_permission": "Saknade behörigheter eller fingeravtryckssensorer."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Ontbrekende toestemmingen of vingerafdruk sensoren."
 }

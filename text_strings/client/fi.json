@@ -1500,5 +1500,5 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Otat prosenttiosuus %1$d ja tehostat jokaisen virstanpylvään %2$d . Olet kaiken kaikkiaan tukenut tavoitetta %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Täällä ei ole ilmoituksia",
   "empty_notification_list_text": "PLZ_TRANSLATE Täällä ilmoitukset tulevat näkyviin",
-  "error_message_fingerprint_permission": "Saknade behörigheter eller fingeravtryckssensorer."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Puuttuvat käyttöoikeudet tai sormenjälkitunnistimet."
 }

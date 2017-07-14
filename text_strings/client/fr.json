@@ -1500,5 +1500,5 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Vous prenez un pourcentage de %1$d et augmentez chaque étape avec %2$d . Au total, vous soutenez le but avec %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Aucune notification ici",
   "empty_notification_list_text": "PLZ_TRANSLATE Ici, vos notifications apparaîtront",
-  "error_message_fingerprint_permission": "Saknade behörigheter eller fingeravtryckssensorer."
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Autorisations manquantes ou capteurs d'empreintes digitales."
 }
