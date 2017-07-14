@@ -1499,5 +1499,6 @@
   "savings_goal_item_boost_parent": "PLZ_TRANSLATE Du øger med %1$d pr. Milepæl og støtter målet med i alt %2$d .",
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Du tager en procentdel af %1$d og øger hver milepæl med %2$d . I alt støtter du målet med %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE Ingen anmeldelser her",
-  "empty_notification_list_text": "PLZ_TRANSLATE Her vises dine meddelelser"
+  "empty_notification_list_text": "PLZ_TRANSLATE Her vises dine meddelelser",
+  "error_message_fingerprint_permission": "Saknade behörigheter eller fingeravtryckssensorer."
 }

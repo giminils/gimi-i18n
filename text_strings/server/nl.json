@@ -156,4 +156,4 @@
   "event_birthday": "Het is {child.name}'s verjaardag vandaag!",
   "event_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}"
-} 
+}
