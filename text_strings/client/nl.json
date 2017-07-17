@@ -1499,5 +1499,8 @@
   "savings_goal_item_boost_parent": "Je verhoogt met %1$d per mijlpaal en ondersteunt het doel met een totaal van %2$d .",
   "savings_goal_item_boost_and_sponsor_parent": "U neemt een percentage van %1$d en verhoogt elke mijlpaal met %2$d . In totaal ondersteunt u het doel met %3$d .",
   "empty_notification_list_title": "Geen meldingen hier",
-  "empty_notification_list_text": "Hier worden uw meldingen weergegeven"
+  "empty_notification_list_text": "Hier worden uw meldingen weergegeven",
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Ontbrekende machtigingen of vingerafdruk sensoren.",
+  "fingerprint_popup_header": "PLZ_TRANSLATE Scan uw vinger",
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Scan uw vinger om door te gaan"
 }

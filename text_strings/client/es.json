@@ -1500,7 +1500,7 @@
   "savings_goal_item_boost_and_sponsor_parent": "PLZ_TRANSLATE Toma un porcentaje de %1$d y aumenta cada hito con %2$d . En total, usted apoya la meta con %3$d .",
   "empty_notification_list_title": "PLZ_TRANSLATE No hay notificaciones aquí",
   "empty_notification_list_text": "PLZ_TRANSLATE Aquí aparecerán tus notificaciones",
-  "error_message_fingerprint_permission": "PLZ_TRANSLATE Falta permisos o sensores de huellas digitales.",
-  "fingerprint_popup_header": "PLZ_TRANSLATE Examina tu dedo",
+  "error_message_fingerprint_permission": "PLZ_TRANSLATE Falta de permisos o sensores de huellas digitales.",
+  "fingerprint_popup_header": "PLZ_TRANSLATE Escanea tu dedo",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Analiza tu dedo para continuar"
 }
