@@ -143,7 +143,7 @@
   "event_task_suggested": "{task.owner.name} a proposé la tâche: {task.title}",
   "event_task_deleted": "{user.name} a supprimé la tâche: {task.title}",
   "event_assignment_rejected": "{user.name} a rejeté la tâche: {assignment.task.title}",
-  "event_assignment_approved": "{assignment.approved_by.name} a approuvé la tâche: {as ignment.task.title}",
+  "event_assignment_approved": "{assignment.approved_by.name} a approuvé la tâche: {assignment.task.title}",
   "event_assignment_expired": "{assignment.child.name} n'a pas réussi à terminer la tâche: {assignment.task.title} à temps",
   "event_assignment_completed_by_other": "{assignment.task.shared_task_completed_by} tâche terminée {assignment.task.title} en premier",
   "event_goal_created": "{goal.created_by.name} a créé l'objectif d'économie {goal.title}",
