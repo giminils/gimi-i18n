@@ -156,7 +156,7 @@
   "profile_connect_child": "Connettiti con %1$d",
   "profile_task_meta_text_requires_photo": "Esigenza di prove fotografiche ",
   "goal_met_title": "Congratulazioni!",
-  "goal_met_text": "PLZ_CHECK %1$d ha raggiunto l’obiettivo di risparmi \n %2$d",
+  "goal_met_text": "PLZ_CHECK %1$d ha raggiunto l’obiettivo di risparmi \n %2$d", [I do not understand]
   "goal_editor_title_new": "Nuovo obiettivo di risparmi",
   "task_editor_title_edit": "Modifica compito",
   "task_editor_save_new": "Ripartizione di compiti ",
@@ -762,7 +762,7 @@
   "parent_about_data_tracking_content_1": "Se noti che il contatore dei dati di tuo figlio non funziona, puoi verificare i seguenti casi: 1) Verifica che tuo figlio non ha disattivato l'aggiornamento delle app in background sulle impostazioni della nostra applicazione, perché allora la navigazione non può essere misurata. 2) Controlla che il tuo bambino non stia navigando solo su Wi-Fi. 3) Se tuo figlio ha un vecchio telefono, forse non è compatibile con il nostro servizio, quindi purtroppo nel tuo caso, il contatore non funzionerà.",
   "parent_about_data_tracking_title_2": "Perchè la quantità del traffico dati del bambino cambia all’improvviso?",
   "parent_about_data_tracking_content_2": "Se il vostro figlio si collega con altro telefono oppure non si è connesso per un lungo periodo, la quantità camberà all’improvviso.",
-  "parent_about_data_tracking_title_3": "PLZ_CHECK C’è altro a parte il traffico dati misurato? anything other than the amount of data measured?",
+  "parent_about_data_tracking_title_3": "PLZ_CHECK C’è altro a parte il traffico dati misurato? anything other than the amount of data measured?", [I dont understand]
   "parent_about_data_tracking_content_3": "No, controlliamo solo la quantità dei dati e mostriamo solo i dati personali all'interno della famiglia, il che significa tutti quelli che sono collegati all'applicazione. È molto importante per noi mantenere i tuoi dati al sicuro e che tutti voi come una famiglia vi sentiate a proprio agio con le nostre funzioni. Puoi sempre leggere di più nelle nostre condizioni di utilizzo dove spieghiamo come gestire i dati.",
   "parent_about_data_tracking_title_4": "Il contatore funziona anche quando mio figlio naviga con WiFi? ",
   "parent_about_data_tracking_content_4": "No, i costi della navigazione con WiFi non dipendono da quanto una persona naviga sul suo cellulare, abbiamo infatti deciso di non prendere ciò in conto.",
@@ -772,13 +772,13 @@
   "parent_about_data_tracking_content_6": "Se non sei connesso con il tuo bambino, non puoi distribuire un barottolo di navigazione. Se non vediamo che tuo figlio sta utilizzando dati mobili, non puoi farlo neppure te. Ma prova subito dopo un po’ di tempo, perché questo può richiedere un po' di tempo prima di poter vedere i dati relativi alla navigazione del tuo bambino. Quando il tuo bambino ha un vecchio telefono, è perchè forse non è compatibile con il nostro servizio quindi purtroppo nel tuo caso, il contatore non funzionerà.",
   "parent_about_data_tracking_title_7": "Il contatore del traffico dati funziona bene?",
   "parent_about_data_tracking_content_7": "Cerchiamo di misurare i dati al meglio possibile. Ma per i telefoni Android non possiamo misurare i dati a meno che il bambino non acceda all'applicazione. Quindi per coloro che hanno Android, a volte i dati possono essere mal aggiornati.",
-  "parent_about_data_tracking_title_8": "PLZ_CHECK Quanto possono navigare i miei figli senza esagerare? ",
+  "parent_about_data_tracking_title_8": "PLZ_CHECK Quanto possono navigare i miei figli senza esagerare? ", [I dont understand]
   "parent_about_data_tracking_content_8": "Noi di Gimi non diamo nessuna valutazione di quanti dati usano i tuoi figli, ma pensiamo che sia importante, all'interno della famiglia, stabilire una quantità di dati ragionevole e far sì che i bambini imparino a risparmiare.",
   "child_about_data_tracking_title_1": "Perchè il contatore non mostra nessun traffico dati? ",
   "child_about_data_tracking_content_1": "Se noti che il contatore dei dati di tuo figlio non funziona, puoi verificare i seguenti casi: 1) Verifica che tuo figlio non ha disattivato l'aggiornamento delle app in background sulle impostazioni della nostra applicazione, perché allora la navigazione non può essere misurata. 2) Controlla che il tuo bambino non stia navigando solo su Wi-Fi. 3) Se tuo figlio ha un vecchio telefono, forse non è compatibile con il nostro servizio, quindi purtroppo nel tuo caso, il contatore non funzionerà.",
   "child_about_data_tracking_title_2": "Come mai la quantità di traffico dati cambia all’improvviso?",
   "child_about_data_tracking_content_2": "Se ti colleghi con un altro telefono o non sei stato sull’applicazione per un lungo periodo, la quantità cambierà all’improvviso.",
-  "child_about_data_tracking_title_3": "PLZ_CHECK C’è altro a parte il traffico dati misurato? ",
+  "child_about_data_tracking_title_3": "PLZ_CHECK C’è altro a parte il traffico dati misurato? ", [I dont understand]
   "child_about_data_tracking_content_3": "No, controlliamo solo la quantità dei dati e mostriamo solo i dati personali all'interno della famiglia, il che significa tutti quelli che sono collegati all'applicazione. È molto importante per noi mantenere i tuoi dati al sicuro e che tutti voi come una famiglia vi sentiate a proprio agio con le nostre funzioni. Puoi sempre leggere di più nelle nostre condizioni di utilizzo dove spieghiamo come gestire i dati.",
   "child_about_data_tracking_title_4": "Il contatore funziona anche quando mio figlio naviga con WiFi? ",
   "child_about_data_tracking_content_4": "No, i costi della navigazione con WiFi non dipendono da quanto una persona naviga sul suo cellulare, abbiamo infatti deciso di non prendere ciò in conto.",
