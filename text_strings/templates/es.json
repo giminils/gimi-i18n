@@ -56,7 +56,7 @@
   "task_template_title_set_table": "Poner la mesa para cenar",
   "task_template_description_set_table": "Sacar los platos, cubiertos, vasos y hacer que se vea bien",
   "task_template_title_trash": "Sacar la basura",
-  "task_template_description_trash": "PLZ_CHECK Take out the garbage bags and throw the, away[Throw them away? A letter missing?][Yes! Should be them.]",
+  "task_template_description_trash": "Sacar las bolsas las bolsas de basura y desecharlas",
   "task_template_title_profanity": "Juramento",
   "task_template_description_profanity": "Palabras mal dichas o mal uso del lenguaje",
   "task_template_title_candy": "Promesa de golosinas",
