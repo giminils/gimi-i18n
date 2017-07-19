@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "Here your notifications will appear",
   "error_message_fingerprint_permission": "Missing permissions or fingerprint sensors.",
   "fingerprint_popup_header": "Scan your finger",
-  "fingerprint_popup_request_message": "Scan your finger to continue"
+  "fingerprint_popup_request_message": "Scan your finger to continue",
+  "fingerprint_error_message": "There is no fingerPrint sensor or there are no permissions."
 }

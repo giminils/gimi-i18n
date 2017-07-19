@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Hér birtast tilkynningar þínar",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Vantar heimildir eða fingrafarskynjara.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Skannaðu fingurinn",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Skannaðu fingurinn til að halda áfram"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Skannaðu fingurinn til að halda áfram",
+  "fingerprint_error_message": "PLZ_TRANSLATE Það er engin fingerPrint skynjari eða það eru engar heimildir."
 }

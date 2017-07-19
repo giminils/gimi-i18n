@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Her vises varselene dine",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Mangler tillatelser eller fingeravtrykksensorer.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Skann fingeren",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Skann fingeren for å fortsette"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Skann fingeren for å fortsette",
+  "fingerprint_error_message": "PLZ_TRANSLATE Det er ingen fingerPrint sensor eller det er ingen tillatelser."
 }

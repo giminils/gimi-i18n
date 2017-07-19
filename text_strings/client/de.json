@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Hier werden Ihre Benachrichtigungen angezeigt",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Fehlende Berechtigungen oder Fingerabdrucksensoren.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Scannen Sie Ihren Finger",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Scannen Sie Ihren Finger, um fortzufahren"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Scannen Sie Ihren Finger, um fortzufahren",
+  "fingerprint_error_message": "PLZ_TRANSLATE Es gibt keinen FingerPrint-Sensor oder es gibt keine Berechtigungen."
 }

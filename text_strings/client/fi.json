@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Täällä ilmoitukset tulevat näkyviin",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Puuttuvat käyttöoikeudet tai sormenjälkitunnistimet.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Tarkista sormesi",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Suorita sormesi jatkaaksesi"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Suorita sormesi jatkaaksesi",
+  "fingerprint_error_message": "PLZ_TRANSLATE Sormenjälkitunnistinta ei ole tai ei ole oikeuksia."
 }

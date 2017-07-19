@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Siin kuvatakse teie märguanded",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Puuduvad õigused või sõrmejälgede andurid.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Otsige sõrme",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Otsige oma sõrmega, et jätkata"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Otsige oma sõrmega, et jätkata",
+  "fingerprint_error_message": "PLZ_TRANSLATE Sõrmeandur puudub või puudub õigused."
 }

@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Тут будуць з'яўляцца вашы апавяшчэння",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Адсутнасць дазволаў або датчыкаў адбіткаў пальцаў.",
   "fingerprint_popup_header": "PLZ_TRANSLATE сканаванне пальца",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Праверце свой палец, каб працягнуць"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Праверце свой палец, каб працягнуць",
+  "fingerprint_error_message": "PLZ_TRANSLATE Там няма датчыка адбіткаў пальцаў ці няма дазволу."
 }

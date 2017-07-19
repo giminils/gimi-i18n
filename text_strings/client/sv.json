@@ -1513,5 +1513,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Här kommer dina notifikationer dyka upp",
   "error_message_fingerprint_permission": "PLZ_CHECK Saknade behörigheter eller fingeravtryckssensorer.",
   "fingerprint_popup_header": "PLZ_CHECK Skanna fingret",
-  "fingerprint_popup_request_message": "PLZ_CHECK Skanna fingret för att fortsätta"
+  "fingerprint_popup_request_message": "PLZ_CHECK Skanna fingret för att fortsätta",
+  "fingerprint_error_message": "PLZ_CHECK Det finns inget fingeravtryckssensor eller det finns inga behörigheter."
 }

@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Qui vengono visualizzate le tue notifiche",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Autorizzazioni mancanti o sensori di impronte digitali.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Scansione del dito",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Scansione del dito per continuare"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Scansione del dito per continuare",
+  "fingerprint_error_message": "PLZ_TRANSLATE Non esiste alcun sensore fingerprint o non ci sono permessi."
 }

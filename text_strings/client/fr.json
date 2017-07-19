@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "Vos notifications apparaîtront ici",
   "error_message_fingerprint_permission": "Autorisations ou capteurs d'empreintes digitales manquants.",
   "fingerprint_popup_header": "Scannez votre doigt",
-  "fingerprint_popup_request_message": "Scannez votre doigt pour continuer"
+  "fingerprint_popup_request_message": "Scannez votre doigt pour continuer",
+  "fingerprint_error_message": "PLZ_TRANSLATE Il n'y a pas de capteur fingerPrint ou il n'y a pas d'autorisations."
 }

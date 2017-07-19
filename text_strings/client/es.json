@@ -1502,5 +1502,6 @@
   "empty_notification_list_text": "PLZ_TRANSLATE Aquí aparecerán tus notificaciones",
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Falta de permisos o sensores de huellas digitales.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Escanea tu dedo",
-  "fingerprint_popup_request_message": "PLZ_TRANSLATE Analiza tu dedo para continuar"
+  "fingerprint_popup_request_message": "PLZ_TRANSLATE Analiza tu dedo para continuar",
+  "fingerprint_error_message": "PLZ_TRANSLATE No hay sensor fingerPrint o no hay permisos."
 }
