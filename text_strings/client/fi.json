@@ -1266,7 +1266,7 @@
   "happy_birthday": "Hyvää syntymäpäivää!",
   "task_type_duration": "Tunnissa",
   "default_reward_account": "palkkiotili",
-  "child_settings_allowance_monthly_on": "PLZ_CHECK %1$d on %2$d", [Lea I do not understand]
+  "child_settings_allowance_monthly_on": "PLZ_CHECK %1$d on %2$d [Lea I do not understand]",
   "goal_blank_item_text": "Aika uudelle säästötavoitteelle?",
   "task_header_singular_parent": "%1$d:lla on %2$d tehtävä ja voi ansaita %3$d",
   "task_header_singular_child": "Sinulla on %1$d tehtävä ja voit ansaita %2$d",
