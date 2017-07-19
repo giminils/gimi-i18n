@@ -8,7 +8,14 @@ var textStringsTypes = ['gimi-web']
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
-  langCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
+  langCodes.forEach(lang => {
+    var url = `../text_strings/${textStringsType}/${lang}`
+    try {
+      textStrings[textStringsType][lang] = require(url)
+    } catch (e) {
+      throw new Error(`Cant parse: ${url}`)
+    }
+  })
 })
 textStringsTypes.forEach(textStringsType => {
   describe(`${textStringsType} TextStrings`, () => {
