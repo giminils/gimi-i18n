@@ -1503,4 +1503,5 @@
   "error_message_fingerprint_permission": "Missing permissions or fingerprint sensors.",
   "fingerprint_popup_header": "Scan your finger",
   "fingerprint_popup_request_message": "Scan your finger to continue"
+
 }
