@@ -29,7 +29,7 @@ export var supportedTimeZonesAndroid =
 
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 
-export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es']
+export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
