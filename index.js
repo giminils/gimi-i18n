@@ -26,7 +26,10 @@ export var supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
     'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto',
     'Pacific/Auckland', 'Asia/Calcutta', 'Africa/Cairo']
+
 export var languageCodes = ['da', 'fi', 'is', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
+
+export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es']
 
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},

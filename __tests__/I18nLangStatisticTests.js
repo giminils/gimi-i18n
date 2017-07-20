@@ -1,4 +1,4 @@
-import { getTextStrings, languageCodes } from '../index'
+import { getTextStrings, languageCodes, languageCodesForTranslation } from '../index'
 import { stringLenghtStatistic, stringTranslationTags } from '../TestUtil'
 var languageCodesHolder = languageCodes
 var Slack = require('node-slack')
@@ -37,8 +37,8 @@ describe('TextStrings', () => {
       textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web') { languageCodesHolder = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv'] }
-      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodes }
+      if (textStringsType === 'gimi-web') { languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es'] }
+      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodesForTranslation }
       languageCodesHolder.forEach(lang => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
@@ -47,8 +47,8 @@ describe('TextStrings', () => {
     })
     // server and templates string data
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web') { languageCodesHolder = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv'] }
-      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodes }
+      if (textStringsType === 'gimi-web') { languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es'] }
+      if (textStringsType !== 'gimi-web') { languageCodesHolder = languageCodesForTranslation }
       languageCodesHolder.forEach(languageCode => {
         stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
       })
