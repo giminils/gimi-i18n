@@ -155,5 +155,6 @@
   "event_wish_deleted": "{user.name} supprimé le souhait: {wish.title}",
   "event_birthday": "Aujourd&#39;hui c&#39;est l&#39;anniversaire de{child.name}!",
   "event_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
-  "push_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}"
+  "push_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
+  "push_new_app_version": "PLZ_TRANSLATE Une nouvelle mise à jour arrive dans la boutique d'applications!"
 }

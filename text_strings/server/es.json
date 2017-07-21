@@ -155,5 +155,6 @@
   "event_wish_deleted": "PLZ_TRANSLATE {user.name} removed deseado: {wish.title}",
   "event_birthday": "PLZ_TRANSLATE ¡Es cumpleaños de {child.name} hoy!",
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
-  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}"
+  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
+  "push_new_app_version": "PLZ_TRANSLATE ¡Una nueva actualización viene en la tienda de aplicaciones!"
 }

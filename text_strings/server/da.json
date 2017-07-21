@@ -155,5 +155,6 @@
   "event_wish_deleted": "PLZ_TRANSLATE {user.name} fjernet ønske: {wish.title}",
   "event_birthday": "PLZ_TRANSLATE Det er {child.name} fødselsdag i dag!",
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} lige sendt dig en påmindelse til {assignment.task.title}",
-  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} lige sendt dig en påmindelse til {assignment.task.title}"
+  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} lige sendt dig en påmindelse til {assignment.task.title}",
+  "push_new_app_version": "PLZ_TRANSLATE En ny opdatering kommer i appbutikken!"
 }

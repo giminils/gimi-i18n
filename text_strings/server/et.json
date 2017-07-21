@@ -155,5 +155,6 @@
   "event_wish_deleted": "PLZ_TRANSLATE {user.name} eemaldati soov: {wish.title}",
   "event_birthday": "PLZ_TRANSLATE See on {child.name} täna sünnipäev!",
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}",
-  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}"
+  "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}",
+  "push_new_app_version": "PLZ_TRANSLATE Rakenduspoodis on uus värskendus!"
 }
