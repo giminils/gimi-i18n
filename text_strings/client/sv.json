@@ -1502,7 +1502,7 @@
   "support_savings_goal": "Stöd sparmål",
   "all_children": "Alla barn",
   "goal_popover_title_amount_reached": "%1$d Du gjorde det!",
-  "goal_popover_text_amount_reached": "%1$d Varav besparingsmålet. %2$d in x dagar. Bra jobbat!",
+  "goal_popover_text_amount_reached": "%1$d Varav besparingsmålet. Bra jobbat!",
   "share_view_title": "Tipsa om %1$d",
   "share_view_intro": "Tack för att du delar och hjälper till att sprida ekonomiska superkrafter!",
   "share_view_via_email": "Dela via E-post",

@@ -1491,7 +1491,7 @@
   "support_savings_goal": "PLZ_TRANSLATE Støttebesparelsesmål",
   "all_children": "PLZ_TRANSLATE Alle barn",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Du gjorde det!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d nådde besparelsesmålet. %2$d i x dager. Godt jobbet!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d nådde besparelsesmålet. Godt jobbet!",
   "share_view_title": "PLZ_TRANSLATE Spre ordet om %1$d",
   "share_view_intro": "PLZ_TRANSLATE Takk for at du deler og bidrar til å spre økonomiske supermakt!",
   "share_view_via_email": "PLZ_TRANSLATE Del via e-post",

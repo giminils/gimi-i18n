@@ -1491,7 +1491,7 @@
   "support_savings_goal": "PLZ_TRANSLATE Stuðningur sparnaður markmið",
   "all_children": "PLZ_TRANSLATE Öll börn",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Þú gerðir það!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d náð sparnaði markmiðinu. %2$d á x dögum. Gott starf!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d náð sparnaði markmiðinu. Gott starf!",
   "share_view_title": "PLZ_TRANSLATE Dreifðu orðinu um %1$d",
   "share_view_intro": "PLZ_TRANSLATE Þakka þér fyrir að deila og hjálpa til við að dreifa efnahagslegum stórveldum!",
   "share_view_via_email": "PLZ_TRANSLATE Deila með tölvupósti",
