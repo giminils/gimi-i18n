@@ -1503,5 +1503,6 @@
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Manglende tilladelser eller fingeraftrykssensorer.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Scan din finger",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Scan din finger for at fortsætte",
-  "fingerprint_error_message": "PLZ_TRANSLATE Der er ingen fingerprintsensor, eller der er ingen tilladelser."
+  "fingerprint_error_message": "PLZ_TRANSLATE Der er ingen fingerprintsensor, eller der er ingen tilladelser.",
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Der er endnu ikke noget her."
 }

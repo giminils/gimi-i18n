@@ -1503,5 +1503,6 @@
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Puuduvad õigused või sõrmejälgede andurid.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Otsige sõrme",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Otsige oma sõrmega, et jätkata",
-  "fingerprint_error_message": "PLZ_TRANSLATE Sõrmeandur puudub või puudub õigused."
+  "fingerprint_error_message": "PLZ_TRANSLATE Sõrmeandur puudub või puudub õigused.",
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Siiani pole midagi."
 }

@@ -1503,5 +1503,6 @@
   "error_message_fingerprint_permission": "PLZ_TRANSLATE Ontbrekende machtigingen of vingerafdruk sensoren.",
   "fingerprint_popup_header": "PLZ_TRANSLATE Scan uw vinger",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Scan uw vinger om door te gaan",
-  "fingerprint_error_message": "PLZ_TRANSLATE Er is geen vingerprintsensor of er zijn geen toestemmingen."
+  "fingerprint_error_message": "PLZ_TRANSLATE Er is geen vingerprintsensor of er zijn geen toestemmingen.",
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Er is nog niets hier."
 }
