@@ -1491,7 +1491,7 @@
   "support_savings_goal": "Ondersteuning besparingsdoel",
   "all_children": "Alle kinderen",
   "goal_popover_title_amount_reached": "%1$d Je hebt het gedaan!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d heeft het besparingsdoel bereikt. Goed gedaan!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d heeft het besparingsdoel bereikt. %2$d in %3$d dagen. Goed gedaan!",
   "share_view_title": "Verspreid het woord over %1$d",
   "share_view_intro": "Dank u voor het delen en helpen om de economische supermacht te verspreiden!",
   "share_view_via_email": "Deel via e-mail",

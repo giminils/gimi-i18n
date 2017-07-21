@@ -1491,7 +1491,7 @@
   "support_savings_goal": "Support savings goal",
   "all_children": "All children",
   "goal_popover_title_amount_reached": "%1$d You did it!",
-  "goal_popover_text_amount_reached": "%1$d reached the savings goal. Good job!",
+  "goal_popover_text_amount_reached": "%1$d reached the savings goal. %2$d in %3$d days. Good job!",
   "share_view_title": "Spread the word about %1$d",
   "share_view_intro": "Thank you for sharing and helping to spread economic superpowers!",
   "share_view_via_email": "Share via E-mail",

@@ -1491,7 +1491,7 @@
   "support_savings_goal": "PLZ_TRANSLATE Tuki säästöjä tavoite",
   "all_children": "PLZ_TRANSLATE kaikki lapset",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d Teit sen!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d saavutti säästötavoitteen. Hyvää työtä!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d saavutti säästötavoitteen. %2$d %3$d päivää. Hyvää työtä!",
   "share_view_title": "PLZ_TRANSLATE Levitä sanaa %1$d",
   "share_view_intro": "PLZ_TRANSLATE Kiitos jakaa ja levittämästä talouden suurvallat!",
   "share_view_via_email": "PLZ_TRANSLATE Jaa sähköpostitse",
