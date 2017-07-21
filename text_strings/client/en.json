@@ -306,7 +306,7 @@
   "trustly_parent_settings_text1": "You can easily add an account for your child under their settings and 'Add account'.",
   "trustly_parent_settings_text2": "You can easily follow all transfers under 'transactions' on your start page.",
   "trustly_parent_settings_text3": "You can easily end transfers to a child by going into 'Bank account and transactions' under a childs settings",
-  "trustly_parent_settings_trustly_text": "PLZ_CHECK All account transfers happen with Trustly which is controlled by Finansinspektionen [Lea the Swedish financial supervisory authority]",
+  "trustly_parent_settings_trustly_text": "PLZ_CHECK All account transfers happen with Trustly which is controlled by The Swedish financial supervisory authority",
   "trustly_child_account_connected_headline": "Your account has been registered!",
   "trustly_cancel_yes": "Yes, I am sure",
   "trustly_cancel_no": "No",
