@@ -6,7 +6,7 @@ var translate = require('@google-cloud/translate')({
 })
 
 var AnnaHelper = require('./AnnaHelper')
-let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web']
+let templateDir = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/share-image-generator']
 
 let RunAnna = (filePath):* => {
   var hasPLZTranslate = false

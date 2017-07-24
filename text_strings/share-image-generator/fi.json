@@ -1,0 +1,10 @@
+{
+  "header_goal": "PLZ_TRANSLATE SÄÄSTÖOHJELMA",
+  "header_goal_amount": "PLZ_TRANSLATE MÄÄRÄ",
+  "header_goal_duration": "PLZ_TRANSLATE SAVED IN",
+  "goal_duration": "PLZ_TRANSLATE {days} päivää",
+  "header_assignment_completed_at": "PLZ_TRANSLATE Valmistunut",
+  "header_assignment_task_title": "PLZ_TRANSLATE TEHTÄVÄ",
+  "header_assignment_completed_by": "PLZ_TRANSLATE TÄYDENTÄNYT",
+  "header_assignment_approved_by": "PLZ_TRANSLATE HYVÄKSYMÄ"
+}
