@@ -20,7 +20,7 @@ describe('Currencies', () => {
     expect(getDefaultCurrencyCode()).toEqual('EUR')
   })
 
-  it('all currencies in Default CurrecyCodes needs to be in supported Currency Codes', () => {
+  it('all currencies in Default CurrencyCodes needs to be in supported Currency Codes', () => {
     Object.values(DefaultCurrencies).forEach((currencyCode) => expect(getSupportedCurrencyInfos().find((currencyInfo) => currencyInfo.code === currencyCode)).toBeDefined())
   })
 

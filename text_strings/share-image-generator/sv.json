@@ -2,7 +2,7 @@
   "header_goal": "SPARMÅL",
   "header_goal_amount": "SUMMA",
   "header_goal_duration": "SPARADES IHOP PÅ",
-  "goal_duration": "{days} dagar"
+  "goal_duration": "{days} dagar",
   "header_assignment_completed_at": "Utförd",
   "header_assignment_task_title": "UPPGIFT",
   "header_assignment_completed_by": "UTFÖRDES AV",
