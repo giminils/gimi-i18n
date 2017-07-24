@@ -4,7 +4,7 @@ import { languageCodes } from '..'
 var langCodes = languageCodes
 jest.disableAutomock()
 
-var textStringsTypes = ['server', 'templates']
+var textStringsTypes = ['server', 'templates', 'share-image-generator']
 
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
