@@ -17,7 +17,7 @@
   "push_insertion_by_other": "Super! {transaction.created_by.name} a ajouté {transaction.str_value} dans votre tirelire",
   "push_account_select_started": "L'ouverture du compte bancaire est en cours",
   "push_parent_account_selected": "Le compte bancaire est actif",
-  "push_child_account_selected": "PLZ_TRANSLATE {child.name}'s bank account is now activated",
+  "push_child_account_selected": "Le compte bancaire de {child.name} est maintenant actif",
   "push_weekly_trustly_payout_failed_parent": "Le versement de l'allocation hebdomadaire de {name} a échoué",
   "push_monthly_trustly_payout_failed_parent": "Le versement de l'allocation mensuelle de {name} a échoué",
   "push_weekly_trustly_payout_trustly_failed_child": "Le versement de votre allocation hebdomadaire a échoué",
@@ -156,5 +156,5 @@
   "event_birthday": "Aujourd&#39;hui c&#39;est l&#39;anniversaire de{child.name}!",
   "event_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
-  "push_new_app_version": "PLZ_TRANSLATE Une nouvelle mise à jour arrive dans la boutique d'applications!"
+  "push_new_app_version": "Une nouvelle mise à jour est en train d'arriver dans le App Store!!"
 }
