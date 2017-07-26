@@ -14,7 +14,7 @@
   "header.job": "Emploi",
   "footer.amout_paid_out": "Argent de poche versé",
   "footer.about_companyname": "A propos de Gimi",
-  "footer.about": " Nous travaillons chaque semaine au service des enfants et des jeunes afin qu’ils puissent être en mesure de gérer leur argent d’une manière facile et responsable. Nos outils promouvront  un financement  sain sécuritaire et privé pour les enfants et les parents.",
+  "footer.about": "PLZ_CHECK Nous travaillons chaque semaine au service des enfants et des jeunes afin qu’ils puissent être en mesure de gérer leur argent d’une manière facile et responsable. Nos outils promouvront  un financement  sain sécuritaire et privé pour les enfants et les parents.['We at Gimi work for children and young people to easily manage money in a healthy and responsible manner. Our tools will promote a safe, instructive and fun private economy for both children and parents.']",
   "footer.about2": "Veuillez nous contacter pour toute aide ou pour avoir un feedback: <a href=\"mailto:{email}\" target=\"_blank\">{email}</a>",
   "footer.newsletter": "Ou bien abonnez-vous à notre bulletin",
   "footer.press": "Presse",
