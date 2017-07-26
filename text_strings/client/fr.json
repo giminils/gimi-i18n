@@ -1491,7 +1491,7 @@
   "support_savings_goal": "Soutenir l'objectif d'épargne",
   "all_children": "Tous les enfants",
   "goal_popover_title_amount_reached": "%1$d Vous avez réussi!",
-  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d atteint l&#39;objectif d&#39;économies. %2$d en %3$d jours. Bon travail!",
+  "goal_popover_text_amount_reached": "%1$d a atteint son objectif d&#39;épargnes. %2$d en %3$d jours. Bien joué!",
   "share_view_title": "Faites passer le mot à propos de %1$d",
   "share_view_intro": "Merci de partager et d'aider à partager les superpouvoirs économiques!",
   "share_view_via_email": "Partager par e-mail",
@@ -1503,6 +1503,6 @@
   "error_message_fingerprint_permission": "Autorisations ou capteurs d'empreintes digitales manquants.",
   "fingerprint_popup_header": "Scannez votre doigt",
   "fingerprint_popup_request_message": "Scannez votre doigt pour continuer",
-  "fingerprint_error_message": "PLZ_TRANSLATE Il n'y a pas de capteur fingerPrint ou il n'y a pas d'autorisations.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Il n'y a rien ici encore."
+  "fingerprint_error_message": "Capteur d'empreinte digital introuvable introuvable ou bien il n'y a pas d'autorisations.",
+  "parent_transaction_list_no_items": "Il n'y a rien ici encore."
 }
