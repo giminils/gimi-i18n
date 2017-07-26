@@ -14,7 +14,7 @@
   "header.job": "Työpaikat",
   "footer.amout_paid_out": "Viikko- ja kuukausirahaa maksettu",
   "footer.about_companyname": "Gimistä",
-  "footer.about": "Me Gimillä pyrimme tekemään helpoksi terveen ja vastuullisen rahankäytön lapsille ja nuorille. Meidän työkalumme edistävät turvallista, opettavaista ja hauskempaa talouden hallintaa sekä lapsille että vanhemmille.",
+  "footer.about": "PLZ_CHECK Me Gimillä pyrimme tekemään helpoksi terveen ja vastuullisen rahankäytön lapsille ja nuorille. Meidän työkalumme edistävät turvallista, opettavaista ja hauskempaa talouden hallintaa sekä lapsille että vanhemmille.[We at Gimi work for children and young people to easily manage money in a healthy and responsible manner. Our tools will promote a safe, instructive and fun private economy for both children and parents.]",
   "footer.about2": "Ota yhteyttä tukeen tai anna palautetta: <a href=\"mailto:{email}\" target=\"_blank\">{email}</a>",
   "footer.newsletter": "Tai tilaa uutiskirjeemme",
   "footer.press": "Lehdistö",
