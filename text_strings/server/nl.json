@@ -17,7 +17,7 @@
   "push_insertion_by_other": "Najs! {transaction.created_by.name} voegde {transaction.str_value} toe in je spaarpot",
   "push_account_select_started": "Registatie van bankrekening is bezig",
   "push_parent_account_selected": "Bankrekening is geactiveerd",
-  "push_child_account_selected": "PLZ_TRANSLATE {child.name}'s bank account is now activated",
+  "push_child_account_selected": "{child.name} zijn/haar bank account is nu geactiveerd",
   "push_weekly_trustly_payout_failed_parent": "De overschrijving van {name}s wekelijks zakgeld is mislukt",
   "push_monthly_trustly_payout_failed_parent": "De overschrijving van {name}s maandelijks zakgeld is mislukt",
   "push_weekly_trustly_payout_trustly_failed_child": "Het overschijven van je wekelijks zakgeld is mislukt",
@@ -156,5 +156,5 @@
   "event_birthday": "Het is {child.name}'s verjaardag vandaag!",
   "event_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
-  "push_new_app_version": "PLZ_TRANSLATE Er komt een nieuwe update in de app Store!"
+  "push_new_app_version": "Er komt een nieuwe update in de app Store!"
 }
