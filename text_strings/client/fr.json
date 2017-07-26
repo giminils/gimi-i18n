@@ -353,7 +353,7 @@
   "trustly_transacations_pending": "Transferts en attente",
   "no_money_pig_parent_head": "Bienvenue dans la tirelire de %1$d",
   "no_money_pig_parent_text": "C'est ici que votre enfants peut épargner de l'argent. Assignez des tâches ou bien, effectuez un dépôt pour faire augmenter les épargnes de la tirelire.",
-  "new_account_value": "PLZ_CHECK (Maintenant %1$d) [I dont understand]",
+  "new_account_value": "(Maintenant %1$d)",
   "new_update_headline": "Grandes nouvelles!",
   "new_update_text_1": "Arrêtez d'y penser si vous avez versé l'allocation (ou pas)!",
   "new_update_text_2": "Transfert bancaire automatique de l'allocation pour votre enfant",
