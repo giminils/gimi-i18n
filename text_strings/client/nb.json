@@ -515,7 +515,7 @@
   "connect_to_parent_not_logged_in_sms_text": "Gå till sms:en og trykk på linken for å bli koblet sammen med ditt familiemedlem",
   "connect_email_header": "Inviter med en mail",
   "connect_sms_header": "Inviter med en sms",
-  "popover_payout_today_allowance_has_been_payed_out_child": "Jeg har fått mine %1$s!",
+  "popover_payout_today_allowance_has_been_payed_out_child": "Jeg har allerede fått %1$s!",
   "popover_payout_today_allowance_has_been_payed_out_parent": "Jag har betalt %1$s",
   "expense_popover_description_parent": "Hvor mye penger har blitt utbetalt?",
   "add_child_allowance_text": "Hvor ofte skal %1$d få penger?",
