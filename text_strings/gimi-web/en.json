@@ -249,5 +249,20 @@
   "currency": "GBP",
   "footer.cookie_warning": "We use cookies to ensure that we give you the best experience on our website. By proceeding to the next page or clicking \"I accept\" you are accepting the usage of cookies. Read more about our usage of cookies here:",
   "footer.click_here": "Click here",
-  "hiring": "We're hiring"
+  "hiring": "We're hiring",
+  "seo.home.h1": "home",
+  "seo.home.h2": "home",
+  "seo.home.h3": "home",
+  "seo.family.h1": "family",
+  "seo.family.h2": "family",
+  "seo.family.h3": "family",
+  "seo.training.h1": "training",
+  "seo.training.h2": "training",
+  "seo.training.h3": "training",
+  "seo.about.h1": "about",
+  "seo.about.h2": "about",
+  "seo.about.h3": "about",
+  "seo.news.h1": "news",
+  "seo.news.h2": "news",
+  "seo.news.h3": "news"
 }

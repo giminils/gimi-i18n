@@ -249,5 +249,20 @@
   "currency": "kr",
   "footer.cookie_warning": "Vi bruker cookies for å sikre at vi gir deg den beste opplevelsen på nettstedet vårt. Ved å gå videre til neste side eller klikke på \"Jeg godtar\" aksepterer du bruken av cookies. Les mer om bruken av cookies her:",
   "footer.click_here": "Klikk her",
-  "hiring": "PLZ_TRANSLATE Vi ansetter"
+  "hiring": "Vi ansetter",
+  "seo.home.h1": "hjem",
+  "seo.home.h2": "hjem",
+  "seo.home.h3": "hjem",
+  "seo.family.h1": "familie",
+  "seo.family.h2": "familie",
+  "seo.family.h3": "familie",
+  "seo.training.h1": "opplæring",
+  "seo.training.h2": "opplæring",
+  "seo.training.h3": "opplæring",
+  "seo.about.h1": "handle om",
+  "seo.about.h2": "handle om",
+  "seo.about.h3": "handle om",
+  "seo.news.h1": "nyheter",
+  "seo.news.h2": "nyheter",
+  "seo.news.h3": "nyheter"
 }

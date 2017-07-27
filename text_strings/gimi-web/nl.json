@@ -249,5 +249,20 @@
   "currency": "EUR",
   "footer.cookie_warning": "Wij gebruiken cookies om ervoor te zorgen dat wij u de beste ervaring op onze website geven. Door door te gaan naar de volgende pagina of door te klikken op \"Ik accepteer\" accepteer je het gebruik van cookies. Lees hier meer over ons gebruik van cookies:",
   "footer.click_here": "Klik hier",
-  "hiring": "Wij nemen aan!"
+  "hiring": "Wij nemen aan!",
+  "seo.home.h1": "huis-",
+  "seo.home.h2": "huis-",
+  "seo.home.h3": "huis-",
+  "seo.family.h1": "familie",
+  "seo.family.h2": "familie",
+  "seo.family.h3": "familie",
+  "seo.training.h1": "opleiding",
+  "seo.training.h2": "opleiding",
+  "seo.training.h3": "opleiding",
+  "seo.about.h1": "over",
+  "seo.about.h2": "over",
+  "seo.about.h3": "over",
+  "seo.news.h1": "nieuws",
+  "seo.news.h2": "nieuws",
+  "seo.news.h3": "nieuws"
 }

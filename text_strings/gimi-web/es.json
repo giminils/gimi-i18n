@@ -249,5 +249,20 @@
   "currency": "EUR",
   "footer.cookie_warning": "Utilizamos cookies para asegurar que le ofrecemos la mejor experiencia en nuestro sitio web. Al proceder a la siguiente página o hacer clic en \"Acepto\" acepta el uso de cookies. Lea más sobre nuestro uso de cookies aquí:",
   "footer.click_here": "haga clic aquí",
-  "hiring": "Estamos contratando"
+  "hiring": "Estamos contratando",
+  "seo.home.h1": "casa",
+  "seo.home.h2": "casa",
+  "seo.home.h3": "casa",
+  "seo.family.h1": "familia",
+  "seo.family.h2": "familia",
+  "seo.family.h3": "familia",
+  "seo.training.h1": "formación",
+  "seo.training.h2": "formación",
+  "seo.training.h3": "formación",
+  "seo.about.h1": "acerca de",
+  "seo.about.h2": "acerca de",
+  "seo.about.h3": "acerca de",
+  "seo.news.h1": "Noticias",
+  "seo.news.h2": "Noticias",
+  "seo.news.h3": "Noticias"
 }
