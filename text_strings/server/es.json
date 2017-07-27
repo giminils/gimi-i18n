@@ -157,5 +157,6 @@
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE ¡Una nueva actualización viene en la tienda de aplicaciones!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} {child.name} {transaction.str_value} se ha transferido a la cuenta bancaria de {child.name}"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} {child.name} {transaction.str_value} se ha transferido a la cuenta bancaria de {child.name}",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE La transferencia de {transaction.str_value} a la cuenta bancaria de la cuenta bancaria de {child.name} no tuvo éxito"
 }

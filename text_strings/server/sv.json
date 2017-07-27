@@ -157,5 +157,6 @@
   "event_assignment_reminder": "{parent.name} har påminnt dig om uppgiften {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} har påminnt dig om uppgiften {assignment.task.title}",
   "push_new_app_version": "Det finns en ny uppdatering för appen!",
-  "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {child.name} bankkonto"
+  "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {child.name} bankkonto",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {child.name} s bankkonto veckotillägg misslyckades"
 }

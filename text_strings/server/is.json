@@ -157,5 +157,6 @@
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} sendi þér bara áminningu fyrir {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} sendi þér bara áminningu fyrir {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE Ný uppfærsla kemur í app Store!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} hefur verið flutt í {child.name}"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} hefur verið flutt í {child.name}",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Flutningur á {transaction.str_value} í {child.name} bankareiknings vikudags var misheppnaður"
 }
