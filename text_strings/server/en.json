@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "The task {assignment.task.title} was approved. ({assignment.str_value})",
   "push_task_enabled": "Now you can perform the task {task}!",
   "push_disabled_task_created": "{child} has proposed a task {task}!",
-  "push_weekly_payout_message_parent": "{transaction.str_value} of the weekly allowance was transferred to {child.name}'s bank account.",
-  "push_monthly_payout_message_parent": "{transaction.str_value} of the monthly allowance was transferred to {child.name}'s bank account.",
+  "push_weekly_payout_message_parent": "{transaction.str_value} of the weekly allowance was transferred to {transaction.child.name}'s bank account.",
+  "push_monthly_payout_message_parent": "{transaction.str_value} of the monthly allowance was transferred to {transaction.child.name}'s bank account.",
   "push_charge_message_parent": "Presently {amount} will be transferred to {child} 's bank account tomorrow",
   "dashboard_disabled_task_created": "Suggested task {task}.",
   "push_trustly_mandate_revoked": "Your bank account is now disconnected, update your information to use bank transfers.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "{parent.name} just sent you a reminder for {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} just sent you a reminder for {assignment.task.title}",
   "push_new_app_version": "A new update is coming in the app store!",
-  "push_manual_trustly_withdrawal": "{transaction.str_value} has been transferred to {child.name}'s bank account",
-  "push_manual_trustly_withdrawal_failed": "The transfer of {transaction.str_value} to {child.name}'s bank account weekly allowance was unsuccessful"
+  "push_manual_trustly_withdrawal": "{transaction.str_value} has been transferred to {transaction.child.name}'s bank account",
+  "push_manual_trustly_withdrawal_failed": "The transfer of {transaction.str_value} to {transaction.child.name}'s bank account weekly allowance was unsuccessful"
 }

@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "PLZ_TRANSLATE The task {assignment.task.title} was approved. ({assignment.str_value})",
   "push_task_enabled": "PLZ_TRANSLATE Now you can perform the task {task}!",
   "push_disabled_task_created": "PLZ_TRANSLATE {child} has proposed a task {task}!",
-  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} iganädalast toetust anti üle {child.name} pangakontole.",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} igakuise toetuse üle anti {child.name} pangakontole.",
+  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} i månadspeng överfördes till {transaction.child.name}s bankkonto.",
   "push_charge_message_parent": "PLZ_TRANSLATE Presently {amount} will be transferred to {child} 's bank account tomorrow",
   "dashboard_disabled_task_created": "PLZ_TRANSLATE Suggested task {task}.",
   "push_trustly_mandate_revoked": "PLZ_TRANSLATE Your bank account is now disconnected, update your information to use bank transfers.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} saatis teile just meeldetuletus {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE Rakenduspoodis on uus värskendus!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} {child.name} on üle antud {child.name} pangakontole",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Üleandmise {transaction.str_value} et {child.name} &#39;s pangakonto Viikkoraha ebaõnnestus"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} on üle antud {transaction.child.name} pangakontole",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {transaction.child.name} s bankkonto veckotillägg misslyckades"
 }

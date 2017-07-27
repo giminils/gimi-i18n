@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "Oppgaven {assignment.task.title} ble godkjent. ({assignment.str_value})",
   "push_task_enabled": "Nå kan du utføre oppgaven {task}!",
   "push_disabled_task_created": "{child} har foreslått oppgave {task}!",
-  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} av ukentlig godtgjørelse ble overført til {child.name} s bankkonto.",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} av månedsavgiften ble overført til {child.name} s bankkonto.",
+  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} av den månedlige kvoten ble overført til {transaction.child.name} sin bankkonto.",
   "push_charge_message_parent": "Nå {amount} overføres til {child}s bankkonto i morgen.",
   "dashboard_disabled_task_created": "Forslag til oppgave {task}.",
   "push_trustly_mandate_revoked": "Bankkontoen er nå koblet fra, oppdatere informasjonen til å bruke bankoverføringer.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "{parent.name} nettopp sendt deg en påminnelse for {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} nettopp sendt deg en påminnelse for {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE En ny oppdatering kommer i appbutikken!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} er overført til {child.name} sin bankkonto",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Overføringen av {transaction.str_value} til {child.name} s bankkonto ukentlig godtgjørelse mislyktes"
+  "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {transaction.child.name} bankkonto",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {transaction.child.name} s bankkonto veckotillägg misslyckades"
 }

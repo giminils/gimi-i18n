@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "PLZ_TRANSLATE The task {assignment.task.title} was approved. ({assignment.str_value})",
   "push_task_enabled": "PLZ_TRANSLATE Now you can perform the task {task}!",
   "push_disabled_task_created": "PLZ_TRANSLATE {child} has proposed a task {task}!",
-  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} штотыднёвага дапаможнікі быў перададзены {child.name} «s банкаўскага рахунку.",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} штомесячнай дапамогі быў перададзены {child.name} «s банкаўскі рахунак.",
+  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} штотыднёвага дапаможнікі быў перададзены {transaction.child.name} «s банкаўскага рахунку.",
+  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} штомесячнай дапамогі быў перададзены {transaction.child.name} «s банкаўскі рахунак.",
   "push_charge_message_parent": "PLZ_TRANSLATE Presently {amount} will be transferred to {child} 's bank account tomorrow",
   "dashboard_disabled_task_created": "PLZ_TRANSLATE Suggested task {task}.",
   "push_trustly_mandate_revoked": "PLZ_TRANSLATE Your bank account is now disconnected, update your information to use bank transfers.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} проста паслаў вам напамін {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} проста паслаў вам напамін {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE Новае абнаўленне прыходзіць у App Store!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} быў перададзены {child.name} «s банкаўскага рахунку",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Перадача {transaction.str_value} да {child.name} «s банкаўскага рахунку штотыднёвага дапаможнікі была няўдалай"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} быў перададзены {transaction.child.name} «s банкаўскага рахунку",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Перадача {transaction.str_value} да {transaction.child.name} «s банкаўскага рахунку штотыднёвага дапаможнікі была няўдалай"
 }
