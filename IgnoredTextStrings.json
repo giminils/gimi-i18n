@@ -396,5 +396,9 @@
   "boost",
   "category_name_35",
   "goal_map_pie_starting_amount",
-  "task_per_hour_pause"
+  "task_per_hour_pause",
+  "time_minute",
+  "goal_map_pie_saved_title",
+  "contacts",
+  "microphone"
 ]
