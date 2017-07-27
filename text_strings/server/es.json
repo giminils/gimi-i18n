@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "La tarea {assignment.task.title} fue aprobada. ({assignment.str_value})",
   "push_task_enabled": "¡Ahora puedes realizar la tarea {task}!",
   "push_disabled_task_created": "¡{child} ha propuesto una tarea {task}!",
-  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} i månadspeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} de la asignación semanal se transfirió a la cuenta bancaria de {transaction.child.name} .",
+  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} de la asignación mensual se transfirió a la cuenta bancaria de {transaction.child.name} .",
   "push_charge_message_parent": "Hasta el momento, {amount} serán transferidos a la cuenta bancaria de {child} mañana",
   "dashboard_disabled_task_created": "Tarea sugerida {task}.",
   "push_trustly_mandate_revoked": "Tu cuenta bancaria está desconectada, actualiza tu información para utilizar transferencias bancarias.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE ¡Una nueva actualización viene en la tienda de aplicaciones!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} {child.name} {transaction.str_value} se ha transferido a la cuenta bancaria de {child.name}",
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} se ha transferido a la cuenta bancaria de {transaction.child.name}",
   "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE La transferencia de {transaction.str_value} a la cuenta bancaria de {transaction.child.name} no tuvo éxito"
 }

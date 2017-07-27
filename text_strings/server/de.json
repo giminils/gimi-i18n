@@ -83,7 +83,7 @@
   "dashboard_assignment_approved": "Die Aufgabe {assignment.task.title} wurde akzeptiert. ({assignment.str_value})",
   "push_task_enabled": "Du kannst jetzt die Aufgabe {task} durchführen!",
   "push_disabled_task_created": "{child} hat die Aufgabe {task} vorgeschlagen!",
-  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} der wöchentlichen Vergütung wurde auf das Bankkonto von {transaction.child.name} .",
   "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} der monatlichen Vergütung wurde auf das Bankkonto von {transaction.child.name} .",
   "push_charge_message_parent": "In Kürze wird {amount} auf {child}s Bankkonto überwiesen",
   "dashboard_disabled_task_created": "Vorgeschlagene Aufgabe {task}.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "{parent.name} hat dir gerade eine Erinnerung für {assignment.task.title} gesendet.",
   "push_assignment_reminder": "{parent.name} hat dir gerade eine Erinnerung für {assignment.task.title} gesendet.",
   "push_new_app_version": "Ein neues Update erscheint im App Store!",
-  "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {transaction.child.name} bankkonto",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {transaction.child.name} s bankkonto veckotillägg misslyckades"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} wurde auf das Bankkonto von {transaction.child.name} übertragen",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Die Übertragung von {transaction.str_value} auf {transaction.child.name} &#39;s Bankkonto wöchentliche Zulage war erfolglos"
 }

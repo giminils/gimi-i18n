@@ -83,7 +83,7 @@
   "dashboard_assignment_approved": "PLZ_TRANSLATE Verkefni {assignment.task.title} var samþykkt. ({assignment.str_value})",
   "push_task_enabled": "PLZ_TRANSLATE Nú er hægt að framkvæma verkefni {task}!",
   "push_disabled_task_created": "PLZ_TRANSLATE {child} hefur lagt verkefni {task}!",
-  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} vikulega greiðslunnar var flutt í bankareikning {transaction.child.name} .",
   "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} af mánaðarlaununum var flutt í bankareikning {transaction.child.name} .",
   "push_charge_message_parent": "PLZ_TRANSLATE Nú: {amount} er flutt til {child}'s á morgun bankareikning.",
   "dashboard_disabled_task_created": "PLZ_TRANSLATE Leiðbeinandi verkefni {task}.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} sendi þér bara áminningu fyrir {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} sendi þér bara áminningu fyrir {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE Ný uppfærsla kemur í app Store!",
-  "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {transaction.child.name} bankkonto",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {transaction.child.name} s bankkonto veckotillägg misslyckades"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} hefur verið flutt í bankareikning {transaction.child.name}",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Flutningur á {transaction.str_value} í {transaction.child.name} bankareiknings vikulega greiðslunnar mistókst"
 }

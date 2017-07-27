@@ -83,7 +83,7 @@
   "dashboard_assignment_approved": "Tehtävä {assignment.task.title} hyväksyttiin. ({assignment.str_value})",
   "push_task_enabled": "Nyt voit suorittaa tehtävän {task}!",
   "push_disabled_task_created": "{child} on ehdottanut tehtäväksi {task}!",
-  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} viikoittain korvauksen siirrettiin {transaction.child.name} pankkitilille.",
   "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} kuukausittain korvauksen siirrettiin {transaction.child.name} pankkitilille.",
   "push_charge_message_parent": "Juuri nyt: {amount} siirretään {child}n pankkitilille huomenna.",
   "dashboard_disabled_task_created": "Ehdotettu tehtävä {task}.",
@@ -157,6 +157,6 @@
   "event_assignment_reminder": "{parent.name} on juuri lähettänyt sinulle muistutuksen {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} on juuri lähettänyt sinulle muistutuksen {assignment.task.title}",
   "push_new_app_version": "Sovellukseen on tullut uusi päivitys!",
-  "push_manual_trustly_withdrawal": "{transaction.str_value} överfördes till {transaction.child.name} bankkonto",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {transaction.child.name} s bankkonto veckotillägg misslyckades"
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} on siirretty {transaction.child.name} pankkitilille",
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE {transaction.str_value} siirto {transaction.child.name} pankkitilille viikoittainen korvaus ei onnistunut"
 }

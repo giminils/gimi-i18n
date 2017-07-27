@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "La tâche {assignment.task.title} a été approuvé. ({assignment.str_value})",
   "push_task_enabled": "Vous pouvez maintenant effectuer la tâche {task}!",
   "push_disabled_task_created": "{child} a proposé une tâche {task}!",
-  "push_weekly_payout_message_parent": "{transaction.str_value} i veckopeng överfördes till {transaction.child.name}s bankkonto.",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} i månadspeng överfördes till {transaction.child.name}s bankkonto.",
+  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} de l&#39;allocation hebdomadaire a été transférée au compte bancaire {transaction.child.name} .",
+  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} de l&#39;allocation mensuelle a été transférée au compte bancaire {transaction.child.name} .",
   "push_charge_message_parent": "A présent, {amount} seront transférés demain au compte bancaire de {child}.",
   "dashboard_disabled_task_created": "Tâche suggérée {task}.",
   "push_trustly_mandate_revoked": "Votre compte bancaire est désormais déconnecté, mettez à jour vos informations afin de pouvoir effectuer des transferts bancaires.",
@@ -158,5 +158,5 @@
   "push_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
   "push_new_app_version": "Une nouvelle mise à jour est en train d'arriver dans le App Store!!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} a été transférée au compte bancaire {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Överföringen av {transaction.str_value} till {transaction.child.name} s bankkonto veckotillägg misslyckades"
+  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Le transfert de {transaction.str_value} à {transaction.child.name} l&#39;allocation hebdomadaire du compte bancaire n&#39;a pas abouti"
 }
