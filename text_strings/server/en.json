@@ -156,5 +156,6 @@
   "event_birthday": "It's {child.name} birthday today!",
   "event_assignment_reminder": "{parent.name} just sent you a reminder for {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} just sent you a reminder for {assignment.task.title}",
-  "push_new_app_version": "A new update is coming in the app store!"
+  "push_new_app_version": "A new update is coming in the app store!",
+  "push_manual_trustly_withdrawal": "{transaction.str_value} has been transferred to {child.name}'s bank account"
 }

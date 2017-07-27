@@ -156,5 +156,6 @@
   "event_birthday": "PLZ_TRANSLATE È oggi il compleanno di {child.name} !",
   "event_assignment_reminder": "PLZ_TRANSLATE {parent.name} appena inviato un promemoria per {assignment.task.title}",
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} appena inviato un promemoria per {assignment.task.title}",
-  "push_new_app_version": "PLZ_TRANSLATE Un nuovo aggiornamento sta arrivando nell'archivio di app!"
+  "push_new_app_version": "PLZ_TRANSLATE Un nuovo aggiornamento sta arrivando nell'archivio di app!",
+  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} è stato trasferito al conto bancario di {child.name}"
 }
