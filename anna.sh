@@ -1,3 +1,4 @@
+#run this file by running ./anna.sh in your terminal
 npm run anna -- seo.home.h1
 npm run anna -- seo.home.h2
 npm run anna -- seo.home.h3
