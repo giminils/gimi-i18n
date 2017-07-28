@@ -1504,5 +1504,6 @@
   "fingerprint_popup_header": "PLZ_TRANSLATE Scansione del dito",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Scansione del dito per continuare",
   "fingerprint_error_message": "PLZ_TRANSLATE Non esiste alcun sensore fingerprint o non ci sono permessi.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Non c'è ancora niente."
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Non c'è ancora niente.",
+  "category_name_48": "PLZ_TRANSLATE trasferimento bancario"
 }
