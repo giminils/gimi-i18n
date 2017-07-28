@@ -18,10 +18,10 @@
   "push_account_select_started": "PLZ_TRANSLATE Registration of the bank account is under way",
   "push_parent_account_selected": "PLZ_TRANSLATE The bank account is activated",
   "push_child_account_selected": "PLZ_TRANSLATE {child.name}'s bank account is now activated",
-  "push_weekly_trustly_payout_failed_parent": "PLZ_TRANSLATE The transfer of {name}'s weekly allowance was unsuccessful",
-  "push_monthly_trustly_payout_failed_parent": "PLZ_TRANSLATE The transfer of {name}'s monthly allowance was unsuccessful",
-  "push_weekly_trustly_payout_trustly_failed_child": "PLZ_TRANSLATE The transfer of your weekly allowance was unsuccessful",
-  "push_monthly_trustly_payout_trustly_failed_child": "PLZ_TRANSLATE The transfer of your monthly allowance was unsuccessful",
+  "push_weekly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s veckopeng misslyckades",
+  "push_monthly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s månadspeng misslyckades",
+  "push_weekly_trustly_payout_trustly_failed_child": "Överföringen av din veckopeng misslyckades",
+  "push_monthly_trustly_payout_trustly_failed_child": "Överföringen av din månadspeng misslyckades",
   "push_changed_to_weekly_allowance": "PLZ_TRANSLATE {name} switched to a weekly allowance.",
   "push_changed_to_monthly_allowance": "PLZ_TRANSLATE {name} switched to a monthly allowance.",
   "push_trustly_weekly_allowance_parent_changed": "PLZ_TRANSLATE Now {child}'s weekly allowance is paid out from your account.",
@@ -158,5 +158,6 @@
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} проста паслаў вам напамін {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE Новае абнаўленне прыходзіць у App Store!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} быў перададзены {transaction.child.name} «s банкаўскага рахунку",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Перадача {transaction.str_value} да {transaction.child.name} «s банкаўскага рахунку штотыднёвага дапаможнікі была няўдалай"
+  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Перадача {transaction.str_value} да {transaction.child.name} «s банкаўскага рахунку штотыднёвага дапаможнікі была няўдалай",
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Перадача {transaction.str_value} на Ваш банкаўскі рахунак не ўдалося."
 }

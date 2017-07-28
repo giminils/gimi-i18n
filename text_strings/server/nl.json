@@ -18,10 +18,10 @@
   "push_account_select_started": "Registatie van bankrekening is bezig",
   "push_parent_account_selected": "Bankrekening is geactiveerd",
   "push_child_account_selected": "{child.name} zijn/haar bank account is nu geactiveerd",
-  "push_weekly_trustly_payout_failed_parent": "De overschrijving van {name}s wekelijks zakgeld is mislukt",
-  "push_monthly_trustly_payout_failed_parent": "De overschrijving van {name}s maandelijks zakgeld is mislukt",
-  "push_weekly_trustly_payout_trustly_failed_child": "Het overschijven van je wekelijks zakgeld is mislukt",
-  "push_monthly_trustly_payout_trustly_failed_child": "Het overschijven van je maandelijks zakgeld is mislukt",
+  "push_weekly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s veckopeng misslyckades",
+  "push_monthly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s månadspeng misslyckades",
+  "push_weekly_trustly_payout_trustly_failed_child": "Överföringen av din veckopeng misslyckades",
+  "push_monthly_trustly_payout_trustly_failed_child": "Överföringen av din månadspeng misslyckades",
   "push_changed_to_weekly_allowance": "{name} veranderde naar een wekelijks zakgeld.",
   "push_changed_to_monthly_allowance": "{name} veranderde naar een maandelijks zakgeld.",
   "push_trustly_weekly_allowance_parent_changed": "Nu zal {child}s wekelijks zakgeld van jou rekening betaald worden.",
@@ -158,5 +158,6 @@
   "push_assignment_reminder": "{parent.name} gaf je een herinnering voor {assignment.task.title}",
   "push_new_app_version": "Er komt een nieuwe update in de app Store!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} is overgemaakt naar de bankrekening van {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE De overdracht van {transaction.str_value} te {transaction.child.name} &#39;s bankrekening wekelijkse toelage is mislukt"
+  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE De overdracht van {transaction.str_value} te {transaction.child.name} &#39;s bankrekening wekelijkse toelage is mislukt",
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overdracht van {transaction.str_value} naar uw bankrekening is mislukt."
 }

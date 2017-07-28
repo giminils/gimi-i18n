@@ -18,10 +18,10 @@
   "push_account_select_started": "L'ouverture du compte bancaire est en cours",
   "push_parent_account_selected": "Le compte bancaire est actif",
   "push_child_account_selected": "Le compte bancaire de {child.name} est maintenant actif",
-  "push_weekly_trustly_payout_failed_parent": "Le versement de l'allocation hebdomadaire de {name} a échoué",
-  "push_monthly_trustly_payout_failed_parent": "Le versement de l'allocation mensuelle de {name} a échoué",
-  "push_weekly_trustly_payout_trustly_failed_child": "Le versement de votre allocation hebdomadaire a échoué",
-  "push_monthly_trustly_payout_trustly_failed_child": "Le versement de votre allocation mensuelle a échoué",
+  "push_weekly_trustly_payout_failed_parent": "PLZ_TRANSLATE Le transfert de l&#39;allocation hebdomadaire {transaction.parent.name} n&#39;a pas abouti",
+  "push_monthly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s månadspeng misslyckades",
+  "push_weekly_trustly_payout_trustly_failed_child": "Överföringen av din veckopeng misslyckades",
+  "push_monthly_trustly_payout_trustly_failed_child": "Överföringen av din månadspeng misslyckades",
   "push_changed_to_weekly_allowance": "{name} est passé à l'allocation hebdomadaire.",
   "push_changed_to_monthly_allowance": "{name} est passé à l'allocation mensuelle.",
   "push_trustly_weekly_allowance_parent_changed": "L'allocation hebdomadaire de {child} est à présent versée depuis votre compte.",
@@ -158,5 +158,6 @@
   "push_assignment_reminder": "{parent.name} vient de vous envoyer un rappel pour effectuer la tâche: {assignment.task.title}",
   "push_new_app_version": "Une nouvelle mise à jour est en train d'arriver dans le App Store!!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} a été transférée au compte bancaire {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE Le transfert de {transaction.str_value} à {transaction.child.name} l&#39;allocation hebdomadaire du compte bancaire n&#39;a pas abouti"
+  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Le transfert de {transaction.str_value} à {transaction.child.name} l&#39;allocation hebdomadaire du compte bancaire n&#39;a pas abouti",
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Le transfert de {transaction.str_value} sur votre compte bancaire a échoué."
 }

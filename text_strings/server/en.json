@@ -18,8 +18,8 @@
   "push_account_select_started": "Registration of the bank account is under way",
   "push_parent_account_selected": "Your bank account is now activated",
   "push_child_account_selected": "{child.name}'s bank account is now activated",
-  "push_weekly_trustly_payout_failed_parent": "The transfer of {name}'s weekly allowance was unsuccessful",
-  "push_monthly_trustly_payout_failed_parent": "The transfer of {name}'s monthly allowance was unsuccessful",
+  "push_weekly_trustly_payout_failed_parent": "The transfer of {transaction.parent.name}'s weekly allowance was unsuccessful",
+  "push_monthly_trustly_payout_failed_parent": "The transfer of {transaction.parent.name}'s monthly allowance was unsuccessful",
   "push_weekly_trustly_payout_trustly_failed_child": "The transfer of your weekly allowance was unsuccessful",
   "push_monthly_trustly_payout_trustly_failed_child": "The transfer of your monthly allowance was unsuccessful",
   "push_changed_to_weekly_allowance": "{name} switched to a weekly allowance.",
@@ -158,5 +158,6 @@
   "push_assignment_reminder": "{parent.name} just sent you a reminder for {assignment.task.title}",
   "push_new_app_version": "A new update is coming in the app store!",
   "push_manual_trustly_withdrawal": "{transaction.str_value} has been transferred to {transaction.child.name}'s bank account",
-  "push_manual_trustly_withdrawal_failed": "The transfer of {transaction.str_value} to {transaction.child.name}'s bank account weekly allowance was unsuccessful"
+  "push_manual_trustly_withdrawal_failed_parent": "The transfer of {transaction.str_value} to {transaction.child.name}'s bank account weekly allowance was unsuccessful",
+  "push_manual_trustly_withdrawal_failed_child": "Transfer of {transaction.str_value} to your bank account failed."
 }

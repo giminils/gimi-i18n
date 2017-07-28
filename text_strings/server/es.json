@@ -18,10 +18,10 @@
   "push_account_select_started": "El registro de la cuenta bancaria está en curso",
   "push_parent_account_selected": "Su cuenta bancaria está activa",
   "push_child_account_selected": "La cuenta bancaria de {child.name} está activa ahora",
-  "push_weekly_trustly_payout_failed_parent": "La transferencia de la asignación semanal de {name} falló",
-  "push_monthly_trustly_payout_failed_parent": "La transferencia de la asignación mensual de {name} falló",
-  "push_weekly_trustly_payout_trustly_failed_child": "La transferencia de su asignación semanal falló",
-  "push_monthly_trustly_payout_trustly_failed_child": "La transferencia de su asignación mensual falló",
+  "push_weekly_trustly_payout_failed_parent": "PLZ_TRANSLATE La transferencia de la asignación semanal de {transaction.parent.name} no tuvo éxito",
+  "push_monthly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s månadspeng misslyckades",
+  "push_weekly_trustly_payout_trustly_failed_child": "Överföringen av din veckopeng misslyckades",
+  "push_monthly_trustly_payout_trustly_failed_child": "Överföringen av din månadspeng misslyckades",
   "push_changed_to_weekly_allowance": "{name} cambió a una asignación semanal.",
   "push_changed_to_monthly_allowance": "{name} cambió a una asignación mensual.",
   "push_trustly_weekly_allowance_parent_changed": "Ahora la asignación semanal de {child} es abonada desde su cuenta.",
@@ -158,5 +158,6 @@
   "push_assignment_reminder": "PLZ_TRANSLATE {parent.name} acaba de enviarle un recordatorio para {assignment.task.title}",
   "push_new_app_version": "PLZ_TRANSLATE ¡Una nueva actualización viene en la tienda de aplicaciones!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} se ha transferido a la cuenta bancaria de {transaction.child.name}",
-  "push_manual_trustly_withdrawal_failed": "PLZ_TRANSLATE La transferencia de {transaction.str_value} a la cuenta bancaria de {transaction.child.name} no tuvo éxito"
+  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE La transferencia de {transaction.str_value} a la cuenta bancaria de {transaction.child.name} no tuvo éxito",
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE No se pudo transferir {transaction.str_value} a su cuenta bancaria."
 }
