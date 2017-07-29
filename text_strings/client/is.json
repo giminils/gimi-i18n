@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "PLZ_TRANSLATE Skannaðu fingurinn",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Skannaðu fingurinn til að halda áfram",
   "fingerprint_error_message": "PLZ_TRANSLATE Það er engin fingerPrint skynjari eða það eru engar heimildir.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Það er ekkert hér ennþá."
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Það er ekkert hér ennþá.",
+  "notifications": "PLZ_TRANSLATE Tilkynningar"
 }

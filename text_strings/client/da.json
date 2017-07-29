@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "Scan din finger",
   "fingerprint_popup_request_message": "Scan din finger for at fortsætte",
   "fingerprint_error_message": "Der er ingen fingeraftryksensor, eller der er ingen tilladelser.",
-  "parent_transaction_list_no_items": "Der er endnu ikke noget her."
+  "parent_transaction_list_no_items": "Der er endnu ikke noget her.",
+  "notifications": "PLZ_TRANSLATE Meddelelser"
 }

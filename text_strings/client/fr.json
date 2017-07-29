@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "Scannez votre doigt",
   "fingerprint_popup_request_message": "Scannez votre doigt pour continuer",
   "fingerprint_error_message": "Capteur d'empreinte digital introuvable introuvable ou bien il n'y a pas d'autorisations.",
-  "parent_transaction_list_no_items": "Il n'y a rien ici encore."
+  "parent_transaction_list_no_items": "Il n'y a rien ici encore.",
+  "notifications": "PLZ_TRANSLATE Avis"
 }

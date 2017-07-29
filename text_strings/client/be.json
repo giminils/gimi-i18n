@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "PLZ_TRANSLATE сканаванне пальца",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Праверце свой палец, каб працягнуць",
   "fingerprint_error_message": "PLZ_TRANSLATE Там няма датчыка адбіткаў пальцаў ці няма дазволу.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Там няма нічога тут яшчэ."
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Там няма нічога тут яшчэ.",
+  "notifications": "PLZ_TRANSLATE Паведамлення"
 }

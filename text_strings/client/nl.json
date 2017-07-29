@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "Scan uw vinger",
   "fingerprint_popup_request_message": "Scan uw vinger om door te gaan",
   "fingerprint_error_message": "Er is geen vingerprintsensor aanwezig of er zijn geen toestemmingen.",
-  "parent_transaction_list_no_items": "Er is hier nog niets."
+  "parent_transaction_list_no_items": "Er is hier nog niets.",
+  "notifications": "PLZ_TRANSLATE Mededelingen"
 }

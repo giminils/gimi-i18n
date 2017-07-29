@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "PLZ_TRANSLATE Skann fingeren",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Skann fingeren for å fortsette",
   "fingerprint_error_message": "PLZ_TRANSLATE Det er ingen fingerPrint sensor eller det er ingen tillatelser.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Det er ingenting her ennå."
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Det er ingenting her ennå.",
+  "notifications": "PLZ_TRANSLATE merknader"
 }

@@ -1359,6 +1359,7 @@
   "category_name_45": "PLZ_TRANSLATE Interesse di risparmio",
   "category_name_46": "PLZ_TRANSLATE Indennità settimanale / mensile",
   "category_name_47": "PLZ_TRANSLATE Guida di risparmio Aiuto",
+  "category_name_48": "PLZ_TRANSLATE trasferimento bancario",
   "revert_transaction_button": "PLZ_TRANSLATE Ripristina la transazione",
   "take_picture": "PLZ_TRANSLATE Fai una foto",
   "take_new_picture": "PLZ_TRANSLATE Prendi una nuova immagine",
@@ -1505,5 +1506,5 @@
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Scansione del dito per continuare",
   "fingerprint_error_message": "PLZ_TRANSLATE Non esiste alcun sensore fingerprint o non ci sono permessi.",
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Non c'è ancora niente.",
-  "category_name_48": "PLZ_TRANSLATE trasferimento bancario"
+  "notifications": "PLZ_TRANSLATE Avvisi"
 }

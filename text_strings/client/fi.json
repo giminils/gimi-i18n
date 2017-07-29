@@ -1505,5 +1505,6 @@
   "fingerprint_popup_header": "PLZ_TRANSLATE Tarkista sormesi",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Suorita sormesi jatkaaksesi",
   "fingerprint_error_message": "PLZ_TRANSLATE Sormenjälkitunnistinta ei ole tai ei ole oikeuksia.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Täällä ei vielä ole mitään."
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Täällä ei vielä ole mitään.",
+  "notifications": "PLZ_TRANSLATE ilmoitukset"
 }
