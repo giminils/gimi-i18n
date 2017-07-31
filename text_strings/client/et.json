@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Siiani pole midagi.",
   "notifications": "PLZ_TRANSLATE Teated",
   "premium_free_active_headline": "PLZ_TRANSLATE Panga volitused on aktiivsed",
-  "premium_free_active_desc": "PLZ_TRANSLATE Teie pangakonto on võrguühendus ja nüüd proovite lisatasu!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Teie pangakonto on võrguühendus ja nüüd proovite lisatasu!",
+  "choose_country": "PLZ_TRANSLATE Vali riik"
 }

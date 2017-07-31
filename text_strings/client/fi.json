@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Täällä ei vielä ole mitään.",
   "notifications": "PLZ_TRANSLATE ilmoitukset",
   "premium_free_active_headline": "PLZ_TRANSLATE Pankin valtuudet ovat aktiivisia",
-  "premium_free_active_desc": "PLZ_TRANSLATE Pankkitili on verkossa ja olet nyt testannut palkkion!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Pankkitili on verkossa ja olet nyt testannut palkkion!",
+  "choose_country": "PLZ_TRANSLATE Valitse maa"
 }

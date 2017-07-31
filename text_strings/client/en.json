@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "There is nothing here yet.",
   "notifications": "Notices",
   "premium_free_active_headline": "Bank Powers are active",
-  "premium_free_active_desc": "Your bank account is online and you are now testing premium!"
+  "premium_free_active_desc": "Your bank account is online and you are now testing premium!",
+  "choose_country": "Choose country"
 }

@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "Il n'y a rien ici encore.",
   "notifications": "PLZ_TRANSLATE Avis",
   "premium_free_active_headline": "PLZ_TRANSLATE Les puissances bancaires sont actives",
-  "premium_free_active_desc": "PLZ_TRANSLATE Votre compte bancaire est en ligne et vous testez maintenant!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Votre compte bancaire est en ligne et vous testez maintenant!",
+  "choose_country": "PLZ_TRANSLATE Choisissez un pays"
 }

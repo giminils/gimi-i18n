@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Там няма нічога тут яшчэ.",
   "notifications": "PLZ_TRANSLATE Паведамлення",
   "premium_free_active_headline": "PLZ_TRANSLATE Банк Пауэрс актыўныя",
-  "premium_free_active_desc": "PLZ_TRANSLATE Ваш банкаўскі рахунак у Інтэрнэце, і вы цяпер тэстуе прэмію!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Ваш банкаўскі рахунак у Інтэрнэце, і вы цяпер тэстуе прэмію!",
+  "choose_country": "PLZ_TRANSLATE абярыце краіну"
 }

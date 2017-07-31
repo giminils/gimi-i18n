@@ -1519,5 +1519,6 @@
   "parent_transaction_list_no_items": "Det finns inget här ännu.",
   "notifications": "PLZ_TRANSLATE Notiser",
   "premium_free_active_headline": "PLZ_TRANSLATE Du testar Premium",
-  "premium_free_active_desc": "PLZ_TRANSLATE Ditt bankkonto är uppkopplat och du testar nu premium!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Ditt bankkonto är uppkopplat och du testar nu premium!",
+  "choose_country": "PLZ_TRANSLATE Välj Land"
 }

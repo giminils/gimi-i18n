@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Det er ingenting her ennå.",
   "notifications": "PLZ_TRANSLATE merknader",
   "premium_free_active_headline": "PLZ_TRANSLATE Bankstyrker er aktive",
-  "premium_free_active_desc": "PLZ_TRANSLATE Bankkontoen din er online, og du tester nå premium!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Bankkontoen din er online, og du tester nå premium!",
+  "choose_country": "PLZ_TRANSLATE Velg land"
 }

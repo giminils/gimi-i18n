@@ -1508,5 +1508,6 @@
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Non c'è ancora niente.",
   "notifications": "PLZ_TRANSLATE Avvisi",
   "premium_free_active_headline": "PLZ_TRANSLATE Le potenze della Banca sono attive",
-  "premium_free_active_desc": "PLZ_TRANSLATE Il tuo conto bancario è online e stai sperimentando il premio!"
+  "premium_free_active_desc": "PLZ_TRANSLATE Il tuo conto bancario è online e stai sperimentando il premio!",
+  "choose_country": "PLZ_TRANSLATE Scegli paese"
 }
