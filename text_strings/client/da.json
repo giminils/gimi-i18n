@@ -1492,7 +1492,7 @@
   "support_savings_goal": "Støt opsparingsmål",
   "all_children": "Alle børn",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d gjorde det!",
-  "goal_popover_text_amount_reached": "%1$d nåede opsparingsmålet. %2$d i %3$d dage. Godt gået!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d nåede besparelsesmålet %2$d i %3$d dage. Godt arbejde!",
   "share_view_title": "Spred ordet om %1$d",
   "share_view_intro": "Tak for at dele og hjælpe til med at sprede økonomiske superkræfter!",
   "share_view_via_email": "Del via e-mail",

@@ -1492,7 +1492,7 @@
   "support_savings_goal": "Soutenir l'objectif d'épargne",
   "all_children": "Tous les enfants",
   "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d fait!",
-  "goal_popover_text_amount_reached": "%1$d a atteint son objectif d&#39;épargnes. %2$d en %3$d jours. Bien joué!",
+  "goal_popover_text_amount_reached": "PLZ_TRANSLATE %1$d atteint l&#39;objectif d&#39;économie %2$d en %3$d jours. Bon travail!",
   "share_view_title": "Faites passer le mot à propos de %1$d",
   "share_view_intro": "Merci de partager et d'aider à partager les superpouvoirs économiques!",
   "share_view_via_email": "Partager par e-mail",
