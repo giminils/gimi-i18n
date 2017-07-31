@@ -1491,7 +1491,7 @@
   "deduction": "Deducción",
   "support_savings_goal": "Meta de ahorro de apoyo",
   "all_children": "Todos los niños",
-  "goal_popover_title_amount_reached": "%1$d ¡Lo hiciste!",
+  "goal_popover_title_amount_reached": "PLZ_TRANSLATE %1$d hizo!",
   "goal_popover_text_amount_reached": "%1$d alcanzó la meta de ahorro. %2$d en %3$d días. ¡Buen trabajo!",
   "share_view_title": "Difundir la palabra sobre %1$d",
   "share_view_intro": "¡Gracias por compartir y ayudar a expandir las superpotencias económicas!",
