@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Skannaðu fingurinn til að halda áfram",
   "fingerprint_error_message": "PLZ_TRANSLATE Það er engin fingerPrint skynjari eða það eru engar heimildir.",
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Það er ekkert hér ennþá.",
-  "notifications": "PLZ_TRANSLATE Tilkynningar"
+  "notifications": "PLZ_TRANSLATE Tilkynningar",
+  "premium_free_active_headline": "PLZ_TRANSLATE Bankastarfsemi er virk",
+  "premium_free_active_desc": "PLZ_TRANSLATE Bankareikningurinn þinn er á netinu og þú ert nú að prófa aukagjald!"
 }

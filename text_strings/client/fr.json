@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "Scannez votre doigt pour continuer",
   "fingerprint_error_message": "Capteur d'empreinte digital introuvable introuvable ou bien il n'y a pas d'autorisations.",
   "parent_transaction_list_no_items": "Il n'y a rien ici encore.",
-  "notifications": "PLZ_TRANSLATE Avis"
+  "notifications": "PLZ_TRANSLATE Avis",
+  "premium_free_active_headline": "PLZ_TRANSLATE Les puissances bancaires sont actives",
+  "premium_free_active_desc": "PLZ_TRANSLATE Votre compte bancaire est en ligne et vous testez maintenant!"
 }

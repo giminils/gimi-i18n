@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Праверце свой палец, каб працягнуць",
   "fingerprint_error_message": "PLZ_TRANSLATE Там няма датчыка адбіткаў пальцаў ці няма дазволу.",
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Там няма нічога тут яшчэ.",
-  "notifications": "PLZ_TRANSLATE Паведамлення"
+  "notifications": "PLZ_TRANSLATE Паведамлення",
+  "premium_free_active_headline": "PLZ_TRANSLATE Банк Пауэрс актыўныя",
+  "premium_free_active_desc": "PLZ_TRANSLATE Ваш банкаўскі рахунак у Інтэрнэце, і вы цяпер тэстуе прэмію!"
 }

@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Otsige oma sõrmega, et jätkata",
   "fingerprint_error_message": "PLZ_TRANSLATE Sõrmeandur puudub või puudub õigused.",
   "parent_transaction_list_no_items": "PLZ_TRANSLATE Siiani pole midagi.",
-  "notifications": "PLZ_TRANSLATE Teated"
+  "notifications": "PLZ_TRANSLATE Teated",
+  "premium_free_active_headline": "PLZ_TRANSLATE Panga volitused on aktiivsed",
+  "premium_free_active_desc": "PLZ_TRANSLATE Teie pangakonto on võrguühendus ja nüüd proovite lisatasu!"
 }

@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "Scan din finger for at fortsætte",
   "fingerprint_error_message": "Der er ingen fingeraftryksensor, eller der er ingen tilladelser.",
   "parent_transaction_list_no_items": "Der er endnu ikke noget her.",
-  "notifications": "PLZ_TRANSLATE Meddelelser"
+  "notifications": "PLZ_TRANSLATE Meddelelser",
+  "premium_free_active_headline": "PLZ_TRANSLATE Bankstyrker er aktive",
+  "premium_free_active_desc": "PLZ_TRANSLATE Din bankkonto er online, og du tester nu præmie!"
 }

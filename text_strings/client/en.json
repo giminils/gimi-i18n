@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "Scan your finger to continue",
   "fingerprint_error_message": "There is no fingerPrint sensor or there are no permissions.",
   "parent_transaction_list_no_items": "There is nothing here yet.",
-  "notifications": "Notices"
+  "notifications": "Notices",
+  "premium_free_active_headline": "Bank Powers are active",
+  "premium_free_active_desc": "Your bank account is online and you are now testing premium!"
 }

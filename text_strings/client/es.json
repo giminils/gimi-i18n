@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "Analiza tu dedo para continuar",
   "fingerprint_error_message": "No hay sensor fingerPrint o no hay permisos.",
   "parent_transaction_list_no_items": "No hay nada aquí todavía.",
-  "notifications": "Avisos"
+  "notifications": "Avisos",
+  "premium_free_active_headline": "PLZ_TRANSLATE Los poderes del banco están activos",
+  "premium_free_active_desc": "PLZ_TRANSLATE Su cuenta bancaria está en línea y ahora está probando premium!"
 }

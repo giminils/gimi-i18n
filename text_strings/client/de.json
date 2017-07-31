@@ -1506,5 +1506,7 @@
   "fingerprint_popup_request_message": "Scanne Deinen Finger, um fortzufahren",
   "fingerprint_error_message": "Es gibt keinen Fingerabdruckssensor oder es gibt keine Berechtigungen.",
   "parent_transaction_list_no_items": "Hier ist noch nichts.",
-  "notifications": "PLZ_TRANSLATE Hinweise"
+  "notifications": "PLZ_TRANSLATE Hinweise",
+  "premium_free_active_headline": "PLZ_TRANSLATE Bankmächte sind aktiv",
+  "premium_free_active_desc": "PLZ_TRANSLATE Ihr Bankkonto ist online und Sie testen jetzt Prämie!"
 }
