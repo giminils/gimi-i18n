@@ -1246,7 +1246,7 @@
   "failed_transaction": "Versement échoué",
   "report_allowance_transfered_in": "De la tirelire",
   "qr_code_hint_text": "Une fois vous avez scanné le code, vous serez connecté. La personne avec laquelle vous souhaitez vous jumeler doit utiliser le scanner en cliquant sur le bouton \"Se connecter avec un membre de la famille\" dans l'accueil.",
-  "report_savings_account_diff": "Arrondi",
+  "report_savings_account_diff": "PLZ_TRANSLATE Arrondi",
   "edit_savings_goal_amount_hint": "Fixer un prix de %1$d",
   "goal_editor_parent_title": "Offrez de l'aide",
   "add_category_text_title": "Quel est le nom de la catégorie?",

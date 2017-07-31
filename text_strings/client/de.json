@@ -1246,7 +1246,7 @@
   "failed_transaction": "Fehlgeschlagene Überweisung",
   "report_allowance_transfered_in": "Vom Sparschwein",
   "qr_code_hint_text": "Wenn der Code gescannt wird, wirst Du verbunden. Diejenige, mit dem Du Dich verbinden willst, kommt zum Scanner, indem er auf dem Startbildschirm auf die Schaltfläche \"Mit Familienmitglied verbinden\" klickt.",
-  "report_savings_account_diff": "Abrundung",
+  "report_savings_account_diff": "PLZ_TRANSLATE Abgerundet",
   "edit_savings_goal_amount_hint": "Preis von %1$d einstellen",
   "goal_editor_parent_title": "Aushelfen",
   "add_category_text_title": "Wie heißt die Kategorie?",

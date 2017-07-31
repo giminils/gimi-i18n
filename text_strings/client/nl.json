@@ -1246,7 +1246,7 @@
   "failed_transaction": "mislukte betaling",
   "report_allowance_transfered_in": "Van spaarpot",
   "qr_code_hint_text": "Als de code is gescand, bent u verbonden. Met wie je wilt koppelen, wordt aangegeven op de scanner door de knop 'Verbinden met familielid' op het startscherm.",
-  "report_savings_account_diff": "afronding rij",
+  "report_savings_account_diff": "PLZ_TRANSLATE ronding",
   "edit_savings_goal_amount_hint": "Stel de prijs van %1$d in",
   "goal_editor_parent_title": "Helpen",
   "add_category_text_title": "Hoe heet de categorie?",

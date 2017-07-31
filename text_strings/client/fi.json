@@ -1246,7 +1246,7 @@
   "failed_transaction": "maksu epäonnistui",
   "report_allowance_transfered_in": "säästöpossusta",
   "qr_code_hint_text": "Kun koodi on skannattu, olet yhdistetty. Parisi tavoittaa skannerin klikkaamalla \"Yhdistä perheenjäseneen\" -painiketta aloitusnäytössä.",
-  "report_savings_account_diff": "pyöristys rivi",
+  "report_savings_account_diff": "PLZ_TRANSLATE pyöristys",
   "edit_savings_goal_amount_hint": "Aseta hinta %1$d:lle",
   "goal_editor_parent_title": "Auta",
   "add_category_text_title": "Mikä on luokan nimi?",

@@ -1246,7 +1246,7 @@
   "failed_transaction": "Mislykket betaling",
   "report_allowance_transfered_in": "Fra sparegris",
   "qr_code_hint_text": "Når koden er scannet bliver du tilsluttet. Scanneren aktiveres ved at du klikker på knappen \"Tilsut familiemedlem\" på startskærmen.",
-  "report_savings_account_diff": "Afrundingsrække",
+  "report_savings_account_diff": "PLZ_TRANSLATE Afrunding",
   "edit_savings_goal_amount_hint": "Indstil pris på %1$d",
   "goal_editor_parent_title": "Hjælpe til",
   "add_category_text_title": "Hvad hedder kategorien?",
