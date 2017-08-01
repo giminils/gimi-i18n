@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Avvisi",
   "premium_free_active_headline": "PLZ_TRANSLATE Le potenze della Banca sono attive",
   "premium_free_active_desc": "PLZ_TRANSLATE Il tuo conto bancario è online e stai sperimentando il premio!",
-  "choose_country": "PLZ_TRANSLATE Scegli paese"
+  "choose_country": "PLZ_TRANSLATE Scegli paese",
+  "add_action_child_headline": "PLZ_TRANSLATE Aggiungi una nuova attività"
 }

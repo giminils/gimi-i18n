@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Meddelelser",
   "premium_free_active_headline": "PLZ_TRANSLATE Bankstyrker er aktive",
   "premium_free_active_desc": "PLZ_TRANSLATE Din bankkonto er online, og du tester nu præmie!",
-  "choose_country": "PLZ_TRANSLATE Vælg land"
+  "choose_country": "PLZ_TRANSLATE Vælg land",
+  "add_action_child_headline": "PLZ_TRANSLATE Tilføj en ny aktivitet"
 }

@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Паведамлення",
   "premium_free_active_headline": "PLZ_TRANSLATE Банк Пауэрс актыўныя",
   "premium_free_active_desc": "PLZ_TRANSLATE Ваш банкаўскі рахунак у Інтэрнэце, і вы цяпер тэстуе прэмію!",
-  "choose_country": "PLZ_TRANSLATE абярыце краіну"
+  "choose_country": "PLZ_TRANSLATE абярыце краіну",
+  "add_action_child_headline": "PLZ_TRANSLATE Дадаць новую дзейнасць"
 }

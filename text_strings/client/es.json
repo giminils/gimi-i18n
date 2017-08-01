@@ -1509,5 +1509,6 @@
   "notifications": "Avisos",
   "premium_free_active_headline": "PLZ_TRANSLATE Los poderes del banco están activos",
   "premium_free_active_desc": "PLZ_TRANSLATE Su cuenta bancaria está en línea y ahora está probando premium!",
-  "choose_country": "PLZ_TRANSLATE Elige país"
+  "choose_country": "PLZ_TRANSLATE Elige país",
+  "add_action_child_headline": "PLZ_TRANSLATE Añadir una nueva actividad"
 }

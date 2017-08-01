@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Mededelingen",
   "premium_free_active_headline": "PLZ_TRANSLATE Bankmachten zijn actief",
   "premium_free_active_desc": "PLZ_TRANSLATE Je bankrekening is online en je test nu premium!",
-  "choose_country": "PLZ_TRANSLATE Kies land"
+  "choose_country": "PLZ_TRANSLATE Kies land",
+  "add_action_child_headline": "PLZ_TRANSLATE Voeg een nieuwe activiteit toe"
 }

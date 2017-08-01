@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Teated",
   "premium_free_active_headline": "PLZ_TRANSLATE Panga volitused on aktiivsed",
   "premium_free_active_desc": "PLZ_TRANSLATE Teie pangakonto on võrguühendus ja nüüd proovite lisatasu!",
-  "choose_country": "PLZ_TRANSLATE Vali riik"
+  "choose_country": "PLZ_TRANSLATE Vali riik",
+  "add_action_child_headline": "PLZ_TRANSLATE Lisage uus tegevus"
 }

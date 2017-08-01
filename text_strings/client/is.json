@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Tilkynningar",
   "premium_free_active_headline": "PLZ_TRANSLATE Bankastarfsemi er virk",
   "premium_free_active_desc": "PLZ_TRANSLATE Bankareikningurinn þinn er á netinu og þú ert nú að prófa aukagjald!",
-  "choose_country": "PLZ_TRANSLATE Veldu land"
+  "choose_country": "PLZ_TRANSLATE Veldu land",
+  "add_action_child_headline": "PLZ_TRANSLATE Bæta við nýjum aðgerðum"
 }

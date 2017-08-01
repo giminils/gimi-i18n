@@ -1509,5 +1509,6 @@
   "notifications": "PLZ_TRANSLATE Hinweise",
   "premium_free_active_headline": "PLZ_TRANSLATE Bankmächte sind aktiv",
   "premium_free_active_desc": "PLZ_TRANSLATE Ihr Bankkonto ist online und Sie testen jetzt Prämie!",
-  "choose_country": "PLZ_TRANSLATE Land auswählen"
+  "choose_country": "PLZ_TRANSLATE Land auswählen",
+  "add_action_child_headline": "PLZ_TRANSLATE Neue Aktivität hinzufügen"
 }

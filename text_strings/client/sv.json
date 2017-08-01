@@ -1520,5 +1520,6 @@
   "notifications": "PLZ_TRANSLATE Notiser",
   "premium_free_active_headline": "PLZ_TRANSLATE Du testar Premium",
   "premium_free_active_desc": "PLZ_TRANSLATE Ditt bankkonto är uppkopplat och du testar nu premium!",
-  "choose_country": "PLZ_TRANSLATE Välj Land"
+  "choose_country": "PLZ_TRANSLATE Välj Land",
+  "add_action_child_headline": "PLZ_TRANSLATE Lägg till en ny aktivitet"
 }
