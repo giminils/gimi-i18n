@@ -1,0 +1,20 @@
+{
+  "general": "general",
+  "tech": "tech",
+  "toys": "toys",
+  "clothes": "clothes",
+  "travel": "travel",
+  "entertainment": "entertainment",
+  "sport": "sport",
+  "transport": "transport",
+  "savings": "savings",
+  "candy": "candy",
+  "pets": "pets",
+  "other": "other",
+  "apps": "apps",
+  "shopping": "shopping",
+  "music": "music",
+  "foodDrink": "foodAndDrinks",
+  "school": "school",
+  "custom": "custom"
+}
