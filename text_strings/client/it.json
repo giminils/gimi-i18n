@@ -1505,7 +1505,7 @@
   "fingerprint_popup_header": "PLZ_TRANSLATE Scansione del dito",
   "fingerprint_popup_request_message": "PLZ_TRANSLATE Scansione del dito per continuare",
   "fingerprint_error_message": "PLZ_TRANSLATE Non esiste alcun sensore fingerprint o non ci sono permessi.",
-  "parent_transaction_list_no_items": "PLZ_TRANSLATE Non c'è ancora niente.",
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Non ci sono transazioni.",
   "notifications": "PLZ_TRANSLATE Avvisi",
   "premium_free_active_headline": "PLZ_TRANSLATE Le potenze della Banca sono attive",
   "premium_free_active_desc": "PLZ_TRANSLATE Il tuo conto bancario è online e stai sperimentando il premio!",

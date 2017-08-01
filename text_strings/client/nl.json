@@ -1505,7 +1505,7 @@
   "fingerprint_popup_header": "Scan uw vinger",
   "fingerprint_popup_request_message": "Scan uw vinger om door te gaan",
   "fingerprint_error_message": "Er is geen vingerprintsensor aanwezig of er zijn geen toestemmingen.",
-  "parent_transaction_list_no_items": "Er is hier nog niets.",
+  "parent_transaction_list_no_items": "PLZ_TRANSLATE Er zijn geen transacties.",
   "notifications": "PLZ_TRANSLATE Mededelingen",
   "premium_free_active_headline": "PLZ_TRANSLATE Bankmachten zijn actief",
   "premium_free_active_desc": "PLZ_TRANSLATE Je bankrekening is online en je test nu premium!",

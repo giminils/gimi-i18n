@@ -1516,7 +1516,7 @@
   "fingerprint_popup_header": "PLZ_CHECK Skanna fingret",
   "fingerprint_popup_request_message": "PLZ_CHECK Skanna fingret för att fortsätta",
   "fingerprint_error_message": "PLZ_CHECK Det finns inget fingeravtryckssensor eller det finns inga behörigheter.",
-  "parent_transaction_list_no_items": "Det finns inget här ännu.",
+  "parent_transaction_list_no_items": "Inga transaktioner än.",
   "notifications": "PLZ_TRANSLATE Notiser",
   "premium_free_active_headline": "PLZ_TRANSLATE Du testar Premium",
   "premium_free_active_desc": "PLZ_TRANSLATE Ditt bankkonto är uppkopplat och du testar nu premium!",
