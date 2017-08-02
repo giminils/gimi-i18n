@@ -47,5 +47,6 @@
   "addPlus": "/static/categories/add_plus.png",
   "interest": "/static/categories/symbol_sparranta.png",
   "allowance": "/static/categories/symbol_veckomanadaspeng.png",
-  "goalHelp": "/static/categories/symbol_sparmalshjalp.png"
+  "goalHelp": "/static/categories/symbol_sparmalshjalp.png",
+  "trustly": "/static/categories/card_payment.png"
 }
