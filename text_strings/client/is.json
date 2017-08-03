@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Bankastarfsemi er virk",
   "premium_free_active_desc": "PLZ_TRANSLATE Bankareikningurinn þinn er á netinu og þú ert nú að prófa aukagjald!",
   "choose_country": "PLZ_TRANSLATE Veldu land",
-  "add_action_child_headline": "PLZ_TRANSLATE Bæta við nýjum aðgerðum"
+  "add_action_child_headline": "PLZ_TRANSLATE Bæta við nýjum aðgerðum",
+  "amount_reached": "PLZ_TRANSLATE Náði markmiðum: %1$d",
+  "average_sum": "PLZ_TRANSLATE Meðaltal: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Hæsta náð markmið gildi: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Ranking fyrir %1$d ára: Top %2$d ( %3$d )"
 }

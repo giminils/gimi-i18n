@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Pankin valtuudet ovat aktiivisia",
   "premium_free_active_desc": "PLZ_TRANSLATE Pankkitili on verkossa ja olet nyt testannut palkkion!",
   "choose_country": "PLZ_TRANSLATE Valitse maa",
-  "add_action_child_headline": "PLZ_TRANSLATE Lisää uusi toiminto"
+  "add_action_child_headline": "PLZ_TRANSLATE Lisää uusi toiminto",
+  "amount_reached": "PLZ_TRANSLATE Saavutetut tavoitteet: %1$d",
+  "average_sum": "PLZ_TRANSLATE Keskimääräinen summa: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Suurin saavutettu tavoitearvo: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Ranking %1$d -vuotiaille: Ylös %2$d ( %3$d )"
 }

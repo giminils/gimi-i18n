@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Bankstyrker er aktive",
   "premium_free_active_desc": "PLZ_TRANSLATE Bankkontoen din er online, og du tester nå premium!",
   "choose_country": "PLZ_TRANSLATE Velg land",
-  "add_action_child_headline": "PLZ_TRANSLATE Legg til en ny aktivitet"
+  "add_action_child_headline": "PLZ_TRANSLATE Legg til en ny aktivitet",
+  "amount_reached": "PLZ_TRANSLATE Oppnådde mål: %1$d",
+  "average_sum": "PLZ_TRANSLATE Gjennomsnittlig sum: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Høyest oppnådde målverdi: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Rangering for %1$d åringer: Topp %2$d ( %3$d )"
 }

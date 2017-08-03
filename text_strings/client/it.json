@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "I poteri bancari sono attivi",
   "premium_free_active_desc": "Il tuo conto bancario è online e stai provando premium!",
   "choose_country": "Scegli paese",
-  "add_action_child_headline": "PLZ_TRANSLATE Aggiungi una nuova attività"
+  "add_action_child_headline": "PLZ_TRANSLATE Aggiungi una nuova attività",
+  "amount_reached": "PLZ_TRANSLATE Gol raggiunti: %1$d",
+  "average_sum": "PLZ_TRANSLATE Somma media: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Valore più alto raggiunto: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Classificazione per gli utenti di anni %1$d : Top %2$d ( %3$d )"
 }

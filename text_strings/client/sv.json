@@ -1521,5 +1521,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Du testar Premium",
   "premium_free_active_desc": "PLZ_TRANSLATE Ditt bankkonto är uppkopplat och du testar nu premium!",
   "choose_country": "PLZ_TRANSLATE Välj Land",
-  "add_action_child_headline": "PLZ_TRANSLATE Lägg till en ny aktivitet"
+  "add_action_child_headline": "PLZ_TRANSLATE Lägg till en ny aktivitet",
+  "amount_reached": "Antal uppnådda: %1$d",
+  "average_sum": "Snittsumma: %1$d",
+  "highest_reached": "Högst uppnådda: %1$d",
+  "goals_pie_rank_among": "Ranking för %1$d åringar: Topp %2$d (%3$d)"
 }

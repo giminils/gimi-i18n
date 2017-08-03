@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Les puissances bancaires sont actives",
   "premium_free_active_desc": "PLZ_TRANSLATE Votre compte bancaire est en ligne et vous testez maintenant!",
   "choose_country": "PLZ_TRANSLATE Choisissez un pays",
-  "add_action_child_headline": "PLZ_TRANSLATE Ajouter une nouvelle activité"
+  "add_action_child_headline": "PLZ_TRANSLATE Ajouter une nouvelle activité",
+  "amount_reached": "PLZ_TRANSLATE Objectifs atteints: %1$d",
+  "average_sum": "PLZ_TRANSLATE Somme moyenne: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Valeur d&#39;objectif la plus élevée: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Classement pour %1$d an old: Top %2$d ( %3$d )"
 }

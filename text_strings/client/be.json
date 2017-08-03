@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Банк Пауэрс актыўныя",
   "premium_free_active_desc": "PLZ_TRANSLATE Ваш банкаўскі рахунак у Інтэрнэце, і вы цяпер тэстуе прэмію!",
   "choose_country": "PLZ_TRANSLATE абярыце краіну",
-  "add_action_child_headline": "PLZ_TRANSLATE Дадаць новую дзейнасць"
+  "add_action_child_headline": "PLZ_TRANSLATE Дадаць новую дзейнасць",
+  "amount_reached": "PLZ_TRANSLATE Дасягнутыя мэты: %1$d",
+  "average_sum": "PLZ_TRANSLATE Сярэдняя сума: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Самая высокая кошт дасягнута мэта: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Рэйтынг за %1$d - летніх: Top %2$d ( %3$d )"
 }

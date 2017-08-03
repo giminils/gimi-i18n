@@ -1510,5 +1510,9 @@
   "premium_free_active_headline": "PLZ_TRANSLATE Bankmachten zijn actief",
   "premium_free_active_desc": "PLZ_TRANSLATE Je bankrekening is online en je test nu premium!",
   "choose_country": "PLZ_TRANSLATE Kies land",
-  "add_action_child_headline": "PLZ_TRANSLATE Voeg een nieuwe activiteit toe"
+  "add_action_child_headline": "PLZ_TRANSLATE Voeg een nieuwe activiteit toe",
+  "amount_reached": "PLZ_TRANSLATE Bereikte doelen: %1$d",
+  "average_sum": "PLZ_TRANSLATE Gemiddelde som: %1$d",
+  "highest_reached": "PLZ_TRANSLATE Hoogst bereikte doelwaarde: %1$d",
+  "goals_pie_rank_among": "PLZ_TRANSLATE Rangschikking voor %1$d jarigen: Top %2$d ( %3$d )"
 }
