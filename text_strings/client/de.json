@@ -1515,5 +1515,6 @@
   "average_sum": "PLZ_TRANSLATE Durchschnittliche Summe: %1$d",
   "highest_reached": "PLZ_TRANSLATE Höchster erreichter Zielwert: %1$d",
   "goals_pie_rank_among": "PLZ_TRANSLATE Rangliste für %1$d Jahr alt: Top %2$d ( %3$d )",
-  "remind": "PLZ_TRANSLATE Erinnern"
+  "remind": "PLZ_TRANSLATE Erinnern",
+  "stop_timer_task": "PLZ_TRANSLATE Halt"
 }
