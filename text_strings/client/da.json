@@ -1514,5 +1514,6 @@
   "amount_reached": "PLZ_TRANSLATE Opnåede mål: %1$d",
   "average_sum": "PLZ_TRANSLATE Gennemsnitlig sum: %1$d",
   "highest_reached": "PLZ_TRANSLATE Højeste opnåede målværdi: %1$d",
-  "goals_pie_rank_among": "PLZ_TRANSLATE Ranking for %1$d årige: Top %2$d ( %3$d )"
+  "goals_pie_rank_among": "PLZ_TRANSLATE Ranking for %1$d årige: Top %2$d ( %3$d )",
+  "remind": "PLZ_TRANSLATE Minde om"
 }

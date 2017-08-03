@@ -1514,5 +1514,6 @@
   "amount_reached": "PLZ_TRANSLATE Náði markmiðum: %1$d",
   "average_sum": "PLZ_TRANSLATE Meðaltal: %1$d",
   "highest_reached": "PLZ_TRANSLATE Hæsta náð markmið gildi: %1$d",
-  "goals_pie_rank_among": "PLZ_TRANSLATE Ranking fyrir %1$d ára: Top %2$d ( %3$d )"
+  "goals_pie_rank_among": "PLZ_TRANSLATE Ranking fyrir %1$d ára: Top %2$d ( %3$d )",
+  "remind": "PLZ_TRANSLATE Minna á"
 }

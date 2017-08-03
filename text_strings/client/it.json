@@ -1514,5 +1514,6 @@
   "amount_reached": "PLZ_TRANSLATE Gol raggiunti: %1$d",
   "average_sum": "PLZ_TRANSLATE Somma media: %1$d",
   "highest_reached": "PLZ_TRANSLATE Valore più alto raggiunto: %1$d",
-  "goals_pie_rank_among": "PLZ_TRANSLATE Classificazione per gli utenti di anni %1$d : Top %2$d ( %3$d )"
+  "goals_pie_rank_among": "PLZ_TRANSLATE Classificazione per gli utenti di anni %1$d : Top %2$d ( %3$d )",
+  "remind": "PLZ_TRANSLATE Ricordare"
 }

@@ -1514,5 +1514,6 @@
   "amount_reached": "PLZ_TRANSLATE Дасягнутыя мэты: %1$d",
   "average_sum": "PLZ_TRANSLATE Сярэдняя сума: %1$d",
   "highest_reached": "PLZ_TRANSLATE Самая высокая кошт дасягнута мэта: %1$d",
-  "goals_pie_rank_among": "PLZ_TRANSLATE Рэйтынг за %1$d - летніх: Top %2$d ( %3$d )"
+  "goals_pie_rank_among": "PLZ_TRANSLATE Рэйтынг за %1$d - летніх: Top %2$d ( %3$d )",
+  "remind": "PLZ_TRANSLATE нагадваць"
 }

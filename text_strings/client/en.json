@@ -1514,5 +1514,6 @@
   "amount_reached": "Achieved goals: %1$d",
   "average_sum": "Average sum: %1$d",
   "highest_reached": "Highest achieved goal value: %1$d",
-  "goals_pie_rank_among": "Ranking for %1$d year olds: Top %2$d (%3$d)"
+  "goals_pie_rank_among": "Ranking for %1$d year olds: Top %2$d (%3$d)",
+  "remind": "Remind"
 }
