@@ -1516,5 +1516,6 @@
   "highest_reached": "PLZ_TRANSLATE Valeur d&#39;objectif la plus élevée: %1$d",
   "goals_pie_rank_among": "PLZ_TRANSLATE Classement pour %1$d an old: Top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Rappeler",
-  "stop_timer_task": "PLZ_TRANSLATE Arrêtez"
+  "stop_timer_task": "PLZ_TRANSLATE Arrêtez",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Activer la nouvelle conception interactive"
 }

@@ -1527,5 +1527,6 @@
   "highest_reached": "Högst uppnådda: %1$d",
   "goals_pie_rank_among": "Ranking för %1$d åringar: Topp %2$d (%3$d)",
   "remind": "påminn",
-  "stop_timer_task": "Stoppa"
+  "stop_timer_task": "Stoppa",
+  "disable_interactable_task_setting": "Aktivera ny interaktiv design"
 }

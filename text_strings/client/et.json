@@ -1516,5 +1516,6 @@
   "highest_reached": "PLZ_TRANSLATE Kõrgeim saavutatud eesmärgi väärtus: %1$d",
   "goals_pie_rank_among": "PLZ_TRANSLATE %1$d vanuserühma järjestamine: top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Meenutagem",
-  "stop_timer_task": "PLZ_TRANSLATE Peatus"
+  "stop_timer_task": "PLZ_TRANSLATE Peatus",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Luba uus interaktiivne disain"
 }

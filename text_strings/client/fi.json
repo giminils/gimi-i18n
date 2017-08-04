@@ -1516,5 +1516,6 @@
   "highest_reached": "PLZ_TRANSLATE Suurin saavutettu tavoitearvo: %1$d",
   "goals_pie_rank_among": "PLZ_TRANSLATE Ranking %1$d -vuotiaille: Ylös %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Muistuttaa",
-  "stop_timer_task": "PLZ_TRANSLATE Stop"
+  "stop_timer_task": "PLZ_TRANSLATE Stop",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Ota käyttöön uusi interaktiivinen muotoilu"
 }

@@ -1516,5 +1516,6 @@
   "highest_reached": "PLZ_TRANSLATE Hoogst bereikte doelwaarde: %1$d",
   "goals_pie_rank_among": "PLZ_TRANSLATE Rangschikking voor %1$d jarigen: Top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Herinneren",
-  "stop_timer_task": "PLZ_TRANSLATE Hou op"
+  "stop_timer_task": "PLZ_TRANSLATE Hou op",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Nieuw interactiebaar ontwerp inschakelen"
 }

@@ -1516,5 +1516,6 @@
   "highest_reached": "Höchster erreichter Zielwert: %1$d",
   "goals_pie_rank_among": "Rangliste für %1$d Jahr alt: Top %2$d ( %3$d )",
   "remind": "Erinnern",
-  "stop_timer_task": "Halt"
+  "stop_timer_task": "Halt",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Neues interaktierbares Design aktivieren"
 }

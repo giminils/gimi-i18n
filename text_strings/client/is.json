@@ -1516,5 +1516,6 @@
   "highest_reached": "PLZ_TRANSLATE Hæsta náð markmið gildi: %1$d",
   "goals_pie_rank_among": "PLZ_TRANSLATE Ranking fyrir %1$d ára: Top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Minna á",
-  "stop_timer_task": "PLZ_TRANSLATE Hættu"
+  "stop_timer_task": "PLZ_TRANSLATE Hættu",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Virkja nýja gagnvirka hönnun"
 }

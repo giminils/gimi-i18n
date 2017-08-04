@@ -1516,5 +1516,6 @@
   "highest_reached": "Højeste opnåede målscoring: %1$d",
   "goals_pie_rank_among": "Rangliste for %1$d årige: Top %2$d ( %3$d )",
   "remind": "Minde om",
-  "stop_timer_task": "Hold op"
+  "stop_timer_task": "Hold op",
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Aktivér nyt interaktivt design"
 }
