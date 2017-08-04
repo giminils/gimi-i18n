@@ -83,8 +83,8 @@
   "dashboard_assignment_approved": "Opgaven {assignment.task.title} blev godkendt. ({assignment.str_value})",
   "push_task_enabled": "Nu kan du udføre opgaven {task}!",
   "push_disabled_task_created": "{child} har foreslået opgave {task}!",
-  "push_weekly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} af ugentlige godtgørelser blev overført til {transaction.child.name} s bankkonto.",
-  "push_monthly_payout_message_parent": "PLZ_TRANSLATE {transaction.str_value} af det månedlige tillæg blev overført til {transaction.child.name} s bankkonto.",
+  "push_weekly_payout_message_parent": "{transaction.str_value} af ugentlige ydelse blev overført til {transaction.child.name} s bankkonto.",
+  "push_monthly_payout_message_parent": "{transaction.str_value} af det månedlige ydelse blev overført til {transaction.child.name} s bankkonto.",
   "push_charge_message_parent": "I øjeblikket overføres {amount} til {child} bankkonto i morgen.",
   "dashboard_disabled_task_created": "Foreslået opgave {task}.",
   "push_trustly_mandate_revoked": "Din bankkonto er nu deaktiveret, opdater dine oplysninger for at bruge bankoverførsler.",
@@ -157,7 +157,7 @@
   "event_assignment_reminder": "{parent.name} lige sendt dig en påmindelse til {assignment.task.title}",
   "push_assignment_reminder": "{parent.name} lige sendt dig en påmindelse til {assignment.task.title}",
   "push_new_app_version": "En ny opdatering kommer i appbutikken!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} er overført til {transaction.child.name} s bankkonto",
-  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Overførslen af {transaction.str_value} til {transaction.child.name} s bankkonto ugentlige tillæg var mislykket",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overførsel af {transaction.str_value} til din bankkonto mislykkedes."
+  "push_manual_trustly_withdrawal": "{transaction.str_value} er overført til {transaction.child.name} s bankkonto",
+  "push_manual_trustly_withdrawal_failed_parent": "Overførslen af {transaction.str_value} til {transaction.child.name} s bankkonto ugentlige ydelse var mislykket",
+  "push_manual_trustly_withdrawal_failed_child": "Overførsel af {transaction.str_value} til din bankkonto mislykkedes."
 }
