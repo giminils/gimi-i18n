@@ -23,5 +23,6 @@
   "minimumGoalAmount": 10,
   "maximumGoalAmount": 99999,
   "minimumTaskAmount": 1,
-  "maximumTaskAmount": 9999
+  "maximumTaskAmount": 9999,
+  "minSavingsAccountBalance": 1300000
 }

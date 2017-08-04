@@ -20,5 +20,6 @@
   "minimumSavingsBonusAmountCents": 1,
   "minimumTransactionAmount": 4,
   "maximumSavingsBonusAmount": 10000,
-  "minimumGoalAmount": 1
+  "minimumGoalAmount": 1,
+  "minSavingsAccountBalance": 200000
 }
