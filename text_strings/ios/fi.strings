@@ -1,32 +1,32 @@
 /* Widget left button */
-"widget_add_payment" = "Add payment";
+"widget_add_payment" = "Lisää maksu";
 
 /* Widget allowance row with monthly allowance */
-"monthly_allowance_days" = "Monthly allowance in %d days";
+"monthly_allowance_days" = "Kuukausirahaan %d päivää";
 
 /* Widget right button for child */
-"widget_new_goal" = "New goal";
+"widget_new_goal" = "Uusi tavoite";
 
 /* Widget right button for parent */
-"widget_new_task" = "New task";
+"widget_new_task" = "Uusi askare";
 
 /* Widget allowance row with weekly allowance */
-"weekly_allowance_days" = "Weekly allowance in %d days";
+"weekly_allowance_days" = "Viikkorahaan %d päivää";
 
 /* Watch saldo label */
 "saldo_with_number" = "Saldo: %@";
 
 /* Watch: loading*/
-"loading" = "Loading...";
+"loading" = "Ladataan...";
 
 /* Watch: loading from server */
-"loading_from_server" = "Loading over network...";
+"loading_from_server" = "Ladataan verkon kautta...";
 
 /* Watch: log in to phone */
-"login_to_phone" = "Log in on your phone";
+"login_to_phone" = "Kirjaudu sisään puhelimeesi";
 
 /* Watch: done loading */
-"done" = "Done loading";
+"done" = "Lataus valmis";
 
 /* Watch: retry button */
-"retry" = "Retry";
+"retry" = "Yritä uudelleen";
