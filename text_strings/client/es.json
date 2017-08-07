@@ -1507,7 +1507,7 @@
   "fingerprint_error_message": "No hay sensor fingerPrint o no hay permisos.",
   "parent_transaction_list_no_items": "No hay transacciones.",
   "notifications": "Avisos",
-  "premium_free_active_headline": "Los poderes del banco están activos",
+  "premium_free_active_headline": "PLZ_CHECK Los poderes del banco están activos [you are testing Premium]",
   "premium_free_active_desc": "Su cuenta bancaria está en línea y ahora está probando Premium!",
   "choose_country": "Elige un país",
   "add_action_child_headline": "Añadir una nueva actividad",
