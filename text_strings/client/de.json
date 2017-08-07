@@ -1410,7 +1410,7 @@
   "share_app_popover_text": "Ich habe eine App, die es meinen Eltern erlaubt, mir meine wöchentliches / monatliches Taschengeld zu geben, wie sie es versprochen haben.",
   "share_app_popover_shared_text": "Ich habe eine App, die es meinen Eltern erlaubt, mir wirklich meine wöchentliches / monatliches Taschengeld zu geben, wie sie versprochen haben. Bekommst Du Dein wöchentliches / monatliches Taschengeld?\nLade die App aus dem AppStore oder Google Play",
   "goal_map_pie_amount": "Von %1$d",
-  "goal_map_pie_starting_amount": "PLZ_CHECK Startkapital [@Rickard, this is exact same in swedish, is this correct] [Lea here, looks correct]",
+  "goal_map_pie_starting_amount": "Startkapital",
   "child_task_share_popover_title": "Teile Deine Aufgabe!",
   "child_task_share_popover_text": "Gute Arbeit! Teile Deine Aufgabe",
   "goal_pie_chart_start_child": "Du hast mit %1$d in deinem Sparschwein begonnen, als du begonnen hast für %2$d zu sparen.",
