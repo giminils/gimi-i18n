@@ -18,8 +18,8 @@
   "push_account_select_started": "Pankkitilin rekisteröinti on käynnissä",
   "push_parent_account_selected": "Pankkitili on aktivoitu",
   "push_child_account_selected": "{child.name}n pankkitili on nyt aktivoitu",
-  "push_weekly_trustly_payout_failed_parent": "Överföringen av {transaction.parent.name}s veckopeng misslyckades",
-  "push_monthly_trustly_payout_failed_parent": "PLZ_TRANSLATE {transaction.parent.name} : n kuukausittaisen korvauksen siirto epäonnistui",
+  "push_weekly_trustly_payout_failed_parent": "{transaction.parent.name}n viikkorahan siirto epäonnistui",
+  "push_monthly_trustly_payout_failed_parent": "{transaction.parent.name}n kuukausirahan siirto epäonnistui",
   "push_weekly_trustly_payout_trustly_failed_child": "Överföringen av din veckopeng misslyckades",
   "push_monthly_trustly_payout_trustly_failed_child": "Överföringen av din månadspeng misslyckades",
   "push_changed_to_weekly_allowance": "{name} on siirtynyt viikkorahaan.",
@@ -154,10 +154,10 @@
   "event_wish_updated": "{wish.updated_by.name} on päivittänyt toivomuksensa: {wish.title}",
   "event_wish_deleted": "{user.name} on poistanut toiveen: {wish.title}",
   "event_birthday": "Tänään on {child.name}n syntymäpäivä!",
-  "event_assignment_reminder": "{parent.name} on juuri lähettänyt sinulle muistutuksen {assignment.task.title}",
-  "push_assignment_reminder": "{parent.name} on juuri lähettänyt sinulle muistutuksen {assignment.task.title}",
+  "event_assignment_reminder": "{parent.name} on juuri lähettänyt sinulle muistutuksen askareesta {assignment.task.title}",
+  "push_assignment_reminder": "{parent.name} on juuri lähettänyt sinulle muistutuksen askareesta {assignment.task.title}",
   "push_new_app_version": "Sovellukseen on tullut uusi päivitys!",
-  "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} on siirretty {transaction.child.name} pankkitilille",
-  "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE {transaction.str_value} siirto {transaction.child.name} pankkitilille viikoittainen korvaus ei onnistunut",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE {transaction.str_value} siirto pankkitilillesi epäonnistui."
+  "push_manual_trustly_withdrawal": "{transaction.str_value} on siirretty {transaction.child.name}n pankkitilille",
+  "push_manual_trustly_withdrawal_failed_parent": "{transaction.str_value} viikko-/kuukausirahan siirto {transaction.child.name}n pankkitilille ei onnistunut",
+  "push_manual_trustly_withdrawal_failed_child": "{transaction.str_value} siirto pankkitilillesi epäonnistui."
 }
