@@ -1507,7 +1507,7 @@
   "fingerprint_error_message": "Es gibt keinen Fingerabdruckssensor oder es gibt keine Berechtigungen.",
   "parent_transaction_list_no_items": "Es gibt keine Transaktionen.",
   "notifications": "Hinweise",
-  "premium_free_active_headline": "PLZ_CHECK Bankkonten sind aktiv[You are testing premium]",
+  "premium_free_active_headline": "PLZ_CHECK Bankkonten sind aktiv [You are testing premium]",
   "premium_free_active_desc": "Dein Bankkonto ist online und Du testest jetzt Prämium!",
   "choose_country": "Land auswählen",
   "add_action_child_headline": "Neue Aktivität hinzufügen",
