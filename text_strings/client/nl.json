@@ -1517,5 +1517,7 @@
   "goals_pie_rank_among": "PLZ_TRANSLATE Rangschikking voor %1$d jarigen: Top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Herinneren",
   "stop_timer_task": "PLZ_TRANSLATE Hou op",
-  "disable_interactable_task_setting": "PLZ_TRANSLATE Nieuw interactiebaar ontwerp inschakelen"
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Nieuw interactiebaar ontwerp inschakelen",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d heeft de boost verloren",
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d heeft geld van de spaarpot gebruikt. Dit betekent dat %1$d de versterking van de vorige mijlpalen heeft verloren"
 }

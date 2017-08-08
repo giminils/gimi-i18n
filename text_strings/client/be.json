@@ -1517,5 +1517,7 @@
   "goals_pie_rank_among": "PLZ_TRANSLATE Рэйтынг за %1$d - летніх: Top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE нагадваць",
   "stop_timer_task": "PLZ_TRANSLATE спыніць",
-  "disable_interactable_task_setting": "PLZ_TRANSLATE Ўключыць новы interactable дызайн"
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Ўключыць новы interactable дызайн",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d страціў імпульс",
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d выкарыстаў грошы з скарбонкі. Гэта азначае , што %1$d страціў падтрымку ад папярэдніх этапаў"
 }

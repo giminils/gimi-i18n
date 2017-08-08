@@ -1517,5 +1517,7 @@
   "goals_pie_rank_among": "PLZ_TRANSLATE Rangering for %1$d åringer: Topp %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Minne om",
   "stop_timer_task": "PLZ_TRANSLATE Stoppe",
-  "disable_interactable_task_setting": "PLZ_TRANSLATE Aktiver ny interaktiv design"
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Aktiver ny interaktiv design",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d har mistet boost",
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d har brukt penger fra spargrisen. Dette betyr at %1$d har mistet boost fra tidligere milepæler"
 }

@@ -1517,5 +1517,7 @@
   "goals_pie_rank_among": "Classement pour %1$d an old: Top %2$d ( %3$d )",
   "remind": "Rappeler",
   "stop_timer_task": "Arrêter",
-  "disable_interactable_task_setting": "Activer le nouveau design interactif"
+  "disable_interactable_task_setting": "Activer le nouveau design interactif",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d a perdu de l&#39; %1$d",
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d a utilisé de l&#39;argent de la tirelire. Cela signifie que %1$d a perdu de l&#39;importance des jalons précédents"
 }

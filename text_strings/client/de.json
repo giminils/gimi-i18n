@@ -1517,5 +1517,7 @@
   "goals_pie_rank_among": "Rangliste für %1$d Jahr alt: Top %2$d ( %3$d )",
   "remind": "Erinnern",
   "stop_timer_task": "Halt",
-  "disable_interactable_task_setting": "PLZ_TRANSLATE Neues interaktierbares Design aktivieren"
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Neues interaktierbares Design aktivieren",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d hat den Auftrieb verloren",
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d hat Geld aus dem Sparschwein verwendet. Dies bedeutet, dass %1$d den Anstieg von früheren Meilensteinen verloren hat"
 }

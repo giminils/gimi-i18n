@@ -1517,5 +1517,7 @@
   "goals_pie_rank_among": "PLZ_TRANSLATE Ranking fyrir %1$d ára: Top %2$d ( %3$d )",
   "remind": "PLZ_TRANSLATE Minna á",
   "stop_timer_task": "PLZ_TRANSLATE Hættu",
-  "disable_interactable_task_setting": "PLZ_TRANSLATE Virkja nýja gagnvirka hönnun"
+  "disable_interactable_task_setting": "PLZ_TRANSLATE Virkja nýja gagnvirka hönnun",
+  "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d hefur misst uppörvun",
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d hefur notað peninga frá sparisjóðnum. Þetta þýðir að %1$d hefur misst aukningu frá fyrri áfangum"
 }
