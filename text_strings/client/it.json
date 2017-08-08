@@ -1448,7 +1448,7 @@
   "goal_help_view_add_parent_help_desc": "Fornisci del sostegno sin dall'inizio e una parte da ritirare dall’obiettivo una volta raggiunto",
   "goal_help_view_add_boost_help_desc": "Durante il suo viaggio, dai una mano al tuo bambino dandogli una somma di denaro una volta raggiunta una delle nove tappe",
   "goal_map_pie_piggy_bank_desc_child": "Hai iniziato con un capitale di %1$d. Hai risparmiato %2$d dalla creazione dell’obiettivo di risparmio. Durante il tuo viaggio, hai ricevuto un aumento di %3$d.",
-  "goal_map_pie_piggy_bank_desc_parent": "%1$d ha iniziato con un capitale di %2$d e fino ad ora ha risparmiato %3$d dalla creazione dell’obiettivo di risparmio. Durante il suo viaggio, %1$d ha ricevuto un aumento di %4$d.",
+  "goal_map_pie_piggy_bank_desc_parent": "%1$d ha iniziato con un capitale di %2$d e fino ad ora ha risparmiato %3$d dalla creazione dell’obiettivo di risparmio. %1$d il suo viaggio, %1$d ha ricevuto un aumento di %4$d.",
   "push_notification_deep_link": " Non sarebbe ora di consegnare dei compiti ai tuoi figli? Clicca qui per aggiungere un compito",
   "push_notification_new_goal_deeplink": "Non sarebbe ora di cominciare a risparmiare? Clicca qui per aggiungere un obiettivo di risparmio",
   "push_notification_open_website_deeplink": "Nuovo post sul blog su come votro figlio può imparare il valore del denaro",
