@@ -1519,5 +1519,6 @@
   "stop_timer_task": "PLZ_TRANSLATE Detener",
   "disable_interactable_task_setting": "PLZ_TRANSLATE Habilitar un nuevo diseño interactable",
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d ha perdido impulso",
-  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d ha usado dinero de la alcancía. Esto significa que %1$d ha perdido impulso de hitos anteriores"
+  "lost_boost_popover_text_for_parent": "PLZ_TRANSLATE %1$d ha usado dinero de la alcancía. Esto significa que %1$d ha perdido impulso de hitos anteriores",
+  "too_big_withdraw": "PLZ_TRANSLATE El gasto es demasiado grande y su cuenta estaría por debajo del mínimo"
 }
