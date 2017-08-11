@@ -159,5 +159,6 @@
   "push_new_app_version": "Sovellukseen on tullut uusi päivitys!",
   "push_manual_trustly_withdrawal": "{transaction.str_value} on siirretty {transaction.child.name}n pankkitilille",
   "push_manual_trustly_withdrawal_failed_parent": "{transaction.str_value} viikko-/kuukausirahan siirto {transaction.child.name}n pankkitilille ei onnistunut",
-  "push_manual_trustly_withdrawal_failed_child": "{transaction.str_value} siirto pankkitilillesi epäonnistui."
+  "push_manual_trustly_withdrawal_failed_child": "{transaction.str_value} siirto pankkitilillesi epäonnistui.",
+  "push_event_message_created": "{user.name}: \"{text}\""
 }

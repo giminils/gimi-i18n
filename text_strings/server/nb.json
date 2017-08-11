@@ -159,5 +159,6 @@
   "push_new_app_version": "PLZ_TRANSLATE En ny oppdatering kommer i appbutikken!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} er overført til {transaction.child.name} sin bankkonto",
   "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Overføringen av {transaction.str_value} til {transaction.child.name} s bankkonto ukentlig godtgjørelse mislyktes",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overføring av {transaction.str_value} til bankkontoen din mislyktes."
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Overføring av {transaction.str_value} til bankkontoen din mislyktes.",
+  "push_event_message_created": "{user.name}: \"{text}\""
 }

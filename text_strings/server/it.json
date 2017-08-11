@@ -159,5 +159,6 @@
   "push_new_app_version": "PLZ_TRANSLATE Un nuovo aggiornamento sta arrivando nell'archivio di app!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} è stato trasferito al conto bancario di {transaction.child.name}",
   "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Il trasferimento di {transaction.str_value} a un&#39;indennità settimanale del conto bancario {transaction.child.name} non è riuscito",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Il trasferimento di {transaction.str_value} sul tuo conto bancario non è riuscito."
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Il trasferimento di {transaction.str_value} sul tuo conto bancario non è riuscito.",
+  "push_event_message_created": "{user.name}: \"{text}\""
 }

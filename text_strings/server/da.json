@@ -159,5 +159,6 @@
   "push_new_app_version": "En ny opdatering kommer i appbutikken!",
   "push_manual_trustly_withdrawal": "{transaction.str_value} er overført til {transaction.child.name} s bankkonto",
   "push_manual_trustly_withdrawal_failed_parent": "Overførslen af {transaction.str_value} til {transaction.child.name} s bankkonto ugentlige ydelse var mislykket",
-  "push_manual_trustly_withdrawal_failed_child": "Overførsel af {transaction.str_value} til din bankkonto mislykkedes."
+  "push_manual_trustly_withdrawal_failed_child": "Overførsel af {transaction.str_value} til din bankkonto mislykkedes.",
+  "push_event_message_created": "{user.name}: \"{text}\""
 }

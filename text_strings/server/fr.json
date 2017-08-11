@@ -159,5 +159,6 @@
   "push_new_app_version": "Une nouvelle mise à jour est en train d'arriver dans le App Store!!",
   "push_manual_trustly_withdrawal": "PLZ_TRANSLATE {transaction.str_value} a été transférée au compte bancaire {transaction.child.name}",
   "push_manual_trustly_withdrawal_failed_parent": "PLZ_TRANSLATE Le transfert de {transaction.str_value} à {transaction.child.name} l&#39;allocation hebdomadaire du compte bancaire n&#39;a pas abouti",
-  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Le transfert de {transaction.str_value} sur votre compte bancaire a échoué."
+  "push_manual_trustly_withdrawal_failed_child": "PLZ_TRANSLATE Le transfert de {transaction.str_value} sur votre compte bancaire a échoué.",
+  "push_event_message_created": "{user.name}: \"{text}\""
 }
