@@ -402,5 +402,6 @@
   "contacts",
   "microphone",
   "boost_pie_desc_parent",
-  "initial_capital_pie_desc_parent"
+  "initial_capital_pie_desc_parent",
+  "push_event_message_created"
 ]
