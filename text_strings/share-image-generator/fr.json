@@ -1,10 +1,10 @@
 {
-  "header_goal": "PLZ_TRANSLATE OBJECTIFS D'ÉCONOMIE",
-  "header_goal_amount": "PLZ_TRANSLATE MONTANT",
-  "header_goal_duration": "PLZ_TRANSLATE SAUVE",
-  "goal_duration": "{days} days",
-  "header_assignment_completed_at": "PLZ_TRANSLATE Terminé le",
-  "header_assignment_task_title": "PLZ_TRANSLATE TÂCHE",
-  "header_assignment_completed_by": "PLZ_TRANSLATE TERMINÉ PAR",
-  "header_assignment_approved_by": "PLZ_TRANSLATE APPROUVÉ PAR"
+  "header_goal": "OBJECTIFS D'ÉPARGNE",
+  "header_goal_amount": "MONTANT",
+  "header_goal_duration": "ÉPARGNÉ",
+  "goal_duration": "{days} jours",
+  "header_assignment_completed_at": "Complétée le",
+  "header_assignment_task_title": "TÂCHE",
+  "header_assignment_completed_by": "COMPLÉTÉ PAR",
+  "header_assignment_approved_by": "APPROUVÉ PAR"
 }
