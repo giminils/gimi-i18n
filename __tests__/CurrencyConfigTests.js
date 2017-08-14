@@ -26,7 +26,7 @@ var supportedCurrencies = ['SEK', 'USD', 'AUD', 'CAD', 'GBP', 'INR', 'EUR', 'NZD
 describe('Config', () => {
   configs.forEach(file => {
     file = file.split('config_')[1]
-    if (file.indexOf('.json') !== -1) {
+    if (file && file.indexOf('.json') !== -1) {
       file = file.split('.json')[0]
       allConfigs.push(file)
     }
