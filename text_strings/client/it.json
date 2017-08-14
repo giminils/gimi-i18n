@@ -1515,7 +1515,7 @@
   "average_sum": "Somma media: %1$d",
   "highest_reached": " Valore più alto raggiunto: %1$d",
   "goals_pie_rank_among": "Classificazione per gli utenti di anni %1$d : Top %2$d ( %3$d )",
-  "remind": "PLZ_CHECKRicorda",
+  "remind": "PLZ_CHECK Ricorda",
   "stop_timer_task": "Stop",
   "disable_interactable_task_setting": "Attiva il nuovo design interattivo",
   "lost_boost_popover_title_for_parent": "PLZ_TRANSLATE %1$d ha perso la spinta",
