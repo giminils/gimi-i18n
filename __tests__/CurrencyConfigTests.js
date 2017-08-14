@@ -54,7 +54,7 @@ describe('Config', () => {
     })
   })
 
-  xit('all supported config should match config files', () => {
+  xit('supported files should match the config files', () => {
     expect(allConfigs).toEqual(supportedCurrencies)
   })
 })
