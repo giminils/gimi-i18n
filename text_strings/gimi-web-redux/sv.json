@@ -225,5 +225,9 @@
   "help.answer.3": "1. Ladda ner appen {br}2. Välj “Gå med” {br}3. Följ instruktionerna",
   "help.question.4": "Jag kan inte logga in, vad gör jag?",
   "help.answer.4": "Att du inte kan logga in kan bero på flera saker. Börja med att dubbelkolla att du angivit rätt telefonnummer eller mejladress. Ibland kommer inte koden på en gång, vänta lite. Du kan alltid kontakta oss via vår chatt på hemsidan eller i appen (öppen vardagar 9-17) eller skicka ett mejl till hello@gimitheapp.com",
-  "about.gimi.card": "Om Gimi-kortet"
+  "about.gimi.card": "Om Gimi-kortet",
+  "gimi.premium.short": "Gimi Premium in short",
+  "gimi.premium.description": "When your child is ready to handle real money, you can upgrade the Cloud to an actual savings account and a prepaid card. You still manage everything in the Gimi app, but at the end of the month, you can transfer real money to an actual account, and your child will be able to spend them with their card. The great thing about this is that you are still in control and you get full insight into all the activity in the Gimi app.",
+  "gimi.savings.account": "The savings account",
+  "gimi.savings.account.description": "When you get Gimi Premium, your child is upgraded to real money, so there’s no more need for the Cloud. We leave it there as long as the child still has some money saved in there, but you will no longer be able to deposit money to the Cloud - everything goes into the savings account."
 }
