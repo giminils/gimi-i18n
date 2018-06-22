@@ -283,12 +283,12 @@
   "event_you_have_got_a_new_chore_child": "Du har en ny uppgift",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} har {x} nya uppgifter",
   "event_you_have_got_x_new_chores_child": "Du har {x} nya uppgifter",
-  "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} har fått en ränta i Sparat på {child.total_interest_rate}%",
-  "event_you_have_got_an_interest_rate_of_x_child": "Du har fått en ränta i Sparat på {child.total_interest_rate}%",
+  "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} har fått en ränta på {child.total_interest_rate}%",
+  "event_you_have_got_an_interest_rate_of_x_child": "Du har fått en ränta på {child.total_interest_rate}%",
   "event_you_have_reached_a_dream_parent": "{goal.child.nickname} har nått sin dröm",
   "event_you_have_reached_a_dream_child": "Du har nått din dröm",
   "event_done_with_chore_parent": "{assignment.child.nickname} är klar med {assignment.task.title}",
   "event_done_with_chore_child": "Du är klar med {assignment.task.title}",
   "push_tell_that_your_back": "{user.nickname} är tillbaka i appen och vill komma igång igen",
-  "push_payday_child": "Payday! Du har fått en betalning till ditt moln!"
+  "push_payday_child": "Payday! Du har fått en betalning till ditt Moln!"
 }
