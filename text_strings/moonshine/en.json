@@ -1532,5 +1532,6 @@
   "premium_allowance_subtitle": "In Gimi premium, your child is also upgraded to a monthly allowance.",
   "kid_dream_achived": "%1$d achived a dream!",
   "kid_dream_achived_desc": "Congratulate %1$d on the achievement and keep encouraging saving!",
-  "custom_transfer_amount": "Custom amount"
+  "custom_transfer_amount": "Custom amount",
+  "general_enter_amount": "Enter amount"
 }

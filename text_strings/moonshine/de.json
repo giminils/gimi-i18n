@@ -1532,5 +1532,6 @@
   "premium_allowance_subtitle": "PLZ_TRANSLATE In Gimi premium, your child is also upgraded to a monthly allowance.",
   "kid_dream_achived": "PLZ_TRANSLATE %1$d achived a dream!",
   "kid_dream_achived_desc": "PLZ_TRANSLATE Congratulate %1$d on the achievement and keep encouraging saving!",
-  "custom_transfer_amount": "PLZ_TRANSLATE Custom amount"
+  "custom_transfer_amount": "PLZ_TRANSLATE Custom amount",
+  "general_enter_amount": "PLZ_TRANSLATE Enter amount"
 }
