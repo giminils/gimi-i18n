@@ -229,5 +229,9 @@
   "gimi.premium.short": "Gimi Premium in short",
   "gimi.premium.description": "When your child is ready to handle real money, you can upgrade the Cloud to an actual savings account and a prepaid card. You still manage everything in the Gimi app, but at the end of the month, you can transfer real money to an actual account, and your child will be able to spend them with their card. The great thing about this is that you are still in control and you get full insight into all the activity in the Gimi app.",
   "gimi.savings.account": "The savings account",
-  "gimi.savings.account.description": "When you get Gimi Premium, your child is upgraded to real money, so there’s no more need for the Cloud. We leave it there as long as the child still has some money saved in there, but you will no longer be able to deposit money to the Cloud - everything goes into the savings account."
+  "gimi.savings.account.description": "When you get Gimi Premium, your child is upgraded to real money, so there’s no more need for the Cloud. We leave it there as long as the child still has some money saved in there, but you will no longer be able to deposit money to the Cloud - everything goes into the savings account.",
+  "premium.hero.title": "Gimi Premium",
+  "premium.hero.subtitle": "When your child is ready to handle real money, get Gimi Premium.",
+  "premium.price.month": "99 SEK / month",
+  "premium.price.subtitle": "or 999 SEK / year"
 }
