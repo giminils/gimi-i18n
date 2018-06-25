@@ -1533,5 +1533,7 @@
   "kid_dream_achived": "PLZ_TRANSLATE %1$d achived a dream!",
   "kid_dream_achived_desc": "PLZ_TRANSLATE Congratulate %1$d on the achievement and keep encouraging saving!",
   "custom_transfer_amount": "PLZ_TRANSLATE Custom amount",
-  "general_enter_amount": "PLZ_TRANSLATE Enter amount"
+  "general_enter_amount": "PLZ_TRANSLATE Enter amount",
+  "kid_ready_for_premium_header": "PLZ_TRANSLATE %1$d is ready for Premium!",
+  "kid_ready_for_premium_desc": "PLZ_TRANSLATE Continue to the next step"
 }
