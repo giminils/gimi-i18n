@@ -1374,7 +1374,7 @@
   "how_interest_works_description": "Lorem Ipsum",
   "question_what_are_chores": "Vad är uppgifter?",
   "what_are_chores_description": "Lorem Ipsum",
-  "general_your_settings": "Dina inställnignar",
+  "general_your_settings": "Dina inställningar",
   "children_settings": "Barnens inställningar",
   "other_settings": "Andra inställningar",
   "card_stolen_popover_title": "Är du säker på att ditt kort är stulet?",
@@ -1533,7 +1533,5 @@
   "kid_dream_achived": "%1$d achived a dream!",
   "kid_dream_achived_desc": "Congratulate %1$d on the achievement and keep encouraging saving!",
   "custom_transfer_amount": "Custom amount",
-  "general_enter_amount": "Enter amount",
-  "kid_ready_for_premium_header": "%1$d is ready for Premium!",
-  "kid_ready_for_premium_desc": "Continue to the next step"
+  "general_enter_amount": "Enter amount"
 }
