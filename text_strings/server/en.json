@@ -294,5 +294,8 @@
   "push_received_first_money": "You have received your first money!",
   "push_suggest_chore_to_parents": "Want to earn more money? Suggest a chore to your parents!",
   "push_x_days_until_payday": "You've got {x} days until Payday! Earn more money and do some of your chores!",
-  "push_checkout_balance": "Check out your balance and see if your money are growing!"
+  "push_checkout_balance": "Check out your balance and see if your money are growing!",
+  "push_have_you_bought_something": "Have you bought something for {child.first_name} today? Add a withdrawal from the Cloud!",
+  "push_does_kid_has_cash": "Does {child.first_name} have any cash? Switch them in and make a deposit to the Cloud!",
+  "push_need_help_with_dinner": "Need help with the dinner? Add a chore for {child.first_name}"
 }

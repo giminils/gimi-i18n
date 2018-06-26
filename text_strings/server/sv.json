@@ -294,5 +294,8 @@
   "push_received_first_money": "Du har fått dina första pengar!",
   "push_suggest_chore_to_parents": "Vill du tjäna mer pengar? Föreslå en chore till dina föräldrar!",
   "push_x_days_until_payday": "Du har {x} dagar till Payday! Tjäna mer pengar och gör några av dina sysslor!",
-  "push_checkout_balance": "Kolla in din balans och se om dina pengar växer!"
+  "push_checkout_balance": "Kolla in din balans och se om dina pengar växer!",
+  "push_have_you_bought_something": "Har du köpt något för {child.first_name} idag? Lägg till ett uttag från molnet!",
+  "push_does_kid_has_cash": "Har {child.first_name} pengar? Byt dem in och gör en insättning till molnet!",
+  "push_need_help_with_dinner": "Behöver du hjälp med middagen? Lägg till en ordlista för {child.first_name}"
 }
