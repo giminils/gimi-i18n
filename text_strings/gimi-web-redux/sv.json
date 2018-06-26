@@ -244,13 +244,15 @@
   "junior.savings": "Sparkonto barn",
   "saving.jar": "Saving jar",
   "piggy.bank.kids": "Piggy bank for kids",
-  "economy.heading": "Ekonomifakta",
   "financial.edu": "Financial education",
   "money.fact": "Money fact",
-  "chores": "chores",
+  "chores": "Chores",
   "reward.chart": "Reward chart",
   "limits": "limits",
   "banks": "Banker",
   "accounts.kids": "Bankkonto barn",
-  "funds.kids": "Fonder för barn"
+  "funds.kids": "Fonder för barn",
+  "debit.card.kids": "Debit card for kids",
+  "interest.rate": "Ränta på ränta",
+  "financial.literacy": "Financial literacy"
 }
