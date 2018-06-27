@@ -1540,5 +1540,7 @@
   "pfs_savings_to_card": "Savings to card",
   "pfs_savings_insertion": "Insertion to savings",
   "pfs_savings_withdrawal": "Savings to card",
-  "pfs_allowance_payout": "Allowance payout"
+  "pfs_allowance_payout": "Allowance payout",
+  "sending_money_loading": "Sending...",
+  "sending_money_loading_desc": "Wait for it..."
 }

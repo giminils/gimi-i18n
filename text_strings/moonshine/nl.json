@@ -1540,5 +1540,7 @@
   "pfs_savings_to_card": "PLZ_TRANSLATE Savings to card",
   "pfs_savings_insertion": "PLZ_TRANSLATE Insertion to savings",
   "pfs_savings_withdrawal": "PLZ_TRANSLATE Savings to card",
-  "pfs_allowance_payout": "PLZ_TRANSLATE Allowance payout"
+  "pfs_allowance_payout": "PLZ_TRANSLATE Allowance payout",
+  "sending_money_loading": "PLZ_TRANSLATE Sending...",
+  "sending_money_loading_desc": "PLZ_TRANSLATE Wait for it..."
 }
