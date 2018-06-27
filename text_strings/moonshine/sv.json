@@ -1535,5 +1535,10 @@
   "custom_transfer_amount": "Anpassa summa",
   "general_enter_amount": "Ange summa",
   "kid_ready_for_premium_header": "%1$d är redo för Premium!",
-  "kid_ready_for_premium_desc": "Fortsätt till nästa steg"
+  "kid_ready_for_premium_desc": "Fortsätt till nästa steg",
+  "pfs_card_withdrawal": "Purchase?!?!",
+  "pfs_savings_to_card": "Savings to card",
+  "pfs_savings_insertion": "Insertion to savings",
+  "pfs_savings_withdrawal": "Savings to card",
+  "pfs_allowance_payout": "Allowance payout"
 }

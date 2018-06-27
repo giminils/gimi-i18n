@@ -1535,5 +1535,10 @@
   "custom_transfer_amount": "Custom amount",
   "general_enter_amount": "Enter amount",
   "kid_ready_for_premium_header": "%1$d is ready for Premium!",
-  "kid_ready_for_premium_desc": "Continue to the next step"
+  "kid_ready_for_premium_desc": "Continue to the next step",
+  "pfs_card_withdrawal": "Purchase?!?!",
+  "pfs_savings_to_card": "Savings to card",
+  "pfs_savings_insertion": "Insertion to savings",
+  "pfs_savings_withdrawal": "Savings to card",
+  "pfs_allowance_payout": "Allowance payout"
 }

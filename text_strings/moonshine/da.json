@@ -1531,5 +1531,14 @@
   "parent_block_card_desc": " ... og kan kun ublokeres af den samme person com blokerede det",
   "premium_allowance_subtitle": "I Gimi premium, bliver dit barn også opgraderet til månedlige lommepenge.",
   "kid_dream_achived": "%1$d opnåede en drøm!",
-  "kid_dream_achived_desc": "Ønsk %1$d tillykke med resultatet og bliv ved med at opfordre til opsparing!"
+  "kid_dream_achived_desc": "Ønsk %1$d tillykke med resultatet og bliv ved med at opfordre til opsparing!",
+  "custom_transfer_amount": "PLZ_TRANSLATE Custom amount",
+  "general_enter_amount": "PLZ_TRANSLATE Enter amount",
+  "kid_ready_for_premium_header": "PLZ_TRANSLATE %1$d is ready for Premium!",
+  "kid_ready_for_premium_desc": "PLZ_TRANSLATE Continue to the next step",
+  "pfs_card_withdrawal": "PLZ_TRANSLATE Purchase?!?!",
+  "pfs_savings_to_card": "PLZ_TRANSLATE Savings to card",
+  "pfs_savings_insertion": "PLZ_TRANSLATE Insertion to savings",
+  "pfs_savings_withdrawal": "PLZ_TRANSLATE Savings to card",
+  "pfs_allowance_payout": "PLZ_TRANSLATE Allowance payout"
 }
