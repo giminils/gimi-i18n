@@ -1542,5 +1542,13 @@
   "pfs_savings_withdrawal": "Savings to card",
   "pfs_allowance_payout": "Allowance payout",
   "sending_money_loading": "Sending...",
-  "sending_money_loading_desc": "Wait for it..."
+  "sending_money_loading_desc": "Wait for it...",
+  "category_clothing": "Clothing",
+  "category_entertainment": "Entertainment",
+  "category_transport": "Transport",
+  "category_pet": "Pet",
+  "category_school": "School",
+  "category_music": "Music",
+  "category_food_drink": "Drink",
+  "category_tv_computer_game": "Video-games"
 }

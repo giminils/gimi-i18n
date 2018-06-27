@@ -1542,5 +1542,13 @@
   "pfs_savings_withdrawal": "PLZ_TRANSLATE Savings to card",
   "pfs_allowance_payout": "PLZ_TRANSLATE Allowance payout",
   "sending_money_loading": "PLZ_TRANSLATE Sending...",
-  "sending_money_loading_desc": "PLZ_TRANSLATE Wait for it..."
+  "sending_money_loading_desc": "PLZ_TRANSLATE Wait for it...",
+  "category_clothing": "PLZ_TRANSLATE Clothing",
+  "category_entertainment": "PLZ_TRANSLATE Entertainment",
+  "category_transport": "PLZ_TRANSLATE Transport",
+  "category_pet": "PLZ_TRANSLATE Pet",
+  "category_school": "PLZ_TRANSLATE School",
+  "category_music": "PLZ_TRANSLATE Music",
+  "category_food_drink": "PLZ_TRANSLATE Drink",
+  "category_tv_computer_game": "PLZ_TRANSLATE Video-games"
 }
