@@ -1550,5 +1550,7 @@
   "category_school": "Koulu",
   "category_music": "Musiikki",
   "category_food_drink": "Juoma",
-  "category_tv_computer_game": "Videopelit"
+  "category_tv_computer_game": "Videopelit",
+  "settings_pass_code": "PLZ_TRANSLATE Add passcode",
+  "change_pass_code": "PLZ_TRANSLATE Change passcode"
 }

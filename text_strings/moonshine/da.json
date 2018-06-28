@@ -1550,5 +1550,7 @@
   "category_school": "PLZ_TRANSLATE School",
   "category_music": "PLZ_TRANSLATE Music",
   "category_food_drink": "PLZ_TRANSLATE Drink",
-  "category_tv_computer_game": "PLZ_TRANSLATE Video-games"
+  "category_tv_computer_game": "PLZ_TRANSLATE Video-games",
+  "settings_pass_code": "PLZ_TRANSLATE Add passcode",
+  "change_pass_code": "PLZ_TRANSLATE Change passcode"
 }
