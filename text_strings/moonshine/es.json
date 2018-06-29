@@ -1552,5 +1552,6 @@
   "category_food_drink": "PLZ_TRANSLATE Drink",
   "category_tv_computer_game": "PLZ_TRANSLATE Video-games",
   "settings_pass_code": "PLZ_TRANSLATE Add passcode",
-  "change_pass_code": "PLZ_TRANSLATE Change passcode"
+  "change_pass_code": "PLZ_TRANSLATE Change passcode",
+  "custom_notification_new_update_chores": "PLZ_TRANSLATE Choose days for chores"
 }
