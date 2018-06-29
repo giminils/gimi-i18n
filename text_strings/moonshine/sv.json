@@ -1340,7 +1340,7 @@
   "you_have_been_disconnected_desc": "%1$d raderade er kontakt. Pengarna som %1$d var skyldig dig har tagits bort från ditt sparande i Molnet och ni är inte längre kontakter.",
   "general_ok_got_it": "OK jag förstår",
   "month_and_year": "månad / år",
-  "get_card_info_error": "Åh nej... Vi kunde inte registrera dina kortuppgifter. Prova snart igen!",
+  "get_card_info_error": "Vi kunde inte hämta dina kortuppgifter. Försök igen om en stund!",
   "payout_summary_title": "Utbetalning",
   "card_info_timer": "Vi kan bara visa detta för...",
   "payout_summary_for_name": "Utbetalning för %1$d",
