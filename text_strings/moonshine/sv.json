@@ -1450,7 +1450,7 @@
   "error_try_again_question": "Försök igen?",
   "general_try_again": "Försök igen",
   "dots_and_its_done": "...och så var det klart!",
-  "transaction_to_reciever_success_text": "Pengarna är redan hos mottagaren.",
+  "transaction_to_reciever_success_text": "Överföringen är genomförd",
   "you_been_connect_to_kid": "Du har blivit ihopkopplad med %1$d",
   "kid_connections": "PLZ_CHECK kontakter",
   "general_recommendation": "Rekommendationer",
