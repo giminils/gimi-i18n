@@ -1553,5 +1553,6 @@
   "category_tv_computer_game": "Video-games",
   "settings_pass_code": "Add passcode",
   "change_pass_code": "Change passcode",
-  "custom_notification_new_update_chores": "Choose days for chores"
+  "custom_notification_new_update_chores": "Choose days for chores",
+  "general_new_feature": "New feature"
 }

@@ -1553,5 +1553,6 @@
   "category_tv_computer_game": "Videopelit",
   "settings_pass_code": "PLZ_TRANSLATE Add passcode",
   "change_pass_code": "PLZ_TRANSLATE Change passcode",
-  "custom_notification_new_update_chores": "PLZ_TRANSLATE Choose days for chores"
+  "custom_notification_new_update_chores": "PLZ_TRANSLATE Choose days for chores",
+  "general_new_feature": "PLZ_TRANSLATE New feature"
 }
