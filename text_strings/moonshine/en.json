@@ -1478,7 +1478,7 @@
   "recurring_chore_subtitle": "The chore is activated every...",
   "custom_notification_word_from_ceo": "Word from the CEO",
   "pin_code_doesnt_match_old_error": "PIN-code does not match the old.",
-  "choose_recurring_day_explainer": "Chores are activated weekly, every Friday. You can assign them specific days, but they will be visible all week. Want a weekly chore? Just assign it to Friday!",
+  "choose_recurring_day_explainer": "If you choose several days, a task will be created for each individual day",
   "card_pin_header": "the PIN code for your card",
   "push_notification_header": "Turn on notifications and relax...",
   "push_notification_desc": "We will remind you about the important stuff, and let you know when you’re needed.",
