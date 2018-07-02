@@ -1634,5 +1634,7 @@
   "bot_link_chores": "PLZ_TRANSLATE Chores",
   "invite_via_phone_popover_title": "PLZ_TRANSLATE Want to send invite to %1$d?",
   "invite_via_phone_popover_text": "PLZ_TRANSLATE We will send a sms with a link to Gimi.",
-  "signup_no_phone_button": "PLZ_TRANSLATE No phone number?"
+  "signup_no_phone_button": "PLZ_TRANSLATE No phone number?",
+  "signup_use_phone_button": "PLZ_TRANSLATE Use phone number",
+  "signup_with_email_title": "PLZ_TRANSLATE Just type your email!"
 }
