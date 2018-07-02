@@ -1642,5 +1642,6 @@
   "bot_says_what_to_talk_about": "What do you want to talk to me about? Tell my coworkers at Gimi and they will give me an update :)",
   "bot_says_hear_a_joke": "Want to hear a joke?",
   "bot_says_knock_knock": "Knock Knock...",
-  "bot_says_piggy": "Piggy..."
+  "bot_says_piggy": "Piggy...",
+  "signup_age_recommendation": "Gimi is best suited for ages %1$d and over."
 }
