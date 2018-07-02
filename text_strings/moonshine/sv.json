@@ -1478,7 +1478,7 @@
   "recurring_chore_subtitle": "Uppgiften är tillgänglig varje...",
   "custom_notification_word_from_ceo": "En hälsning från vår VD",
   "pin_code_doesnt_match_old_error": "Koden stämmer inte",
-  "choose_recurring_day_explainer": "Uppgifter delas ut på fredagar varje vecka. Du kan tilldela dem specifika dagar men de kommer att synas hela veckan. Vill du ha en uppgift som återkommer varje vecka? Tilldela den på fredagar!",
+  "choose_recurring_day_explainer": "Om du klickar i flera dagar så skapar du en uppgift för varje enskild dag",
   "card_pin_header": "PIN kod till kortet",
   "push_notification_header": "Slå på notiser och slappna av...",
   "push_notification_desc": "Vi kommer att påminna dig om de viktiga sakerna och säga till när du behövs.",
