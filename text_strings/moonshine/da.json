@@ -1630,5 +1630,7 @@
   "bot_says_wanna_earn_money": "PLZ_TRANSLATE Cool! Wanna earn some money today?",
   "bot_says_do_some_chores": "PLZ_TRANSLATE Do some chores!",
   "bot_link_add_pic": "PLZ_TRANSLATE Add picture",
-  "bot_link_chores": "PLZ_TRANSLATE Chores"
+  "bot_link_chores": "PLZ_TRANSLATE Chores",
+  "invite_via_phone_popover_title": "PLZ_TRANSLATE Want to send invite to %1$d?",
+  "invite_via_phone_popover_text": "PLZ_TRANSLATE We will send a sms with a link to Gimi."
 }

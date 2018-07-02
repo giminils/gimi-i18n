@@ -1630,5 +1630,7 @@
   "bot_says_wanna_earn_money": "Cool! Wanna earn some money today?",
   "bot_says_do_some_chores": "Do some chores!",
   "bot_link_add_pic": "Add picture",
-  "bot_link_chores": "Chores"
+  "bot_link_chores": "Chores",
+  "invite_via_phone_popover_title": "Want to send invite to %1$d?",
+  "invite_via_phone_popover_text": "We will send a sms with a link to Gimi."
 }
