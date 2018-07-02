@@ -1636,5 +1636,11 @@
   "invite_via_phone_popover_text": "PLZ_TRANSLATE We will send a sms with a link to Gimi.",
   "signup_no_phone_button": "PLZ_TRANSLATE No phone number?",
   "signup_use_phone_button": "PLZ_TRANSLATE Use phone number",
-  "signup_with_email_title": "PLZ_TRANSLATE Just type your email!"
+  "signup_with_email_title": "PLZ_TRANSLATE Just type your email!",
+  "bot_link_go_to_chores": "PLZ_TRANSLATE Go to chores",
+  "bot_says_100_or_10": "PLZ_TRANSLATE If you got to choose, would you rather have 100 today or 10 a month?",
+  "bot_says_what_to_talk_about": "PLZ_TRANSLATE What do you want to talk to me about? Tell my coworkers at Gimi and they will give me an update :)",
+  "bot_says_hear_a_joke": "PLZ_TRANSLATE Want to hear a joke?",
+  "bot_says_knock_knock": "PLZ_TRANSLATE Knock Knock...",
+  "bot_says_piggy": "PLZ_TRANSLATE Piggy..."
 }
