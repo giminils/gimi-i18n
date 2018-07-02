@@ -1431,7 +1431,7 @@
   "available_balance": "tillgängligt saldo",
   "permission_asked_success_title": "Klar!",
   "permission_asked_success_text": "Din förfrågan har skickats. Vi meddelar dig om hur det går!",
-  "asking_for_deposit_permission_title": "%1$d vi ha tillåtelse att skicka pengar till %2$d",
+  "asking_for_deposit_permission_title": "%1$d frågar om tillåtelse att skicka pengar till %2$d",
   "asking_for_deposit_permission_subtitle": "Tillåter du det?",
   "general_no_way": "Nej",
   "general_yes_sure": "Ja!",
