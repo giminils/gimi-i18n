@@ -1169,6 +1169,7 @@
   "new_parent_onboarding_welcome_title_3": "Risparmia e spendi",
   "new_parent_onboarding_welcome_desc_3": "I bambini possono risparmiare per un desiderio o spendere i soldi con il tuo aiuto.",
   "chore_suggested_sent": "Il suggerimento viene creato e inviato per l'approvazione",
+  "chore_suggestion_sent": "PLZ_TRANSLATE Your suggestion of %1$d has been sent to %2$d for approval.",
   "general_redo": "Pronto",
   "search_contacts": "Cerca col nome tra i tuoi contatti",
   "parent_debt_account_title": "Debito genitore",

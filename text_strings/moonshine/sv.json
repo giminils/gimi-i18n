@@ -1169,6 +1169,7 @@
   "new_parent_onboarding_welcome_title_3": "Spara och spendera",
   "new_parent_onboarding_welcome_desc_3": "Barn kan spara till en dröm eller spendera pengarna med lite hjälp från dig.",
   "chore_suggested_sent": "förslaget har skapats och skickats för godkännande",
+  "chore_suggestion_sent": "Your suggestion of %1$d has been sent to %2$d for approval.",
   "general_redo": "Redo",
   "search_contacts": "sök på namn bland dina kontakter",
   "parent_debt_account_title": "Vuxen skuld",

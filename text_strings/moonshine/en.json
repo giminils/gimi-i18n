@@ -1169,6 +1169,7 @@
   "new_parent_onboarding_welcome_title_3": "Save and spend",
   "new_parent_onboarding_welcome_desc_3": "Children can save for a dream or spend the money with some help from you.",
   "chore_suggested_sent": "The suggestion is created and sent for approval",
+  "chore_suggestion_sent": "Your suggestion of %1$d has been sent to %2$d for approval.",
   "general_redo": "Ready",
   "search_contacts": "Search by name among your contacts",
   "parent_debt_account_title": "Grown up debt",

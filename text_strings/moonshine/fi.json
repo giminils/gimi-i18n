@@ -1169,6 +1169,7 @@
   "new_parent_onboarding_welcome_title_3": "Säästä ja kuluta",
   "new_parent_onboarding_welcome_desc_3": "Lapset voivat säästää unelmaa varten tai kuluttaa rahaa sinun avullasi.",
   "chore_suggested_sent": "Ehdotus on luotu ja lähetetty hyväksymistä varten",
+  "chore_suggestion_sent": "PLZ_TRANSLATE Your suggestion of %1$d has been sent to %2$d for approval.",
   "general_redo": "Valmis",
   "search_contacts": "Hae nimellä kontakteistasi",
   "parent_debt_account_title": "Aikuisen velka",

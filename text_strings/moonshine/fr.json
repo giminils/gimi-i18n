@@ -1169,6 +1169,7 @@
   "new_parent_onboarding_welcome_title_3": "Gagner et dépenser",
   "new_parent_onboarding_welcome_desc_3": "Les enfants peuvent économiser pour un souhait, ou dépenser l'argent avec votre aide.",
   "chore_suggested_sent": "La suggestion est créée et envoyée pour autorisation",
+  "chore_suggestion_sent": "PLZ_TRANSLATE Your suggestion of %1$d has been sent to %2$d for approval.",
   "general_redo": "Prêt",
   "search_contacts": "Rechercher un nom parmi vos contacts",
   "parent_debt_account_title": "Dette d'un adulte",
