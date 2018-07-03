@@ -298,5 +298,9 @@
   "push_have_you_bought_something": "Har du köpt något för {child.nickname} idag? Lägg till ett uttag från molnet!",
   "push_does_kid_has_cash": "Har {child.nickname} pengar? Byt dem in och gör en insättning till molnet!",
   "push_need_help_with_dinner": "Behöver du hjälp med middagen? Lägg till en ordlista för {child.nickname}",
-  "event_has_card_arrived": "Har kortet kommit?"
+  "event_has_card_arrived": "Har kortet kommit?",
+  "event_pfs_card_blocked_by_parent": "Your card has been blocked",
+  "event_pfs_card_unblocked_by_parent": "Your card has been unblocked",
+  "push_pfs_card_blocked_by_parent": "Your card has been blocked by {pfs_card.updated_by.nickname}",
+  "push_pfs_card_unblocked_by_parent": "Your card has been unblocked by {pfs_card.updated_by.nickname}"
 }

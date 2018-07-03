@@ -298,5 +298,9 @@
   "push_have_you_bought_something": "Have you bought something for {child.nickname} today? Add a withdrawal from the Cloud!",
   "push_does_kid_has_cash": "Does {child.nickname} have any cash? Switch them in and make a deposit to the Cloud!",
   "push_need_help_with_dinner": "Need help with the dinner? Add a chore for {child.nickname}",
-  "event_has_card_arrived": "Has your card arrived yet?"
+  "event_has_card_arrived": "Has your card arrived yet?",
+  "event_pfs_card_blocked_by_parent": "Your card has been blocked",
+  "event_pfs_card_unblocked_by_parent": "Your card has been unblocked",
+  "push_pfs_card_blocked_by_parent": "Your card has been blocked by {pfs_card.updated_by.nickname}",
+  "push_pfs_card_unblocked_by_parent": "Your card has been unblocked by {pfs_card.updated_by.nickname}"
 }
