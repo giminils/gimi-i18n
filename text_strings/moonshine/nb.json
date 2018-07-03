@@ -1645,5 +1645,8 @@
   "bot_says_piggy": "PLZ_TRANSLATE Piggy...",
   "signup_age_recommendation": "PLZ_TRANSLATE Gimi is best suited for ages %1$d and over.",
   "how_gimi_works_help": "PLZ_TRANSLATE How Gimi Works",
-  "watch_video_notification": "PLZ_TRANSLATE Watch this!"
+  "watch_video_notification": "PLZ_TRANSLATE Watch this!",
+  "settings_allowance_frequency": "PLZ_TRANSLATE Allowance frequency",
+  "settings_allowance_amount": "PLZ_TRANSLATE Allowance amount",
+  "settings_saving_interest": "PLZ_TRANSLATE Saving interest"
 }

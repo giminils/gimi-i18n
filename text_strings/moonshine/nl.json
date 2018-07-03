@@ -1645,5 +1645,8 @@
   "bot_says_piggy": "Spaarvarken...",
   "signup_age_recommendation": "Gimi is het meest geschikt voor een leeftijd vanaf %1$d.",
   "how_gimi_works_help": "Hoe Gimi Werkt",
-  "watch_video_notification": "PLZ_TRANSLATE Watch this!"
+  "watch_video_notification": "PLZ_TRANSLATE Watch this!",
+  "settings_allowance_frequency": "PLZ_TRANSLATE Allowance frequency",
+  "settings_allowance_amount": "PLZ_TRANSLATE Allowance amount",
+  "settings_saving_interest": "PLZ_TRANSLATE Saving interest"
 }
