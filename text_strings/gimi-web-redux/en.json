@@ -287,5 +287,6 @@
   "how.to.load.card": "How to load the card",
   "how.to.load.card.descr": "Only your child linked to the card, can load money from their Gimi account to the card. This way, kids learn how to manage their savings and spending.",
   "lost.stolen.cards": "Lost or stolen cards",
-  "lost.stolen.cards.descr": "If your child loses the card or if it gets stolen, just make sure to block the card as soon as you can in the Settings section in the Gimi app. You can block the card temporarily if you want to look for it. If it’s stolen or forever lost, we will send you a new card for free."
+  "lost.stolen.cards.descr": "If your child loses the card or if it gets stolen, just make sure to block the card as soon as you can in the Settings section in the Gimi app. You can block the card temporarily if you want to look for it. If it’s stolen or forever lost, we will send you a new card for free.",
+  "related.articles": "Related articles"
 }
