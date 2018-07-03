@@ -297,5 +297,6 @@
   "push_checkout_balance": "Kolla in din balans och se om dina pengar växer!",
   "push_have_you_bought_something": "Har du köpt något för {child.nickname} idag? Lägg till ett uttag från molnet!",
   "push_does_kid_has_cash": "Har {child.nickname} pengar? Byt dem in och gör en insättning till molnet!",
-  "push_need_help_with_dinner": "Behöver du hjälp med middagen? Lägg till en ordlista för {child.nickname}"
+  "push_need_help_with_dinner": "Behöver du hjälp med middagen? Lägg till en ordlista för {child.nickname}",
+  "event_card_activation_reminder": "Har kortet kommit?"
 }
