@@ -266,8 +266,8 @@
   "event_add_email": "Lägg till din e-post",
   "push_short_tutorial": "Så funkar Gimi",
   "event_chore_name_is_changed": "Uppgiften {chore.title} har redigerats",
-  "event_welcome_back": "Welcome back! Do you want to start over?",
-  "event_tell_that_your_back": "Let your family know you're back!",
+  "event_welcome_back": "Väkommen tillbaka! Vill du börja om från början?",
+  "event_tell_that_your_back": "Låt din familj veta att du är tillbaka!",
   "event_parent_could_not_be_connected": "Föräldrar kunde inte anslutas",
   "event_you_made_a_withdrawal_parent": "Du gjorde ett uttag",
   "event_you_made_a_withdrawal_child": "{withdrawal.created_by.nickname} gjorde ett uttag",
@@ -299,8 +299,8 @@
   "push_does_kid_has_cash": "Har {child.nickname} pengar? Byt dem in och gör en insättning till molnet!",
   "push_need_help_with_dinner": "Behöver du hjälp med middagen? Lägg till en ordlista för {child.nickname}",
   "event_has_card_arrived": "Har kortet kommit?",
-  "event_pfs_card_blocked_by_parent": "Your card has been blocked",
-  "event_pfs_card_unblocked_by_parent": "Your card has been unblocked",
-  "push_pfs_card_blocked_by_parent": "Your card has been blocked by {pfs_card.updated_by.nickname}",
-  "push_pfs_card_unblocked_by_parent": "Your card has been unblocked by {pfs_card.updated_by.nickname}"
+  "event_pfs_card_blocked_by_parent": "Ditt kort har spärrats",
+  "event_pfs_card_unblocked_by_parent": "Ditt kort är aktivt igen",
+  "push_pfs_card_blocked_by_parent": "Ditt kort har spärrats av {pfs_card.updated_by.nickname}",
+  "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}"
 }
