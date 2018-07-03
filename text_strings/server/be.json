@@ -298,5 +298,5 @@
   "push_have_you_bought_something": "PLZ_TRANSLATE Have you bought something for {child.nickname} today? Add a withdrawal from the Cloud!",
   "push_does_kid_has_cash": "PLZ_TRANSLATE Does {child.nickname} have any cash? Switch them in and make a deposit to the Cloud!",
   "push_need_help_with_dinner": "PLZ_TRANSLATE Need help with the dinner? Add a chore for {child.nickname}",
-  "event_card_activation_reminder": "PLZ_TRANSLATE Has your card arrived yet?"
+  "event_has_card_arrived": "PLZ_TRANSLATE Has your card arrived yet?"
 }
