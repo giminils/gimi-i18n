@@ -1661,5 +1661,6 @@
   "days_left": "PLZ_TRANSLATE days left!",
   "seperated_parents": "PLZ_TRANSLATE Seperated parents",
   "seperated_parents_header": "PLZ_TRANSLATE How should separated parents pay? ",
-  "seperated_parents_desc": "PLZ_TRANSLATE We suggest that you pay half of the recommended allowance amount each week or month. This way your child gets a continuous and stable allowance."
+  "seperated_parents_desc": "PLZ_TRANSLATE We suggest that you pay half of the recommended allowance amount each week or month. This way your child gets a continuous and stable allowance.",
+  "set_phone_for_kid": "PLZ_TRANSLATE Set phone number for your kid"
 }
