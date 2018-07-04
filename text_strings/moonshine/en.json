@@ -1653,5 +1653,6 @@
   "allowance_frequency_error_desc": "%1$d already has a %2$d.",
   "card_test_here_you_answered_wrong": "Here you answered incorrectly",
   "card_test_all_answers": "Here are all answers",
-  "general_ok_em": "OK!"
+  "general_ok_em": "OK!",
+  "parent_kid_savings_removable_button": "Make a deposit & get rid of cash!"
 }
