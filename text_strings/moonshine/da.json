@@ -1652,5 +1652,6 @@
   "allowance_frequency_error_title": "PLZ_TRANSLATE You can't change the frequency",
   "allowance_frequency_error_desc": "PLZ_TRANSLATE %1$d already has a %2$d.",
   "card_test_here_you_answered_wrong": "PLZ_TRANSLATE Here you answered incorrectly",
-  "card_test_all_answers": "PLZ_TRANSLATE Here are all answers"
+  "card_test_all_answers": "PLZ_TRANSLATE Here are all answers",
+  "general_ok_em": "PLZ_TRANSLATE OK!"
 }

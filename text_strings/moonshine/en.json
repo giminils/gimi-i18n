@@ -1652,5 +1652,6 @@
   "allowance_frequency_error_title": "You can't change the frequency",
   "allowance_frequency_error_desc": "%1$d already has a %2$d.",
   "card_test_here_you_answered_wrong": "Here you answered incorrectly",
-  "card_test_all_answers": "Here are all answers"
+  "card_test_all_answers": "Here are all answers",
+  "general_ok_em": "OK!"
 }
