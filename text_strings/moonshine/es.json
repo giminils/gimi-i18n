@@ -1650,5 +1650,7 @@
   "settings_allowance_amount": "PLZ_TRANSLATE Allowance amount",
   "settings_saving_interest": "PLZ_TRANSLATE Saving interest",
   "allowance_frequency_error_title": "PLZ_TRANSLATE You can't change the frequency",
-  "allowance_frequency_error_desc": "PLZ_TRANSLATE %1$d already has a %2$d."
+  "allowance_frequency_error_desc": "PLZ_TRANSLATE %1$d already has a %2$d.",
+  "card_test_here_you_answered_wrong": "PLZ_TRANSLATE Here you answered incorrectly",
+  "card_test_all_answers": "PLZ_TRANSLATE Here are all answers"
 }
