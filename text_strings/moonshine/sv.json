@@ -1655,5 +1655,8 @@
   "card_test_all_answers": "Here are all answers",
   "general_ok_em": "OK!",
   "parent_kid_savings_removable_button": "Make a deposit & get rid of cash!",
-  "kid_suggest_chore_removableButton": "Suggest a chore & earn money!"
+  "kid_suggest_chore_removableButton": "Suggest a chore & earn money!",
+  "payday_today_takeover_title": "Today is... Payday! 🎉",
+  "payday_today_takeover_subtitle": "%1$d has been added to your Cloud, and a new countdown has started.",
+  "days_left": "days left!"
 }

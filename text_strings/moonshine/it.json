@@ -1655,5 +1655,8 @@
   "card_test_all_answers": "PLZ_TRANSLATE Here are all answers",
   "general_ok_em": "PLZ_TRANSLATE OK!",
   "parent_kid_savings_removable_button": "PLZ_TRANSLATE Make a deposit & get rid of cash!",
-  "kid_suggest_chore_removableButton": "PLZ_TRANSLATE Suggest a chore & earn money!"
+  "kid_suggest_chore_removableButton": "PLZ_TRANSLATE Suggest a chore & earn money!",
+  "payday_today_takeover_title": "PLZ_TRANSLATE Today is... Payday! 🎉",
+  "payday_today_takeover_subtitle": "PLZ_TRANSLATE %1$d has been added to your Cloud, and a new countdown has started.",
+  "days_left": "PLZ_TRANSLATE days left!"
 }
