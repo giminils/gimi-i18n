@@ -1655,11 +1655,12 @@
   "card_test_all_answers": "Dit zijn alle antwoorden",
   "general_ok_em": "OK!",
   "parent_kid_savings_removable_button": "Stort geld en ben van dat contant geld af!",
-  "kid_suggest_chore_removableButton": "Suggereer een klusje en verdien geld!",
+  "kid_suggest_chore_removable_button": "Suggereer een klusje en verdien geld!",
   "payday_today_takeover_title": "Vandaag is... Payday! 🎉",
   "payday_today_takeover_subtitle": "%1$d is toegevoegd aan je cloud, en het aftellen is weer begonnen.",
   "days_left": "dagen over!",
   "seperated_parents": "Gescheiden ouders",
   "seperated_parents_header": "Hoe moeten gescheiden ouders betalen? ",
-  "seperated_parents_desc": "We stellen voor dat je de helft van het aanbevolen zakgeld elke week of maand betaalt.Zo krijgt het kind continue en stabiel zakgeld."
+  "seperated_parents_desc": "We stellen voor dat je de helft van het aanbevolen zakgeld elke week of maand betaalt.Zo krijgt het kind continue en stabiel zakgeld.",
+  "set_phone_for_kid": "PLZ_TRANSLATE Set phone number for %1$d"
 }
