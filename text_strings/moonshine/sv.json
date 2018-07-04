@@ -1654,5 +1654,6 @@
   "card_test_here_you_answered_wrong": "Here you answered incorrectly",
   "card_test_all_answers": "Here are all answers",
   "general_ok_em": "OK!",
-  "parent_kid_savings_removable_button": "Make a deposit & get rid of cash!"
+  "parent_kid_savings_removable_button": "Make a deposit & get rid of cash!",
+  "kid_suggest_chore_removableButton": "Suggest a chore & earn money!"
 }

@@ -1654,5 +1654,6 @@
   "card_test_here_you_answered_wrong": "PLZ_TRANSLATE Here you answered incorrectly",
   "card_test_all_answers": "PLZ_TRANSLATE Here are all answers",
   "general_ok_em": "PLZ_TRANSLATE OK!",
-  "parent_kid_savings_removable_button": "PLZ_TRANSLATE Make a deposit & get rid of cash!"
+  "parent_kid_savings_removable_button": "PLZ_TRANSLATE Make a deposit & get rid of cash!",
+  "kid_suggest_chore_removableButton": "PLZ_TRANSLATE Suggest a chore & earn money!"
 }
