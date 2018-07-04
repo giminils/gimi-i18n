@@ -1658,5 +1658,8 @@
   "kid_suggest_chore_removableButton": "PLZ_TRANSLATE Suggest a chore & earn money!",
   "payday_today_takeover_title": "PLZ_TRANSLATE Today is... Payday! 🎉",
   "payday_today_takeover_subtitle": "PLZ_TRANSLATE %1$d has been added to your Cloud, and a new countdown has started.",
-  "days_left": "PLZ_TRANSLATE days left!"
+  "days_left": "PLZ_TRANSLATE days left!",
+  "seperated_parents": "PLZ_TRANSLATE Seperated parents",
+  "seperated_parents_header": "PLZ_TRANSLATE How should separated parents pay? ",
+  "seperated_parents_desc": "PLZ_TRANSLATE We suggest that you pay half of the recommended allowance amount each week or month. This way your child gets a continuous and stable allowance."
 }
