@@ -1662,5 +1662,7 @@
   "seperated_parents": "Gescheiden ouders",
   "seperated_parents_header": "Hoe moeten gescheiden ouders betalen? ",
   "seperated_parents_desc": "We stellen voor dat je de helft van het aanbevolen zakgeld elke week of maand betaalt.Zo krijgt het kind continue en stabiel zakgeld.",
-  "set_phone_for_kid": "PLZ_TRANSLATE Set phone number for %1$d"
+  "set_phone_for_kid": "PLZ_TRANSLATE Set phone number for %1$d",
+  "share_cardtest_score_popover_title": "PLZ_TRANSLATE Want to share your result?",
+  "share_cardtest_score_popover_desc": "PLZ_TRANSLATE You can share it with your parents, or maybe a friend?"
 }
