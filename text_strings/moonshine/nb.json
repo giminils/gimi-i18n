@@ -1648,5 +1648,7 @@
   "watch_video_notification": "PLZ_TRANSLATE Watch this!",
   "settings_allowance_frequency": "PLZ_TRANSLATE Allowance frequency",
   "settings_allowance_amount": "PLZ_TRANSLATE Allowance amount",
-  "settings_saving_interest": "PLZ_TRANSLATE Saving interest"
+  "settings_saving_interest": "PLZ_TRANSLATE Saving interest",
+  "allowance_frequency_error_title": "PLZ_TRANSLATE You can't change the frequency",
+  "allowance_frequency_error_desc": "PLZ_TRANSLATE %1$d already has a %2$d."
 }
