@@ -302,5 +302,9 @@
   "event_pfs_card_blocked_by_parent": "Ditt kort har spärrats",
   "event_pfs_card_unblocked_by_parent": "Ditt kort är aktivt igen",
   "push_pfs_card_blocked_by_parent": "Ditt kort har spärrats av {pfs_card.updated_by.nickname}",
-  "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}"
+  "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}",
+  "event_pfs_manual_deposit_to_savings": "You have received a deposit from {pfs_payment_target.payment.parent.nickname}",
+  "event_pfs_payday_deposit_to_savings": "You have received a deposit in your savings",
+  "push_pfs_manual_deposit_to_savings": "You have received a deposit from {pfs_payment_target.payment.parent.nickname}",
+  "push_pfs_payday_deposit_to_savings": "You have received a deposit in your savings"
 }
