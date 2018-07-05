@@ -1668,5 +1668,6 @@
   "general_general_settings": "PLZ_TRANSLATE General settings",
   "kid_allowance_status_desc": "PLZ_TRANSLATE %1$d already has a %2$d, want to add more?",
   "share_the_app_message": "PLZ_TRANSLATE Check out this cool app",
-  "general_share_gimi": "PLZ_TRANSLATE Share Gimi"
+  "general_share_gimi": "PLZ_TRANSLATE Share Gimi",
+  "general_points": "PLZ_TRANSLATE points"
 }

@@ -1668,5 +1668,6 @@
   "general_general_settings": "General settings",
   "kid_allowance_status_desc": "%1$d already has a %2$d, want to add more?",
   "share_the_app_message": "Check out this cool app",
-  "general_share_gimi": "Share Gimi"
+  "general_share_gimi": "Share Gimi",
+  "general_points": "points"
 }
