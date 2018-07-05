@@ -1666,5 +1666,6 @@
   "share_cardtest_score_popover_title": "Want to share your result?",
   "share_cardtest_score_popover_desc": "You can share it with your parents, or maybe a friend?",
   "general_general_settings": "General settings",
-  "kid_allowance_status_desc": "%1$d already has a %2$d, want to add more?"
+  "kid_allowance_status_desc": "%1$d already has a %2$d, want to add more?",
+  "share_the_app_message": "Check out this cool app"
 }
