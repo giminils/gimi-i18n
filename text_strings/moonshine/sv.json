@@ -1676,5 +1676,6 @@
   "delete_recurring_popover_text": "This means deleting it on all it's active days, If you only want to change the frequency go to chore settings!",
   "general_delete_all": "Delete all",
   "allow_connections_to_deposit_takeover_title": "Allow other connections to send money to %1$d?",
-  "allow_connections_to_deposit_takeover_text": "Other connections won't be able to send money to %1$d without your permission!"
+  "allow_connections_to_deposit_takeover_text": "Other connections won't be able to send money to %1$d without your permission!",
+  "allowance_from_others": "Allowance from others"
 }
