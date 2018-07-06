@@ -1671,5 +1671,8 @@
   "general_share_gimi": "PLZ_TRANSLATE Share Gimi",
   "general_points": "PLZ_TRANSLATE points",
   "money_settings": "PLZ_TRANSLATE Money settings",
-  "kid_invite_parent": "PLZ_TRANSLATE Hey there! You need some grownups in here to make it work…"
+  "kid_invite_parent": "PLZ_TRANSLATE Hey there! You need some grownups in here to make it work…",
+  "delete_recurring_popover_title": "PLZ_TRANSLATE You sure you want to delete %1$d?",
+  "delete_recurring_popover_text": "PLZ_TRANSLATE This means deleting it on all it's active days, If you only want to change the frequency go to chore settings!",
+  "general_delete_all": "PLZ_TRANSLATE Delete all"
 }
