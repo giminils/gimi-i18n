@@ -1677,5 +1677,8 @@
   "general_delete_all": "Delete all",
   "allow_connections_to_deposit_takeover_title": "Allow other connections to send money to %1$d?",
   "allow_connections_to_deposit_takeover_text": "Other connections won't be able to send money to %1$d without your permission!",
-  "allowance_from_others": "Allowance from others"
+  "allowance_from_others": "Allowance from others",
+  "camera_permission_dialog_title": "Permission to use camera",
+  "camera_permission_dialog_text": "We need your permission to use your camera phone",
+  "camera_on_error_text": "Camera failed to start"
 }

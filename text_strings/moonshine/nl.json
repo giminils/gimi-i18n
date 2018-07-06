@@ -1677,5 +1677,8 @@
   "general_delete_all": "PLZ_TRANSLATE Delete all",
   "allow_connections_to_deposit_takeover_title": "PLZ_TRANSLATE Allow other connections to send money to %1$d?",
   "allow_connections_to_deposit_takeover_text": "PLZ_TRANSLATE Other connections won't be able to send money to %1$d without your permission!",
-  "allowance_from_others": "PLZ_TRANSLATE Allowance from others"
+  "allowance_from_others": "PLZ_TRANSLATE Allowance from others",
+  "camera_permission_dialog_title": "PLZ_TRANSLATE Permission to use camera",
+  "camera_permission_dialog_text": "PLZ_TRANSLATE We need your permission to use your camera phone",
+  "camera_on_error_text": "PLZ_TRANSLATE Camera failed to start"
 }
