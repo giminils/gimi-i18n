@@ -519,7 +519,7 @@
   "connection_error_retry": "försök ansluta igen",
   "invite_error": "vi kunde inte skicka din inbjudan. Kontrollera din anslutning till internet och försök igen.",
   "login_again": "logga in igen",
-  "invite_greeting_text": "för att acceptera en inbjudan behöver du logga in i Gimi-appen",
+  "invite_greeting_text": "Du har en inbjudan som väntar. Skapa ett nytt konto eller logga in för att komma igång.",
   "general_congrats": "grattis!",
   "savings_bonus_text": "du har fått %1$d i sparbonus!",
   "change": "ändra %1$d",
