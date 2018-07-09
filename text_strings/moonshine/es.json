@@ -1682,5 +1682,11 @@
   "camera_permission_dialog_text": "Necesitamos tu permiso para usar la cámara de tu teléfono",
   "camera_on_error_text": "La cámara falló al iniciar",
   "payday_takeover_multiple_parents_info": "PLZ_TRANSLATE %1$d has other connections. You can see what they pay in the transaction list.",
-  "payday_takeover_subtitle_parent": "PLZ_TRANSLATE Your payout has been added to Savings."
+  "payday_takeover_subtitle_parent": "PLZ_TRANSLATE Your payout has been added to Savings.",
+  "i_approve_possesive_instantors": "PLZ_TRANSLATE I approve the Instantor",
+  "i_approve_possesive_instantors_integrity_policy": "PLZ_TRANSLATE I agree that information from my bank account, including transactions, is collected, used and shared, and understands how other information will be used as specified in the Instantor",
+  "service_provided_by_instantor": "PLZ_TRANSLATE The service is provided by Instantor AB, not by your bank.",
+  "general_user_terms": "PLZ_TRANSLATE User policy",
+  "general_integrity_policy": "PLZ_TRANSLATE Integrity policy",
+  "general_read_more_here": "PLZ_TRANSLATE Read more here"
 }
