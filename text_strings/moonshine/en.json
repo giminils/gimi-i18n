@@ -1688,5 +1688,8 @@
   "general_user_terms": "User policy",
   "general_integrity_policy": "Integrity policy",
   "general_read_more_here": "Read more here",
-  "instantor_verify_identity_description": "We use Instantor to verify your identity with BankID."
+  "instantor_verify_identity_description": "We use Instantor to verify your identity with BankID.",
+  "change_card_popover_title": "Sure you want to change card?",
+  "change_card_popover_text": "Your current card details will be forgotten and you will be asked to input new card details.",
+  "general_proceed": "Proceed"
 }

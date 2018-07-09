@@ -1688,5 +1688,8 @@
   "general_user_terms": "PLZ_TRANSLATE User policy",
   "general_integrity_policy": "PLZ_TRANSLATE Integrity policy",
   "general_read_more_here": "PLZ_TRANSLATE Read more here",
-  "instantor_verify_identity_description": "PLZ_TRANSLATE We use Instantor to verify your identity with BankID."
+  "instantor_verify_identity_description": "PLZ_TRANSLATE We use Instantor to verify your identity with BankID.",
+  "change_card_popover_title": "PLZ_TRANSLATE Sure you want to change card?",
+  "change_card_popover_text": "PLZ_TRANSLATE Your current card details will be forgotten and you will be asked to input new card details.",
+  "general_proceed": "PLZ_TRANSLATE Proceed"
 }
