@@ -303,8 +303,8 @@
   "event_pfs_card_unblocked_by_parent": "Ditt kort är aktivt igen",
   "push_pfs_card_blocked_by_parent": "Ditt kort har spärrats av {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}",
-  "event_pfs_manual_deposit_to_savings": "You have received a deposit from {pfs_payment_target.payment.parent.nickname}",
-  "event_pfs_payday_deposit_to_savings": "You have received a deposit in your savings",
-  "push_pfs_manual_deposit_to_savings": "You have received a deposit from {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_payday_deposit_to_savings": "You have received a deposit in your savings"
+  "event_pfs_manual_deposit_to_savings": "Insättning till kontot från {pfs_payment_target.payment.parent.nickname}",
+  "event_pfs_payday_deposit_to_savings": "Payday! Insättning till kontot",
+  "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}. Kolla in hur mycket i appen!",
+  "push_pfs_payday_deposit_to_savings": "Payday! Du har fått pengar. Kolla in hur mycket i appen!"
 }
