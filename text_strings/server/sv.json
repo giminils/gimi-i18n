@@ -290,7 +290,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} är klar med {assignment.task.title}",
   "event_done_with_chore_child": "Du är klar med {assignment.task.title}",
   "push_tell_that_your_back": "{user.nickname} är tillbaka i appen och vill komma igång igen",
-  "push_payday_child": "Payday! Du har fått en betalning till ditt Moln!",
+  "push_payday_child": "Payday! Du har fått pengar. Gå in och kolla hur mycket!",
   "push_received_first_money": "Du har fått dina första pengar!",
   "push_suggest_chore_to_parents": "Vill du tjäna mer pengar? Föreslå en chore till dina föräldrar!",
   "push_x_days_until_payday": "Du har {x} dagar till Payday! Tjäna mer pengar och gör några av dina sysslor!",
