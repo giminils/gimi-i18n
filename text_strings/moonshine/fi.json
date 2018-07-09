@@ -714,7 +714,6 @@
   "payment_card_select_description": "Seuraavaksi syötä kortin tiedot.",
   "general_instructions": "Ohjeet",
   "we_must_verify_your_identity": "Meidän täytyy varmistaa henkilöllisyytesi",
-  "instantor_verify_identity_description": "Tämän vuoksi teemme yhteistyötä Instantorin kanssa, joka käyttää BankID:tä. Sinun tulee kirjautua sisään käyttäen BankID:tä.",
   "read_why_identifying_this_way": "<b>Tässä</b> voit saada lisätietoja siitä, miksi meidän täytyy tehdä tämä.",
   "i_approve_instantor_policy": "Minä täten hyväksyn Instantorin <b>Käyttöehdot</b> ja sen, että tietojani kerätään ja käytetään <b>Instantorin yhtenäisyyskäytännön</b> mukaisesti",
   "one_time_only": "Vain kerran",
@@ -1688,5 +1687,6 @@
   "service_provided_by_instantor": "PLZ_TRANSLATE The service is provided by Instantor AB, not by your bank.",
   "general_user_terms": "PLZ_TRANSLATE User policy",
   "general_integrity_policy": "PLZ_TRANSLATE Integrity policy",
-  "general_read_more_here": "PLZ_TRANSLATE Read more here"
+  "general_read_more_here": "PLZ_TRANSLATE Read more here",
+  "instantor_verify_identity_description": "PLZ_TRANSLATE We use Instantor to verify your identity with BankID."
 }

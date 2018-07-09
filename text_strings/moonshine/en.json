@@ -714,7 +714,6 @@
   "payment_card_select_description": "In the next step, you'll enter your card details.",
   "general_instructions": "Instructions",
   "we_must_verify_your_identity": "We need to verify your identity",
-  "instantor_verify_identity_description": "To do this, we use Instantor and BankID. Therefor, you'll need to accept Instantor's user terms, and log in with BankID.",
   "read_why_identifying_this_way": "<b>Here</b> you can read more about why we need to verify your identity this way.",
   "i_approve_instantor_policy": "I hereby approve Instantor's <b>User terms</b> and that my data is collected and used in accordance with <b>Instantor's integrity policy</b>",
   "one_time_only": "One time only",
@@ -1688,5 +1687,6 @@
   "service_provided_by_instantor": "The service is provided by Instantor AB, not by your bank.",
   "general_user_terms": "User policy",
   "general_integrity_policy": "Integrity policy",
-  "general_read_more_here": "Read more here"
+  "general_read_more_here": "Read more here",
+  "instantor_verify_identity_description": "We use Instantor to verify your identity with BankID."
 }

@@ -714,7 +714,6 @@
   "payment_card_select_description": "I neste steg kan du skrive inn dine kortopplysninger.",
   "general_instructions": "Instruksjoner",
   "we_must_verify_your_identity": "Vi må verifiere din identitet",
-  "instantor_verify_identity_description": "For å gjøre dette, bruker vi Instantor som benytter seg av BankID, derfor vil du i neste steg gjøre en innlogging med BankID.",
   "read_why_identifying_this_way": "<b>Her</b> kan du lese mer om hvorfor vi må verifiere din identitet på denne måten.",
   "i_approve_instantor_policy": "Jeg godkjenner herved Instantors <b>brukervilkår</b> i tillegg til at mine data samles inn og blir brukt av det som blir angitt i <b>Instantors integritetspolicy</b>",
   "one_time_only": "Engangsopplysning",
@@ -1688,5 +1687,6 @@
   "service_provided_by_instantor": "PLZ_TRANSLATE The service is provided by Instantor AB, not by your bank.",
   "general_user_terms": "PLZ_TRANSLATE User policy",
   "general_integrity_policy": "PLZ_TRANSLATE Integrity policy",
-  "general_read_more_here": "PLZ_TRANSLATE Read more here"
+  "general_read_more_here": "PLZ_TRANSLATE Read more here",
+  "instantor_verify_identity_description": "PLZ_TRANSLATE We use Instantor to verify your identity with BankID."
 }
