@@ -1680,5 +1680,7 @@
   "allowance_from_others": "Allowance from others",
   "camera_permission_dialog_title": "Permission to use camera",
   "camera_permission_dialog_text": "We need your permission to use your camera phone",
-  "camera_on_error_text": "Camera failed to start"
+  "camera_on_error_text": "Camera failed to start",
+  "payday_takeover_multiple_parents_info": "%1$d has other connections. You can see what they pay in the transaction list.",
+  "payday_takeover_subtitle_parent": "Your payout has been added to Savings."
 }

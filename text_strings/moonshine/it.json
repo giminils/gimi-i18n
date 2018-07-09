@@ -1680,5 +1680,7 @@
   "allowance_from_others": "PLZ_TRANSLATE Allowance from others",
   "camera_permission_dialog_title": "PLZ_TRANSLATE Permission to use camera",
   "camera_permission_dialog_text": "PLZ_TRANSLATE We need your permission to use your camera phone",
-  "camera_on_error_text": "PLZ_TRANSLATE Camera failed to start"
+  "camera_on_error_text": "PLZ_TRANSLATE Camera failed to start",
+  "payday_takeover_multiple_parents_info": "PLZ_TRANSLATE %1$d has other connections. You can see what they pay in the transaction list.",
+  "payday_takeover_subtitle_parent": "PLZ_TRANSLATE Your payout has been added to Savings."
 }

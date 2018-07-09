@@ -1680,5 +1680,7 @@
   "allowance_from_others": "La resompensa de otros",
   "camera_permission_dialog_title": "Permiso para usar la cámara",
   "camera_permission_dialog_text": "Necesitamos tu permiso para usar la cámara de tu teléfono",
-  "camera_on_error_text": "La cámara falló al iniciar"
+  "camera_on_error_text": "La cámara falló al iniciar",
+  "payday_takeover_multiple_parents_info": "PLZ_TRANSLATE %1$d has other connections. You can see what they pay in the transaction list.",
+  "payday_takeover_subtitle_parent": "PLZ_TRANSLATE Your payout has been added to Savings."
 }
