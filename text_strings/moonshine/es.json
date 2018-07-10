@@ -1694,5 +1694,9 @@
   "general_proceed": "PLZ_TRANSLATE Proceed",
   "updated_card_details_success_text": "PLZ_TRANSLATE Your new card details are safely stored so that you can transfer money at any time you want.",
   "payout_in_cash_popover_title": "PLZ_TRANSLATE Sure you want to payout in cash?",
-  "payout_in_cash_popover_text": "PLZ_TRANSLATE The money will be withdrawn from %1$d account"
+  "payout_in_cash_popover_text": "PLZ_TRANSLATE The money will be withdrawn from %1$d account",
+  "todays_chores": "PLZ_TRANSLATE Todays chores",
+  "this_weeks_chores": "PLZ_TRANSLATE This weeks chores",
+  "create_new": "PLZ_TRANSLATE Create new",
+  "waiting_for_approval": "PLZ_TRANSLATE Waiting for approval"
 }
