@@ -1692,5 +1692,7 @@
   "change_card_popover_title": "Sure you want to change card?",
   "change_card_popover_text": "Your current card details will be forgotten and you will be asked to input new card details.",
   "general_proceed": "Proceed",
-  "updated_card_details_success_text": "Your new card details are safely stored so that you can transfer money at any time you want."
+  "updated_card_details_success_text": "Your new card details are safely stored so that you can transfer money at any time you want.",
+  "payout_in_cash_popover_title": "Sure you want to payout in cash?",
+  "payout_in_cash_popover_text": "The money will be withdrawn from %1$d account"
 }
