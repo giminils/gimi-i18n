@@ -1698,5 +1698,6 @@
   "todays_chores": "Todays chores",
   "this_weeks_chores": "This weeks chores",
   "create_new": "Create new",
-  "waiting_for_approval": "Waiting for approval"
+  "waiting_for_approval": "Waiting for approval",
+  "bot_says_your_current_balance": "Your balance is %1$d"
 }
