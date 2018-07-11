@@ -1700,5 +1700,7 @@
   "waiting_for_approval": "Waiting for approval",
   "bot_says_your_current_balance": "Your balance is %1$d",
   "find_store": "Find store",
-  "general_chore_reward": "Chore reward"
+  "general_chore_reward": "Chore reward",
+  "server_error_popover_header": "Gimi is closed for maintenance...",
+  "server_error_popover_desc": "...But we will be back gain really soon! We hope to see you again in a few minutes."
 }
