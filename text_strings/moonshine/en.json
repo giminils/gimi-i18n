@@ -322,7 +322,7 @@
   "amount_earned_in": "earned in %1$d: %2$d",
   "to_be_earned_parent": "Money to earn:",
   "to_be_earned_child": "here you can earn",
-  "finished_chores": "approved",
+  "finished_chores": "archive",
   "general_pending": "done",
   "general_pending_parent": "Waiting for your approval",
   "general_pending_child": "done",
