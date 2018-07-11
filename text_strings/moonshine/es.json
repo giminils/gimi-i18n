@@ -1699,5 +1699,6 @@
   "create_new": "PLZ_TRANSLATE Create new",
   "waiting_for_approval": "PLZ_TRANSLATE Waiting for approval",
   "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d",
-  "find_store": "PLZ_TRANSLATE Find store"
+  "find_store": "PLZ_TRANSLATE Find store",
+  "general_chore_reward": "PLZ_TRANSLATE Chore reward"
 }
