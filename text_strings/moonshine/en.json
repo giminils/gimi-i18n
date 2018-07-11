@@ -462,7 +462,6 @@
   "verify_phone_notification": "verify your phone number",
   "add_family_notification": "add your family",
   "question_what_chore": "what type of chore is this?",
-  "find_store": "read reviews",
   "we_get_info_from_prisjakt": "We collect all product information from",
   "general_prisjakt": "PLZ_CHECK pricespy",
   "bot_greeting_1": "Hey there!",
@@ -1699,5 +1698,6 @@
   "this_weeks_chores": "This weeks chores",
   "create_new": "Create new",
   "waiting_for_approval": "Waiting for approval",
-  "bot_says_your_current_balance": "Your balance is %1$d"
+  "bot_says_your_current_balance": "Your balance is %1$d",
+  "find_store": "Find store"
 }

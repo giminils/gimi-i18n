@@ -462,7 +462,6 @@
   "verify_phone_notification": "verifiere ditt telefonnummer",
   "add_family_notification": "Legg til familien",
   "question_what_chore": "hva er det for en oppgave?",
-  "find_store": "les anmeldelser",
   "we_get_info_from_prisjakt": "vi henter all produktinformasjon fra",
   "general_prisjakt": "prisjakt",
   "bot_greeting_1": "Heisann",
@@ -1699,5 +1698,6 @@
   "this_weeks_chores": "PLZ_TRANSLATE This weeks chores",
   "create_new": "PLZ_TRANSLATE Create new",
   "waiting_for_approval": "PLZ_TRANSLATE Waiting for approval",
-  "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d"
+  "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d",
+  "find_store": "PLZ_TRANSLATE Find store"
 }

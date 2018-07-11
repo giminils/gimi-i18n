@@ -462,7 +462,6 @@
   "verify_phone_notification": "Verifieer je telefoonnummer",
   "add_family_notification": "voeg je familie toe",
   "question_what_chore": "wat voor soort klusje is dit?",
-  "find_store": "lees beoordelingen",
   "we_get_info_from_prisjakt": "We verzamelen alle productinformatie van",
   "general_prisjakt": "productinformatie",
   "bot_greeting_1": "Hela daar!",
@@ -1699,5 +1698,6 @@
   "this_weeks_chores": "PLZ_TRANSLATE This weeks chores",
   "create_new": "PLZ_TRANSLATE Create new",
   "waiting_for_approval": "PLZ_TRANSLATE Waiting for approval",
-  "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d"
+  "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d",
+  "find_store": "PLZ_TRANSLATE Find store"
 }

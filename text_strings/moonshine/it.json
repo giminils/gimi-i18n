@@ -462,7 +462,6 @@
   "verify_phone_notification": "verifica il tuo numero di telefono",
   "add_family_notification": "aggiungi la tua famiglia",
   "question_what_chore": "di che tipo di faccenda si tratta?",
-  "find_store": "leggi recensioni",
   "we_get_info_from_prisjakt": "Raccogliamo tutte le informazioni sul prodotto da",
   "general_prisjakt": "pagomeno",
   "bot_greeting_1": "Hey tu!",
@@ -1699,5 +1698,6 @@
   "this_weeks_chores": "PLZ_TRANSLATE This weeks chores",
   "create_new": "PLZ_TRANSLATE Create new",
   "waiting_for_approval": "PLZ_TRANSLATE Waiting for approval",
-  "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d"
+  "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d",
+  "find_store": "PLZ_TRANSLATE Find store"
 }
