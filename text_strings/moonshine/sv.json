@@ -1702,5 +1702,8 @@
   "find_store": "Find store",
   "general_chore_reward": "Chore reward",
   "server_error_popover_header": "Gimi is closed for maintenance...",
-  "server_error_popover_desc": "...But we will be back gain really soon! We hope to see you again in a few minutes."
+  "server_error_popover_desc": "...But we will be back gain really soon! We hope to see you again in a few minutes.",
+  "title_month_summary_for_kid": "Summary for %1$d",
+  "earned_on_payday": "Earned on Payday",
+  "chores_completed": "Chores completed"
 }

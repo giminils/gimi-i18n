@@ -1702,5 +1702,8 @@
   "find_store": "PLZ_TRANSLATE Find store",
   "general_chore_reward": "PLZ_TRANSLATE Chore reward",
   "server_error_popover_header": "PLZ_TRANSLATE Gimi is closed for maintenance...",
-  "server_error_popover_desc": "PLZ_TRANSLATE ...But we will be back gain really soon! We hope to see you again in a few minutes."
+  "server_error_popover_desc": "PLZ_TRANSLATE ...But we will be back gain really soon! We hope to see you again in a few minutes.",
+  "title_month_summary_for_kid": "PLZ_TRANSLATE Summary for %1$d",
+  "earned_on_payday": "PLZ_TRANSLATE Earned on Payday",
+  "chores_completed": "PLZ_TRANSLATE Chores completed"
 }
