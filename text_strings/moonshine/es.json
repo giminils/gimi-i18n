@@ -1705,5 +1705,8 @@
   "server_error_popover_desc": "PLZ_TRANSLATE ...But we will be back gain really soon! We hope to see you again in a few minutes.",
   "title_month_summary_for_kid": "PLZ_TRANSLATE Summary for %1$d",
   "earned_on_payday": "PLZ_TRANSLATE Earned on Payday",
-  "chores_completed": "PLZ_TRANSLATE Chores completed"
+  "chores_completed": "PLZ_TRANSLATE Chores completed",
+  "bot_btn_hi": "PLZ_TRANSLATE Hi",
+  "bot_btn_hello": "PLZ_TRANSLATE Hello",
+  "bot_btn_hi_there": "PLZ_TRANSLATE Hi there!"
 }

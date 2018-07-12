@@ -1705,5 +1705,8 @@
   "server_error_popover_desc": "...But we will be back gain really soon! We hope to see you again in a few minutes.",
   "title_month_summary_for_kid": "Summary for %1$d",
   "earned_on_payday": "Earned on Payday",
-  "chores_completed": "Chores completed"
+  "chores_completed": "Chores completed",
+  "bot_btn_hi": "Hi",
+  "bot_btn_hello": "Hello",
+  "bot_btn_hi_there": "Hi there!"
 }
