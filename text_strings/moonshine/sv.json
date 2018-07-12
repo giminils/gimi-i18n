@@ -496,7 +496,7 @@
   "general_participants": "deltagare",
   "edit_description": "redigera beskrivning",
   "question_frequency": "hur ofta?",
-  "chore_recurring_desc": "denna uppgift återkommer och aktiveras i perioder",
+  "chore_recurring_desc": "Uppgiften aktiveras på specifika veckodagar",
   "chore_always_available_desc": "denna uppgift är alltid aktiverad och kan utföras hur många gånger som helst",
   "chore_non_recurring_desc": "denna uppgift kan endast utföras en gång.",
   "question_payment": "hur vill du betala?",
