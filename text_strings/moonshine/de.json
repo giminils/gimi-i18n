@@ -1716,5 +1716,7 @@
   "bot_btn_not_cool": "PLZ_TRANSLATE Not cool",
   "bot_says_practice_earning_money": "PLZ_TRANSLATE Wanna practice earning money?",
   "bot_says_shopping_when_hungry": "PLZ_TRANSLATE Shopping when hungry can make people spend more money",
-  "bot_says_key_to_saving": "PLZ_TRANSLATE The key to saving money is to spend less than you earn"
+  "bot_says_key_to_saving": "PLZ_TRANSLATE The key to saving money is to spend less than you earn",
+  "bot_says_no_relations_yet": "PLZ_TRANSLATE Seems like you havn't connected to a grownup yet",
+  "bot_says_i_cant_see_you": "PLZ_TRANSLATE I can't see you! Wanna add a profile picture?"
 }

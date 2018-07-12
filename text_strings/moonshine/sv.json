@@ -1716,5 +1716,7 @@
   "bot_btn_not_cool": "Not cool",
   "bot_says_practice_earning_money": "Wanna practice earning money?",
   "bot_says_shopping_when_hungry": "Shopping when hungry can make people spend more money",
-  "bot_says_key_to_saving": "The key to saving money is to spend less than you earn"
+  "bot_says_key_to_saving": "The key to saving money is to spend less than you earn",
+  "bot_says_no_relations_yet": "Seems like you havn't connected to a grownup yet",
+  "bot_says_i_cant_see_you": "I can't see you! Wanna add a profile picture?"
 }
