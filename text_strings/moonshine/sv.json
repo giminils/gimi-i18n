@@ -1708,5 +1708,13 @@
   "chores_completed": "Chores completed",
   "bot_btn_hi": "Hi",
   "bot_btn_hello": "Hello",
-  "bot_btn_hi_there": "Hi there!"
+  "bot_btn_hi_there": "Hi there!",
+  "bot_says_what_to_learn": "What do you want to learn about?",
+  "bot_btn_earning": "Earning",
+  "bot_btn_spending": "Spending",
+  "bot_btn_saving": "Saving",
+  "bot_btn_not_cool": "Not cool",
+  "bot_says_practice_earning_money": "Wanna practice earning money?",
+  "bot_says_shopping_when_hungry": "Shopping when hungry can make people spend more money",
+  "bot_says_key_to_saving": "The key to saving money is to spend less than you earn"
 }
