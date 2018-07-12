@@ -1225,7 +1225,7 @@
   "general_monthly_allowance": "Monthly allowance",
   "kid_connected_parent": "You and %1$d are now connected",
   "set_interest_descr": "which is calculated on the amount saved by the child",
-  "payday_circle_empty_state_title": "No money in sight...",
+  "payday_circle_empty_state_title": "No money yet, invite a parent now!",
   "explainer_video_tutorial": "About Gimi",
   "future_interest_help_header": "Savings bonus, what is it?",
   "future_interest_help_desc": "The amount you see here shows how much bonus that´s received for saving money. The more money in Savings, the more bonus!",
