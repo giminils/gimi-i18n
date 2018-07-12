@@ -1731,5 +1731,8 @@
   "bot_btn_high_five": "PLZ_TRANSLATE High five!",
   "bot_says_i_hope_it_was": "PLZ_TRANSLATE I hope it was!",
   "bot_btn_i_do_to": "PLZ_TRANSLATE I do too!",
-  "bot_btn_dont_know": "PLZ_TRANSLATE Don't know"
+  "bot_btn_dont_know": "PLZ_TRANSLATE Don't know",
+  "shareable_cardtest_title_failed": "PLZ_TRANSLATE My result on the card test",
+  "shareable_cardtest_title_approved": "PLZ_TRANSLATE I passed the card test",
+  "shareable_cardtest_title_topped": "PLZ_TRANSLATE I nailed the card test"
 }
