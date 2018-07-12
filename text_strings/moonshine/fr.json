@@ -1718,5 +1718,18 @@
   "bot_says_shopping_when_hungry": "PLZ_TRANSLATE Shopping when hungry can make people spend more money",
   "bot_says_key_to_saving": "PLZ_TRANSLATE The key to saving money is to spend less than you earn",
   "bot_says_no_relations_yet": "PLZ_TRANSLATE Seems like you havn't connected to a grownup yet",
-  "bot_says_i_cant_see_you": "PLZ_TRANSLATE I can't see you! Wanna add a profile picture?"
+  "bot_says_i_cant_see_you": "PLZ_TRANSLATE I can't see you! Wanna add a profile picture?",
+  "bot_says_morning_spending_later": "PLZ_TRANSLATE Good morning! Are you spending later today?",
+  "bot_says_want_advice": "PLZ_TRANSLATE Ok! Want a piece of advice?",
+  "bot_says_spending_advice_smile": "PLZ_TRANSLATE Think about if you need it or want it :)",
+  "bot_says_keep_up_the_good_work": "PLZ_TRANSLATE Wow! Keep up the good work!",
+  "bot_btn_will_do_short": "PLZ_TRANSLATE Will do!",
+  "bot_btn_no_i_regret_it": "PLZ_TRANSLATE No, I regret it",
+  "bot_btn_yes_feels_great": "PLZ_TRANSLATE Yes, it feels great",
+  "bot_says_remember_it_for_next_time": "PLZ_TRANSLATE Oh no :( Remember it for next time",
+  "bot_says_yay_high_five": "PLZ_TRANSLATE Yay! High five!",
+  "bot_btn_high_five": "PLZ_TRANSLATE High five!",
+  "bot_says_i_hope_it_was": "PLZ_TRANSLATE I hope it was!",
+  "bot_btn_i_do_to": "PLZ_TRANSLATE I do too!",
+  "bot_btn_dont_know": "PLZ_TRANSLATE Don't know"
 }
