@@ -1741,5 +1741,15 @@
   "report_most_expensive_withdrawal": "PLZ_TRANSLATE Most expensive withdrawal",
   "dream_achieved": "PLZ_TRANSLATE Dream achieved",
   "bot_link_do_a_chore": "PLZ_TRANSLATE Do a chore!",
-  "bot_link_suggest_chore": "PLZ_TRANSLATE Suggest a chore!"
+  "bot_link_suggest_chore": "PLZ_TRANSLATE Suggest a chore!",
+  "bot_link_watch_earn_movie": "PLZ_TRANSLATE Watch earn movie! ",
+  "bot_link_watch_spend_movie": "PLZ_TRANSLATE Watch spend movie! ",
+  "bot_link_watch_save_movie": "PLZ_TRANSLATE Watch save movie!",
+  "bot_says_no_parent_connection": "PLZ_TRANSLATE Seems like you haven't connected to a parent yet!",
+  "bot_link_invite_parent": "PLZ_TRANSLATE Invite a parent!",
+  "bot_btn_why_do_i_have_to": "PLZ_TRANSLATE Why do I have to?",
+  "bot_says_why_parent": "PLZ_TRANSLATE You need a parent to give you money in the app :)",
+  "bot_link_add_profile_pic": "PLZ_TRANSLATE Add a profile pic",
+  "bot_says_spending_advice": "PLZ_TRANSLATE Think about if you need it or want it",
+  "bot_says_nice_saving_for_something": "PLZ_TRANSLATE Nice! Are you saving for something?"
 }
