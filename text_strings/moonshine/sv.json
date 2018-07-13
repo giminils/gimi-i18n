@@ -1741,5 +1741,15 @@
   "report_most_expensive_withdrawal": "Most expensive withdrawal",
   "dream_achieved": "Dream achieved",
   "bot_link_do_a_chore": "Gör en uppgift!",
-  "bot_link_suggest_chore": "Föreslå en uppgift!"
+  "bot_link_suggest_chore": "Föreslå en uppgift!",
+  "bot_link_watch_earn_movie": "Watch earn movie! ",
+  "bot_link_watch_spend_movie": "Watch spend movie! ",
+  "bot_link_watch_save_movie": "Watch save movie!",
+  "bot_says_no_parent_connection": "Seems like you haven't connected to a parent yet!",
+  "bot_link_invite_parent": "Invite a parent!",
+  "bot_btn_why_do_i_have_to": "Why do I have to?",
+  "bot_says_why_parent": "You need a parent to give you money in the app :)",
+  "bot_link_add_profile_pic": "Add a profile pic",
+  "bot_says_spending_advice": "Think about if you need it or want it",
+  "bot_says_nice_saving_for_something": "Nice! Are you saving for something?"
 }
