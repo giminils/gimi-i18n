@@ -1734,5 +1734,10 @@
   "bot_btn_dont_know": "PLZ_TRANSLATE Don't know",
   "shareable_cardtest_title_failed": "PLZ_TRANSLATE My result on the card test",
   "shareable_cardtest_title_approved": "PLZ_TRANSLATE I passed the card test",
-  "shareable_cardtest_title_topped": "PLZ_TRANSLATE I nailed the card test"
+  "shareable_cardtest_title_topped": "PLZ_TRANSLATE I nailed the card test",
+  "general_dreaming": "PLZ_TRANSLATE Dreaming",
+  "report_most_popular_chore": "PLZ_TRANSLATE Most popular chore",
+  "general_completed": "PLZ_TRANSLATE completed",
+  "report_most_expensive_withdrawal": "PLZ_TRANSLATE Most expensive withdrawal",
+  "dream_achieved": "PLZ_TRANSLATE Dream achieved"
 }

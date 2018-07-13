@@ -1734,5 +1734,10 @@
   "bot_btn_dont_know": "Don't know",
   "shareable_cardtest_title_failed": "My result on the card test",
   "shareable_cardtest_title_approved": "I passed the card test",
-  "shareable_cardtest_title_topped": "I nailed the card test"
+  "shareable_cardtest_title_topped": "I nailed the card test",
+  "general_dreaming": "Dreaming",
+  "report_most_popular_chore": "Most popular chore",
+  "general_completed": "completed",
+  "report_most_expensive_withdrawal": "Most expensive withdrawal",
+  "dream_achieved": "Dream achieved"
 }
