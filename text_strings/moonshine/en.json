@@ -1756,5 +1756,13 @@
   "bot_link_save_for_dream": "Start saving for a dream!",
   "bot_says_check_out_chores": "Check out your chores?",
   "bot_link_check_out_chores": "Check out chores!",
-  "bot_link_check_balance": "Check my balance!"
+  "bot_link_check_balance": "Check my balance!",
+  "bot_says_cash_laying_around": "Have you got cash lying around?",
+  "bot_says_ask_for_deposit": "Did you know you can give them to a parent and ask for a deposit to your savings?",
+  "bot_says_best_way_to_save_money": "What's the best way to save a lot of money: Earn more or spend less?",
+  "bot_btn_earn_more": "Earn more",
+  "bot_btn_spend_less": "Spend less",
+  "bot_btn_both_same_time": "Both at the same time!",
+  "bot_says_money_trick_question": "Trick question! The best way to save is to both earn more and spend less at the same time :)",
+  "bot_says_genius": "Genius!"
 }
