@@ -1739,5 +1739,7 @@
   "report_most_popular_chore": "Most popular chore",
   "general_completed": "completed",
   "report_most_expensive_withdrawal": "Most expensive withdrawal",
-  "dream_achieved": "Dream achieved"
+  "dream_achieved": "Dream achieved",
+  "bot_link_do_a_chore": "Do a chore!",
+  "bot_link_suggest_chore": "Suggest a chore!"
 }

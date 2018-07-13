@@ -1739,5 +1739,7 @@
   "report_most_popular_chore": "PLZ_TRANSLATE Most popular chore",
   "general_completed": "PLZ_TRANSLATE completed",
   "report_most_expensive_withdrawal": "PLZ_TRANSLATE Most expensive withdrawal",
-  "dream_achieved": "PLZ_TRANSLATE Dream achieved"
+  "dream_achieved": "PLZ_TRANSLATE Dream achieved",
+  "bot_link_do_a_chore": "PLZ_TRANSLATE Do a chore!",
+  "bot_link_suggest_chore": "PLZ_TRANSLATE Suggest a chore!"
 }
