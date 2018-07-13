@@ -1397,7 +1397,7 @@
   "monthly_allowance_from": "Månadspeng från %1$d",
   "qr_code_error": "någonting är trasigt... prova gärna igen senare",
   "why_we_ask_for_phone": "Varför behöver vi ditt nummer?",
-  "explainer_why_phone_title": "Behöver vi verkligen ditt telefonnummer",
+  "explainer_why_phone_title": "Varför vi behöver ditt telefonnummer",
   "explainer_why_phone_desc": "Vi använder ditt telefonnummer för att koppla ihop din familj i appen, och se till att ingen annan får tillgång. Det används också för att logga in på ditt Gimi konto!",
   "general_okay_nice": "OK, bra!",
   "payday_takeover_title_kid": "Payday!🎉",
