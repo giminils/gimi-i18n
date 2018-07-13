@@ -1753,5 +1753,8 @@
   "bot_says_spending_advice": "Think about if you need it or want it",
   "bot_says_nice_saving_for_something": "Nice! Are you saving for something?",
   "bot_says_not_saving_dream_add_one": "You are not saving for a dream yet. Wanna add one?",
-  "bot_link_save_for_dream": "Start saving for a dream!"
+  "bot_link_save_for_dream": "Start saving for a dream!",
+  "bot_says_check_out_chores": "Check out your chores?",
+  "bot_link_check_out_chores": "Check out chores!",
+  "bot_link_check_balance": "Check my balance!"
 }
