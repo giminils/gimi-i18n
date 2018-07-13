@@ -276,7 +276,7 @@
   "event_has_reached_a_dream_parent": "PLZ_TRANSLATE {goal.child.nickname} has reached their dream",
   "event_has_reached_a_dream_child": "PLZ_TRANSLATE You have reached your dream",
   "event_you_now_got_weekly_allowance_parent": "PLZ_TRANSLATE {allowance.child.nickname} will now get weekly allowance from {allowance.parent.nickname}",
-  "event_you_now_got_weekly_allowance_child": "PLZ_TRANSLATE You will now get weekly allowance from {relation.parent.nickname}",
+  "event_you_now_got_weekly_allowance_child": "PLZ_TRANSLATE You will now get weekly allowance from {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "PLZ_TRANSLATE {allowance.child.nickname} will now get monthly allowance from {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "PLZ_TRANSLATE You will now get monthly allowance from {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": "PLZ_TRANSLATE {child.nickname} has a new chore",

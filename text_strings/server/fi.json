@@ -276,7 +276,7 @@
   "event_has_reached_a_dream_parent": "{goal.child.nickname} on saavuttanut unelmansa",
   "event_has_reached_a_dream_child": "Olet saavuttanut unelmasi",
   "event_you_now_got_weekly_allowance_parent": "{allowance.child.nickname} saa tästä lähtien viikkorahaa henkilöltä {allowance.parent.nickname}",
-  "event_you_now_got_weekly_allowance_child": "Saat tästä lähtien viikkorahaa henkilöltä {relation.parent.nickname}",
+  "event_you_now_got_weekly_allowance_child": "Saat tästä lähtien viikkorahaa henkilöltä {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} saa tästä lähtien kuukausirahaa henkilöltä {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Saat tästä lähtien kuukausirahaa henkilöltä {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": "{child.nickname} sai uuden askareen",

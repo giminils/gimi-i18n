@@ -276,7 +276,7 @@
   "event_has_reached_a_dream_parent": "{goal.child.nickname} ha raggiunto il suo sogno",
   "event_has_reached_a_dream_child": "Hai raggiunto il tuo sogno",
   "event_you_now_got_weekly_allowance_parent": " {allowance.child.nickname} riceverà una paghetta settimanale da {allowance.parent.nickname}",
-  "event_you_now_got_weekly_allowance_child": " Ora riceverai una paghetta settimanale da {relation.parent.nickname}",
+  "event_you_now_got_weekly_allowance_child": " Ora riceverai una paghetta settimanale da {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": " {allowance.child.nickname} riceverà una paghetta mensile da {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Ora riceverai una paghetta mensile da {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": " {child.nickname} ha una nuova faccenda",

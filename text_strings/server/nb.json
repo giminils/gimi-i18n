@@ -276,7 +276,7 @@
   "event_has_reached_a_dream_parent": "{goal.child.nickname} har spart sammen til sin drøm",
   "event_has_reached_a_dream_child": "Du har spart sammen til sin drøm",
   "event_you_now_got_weekly_allowance_parent": "{allowance.child.nickname} får nå ukepenger av {allowance.parent.nickname}",
-  "event_you_now_got_weekly_allowance_child": "Du får nå ukepenger av {relation.parent.nickname}",
+  "event_you_now_got_weekly_allowance_child": "Du får nå ukepenger av {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} får nå månedspenger av {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Du får nå månedspenger av {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": "{child.nickname} har en ny oppgave",

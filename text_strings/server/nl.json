@@ -276,7 +276,7 @@
   "event_has_reached_a_dream_parent": "De droom van {goal.child.nickname} is bereikt",
   "event_has_reached_a_dream_child": "Je hebt je droom bereikt",
   "event_you_now_got_weekly_allowance_parent": "{allowance.child.nickname} krijgt nu wekelijks zakgeld van {allowance.parent.nickname}",
-  "event_you_now_got_weekly_allowance_child": "Je krijgt nu wekelijks zakgeld van {relation.parent.nickname}",
+  "event_you_now_got_weekly_allowance_child": "Je krijgt nu wekelijks zakgeld van {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} krijgt nu maandelijks zakgeld van {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Je krijgt nu maandelijks zakgeld van {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": "{child.nickname} heeft een nieuw klusje",
