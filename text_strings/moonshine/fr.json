@@ -1780,5 +1780,6 @@
   "bot_btn_yeah_exc": "PLZ_TRANSLATE Yeah!",
   "general_custom": "PLZ_TRANSLATE Custom",
   "your_tasks_section": "PLZ_TRANSLATE Dina uppgifter",
-  "other_parents_tasks": "PLZ_TRANSLATE Andras uppgifter"
+  "other_parents_tasks": "PLZ_TRANSLATE Andras uppgifter",
+  "dots_choose_from_popular_dreams": "PLZ_TRANSLATE ...or choose from popular"
 }
