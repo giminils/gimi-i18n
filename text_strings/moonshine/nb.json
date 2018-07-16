@@ -1778,5 +1778,7 @@
   "bot_btn_not_fun": "Ikke morsomt!",
   "bot_says_fun_right": "Morsomt, ikke sant?",
   "bot_btn_yeah_exc": "Yeah!",
-  "general_custom": "PLZ_TRANSLATE Custom"
+  "general_custom": "PLZ_TRANSLATE Custom",
+  "your_tasks_section": "PLZ_TRANSLATE Dina uppgifter",
+  "other_parents_tasks": "PLZ_TRANSLATE Andras uppgifter"
 }

@@ -1778,5 +1778,7 @@
   "bot_btn_not_fun": "PLZ_TRANSLATE Not fun!",
   "bot_says_fun_right": "PLZ_TRANSLATE Fun right?",
   "bot_btn_yeah_exc": "PLZ_TRANSLATE Yeah!",
-  "general_custom": "PLZ_TRANSLATE Custom"
+  "general_custom": "PLZ_TRANSLATE Custom",
+  "your_tasks_section": "PLZ_TRANSLATE Dina uppgifter",
+  "other_parents_tasks": "PLZ_TRANSLATE Andras uppgifter"
 }

@@ -1778,5 +1778,7 @@
   "bot_btn_not_fun": "Not fun!",
   "bot_says_fun_right": "Fun right?",
   "bot_btn_yeah_exc": "Yeah!",
-  "general_custom": "Custom"
+  "general_custom": "Custom",
+  "your_tasks_section": "Dina uppgifter",
+  "other_parents_tasks": "Andras uppgifter"
 }
