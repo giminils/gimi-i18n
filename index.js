@@ -11,6 +11,17 @@ import es from './text_strings/moonshine/es.json'
 import de from './text_strings/moonshine/de.json'
 import _default from './text_strings/client/default.json'
 
+import svBot from './text_strings/bot/sv.json'
+import enBot from './text_strings/bot/en.json'
+import noBot from './text_strings/bot/nb.json'
+import daBot from './text_strings/bot/da.json'
+import frBot from './text_strings/bot/fr.json'
+import nlBot from './text_strings/bot/nl.json'
+import fiBot from './text_strings/bot/fi.json'
+import itBot from './text_strings/bot/it.json'
+import esBot from './text_strings/bot/es.json'
+import deBot from './text_strings/bot/de.json'
+
 // calendar
 import defaultCalendar from './text_strings/calendar/default.json'
 import daCalendar from './text_strings/calendar/da.json'
@@ -72,17 +83,17 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 export let getTextStrings = (lang: string) => {
   // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
   switch (lang.substring(0, 2)) {
-    case 'sv' : return {..._default, ...sv} // sweden
+    case 'sv' : return {..._default, ...sv, ...svBot} // sweden
     case 'nb' :
-    case 'nn' : return {..._default, ...no} // norway
-    case 'da' : return {..._default, ...da} // danish
-    case 'fr' : return {..._default, ...fr} // france
-    case 'nl' : return {..._default, ...nl} // Netherlands
-    case 'fi' : return {..._default, ...fi} // finish
-    case 'it' : return {..._default, ...it} // italian
-    case 'es' : return {..._default, ...es} // spanish
-    case 'de' : return {..._default, ...de} // german
-    default : return {..._default, ...en}
+    case 'nn' : return {..._default, ...no, ...noBot} // norway
+    case 'da' : return {..._default, ...da, ...daBot} // danish
+    case 'fr' : return {..._default, ...fr, ...frBot} // france
+    case 'nl' : return {..._default, ...nl, ...nlBot} // Netherlands
+    case 'fi' : return {..._default, ...fi, ...fiBot} // finish
+    case 'it' : return {..._default, ...it, ...itBot} // italian
+    case 'es' : return {..._default, ...es, ...esBot} // spanish
+    case 'de' : return {..._default, ...de, ...deBot} // german
+    default : return {..._default, ...en, ...enBot}
   }
 }
 
