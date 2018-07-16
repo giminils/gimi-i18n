@@ -217,7 +217,7 @@
   "event_invitation_is_sent": "PLZ_TRANSLATE Invitation is sent",
   "event_you_are_connected": "PLZ_TRANSLATE You are connected!",
   "event_you_have_got_an_invitation": "PLZ_TRANSLATE You have got an invitation",
-  "event_invitation_was_not_accepted": "PLZ_TRANSLATE Invitation was not accepted",
+  "event_invitation_was_not_accepted": "PLZ_TRANSLATE Запрашэнне не было прынята",
   "event_has_a_new_connection": "PLZ_TRANSLATE Has a new connection",
   "event_you_have_set_allowance": "PLZ_TRANSLATE You have set allowance",
   "event_changed_to_weekly_allowance": "PLZ_TRANSLATE Changed to weekly allowance",

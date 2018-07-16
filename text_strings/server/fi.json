@@ -217,7 +217,7 @@
   "event_invitation_is_sent": "Kutsu lähetetty",
   "event_you_are_connected": "Olet yhdistetty!",
   "event_you_have_got_an_invitation": "Sinulla on kutsu",
-  "event_invitation_was_not_accepted": "Kutsua ei hyväksytty",
+  "event_invitation_was_not_accepted": "PLZ_TRANSLATE Kutsua ei hyväksytty",
   "event_has_a_new_connection": "Uusi yhteys",
   "event_you_have_set_allowance": "Sinulla on taskuraha",
   "event_changed_to_weekly_allowance": "Siirryttiin viikkorahaan",

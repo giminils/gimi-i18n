@@ -217,7 +217,7 @@
   "event_invitation_is_sent": "Invitationen er sendt",
   "event_you_are_connected": "Du er på!",
   "event_you_have_got_an_invitation": "Du har fået en invitation",
-  "event_invitation_was_not_accepted": "Invitationen blev ikke accepteret",
+  "event_invitation_was_not_accepted": "PLZ_TRANSLATE Invitation blev ikke accepteret",
   "event_has_a_new_connection": "Har en ny forbindelse",
   "event_you_have_set_allowance": "Du har sat lommepengene",
   "event_changed_to_weekly_allowance": "Ændret til ugentlige lommepenge",

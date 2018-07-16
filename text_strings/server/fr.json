@@ -217,7 +217,7 @@
   "event_invitation_is_sent": "L'invitation est envoyée",
   "event_you_are_connected": "Vous êtes connecté!",
   "event_you_have_got_an_invitation": "Vous avez reçu une invitation",
-  "event_invitation_was_not_accepted": "L'invitation a été refusée",
+  "event_invitation_was_not_accepted": "PLZ_TRANSLATE L'invitation n'a pas été acceptée",
   "event_has_a_new_connection": "A un nouveau contact",
   "event_you_have_set_allowance": "Vous avez établi une allocation",
   "event_changed_to_weekly_allowance": "Changé pour une allocation hebdomadaire",
