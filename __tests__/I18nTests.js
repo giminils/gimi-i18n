@@ -6,7 +6,7 @@ var jsonDataTranslate = []
 var jsonBreakingSumbols = []
 var jsonArrayUpperCase = []
 
-var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'moonshine', 'gimi-web-redux']
+var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'moonshine', 'gimi-web-redux', 'bot']
 
 var textStrings = {}
 textStringsTypes.forEach(textStringsType => {
