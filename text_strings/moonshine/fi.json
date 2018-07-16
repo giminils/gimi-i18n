@@ -1410,7 +1410,7 @@
   "accepted_to_deposit_title": "Pyyntösi on hyväksytty",
   "accepted_to_deposit_text": "%1$d on antanut sinulle luvan lähettää rahaa henkilölle %2$d. Nyt sinun täytyy rekisteröidä korttisi!",
   "read_reviews": "lue arvosteluja",
-  "cloud_in_n_days": "PLZ_CHECK added to the cloud in %1$d days",
+  "cloud_in_n_days": "PLZ_TRANSLATE in %1$d days",
   "add_another_kid": "Lisää lapsi",
   "nav_bar_notifications": "ilmoitukset",
   "general_coming_soon": "Tulossa pian",
