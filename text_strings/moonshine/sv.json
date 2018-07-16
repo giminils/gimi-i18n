@@ -1777,5 +1777,6 @@
   "bot_btn_its_ok": "It's ok!",
   "bot_btn_not_fun": "Not fun!",
   "bot_says_fun_right": "Fun right?",
-  "bot_btn_yeah_exc": "Yeah!"
+  "bot_btn_yeah_exc": "Yeah!",
+  "general_custom": "Custom"
 }

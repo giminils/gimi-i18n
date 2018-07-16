@@ -1777,5 +1777,6 @@
   "bot_btn_its_ok": "PLZ_TRANSLATE It's ok!",
   "bot_btn_not_fun": "PLZ_TRANSLATE Not fun!",
   "bot_says_fun_right": "PLZ_TRANSLATE Fun right?",
-  "bot_btn_yeah_exc": "PLZ_TRANSLATE Yeah!"
+  "bot_btn_yeah_exc": "PLZ_TRANSLATE Yeah!",
+  "general_custom": "PLZ_TRANSLATE Custom"
 }
