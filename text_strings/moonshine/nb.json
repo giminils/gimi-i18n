@@ -1583,7 +1583,7 @@
   "general_proceed": "Fortsett",
   "updated_card_details_success_text": "Dine nye kortdetaljer lagres trygt, slik at du kan overføre penger når du vil.",
   "payout_in_cash_popover_title": "Sikker på at du vil ha kontant utbetaling?",
-  "payout_in_cash_popover_text": "Pengene vil bli trukket fra %1$d konto",
+  "payout_in_cash_popover_text": "PLZ_TRANSLATE The money has already been added to Savings. By doing cash payout, the money is withdrawn from Savings.",
   "todays_chores": "Dagens oppgaver",
   "this_weeks_chores": "Denne ukens oppgaver",
   "create_new": "Opprett ny",
