@@ -1608,5 +1608,6 @@
   "other_parents_tasks": "Andras uppgifter",
   "dots_choose_from_popular_dreams": "...or choose from popular",
   "general_show_more": "Show more",
-  "general_show_less": "Show less"
+  "general_show_less": "Show less",
+  "share_card_test_score_message": "I got %1$d points on the card test of Gimi"
 }
