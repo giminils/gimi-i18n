@@ -1559,7 +1559,7 @@
   "general_share_gimi": "Share Gimi",
   "general_points": "points",
   "money_settings": "Money settings",
-  "kid_invite_parent": "Hey there! You need some grownups in here to make it work…",
+  "kid_invite_parent": "Hey there! You need some parents in here to make it work…",
   "delete_recurring_popover_title": "You sure you want to delete %1$d?",
   "delete_recurring_popover_text": "This means deleting it on all it’s active days, as well as all completed chores. It will also deduct the money previously earned through this chore from payday. If you only want to change the frequency, go to chore settings!",
   "general_delete_all": "Delete all",
