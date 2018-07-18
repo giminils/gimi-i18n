@@ -215,7 +215,7 @@
   "push_user_veckopengen_name_change": "Veckopengen dör!!! (aaa - panik, WTF, help me!!) Nej nej, lugn. Alltså, bara namnet. Vi döper om. Namnet blir Gimi.",
   "push_cloud_created": "PLZ_TRANSLATE Your cloud is created",
   "event_invitation_is_sent": "PLZ_TRANSLATE Invitation is sent",
-  "event_you_are_connected": "PLZ_TRANSLATE You are connected!",
+  "event_you_are_connected": "PLZ_TRANSLATE Вы звязаны з {connection_token.used_by.nickname}",
   "event_you_have_got_an_invitation": "PLZ_TRANSLATE You have got an invitation",
   "event_invitation_was_not_accepted": "PLZ_TRANSLATE Запрашэнне не было прынята",
   "event_has_a_new_connection": "PLZ_TRANSLATE Has a new connection",

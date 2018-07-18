@@ -215,7 +215,7 @@
   "push_user_veckopengen_name_change": "Idag byter Veckopengen namn till Gimi. Allt fungerar som vanligt, fast med ett nytt namn! :)",
   "push_cloud_created": "Ditt Moln har skapats",
   "event_invitation_is_sent": "Inbjudan har skickats",
-  "event_you_are_connected": "Du har fått en kontakt!",
+  "event_you_are_connected": "Du är nu ihopkopplad med {connection_token.used_by.nickname}",
   "event_you_have_got_an_invitation": "Du har fått en inbjudan",
   "event_invitation_was_not_accepted": "Inbjudan accepterades inte",
   "event_has_a_new_connection": "Har en ny kontakt",
