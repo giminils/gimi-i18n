@@ -1612,5 +1612,6 @@
   "share_card_test_score_message": "I got %1$d points on the card test of Gimi",
   "connect_kid_pitch_in_popover_text": "You can add an allowance and savings interest for %1$d",
   "dont_setup_kid_success_title": "It's ok!",
-  "dont_setup_kid_success_text": "If you change your mind, you can always change this in settings for %1$d"
+  "dont_setup_kid_success_text": "If you change your mind, you can always change this in settings for %1$d",
+  "kid_first_setup_subtitle": "Now it's time to setup some money settings."
 }
