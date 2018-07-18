@@ -1583,7 +1583,7 @@
   "general_proceed": "PLZ_TRANSLATE Proceed",
   "updated_card_details_success_text": "PLZ_TRANSLATE Your new card details are safely stored so that you can transfer money at any time you want.",
   "payout_in_cash_popover_title": "PLZ_TRANSLATE Sure you want to payout in cash?",
-  "payout_in_cash_popover_text": "PLZ_TRANSLATE The money has already been added to Savings. By doing cash payout, the money is withdrawn from Savings.",
+  "payout_in_cash_popover_text": "Il denaro è già stato aggiunto ai Risparmi. Effettuando un pagamento cash, il denaro viene prelevato dai Risparmi.",
   "todays_chores": "PLZ_TRANSLATE Todays chores",
   "this_weeks_chores": "PLZ_TRANSLATE This weeks chores",
   "create_new": "PLZ_TRANSLATE Create new",
