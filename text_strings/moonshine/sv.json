@@ -1107,7 +1107,7 @@
   "event_suggest_chore": "föreslå en uppgift",
   "event_keep_account": "skicka en påminnelse om inbjudan",
   "event_will_delete_account": "ditt användarkonto kommer att raderas",
-  "error_could_not_complete_connection": "vi kunde inte lägga till kotakten!",
+  "error_could_not_complete_connection": "vi kunde inte lägga till kontakten!",
   "error_could_not_complete_connection_description": "barn kan bara lägga till vuxna och vuxna kan bara lägga till barn",
   "general_days": "Dagar",
   "chore_settings_title": "Uppgifter",
