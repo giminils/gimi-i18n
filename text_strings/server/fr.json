@@ -12,7 +12,7 @@
   "push_assignment_active_again": "La tâche {assignment.task.title} est encore une fois disponible. Premier arrivé, premier servi",
   "push_assignment_done": "{assignment.child.name} a maintenant exécuté la tâche {assignment.task.title}",
   "push_assignment_done_by_other": "Vous n'avez pas été assez rapide! {assignment.task.shared_task_completed_by} a terminé la tâche {assignment.task.title} avant vous",
-  "push_assignment_rejected": "La tâche {assignment.task.title} a été refusée. Veuillez réessayer",
+  "push_assignment_rejected": "PLZ_TRANSLATE {assignment.task.title} n&#39;a pas été approuvé par {assignment.updated_by.name}",
   "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} été approuvé par {assignment.approved_by.name}",
   "push_insertion_by_other": "Super! {transaction.created_by.name} a ajouté {transaction.str_value} dans votre tirelire",
   "event_payday_interest": "PLZ_TRANSLATE Next payment has been added to your savings",

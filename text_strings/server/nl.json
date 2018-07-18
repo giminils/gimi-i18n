@@ -12,7 +12,7 @@
   "push_assignment_active_again": "Klus {assignment.task.title} is weer beschikbaar. Kom eens kijken!",
   "push_assignment_done": "{assignment.child.name} heeft nu {assignment.task.title} voltooid",
   "push_assignment_done_by_other": "Je was niet snel genoeg! {assignment.task.shared_task_completed_by} voerde {assignment.task.title} al uit",
-  "push_assignment_rejected": "Klus {assignment.task.title} werd geweigerd. Probeer eens opnieuw",
+  "push_assignment_rejected": "PLZ_TRANSLATE {assignment.task.title} is niet goedgekeurd door {assignment.updated_by.name}",
   "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} is goedgekeurd door {assignment.approved_by.name}",
   "push_insertion_by_other": "Geweldig! {transaction.created_by.name} voegde {transaction.str_value} toe in je spaarpot",
   "event_payday_interest": "Spaargeld bonus is overgemaakt naar Spaargeld",

@@ -12,7 +12,7 @@
   "push_assignment_active_again": "Askare {assignment.task.title} on taas saatavilla. Kuka ehtii ensin?",
   "push_assignment_done": "{assignment.child.name} suoritti juuri askareen {assignment.task.title}",
   "push_assignment_done_by_other": "Nyt et ollut tarpeeksi nopea! {assignment.task.shared_task_completed_by} ehti ensin ({assignment.task.title})",
-  "push_assignment_rejected": "Askaretta {assignment.task.title} ei valitettavasti hyväksytty. Yritä uudelleen",
+  "push_assignment_rejected": "PLZ_TRANSLATE {assignment.task.title} ei hyväksynyt {assignment.updated_by.name}",
   "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} hyväksyttiin {assignment.approved_by.name}",
   "push_insertion_by_other": "Vau! {transaction.created_by.name} laittoi juuri {transaction.str_value} säästöpossuusi",
   "event_payday_interest": "PLZ_TRANSLATE Next payment has been added to your savings",
