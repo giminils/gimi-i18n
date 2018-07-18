@@ -1609,5 +1609,8 @@
   "dots_choose_from_popular_dreams": "...or choose from popular",
   "general_show_more": "Show more",
   "general_show_less": "Show less",
-  "share_card_test_score_message": "I got %1$d points on the card test of Gimi"
+  "share_card_test_score_message": "I got %1$d points on the card test of Gimi",
+  "connect_kid_pitch_in_popover_text": "You can add an allowance and savings interest for %1$d",
+  "dont_setup_kid_success_title": "It's ok!",
+  "dont_setup_kid_success_text": "If you change your mind, you can always change this in settings for %1$d"
 }
