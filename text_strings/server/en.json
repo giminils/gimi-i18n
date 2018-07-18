@@ -13,7 +13,7 @@
   "push_assignment_done": "{assignment.child.name} just performed the chore {assignment.task.title}",
   "push_assignment_done_by_other": "You weren't quick enough! {assignment.task.shared_task_completed_by} finished {assignment.task.title} before you",
   "push_assignment_rejected": "The chore {assignment.task.title} was rejected. Try again",
-  "push_assignment_approved": "Congratulations! {assignment.approved_by.name} has just approved the chore {assignment.task.title}! ({assignment.str_value})",
+  "push_assignment_approved": "{assignment.task.title} was approved by {assignment.approved_by.name}",
   "push_insertion_by_other": "Lovely! {transaction.created_by.name} added {transaction.str_value} into your piggy bank",
   "event_payday_interest": "Savings bonus has been transfered to Savings",
   "event_payday_chore_reward": "Chore rewards has been transfered to Savings",

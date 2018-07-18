@@ -13,7 +13,7 @@
   "push_assignment_done": "{assignment.child.name} heeft nu {assignment.task.title} voltooid",
   "push_assignment_done_by_other": "Je was niet snel genoeg! {assignment.task.shared_task_completed_by} voerde {assignment.task.title} al uit",
   "push_assignment_rejected": "Klus {assignment.task.title} werd geweigerd. Probeer eens opnieuw",
-  "push_assignment_approved": "Proficiat! {assignment.approved_by.name} heeft de klus {assignment.task.title} toegevoegd ({assignment.str_value})",
+  "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} is goedgekeurd door {assignment.approved_by.name}",
   "push_insertion_by_other": "Geweldig! {transaction.created_by.name} voegde {transaction.str_value} toe in je spaarpot",
   "event_payday_interest": "Spaargeld bonus is overgemaakt naar Spaargeld",
   "event_payday_chore_reward": "Beloningen voor klusjes zijn overgemaakt naar Spaargeld",

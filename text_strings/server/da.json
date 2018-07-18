@@ -13,7 +13,7 @@
   "push_assignment_done": "{assignment.child.name} har lige udført {assignment.task.title}",
   "push_assignment_done_by_other": "Du var ikke hurtig nok! {assignment.task.shared_task_completed_by} udførte {assignment.task.title} før dig",
   "push_assignment_rejected": "Opgaven {assignment.task.title} blev desværre ikke godkendt. Prøv igen",
-  "push_assignment_approved": "Tillykke! {assignment.approved_by.name} har lige godkendt {assignment.task.title} ({assignment.str_value})",
+  "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} blev godkendt af {assignment.approved_by.name}",
   "push_insertion_by_other": "Nice! {transaction.created_by.name} har lige sat {transaction.str_value} ind på din sparegris",
   "event_payday_interest": "PLZ_TRANSLATE Next payment has been added to your savings",
   "event_payday_chore_reward": "PLZ_TRANSLATE Next payment has been added to your savings",

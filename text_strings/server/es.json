@@ -13,7 +13,7 @@
   "push_assignment_done": "¡{assignment.child.name} ejecutó en este momento {assignment.task.title}!",
   "push_assignment_done_by_other": "¡No fuiste suficientemente rápido! {assignment.task.shared_task_completed_by} terminó {assignment.task.title} antes que tu",
   "push_assignment_rejected": "La tarea {assignment.task.title} fue rechazada. ¡Inténtalo de nuevo!",
-  "push_assignment_approved": "¡Felicitaciones! ¡{assignment.approved_by.name} acaba de aprobar la tarea {assignment.task.title}! ({assignment.str_value})",
+  "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} fue aprobado por {assignment.approved_by.name}",
   "push_insertion_by_other": "¡Maravilloso! {transaction.created_by.name} agregó {transaction.str_value} en tu hucha",
   "event_payday_interest": "El próximo pago ha sido añadido a tus ahorros",
   "event_payday_chore_reward": "El próximo pago ha sido añadido a tus ahorros",
