@@ -237,7 +237,7 @@
   "event_you_gave_permission_to_edit_chores": "You gave permission to edit chores",
   "event_you_got_a_chore_suggestion": "New chore suggestion!",
   "event_chore_was_deleted": "{chore} was deleted",
-  "event_next_payment_is_added_to_cloud": "Payday! The balance has been transfered to Savings",
+  "event_next_payment_is_added_to_cloud": "Payday",
   "event_your_payment_to_cloud": "Your debt has increased",
   "event_gimi_interest_is_changed_to_x": "Gimi interest has been changed to x%",
   "event_shared_wishlist": "Shared wishlist",
