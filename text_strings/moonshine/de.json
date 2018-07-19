@@ -1613,5 +1613,6 @@
   "connect_kid_pitch_in_popover_text": "PLZ_TRANSLATE You can add an allowance and savings interest for %1$d",
   "dont_setup_kid_success_title": "PLZ_TRANSLATE It's ok!",
   "dont_setup_kid_success_text": "PLZ_TRANSLATE If you change your mind, you can always change this in settings for %1$d",
-  "kid_first_setup_subtitle": "PLZ_TRANSLATE Now it's time to setup some money settings."
+  "kid_first_setup_subtitle": "PLZ_TRANSLATE Now it's time to setup some money settings.",
+  "kid_how_to_get_your_money": "PLZ_TRANSLATE How to get your money"
 }
