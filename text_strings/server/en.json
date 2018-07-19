@@ -263,7 +263,7 @@
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} requests permission to edit your chores",
   "push_payday_parent": "{child.nickname} received {amount} in allowance from you today! Mark it as paid out if you paid out cash!",
   "push_child_has_reached_a_dream": "{name} has reached a dream",
-  "event_add_email": "Add your email address for added security",
+  "event_add_email": "Add your email address",
   "push_short_tutorial": "How to handle money with Gimi",
   "event_chore_name_is_changed": "PLZ_CHECK Chore {chore.title} has been changed",
   "event_welcome_back": "Welcome back! Do you want to start over?",
