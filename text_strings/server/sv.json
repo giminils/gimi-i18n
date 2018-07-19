@@ -264,7 +264,7 @@
   "push_payday_parent": "{child.nickname} fick {amount} i vecko- eller månadspeng av dig idag! Markera den som utbetald om du betalar ut den kontant!",
   "push_child_has_reached_a_dream": "{name} har sparat ihop till en dröm",
   "event_add_email": "Lägg till din e-post",
-  "push_short_tutorial": "Så funkar Gimi",
+  "push_short_tutorial": "Såhär hanterar du pengar i Gimi",
   "event_chore_name_is_changed": "Uppgiften {chore.title} har redigerats",
   "event_welcome_back": "Väkommen tillbaka! Vill du börja om från början?",
   "event_tell_that_your_back": "Låt din familj veta att du är tillbaka!",
