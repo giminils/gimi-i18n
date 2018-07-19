@@ -1618,5 +1618,8 @@
   "qr_scanned_yourself_popover_title": "PLZ_TRANSLATE Did you scan yourself?",
   "qr_scanned_yourself_popover_text": "PLZ_TRANSLATE You can't connect with yourself",
   "qr_scanned_existingf_popover_title": "PLZ_TRANSLATE This connection already exists",
-  "qr_scanned_existing_popover_text": "PLZ_TRANSLATE You can't connect with people you are already connected with"
+  "qr_scanned_existing_popover_text": "PLZ_TRANSLATE You can't connect with people you are already connected with",
+  "kid_withdrawal_explainer_title": "PLZ_TRANSLATE Ask your grownups to give you the money!",
+  "kid_withdrawal_explainer_subtitle": "PLZ_TRANSLATE Your connected grownups are kind of like your bank. They keep your money. Want to buy something? Ask them give you cash or to pay for you. Easy as that!",
+  "general_ok_i_get_it": "PLZ_TRANSLATE OK I get it"
 }
