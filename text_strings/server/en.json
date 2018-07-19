@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Bank details entered successfully!",
   "push_instantor_unsuccessful_login": "Entering bank details was unsuccessful!",
   "push_instantor_login_timeout": "You did not approve the Login request on `MobiltBankId` in 2 minutes.",
-  "event_connect_for_money": "No money yet, invite a parent!",
+  "event_connect_for_money": "No money yet, invite a parent",
   "event_create_dream": "Create your dream",
   "event_secure_account": "Verify your account",
   "event_allowance_tips": "Good to know about allowances",
