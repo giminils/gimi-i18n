@@ -308,5 +308,7 @@
   "push_pfs_manual_deposit_to_savings": "PLZ_TRANSLATE You have received a deposit from {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "PLZ_TRANSLATE You have received a deposit in your savings",
   "event_payday_child": "PLZ_TRANSLATE It's payday!",
-  "event_payday_parent": "PLZ_TRANSLATE It's payday for {child.nickname}"
+  "event_payday_parent": "PLZ_TRANSLATE It's payday for {child.nickname}",
+  "event_premium_payday_child": "PLZ_TRANSLATE It's payday!",
+  "event_premium_payday_parent": "PLZ_TRANSLATE Today is payday!"
 }

@@ -308,5 +308,7 @@
   "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}. Kolla in hur mycket i appen!",
   "push_pfs_payday_deposit_to_savings": "Payday! Du har fått pengar. Kolla in hur mycket i appen!",
   "event_payday_child": "Det är payday!",
-  "event_payday_parent": "Det är payday för {child.nickname}"
+  "event_payday_parent": "Det är payday för {child.nickname}",
+  "event_premium_payday_child": "Det är payday!",
+  "event_premium_payday_parent": "Idag är det payday!"
 }
