@@ -261,7 +261,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Ny vecko- eller månadspeng har satts upp! Kolla in den i appen!",
   "push_child_has_completed_a_chore": "{assignment.child.name} har gjort klart \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} frågar om lov att redigera dina uppgifter",
-  "push_payday_parent": "{child.nickname} fick {amount} i vecko- eller månadspeng av dig idag! Markera den som utbetald om du betalar ut den kontant!",
+  "push_payday_parent": "Idag är det Payday för {child.nickname}! Kolla in hur mycket du betalade till {child.nickname} i appen!",
   "push_child_has_reached_a_dream": "{name} har sparat ihop till en dröm",
   "event_add_email": "Lägg till din e-post",
   "push_short_tutorial": "Såhär hanterar du pengar i Gimi",
