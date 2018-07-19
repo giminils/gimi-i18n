@@ -237,7 +237,7 @@
   "event_you_gave_permission_to_edit_chores": "Du gav tillåtelse att redigera uppgifter",
   "event_you_got_a_chore_suggestion": "Förslag på ny uppgift",
   "event_chore_was_deleted": "{chore} har raderats",
-  "event_next_payment_is_added_to_cloud": "Payday! Pengarna har sparats",
+  "event_next_payment_is_added_to_cloud": "Payday",
   "event_your_payment_to_cloud": "Din betalning för Payday",
   "event_gimi_interest_is_changed_to_x": "Gimis ränta har ändrats till x%",
   "event_shared_wishlist": "Delat önskelista",
