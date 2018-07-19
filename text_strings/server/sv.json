@@ -205,7 +205,7 @@
   "push_verify_phone": "Bekräfta ditt telefonnummer, så vi vet att du är du!",
   "push_suggest_chore": "Inga uppgifter i appen? Föreslå en egen uppgift!",
   "push_send_invite_reminder": "Du har inte fått något svar på din inbjudan. Skicka en ny?",
-  "push_keep_account": "Du kommer att förlora ditt konto om du inte kopplar ihop med någon. Skicka en ny inbjudan!",
+  "push_keep_account": "Ditt konto kommer att raderas om du inte kopplar ihop med någon. Skicka en ny inbjudan till någon nu!",
   "push_will_delete_account": "Ditt konto kommer att raderas om 24 timmar. Rädda dig själv från framtida konkurs genom att koppla ihop med en förälder!",
   "push_account_deleted": "Ditt konto och information har raderats. Om du vill ge Gimi en chans på nytt är du alltid välkommen att börja om!",
   "push_connect_children": "Ingen ihopkoppling än, det gör att det inte är några pengar i systemet - Sätt upp en ihopkoppling med dina barn i appen!",
