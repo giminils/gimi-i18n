@@ -208,7 +208,7 @@
   "push_keep_account": "Ditt konto kommer att raderas om du inte kopplar ihop med någon. Skicka en ny inbjudan till någon nu!",
   "push_will_delete_account": "Ditt konto kommer att raderas om 24 timmar om du inte kopplar ihop med någon! Se till att skicka inbjudan till en förälder eller en annan vuxen nu!",
   "push_account_deleted": "Ditt konto och information har raderats. Om du vill ge Gimi en chans på nytt är du alltid välkommen att börja om!",
-  "push_connect_children": "Ingen ihopkoppling än, det gör att det inte är några pengar i systemet - Sätt upp en ihopkoppling med dina barn i appen!",
+  "push_connect_children": "Du är inte ihopkopplad med något barn och är däför inte aktiv med några pengar i appen. Bjud in dina barn till Gimi nu!",
   "push_set_allowance": "Hur vill du stödja {child_name} med pengar? Uppdatera dina inställningar i appen!",
   "push_help_connect_child": "Du har inte kopplat ihop med något barn. Behöver du hjälp? Vi hjälper dig gärna i appen!",
   "push_get_going": "Fortfarande ingen ihopkoppling. Vi känner att vi håller på att förlora dig innan vi hunnit komma igång! Gå in i appen för att bjuda in ett barn du vill rädda från framtida konkurser!",
