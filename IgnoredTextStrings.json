@@ -504,5 +504,6 @@
   "revoke_permission_notifications",
   "invitation_error",
   "invitation_error_mesasge",
-  "notification_section_setup"
+  "notification_section_setup",
+  "qr_scanned_existing_popover_title"
 ]

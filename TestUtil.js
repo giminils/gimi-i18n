@@ -68,6 +68,7 @@ export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLan
   var keys = Object.keys(firstLang)
   var errorMessages = []
   keys.forEach(key => {
+    if (IgnoredTextStrings.includes(key)) return
     if (firstLang[key] === undefined) return true
     if (secondLang[key] === undefined) return true
     if (!ignoredKeys.includes(key) && firstLang[key].split(template).length !== secondLang[key].split(template).length)
