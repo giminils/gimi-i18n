@@ -1571,7 +1571,7 @@
   "camera_on_error_text": "Kameran startade inte",
   "payday_takeover_multiple_parents_info": "%1$d har andra kontakter. Du kan se vad de betalar i transaktionslistan.",
   "payday_takeover_subtitle_parent": "Din utbetalning har lagts till i sparandet.",
-  "i_approve_possesive_instantors": "PLZ_TRANSLATE Jag godkänner Instantor",
+  "i_approve_possesive_instantors": "PLZ_CHECK Jag godkänner Instantor",
   "i_approve_possesive_instantors_integrity_policy": "PLZ_CHECK Jag godkänner att information från mitt bankkonto, inklusive transaktioner, samlas in, används och delas, och förstår hur annan information kommer användas utifrån vad som står angivet i Instantor.",
   "service_provided_by_instantor": "Tjänsten tillhandahålls av Instantor AB, inte av din bank.",
   "general_user_terms": "Användarpolicy",
