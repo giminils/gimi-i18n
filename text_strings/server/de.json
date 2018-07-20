@@ -290,7 +290,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} ist fertig mit {assignment.task.title}",
   "event_done_with_chore_child": "Du bist fertig mit {assignment.task.title}",
   "push_tell_that_your_back": "{user.nickname} ist zurück in der App und möchte wieder loslegen",
-  "push_payday_child": "Zahltag! Du hast eine Zahlung in Deine Cloud erhalten!",
+  "push_payday_child": "PLZ_TRANSLATE Payday! You just got money. Check out how much in the app!",
   "push_received_first_money": "Du hast Dein erstes Geld erhalten!",
   "push_suggest_chore_to_parents": "Möchtest Du noch mehr Geld verdienen? Schlage Deinen Eltern eine Aufgabe vor!",
   "push_x_days_until_payday": "Dir bleiben {x} Tage bis zum Zahltag! Verdiene mehr Geld und erledige Deine Aufgaben!",
