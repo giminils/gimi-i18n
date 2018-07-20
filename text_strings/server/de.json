@@ -308,5 +308,7 @@
   "push_pfs_manual_deposit_to_savings": "Du hast eine Einzahlung von {pfs_payment_target.payment.parent.nickname} erhalten",
   "push_pfs_payday_deposit_to_savings": "Eine Einzahlung wurde Deinen Ersparnissen hinzugefügt",
   "event_payday_child": "Es ist Zahltag!",
-  "event_payday_parent": "Es ist Zahltag für {child.nickname}"
+  "event_payday_parent": "Es ist Zahltag für {child.nickname}",
+  "event_premium_payday_child": "PLZ_TRANSLATE It's payday!",
+  "event_premium_payday_parent": "PLZ_TRANSLATE Today is payday!"
 }
