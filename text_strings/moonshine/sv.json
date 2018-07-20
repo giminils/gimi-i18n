@@ -1615,9 +1615,9 @@
   "dont_setup_kid_success_text": "Om du ångrar dig kan du alltid ändra detta i Inställningar för %1$d",
   "kid_first_setup_subtitle": "PLZ_CHECK Nu är det dags att sätta upp penga-inställningar.",
   "kid_how_to_get_your_money": "Hur du ska få dina pengar",
-  "qr_scanned_existing_popover_title": "Denna kontakt finns redan",
-  "qr_scanned_existing_popover_text": "Du kan inte koppla ihop dig med personer du redan är ihopkopplade med",
   "kid_withdrawal_explainer_title": "Be de vuxna att ge dig pengarna!",
   "kid_withdrawal_explainer_subtitle": "De vuxna är lite som din bank. De förvarar dina pengar. Vill du köpa något? Be dem om pengar eller att de betalar åt dig. Lätt som en plätt!",
-  "general_ok_i_get_it": "OK jag förstår"
+  "general_ok_i_get_it": "OK jag förstår",
+  "qr_scanned_existing_popover_title": "You're already connected to %1$d",
+  "qr_scanned_existing_popover_text": "Maybe invite someone else while you're at it?"
 }

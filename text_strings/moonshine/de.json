@@ -1615,9 +1615,9 @@
   "dont_setup_kid_success_text": "Wenn Du Deine Meinung änderst, kannst Du das jederzeit in den Einstellungen für %1$d ändern",
   "kid_first_setup_subtitle": "Es ist an der Zeit ein paar Finanzeinstellungen vorzunehmen.",
   "kid_how_to_get_your_money": "So bekommst Du Dein Geld",
-  "qr_scanned_existing_popover_title": "Diese Verbindung existiert bereits",
-  "qr_scanned_existing_popover_text": "Du kannst Dich nicht mit jemandem verbinden, mit dem Du schon verbunden bist",
   "kid_withdrawal_explainer_title": "Bitte Deine Erwachsenen um das Geld!",
   "kid_withdrawal_explainer_subtitle": "Die mit Dir verbundenen Erwachsenen sind quasi Deine Bank. Sie passen auf Dein Geld auf. Möchtest Du etwas kaufen? Bitte sie um Bargeld oder für Dich zu bezahlen. Ganz einfach!",
-  "general_ok_i_get_it": "Okay, ich verstehe"
+  "general_ok_i_get_it": "Okay, ich verstehe",
+  "qr_scanned_existing_popover_title": "PLZ_TRANSLATE You're already connected to %1$d",
+  "qr_scanned_existing_popover_text": "PLZ_TRANSLATE Maybe invite someone else while you're at it?"
 }
