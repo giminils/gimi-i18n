@@ -292,5 +292,7 @@
   "related.articles": "Related articles",
   "manadspeng": "Månadspeng",
   "ekonomifakta": "Ekonomifakta",
-  "download.home": "Download"
+  "download.home": "Download",
+  "referral_bad_phone_number": "The phone number you entered is not valid",
+  "referral_signed_up": "You're registered! We've sent you a link to download the app."
 }
