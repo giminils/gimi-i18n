@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Seuraava tilipäivä",
   "change_this_month": "Muuta %1$d",
   "err_fetching_card_balance": "Emme löytäneet kortin saldoa",
-  "custom_notification_card_has_arrived": "Onko korttisi vielä saapunut?",
+  "card_has_arrived": "Onko korttisi vielä saapunut?",
   "info_view_identity_not_correct_title": "Emme pystyneet varmistamaan henkilöllisyyttäsi",
   "info_view_identity_not_correct_description": "Olemme pahoillamme. Jos pankiltasi saamamme nimi ei ole oikein, emme voi varmistaa henkilöllisyyttäsi, joten emme voi myöntää sinulle korttia.",
   "permission_request_sent": "Lupapyyntö lähetetty!",

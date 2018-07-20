@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Neste payday",
   "change_this_month": "Endre %1$d",
   "err_fetching_card_balance": "Kunne ikke hente kort-balanse.",
-  "custom_notification_card_has_arrived": "Har du mottatt kortet?",
+  "card_has_arrived": "Har du mottatt kortet?",
   "info_view_identity_not_correct_title": "Vi kan ikke bekrefte din identitet.",
   "info_view_identity_not_correct_description": "Vi beklager. Hvis navnet som returneres fra banken din ikke stemmer, kan vi ikke bekrefte identiteten din. Vi kan derfor ikke sende deg et kort.",
   "permission_request_sent": "Forespørsmål om tillatelse sendt!",

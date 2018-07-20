@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Nästa Payday",
   "change_this_month": "Förändring %1$d",
   "err_fetching_card_balance": "Kunde inte visa kortsaldo",
-  "custom_notification_card_has_arrived": "Har ditt kort kommit än?",
+  "card_has_arrived": "Har ditt kort kommit än?",
   "info_view_identity_not_correct_title": "Vi kunde inte verifiera din identitet",
   "info_view_identity_not_correct_description": "Tyvärr, om namnet från din bank inte är korrekt kan vi inte verifiera din identitet och då kan vi inte skicka ett kort till er.",
   "permission_request_sent": "Förfrågan om tillgång är skickat!",

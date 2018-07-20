@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Próximo pago",
   "change_this_month": "Cambio %1$d",
   "err_fetching_card_balance": "No se pudo obtener el saldo de la tarjeta",
-  "custom_notification_card_has_arrived": "¿Ya habrá llegado tu tarjeta?",
+  "card_has_arrived": "¿Ya habrá llegado tu tarjeta?",
   "info_view_identity_not_correct_title": "No pudimos verificar tu identidad",
   "info_view_identity_not_correct_description": "Lo sentimos. Si el nombre que retorna de tu banco no es correcto, no podemos verificar tu identidad, por lo que no podemos obtener tu tarjeta.",
   "permission_request_sent": "¡Solicitud de permiso enviada!",

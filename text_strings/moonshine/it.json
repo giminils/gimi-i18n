@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Prossimo giorno di paga",
   "change_this_month": " Cambio %1$d",
   "err_fetching_card_balance": " Impossibile recuperare il saldo della carta",
-  "custom_notification_card_has_arrived": "La tua carta è arrivata?",
+  "card_has_arrived": "La tua carta è arrivata?",
   "info_view_identity_not_correct_title": "Non possiamo verificare la tua identità",
   "info_view_identity_not_correct_description": "Ci dispiace. Se il nome fornito dalla tua banca non è corretto, non possiamo verificare la tua identità, quindi non possiamo procurarti una carta.",
   "permission_request_sent": "Richiesta di autorizzazione inviata!",

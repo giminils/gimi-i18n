@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Næste Payday",
   "change_this_month": "Ændr %1$d",
   "err_fetching_card_balance": "Kunne ikke læse kortsaldoen",
-  "custom_notification_card_has_arrived": "Er dit kort ankommet?",
+  "card_has_arrived": "Er dit kort ankommet?",
   "info_view_identity_not_correct_title": "Vi kunne ikke bekræfte din identitet",
   "info_view_identity_not_correct_description": "Vi er kede af det. Hvis navnet, der returneres fra din bank, ikke er korrekt, kan vi ikke bekræfte din identitet, så vi kan ikke give dig et kort.",
   "permission_request_sent": "Tilladelsesanmodning sendt!",

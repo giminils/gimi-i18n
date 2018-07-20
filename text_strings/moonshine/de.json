@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Nächster Zahltag",
   "change_this_month": "Ändere %1$d",
   "err_fetching_card_balance": "Konnte das Kartensaldo nicht abholen",
-  "custom_notification_card_has_arrived": "Kam Deine Karte schon an?",
+  "card_has_arrived": "Kam Deine Karte schon an?",
   "info_view_identity_not_correct_title": "Wir konnten Deine Identität nicht verifizieren",
   "info_view_identity_not_correct_description": "Es tut uns leid. Wenn der von Deiner Bank zurückgegebene Name nicht korrekt ist, können wir Deine Identität nicht bestätigen, daher können wir Dir keine Karte besorgen. ",
   "permission_request_sent": "Berechtigungsanfrage gesendet!",

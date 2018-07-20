@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Prochain Payday",
   "change_this_month": "Changer %1$d",
   "err_fetching_card_balance": "Erreur lors de l'affichage du solde",
-  "custom_notification_card_has_arrived": "Est-ce que votre carte est arrivée?",
+  "card_has_arrived": "Est-ce que votre carte est arrivée?",
   "info_view_identity_not_correct_title": "Nous ne pouvons pas confirmer votre identité",
   "info_view_identity_not_correct_description": "Nous sommes désolés. Si le nom donné en retour par votre banque n'est pas juste, nous ne pouvons pas confirmer votre identité, et donc vous ne pouvez pas recevoir de carte.",
   "permission_request_sent": "Demande d'autorisation envoyée!",

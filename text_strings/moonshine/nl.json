@@ -1329,7 +1329,7 @@
   "kid_home_item_next_payday": "Volgende payday",
   "change_this_month": "Wijzig %1$d",
   "err_fetching_card_balance": "Kon het saldo van de kaart niet ophalen",
-  "custom_notification_card_has_arrived": "Is je kaart al aangekomen?",
+  "card_has_arrived": "Is je kaart al aangekomen?",
   "info_view_identity_not_correct_title": "We kunnen je identiteit niet verifiëren",
   "info_view_identity_not_correct_description": "Het spijt ons. Als de naam die we van je bank terugkrijgen niet correct is, dan kunnen we je identiteit niet verifiëren, dus kunnen we geen kaart voor je krijgen.",
   "permission_request_sent": "Verzoek om toestemming gestuurd!",
