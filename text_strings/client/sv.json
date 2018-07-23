@@ -788,7 +788,7 @@
   "which_bank_do_you_have_bankid": "Vilken bank har du BankID på?",
   "create_your_own": "skapa din egen",
   "name_verification_title": "Stämmer ditt namn?",
-  "name_verification_desc": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+  "name_verification_desc": "Ange för- och efternamn endast",
   "general_full_name": "Fullständigt namn",
   "question_name_not_correct": "Stämmer inte namnet?",
   "question_address_correct": "Stämmer adressen?",
