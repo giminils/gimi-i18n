@@ -29,7 +29,7 @@ describe('TextStrings', () => {
     })
 
     moonshineCountryCodes.forEach(lang => {
-      var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/moonshine/${lang}.json`), {encoding: 'utf8'}).split('\n')
+      var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'}).split('\n')
       let errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
