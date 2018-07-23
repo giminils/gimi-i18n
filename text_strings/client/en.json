@@ -1536,7 +1536,7 @@
   "watch_video_notification": "Watch this!",
   "settings_allowance_frequency": "Allowance frequency",
   "settings_allowance_amount": "Allowance amount",
-  "settings_saving_interest": "Saving interest",
+  "settings_saving_interest": "Savings interest",
   "allowance_frequency_error_title": "You can't change the frequency",
   "allowance_frequency_error_desc": "%1$d already has a %2$d.",
   "card_test_here_you_answered_wrong": "Here you answered incorrectly",
