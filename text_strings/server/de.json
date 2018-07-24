@@ -310,5 +310,6 @@
   "event_payday_child": "Es ist Zahltag!",
   "event_payday_parent": "Es ist Zahltag für {child.nickname}",
   "event_premium_payday_child": "PLZ_TRANSLATE It's payday!",
-  "event_premium_payday_parent": "PLZ_TRANSLATE Today is payday!"
+  "event_premium_payday_parent": "PLZ_TRANSLATE Today is payday!",
+  "push_you_got_a_chore_suggestion": "PLZ_CHECK You got a chore suggestion from {task.created_by.nickname}"
 }

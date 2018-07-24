@@ -310,5 +310,6 @@
   "event_payday_child": "It's payday!",
   "event_payday_parent": "It's payday for {child.nickname}",
   "event_premium_payday_child": "It's payday!",
-  "event_premium_payday_parent": "Today is payday!"
+  "event_premium_payday_parent": "Today is payday!",
+  "push_you_got_a_chore_suggestion": "You got a chore suggestion from {task.created_by.nickname}"
 }
