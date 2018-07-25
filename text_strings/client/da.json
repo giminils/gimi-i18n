@@ -1621,5 +1621,6 @@
   "qr_scanned_existing_popover_title": "Du er allerede forbundet med %1$d",
   "qr_scanned_existing_popover_text": "Måske kunne du invitere andre, nu hvor du er i gang?",
   "title_on_what_day": "På hvilken dag?",
-  "desc_payday_set_to": "Lønningsdag er sat til…"
+  "desc_payday_set_to": "Lønningsdag er sat til…",
+  "in_n_day": "PLZ_TRANSLATE in %1$d day"
 }
