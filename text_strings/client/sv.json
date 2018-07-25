@@ -1619,7 +1619,7 @@
   "kid_withdrawal_explainer_subtitle": "De vuxna är lite som din bank. De förvarar dina pengar. Vill du köpa något? Be dem om pengar eller att de betalar åt dig. Lätt som en plätt!",
   "general_ok_i_get_it": "OK jag förstår",
   "qr_scanned_existing_popover_title": "Du är redan ihopkopplad med %1$d",
-  "qr_scanned_existing_popover_text": "Du kan inte koppla ihop dig med personer du redan är ihopkopplad med",
+  "qr_scanned_existing_popover_text": "Kanske bjuda in någon annan medan du är igång?",
   "title_on_what_day": "På vilken dag?",
   "desc_payday_set_to": "PLZ_CHECK Payday kommer sättas till…"
 }
