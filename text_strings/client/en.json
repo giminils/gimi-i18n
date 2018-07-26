@@ -705,7 +705,7 @@
   "one_time_only_desc": "can only be completed once",
   "why_verify_identity": "Why do we have to verify your identity?",
   "why_verify_identity_desc": "According to EU legislation and regulations, financial services need to identify their customers, it's called Know Your Customer. \n\nThis means we need to verify your identity. \n\nWe use Instantor, whose solution is based on a BankID login.",
-  "kid_card_pin_reminder": "%1$d card PIN is \n\n1234",
+  "kid_card_pin_reminder": "Card PIN for %1$d is \n\n1234",
   "contacting_bank": "connecting with your bank",
   "push_cloud_created": "Get started with your savings",
   "push_add_profile_pic": "Your connections want to see what you look like! Add a picture in the app",
