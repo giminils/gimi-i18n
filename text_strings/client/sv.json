@@ -705,7 +705,7 @@
   "one_time_only_desc": "kan bara göras en gång",
   "why_verify_identity": "Varför vi behöver verifiera din identitet",
   "why_verify_identity_desc": "Enligt EU-lagstiftning behöver vi identifiera våra kunder och säkerställa att du är den du utger dig för att vara.\n\nVi använder oss av Instantor, en säker lösning som bygger på BankID för att du ska kunna verifiera din identitet.",
-  "kid_card_pin_reminder": "%1$d kort-PIN är \n\n1234",
+  "kid_card_pin_reminder": "Kort-PIN för är %1$d \n\n1234",
   "contacting_bank": "kopplar upp mot din bank",
   "push_cloud_created": "Kom igång med ditt sparande",
   "push_add_profile_pic": "lägg till en bild",
