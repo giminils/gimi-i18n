@@ -1623,5 +1623,6 @@
   "title_on_what_day": "På vilken dag?",
   "desc_payday_set_to": "PLZ_CHECK Payday kommer sättas till…",
   "in_n_day": "PLZ_CHECK in %1$d day",
-  "day_to_next_pay": "PLZ_CHECK day until \nPayday"
+  "day_to_next_pay": "PLZ_CHECK day until \nPayday",
+  "suggested_chores": "PLZ_CHECK Föreslagna sysslor"
 }
