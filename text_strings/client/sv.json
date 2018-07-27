@@ -500,7 +500,7 @@
   "general_this_week": "denna vecka",
   "general_month": "månad",
   "question_delete": "vill du radera %1$d?",
-  "question_have_account": "Vi kan inte hitta ditt användarkonto!",
+  "question_have_account": "Vi hittar inte ditt användarkonto!",
   "signin_code_not_found": "du skrev in %1$d. Kontrollera att du har skrivit in rätt och försök igen.",
   "verification_failed": "Verifieringen misslyckades.",
   "verification_failed_text": "Verifieringen av ditt telefonnummer eller e-post misslyckades. Vänligen kontrollera din uppkoppling.",
