@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Verzoeken om klussen uit te voeren",
   "event_you_got_permission_to_edit_chores": "U heeft toestemming gekregen om klusjes te bewerken",
   "event_you_gave_permission_to_edit_chores": "U heeft toestemming gegeven om klusjes te bewerken",
-  "event_you_got_a_chore_suggestion": "U heeft een klus suggestie ontvangen",
+  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE Je hebt een klus suggestie van {child.nickname}",
   "event_chore_was_deleted": "{chore} is verwijderd",
   "event_next_payment_is_added_to_cloud": "Payday! Het geld is overgemaakt naar het Spaargeld",
   "event_your_payment_to_cloud": "Je schuld is toegenomen",

@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Anmodninger for opgave tilladelse",
   "event_you_got_permission_to_edit_chores": "Du har fået tilladelse til at redigere opgaver",
   "event_you_gave_permission_to_edit_chores": "Du har givet tilladelse til at redigere opgaver",
-  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}",
+  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE Du har et {child.nickname} fra {child.nickname}",
   "event_chore_was_deleted": "{chore} blev slettet",
   "event_next_payment_is_added_to_cloud": "Næste betaling er blevet tilføjet i skyen",
   "event_your_payment_to_cloud": "Din betaling til skyen",

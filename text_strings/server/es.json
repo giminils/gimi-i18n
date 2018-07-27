@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Solicitud de permiso para una tarea",
   "event_you_got_permission_to_edit_chores": "Obtuviste el permiso para modificar las tareas",
   "event_you_gave_permission_to_edit_chores": "Otorgaste el permiso para modificar las tareas",
-  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}",
+  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE {child.nickname} una sugerencia de tarea de {child.nickname}",
   "event_chore_was_deleted": "{chore} fue eliminada",
   "event_next_payment_is_added_to_cloud": "El próximo pago es añadido a la nube",
   "event_your_payment_to_cloud": "Tu pago para la nube",

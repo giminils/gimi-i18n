@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Anfragen für Aufgaben-Erlaubnis",
   "event_you_got_permission_to_edit_chores": "Du hast die Erlaubnis Aufgaben zu bearbeiten",
   "event_you_gave_permission_to_edit_chores": "Du gabst die Erlaubnis Aufgaben zu bearbeiten",
-  "event_you_got_a_chore_suggestion": "Je hebt een klus suggestie van {child.nickname}",
+  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE Du hast einen {child.nickname} von {child.nickname}",
   "event_chore_was_deleted": "{chore} wurde gelöscht",
   "event_next_payment_is_added_to_cloud": "Nächste Zahlung wurde in die Cloud überwiesen",
   "event_your_payment_to_cloud": "Deine Einzahlung in die Clouud",
