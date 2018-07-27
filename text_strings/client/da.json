@@ -663,7 +663,7 @@
   "scan_code": "Scan kode",
   "recommended_card_age_description": "Vi anbefaler at bestille kortet til børn over %1$d år.",
   "enable_push": "aktiver push notifikationer",
-  "convert_cloud": "Konverter skyen",
+  "convert_cloud": "Første indbetaling",
   "transfer_to_card": "overførsel til kort",
   "question_amount_to_transfer": "Hvor meget vil du overføre?",
   "convert_cloud_to_real_money_description": "Indstil din gæld til nul og betal rigtige penge til den nyoprettede opsparingskonto.",
