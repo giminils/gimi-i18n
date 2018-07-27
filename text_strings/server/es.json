@@ -216,7 +216,7 @@
   "push_cloud_created": "Tu nube ha sido creada",
   "event_invitation_is_sent": "Se envió la invitación",
   "event_you_are_connected": "PLZ_TRANSLATE Estás conectado con {connection_token.used_by.nickname}",
-  "event_you_have_got_an_invitation": "Tienes una invitación",
+  "event_you_have_got_an_invitation": "PLZ_TRANSLATE You have got an invitation from {child.nickname}",
   "event_invitation_was_not_accepted": "PLZ_TRANSLATE La invitación no fue aceptada",
   "event_has_a_new_connection": "Tiene una nueva conexión",
   "event_you_have_set_allowance": "Ha establecido una recompensa",

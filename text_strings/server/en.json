@@ -216,7 +216,7 @@
   "push_cloud_created": "Start grow your savings!",
   "event_invitation_is_sent": "Invitation has been sent",
   "event_you_are_connected": "You are connected with {connection_token.used_by.nickname}",
-  "event_you_have_got_an_invitation": "You have got an invitation",
+  "event_you_have_got_an_invitation": "You have got an invitation from {child.nickname}",
   "event_invitation_was_not_accepted": "Invitation was not accepted",
   "event_has_a_new_connection": "Has a new connection",
   "event_you_have_set_allowance": "You have set an allowance",
