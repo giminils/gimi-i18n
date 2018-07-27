@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Frågar om tillgång till uppgifter",
   "event_you_got_permission_to_edit_chores": "Du har fått tillåtelse att redigera uppgifter",
   "event_you_gave_permission_to_edit_chores": "Du gav tillåtelse att redigera uppgifter",
-  "event_you_got_a_chore_suggestion": "Förslag på ny uppgift",
+  "event_you_got_a_chore_suggestion": "Du har ett sysselsättningsförslag från {child.nickname}",
   "event_chore_was_deleted": "{chore} har raderats",
   "event_next_payment_is_added_to_cloud": "Payday",
   "event_your_payment_to_cloud": "Din betalning för Payday",

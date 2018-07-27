@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Richiesta di permesso per una faccenda",
   "event_you_got_permission_to_edit_chores": "Hai il permesso di modificare le faccende",
   "event_you_gave_permission_to_edit_chores": "Hai dato il permesso di modificare le faccende",
-  "event_you_got_a_chore_suggestion": "Hai un suggerimento per una faccenda",
+  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}",
   "event_chore_was_deleted": "{chore} è stata cancellata",
   "event_next_payment_is_added_to_cloud": "Il prossimo pagamento è stato aggiunto al Cloud",
   "event_your_payment_to_cloud": "Il tuo pagamento al Cloud",

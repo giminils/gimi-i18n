@@ -235,7 +235,7 @@
   "event_requests_for_chore_permission": "Askarelupapyynnöt",
   "event_you_got_permission_to_edit_chores": "Sinulla on lupa muokata askareita",
   "event_you_gave_permission_to_edit_chores": "Olet antanut luvan muokata askareita",
-  "event_you_got_a_chore_suggestion": "Sinulla on askare-ehdotus",
+  "event_you_got_a_chore_suggestion": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}",
   "event_chore_was_deleted": "{chore} poistettiin",
   "event_next_payment_is_added_to_cloud": "Seuraava maksu lisättiin pilveen",
   "event_your_payment_to_cloud": "Sinun maksusi pilveen",
