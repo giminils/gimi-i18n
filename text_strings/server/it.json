@@ -308,8 +308,8 @@
   "push_pfs_manual_deposit_to_savings": "Hai ricevuto un deposito da {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "Hai ricevuto un deposito nei tuoi risparmi",
   "event_payday_child": "È Giorno di paga!",
-  "event_payday_parent": "È Giorno di paga per {child.nickname}",
-  "event_premium_payday_child": "È  It's giorno di paga!",
+  "event_payday_parent": "È giorno di paga per {child.nickname}",
+  "event_premium_payday_child": "È giorno di paga!",
   "event_premium_payday_parent": "Oggi è giorno di paga!",
   "push_you_got_a_chore_suggestion": "Hai un suggerimento per una faccenda da {task.created_by.nickname}",
   "event_child_created": "Impara a conoscere Gimi!"
