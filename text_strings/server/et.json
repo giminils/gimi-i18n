@@ -245,7 +245,7 @@
   "event_report_last_month": "PLZ_TRANSLATE Report: Last month",
   "event_yummy_a_new_update_is_available": "PLZ_TRANSLATE Yummy! A new update is available",
   "event_child_could_not_be_connected": "PLZ_TRANSLATE Child could not be connected",
-  "event_allowance_is_set_for_you": "PLZ_TRANSLATE Allowance is set for you",
+  "event_allowance_is_set_for_you": "PLZ_TRANSLATE {parent.nickname} set an allowance for you",
   "event_chore_was_not_approved": "PLZ_TRANSLATE {chore.title} was not approved",
   "event_reminder_of_chore": "PLZ_TRANSLATE Reminder of {chore}",
   "event_chore_is_deleted": "PLZ_TRANSLATE {chore.title} is deleted",

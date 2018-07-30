@@ -245,7 +245,7 @@
   "event_report_last_month": "Rapport: Förra månaden",
   "event_yummy_a_new_update_is_available": "Yummy! Finns ny uppdatering",
   "event_child_could_not_be_connected": "Ihopkoppling misslyckades",
-  "event_allowance_is_set_for_you": "Ny vecko- eller månadspeng är satt",
+  "event_allowance_is_set_for_you": "{parent.nickname} ställer in en ersättning för dig",
   "event_chore_was_not_approved": "{chore.title} godkändes inte",
   "event_reminder_of_chore": "Påminnelse om {chore}",
   "event_chore_is_deleted": "{chore.title} har raderats",

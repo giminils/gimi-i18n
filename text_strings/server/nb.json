@@ -245,7 +245,7 @@
   "event_report_last_month": "Rapport: Forrige måned",
   "event_yummy_a_new_update_is_available": "Yummy! En ny oppdatering er tilgjengelig",
   "event_child_could_not_be_connected": "Barnet kunne ikke bli koblet sammen",
-  "event_allowance_is_set_for_you": "Nye uke- eller månedspenger er bestemt for deg",
+  "event_allowance_is_set_for_you": "PLZ_TRANSLATE {parent.nickname} set an allowance for you",
   "event_chore_was_not_approved": "{chore.title} ble ikke godjkjent",
   "event_reminder_of_chore": "Påminnelse om {chore}",
   "event_chore_is_deleted": "{chore.title} er slettet",

@@ -245,7 +245,7 @@
   "event_report_last_month": "Report: Last month",
   "event_yummy_a_new_update_is_available": "Yummy! A new update is available",
   "event_child_could_not_be_connected": "Child could not be connected",
-  "event_allowance_is_set_for_you": "Allowance has been set for you",
+  "event_allowance_is_set_for_you": "{parent.nickname} set an allowance for you",
   "event_chore_was_not_approved": "{chore.title} was not approved",
   "event_reminder_of_chore": "Reminder of {chore}",
   "event_chore_is_deleted": "{chore.title} has been deleted",

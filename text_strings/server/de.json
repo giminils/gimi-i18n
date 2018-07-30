@@ -245,7 +245,7 @@
   "event_report_last_month": "Bericht: Letzter Monat",
   "event_yummy_a_new_update_is_available": "Juhu! Es ist ein neues Update verfügbar",
   "event_child_could_not_be_connected": "Kind konnte nicht verbunden werden",
-  "event_allowance_is_set_for_you": "Dein Taschengeld wurde eingestellt",
+  "event_allowance_is_set_for_you": "PLZ_TRANSLATE {parent.nickname} set an allowance for you",
   "event_chore_was_not_approved": "{chore.title} wurde abgelehnt",
   "event_reminder_of_chore": "Erinnerung an {chore}",
   "event_chore_is_deleted": "{chore.title} wurde gelöscht",
