@@ -282,7 +282,7 @@
   "event_you_have_got_a_new_chore_parent": "{child.nickname} har en ny opgave",
   "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE {user.nickname} sent you a new chore",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} har {x} nye opgaver",
-  "event_you_have_got_x_new_chores_child": "Du har {x} nye opgaver",
+  "event_you_have_got_x_new_chores_child": "PLZ_TRANSLATE {parent.nickname} sent you {x} new chores",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} har en rente på {child.total_interest_rate}% i skyen",
   "event_you_have_got_an_interest_rate_of_x_child": "Du har fået en rentesats på {child.total_interest_rate}% i skyen",
   "event_you_have_reached_a_dream_parent": "{goal.child.nickname} har opnået sin drøm",

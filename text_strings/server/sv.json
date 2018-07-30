@@ -282,7 +282,7 @@
   "event_you_have_got_a_new_chore_parent": "{child.nickname} har en ny uppgift",
   "event_you_have_got_a_new_chore_child": "{user.nickname} skickade dig en ny chore",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} har {x} nya uppgifter",
-  "event_you_have_got_x_new_chores_child": "Du har {x} nya uppgifter",
+  "event_you_have_got_x_new_chores_child": "{parent.nickname} skickade dig {x} nya sysslor",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} har fått en ränta på {child.total_interest_rate}%",
   "event_you_have_got_an_interest_rate_of_x_child": "Du har fått en ränta på {child.total_interest_rate}%",
   "event_you_have_reached_a_dream_parent": "{goal.child.nickname} har nått sin dröm",

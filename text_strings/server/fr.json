@@ -282,7 +282,7 @@
   "event_you_have_got_a_new_chore_parent": "{child.nickname} a une nouvelle tâche",
   "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE {user.nickname} sent you a new chore",
   "event_you_have_got_x_new_chores_parent": " {child.nickname} a {x} nouvelles tâches",
-  "event_you_have_got_x_new_chores_child": "Vous avez {x} nouvelles tâches",
+  "event_you_have_got_x_new_chores_child": "PLZ_TRANSLATE {parent.nickname} sent you {x} new chores",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} a un taux d'intérêt dans le Cloud de {child.total_interest_rate}%",
   "event_you_have_got_an_interest_rate_of_x_child": "Vous avez un taux d'intérêt dans le Cloud de {child.total_interest_rate}%",
   "event_you_have_reached_a_dream_parent": " {goal.child.nickname} a atteint son souhait",
