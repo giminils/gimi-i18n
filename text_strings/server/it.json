@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Suggerimento di una nuova paghetta",
   "event_suggestion_of_new_chore_update": "Suggerimento di una nuova faccenda",
   "event_suggestion_of_monthly_allowance": "Suggerimento di una paghetta mensile",
-  "event_chore_was_approved": "{chore.title} è stata approvata",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} è stata auto-approvata",
   "event_chore_was_disapproved": "{chore.title} non è stata approvata",
   "event_want_to_activate_auto_approval": "Vuoi attivare l'auto-approvazione?",

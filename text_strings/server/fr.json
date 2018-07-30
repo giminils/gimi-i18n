@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Suggestion pour une nouvelle allocation",
   "event_suggestion_of_new_chore_update": "Suggestion pour une mise à jour d'une tâche",
   "event_suggestion_of_monthly_allowance": "Suggestion pour une allocation mensuelle",
-  "event_chore_was_approved": "{chore.title} a été approuvé",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} a été approuvé automatiquement",
   "event_chore_was_disapproved": "{chore.title} n'a pas été aprprouvé",
   "event_want_to_activate_auto_approval": "Souhaitez-vous activer l'auto-approbation?",

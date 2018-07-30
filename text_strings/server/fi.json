@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Uusi taskurahaehdotus",
   "event_suggestion_of_new_chore_update": "Askarepäivitysehdotus",
   "event_suggestion_of_monthly_allowance": "Kuukausirahaehdotus",
-  "event_chore_was_approved": "{chore.title} hyväksyttiin",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} hyväksyttiin automaattisesti",
   "event_chore_was_disapproved": "{chore.title} hylättiin",
   "event_want_to_activate_auto_approval": "Haluatko hyväksyä automaattisesti?",

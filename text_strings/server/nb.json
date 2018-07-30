@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Gimi foreslår nye uke- eller månedspenger",
   "event_suggestion_of_new_chore_update": "Gimi foreslår oppdatering av oppgaver",
   "event_suggestion_of_monthly_allowance": "Gimi foreslår å bytte til månedspenger",
-  "event_chore_was_approved": "{chore.title} ble godkjent",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} ble automatisk godkjent",
   "event_chore_was_disapproved": "{chore.title} ble ikke godkjent",
   "event_want_to_activate_auto_approval": "Aktivere automatisk godkjennelse?",

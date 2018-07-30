@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Sugerencia de una nueva recompensa",
   "event_suggestion_of_new_chore_update": "Sugerencia de una nueva tarea actualizada",
   "event_suggestion_of_monthly_allowance": "Sugerencia de recompensa mensual",
-  "event_chore_was_approved": "{chore.title} fue aprobada",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} fue aprobada automáticamente",
   "event_chore_was_disapproved": "{chore.title} no fue aprobada",
   "event_want_to_activate_auto_approval": "¿Desea activar la aprobación automática?",

@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Neuer Taschengeldvorschlag",
   "event_suggestion_of_new_chore_update": "Aktualisierter Aufgabenvorschlag",
   "event_suggestion_of_monthly_allowance": "Vorschlag für monatliches Taschengeld",
-  "event_chore_was_approved": "{chore.title} wurde genehmigt",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} wurde automatisch genehmigt",
   "event_chore_was_disapproved": "{chore.title} wurde abgelehnt",
   "event_want_to_activate_auto_approval": "Möchtest Du die automatische Bestätigung aktivieren?",

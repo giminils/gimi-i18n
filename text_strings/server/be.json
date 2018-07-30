@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "PLZ_TRANSLATE Suggestion of new allowance",
   "event_suggestion_of_new_chore_update": "PLZ_TRANSLATE Suggestion of new chore update",
   "event_suggestion_of_monthly_allowance": "PLZ_TRANSLATE Suggestion of monthly allowance",
-  "event_chore_was_approved": "PLZ_TRANSLATE {chore.title} was approved",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {chore.title}",
   "event_chore_was_auto_approved": "PLZ_TRANSLATE {chore.title} was auto approved",
   "event_chore_was_disapproved": "PLZ_TRANSLATE {chore.title} was disapproved",
   "event_want_to_activate_auto_approval": "PLZ_TRANSLATE Want to activate auto approval?",
