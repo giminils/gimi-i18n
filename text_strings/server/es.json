@@ -259,7 +259,7 @@
   "push_you_have_a_new_connection": "¡Tienes una nueva conexión!",
   "push_you_have_got_an_invitation_to_connect": "Tienes una invitación de {connection_token.created_by.nickname} para conectarte",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "¡La recompensa es configurada para ti. ¡Verifícalo en la aplicación!",
-  "push_child_has_completed_a_chore": "¡{assignment.child.name} ha completado \"{assignment.task.title}\"!",
+  "push_child_has_completed_a_chore": "¡{assignment.child.nickname} ha completado \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} pide permiso para modificar sus tareas",
   "push_payday_parent": "¡Hoy es día de pago para {child.nickname}! ¡Verifica en la aplicación cuánto le has pagado a{child.nickname}!",
   "push_child_has_reached_a_dream": "{name} ha alcanzado un sueño",

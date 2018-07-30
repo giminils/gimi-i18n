@@ -259,7 +259,7 @@
   "push_you_have_a_new_connection": "Hai una nuova connessione!",
   "push_you_have_got_an_invitation_to_connect": "Hai un nuovo invito da {connection_token.created_by.nickname} per connetterti",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "La tua paghetta è pronta per te! Controllala nell'app!",
-  "push_child_has_completed_a_chore": "{assignment.child.name} ha completato \"{assignment.task.title}\"!",
+  "push_child_has_completed_a_chore": "{assignment.child.nickname} ha completato \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} chiede il permesso di modificare le tue faccende",
   "push_payday_parent": "{child.nickname} ha ricevuto {child.nickname} nella paghetta da te oggi! Contrassegnalo come pagato se hai pagato in contanti!",
   "push_child_has_reached_a_dream": "{name} ha raggiunto un sogno",
