@@ -280,7 +280,7 @@
   "event_you_now_got_monthly_allowance_parent": "PLZ_TRANSLATE {allowance.child.nickname} får nu månadspeng av {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "PLZ_TRANSLATE Du får nu månadspeng av {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": "PLZ_TRANSLATE {child.nickname} har en ny uppgift",
-  "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE Teil on uus {task.title} \"{task.title}\"",
+  "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE {user.nickname} sent you a new chore",
   "event_you_have_got_x_new_chores_parent": "PLZ_TRANSLATE {child.nickname} har {x} nya uppgifter",
   "event_you_have_got_x_new_chores_child": "PLZ_TRANSLATE Du har {x} nya uppgifter",
   "event_you_have_got_an_interest_rate_of_x_parent": "PLZ_TRANSLATE {child.nickname} har fått en ränta i Molnet på {child.total_interest_rate}%",

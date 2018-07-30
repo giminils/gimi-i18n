@@ -280,7 +280,7 @@
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} erhält ab jetzt ein monatliches Taschengeld von {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Du erhälst ab jetzt ein monatliches Taschengeld von {allowance.parent.nickname}",
   "event_you_have_got_a_new_chore_parent": "{child.nickname} hat eine neue Aufgabe",
-  "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE Du hast eine neue Aufgabe \"{task.title}\"",
+  "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE {user.nickname} sent you a new chore",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} hat {x} neue Aufgaben",
   "event_you_have_got_x_new_chores_child": "Du hast {x} neue Aufgaben",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} erhält einen Zinssatz von {child.total_interest_rate}%",
