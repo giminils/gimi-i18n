@@ -296,7 +296,7 @@
   "push_x_days_until_payday": "{x} dagar till Payday! Utför några uppgifter och tjäna mer pengar!",
   "push_checkout_balance": "Kolla in ditt saldo och se om dina pengar växer!",
   "push_have_you_bought_something": "Har du köpt något åt {child.nickname} idag? Glöm då inte göra ett uttag och dra av pengarna i appen!",
-  "push_does_kid_has_cash": "Har {child.nickname} kontanter? Växla in dem och gör en insättning till det som har sparats i appen!",
+  "push_does_kid_has_cash": "Har {child.nickname} kontanter? Växla in dem och gör sedan en insättning i appen!",
   "push_need_help_with_dinner": "Behöver du hjälp med något hemma? Lägg till en uppgift för {child.nickname}",
   "event_has_card_arrived": "Har kortet kommit?",
   "event_pfs_card_blocked_by_parent": "Ditt kort har spärrats",
@@ -307,10 +307,10 @@
   "event_pfs_payday_deposit_to_savings": "Payday! Insättning till kontot",
   "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}. Kolla in hur mycket i appen!",
   "push_pfs_payday_deposit_to_savings": "Payday! Du har fått pengar. Kolla in hur mycket i appen!",
-  "event_payday_child": "Det är Payday!",
-  "event_payday_parent": "Det är Payday för {child.nickname}",
-  "event_premium_payday_child": "Det är Payday!",
-  "event_premium_payday_parent": "Idag är det Payday!",
-  "push_you_got_a_chore_suggestion": "Du har fått en uppgiftsförslag från {task.created_by.nickname}",
-  "event_child_created": "Lär dig känna Gimi!"
+  "event_payday_child": "Payday",
+  "event_payday_parent": "Payday för {child.nickname}",
+  "event_premium_payday_child": "Payday",
+  "event_premium_payday_parent": "Payday",
+  "push_you_got_a_chore_suggestion": "Uppgiftsförslag från {task.created_by.nickname}",
+  "event_child_created": "Lär känna Gimi!"
 }
