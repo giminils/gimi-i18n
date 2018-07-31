@@ -264,7 +264,7 @@
   "push_payday_parent": "Det är lönedag för {child.nickname}",
   "push_child_has_reached_a_dream": "{name} har sparat ihop till en dröm",
   "event_add_email": "Lägg till din e-post",
-  "push_short_tutorial": "Såhär hanterar du pengar i Gimi",
+  "push_short_tutorial": "Såhär funkar appen",
   "event_chore_name_is_changed": "Uppgiften {chore.title} har redigerats",
   "event_welcome_back": "Väkommen tillbaka! Vill du börja om från början?",
   "event_tell_that_your_back": "Låt din familj veta att du är tillbaka!",
