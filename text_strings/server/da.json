@@ -279,7 +279,7 @@
   "event_you_now_got_weekly_allowance_child": "Du får nu ugentlige lommepenge fra {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} vil nu få månedlige lommepenge fra {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Du får nu månedlige lommepenge fra {allowance.parent.nickname}",
-  "event_you_have_got_a_new_chore_parent": "{child.nickname} har en ny opgave",
+  "event_you_have_got_a_new_chore_parent": "{user.nickname} har en ny opgave",
   "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE {user.nickname} sent you a new chore",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} har {x} nye opgaver",
   "event_you_have_got_x_new_chores_child": "PLZ_TRANSLATE {parent.nickname} sent you {x} new chores",

@@ -279,7 +279,7 @@
   "event_you_now_got_weekly_allowance_child": "Saat tästä lähtien viikkorahaa henkilöltä {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} saa tästä lähtien kuukausirahaa henkilöltä {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Saat tästä lähtien kuukausirahaa henkilöltä {allowance.parent.nickname}",
-  "event_you_have_got_a_new_chore_parent": "{child.nickname} sai uuden askareen",
+  "event_you_have_got_a_new_chore_parent": "{user.nickname} sai uuden askareen",
   "event_you_have_got_a_new_chore_child": "PLZ_TRANSLATE {user.nickname} sent you a new chore",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} sai {x} uutta askaretta",
   "event_you_have_got_x_new_chores_child": "PLZ_TRANSLATE {parent.nickname} sent you {x} new chores",

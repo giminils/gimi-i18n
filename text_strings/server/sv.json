@@ -279,7 +279,7 @@
   "event_you_now_got_weekly_allowance_child": "Du får nu veckopeng av {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_parent": "{allowance.child.nickname} får nu månadspeng av {allowance.parent.nickname}",
   "event_you_now_got_monthly_allowance_child": "Du får nu månadspeng av {allowance.parent.nickname}",
-  "event_you_have_got_a_new_chore_parent": "{child.nickname} har en ny uppgift",
+  "event_you_have_got_a_new_chore_parent": "{user.nickname} har en ny uppgift",
   "event_you_have_got_a_new_chore_child": "{user.nickname} skickade dig en ny chore",
   "event_you_have_got_x_new_chores_parent": "{child.nickname} har {x} nya uppgifter",
   "event_you_have_got_x_new_chores_child": "{parent.nickname} skickade dig {x} nya sysslor",
