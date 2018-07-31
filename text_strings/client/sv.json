@@ -1621,7 +1621,7 @@
   "qr_scanned_existing_popover_title": "Du är redan ihopkopplad med %1$d",
   "qr_scanned_existing_popover_text": "Kanske bjuda in någon annan medan du är igång?",
   "title_on_what_day": "På vilken dag?",
-  "desc_payday_set_to": "Payday kommer sättas till…",
+  "desc_payday_set_to": "Payday kommer att sättas till…",
   "in_n_day": "om %1$d dagar",
   "day_to_next_pay": "dagar till \nPayday",
   "suggested_chores": "Föreslagna uppgifter",
