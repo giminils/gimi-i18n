@@ -1196,7 +1196,7 @@
   "general_weekly_allowance": "Veckopeng",
   "general_monthly_allowance": "Månadspeng",
   "kid_connected_parent": "du och %1$d är nu kontakter",
-  "set_interest_descr": "som beräknas på hur mycket som finns sparat i Molnet",
+  "set_interest_descr": "Räntan ger en sparbonus som beräknas på det som finns sparat i appen",
   "payday_circle_empty_state_title": "Inga pengar än! Bjud in en förälder nu",
   "explainer_video_tutorial": "Om Gimi",
   "future_interest_help_header": "Sparbonus, vad är det?",
