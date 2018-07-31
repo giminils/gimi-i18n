@@ -1621,10 +1621,10 @@
   "qr_scanned_existing_popover_title": "Du är redan ihopkopplad med %1$d",
   "qr_scanned_existing_popover_text": "Kanske bjuda in någon annan medan du är igång?",
   "title_on_what_day": "På vilken dag?",
-  "desc_payday_set_to": "PLZ_CHECK Payday kommer sättas till…",
-  "in_n_day": "PLZ_CHECK in %1$d day",
-  "day_to_next_pay": "PLZ_CHECK day until \nPayday",
-  "suggested_chores": "PLZ_CHECK Föreslagna sysslor",
-  "wrong_format_try_again": "PLZ_CHECK Wrong format. Please check & try again!",
-  "personal_number_not_valid": "PLZ_CHECK Personal number not valid. Check your numbers."
+  "desc_payday_set_to": "Payday kommer sättas till…",
+  "in_n_day": "om %1$d dagar",
+  "day_to_next_pay": "dagar till \nPayday",
+  "suggested_chores": "Föreslagna uppgifter",
+  "wrong_format_try_again": "Fel format. Kontrollera och testa igen!",
+  "personal_number_not_valid": "Verkar inte vara ett personnummer. Testa igen!"
 }
