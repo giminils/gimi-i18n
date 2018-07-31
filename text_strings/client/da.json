@@ -1624,5 +1624,7 @@
   "desc_payday_set_to": "Lønningsdag er sat til…",
   "in_n_day": "PLZ_TRANSLATE in %1$d day",
   "day_to_next_pay": "PLZ_TRANSLATE day until \nPayday",
-  "suggested_chores": "PLZ_TRANSLATE Suggested chores"
+  "suggested_chores": "PLZ_TRANSLATE Suggested chores",
+  "wrong_format_try_again": "PLZ_TRANSLATE Wrong format. Please check & try again!",
+  "personal_number_not_valid": "PLZ_TRANSLATE Personal number not valid. Check your numbers."
 }
