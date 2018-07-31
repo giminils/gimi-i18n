@@ -264,7 +264,7 @@
   "push_payday_parent": "It's payday for {child.nickname}",
   "push_child_has_reached_a_dream": "{name} has reached a dream",
   "event_add_email": "Add your email address",
-  "push_short_tutorial": "How to handle money with Gimi",
+  "push_short_tutorial": "Here´s how the app works",
   "event_chore_name_is_changed": "The chore {chore.title} has been changed",
   "event_welcome_back": "Welcome back! Do you want to start over?",
   "event_tell_that_your_back": "Let your family know you're back!",
@@ -307,10 +307,10 @@
   "event_pfs_payday_deposit_to_savings": "You have received a deposit in your savings",
   "push_pfs_manual_deposit_to_savings": "You have received a deposit from {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "You have received a deposit in your savings",
-  "event_payday_child": "It's payday!",
-  "event_payday_parent": "It's payday for {child.nickname}",
-  "event_premium_payday_child": "It's payday!",
-  "event_premium_payday_parent": "Today is payday!",
+  "event_payday_child": "Payday",
+  "event_payday_parent": "Payday for {child.nickname}",
+  "event_premium_payday_child": "Payday",
+  "event_premium_payday_parent": "Payday",
   "push_you_got_a_chore_suggestion": "You got a chore suggestion from {task.created_by.nickname}",
   "event_child_created": "Get to know Gimi!"
 }
