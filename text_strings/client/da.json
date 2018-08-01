@@ -581,7 +581,6 @@
   "general_order": "Bestil",
   "card_good_to_know_title": "Godt at vide om kortet",
   "card_good_to_know_limits_title": "Godt at vide om begrænsningerne",
-  "card_good_to_know_limit_desc": "Som en sikkerhedsforanstaltning har vi fastsat grænser for, hvor meget der kan bruges og overføres til kortet.\n\nMaksimalt dagligt forbrug  %1$d\nMaksimal indbetaling pr. dag  %2$d\nMaksimale indbetalinger pr. dag  %3$d",
   "card_good_to_know_blocks_title": "Godt at vide om blokerede butikker og pengeautomater",
   "card_good_to_know_blocks_desc": "Kortet kan ikke bruges i pengeautomater, da det ville betyde, at du som voksen ikke ville have kontrol. Vi har også blokeret køb i nogle udvalgte butikker for din sikkerhed. Listen over blokerede butikker:",
   "card_good_to_know_savings_title": "Godt at vide om kontoen og opsparingen",
@@ -1630,5 +1629,6 @@
   "card_has_been_activated": "PLZ_TRANSLATE {child.nickname} has activated the card",
   "permissions_to_deposit_granted": "PLZ_TRANSLATE You got permission to send money to {child.nickname}",
   "child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",
-  "other_parent_asks_for_deposit": "PLZ_TRANSLATE {parent.nickname} is requesting permission to deposit to {child.nickname}"
+  "other_parent_asks_for_deposit": "PLZ_TRANSLATE {parent.nickname} is requesting permission to deposit to {child.nickname}",
+  "card_good_to_know_limit_desc": "PLZ_TRANSLATE We have added safety limits for how much one can spend and transfer to the card. If your child is below 15 years old the limits are more strict.\n\nDayily max for kids below 15 years old: %1$d\nDayily max for kids above 15 years old: %2$d"
 }
