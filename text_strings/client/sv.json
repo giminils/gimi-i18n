@@ -1629,5 +1629,6 @@
   "personal_number_not_valid": "Verkar inte vara ett personnummer. Testa igen!",
   "card_has_been_activated": "{child.nickname} har aktiverat kortet",
   "permissions_to_deposit_granted": "Du har tillåtelse att skicka pengar till {child.nickname}",
-  "child_lost_the_card": "{child.nickname} märkt kort som förlorat"
+  "child_lost_the_card": "{child.nickname} märkt kort som förlorat",
+  "other_parent_asks_for_deposit": "{parent.nickname} begär tillstånd att deponera på {child.nickname}"
 }

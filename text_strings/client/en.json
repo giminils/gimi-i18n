@@ -1629,5 +1629,6 @@
   "personal_number_not_valid": "Personal number not valid. Check your numbers.",
   "card_has_been_activated": "{child.nickname} has activated the card",
   "permissions_to_deposit_granted": "You got permission to send money to {child.nickname}",
-  "child_lost_the_card": "{child.nickname} marked card as lost"
+  "child_lost_the_card": "{child.nickname} marked card as lost",
+  "other_parent_asks_for_deposit": "{parent.nickname} is requesting permission to deposit to {child.nickname}"
 }
