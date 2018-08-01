@@ -1626,5 +1626,6 @@
   "day_to_next_pay": "dagar till \nPayday",
   "suggested_chores": "Föreslagna uppgifter",
   "wrong_format_try_again": "Fel format. Kontrollera och testa igen!",
-  "personal_number_not_valid": "Verkar inte vara ett personnummer. Testa igen!"
+  "personal_number_not_valid": "Verkar inte vara ett personnummer. Testa igen!",
+  "card_has_been_activated": "{child.nickname} har aktiverat kortet"
 }

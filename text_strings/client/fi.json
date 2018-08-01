@@ -1626,5 +1626,6 @@
   "day_to_next_pay": "PLZ_TRANSLATE day until \nPayday",
   "suggested_chores": "PLZ_TRANSLATE Suggested chores",
   "wrong_format_try_again": "PLZ_TRANSLATE Wrong format. Please check & try again!",
-  "personal_number_not_valid": "PLZ_TRANSLATE Personal number not valid. Check your numbers."
+  "personal_number_not_valid": "PLZ_TRANSLATE Personal number not valid. Check your numbers.",
+  "card_has_been_activated": "PLZ_TRANSLATE {child.nickname} has activated the card"
 }

@@ -1626,5 +1626,6 @@
   "day_to_next_pay": "days until \nPayday",
   "suggested_chores": "Suggested chores",
   "wrong_format_try_again": "Wrong format. Please check & try again!",
-  "personal_number_not_valid": "Personal number not valid. Check your numbers."
+  "personal_number_not_valid": "Personal number not valid. Check your numbers.",
+  "card_has_been_activated": "{child.nickname} has activated the card"
 }
