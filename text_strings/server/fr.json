@@ -246,7 +246,7 @@
   "event_yummy_a_new_update_is_available": "Trop bien! Une nouvelle mise à jour est disponible",
   "event_child_could_not_be_connected": "L'enfant ne pouvait pas être connecté",
   "event_allowance_is_set_for_you": "PLZ_TRANSLATE {parent.nickname} set an allowance for you",
-  "event_chore_was_not_approved": "{chore.title} n'a pas été approuvé",
+  "event_chore_was_not_approved": "PLZ_TRANSLATE {rejected_by.nickname} rejected {chore.title}",
   "event_reminder_of_chore": "Rappel de {chore}",
   "event_chore_is_deleted": "{chore.title} est supprimé",
   "event_interest_rate_is_changed_to_x": "Le taux d'intérêt est passé à {x}%",

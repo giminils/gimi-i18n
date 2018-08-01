@@ -246,7 +246,7 @@
   "event_yummy_a_new_update_is_available": "Juhuu! En ny opdatering er tilgængelig!",
   "event_child_could_not_be_connected": "Der kunne ikke oprettes forbindelse til barnet",
   "event_allowance_is_set_for_you": "PLZ_TRANSLATE {parent.nickname} set an allowance for you",
-  "event_chore_was_not_approved": "{chore.title} blev ikke godkendt",
+  "event_chore_was_not_approved": "PLZ_TRANSLATE {rejected_by.nickname} rejected {chore.title}",
   "event_reminder_of_chore": "Påmindelse om {chore}",
   "event_chore_is_deleted": "{chore.title} er slettet",
   "event_interest_rate_is_changed_to_x": " Renten er ændret til {x}%",
