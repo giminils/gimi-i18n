@@ -1627,5 +1627,6 @@
   "suggested_chores": "Foreslåtte oppgaver",
   "wrong_format_try_again": "PLZ_TRANSLATE Wrong format. Please check & try again!",
   "personal_number_not_valid": "PLZ_TRANSLATE Personal number not valid. Check your numbers.",
-  "card_has_been_activated": "PLZ_TRANSLATE {child.nickname} has activated the card"
+  "card_has_been_activated": "PLZ_TRANSLATE {child.nickname} has activated the card",
+  "permissions_to_deposit_granted": "PLZ_TRANSLATE You got permission to send money to {child.nickname}"
 }
