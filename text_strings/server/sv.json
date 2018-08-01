@@ -247,7 +247,7 @@
   "event_child_could_not_be_connected": "Ihopkoppling misslyckades",
   "event_allowance_is_set_for_you": "{parent.nickname} ställer in en ersättning för dig",
   "event_chore_was_not_approved": "{rejected_by.nickname} avvisade {chore.title}",
-  "event_reminder_of_chore": "Påminnelse om {chore}",
+  "event_reminder_of_chore": "Påminnelse om {chore.title}",
   "event_chore_is_deleted": "{chore.title} har raderats",
   "event_interest_rate_is_changed_to_x": "Räntan på ditt sparande har ändrats till {x}%",
   "event_create_a_new_dream": "Lägg till en ny dröm",

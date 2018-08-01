@@ -247,7 +247,7 @@
   "event_child_could_not_be_connected": "Il bambino non è stato collegato",
   "event_allowance_is_set_for_you": "{parent.nickname} ha impostato un'indennità per te",
   "event_chore_was_not_approved": "PLZ_TRANSLATE {rejected_by.nickname} rejected {chore.title}",
-  "event_reminder_of_chore": "Promemoria per {chore}",
+  "event_reminder_of_chore": "PLZ_TRANSLATE Reminder of {chore.title}",
   "event_chore_is_deleted": "{chore.title} è stata cancellata",
   "event_interest_rate_is_changed_to_x": "Il tasso d'interesse è cambiato al {x}%",
   "event_create_a_new_dream": "Crea un nuovo desiderio",
