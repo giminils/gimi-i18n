@@ -312,5 +312,7 @@
   "event_premium_payday_child": "È giorno di paga!",
   "event_premium_payday_parent": "Oggi è giorno di paga!",
   "push_you_got_a_chore_suggestion": "Hai un suggerimento per una faccenda da {task.created_by.nickname}",
-  "event_child_created": "Impara a conoscere Gimi!"
+  "event_child_created": "Impara a conoscere Gimi!",
+  "child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",
+  "other_parent_asks_for_deposit": "PLZ_TRANSLATE {parent.nickname} is requesting permission to deposit to {child.nickname}"
 }

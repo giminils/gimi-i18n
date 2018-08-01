@@ -312,5 +312,7 @@
   "event_premium_payday_child": "Tänään on tilipäivä!",
   "event_premium_payday_parent": "Tänään on tilipäivä!",
   "push_you_got_a_chore_suggestion": "Olet saanut askare-ehdotuksen henkilöltä {task.created_by.nickname}",
-  "event_child_created": "Tutustu Gimiin!"
+  "event_child_created": "Tutustu Gimiin!",
+  "child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",
+  "other_parent_asks_for_deposit": "PLZ_TRANSLATE {parent.nickname} is requesting permission to deposit to {child.nickname}"
 }
