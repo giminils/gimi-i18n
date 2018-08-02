@@ -315,5 +315,5 @@
   "event_child_created": "Lär känna Gimi!",
   "child_lost_the_card": "{child.nickname} märkt kort som förlorat",
   "other_parent_asks_for_deposit": "{parent.nickname} begär tillstånd att deponera på {child.nickname}",
-  "new_weekly_tasks": "Kolla in veckans sysslor!"
+  "event_new_weekly_tasks": "Kolla in veckans sysslor!"
 }
