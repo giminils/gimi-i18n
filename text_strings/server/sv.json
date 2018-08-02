@@ -314,5 +314,6 @@
   "push_you_got_a_chore_suggestion": "Uppgiftsförslag från {task.created_by.nickname}",
   "event_child_created": "Lär känna Gimi!",
   "child_lost_the_card": "{child.nickname} märkt kort som förlorat",
-  "other_parent_asks_for_deposit": "{parent.nickname} begär tillstånd att deponera på {child.nickname}"
+  "other_parent_asks_for_deposit": "{parent.nickname} begär tillstånd att deponera på {child.nickname}",
+  "new_weekly_tasks": "Kolla in veckans sysslor!"
 }
