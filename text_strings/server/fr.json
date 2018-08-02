@@ -315,5 +315,6 @@
   "event_child_created": "Apprends à connaître Gimi!",
   "child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",
   "other_parent_asks_for_deposit": "PLZ_TRANSLATE {parent.nickname} is requesting permission to deposit to {child.nickname}",
-  "event_new_weekly_tasks": "PLZ_TRANSLATE Check out this weeks chores!"
+  "event_new_weekly_tasks": "PLZ_TRANSLATE Check out this weeks chores!",
+  "event_permissions_to_deposit_granted": "PLZ_TRANSLATE You got permission to send money to {child.nickname}"
 }
