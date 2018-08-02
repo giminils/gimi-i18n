@@ -313,7 +313,7 @@
   "event_premium_payday_parent": "Payday",
   "push_you_got_a_chore_suggestion": "You got a chore suggestion from {task.created_by.nickname}",
   "event_child_created": "Get to know Gimi!",
-  "child_lost_the_card": "{child.nickname} marked card as lost",
+  "event_child_lost_the_card": "{child.nickname} marked card as lost",
   "other_parent_asks_for_deposit": "{parent.nickname} is requesting permission to deposit to {child.nickname}",
   "event_new_weekly_tasks": "Check out this weeks chores!",
   "event_permissions_to_deposit_granted": "You got permission to send money to {child.nickname}"
