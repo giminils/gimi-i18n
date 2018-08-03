@@ -1072,6 +1072,7 @@
   "custom_notification__connection_request": "tienes una invitación",
   "custom_notification_add_profile_pic": "añade una foto de perfil",
   "custom_notification_set_allowance": "Configura el dinero de bolsillo",
+  "custom_notification_set_allowance_for_kid": "PLZ_TRANSLATE PLZ_CHECK Set Weekly or Monthly allowance for %1$d",
   "custom_notification_rate_gimi": "Califica a Gimi",
   "nothing_to_see_here": "Vaciar aqui...",
   "custom_notification_get_money": "sin dinero, invitar a un adulto",

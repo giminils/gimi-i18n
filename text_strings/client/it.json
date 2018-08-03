@@ -1072,6 +1072,7 @@
   "custom_notification__connection_request": "hai un invito",
   "custom_notification_add_profile_pic": "aggiungi un'immagine del profilo",
   "custom_notification_set_allowance": "Imposta la tua paghetta",
+  "custom_notification_set_allowance_for_kid": "PLZ_TRANSLATE PLZ_CHECK Set Weekly or Monthly allowance for %1$d",
   "custom_notification_rate_gimi": "Valuta Gimi",
   "nothing_to_see_here": "Vuoto...",
   "custom_notification_get_money": "Non hai ancora soldi, invita un adulto",

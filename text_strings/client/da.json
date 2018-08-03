@@ -1072,6 +1072,7 @@
   "custom_notification__connection_request": "du har fået en invitation",
   "custom_notification_add_profile_pic": "tilføj profilbillede",
   "custom_notification_set_allowance": "Sæt lommepenge",
+  "custom_notification_set_allowance_for_kid": "PLZ_TRANSLATE PLZ_CHECK Set Weekly or Monthly allowance for %1$d",
   "custom_notification_rate_gimi": "Bedøm Gimi",
   "nothing_to_see_here": "Tomt her...",
   "custom_notification_get_money": "ingen penge i omløb, inviter en voksen",

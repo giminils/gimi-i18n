@@ -1072,6 +1072,7 @@
   "custom_notification__connection_request": "you've got an invitation",
   "custom_notification_add_profile_pic": "add a profile picture",
   "custom_notification_set_allowance": "Set up allowance",
+  "custom_notification_set_allowance_for_kid": "PLZ_CHECK Set Weekly or Monthly allowance for %1$d",
   "custom_notification_rate_gimi": "Rate Gimi",
   "nothing_to_see_here": "Empty here...",
   "custom_notification_get_money": "No money yet, invite a parent to get money",
