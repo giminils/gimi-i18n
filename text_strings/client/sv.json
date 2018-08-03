@@ -1631,5 +1631,6 @@
   "chore_cant_be_completed_popover_title": "PLZ_CHECK This chore cannot be completed yet!",
   "chore_cant_be_completed_popover_text": "PLZ_CHECK This chore is not due yet, so you can't complete it today. Come back later!",
   "edit_interest_for_name": "Ränta för %1$d",
-  "enable_gimi_premium_beta": "PLZ_CHECK Enable Gimi Premium [Beta]"
+  "enable_gimi_premium_beta": "PLZ_CHECK Enable Gimi Premium [Beta]",
+  "about_gimi_settings_label": "PLZ_CHECK About Gimi"
 }

@@ -1631,5 +1631,6 @@
   "chore_cant_be_completed_popover_title": "This chore cannot be completed yet!",
   "chore_cant_be_completed_popover_text": "This chore is not due yet, so you can't complete it today. Come back later!",
   "edit_interest_for_name": "Interest rate for %1$d",
-  "enable_gimi_premium_beta": "Enable Gimi Premium [Beta]"
+  "enable_gimi_premium_beta": "Enable Gimi Premium [Beta]",
+  "about_gimi_settings_label": "About Gimi"
 }
