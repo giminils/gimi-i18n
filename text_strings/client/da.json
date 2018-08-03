@@ -326,7 +326,7 @@
   "general_pending": "færdig",
   "general_pending_parent": "Venter på din godkendelse",
   "general_pending_child": "færdig",
-  "general_to_do": "PLZ_TRANSLATE to do",
+  "general_to_do": "ikke færdig",
   "general_to_do_parent": "ikke færdig",
   "general_to_do_child": "ikke færdig",
   "app_pin_settings": "kodeindstillinger",
