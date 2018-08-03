@@ -1630,5 +1630,6 @@
   "card_good_to_know_limit_desc": "PLZ_TRANSLATE We have added safety limits for how much one can spend and transfer to the card. If your child is below 15 years old the limits are more strict.\n\nDayily max for kids below 15 years old: %1$d\nDayily max for kids above 15 years old: %2$d",
   "chore_cant_be_completed_popover_title": "PLZ_TRANSLATE This chore cannot be completed yet!",
   "chore_cant_be_completed_popover_text": "PLZ_TRANSLATE This chore is not due yet, so you can't complete it today. Come back later!",
-  "edit_interest_for_name": "PLZ_TRANSLATE Edit interest for %1$d"
+  "edit_interest_for_name": "PLZ_TRANSLATE Edit interest for %1$d",
+  "enable_gimi_premium_beta": "PLZ_TRANSLATE Enable Gimi Premium [Beta]"
 }
