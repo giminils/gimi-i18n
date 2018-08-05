@@ -185,7 +185,7 @@
   "event_how_to_spend": "Spendera som en chef",
   "event_add_cravings": "Har du några cravings? Lägg till dom!",
   "event_suggest_chore": "föreslå en uppgift",
-  "event_send_invite_reminder": "Skicka påminnelse om inbjudan´",
+  "event_send_invite_reminder": "{user.nickname} har inte accepterat på din inbjudan. Skicka en påminnelse!",
   "event_keep_account": "Fortfarande inga pengar i appen. Bjud in förälder nu!",
   "event_will_delete_account": "Koppla ihop inom 24 timmar för att behålla kontot. Skicka inbjudan nu!",
   "event_connect_children": "Bjud in dina barn",

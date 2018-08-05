@@ -185,7 +185,7 @@
   "event_how_to_spend": "How to spend like a master",
   "event_add_cravings": "Got any cravings? Add them!",
   "event_suggest_chore": "Suggest a chore",
-  "event_send_invite_reminder": "Send invite reminder",
+  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Connect to keep your account",
   "event_will_delete_account": "Your account will be deleted",
   "event_connect_children": "Connect your children",

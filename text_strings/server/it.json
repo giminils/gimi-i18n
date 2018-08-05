@@ -185,7 +185,7 @@
   "event_how_to_spend": "Come spendere da professionista",
   "event_add_cravings": "Hai qualche desiderio? Aggiungili!",
   "event_suggest_chore": "Suggerisci una faccenda",
-  "event_send_invite_reminder": "Invia un promemoria di invito",
+  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Connettiti per mantenere l'account",
   "event_will_delete_account": "Il tuo account verrà cancellato",
   "event_connect_children": "Connettiti al tuo bambino ",

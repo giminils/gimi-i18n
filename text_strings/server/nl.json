@@ -185,7 +185,7 @@
   "event_how_to_spend": "Hoe uit te geven als een meester",
   "event_add_cravings": "Heb je wensen? Voeg ze toe!",
   "event_suggest_chore": "Suggereer een klus",
-  "event_send_invite_reminder": "Stuur een herinnering voor de uitnodiging",
+  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Verbind om je account te behouden",
   "event_will_delete_account": "Je account wordt verwijderd",
   "event_connect_children": "Verbind je kinderen",

@@ -185,7 +185,7 @@
   "event_how_to_spend": "Ausgeben wie ein Profi",
   "event_add_cravings": "Hast Du Wünsche? Hüge sie hinzu!",
   "event_suggest_chore": "Aufgabe vorschlagen",
-  "event_send_invite_reminder": "Verschicke Einladungserinnerung",
+  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Verbinde Dich um Deinen Account zu behalten ",
   "event_will_delete_account": "Dein Account wird gelöscht",
   "event_connect_children": "Verbinde Deine Kinder",

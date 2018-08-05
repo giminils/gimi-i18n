@@ -185,7 +185,7 @@
   "event_how_to_spend": "kuinka kuluttaa kuin mestari",
   "event_add_cravings": "Onko mielitekoja? Lisää ne!",
   "event_suggest_chore": "Ehdota askaretta",
-  "event_send_invite_reminder": "Lähetä kutsumuistutus",
+  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Yhdistä pitääksesi tilisi",
   "event_will_delete_account": "Tilisi poistetaan",
   "event_connect_children": "Yhdistä lapsesi",

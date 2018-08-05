@@ -185,7 +185,7 @@
   "event_how_to_spend": "Sådan bruger du bedst penge",
   "event_add_cravings": "Har du trang til noget? Tilføj dem!",
   "event_suggest_chore": "Foreslå en opgave",
-  "event_send_invite_reminder": "Send påmindelse om invite",
+  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Opret forbindelse for at beholde din konto",
   "event_will_delete_account": "Din konto vil blive slettet",
   "event_connect_children": "Forbind dine børn",
