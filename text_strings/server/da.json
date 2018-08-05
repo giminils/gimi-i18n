@@ -265,7 +265,7 @@
   "push_child_has_reached_a_dream": "{name} har opnået en drøm",
   "event_add_email": "Tilføj e-mail for status og sikkerhed",
   "push_short_tutorial": "Sådan fungerer Gimi på 20 sekunder",
-  "event_chore_name_is_changed": "Opgave {chore.title} er ændret",
+  "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "Velkommen tilbage! Vil du starte forfra?",
   "event_tell_that_your_back": "Lad din familie vide, at du er tilbage!",
   "event_parent_could_not_be_connected": "Der kunne ikke oprettes forbindelse til dine forældre",

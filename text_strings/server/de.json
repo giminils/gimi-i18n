@@ -265,7 +265,7 @@
   "push_child_has_reached_a_dream": "{name} hat einen Traum erhalt",
   "event_add_email": "Füge Email-Adresse für Status und Sicherheit hinzu",
   "push_short_tutorial": "So funktioniert Gimi in 20 Sekunden",
-  "event_chore_name_is_changed": "Aufgabe {chore.title} wurde bearbeitet",
+  "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "Willkommen zurück! Möchtest Du von vorne anfangen?",
   "event_tell_that_your_back": "Lass Deine Familie wissen, dass Du zurück bist!",
   "event_parent_could_not_be_connected": "Es konnte keine Verbindung zu Deinem Elternteil hergestellt werden",

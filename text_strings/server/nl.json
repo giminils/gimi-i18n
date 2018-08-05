@@ -265,7 +265,7 @@
   "push_child_has_reached_a_dream": "{name} heeft een droom bereikt",
   "event_add_email": "Voeg email toe voor status & veiligheid",
   "push_short_tutorial": "Zo werkt Gimi, binnen 20 seconden",
-  "event_chore_name_is_changed": "Klus {chore.title} is gewijzigd",
+  "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "Welkom terug! Wil je opnieuw beginnen?",
   "event_tell_that_your_back": "Vertel je gezin dat je terug bent!",
   "event_parent_could_not_be_connected": "Je ouders konden niet verbonden worden",

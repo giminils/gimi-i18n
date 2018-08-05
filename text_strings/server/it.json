@@ -265,7 +265,7 @@
   "push_child_has_reached_a_dream": "{name} ha raggiunto un sogno",
   "event_add_email": "Aggiungi email per stato e per sicurezza",
   "push_short_tutorial": "Ecco come funziona Gimi in 20 secondi",
-  "event_chore_name_is_changed": "La faccenda {chore.title} è cambiata",
+  "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "Bentornato! Vuoi riniziare?",
   "event_tell_that_your_back": "Fai sapere alla tua famiglia che sei tornato!",
   "event_parent_could_not_be_connected": "I tuoi genitori non possono connettersi",

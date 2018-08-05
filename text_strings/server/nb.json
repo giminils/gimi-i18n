@@ -265,7 +265,7 @@
   "push_child_has_reached_a_dream": "{name} har spart sammen til en drøm",
   "event_add_email": "Legg til din e-post",
   "push_short_tutorial": "Slik fungerer Gimi, på 20 sekunder",
-  "event_chore_name_is_changed": "Oppgave {chore.title} er endret",
+  "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "Velkommen tilbake! Vil du begynne på nytt?",
   "event_tell_that_your_back": "La familien din få vite at du er tilbake!",
   "event_parent_could_not_be_connected": "Foreldre kunne bli koblet til",
