@@ -1633,5 +1633,7 @@
   "chore_cant_be_completed_popover_text": "PLZ_CHECK Det är inte dags för denna uppgift än, så du kan inte göra den idag. Prova igen senare!",
   "edit_interest_for_name": "Ränta för %1$d",
   "enable_gimi_premium_beta": "PLZ_CHECK Aktivera Gimi Premium [Beta]",
-  "about_gimi_settings_label": "PLZ_CHECK Om Gimi"
+  "about_gimi_settings_label": "PLZ_CHECK Om Gimi",
+  "failed_to_retrieve_card_balance_try_1": "PLZ_CHECK We couldn't connect to your money",
+  "failed_to_retrieve_card_balance_try_2": "PLZ_CHECK We've lost connection!"
 }

@@ -1633,5 +1633,7 @@
   "chore_cant_be_completed_popover_text": "PLZ_TRANSLATE This chore is not due yet, so you can't complete it today. Come back later!",
   "edit_interest_for_name": "PLZ_TRANSLATE Edit interest for %1$d",
   "enable_gimi_premium_beta": "PLZ_TRANSLATE Enable Gimi Premium [Beta]",
-  "about_gimi_settings_label": "PLZ_TRANSLATE About Gimi"
+  "about_gimi_settings_label": "PLZ_TRANSLATE About Gimi",
+  "failed_to_retrieve_card_balance_try_1": "PLZ_TRANSLATE We couldn't connect to your money",
+  "failed_to_retrieve_card_balance_try_2": "PLZ_TRANSLATE We've lost connection!"
 }
