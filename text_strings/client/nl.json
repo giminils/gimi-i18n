@@ -1634,8 +1634,8 @@
   "edit_interest_for_name": "PLZ_TRANSLATE Edit interest for %1$d",
   "enable_gimi_premium_beta": "PLZ_TRANSLATE Enable Gimi Premium [Beta]",
   "about_gimi_settings_label": "PLZ_TRANSLATE About Gimi",
-  "failed_to_retrieve_card_balance_try_1": "PLZ_TRANSLATE We couldn't connect to your money",
-  "failed_to_retrieve_card_balance_try_2": "PLZ_TRANSLATE We've lost connection!",
   "custom_notification_choose_payday": "PLZ_TRANSLATE Choose custom payday!",
-  "custom_notification_browse_products_for_dream": "PLZ_TRANSLATE Browse products to dream about!"
+  "custom_notification_browse_products_for_dream": "PLZ_TRANSLATE Browse products to dream about!",
+  "failed_to_connect_to_card_balance": "PLZ_TRANSLATE We couldn't connect to your money",
+  "lost_card_balance_connection": "PLZ_TRANSLATE We've lost connection!"
 }
