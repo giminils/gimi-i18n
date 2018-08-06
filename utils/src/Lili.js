@@ -2,6 +2,9 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
 let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot']
+let PLZ_CHECK = 'PLZ_CHECK'
+let PLZ_COPY = 'PLZ_COPY'
+let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
 let RunLili = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
@@ -22,10 +25,10 @@ let RunLili = (filePath): * => {
     // Craete Support§
     let NewTextStrings = {...lang}
     Object.keys(lang).forEach(key => {
-      if (lang[key].includes('PLZ_COPY') && !file.includes('en.json')) {
+      if (lang[key].includes(PLZ_COPY) && !file.includes('en.json')) {
         if (!file.includes('sv.json'))
-          NewTextStrings[key] = NewTextStrings[key].replace('PLZ_COPY', 'PLZ_TRANSLATE')
-        NewTextStrings[key] = NewTextStrings[key].replace('PLZ_COPY', 'PLZ_CHECK')
+          NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_TRANSLATE)
+        NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_CHECK)
         TextStrings[key] = `${NewTextStrings[key]}`
       }
     })
