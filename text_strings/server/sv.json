@@ -264,7 +264,7 @@
   "push_payday_parent": "Det är Payday för {child.nickname}",
   "push_child_has_reached_a_dream": "{name} har sparat ihop till en dröm",
   "event_add_email": "Lägg till din e-post",
-  "push_short_tutorial": "Såhär funkar appen",
+  "push_short_tutorial": "Såhär funkar Gimi",
   "event_chore_title_or_amount_changed": "{parent.nickname} uppdaterade {chore.title}",
   "event_welcome_back": "Väkommen tillbaka! Vill du börja om från början?",
   "event_tell_that_your_back": "Låt din familj veta att du är tillbaka!",
