@@ -1205,7 +1205,7 @@
   "future_allowance_help_desc": "Siffran som du ser här visar hur mycket som ges ut i vecko- eller månadspeng vid nästa Payday.",
   "chore_transaction_help_header": "Uppgifter, vad är det?",
   "chore_transaction_help_desc": "Siffran du ser här visar hur mycket som tjänats på uppgifter till nästa Payday.",
-  "money_goes_to": "Pengarna går till",
+  "money_goes_to": "Pengarna har adderats till",
   "next_payday": "Nästa Payday",
   "general_in_total": "totalt",
   "earned_this_week": "Tjänat hittills",
