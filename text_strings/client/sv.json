@@ -1638,5 +1638,7 @@
   "custom_notification_browse_products_for_dream": "PLZ_CHECK Browse products to dream about!",
   "failed_to_connect_to_card_balance": "PLZ_CHECK We couldn't connect to your money",
   "lost_card_balance_connection": "PLZ_CHECK We've lost connection!",
-  "custom_notification_connect_with_child": "PLZ_CHECK Connect with child!"
+  "custom_notification_connect_with_child": "PLZ_CHECK Connect with child!",
+  "cant_change_pin_from_here_popover_title": "PLZ_CHECK You can't change the passcode now",
+  "cant_change_pin_from_here_popover_text": "PLZ_CHECK You can of course change it later, in settings."
 }

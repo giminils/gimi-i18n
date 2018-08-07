@@ -1638,5 +1638,7 @@
   "custom_notification_browse_products_for_dream": "Browse products to dream about!",
   "failed_to_connect_to_card_balance": "We couldn't connect to your money",
   "lost_card_balance_connection": "We've lost connection!",
-  "custom_notification_connect_with_child": "Connect with child!"
+  "custom_notification_connect_with_child": "Connect with child!",
+  "cant_change_pin_from_here_popover_title": "You can't change the passcode now",
+  "cant_change_pin_from_here_popover_text": "You can of course change it later, in settings."
 }
