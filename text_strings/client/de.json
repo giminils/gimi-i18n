@@ -1637,5 +1637,6 @@
   "custom_notification_choose_payday": "PLZ_TRANSLATE Choose custom payday!",
   "custom_notification_browse_products_for_dream": "PLZ_TRANSLATE Browse products to dream about!",
   "failed_to_connect_to_card_balance": "PLZ_TRANSLATE We couldn't connect to your money",
-  "lost_card_balance_connection": "PLZ_TRANSLATE We've lost connection!"
+  "lost_card_balance_connection": "PLZ_TRANSLATE We've lost connection!",
+  "custom_notification_connect_with_child": "PLZ_TRANSLATE Connect with child!"
 }
