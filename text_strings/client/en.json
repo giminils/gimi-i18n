@@ -1205,7 +1205,7 @@
   "future_allowance_help_desc": "The amount you see here shows how much weekly or monthly allowance that is added to Payday.",
   "chore_transaction_help_header": "Chores, what are they?",
   "chore_transaction_help_desc": "The amount you see here shows how much money that´s earned on the chores completed for next Payday.",
-  "money_goes_to": "The money goes to",
+  "money_goes_to": "The money has been added to",
   "next_payday": "Next payday",
   "general_in_total": "in total",
   "earned_this_week": "Earned so far",
