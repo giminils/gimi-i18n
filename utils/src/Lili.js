@@ -6,6 +6,27 @@ let PLZ_CHECK = 'PLZ_CHECK'
 let PLZ_COPY = 'PLZ_COPY'
 let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
+let copyEn = []
+let removePLZCopy = (filePath): * => {
+  let getPath = (file) => `${filePath}/${file}`
+  var langPath = getPath('en.json') // Edit here for what language to use
+  console.log(langPath)
+  var lang = fs.readFileSync(langPath, {encoding: 'utf8'})
+  lang = JSON.parse(lang)
+  let englishTextString = {...lang}
+
+  Object.keys(lang).forEach(key => {
+    if (lang[key].includes(PLZ_COPY))
+      englishTextString[key] = lang[key].replace(PLZ_COPY, '')
+
+    englishTextString = {...lang, ...englishTextString}
+
+    // Save changes
+    englishTextString = JSON.stringify(englishTextString, undefined, 2)
+    fs.unlinkSync(langPath)
+    fs.writeFileSync(langPath, englishTextString, {encoding: 'utf8'})
+  })
+}
 let RunLili = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var langPath = getPath('en.json') // Edit here for what language to use
@@ -48,9 +69,16 @@ let RunLili = (filePath): * => {
     fs.writeFileSync(path, NewTextStrings, {encoding: 'utf8'})
   }
 
-  fs.readdirSync(filePath).forEach((languageCode) => syncTextStrings(languageCode))
+  fs.readdirSync(filePath).forEach((languageCode) => {
+    if (languageCode.includes('en.json'))
+      copyEn.push(filePath)
+    syncTextStrings(languageCode)
+  })
 
-  // fix swedish TextStrings formatting
+  // copyEn.forEach(pathsa => {
+  //   removePLZCopy(pathsa)
+  // })
+
   lang = JSON.stringify(lang, undefined, 2)
   fs.unlinkSync(langPath)
   fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
