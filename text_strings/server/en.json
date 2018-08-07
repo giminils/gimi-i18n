@@ -264,7 +264,7 @@
   "push_payday_parent": "It's payday for {child.nickname}",
   "push_child_has_reached_a_dream": "{name} has reached a dream",
   "event_add_email": "Add your email address",
-  "push_short_tutorial": "Here´s how the app works",
+  "push_short_tutorial": "Here´s how Gimi works",
   "event_chore_title_or_amount_changed": "{parent.nickname} updated {chore.title}",
   "event_welcome_back": "Welcome back! Do you want to start over?",
   "event_tell_that_your_back": "Let your family know you're back!",
