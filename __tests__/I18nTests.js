@@ -1,8 +1,10 @@
 
 import {languageCodes, languageCodesForTranslation, moonshineCountryCodes} from '../index'
-import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters} from '../TestUtil'
+import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy} from '../TestUtil'
 var stringTagData = []
 var jsonDataTranslate = []
+var jsonDataCopy = []
+
 var jsonBreakingSumbols = []
 var jsonArrayUpperCase = []
 
@@ -39,7 +41,7 @@ textStringsTypes.forEach(textStringsType => {
   languageCodesHolder.forEach(languageCode => {
     if (languageCode === 'sv' || languageCode === 'en')
       stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
-
+    stringTagData.push(searchPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
@@ -51,6 +53,10 @@ stringTagData.forEach(data => {
     if (data.plzTrans > 0) {
       let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonDataTranslate.push(foo)
+    }
+    if (data.plzCopy > 0) {
+      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      jsonDataCopy.push(foo)
     }
     if (data.count > 0) {
       let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
@@ -65,6 +71,10 @@ stringTagData.forEach(data => {
 
 it('it should not have breaking sumbols', () => {
   expect(jsonBreakingSumbols).toEqual([])
+})
+
+it('it should not have PLZ_COPY', () => {
+  expect(jsonDataCopy).toEqual([])
 })
 
 it('it should not have PLZ_TRANSLATE in sv and en', () => {

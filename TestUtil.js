@@ -249,6 +249,21 @@ export let searchPlzTranslate = (lang: Object, languageCode: string, textStrings
   return {data: arrayPlzTranslate, plzTrans: numberPlzTransalte}
 }
 
+export let searchPlzCopy = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  var keys = Object.keys(lang)
+
+  var arrayPlzCopy = []
+
+  let numberPlzCopy = 0
+  keys.forEach(key => {
+    if (languageCode)
+      if (lang[key].includes('PLZ_COPY')) {
+        numberPlzCopy++
+        arrayPlzCopy.push({key: key, lang: languageCode, path: textStringsType})
+      }
+  })
+  return {data: arrayPlzCopy, plzTrans: numberPlzCopy}
+}
 export let searchBreakingSymbols = (lang: Object, languageCode: string, textStringsType: string): Object => {
   var keys = Object.keys(lang)
   var arrayBreakingSymbols = []
