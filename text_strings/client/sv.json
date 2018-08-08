@@ -1639,6 +1639,6 @@
   "failed_to_connect_to_card_balance": "PLZ_CHECK We couldn't connect to your money",
   "lost_card_balance_connection": "PLZ_CHECK We've lost connection!",
   "custom_notification_connect_with_child": "PLZ_CHECK Koppla ihop med ditt barn!",
-  "cant_change_pin_from_here_popover_title": "PLZ_CHECK You can't change the passcode now",
-  "cant_change_pin_from_here_popover_text": "PLZ_CHECK You can of course change it later, in settings."
+  "cant_change_pin_from_here_popover_title": "PLZ_CHECK Du kan inte ändra din lösenkod nu",
+  "cant_change_pin_from_here_popover_text": "PLZ_CHECK Du kan självklart ändra den senare i inställningar."
 }
