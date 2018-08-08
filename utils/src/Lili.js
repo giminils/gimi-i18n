@@ -7,12 +7,20 @@ let PLZ_COPY = 'PLZ_COPY'
 let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
 let copyEn = []
-let removePLZCopy = (filePath): * => {
+let removePLzCopy = (enTextFile): * => {
+  enTextFile = enTextFile.replace(PLZ_COPY, '')
+  if (!enTextFile.includes(PLZ_COPY))
+    return enTextFile
+  else
+    return removePLzCopy(enTextFile)
+}
+let removeAndSave = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var langPath = getPath('en.json') // Edit here for what language to use
 
   var enTextFile = fs.readFileSync(langPath, {encoding: 'utf8'})
-  enTextFile = enTextFile.replace(PLZ_COPY, '')
+
+  enTextFile = removePLzCopy(enTextFile)
 
   fs.unlinkSync(langPath)
   fs.writeFileSync(langPath, enTextFile, {encoding: 'utf8'})
@@ -66,7 +74,7 @@ let RunLili = (filePath): * => {
   })
 
   copyEn.forEach(pathsa => {
-    removePLZCopy(pathsa)
+    removeAndSave(pathsa)
   })
 
   lang = JSON.stringify(lang, undefined, 2)
