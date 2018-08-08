@@ -1640,5 +1640,6 @@
   "lost_card_balance_connection": "PLZ_TRANSLATE We've lost connection!",
   "custom_notification_connect_with_child": "PLZ_TRANSLATE Connect with child!",
   "cant_change_pin_from_here_popover_title": "PLZ_TRANSLATE You can't change the passcode now",
-  "cant_change_pin_from_here_popover_text": "PLZ_TRANSLATE You can of course change it later, in settings."
+  "cant_change_pin_from_here_popover_text": "PLZ_TRANSLATE You can of course change it later, in settings.",
+  "chore_for_n": "PLZ_TRANSLATE For %1$d"
 }

@@ -1640,5 +1640,6 @@
   "lost_card_balance_connection": "PLZ_CHECK We've lost connection!",
   "custom_notification_connect_with_child": "PLZ_CHECK Koppla ihop med ditt barn!",
   "cant_change_pin_from_here_popover_title": "PLZ_CHECK Du kan inte ändra din lösenkod nu",
-  "cant_change_pin_from_here_popover_text": "PLZ_CHECK Du kan självklart ändra den senare i inställningar."
+  "cant_change_pin_from_here_popover_text": "PLZ_CHECK Du kan självklart ändra den senare i inställningar.",
+  "chore_for_n": "PLZ_CHECK For %1$d"
 }
