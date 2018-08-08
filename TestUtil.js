@@ -262,7 +262,7 @@ export let searchPlzCopy = (lang: Object, languageCode: string, textStringsType:
         arrayPlzCopy.push({key: key, lang: languageCode, path: textStringsType})
       }
   })
-  return {data: arrayPlzCopy, plzTrans: numberPlzCopy}
+  return {data: arrayPlzCopy, plzCopy: numberPlzCopy}
 }
 export let searchBreakingSymbols = (lang: Object, languageCode: string, textStringsType: string): Object => {
   var keys = Object.keys(lang)
