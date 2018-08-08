@@ -10,22 +10,12 @@ let copyEn = []
 let removePLZCopy = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var langPath = getPath('en.json') // Edit here for what language to use
-  console.log(langPath)
-  var lang = fs.readFileSync(langPath, {encoding: 'utf8'})
-  lang = JSON.parse(lang)
-  let englishTextString = {...lang}
 
-  Object.keys(lang).forEach(key => {
-    if (lang[key].includes(PLZ_COPY))
-      englishTextString[key] = lang[key].replace(PLZ_COPY, '')
+  var enTextFile = fs.readFileSync(langPath, {encoding: 'utf8'})
+  enTextFile = enTextFile.replace(PLZ_COPY, '')
 
-    englishTextString = {...lang, ...englishTextString}
-
-    // Save changes
-    englishTextString = JSON.stringify(englishTextString, undefined, 2)
-    fs.unlinkSync(langPath)
-    fs.writeFileSync(langPath, englishTextString, {encoding: 'utf8'})
-  })
+  fs.unlinkSync(langPath)
+  fs.writeFileSync(langPath, enTextFile, {encoding: 'utf8'})
 }
 let RunLili = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
@@ -75,9 +65,9 @@ let RunLili = (filePath): * => {
     syncTextStrings(languageCode)
   })
 
-  // copyEn.forEach(pathsa => {
-  //   removePLZCopy(pathsa)
-  // })
+  copyEn.forEach(pathsa => {
+    removePLZCopy(pathsa)
+  })
 
   lang = JSON.stringify(lang, undefined, 2)
   fs.unlinkSync(langPath)
