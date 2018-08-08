@@ -1641,5 +1641,6 @@
   "custom_notification_connect_with_child": "Connect with a child!",
   "cant_change_pin_from_here_popover_title": "You can't change the passcode now",
   "cant_change_pin_from_here_popover_text": "You can of course change it later, in settings.",
-  "chore_for_n": "For %1$d"
+  "chore_for_n": "For %1$d",
+  "general_you": "You"
 }
