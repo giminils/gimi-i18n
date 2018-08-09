@@ -1625,7 +1625,7 @@
   "in_n_day": "in %1$d days",
   "day_to_next_pay": "days until \nPayday",
   "suggested_chores": "Suggested chores",
-  "wrong_format_try_again": "PLZ_COPY Wrong format. Please check and try again!",
+  "wrong_format_try_again": "Wrong format. Please check and try again!",
   "personal_number_not_valid": "Personal number not valid. Check your numbers.",
   "card_has_been_activated": "%1$d has activated the card",
   "card_good_to_know_limit_desc": "We have set up security limits for how much you can spend and transfer to the card. The limits are stricter if your child is under 15 years old.\n\nMaximum daily limit for children under 15 : %1$d\nMax daily limit for children over 15 : %2$d",
