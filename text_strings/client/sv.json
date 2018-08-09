@@ -1625,7 +1625,7 @@
   "in_n_day": "om %1$d dagar",
   "day_to_next_pay": "dagar till \nPayday",
   "suggested_chores": "Föreslagna uppgifter",
-  "wrong_format_try_again": "PLZ_CHECKWrong format. Please check and try again!",
+  "wrong_format_try_again": "Fel format. Kontrollera och testa igen!",
   "personal_number_not_valid": "Verkar inte vara ett personnummer. Testa igen!",
   "card_has_been_activated": "%1$d har aktiverat kortet",
   "card_good_to_know_limit_desc": "PLZ_CHECK Vi har satt upp säkerhetsgränser för hur mycket man kan spendera och överföra till kortet. Om ditt barn är under 15 år är gränserna striktare.\n\nDaglig maxgräns för barn under 15 år: %1$d\nDaglig maxgräns för barn över 15 år: %2$d",
