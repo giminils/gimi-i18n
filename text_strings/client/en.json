@@ -1642,5 +1642,9 @@
   "cant_change_pin_from_here_popover_title": "You can't change the passcode now",
   "cant_change_pin_from_here_popover_text": "You can of course change it later, in settings.",
   "chore_for_n": "For %1$d",
-  "general_you": "You"
+  "general_you": "You",
+  "general_introduction": "Introduction",
+  "faq_info_section_title": "The usual questions",
+  "faq_all_questions": "All questions",
+  "faq_ask_us": "Ask us"
 }
