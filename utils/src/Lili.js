@@ -3,12 +3,12 @@
 var fs = require('fs')
 let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot']
 let PLZ_CHECK = 'PLZ_CHECK'
-let PLZ_COPY = 'PLZ_COPY '
+let PLZ_COPY = 'PLZ_COPY'
 let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
 let copyEn = []
 let removePLzCopy = (enTextFile): * => {
-  enTextFile = enTextFile.replace(PLZ_COPY, '')
+  enTextFile = enTextFile.replace(PLZ_COPY + ' ', '')
   if (!enTextFile.includes(PLZ_COPY))
     return enTextFile
   else
