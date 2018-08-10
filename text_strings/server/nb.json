@@ -315,7 +315,7 @@
   "event_child_created": "Bli kjent med Gimi!",
   "event_child_lost_the_card": "{child.nickname} har registrert kortet som mistet",
   "event_other_parent_asks_for_deposit": "{parent.nickname} ber om tillatelse til å innbetale til {child.nickname}",
-  "event_new_weekly_tasks": "Sjekk denne ukens oppgave!",
-  "event_permissions_to_deposit_granted": "Du har tillatelse til å sende penger til{child.nickname}",
+  "event_new_weekly_tasks": "Sjekk ut denne ukens oppgaver!",
+  "event_permissions_to_deposit_granted": "Du har tillatelse til å sende penger til {child.nickname}",
   "event_suggested_chore_enabled": "{parent.nickname} har godkjent ditt oppgaveforslag!"
 }
