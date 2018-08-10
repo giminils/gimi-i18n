@@ -290,7 +290,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} er ferdig med {assignment.task.title}",
   "event_done_with_chore_child": "Du er ferdig med {assignment.task.title}",
   "push_tell_that_your_back": "{user.nickname} er tilbake i appen og ønsker å komme i gang igjen",
-  "push_payday_child": "Payday! Du har akkurat fått penger. Sjekk hvor mye i appen!",
+  "push_payday_child": "Payday! Du har akkurat mottatt penger. Sjekk hvor mye i appen!",
   "push_received_first_money": "Du har mottatt dine første penger!",
   "push_suggest_chore_to_parents": "Vil du tjene mer penger? Foreslå en oppgave til foreldrene dine!",
   "push_x_days_until_payday": "Du har {x} dager til Payday! Tjen mer penger og gjør noen av oppgavene dine!",
