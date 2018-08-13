@@ -1646,5 +1646,6 @@
   "general_introduction": "Introduction",
   "faq_info_section_title": "The usual questions",
   "faq_all_questions": "All questions",
-  "faq_ask_us": "Ask us"
+  "faq_ask_us": "Ask us",
+  "setup_passcode_for_premium_notification": "Setup your app passcode"
 }

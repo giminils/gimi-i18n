@@ -1646,5 +1646,6 @@
   "general_introduction": "PLZ_TRANSLATE Introduction",
   "faq_info_section_title": "PLZ_TRANSLATE The usual questions",
   "faq_all_questions": "PLZ_TRANSLATE All questions",
-  "faq_ask_us": "PLZ_TRANSLATE Ask us"
+  "faq_ask_us": "PLZ_TRANSLATE Ask us",
+  "setup_passcode_for_premium_notification": "PLZ_TRANSLATE Setup your app passcode"
 }

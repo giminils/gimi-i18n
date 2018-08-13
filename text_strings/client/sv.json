@@ -1646,5 +1646,6 @@
   "general_introduction": "PLZ_CHECK Introduction",
   "faq_info_section_title": "PLZ_CHECK The usual questions",
   "faq_all_questions": "PLZ_CHECK All questions",
-  "faq_ask_us": "PLZ_CHECK Ask us"
+  "faq_ask_us": "PLZ_CHECK Ask us",
+  "setup_passcode_for_premium_notification": "PLZ_CHECK Setup your app passcode"
 }
