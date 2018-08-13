@@ -228,7 +228,7 @@
   "event_suggestion_of_new_allowance": "Gimi föreslår ny vecko- eller månadspeng",
   "event_suggestion_of_new_chore_update": "Gimi föreslår uppdatering av uppgifter",
   "event_suggestion_of_monthly_allowance": "Gimi föreslår byte till månadspeng",
-  "event_chore_was_approved": "{user.nickname} godkänd {chore.title}",
+  "event_chore_was_approved": "{user.nickname} godkände {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} godkändes automatiskt",
   "event_chore_was_disapproved": "{chore.title} godkändes inte",
   "event_want_to_activate_auto_approval": "Aktivera automatiskt godkännande?",
