@@ -805,7 +805,7 @@
   "general_monthly_fee": "kuukausimaksu",
   "general_gimi": "Gimi",
   "upgraded_n_to_premium_title": "Käyttäjällä %1$d on nyt Premium-jäsenyys!",
-  "upgraded_n_to_premium_desc": "Lorem ipsum doler sit amet lorem ipsum doler doler sit amet.",
+  "upgraded_n_to_premium_desc": "PLZ_TRANSLATE Lorem ipsum.",
   "card_overview_usp_1_title": "Kortti ja säästötili Gimiltä!",
   "card_overview_usp_1_desc": "Lapsesi saa kortin. Sinä hallitset. Kortti toimii kaupoissa ja verkossa.",
   "card_overview_usp_2_title": "Fiksua ja helppoa rahankäyttöä",
