@@ -315,7 +315,7 @@
   "will_be_payed_out_in_n_days": "vil blive udbetalt om %1$d dage",
   "general_breakdown_parent": "sammenbrud",
   "general_breakdown_child": "sammenbrud",
-  "general_interest": "opsparings bonus"
+  "general_interest": "opsparings bonus",
   "general_upload": "tilføj",
   "general_recommended": "anbefal",
   "general_transfer": "overfør",
@@ -1195,7 +1195,7 @@
   "general_weekly_allowance": "Ugentlige lommepenge",
   "general_monthly_allowance": "Månedlige lommepenge",
   "kid_connected_parent": "du og %1$d er nu forbundet",
-  "set_interest_descr": "Rentesatsen giver en opsparingsbonus, der udregnes ud fra opsparingen"
+  "set_interest_descr": "Rentesatsen giver en opsparingsbonus, der udregnes ud fra opsparingen",
   "payday_circle_empty_state_title": "Ingen penge endnu, inviter en forældre nu!",
   "explainer_video_tutorial": "Om Gimi",
   "future_interest_help_header": "opsparingsbonus, hvad er det?",
@@ -1536,7 +1536,7 @@
   "settings_allowance_frequency": "Hyppighed for lommepenge",
   "settings_allowance_amount": "Lommepengebeløb",
   "settings_saving_interest": "Rentesats på opsparing",
-  "allowance_frequency_error_title": "Du kan ikke ændre frekvensen"
+  "allowance_frequency_error_title": "Du kan ikke ændre frekvensen",
   "allowance_frequency_error_desc": "%1$d har allerede en %2$d.",
   "card_test_here_you_answered_wrong": "Her svarede du forkert",
   "card_test_all_answers": "Her er alle svarene",
