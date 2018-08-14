@@ -1647,5 +1647,7 @@
   "faq_info_section_title": "PLZ_TRANSLATE The usual questions",
   "faq_all_questions": "PLZ_TRANSLATE All questions",
   "faq_ask_us": "PLZ_TRANSLATE Ask us",
-  "setup_passcode_for_premium_notification": "PLZ_TRANSLATE Setup your app passcode"
+  "setup_passcode_for_premium_notification": "PLZ_TRANSLATE Setup your app passcode",
+  "kid_earn_no_chores_title": "PLZ_TRANSLATE This is the place...",
+  "kid_earn_no_chores_subtitle": "PLZ_TRANSLATE ...where your children can earn extra money by doing chores."
 }

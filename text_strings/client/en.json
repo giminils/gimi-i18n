@@ -1647,5 +1647,7 @@
   "faq_info_section_title": "The usual questions",
   "faq_all_questions": "All questions",
   "faq_ask_us": "Ask us",
-  "setup_passcode_for_premium_notification": "Setup your app passcode"
+  "setup_passcode_for_premium_notification": "Setup your app passcode",
+  "kid_earn_no_chores_title": "This is the place...",
+  "kid_earn_no_chores_subtitle": "...where your children can earn extra money by doing chores."
 }
