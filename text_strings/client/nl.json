@@ -1649,5 +1649,7 @@
   "faq_ask_us": "PLZ_TRANSLATE Ask us",
   "setup_passcode_for_premium_notification": "PLZ_TRANSLATE Setup your app passcode",
   "kid_earn_no_chores_title": "PLZ_TRANSLATE This is the place...",
-  "kid_earn_no_chores_subtitle": "PLZ_TRANSLATE ...where your children can earn extra money by doing chores."
+  "kid_earn_no_chores_subtitle": "PLZ_TRANSLATE ...where your children can earn extra money by doing chores.",
+  "kid_earn_no_chores_bot_message_1": "PLZ_TRANSLATE HERE YOU CAN Earn extra money by completing chores!",
+  "kid_earn_no_chores_bot_message_2": "PLZ_TRANSLATE Get started by suggesting a chore!"
 }
