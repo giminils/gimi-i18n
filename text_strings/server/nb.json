@@ -261,7 +261,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Nye uke- eller månedspenger er blitt bestemt! Sjekk dem i appen!",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} har fullført \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} spør om tillatelse til å redigere dine oppgaver",
-  "push_payday_parent": "Det er payday for {child.nickname}",
+  "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Åpne appen for å se hvor mye {child.nickname} har oppnådd!",
   "push_child_has_reached_a_dream": "{name} har spart sammen til en drøm",
   "event_add_email": "Legg til din e-post",
   "push_short_tutorial": "Slik fungerer appen",

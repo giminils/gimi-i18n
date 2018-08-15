@@ -261,7 +261,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Dein Taschengeld wurde eingerichtet! Guck mal in die App!",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} hat \"{assignment.task.title}\" abgeschlossen!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} bittet um Erlaubnis Deine Aufgaben bearbeiten zu dürfen",
-  "push_payday_parent": "Es ist Zahltag für {child.nickname}",
+  "push_payday_parent": "PLZ_TRANSLATE Zahltag für {child.nickname}. Öffnen Sie die App, um zu sehen, wie viel {child.nickname} verdient hat!",
   "push_child_has_reached_a_dream": "{name} hat einen Traum erhalt",
   "event_add_email": "Füge Email-Adresse für Status und Sicherheit hinzu",
   "push_short_tutorial": "So funktioniert Gimi in 20 Sekunden",

@@ -261,7 +261,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Une allocation a été établie pour vous! Consultez-la dans l'appli!",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} a terminé la tâche\"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} demande la permission de changer vos tâches",
-  "push_payday_parent": "C’est Payday pour {child.nickname}",
+  "push_payday_parent": "PLZ_TRANSLATE Payday pour {child.nickname} . Ouvrez l'application pour voir combien {child.nickname} a gagné!",
   "push_child_has_reached_a_dream": "{name} a atteint un souhait",
   "event_add_email": "Ajoutez une addresse mail pour le statut et la sécurité",
   "push_short_tutorial": "Voilà comment fonctionne Gimi, en 20 secondes",
