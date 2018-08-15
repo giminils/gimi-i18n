@@ -1652,5 +1652,12 @@
   "kid_earn_no_chores_subtitle": "PLZ_TRANSLATE ...where your children can earn extra money by doing chores.",
   "kid_earn_no_chores_bot_message_1": "PLZ_TRANSLATE Here you can earn extra money by completing chores!",
   "kid_earn_no_chores_bot_message_2": "PLZ_TRANSLATE Get started by suggesting a chore!",
-  "choose_kid_to_update_frequency_for": "PLZ_TRANSLATE Choose who you want to update"
+  "choose_kid_to_update_frequency_for": "PLZ_TRANSLATE Choose who you want to update",
+  "confirmation_message_updates_saved": "PLZ_TRANSLATE Your updates are saved",
+  "confirmation_message_invite_sent": "PLZ_TRANSLATE Your invitation has been sent",
+  "confirmation_message_number_verified": "PLZ_TRANSLATE Your number has been sucessfully verified",
+  "confirmation_message_withdraw_success": "PLZ_TRANSLATE Withdraw successfull",
+  "confirmation_message_deposit_success": "PLZ_TRANSLATE Deposit successfull",
+  "confirmation_message_suggested_enabled": "PLZ_TRANSLATE Suggested chore was approved! Now, it's time for execution",
+  "confirmation_message_approved_chore": "PLZ_TRANSLATE Completed chore was approved! Payout is on the next payday..."
 }
