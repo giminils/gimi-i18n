@@ -1660,5 +1660,6 @@
   "confirmation_message_deposit_success": "PLZ_TRANSLATE Deposit successfull",
   "confirmation_message_suggested_enabled": "PLZ_TRANSLATE Suggested chore was approved! Now, it's time for execution",
   "confirmation_message_approved_chore": "PLZ_TRANSLATE Completed chore was approved! Payout is on the next payday...",
-  "general_needs_minimal_value": "PLZ_TRANSLATE The minimal transaction value is %1$d"
+  "general_needs_minimal_value": "PLZ_TRANSLATE The minimal transaction value is %1$d",
+  "general_minimal_value": "PLZ_TRANSLATE You need to to pass the minimal value."
 }
