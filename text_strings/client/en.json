@@ -1622,7 +1622,7 @@
   "qr_scanned_existing_popover_text": "Maybe invite someone else while you're at it?",
   "title_on_what_day": "On what day?",
   "desc_payday_set_to": "Payday will be set to…",
-  "in_n_day": "in %1$d days",
+  "in_n_day": "in %1$d day",
   "day_to_next_pay": "days until \nPayday",
   "suggested_chores": "Suggested chores",
   "wrong_format_try_again": "Wrong format. Please check and try again!",
