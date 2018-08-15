@@ -1,12 +1,13 @@
 
 import {languageCodes, languageCodesForTranslation, moonshineCountryCodes} from '../index'
-import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy} from '../TestUtil'
+import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace} from '../TestUtil'
 var stringTagData = []
 var jsonDataTranslate = []
 var jsonDataCopy = []
 
 var jsonBreakingSumbols = []
 var jsonArrayUpperCase = []
+var jsonArrayEmptySpaces = []
 
 var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'gimi-web-redux', 'bot']
 
@@ -43,10 +44,13 @@ textStringsTypes.forEach(textStringsType => {
       stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+    stringTagData.push(checkStringEmptySpace(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
+console.log(stringTagData)
 // get plzTransalte
 stringTagData.forEach(data => {
   if (data) {
@@ -66,6 +70,10 @@ stringTagData.forEach(data => {
       let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonArrayUpperCase.push(foo)
     }
+    if (data.countStartsEmptySpace > 0) {
+      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      jsonArrayEmptySpaces.push(foo)
+    }
   }
 })
 
@@ -83,4 +91,8 @@ it('it should not have PLZ_TRANSLATE in sv and en', () => {
 
 it('it should not have uppercase in string keys', () => {
   expect(jsonArrayUpperCase).toEqual([])
+})
+
+xit('it should not start with empty space', () => {
+  expect(jsonArrayEmptySpaces).toEqual([])
 })

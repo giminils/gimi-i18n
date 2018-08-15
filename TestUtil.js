@@ -147,7 +147,7 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
 
   keys.forEach(key => {
     // if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${birgittaTemplate}`)
-    if (firstLang[key].startsWith(' ')) errorMessages.push(`lang: ${firstLangName} text_id:${key}  starts with a space`)
+    // if (firstLang[key].startsWith(' ')) errorMessages.push(`lang: ${firstLangName} text_id:${key}  starts with a space`)
     if (firstLangName === 'en' && firstLang[key].includes(plzTranslateTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${plzTranslateTemplate}`)
   })
 
@@ -263,6 +263,21 @@ export let searchPlzCopy = (lang: Object, languageCode: string, textStringsType:
       }
   })
   return {data: arrayPlzCopy, plzCopy: numberPlzCopy}
+}
+export let checkStringEmptySpace = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  var keys = Object.keys(lang)
+
+  var arrayEmptySpace = []
+
+  let numberEmptySpace = 0
+  keys.forEach(key => {
+    if (languageCode)
+      if (lang[key].startsWith(' ')) {
+        numberEmptySpace++
+        arrayEmptySpace.push({key: key, lang: languageCode, path: textStringsType})
+      }
+  })
+  return {data: arrayEmptySpace, countStartsEmptySpace: numberEmptySpace}
 }
 export let searchBreakingSymbols = (lang: Object, languageCode: string, textStringsType: string): Object => {
   var keys = Object.keys(lang)
