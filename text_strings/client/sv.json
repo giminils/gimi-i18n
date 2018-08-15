@@ -1659,5 +1659,6 @@
   "confirmation_message_withdraw_success": "PLZ_CHECK Withdraw successfull",
   "confirmation_message_deposit_success": "PLZ_CHECK Deposit successfull",
   "confirmation_message_suggested_enabled": "PLZ_CHECK Suggested chore was approved! Now, it's time for execution",
-  "confirmation_message_approved_chore": "PLZ_CHECK Completed chore was approved! Payout is on the next payday..."
+  "confirmation_message_approved_chore": "PLZ_CHECK Completed chore was approved! Payout is on the next payday...",
+  "general_needs_minimal_value": "PLZ_CHECK The minimal transaction value is %1$d"
 }
