@@ -1651,5 +1651,6 @@
   "kid_earn_no_chores_title": "This is the place...",
   "kid_earn_no_chores_subtitle": "...where your children can earn extra money by doing chores.",
   "kid_earn_no_chores_bot_message_1": "Here you can earn extra money by completing chores!",
-  "kid_earn_no_chores_bot_message_2": "Get started by suggesting a chore!"
+  "kid_earn_no_chores_bot_message_2": "Get started by suggesting a chore!",
+  "choose_kid_to_update_frequency_for": "Choose who you want to update"
 }
