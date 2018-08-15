@@ -1622,7 +1622,7 @@
   "qr_scanned_existing_popover_text": "Kanske bjuda in någon annan medan du är igång?",
   "title_on_what_day": "På vilken dag?",
   "desc_payday_set_to": "Payday kommer att sättas till…",
-  "in_n_day": "om %1$d dagar",
+  "in_n_day": "om %1$d dag",
   "day_to_next_pay": "dagar till \nPayday",
   "suggested_chores": "Föreslagna uppgifter",
   "wrong_format_try_again": "PLZ_CHECK Wrong format. Please check and try again!",
