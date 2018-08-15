@@ -146,7 +146,7 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   var errorMessages = []
 
   keys.forEach(key => {
-    if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${birgittaTemplate}`)
+    // if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${birgittaTemplate}`)
     if (firstLang[key].startsWith(' ')) errorMessages.push(`lang: ${firstLangName} text_id:${key}  starts with a space`)
     if (firstLangName === 'en' && firstLang[key].includes(plzTranslateTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${plzTranslateTemplate}`)
   })
