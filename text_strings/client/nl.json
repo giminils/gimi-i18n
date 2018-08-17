@@ -1662,5 +1662,6 @@
   "confirmation_message_approved_chore": "PLZ_TRANSLATE Completed chore was approved! Payout is on the next payday...",
   "general_needs_minimal_value": "PLZ_TRANSLATE The minimal transaction value is %1$d",
   "general_minimal_value": "PLZ_TRANSLATE You need to to pass the minimal value.",
-  "kid_age_restrictions_deposit_only": "PLZ_TRANSLATE Kids younger than 15 have only deposit only permissions"
+  "kid_age_restrictions_deposit_only": "PLZ_TRANSLATE Kids younger than 15 have only deposit only permissions",
+  "general_getting_data": "PLZ_TRANSLATE Getting data..."
 }
