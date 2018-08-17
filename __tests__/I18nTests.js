@@ -50,7 +50,7 @@ textStringsTypes.forEach(textStringsType => {
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
-console.log(stringTagData)
+
 // get plzTransalte
 stringTagData.forEach(data => {
   if (data) {
