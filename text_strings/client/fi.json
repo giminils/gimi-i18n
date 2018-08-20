@@ -56,7 +56,7 @@
   "general_social": "sosiaalinen",
   "general_reject": "hylkää",
   "send_invite": "kutsu",
-  "general_error_message": "jokin meni pieleen",
+  "general_error_message": "PLZ_TRANSLATE Something went wrong. Please try again later.",
   "general_active": "aktiivinen",
   "general_inactive": "passiivinen",
   "daypicker_monday": "Maanantai",

@@ -56,7 +56,7 @@
   "general_social": "sozial",
   "general_reject": "ablehnen",
   "send_invite": "einladen",
-  "general_error_message": "irgendetwas ging schief",
+  "general_error_message": "PLZ_TRANSLATE Something went wrong. Please try again later.",
   "general_active": "aktiv",
   "general_inactive": "inaktiv",
   "daypicker_monday": "Montag",

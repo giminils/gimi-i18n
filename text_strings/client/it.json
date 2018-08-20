@@ -56,7 +56,7 @@
   "general_social": "social",
   "general_reject": "rifiutare",
   "send_invite": "invita",
-  "general_error_message": "qualcosa è andato storto",
+  "general_error_message": "PLZ_TRANSLATE Something went wrong. Please try again later.",
   "general_active": "attivo",
   "general_inactive": "inattivo",
   "daypicker_monday": "Lunedì",

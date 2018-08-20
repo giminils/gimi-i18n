@@ -56,7 +56,7 @@
   "general_social": "social",
   "general_reject": "reject",
   "send_invite": "invite",
-  "general_error_message": "PLZ_COPY Something went wrong. Please try again later.",
+  "general_error_message": "Something went wrong. Please try again later.",
   "general_active": "active",
   "general_inactive": "inactive",
   "daypicker_monday": "Monday",
