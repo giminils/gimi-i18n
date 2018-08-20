@@ -56,7 +56,7 @@
   "general_social": "social",
   "general_reject": "inte godkänd",
   "send_invite": "bjud in",
-  "general_error_message": "något gick fel",
+  "general_error_message": "Något gick fel. Försök igen lite senare",
   "general_active": "aktiv",
   "general_inactive": "inaktiv",
   "daypicker_monday": "måndag",
