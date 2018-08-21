@@ -1665,5 +1665,7 @@
   "kid_age_restrictions_deposit_only": "Kids younger than 15 have only deposit only permissions",
   "general_getting_data": "Getting data...",
   "owner_cant_edit_task_popover_title": "You're not the owner of this chore",
-  "owner_cant_edit_task_popover_text": "Only the owner can edit, delete or mark chores as done."
+  "owner_cant_edit_task_popover_text": "Only the owner can edit, delete or mark chores as done.",
+  "setup_kid_change_no_allowance_change_later_popover_title": "If you change your mind...",
+  "setup_kid_change_no_allowance_change_later_popover_text": "...you can always update your settings for %1$d!"
 }
