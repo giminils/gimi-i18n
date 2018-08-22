@@ -1658,7 +1658,7 @@
   "confirmation_message_number_verified": "Your number has been sucessfully verified",
   "confirmation_message_withdraw_success": "Withdraw successfull",
   "confirmation_message_deposit_success": "Deposit successfull",
-  "confirmation_message_suggested_enabled": "Suggested chore was approved!",
+  "confirmation_message_suggested_enabled": "PLZ_COPY Chore was added!",
   "confirmation_message_approved_chore": "Completed chore was approved!",
   "general_needs_minimal_value": "The minimal transaction value is %1$d.",
   "general_minimal_value": "You need to to pass the minimal value.",
