@@ -41,7 +41,7 @@ import etCalendar from './text_strings/calendar/et.json'
 import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
-import {getCardQuestion, getCardAnswer} from './SharedStrings'
+import {getCardQuestion, getCardAnswer, getInfluencerPortalQuestion, getInfluencerPortalAnswer} from './SharedStrings'
 import Cities from './Cities.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
@@ -151,5 +151,9 @@ export let getSupportedTimeZones = () => {
 export let exchangeRates = ExchangeRates
 
 export let getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
+
+export let getInfluencerQuestion = (step: number, answers: Object, lang?: string = 'en') => getInfluencerPortalQuestion(step, answers, lang)
+
+export let getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
 
 export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)

@@ -20,11 +20,33 @@ export let getCardQuestion = (step: number, lang: string = 'en', currencyConfig:
   return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
+export let getInfluencerPortalQuestion = (step: number, answers: String, lang: string = 'en'): string => {
+  let textStrings = getSharedStrings(lang)
+  switch (step) {
+    case 1:
+      return ['Intresseanmälan']
+    case 2:
+      return ['Vilka kanaler använder du?']
+  }
+}
+
+export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): string => {
+  let textStrings = getSharedStrings(lang)
+  switch (step) {
+    case 1:
+      return [{title: 'Jag är en influencer under 18 år', valid: true}, {title: 'Jag är en vuxen influencer', valid: true}]
+    case 2:
+      return [{title: 'IG', valid: true}, {title: 'YT', valid: true}, {title: 'SC', valid: true},
+        {title: 'SU', valid: true}]
+  }
+}
+
 export let getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
   let textStrings = getSharedStrings(lang)
   let answers = []
   for (var i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
   answers.push({title: getText('card_test_answer_dont_know', [], textStrings), valid: false})
+  console.log('answers', answers)
   return answers
 }
 
