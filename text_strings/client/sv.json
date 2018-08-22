@@ -1668,5 +1668,7 @@
   "owner_cant_edit_task_popover_text": "Endast ägaren kan ta bort, redigera eller markera uppgiften som godkänd.",
   "setup_kid_change_no_allowance_change_later_popover_title": "PLZ_CHECK If you change your mind...",
   "setup_kid_change_no_allowance_change_later_popover_text": "PLZ_CHECK ...you can always update your settings for %1$d!",
-  "not_gimi_card_error": "PLZ_CHECK The card you scanned is not a gimi card"
+  "not_gimi_card_error": "PLZ_CHECK The card you scanned is not a gimi card",
+  "cash_payout_withdraw_popover_title": "PLZ_CHECK You just made a withdrawal from %1$d",
+  "cash_payout_withdraw_popover_text": "PLZ_CHECK %1$d was withdrawn from Savings."
 }
