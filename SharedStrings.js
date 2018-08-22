@@ -20,12 +20,12 @@ export let getCardQuestion = (step: number, lang: string = 'en', currencyConfig:
   return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
-export let getInfluencerPortalQuestion = (step: number, answers: String, lang: string = 'en'): Array => {
+export let getInfluencerPortalQuestion = (step: number, answers: String, lang: string = 'en'): Array<*> => {
   let textStrings = getSharedStrings(lang)
   return [getText(`influencer.portal.question.${step}`)]
 }
 
-export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): Array<Object> => {
+export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): Array<*> => {
   let textStrings = getSharedStrings(lang)
   switch (step) {
     case 1:
