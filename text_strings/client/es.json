@@ -1667,5 +1667,6 @@
   "owner_cant_edit_task_popover_title": "PLZ_TRANSLATE You're not the owner of this chore",
   "owner_cant_edit_task_popover_text": "PLZ_TRANSLATE Only the owner can edit, delete or mark chores as done.",
   "setup_kid_change_no_allowance_change_later_popover_title": "PLZ_TRANSLATE If you change your mind...",
-  "setup_kid_change_no_allowance_change_later_popover_text": "PLZ_TRANSLATE ...you can always update your settings for %1$d!"
+  "setup_kid_change_no_allowance_change_later_popover_text": "PLZ_TRANSLATE ...you can always update your settings for %1$d!",
+  "not_gimi_card_error": "PLZ_TRANSLATE The card you scanned is not a gimi card"
 }
