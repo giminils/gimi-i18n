@@ -25,7 +25,7 @@ export let getInfluencerPortalQuestion = (step: number, answers: String, lang: s
   return [getText(`influencer.portal.question.${step}`)]
 }
 
-export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): Array<*> => {
+export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
   let textStrings = getSharedStrings(lang)
   switch (step) {
     case 1:
