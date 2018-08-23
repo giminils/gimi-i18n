@@ -1662,7 +1662,6 @@
   "confirmation_message_approved_chore": "PLZ_TRANSLATE Completed chore was approved!",
   "general_needs_minimal_value": "De minimale transactie waarde is %1$d",
   "general_minimal_value": "Je moet boven de minimale waarde komen.",
-  "kid_age_restrictions_deposit_only": "Kinderen onder 15 jaar hebben alleen toestemming om te storten",
   "general_getting_data": "Ophalen data...",
   "owner_cant_edit_task_popover_title": "PLZ_TRANSLATE You're not the owner of this chore",
   "owner_cant_edit_task_popover_text": "PLZ_TRANSLATE Only the owner can edit, delete or mark chores as done.",

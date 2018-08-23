@@ -1662,7 +1662,6 @@
   "confirmation_message_approved_chore": "Klirr! En uppgift har godkänts!",
   "general_needs_minimal_value": "Minsta summa för överföring är %1$d",
   "general_minimal_value": "Du behöver överföra mer än den summan för att det ska gå igenom.",
-  "kid_age_restrictions_deposit_only": "PLZ_CHECK Kids younger than 15 have only deposit only permissions",
   "general_getting_data": "Hämtar data...",
   "owner_cant_edit_task_popover_title": "Du är inte ägare av den här uppgiften",
   "owner_cant_edit_task_popover_text": "Endast ägaren kan ta bort, redigera eller markera uppgiften som godkänd.",
