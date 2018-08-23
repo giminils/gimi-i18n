@@ -317,5 +317,7 @@
   "event_other_parent_asks_for_deposit": "{parent.nickname} is requesting permission to deposit to {child.nickname}",
   "event_new_weekly_tasks": "Check out this weeks chores!",
   "event_permissions_to_deposit_granted": "You got permission to send money to {child.nickname}",
-  "event_suggested_chore_enabled": "{parent.nickname} has accepted your chore suggestion!"
+  "event_suggested_chore_enabled": "{parent.nickname} has accepted your chore suggestion!",
+  "push_new_pfs_card_transaction_statement_child": "You just spent {statement.str_amount} at {statement.merchant_name}",
+  "push_new_pfs_card_transaction_statement_parent": "{statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}"
 }

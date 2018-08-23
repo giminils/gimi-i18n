@@ -317,5 +317,7 @@
   "event_other_parent_asks_for_deposit": "{parent.nickname} begär tillstånd att deponera på {child.nickname}",
   "event_new_weekly_tasks": "Kolla in veckans sysslor!",
   "event_permissions_to_deposit_granted": "You got permission to send money to {child.nickname}",
-  "event_suggested_chore_enabled": "{parent.nickname} har accepterat ditt sysselsättningsförslag!"
+  "event_suggested_chore_enabled": "{parent.nickname} har accepterat ditt sysselsättningsförslag!",
+  "push_new_pfs_card_transaction_statement_child": "Du har spenderat {statement.str_amount} hos {statement.merchant_name}",
+  "push_new_pfs_card_transaction_statement_parent": "{statement.card.user.nickname} har spenderat {statement.str_amount} hos {statement.merchant_name}"
 }

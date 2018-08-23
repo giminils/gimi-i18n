@@ -317,5 +317,7 @@
   "event_other_parent_asks_for_deposit": "{parent.nickname} anmoder om tilladelse til at indbetale til {child.nickname}",
   "event_new_weekly_tasks": "Tjek denne uges opgaver ud!",
   "event_permissions_to_deposit_granted": "Du har tilladelse til at sende penge til {child.nickname}",
-  "event_suggested_chore_enabled": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!"
+  "event_suggested_chore_enabled": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!",
+  "push_new_pfs_card_transaction_statement_child": "PLZ_TRANSLATE You just spent {statement.str_amount} at {statement.merchant_name}",
+  "push_new_pfs_card_transaction_statement_parent": "PLZ_TRANSLATE {statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}"
 }
