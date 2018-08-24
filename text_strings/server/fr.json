@@ -216,7 +216,7 @@
   "push_cloud_created": "Votre cloud a été créé",
   "event_invitation_is_sent": "L'invitation est envoyée",
   "event_you_are_connected": "Vous êtes connecté avec {connection_token.used_by.nickname}",
-  "event_you_have_got_an_invitation": "Vous avez une invitation de {child.nickname}",
+  "event_you_have_got_an_invitation": "Vous avez une invitation de {connection_token.created_by.nickname}",
   "event_invitation_was_not_accepted": "L'invitation n'a pas été acceptée",
   "event_has_a_new_connection": "A un nouveau contact",
   "event_you_have_set_allowance": "Vous avez établi une allocation",

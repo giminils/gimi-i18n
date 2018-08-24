@@ -216,7 +216,7 @@
   "push_cloud_created": "PLZ_TRANSLATE Your cloud is created",
   "event_invitation_is_sent": "PLZ_TRANSLATE Invitation is sent",
   "event_you_are_connected": "PLZ_TRANSLATE Olete ühenduses {connection_token.used_by.nickname}",
-  "event_you_have_got_an_invitation": "PLZ_TRANSLATE You have got an invitation from {child.nickname}",
+  "event_you_have_got_an_invitation": "PLZ_TRANSLATE You have got an invitation from {connection_token.created_by.nickname}",
   "event_invitation_was_not_accepted": "PLZ_TRANSLATE Kutset ei võetud vastu",
   "event_has_a_new_connection": "PLZ_TRANSLATE Has a new connection",
   "event_you_have_set_allowance": "PLZ_TRANSLATE You have set allowance",
