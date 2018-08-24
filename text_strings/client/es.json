@@ -1669,5 +1669,6 @@
   "setup_kid_change_no_allowance_change_later_popover_text": "PLZ_TRANSLATE ...you can always update your settings for %1$d!",
   "not_gimi_card_error": "PLZ_TRANSLATE The card you scanned is not a gimi card",
   "cash_payout_withdraw_popover_title": "PLZ_TRANSLATE You just made a withdrawal from %1$d",
-  "cash_payout_withdraw_popover_text": "PLZ_TRANSLATE %1$d was withdrawn from Savings."
+  "cash_payout_withdraw_popover_text": "PLZ_TRANSLATE %1$d was withdrawn from Savings.",
+  "select_parent": "PLZ_TRANSLATE Select a parent."
 }
