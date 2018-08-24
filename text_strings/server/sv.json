@@ -203,7 +203,7 @@
   "push_connect_for_money": "Inga föräldrar i appen betyder inga pengar i appen - Sätt upp en kontakt med dina föräldrar!",
   "push_create_dream": "Skapa en dröm och börja spara till det du vill ha!",
   "push_verify_phone": "Bekräfta ditt telefonnummer, så vi vet att du är du!",
-  "push_suggest_chore": "Inga uppgifter i appen? Föreslå en egen uppgift!",
+  "push_suggest_chore": "PLZ_CHECK Time to earn some money? Suggest a chore in the app!",
   "push_send_invite_reminder": "Du har inte fått något svar på din inbjudan. Skicka en ny?",
   "push_keep_account": "Ditt konto kommer att raderas om du inte kopplar ihop med någon. Skicka en ny inbjudan till någon nu!",
   "push_will_delete_account": "Ditt konto kommer att raderas om 24 timmar om du inte kopplar ihop med någon! Se till att skicka inbjudan till en förälder eller en annan vuxen nu!",
