@@ -1670,5 +1670,6 @@
   "not_gimi_card_error": "The card you scanned is not a gimi card",
   "cash_payout_withdraw_popover_title": "You just made a withdrawal from %1$d",
   "cash_payout_withdraw_popover_text": "%1$d was withdrawn from Savings.",
-  "select_parent": "Select a parent."
+  "select_parent": "Select a parent.",
+  "general_apology": "Apology"
 }

@@ -1670,5 +1670,6 @@
   "not_gimi_card_error": "De kaart die je gescanned hebt is geen Gimi kaart",
   "cash_payout_withdraw_popover_title": "Je moet een opname van %1$d doen",
   "cash_payout_withdraw_popover_text": "%1$d is opgenomen van je spaartegoed.",
-  "select_parent": "Kies een ouder."
+  "select_parent": "Kies een ouder.",
+  "general_apology": "PLZ_TRANSLATE Apology"
 }

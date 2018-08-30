@@ -1670,5 +1670,6 @@
   "not_gimi_card_error": "Kortet du har skannet er ikke et gimi kort",
   "cash_payout_withdraw_popover_title": "Du har lige lavet en hævning fra %1$d",
   "cash_payout_withdraw_popover_text": "%1$d er hævet fra Opsparing.",
-  "select_parent": "Vælg en forælder."
+  "select_parent": "Vælg en forælder.",
+  "general_apology": "PLZ_TRANSLATE Apology"
 }
