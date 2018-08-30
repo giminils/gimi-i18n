@@ -1671,5 +1671,7 @@
   "cash_payout_withdraw_popover_title": "You just made a withdrawal from %1$d",
   "cash_payout_withdraw_popover_text": "%1$d was withdrawn from Savings.",
   "select_parent": "Select a parent.",
-  "general_apology": "Apology"
+  "general_apology": "Apology",
+  "added_dream_without_parent_takeover_title": "Your dream is added!",
+  "added_dream_without_parent_takeover_text": "But you need a parent to get money for your dream!"
 }

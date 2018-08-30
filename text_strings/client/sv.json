@@ -1671,5 +1671,7 @@
   "cash_payout_withdraw_popover_title": "Du gjorde precis ett uttag från %1$d",
   "cash_payout_withdraw_popover_text": "%1$d har dragits av från Sparat.",
   "select_parent": "Välj en förälder.",
-  "general_apology": "PLZ_CHECK Apology"
+  "general_apology": "PLZ_CHECK Apology",
+  "added_dream_without_parent_takeover_title": "PLZ_CHECK Your dream is added!",
+  "added_dream_without_parent_takeover_text": "PLZ_CHECK But you need a parent to get money for your dream!"
 }

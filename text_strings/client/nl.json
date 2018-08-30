@@ -1671,5 +1671,7 @@
   "cash_payout_withdraw_popover_title": "Je moet een opname van %1$d doen",
   "cash_payout_withdraw_popover_text": "%1$d is opgenomen van je spaartegoed.",
   "select_parent": "Kies een ouder.",
-  "general_apology": "PLZ_TRANSLATE Apology"
+  "general_apology": "PLZ_TRANSLATE Apology",
+  "added_dream_without_parent_takeover_title": "PLZ_TRANSLATE Your dream is added!",
+  "added_dream_without_parent_takeover_text": "PLZ_TRANSLATE But you need a parent to get money for your dream!"
 }

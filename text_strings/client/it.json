@@ -1671,5 +1671,7 @@
   "cash_payout_withdraw_popover_title": "PLZ_TRANSLATE You just made a withdrawal from %1$d",
   "cash_payout_withdraw_popover_text": "PLZ_TRANSLATE %1$d was withdrawn from Savings.",
   "select_parent": "PLZ_TRANSLATE Select a parent.",
-  "general_apology": "PLZ_TRANSLATE Apology"
+  "general_apology": "PLZ_TRANSLATE Apology",
+  "added_dream_without_parent_takeover_title": "PLZ_TRANSLATE Your dream is added!",
+  "added_dream_without_parent_takeover_text": "PLZ_TRANSLATE But you need a parent to get money for your dream!"
 }
