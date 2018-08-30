@@ -1675,5 +1675,9 @@
   "added_dream_without_parent_takeover_title": "Your dream is added!",
   "added_dream_without_parent_takeover_text": "But you need a parent to get money for your dream!",
   "parent_no_kids_header": "This is the place...",
-  "parent_no_kids_desc": "...where you keep track of your children and their money."
+  "parent_no_kids_desc": "...where you keep track of your children and their money.",
+  "cant_delete_premium_kid_popover_title": "You cannot delete %1$d",
+  "cant_delete_premium_kid_popover_text": "You have an active Premium subscription, so you cannot delete this connection.",
+  "cant_delete_own_premium_account_popover_title": "You cannot delete your account",
+  "cant_delete_own_premium_account_popover_text": "You have an active Premium subscription, so you cannot delete your connection."
 }
