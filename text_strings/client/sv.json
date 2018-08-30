@@ -1673,5 +1673,7 @@
   "select_parent": "Välj en förälder.",
   "general_apology": "PLZ_CHECK Apology",
   "added_dream_without_parent_takeover_title": "PLZ_CHECK Your dream is added!",
-  "added_dream_without_parent_takeover_text": "PLZ_CHECK But you need a parent to get money for your dream!"
+  "added_dream_without_parent_takeover_text": "PLZ_CHECK But you need a parent to get money for your dream!",
+  "parent_no_kids_header": "PLZ_CHECK This is the place...",
+  "parent_no_kids_desc": "PLZ_CHECK ...where you keep track of your children and their money."
 }
