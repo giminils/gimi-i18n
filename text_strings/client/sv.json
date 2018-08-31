@@ -1681,5 +1681,6 @@
   "cant_delete_own_premium_account_popover_title": "PLZ_CHECK You cannot delete your account",
   "cant_delete_own_premium_account_popover_text": "PLZ_CHECK You have an active Premium subscription, so you cannot delete your connection.",
   "card_was_blocked_confirmation_message": "PLZ_CHECK Card was blocked",
-  "card_was_unblocked_confirmation_message": "PLZ_CHECK Card was unblocked"
+  "card_was_unblocked_confirmation_message": "PLZ_CHECK Card was unblocked",
+  "lockdown_reminder_push_message_to_parents": "PLZ_CHECK %1$d is on lock down in the app! Fix it by paying for the card."
 }
