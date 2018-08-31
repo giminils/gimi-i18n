@@ -1679,5 +1679,7 @@
   "cant_delete_premium_kid_popover_title": "You cannot delete %1$d",
   "cant_delete_premium_kid_popover_text": "You have an active Premium subscription, so you cannot delete this connection.",
   "cant_delete_own_premium_account_popover_title": "You cannot delete your account",
-  "cant_delete_own_premium_account_popover_text": "You have an active Premium subscription, so you cannot delete your connection."
+  "cant_delete_own_premium_account_popover_text": "You have an active Premium subscription, so you cannot delete your connection.",
+  "card_was_blocked_confirmation_message": "Card was blocked",
+  "card_was_unblocked_confirmation_message": "Card was unblocked"
 }
