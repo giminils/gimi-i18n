@@ -1657,7 +1657,7 @@
   "confirmation_message_invite_sent": "Invitasjonen din er sendt",
   "confirmation_message_number_verified": "Ditt nummer er bekreftet",
   "confirmation_message_withdraw_success": "Uttaket var vellykket",
-  "confirmation_message_deposit_success": "Utbetalingen var vellykket",
+  "confirmation_message_deposit_success": "Innbetalingen var vellykket",
   "confirmation_message_suggested_enabled": "Oppgaven ble lagt til!",
   "confirmation_message_approved_chore": "Fullført oppgave ble godkjent!",
   "general_needs_minimal_value": "Minstebeløpet for overføring er %1$d",
