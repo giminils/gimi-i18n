@@ -1661,7 +1661,7 @@
   "confirmation_message_suggested_enabled": "Oppgaven ble lagt til!",
   "confirmation_message_approved_chore": "Fullført oppgave ble godkjent!",
   "general_needs_minimal_value": "Minstebeløpet for overføring er %1$d",
-  "general_minimal_value": "Du må oveføre et større beløp enn minstebeløpet.",
+  "general_minimal_value": "Du må overføre et større beløp enn minstebeløpet.",
   "general_getting_data": "Henter data...",
   "owner_cant_edit_task_popover_title": "Du er ikke eieren av denne oppgaven",
   "owner_cant_edit_task_popover_text": "Bare eieren kan redigere, slette eller merke oppgaver som ferdig.",
