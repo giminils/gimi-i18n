@@ -1,4 +1,6 @@
 // @flow
+
+// client
 import sv from './text_strings/client/sv.json'
 import en from './text_strings/client/en.json'
 import no from './text_strings/client/nb.json'
@@ -11,6 +13,7 @@ import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import _default from './text_strings/client/default.json'
 
+// bot
 import svBot from './text_strings/bot/sv.json'
 import enBot from './text_strings/bot/en.json'
 import noBot from './text_strings/bot/nb.json'
@@ -21,6 +24,18 @@ import fiBot from './text_strings/bot/fi.json'
 import itBot from './text_strings/bot/it.json'
 import esBot from './text_strings/bot/es.json'
 import deBot from './text_strings/bot/de.json'
+
+// Bot
+import svEducate from './text_strings/educationTimeComeAn/sv.json'
+import enEducate from './text_strings/educationTimeComeAn/en.json'
+import noEducate from './text_strings/educationTimeComeAn/nb.json'
+import daEducate from './text_strings/educationTimeComeAn/da.json'
+import frEducate from './text_strings/educationTimeComeAn/fr.json'
+import nlEducate from './text_strings/educationTimeComeAn/nl.json'
+import fiEducate from './text_strings/educationTimeComeAn/fi.json'
+import itEducate from './text_strings/educationTimeComeAn/it.json'
+import esEducate from './text_strings/educationTimeComeAn/es.json'
+import deEducate from './text_strings/educationTimeComeAn/de.json'
 
 // calendar
 import defaultCalendar from './text_strings/calendar/default.json'
@@ -83,17 +98,17 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 export let getTextStrings = (lang: string) => {
   // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
   switch (lang.substring(0, 2)) {
-    case 'sv' : return {..._default, ...sv, ...svBot} // sweden
+    case 'sv' : return {..._default, ...sv, ...svBot, ...svEducate} // sweden
     case 'nb' :
-    case 'nn' : return {..._default, ...no, ...noBot} // norway
-    case 'da' : return {..._default, ...da, ...daBot} // danish
-    case 'fr' : return {..._default, ...fr, ...frBot} // france
-    case 'nl' : return {..._default, ...nl, ...nlBot} // Netherlands
-    case 'fi' : return {..._default, ...fi, ...fiBot} // finish
-    case 'it' : return {..._default, ...it, ...itBot} // italian
-    case 'es' : return {..._default, ...es, ...esBot} // spanish
-    case 'de' : return {..._default, ...de, ...deBot} // german
-    default : return {..._default, ...en, ...enBot}
+    case 'nn' : return {..._default, ...no, ...noBot, ...noEducate} // norway
+    case 'da' : return {..._default, ...da, ...daBot, ...daEducate} // danish
+    case 'fr' : return {..._default, ...fr, ...frBot, ...frEducate} // france
+    case 'nl' : return {..._default, ...nl, ...nlBot, ...nlEducate} // Netherlands
+    case 'fi' : return {..._default, ...fi, ...fiBot, ...fiEducate} // finish
+    case 'it' : return {..._default, ...it, ...itBot, ...itEducate} // italian
+    case 'es' : return {..._default, ...es, ...esBot, ...esEducate} // spanish
+    case 'de' : return {..._default, ...de, ...deBot, ...deEducate} // german
+    default : return {..._default, ...en, ...enBot, ...enEducate}
   }
 }
 
