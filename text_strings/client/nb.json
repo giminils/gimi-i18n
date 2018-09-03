@@ -1683,5 +1683,7 @@
   "card_was_blocked_confirmation_message": "Kortet ble blokkert",
   "card_was_unblocked_confirmation_message": "Kortet er ikke lenger blokkert",
   "lockdown_reminder_push_message_to_parents": "%1$d er låst i appen! Løs det ved å betale for kortet.",
-  "nav_bar_educate": "PLZ_TRANSLATE Educate"
+  "nav_bar_educate": "PLZ_TRANSLATE Educate",
+  "almost_reached_dream_title": "PLZ_TRANSLATE You're so close to your dream!",
+  "almost_reached_dream_subtitle": "PLZ_TRANSLATE Wait for next payday without spending, and you will reach your dream!"
 }

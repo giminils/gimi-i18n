@@ -1683,5 +1683,7 @@
   "card_was_blocked_confirmation_message": "PLZ_TRANSLATE Card was blocked",
   "card_was_unblocked_confirmation_message": "PLZ_TRANSLATE Card was unblocked",
   "lockdown_reminder_push_message_to_parents": "PLZ_TRANSLATE %1$d is on lock down in the app! Fix it by paying for the card.",
-  "nav_bar_educate": "PLZ_TRANSLATE Educate"
+  "nav_bar_educate": "PLZ_TRANSLATE Educate",
+  "almost_reached_dream_title": "PLZ_TRANSLATE You're so close to your dream!",
+  "almost_reached_dream_subtitle": "PLZ_TRANSLATE Wait for next payday without spending, and you will reach your dream!"
 }

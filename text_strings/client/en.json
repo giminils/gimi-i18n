@@ -1683,5 +1683,7 @@
   "card_was_blocked_confirmation_message": "Card was blocked",
   "card_was_unblocked_confirmation_message": "Card was unblocked",
   "lockdown_reminder_push_message_to_parents": "%1$d is on lock down in the app! Fix it by paying for the card.",
-  "nav_bar_educate": "Educate"
+  "nav_bar_educate": "Educate",
+  "almost_reached_dream_title": "You're so close to your dream!",
+  "almost_reached_dream_subtitle": "Wait for next payday without spending, and you will reach your dream!"
 }

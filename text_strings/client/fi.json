@@ -1683,5 +1683,7 @@
   "card_was_blocked_confirmation_message": "Kortti blokattiin",
   "card_was_unblocked_confirmation_message": "Kortin blokki poistettiin",
   "lockdown_reminder_push_message_to_parents": "%1$d on lukittuna sovelluksessa! Korjaa se maksamalla kortista.",
-  "nav_bar_educate": "PLZ_TRANSLATE Educate"
+  "nav_bar_educate": "PLZ_TRANSLATE Educate",
+  "almost_reached_dream_title": "PLZ_TRANSLATE You're so close to your dream!",
+  "almost_reached_dream_subtitle": "PLZ_TRANSLATE Wait for next payday without spending, and you will reach your dream!"
 }
