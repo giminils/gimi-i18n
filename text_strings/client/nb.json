@@ -1682,5 +1682,6 @@
   "cant_delete_own_premium_account_popover_text": "Du har et aktivt Premium-abonnement, så du kan ikke slette din forbindelse",
   "card_was_blocked_confirmation_message": "Kortet ble blokkert",
   "card_was_unblocked_confirmation_message": "Kortet er ikke lenger blokkert",
-  "lockdown_reminder_push_message_to_parents": "%1$d er låst i appen! Løs det ved å betale for kortet."
+  "lockdown_reminder_push_message_to_parents": "%1$d er låst i appen! Løs det ved å betale for kortet.",
+  "nav_bar_educate": "PLZ_TRANSLATE Educate"
 }

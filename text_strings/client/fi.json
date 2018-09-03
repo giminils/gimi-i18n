@@ -1682,5 +1682,6 @@
   "cant_delete_own_premium_account_popover_text": "Sinulla on aktiivinen Premium-tilaus, joten et voi poistaa tiliäsi.",
   "card_was_blocked_confirmation_message": "Kortti blokattiin",
   "card_was_unblocked_confirmation_message": "Kortin blokki poistettiin",
-  "lockdown_reminder_push_message_to_parents": "%1$d on lukittuna sovelluksessa! Korjaa se maksamalla kortista."
+  "lockdown_reminder_push_message_to_parents": "%1$d on lukittuna sovelluksessa! Korjaa se maksamalla kortista.",
+  "nav_bar_educate": "PLZ_TRANSLATE Educate"
 }
