@@ -1685,5 +1685,7 @@
   "lockdown_reminder_push_message_to_parents": "%1$d is on lock down in the app! Fix it by paying for the card.",
   "nav_bar_educate": "Educate",
   "almost_reached_dream_title": "You're so close to your dream!",
-  "almost_reached_dream_subtitle": "Wait for next payday without spending, and you will reach your dream!"
+  "almost_reached_dream_subtitle": "Wait for next payday without spending, and you will reach your dream!",
+  "choose_currency": "choose currency",
+  "currency_picker_subtitle": "changes will affect all your connected children"
 }

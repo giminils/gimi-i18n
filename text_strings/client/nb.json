@@ -1685,5 +1685,7 @@
   "lockdown_reminder_push_message_to_parents": "%1$d er låst i appen! Løs det ved å betale for kortet.",
   "nav_bar_educate": "PLZ_TRANSLATE Educate",
   "almost_reached_dream_title": "PLZ_TRANSLATE You're so close to your dream!",
-  "almost_reached_dream_subtitle": "PLZ_TRANSLATE Wait for next payday without spending, and you will reach your dream!"
+  "almost_reached_dream_subtitle": "PLZ_TRANSLATE Wait for next payday without spending, and you will reach your dream!",
+  "choose_currency": "PLZ_TRANSLATE choose currency",
+  "currency_picker_subtitle": "PLZ_TRANSLATE changes will affect all your connected children"
 }
