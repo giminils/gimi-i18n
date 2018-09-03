@@ -1687,5 +1687,9 @@
   "almost_reached_dream_title": "PLZ_TRANSLATE You're so close to your dream!",
   "almost_reached_dream_subtitle": "PLZ_TRANSLATE Wait for next payday without spending, and you will reach your dream!",
   "choose_currency": "PLZ_TRANSLATE choose currency",
-  "currency_picker_subtitle": "PLZ_TRANSLATE changes will affect all your connected children"
+  "currency_picker_subtitle": "PLZ_TRANSLATE changes will affect all your connected children",
+  "suggested_chore_action_title": "PLZ_TRANSLATE You just suggested a chore!",
+  "suggested_chore_action_desc": "PLZ_TRANSLATE %1$d has to add it to your chores before you can complete it.",
+  "completed_chore_action_title": "PLZ_TRANSLATE Well done!You just completed a chore!",
+  "completed_chore_action_desc": "PLZ_TRANSLATE You wil get the money next payday, if %1$d approves it."
 }

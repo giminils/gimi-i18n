@@ -1687,5 +1687,9 @@
   "almost_reached_dream_title": "You're so close to your dream!",
   "almost_reached_dream_subtitle": "Wait for next payday without spending, and you will reach your dream!",
   "choose_currency": "choose currency",
-  "currency_picker_subtitle": "changes will affect all your connected children"
+  "currency_picker_subtitle": "changes will affect all your connected children",
+  "suggested_chore_action_title": "You just suggested a chore!",
+  "suggested_chore_action_desc": "%1$d has to add it to your chores before you can complete it.",
+  "completed_chore_action_title": "Well done!You just completed a chore!",
+  "completed_chore_action_desc": "You wil get the money next payday, if %1$d approves it."
 }
