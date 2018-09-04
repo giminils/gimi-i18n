@@ -95,20 +95,35 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
   {code: 'COP', name: 'Colombian Peso'}
 ]
 
-export let getTextStrings = (lang: string) => {
-  // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
+export let getEducationStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv' : return {..._default, ...sv, ...svBot, ...svEducate} // sweden
-    case 'nb' :
-    case 'nn' : return {..._default, ...no, ...noBot, ...noEducate} // norway
-    case 'da' : return {..._default, ...da, ...daBot, ...daEducate} // danish
-    case 'fr' : return {..._default, ...fr, ...frBot, ...frEducate} // france
-    case 'nl' : return {..._default, ...nl, ...nlBot, ...nlEducate} // Netherlands
-    case 'fi' : return {..._default, ...fi, ...fiBot, ...fiEducate} // finish
-    case 'it' : return {..._default, ...it, ...itBot, ...itEducate} // italian
-    case 'es' : return {..._default, ...es, ...esBot, ...esEducate} // spanish
-    case 'de' : return {..._default, ...de, ...deBot, ...deEducate} // german
-    default : return {..._default, ...en, ...enBot, ...enEducate}
+    case 'sv': return svEducate
+    case 'nb':
+    case 'nn': return noEducate
+    case 'da': return daEducate
+    case 'fr': return frEducate
+    case 'nl': return nlEducate
+    case 'fi': return fiEducate
+    case 'it': return itEducate
+    case 'es': return esEducate
+    case 'de': return deEducate
+    default: return enEducate
+  }
+}
+
+export let getTextStrings = (lang: string) => {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return {..._default, ...sv, ...svBot, ...svEducate} // sweden
+    case 'nb':
+    case 'nn': return {..._default, ...no, ...noBot, ...noEducate} // norway
+    case 'da': return {..._default, ...da, ...daBot, ...daEducate} // danish
+    case 'fr': return {..._default, ...fr, ...frBot, ...frEducate} // france
+    case 'nl': return {..._default, ...nl, ...nlBot, ...nlEducate} // Netherlands
+    case 'fi': return {..._default, ...fi, ...fiBot, ...fiEducate} // finish
+    case 'it': return {..._default, ...it, ...itBot, ...itEducate} // italian
+    case 'es': return {..._default, ...es, ...esBot, ...esEducate} // spanish
+    case 'de': return {..._default, ...de, ...deBot, ...deEducate} // german
+    default: return {..._default, ...en, ...enBot, ...enEducate}
   }
 }
 
