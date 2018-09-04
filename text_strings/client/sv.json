@@ -1691,5 +1691,7 @@
   "suggested_chore_action_title": "PLZ_CHECK You just suggested a chore!",
   "suggested_chore_action_desc": "PLZ_CHECK Your parent has to add it to your chores before you can complete it.",
   "completed_chore_action_title": "PLZ_CHECK Well done! You just completed a chore!",
-  "completed_chore_action_desc": "PLZ_CHECK You wil get the money next payday, if your parent approves it."
+  "completed_chore_action_desc": "PLZ_CHECK You wil get the money next payday, if your parent approves it.",
+  "cant_change_currency_for_kid_w_multiple_parents_title": "PLZ_CHECK You can't change the currency",
+  "cant_change_currency_for_kid_w_multiple_parents_text": "PLZ_CHECK %1$d has other connections that would be affected."
 }
