@@ -1695,5 +1695,6 @@
   "cant_change_currency_for_kid_w_multiple_parents_title": "PLZ_TRANSLATE You can't change the currency",
   "cant_change_currency_for_kid_w_multiple_parents_text": "PLZ_TRANSLATE %1$d has other connections that would be affected.",
   "card_was_online_payment_unblocked_confirmation_message": "PLZ_TRANSLATE Card online payments unblocked",
-  "card_was_online_payment_blocked_confirmation_message": "PLZ_TRANSLATE Card online payments blocked"
+  "card_was_online_payment_blocked_confirmation_message": "PLZ_TRANSLATE Card online payments blocked",
+  "general_complete": "PLZ_TRANSLATE Complete"
 }

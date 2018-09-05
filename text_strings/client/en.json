@@ -1695,5 +1695,6 @@
   "cant_change_currency_for_kid_w_multiple_parents_title": "You can't change the currency",
   "cant_change_currency_for_kid_w_multiple_parents_text": "%1$d has other connections that would be affected.",
   "card_was_online_payment_unblocked_confirmation_message": "Card online payments unblocked",
-  "card_was_online_payment_blocked_confirmation_message": "Card online payments blocked"
+  "card_was_online_payment_blocked_confirmation_message": "Card online payments blocked",
+  "general_complete": "Complete"
 }
