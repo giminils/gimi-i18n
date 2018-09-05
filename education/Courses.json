@@ -1,0 +1,17 @@
+[
+  {
+    "courseName": "save",
+    "courseTitleLangKey": "course_earn_title",
+    "courseId": 1,
+  },
+  {
+    "courseName": "earn",
+    "courseTitleLangKey": "course_earn_title",
+    "courseId": 2
+  },
+  {
+    "courseName": "spend",
+    "courseTitleLangKey": "course_spend_title",
+    "courseId": 3
+  }
+]

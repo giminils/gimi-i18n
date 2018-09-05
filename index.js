@@ -63,6 +63,9 @@ import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
+import Cources from './education/Cources'
+import Cources from './education/Chapters'
+
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 export var gimiWebLanguageCodes = ['en', 'sv']
 export var supportedTimeZonesAndroid =
@@ -187,3 +190,5 @@ export let getInfluencerQuestion = (step: number, answers: Object, lang?: string
 export let getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
 
 export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
+
+export let getCourses = () =>

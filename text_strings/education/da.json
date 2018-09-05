@@ -1,13 +1,5 @@
 {
-  "coursename_lecturename_title": "PLZ_TRANSLATE exampleLecure",
-  "coursename_lecturename_desc": "PLZ_TRANSLATE exempelDesc",
-  "education_section_save_header": "PLZ_TRANSLATE Save",
-  "education_section_save_subheader": "PLZ_TRANSLATE Lets go saving money",
-  "education_section_earn_header": "PLZ_TRANSLATE Earn",
-  "education_section_earn_subheader": "PLZ_TRANSLATE Lets go earning money",
-  "education_section_spend_header": "PLZ_TRANSLATE Spend",
-  "education_section_spend_subheader": "PLZ_TRANSLATE Lets go spedning money",
-  "education_spend_chapter_1": "PLZ_TRANSLATE pengar",
-  "education_spend_chapter_2": "PLZ_TRANSLATE bil",
-  "education_spend_chapter_3": "PLZ_TRANSLATE båt"
+  "course_earn_title": "PLZ_TRANSLATE Earn",
+  "course_save_title": "PLZ_TRANSLATE Save",
+  "course_spend_title": "PLZ_TRANSLATE Spend"
 }
