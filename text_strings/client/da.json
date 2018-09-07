@@ -1558,7 +1558,7 @@
   "share_the_app_message": "Tjek denne smarte app",
   "general_share_gimi": "Del Gimi",
   "general_points": "point",
-  "money_settings": "Lommepenge og andet",
+  "money_settings": "PLZ_TRANSLATE Allowance, interest & currency",
   "kid_invite_parent": "Hejsa! Du skal bruge nogle voksne herinde for at det fungerer…",
   "delete_recurring_popover_title": "Er du sikker på, at du vil slette %1$d?",
   "delete_recurring_popover_text": "Dette vil slette det på alle aktive dage, samt slette alle færdiglavede opgaver. Det vil også trække pengene der tidligere er blevet tjent på denne opgave fra payday. Hvis du bare vil ændre hyppigheden så gå til opgaveindstillinger!",
