@@ -203,7 +203,7 @@
   "push_connect_for_money": "Ingen foreldre invitert vil si ingen penger i appen - Lag en kontakt med dine foreldre i appen!",
   "push_create_dream": "Skap en drøm og begynn med å spare penger til det du vil ha!",
   "push_verify_phone": "Verifier telefonnummer",
-  "push_suggest_chore": "PLZ_TRANSLATE Time to earn some money? Suggest a chore in the app!",
+  "push_suggest_chore": "På tide å tjene penger? Foreslå en oppgave i appen!",
   "push_send_invite_reminder": "Du har ikke fått svar på din invitasjon. Send en ny?",
   "push_keep_account": "Du kommer til å miste din konto om du ikke kobler deg sammen med noen. Send en ny invitasjon!",
   "push_will_delete_account": "Din konto kommer til å bli slettet innen 24 timer. Redd deg selv fra konkurs gjennomå koble deg sammen med en forelder!",
@@ -262,7 +262,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Nye uke- eller månedspenger er blitt bestemt! Sjekk dem i appen!",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} har fullført \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} spør om tillatelse til å redigere dine oppgaver",
-  "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Åpne appen for å se hvor mye {child.nickname} har oppnådd!",
+  "push_payday_parent": "Payday for {child.nickname}. Åpne appen for å se hvor mye {child.nickname} har tjent!",
   "push_child_has_reached_a_dream": "{name} har spart sammen til en drøm",
   "event_add_email": "Legg til din e-post",
   "push_short_tutorial": "Slik fungerer appen",
@@ -319,6 +319,6 @@
   "event_new_weekly_tasks": "Sjekk ut denne ukens oppgaver!",
   "event_permissions_to_deposit_granted": "Du har tillatelse til å sende penger til {child.nickname}",
   "event_suggested_chore_enabled": "{parent.nickname} har godkjent ditt oppgaveforslag!",
-  "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE You just spent {statement.str_amount} at {statement.merchant_name}",
-  "push_new_pfs_transaction_statement_parent": "PLZ_TRANSLATE {statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}"
+  "push_new_pfs_transaction_statement_child": "Du brukte nettopp {statement.str_amount} på {statement.merchant_name}",
+  "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} brukte nettopp {statement.str_amount} på {statement.merchant_name}"
 }
