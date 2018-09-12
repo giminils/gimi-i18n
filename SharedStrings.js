@@ -26,8 +26,8 @@ export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * =>
     case 1:
       return [{title: 'Jag är en influencer under 18 år', valid: true}, {title: 'Jag är en vuxen influencer', valid: true}]
     case 2:
-      return [{title: 'IG', valid: true}, {title: 'YT', valid: true}, {title: 'SC', valid: true},
-        {title: 'SU', valid: true}]
+      return [{title: 'insta', valid: true}, {title: 'yt', valid: true}, {title: 'snap', valid: true},
+        {title: 'musically', valid: true}]
     default: return undefined
   }
 }
