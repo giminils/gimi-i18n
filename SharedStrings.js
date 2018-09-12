@@ -20,11 +20,6 @@ export let getCardQuestion = (step: number, lang: string = 'en', currencyConfig:
   return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
-export let getInfluencerPortalQuestion = (step: number, answers: String, lang: string = 'en'): Array<*> => {
-  // let textStrings = getSharedStrings(lang)
-  return [getText(`influencer.portal.question.${step}`)]
-}
-
 export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
   // let textStrings = getSharedStrings(lang)
   switch (step) {
@@ -113,6 +108,9 @@ let getSharedStrings = (lang: string) => {
 let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   if (textStrings === undefined) return ''
   if (!textStrings || !langKey) return ''
+  console.log(textStrings)
+  console.log(langKey)
+  console.log(textStrings[langKey])
   var text = textStrings[langKey]
   if (!text) return ''
   else text = removeTranslationHelpers(text)

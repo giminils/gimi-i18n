@@ -184,8 +184,6 @@ export let exchangeRates = ExchangeRates
 
 export let getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
 
-export let getInfluencerQuestion = (step: number, answers: Object, lang?: string = 'en') => getInfluencerPortalQuestion(step, answers, lang)
-
 export let getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
 
 export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
