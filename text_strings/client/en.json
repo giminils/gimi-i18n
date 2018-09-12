@@ -1700,5 +1700,6 @@
   "rejected_chore_action_title": "You rejected %1$d",
   "rejected_chore_action_desc": "%1$d will get another chance to complete it!",
   "error_fetching_card_subscription_prices": "Couldn't get subscription prices.",
-  "sucessfull_pfs_deposit_title": "Deposit was done"
+  "sucessfull_pfs_deposit_title": "Deposit was done",
+  "new_chores_hint": "New chores!"
 }
