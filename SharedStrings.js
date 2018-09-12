@@ -108,9 +108,6 @@ let getSharedStrings = (lang: string) => {
 let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   if (textStrings === undefined) return ''
   if (!textStrings || !langKey) return ''
-  console.log(textStrings)
-  console.log(langKey)
-  console.log(textStrings[langKey])
   var text = textStrings[langKey]
   if (!text) return ''
   else text = removeTranslationHelpers(text)
