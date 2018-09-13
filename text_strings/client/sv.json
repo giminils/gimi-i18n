@@ -1701,5 +1701,7 @@
   "rejected_chore_action_desc": "PLZ_CHECK %1$d will get another chance to complete it!",
   "error_fetching_card_subscription_prices": "PLZ_CHECK Couldn't get subscription prices.",
   "sucessfull_pfs_deposit_title": "PLZ_CHECK Deposit was done",
-  "new_chores_hint": "PLZ_CHECK New chores!"
+  "new_chores_hint": "PLZ_CHECK New chores!",
+  "money_settings_multiple_parents_disclaimer": "PLZ_CHECK %1$d also has an allowance and savings interest from other adult(s).",
+  "money_settings_connections_button": "PLZ_CHECK Connections"
 }
