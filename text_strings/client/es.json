@@ -1705,5 +1705,6 @@
   "money_settings_multiple_parents_disclaimer": "PLZ_TRANSLATE %1$d also has an allowance and savings interest from other adult(s).",
   "money_settings_connections_button": "PLZ_TRANSLATE Connections",
   "scan_qr_code_instead_button": "PLZ_TRANSLATE Scan a code in your phone instead",
-  "general_send_invite": "PLZ_TRANSLATE Send invite!"
+  "general_send_invite": "PLZ_TRANSLATE Send invite!",
+  "allowance_no_chores_in_period": "PLZ_TRANSLATE 0 chores completed this period 😔"
 }
