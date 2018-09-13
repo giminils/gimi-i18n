@@ -1704,5 +1704,6 @@
   "new_chores_hint": "PLZ_CHECK New chores!",
   "money_settings_multiple_parents_disclaimer": "PLZ_CHECK %1$d also has an allowance and savings interest from other adult(s).",
   "money_settings_connections_button": "PLZ_CHECK Connections",
-  "scan_qr_code_instead_button": "PLZ_CHECK Scan a code in your phone instead"
+  "scan_qr_code_instead_button": "PLZ_CHECK Scan a code in your phone instead",
+  "general_send_invite": "PLZ_CHECK Send invite!"
 }
