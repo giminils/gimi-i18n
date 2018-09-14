@@ -1707,5 +1707,6 @@
   "scan_qr_code_instead_button": "PLZ_TRANSLATE Scan a code in your phone instead",
   "general_send_invite": "PLZ_TRANSLATE Send invite!",
   "allowance_no_chores_in_period": "PLZ_TRANSLATE 0 chores completed this period 😔",
-  "add_picture_question_kid": "PLZ_TRANSLATE What do you look like?"
+  "add_picture_question_kid": "PLZ_TRANSLATE What do you look like?",
+  "general_add_image": "PLZ_TRANSLATE Add image"
 }
