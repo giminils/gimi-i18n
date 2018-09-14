@@ -1706,5 +1706,6 @@
   "money_settings_connections_button": "Connections",
   "scan_qr_code_instead_button": "Scan a code in your phone instead",
   "general_send_invite": "Send invite!",
-  "allowance_no_chores_in_period": "0 chores completed this period 😔"
+  "allowance_no_chores_in_period": "0 chores completed this period 😔",
+  "add_picture_question_kid": "What do you look like?"
 }
