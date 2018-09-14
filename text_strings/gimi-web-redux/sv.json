@@ -311,8 +311,18 @@
   "get.on.top.descr": "Get on top. Pay everywhere, in store and online.",
   "stay.in.control.descr": "Stay in control. Follow your child’s spending, get notified.",
   "be.safe.descr": "Be safe. Block the card in the app. No overdrafts.",
-  "influencer.portal.question.1": "Intresseanmälan",
-  "influencer.portal.question.2": "Vilka kanaler använder du?",
-  "influencer.portal.question.3": "Kontaktuppgifter",
-  "followers.amount": "Antal följare"
+  "influencer.portal.question.1": "Vilka kanaler använder du?",
+  "influencer.portal.question.2": "Kontaktuppgifter",
+  "influencer.portal.question.3": "Målsmans kontaktuppgifter",
+  "influencer.portal.question.4": "Tack!",
+  "followers.amount": "Antal följare",
+  "want.to.coop": "Vill du samarbeta med oss?",
+  "influencer.network": "Gimis influencernätverk",
+  "influencer.terms": "Jag intygar att jag har läst influencervillkoren",
+  "influencer.done": "Vi har tagit emot din anmälan! {br} Kolla din mail efter bekräftelse. {br}Har du ingen mail kan du kolla din {br}mamma eller pappas mail.",
+  "email": "Email",
+  "phone.number": "Telefonnummer",
+  "age": "Ålder",
+  "influencer.username": "@username",
+  "influencer.followers": "Följarantal"
 }

@@ -311,8 +311,18 @@
   "get.on.top.descr": "Get on top. Pay everywhere, in store and online.",
   "stay.in.control.descr": "Stay in control. Follow your child’s spending, get notified.",
   "be.safe.descr": "Be safe. Block the card in the app. No overdrafts.",
-  "influencer.portal.question.1": "Register your interest",
-  "influencer.portal.question.2": "What methods do you use?",
-  "influencer.portal.question.3": "Contact details",
-  "followers.amount": "Number of followers"
+  "influencer.portal.question.1": "Which channels do you use?",
+  "influencer.portal.question.2": "Contact details",
+  "influencer.portal.question.3": "Your guardian's contact details",
+  "influencer.portal.question.4": "Thanks!",
+  "followers.amount": "Number of followers",
+  "want.to.coop": "Do you want to cooperate with us?",
+  "influencer.network": "Gimi influencer network",
+  "influencer.terms": "I have read the influencer terms",
+  "influencer.done": "We have received your application! {br}Check your email for a confirmation. {br}If you don't have an email you can check your {br}mum or dad's email.",
+  "email": "Email",
+  "phone.number": "Phone Numer",
+  "age": "Age",
+  "influencer.username": "@username",
+  "influencer.followers": "Följarantal"
 }
