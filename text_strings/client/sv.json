@@ -1711,5 +1711,7 @@
   "general_add_image": "Lägg till bild",
   "allowance_help_slider_content": "PLZ_CHECK Every month on payday you are garanteed a fixed allowance from your parents. ",
   "chores_help_slider_content": "PLZ_CHECK Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
-  "interest_help_slider_content": "PLZ_CHECK Saving money is rewarded with interest on payday. The more money you save, then more interest you get! "
+  "interest_help_slider_content": "PLZ_CHECK Saving money is rewarded with interest on payday. The more money you save, then more interest you get! ",
+  "email_login_button": "PLZ_CHECK Email login",
+  "new_number_question": "PLZ_CHECK New number?"
 }
