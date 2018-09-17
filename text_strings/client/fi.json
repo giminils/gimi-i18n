@@ -1721,5 +1721,6 @@
   "your_savings": "PLZ_TRANSLATE Your savings: %1$d",
   "interest_colon": "PLZ_TRANSLATE Interest: %1$d",
   "phone_login_button": "PLZ_TRANSLATE Number login",
-  "add_goal_image_title": "PLZ_TRANSLATE Add an image of your dream!"
+  "add_goal_image_title": "PLZ_TRANSLATE Add an image of your dream!",
+  "edit_image": "PLZ_TRANSLATE Edit image"
 }

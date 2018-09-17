@@ -1721,5 +1721,6 @@
   "your_savings": "PLZ_CHECK Your savings: %1$d",
   "interest_colon": "PLZ_CHECK Interest: %1$d",
   "phone_login_button": "PLZ_CHECK Number login",
-  "add_goal_image_title": "PLZ_CHECK Add an image of your dream!"
+  "add_goal_image_title": "PLZ_CHECK Add an image of your dream!",
+  "edit_image": "PLZ_CHECK Edit image"
 }
