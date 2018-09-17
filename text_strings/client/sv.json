@@ -1713,5 +1713,7 @@
   "chores_help_slider_content": "PLZ_CHECK Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
   "interest_help_slider_content": "PLZ_CHECK Saving money is rewarded with interest on payday. The more money you save, then more interest you get! ",
   "email_login_button": "PLZ_CHECK Email login",
-  "new_number_question": "PLZ_CHECK New number?"
+  "new_number_question": "PLZ_CHECK New number?",
+  "new_number_popover_title": "PLZ_CHECK Got a new number?",
+  "new_number_popover_text": "PLZ_CHECK Don't worry! If you have a connected adult, ask them to update your phone number! Just go to your settings in the Gimi app."
 }
