@@ -320,5 +320,6 @@
   "event_permissions_to_deposit_granted": "Je hebt toestemming om geld naar {child.nickname} te sturen",
   "event_suggested_chore_enabled": "{parent.nickname} heeft je voorgestelde klusje geaccepteerd!",
   "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE You just spent {statement.str_amount} at {statement.merchant_name}",
-  "push_new_pfs_transaction_statement_parent": "PLZ_TRANSLATE {statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}"
+  "push_new_pfs_transaction_statement_parent": "PLZ_TRANSLATE {statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}",
+  "push_you_have_reached_a_dream": "PLZ_TRANSLATE Congratulations! You just achieved your dream! 🚀"
 }

@@ -320,5 +320,6 @@
   "event_permissions_to_deposit_granted": "Olet saanut luvan lähettää rahaa lapselle {child.nickname}",
   "event_suggested_chore_enabled": "{parent.nickname} on hyväksynyt askare-ehdotuksesi!",
   "push_new_pfs_transaction_statement_child": "Käytit juuri {statement.str_amount} kaupassa {statement.merchant_name}",
-  "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} käytti juuri {statement.str_amount} kaupassa {statement.merchant_name}"
+  "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} käytti juuri {statement.str_amount} kaupassa {statement.merchant_name}",
+  "push_you_have_reached_a_dream": "PLZ_TRANSLATE Congratulations! You just achieved your dream! 🚀"
 }
