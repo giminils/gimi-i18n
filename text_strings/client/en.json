@@ -1720,5 +1720,6 @@
   "your_interest": "Your interest: %1$d%",
   "your_savings": "Your savings: %1$d",
   "interest_colon": "Interest: %1$d",
-  "phone_login_button": "Number login"
+  "phone_login_button": "Number login",
+  "add_goal_image_title": "Add an image of your dream!"
 }
