@@ -1715,5 +1715,9 @@
   "email_login_button": "Email login",
   "new_number_question": "New number?",
   "new_number_popover_title": "Got a new number?",
-  "new_number_popover_text": "Don't worry! If you have a connected adult, ask them to update your phone number! Just go to your settings in the Gimi app."
+  "new_number_popover_text": "Don't worry! If you have a connected adult, ask them to update your phone number! Just go to your settings in the Gimi app.",
+  "your_allowance": "Your allowance: %1$d",
+  "your_interest": "Your interest: %1$d%",
+  "your_savings": "Your savings: %1$d",
+  "interest_colon": "Interest: %1$d"
 }

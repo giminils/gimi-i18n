@@ -1715,5 +1715,9 @@
   "email_login_button": "PLZ_CHECK Email login",
   "new_number_question": "PLZ_CHECK New number?",
   "new_number_popover_title": "PLZ_CHECK Got a new number?",
-  "new_number_popover_text": "PLZ_CHECK Don't worry! If you have a connected adult, ask them to update your phone number! Just go to your settings in the Gimi app."
+  "new_number_popover_text": "PLZ_CHECK Don't worry! If you have a connected adult, ask them to update your phone number! Just go to your settings in the Gimi app.",
+  "your_allowance": "PLZ_CHECK Your allowance: %1$d",
+  "your_interest": "PLZ_CHECK Your interest: %1$d%",
+  "your_savings": "PLZ_CHECK Your savings: %1$d",
+  "interest_colon": "PLZ_CHECK Interest: %1$d"
 }
