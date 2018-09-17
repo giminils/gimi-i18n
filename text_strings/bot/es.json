@@ -112,7 +112,7 @@
   "bot_says_your_current_balance": "PLZ_TRANSLATE Your balance is %1$d",
   "bot_btn_hi": "PLZ_TRANSLATE Hi",
   "bot_btn_hello": "PLZ_TRANSLATE Hello",
-  "bot_btn_hi_there": "PLZ_TRANSLATE Hi there!",
+  "bot_btn_hi_there": "👋",
   "bot_says_what_to_learn": "PLZ_TRANSLATE What do you want to learn about?",
   "bot_btn_earning": "PLZ_TRANSLATE Earning",
   "bot_btn_spending": "PLZ_TRANSLATE Spending",
