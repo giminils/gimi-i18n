@@ -1708,5 +1708,8 @@
   "general_send_invite": "Send invitasjon!",
   "allowance_no_chores_in_period": "0 oppgaver er fullført i denne perioden 😔",
   "add_picture_question_kid": "Hvordan ser du ut?",
-  "general_add_image": "Legg til bilde"
+  "general_add_image": "Legg til bilde",
+  "allowance_help_slider_content": "PLZ_TRANSLATE Every month on payday you are garanteed a fixed allowance from your parents. ",
+  "chores_help_slider_content": "PLZ_TRANSLATE Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
+  "interest_help_slider_content": "PLZ_TRANSLATE Saving money is rewarded with interest on payday. The more money you save, then more interest you get! "
 }

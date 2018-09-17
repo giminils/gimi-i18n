@@ -315,7 +315,7 @@
   "will_be_payed_out_in_n_days": "will be paid out in %1$d days",
   "general_breakdown_parent": "breakdown",
   "general_breakdown_child": "breakdown",
-  "general_interest": "savings bonus",
+  "general_interest": "Interest",
   "general_upload": "add",
   "general_recommended": "recommended",
   "general_transfer": "transfer",
@@ -1708,5 +1708,8 @@
   "general_send_invite": "Send invite!",
   "allowance_no_chores_in_period": "0 chores completed this period 😔",
   "add_picture_question_kid": "What do you look like?",
-  "general_add_image": "Add image"
+  "general_add_image": "Add image",
+  "allowance_help_slider_content": "Every month on payday you are garanteed a fixed allowance from your parents. ",
+  "chores_help_slider_content": "Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
+  "interest_help_slider_content": "Saving money is rewarded with interest on payday. The more money you save, then more interest you get! "
 }
