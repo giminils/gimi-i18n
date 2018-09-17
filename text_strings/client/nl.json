@@ -1719,5 +1719,6 @@
   "your_allowance": "PLZ_TRANSLATE Your allowance: %1$d",
   "your_interest": "PLZ_TRANSLATE Your interest: %1$d%",
   "your_savings": "PLZ_TRANSLATE Your savings: %1$d",
-  "interest_colon": "PLZ_TRANSLATE Interest: %1$d"
+  "interest_colon": "PLZ_TRANSLATE Interest: %1$d",
+  "phone_login_button": "PLZ_TRANSLATE Number login"
 }

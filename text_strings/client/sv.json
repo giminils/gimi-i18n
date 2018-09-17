@@ -1719,5 +1719,6 @@
   "your_allowance": "PLZ_CHECK Your allowance: %1$d",
   "your_interest": "PLZ_CHECK Your interest: %1$d%",
   "your_savings": "PLZ_CHECK Your savings: %1$d",
-  "interest_colon": "PLZ_CHECK Interest: %1$d"
+  "interest_colon": "PLZ_CHECK Interest: %1$d",
+  "phone_login_button": "PLZ_CHECK Number login"
 }
