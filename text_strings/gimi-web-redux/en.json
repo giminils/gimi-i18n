@@ -324,5 +324,8 @@
   "phone.number": "Phone Numer",
   "age": "Age",
   "influencer.username": "@username",
-  "influencer.followers": "Följarantal"
+  "influencer.followers": "Följarantal",
+  "important": "Viktigt!",
+  "allowance.calculator": "Veckopengskalkylatorn baseras på att du inte får extrapengar på sidan av eller har särskilt dyra hobbies. Vad som är en bra veckopeng beror på från familj till familj.",
+  "calculate": "Calculate!"
 }
