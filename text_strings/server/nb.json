@@ -321,5 +321,6 @@
   "event_suggested_chore_enabled": "{parent.nickname} har godkjent ditt oppgaveforslag!",
   "push_new_pfs_transaction_statement_child": "Du brukte nettopp {statement.str_amount} på {statement.merchant_name}",
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} brukte nettopp {statement.str_amount} på {statement.merchant_name}",
-  "push_you_have_reached_a_dream": "PLZ_TRANSLATE Congratulations! You just achieved your dream! 🚀"
+  "push_you_have_reached_a_dream": "PLZ_TRANSLATE Congratulations! You just achieved your dream! 🚀",
+  "push_new_weekly_tasks": "PLZ_TRANSLATE Check out this weeks chores!"
 }
