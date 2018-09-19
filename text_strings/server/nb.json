@@ -252,7 +252,7 @@
   "event_chore_is_deleted": "{chore.title} er slettet",
   "event_interest_rate_is_changed_to_x": "Skyen sin rente har blitt endret til {x}%",
   "event_create_a_new_dream": "Skap en ny drøm",
-  "event_withdrawal_made_from_your_cloud": "Uttak har skjedd fra Skyen",
+  "event_withdrawal_made_from_your_cloud": "PLZ_TRANSLATE {parent.nickname} has made a withdrawal from your Cloud.",
   "event_deposit_made_to_your_cloud": "PLZ_TRANSLATE PLZ_COPY Deposit to {child.name}",
   "event_share_your_cravings_for_your_birthday": "Del dine cravings til din bursdag",
   "event_share_your_cravings": "Del dine cravings",
