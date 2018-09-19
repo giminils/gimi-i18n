@@ -1723,5 +1723,6 @@
   "phone_login_button": "Logga in med nummer",
   "add_goal_image_title": "Lägg till en bild på din dröm!",
   "edit_image": "Redigera bild",
-  "kid_complete_chore": "PLZ_CHECK Complete chore"
+  "kid_complete_chore": "PLZ_CHECK Complete chore",
+  "dream_achieved_desc_new": "PLZ_CHECK You saved %1$d for %2$d"
 }

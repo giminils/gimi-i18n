@@ -1723,5 +1723,6 @@
   "phone_login_button": "PLZ_TRANSLATE Number login",
   "add_goal_image_title": "PLZ_TRANSLATE Add an image of your dream!",
   "edit_image": "PLZ_TRANSLATE Edit image",
-  "kid_complete_chore": "PLZ_TRANSLATE Complete chore"
+  "kid_complete_chore": "PLZ_TRANSLATE Complete chore",
+  "dream_achieved_desc_new": "PLZ_TRANSLATE You saved %1$d for %2$d"
 }
