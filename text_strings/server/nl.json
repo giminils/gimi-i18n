@@ -251,7 +251,7 @@
   "event_reminder_of_chore": "Herrinering aan {chore.title}",
   "event_chore_is_deleted": "{chore.title} is verwijderd",
   "event_interest_rate_is_changed_to_x": "Rente is veranderd naar {x}%",
-  "event_create_a_new_dream": "Maak een nieuwe droom",
+  "push_create_new_dream": "Maak een nieuwe droom",
   "event_withdrawal_made_from_your_cloud": "PLZ_TRANSLATE {parent.nickname} has made a withdrawal from your Cloud.",
   "event_deposit_made_to_your_cloud": "PLZ_TRANSLATE PLZ_COPY {parent.nickname} made a deposit to your savings",
   "event_share_your_cravings_for_your_birthday": "Deel je wensen voor je verjaardag",
