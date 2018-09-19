@@ -1722,5 +1722,6 @@
   "interest_colon": "Ränta: %1$d",
   "phone_login_button": "Logga in med nummer",
   "add_goal_image_title": "Lägg till en bild på din dröm!",
-  "edit_image": "Redigera bild"
+  "edit_image": "Redigera bild",
+  "kid_complete_chore": "PLZ_CHECK Complete chore"
 }
