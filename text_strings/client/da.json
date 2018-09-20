@@ -1725,5 +1725,8 @@
   "edit_image": "PLZ_TRANSLATE Edit image",
   "kid_complete_chore": "PLZ_TRANSLATE Complete chore",
   "dream_achieved_desc_new": "PLZ_TRANSLATE You saved %1$d for %2$d",
-  "what_is_this": "PLZ_TRANSLATE What...?"
+  "what_is_this": "PLZ_TRANSLATE What...?",
+  "recurring_chores_help_title": "PLZ_TRANSLATE How recurring chores work",
+  "recurring_chores_help_desc": "PLZ_TRANSLATE If you choose recurring and mark sevaral weekdays, you will create multiple chores - one chore for each day. ",
+  "general_ok_nice": "PLZ_TRANSLATE OK, nice!"
 }

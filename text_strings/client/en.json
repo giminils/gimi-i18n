@@ -1725,5 +1725,8 @@
   "edit_image": "Edit image",
   "kid_complete_chore": "PLZ_COPY Send for approval",
   "dream_achieved_desc_new": "You saved %1$d for %2$d.",
-  "what_is_this": "What...?"
+  "what_is_this": "What...?",
+  "recurring_chores_help_title": "How recurring chores work",
+  "recurring_chores_help_desc": "If you choose recurring and mark sevaral weekdays, you will create multiple chores - one chore for each day.",
+  "general_ok_nice": "OK, nice!"
 }
