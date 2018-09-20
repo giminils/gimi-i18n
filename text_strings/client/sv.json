@@ -1731,5 +1731,6 @@
   "general_ok_nice": "PLZ_CHECK OK, nice!",
   "allowance_frequency_help_title": "PLZ_CHECK Veckopeng eller månadspeng?",
   "allowance_amount_weekly_help_title": "PLZ_CHECK Hur fungerar det här med veckopeng?",
-  "allowance_amount_monthly_help_title": "PLZ_CHECK Hur fungerar det här med månadspeng?"
+  "allowance_amount_monthly_help_title": "PLZ_CHECK Hur fungerar det här med månadspeng?",
+  "interest_explainer_title": "PLZ_CHECK Varför du borde betala ränta till ditt barn"
 }
