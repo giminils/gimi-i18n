@@ -252,7 +252,7 @@
   "event_chore_is_deleted": "{chore.title} has been deleted",
   "event_interest_rate_is_changed_to_x": "Interest rate has been changed to {x}%",
   "push_create_new_dream": "Create a new dream",
-  "event_withdrawal_made_from_your_cloud": "{parent.nickname} has made a withdrawal from your Cloud.",
+  "event_withdrawal_made_from_your_cloud": "PLZ_COPY {parent.nickname} made a withdrawal from your savings.",
   "event_deposit_made_to_your_cloud": "PLZ_COPY {parent.nickname} made a deposit to your savings",
   "event_share_your_cravings_for_your_birthday": "Share your cravings for your birthday",
   "event_share_your_cravings": "Share your cravings",
@@ -262,7 +262,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "You will receive allowance. Check out how much in the app!",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} has completed \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} requests permission to edit your chores",
-  "push_payday_parent": "Payday for {child.nickname}. Open the app to see how much {child.nickname} has earned!",
+  "push_payday_parent": "Payday for {child.nickname}. Open the app to see how much money that was put into savings!",
   "push_child_has_reached_a_dream": "{name} has reached a dream",
   "event_add_email": "Add your email address",
   "push_short_tutorial": "Here's how Gimi works",
@@ -316,11 +316,11 @@
   "event_child_created": "Welcome to Gimi",
   "event_child_lost_the_card": "{child.nickname} marked card as lost",
   "event_other_parent_asks_for_deposit": "{parent.nickname} is requesting permission to deposit to {child.nickname}",
-  "event_new_weekly_tasks": "Check out this weeks chores!",
+  "event_new_weekly_tasks": "Check out this week's chores!",
   "event_permissions_to_deposit_granted": "You got permission to send money to {child.nickname}",
   "event_suggested_chore_enabled": "{parent.nickname} has accepted your chore suggestion!",
   "push_new_pfs_transaction_statement_child": "You just spent {statement.str_amount} at {statement.merchant_name}",
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}",
   "push_you_have_reached_a_dream": "Congratulations! You just achieved your dream! 🚀",
-  "push_new_weekly_tasks": "Check out this weeks chores!"
+  "push_new_weekly_tasks": "Check out this week's chores!"
 }
