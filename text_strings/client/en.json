@@ -1724,5 +1724,6 @@
   "add_goal_image_title": "Add an image of your dream!",
   "edit_image": "Edit image",
   "kid_complete_chore": "PLZ_COPY Send for approval",
-  "dream_achieved_desc_new": "You saved %1$d for %2$d."
+  "dream_achieved_desc_new": "You saved %1$d for %2$d.",
+  "what_is_this": "What...?"
 }

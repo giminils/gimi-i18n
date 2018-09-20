@@ -1724,5 +1724,6 @@
   "add_goal_image_title": "PLZ_TRANSLATE Add an image of your dream!",
   "edit_image": "PLZ_TRANSLATE Edit image",
   "kid_complete_chore": "PLZ_TRANSLATE Complete chore",
-  "dream_achieved_desc_new": "PLZ_TRANSLATE You saved %1$d for %2$d"
+  "dream_achieved_desc_new": "PLZ_TRANSLATE You saved %1$d for %2$d",
+  "what_is_this": "PLZ_TRANSLATE What...?"
 }
