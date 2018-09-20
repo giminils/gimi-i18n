@@ -1729,9 +1729,9 @@
   "recurring_chores_help_title": "How recurring chores work",
   "recurring_chores_help_desc": "If you choose recurring and mark sevaral weekdays, you will create multiple chores - one chore for each day.",
   "general_ok_nice": "OK, nice!",
-  "allowance_frequency_help_title": "Veckopeng eller månadspeng?",
-  "allowance_amount_weekly_help_title": "Hur fungerar det här med veckopeng?",
-  "allowance_amount_monthly_help_title": "Hur fungerar det här med månadspeng?",
-  "interest_explainer_title": "Varför du borde betala ränta till ditt barn",
-  "accepted_invite_chores_explainer_title": "Uppgifter ger möjlighet att tjäna extra pengar"
+  "allowance_frequency_help_title": "PLZ_COPY Weekly or monthly allowance?",
+  "allowance_amount_weekly_help_title": "PLZ_COPY How does the weekly allowance work?",
+  "allowance_amount_monthly_help_title": "PLZ_COPY How does the monthly allowance work?",
+  "interest_explainer_title": "PLZ_COPY Why should you pay interest to your child?",
+  "accepted_invite_chores_explainer_title": "PLZ_COPY Chores give the opportunity to earn extra money"
 }
