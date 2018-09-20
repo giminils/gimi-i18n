@@ -1729,6 +1729,5 @@
   "recurring_chores_help_title": "How recurring chores work",
   "recurring_chores_help_desc": "If you choose recurring and mark sevaral weekdays, you will create multiple chores - one chore for each day.",
   "general_ok_nice": "OK, nice!",
-  "allowance_frequency_help_title": "Veckopeng eller månadspeng?",
-  "allowance_frequency_help_desc": "Det beror på vilken tidsperiod som ett barn är moget att hantera pengar över. Det är vanligt att barn under 11 år har veckopeng, och att barn över 11 år har månadspeng. "
+  "allowance_frequency_help_title": "Veckopeng eller månadspeng?"
 }
