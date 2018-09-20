@@ -1729,5 +1729,7 @@
   "recurring_chores_help_title": "PLZ_CHECK How recurring chores work",
   "recurring_chores_help_desc": "PLZ_CHECK If you choose recurring and mark sevaral weekdays, you will create multiple chores - one chore for each day. ",
   "general_ok_nice": "PLZ_CHECK OK, nice!",
-  "allowance_frequency_help_title": "PLZ_CHECK Veckopeng eller månadspeng?"
+  "allowance_frequency_help_title": "PLZ_CHECK Veckopeng eller månadspeng?",
+  "allowance_amount_weekly_help_title": "PLZ_CHECK Hur fungerar det här med veckopeng?",
+  "allowance_amount_monthly_help_title": "PLZ_CHECK Hur fungerar det här med månadspeng?"
 }
