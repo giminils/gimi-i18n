@@ -322,5 +322,6 @@
   "push_new_pfs_transaction_statement_child": "Käytit juuri {statement.str_amount} kaupassa {statement.merchant_name}",
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} käytti juuri {statement.str_amount} kaupassa {statement.merchant_name}",
   "push_you_have_reached_a_dream": "PLZ_TRANSLATE Congratulations! You just achieved your dream! 🚀",
-  "push_new_weekly_tasks": "PLZ_TRANSLATE Check out this weeks chores!"
+  "push_new_weekly_tasks": "PLZ_TRANSLATE Check out this weeks chores!",
+  "push_turn_on_notifications": "PLZ_TRANSLATE You're missing out on important notifications!"
 }
