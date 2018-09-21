@@ -323,5 +323,6 @@
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} har spenderat {statement.str_amount} hos {statement.merchant_name}",
   "push_you_have_reached_a_dream": "Grattis! Du har precis uppnått din dröm! 🚀",
   "push_new_weekly_tasks": "Kolla in veckans sysslor!",
-  "push_turn_on_notifications": "You're missing out on important notifications!"
+  "push_turn_on_notifications": "You're missing out on important notifications!",
+  "event_turn_on_notifications": "You're missing out on important notifications!"
 }
