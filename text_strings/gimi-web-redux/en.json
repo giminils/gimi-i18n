@@ -344,5 +344,6 @@
   "share.your.result": "Dela ditt resultat",
   "download.caps": "DOWNLOAD",
   "weekly.allowance.calculator": "Veckopengskalkylatorn",
-  "monthly.allowance.calculator": "Månadpengskalkylator"
+  "monthly.allowance.calculator": "Månadpengskalkylator",
+  "i.am.age": "Jag är {age} år gammal"
 }
