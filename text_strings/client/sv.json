@@ -529,7 +529,7 @@
   "reset_piggybank": "Återställ konton och saldon",
   "continue_from_last": "fortsätt där jag var senast",
   "purchase_money_deducted": "pengar kommer att dras",
-  "purchase_money_deducted_text": "när du gör ett uttag minskas det som finns sparat i Molnet",
+  "purchase_money_deducted_text": "när du gör ett uttag minskas det som finns sparat",
   "parent_connected_popover_description": "du har fått <b>%1$d</b> som en kontakt, %2$d kan nu sätta upp vecko- eller månadspengar, göra insättningar, uttag och ge dig uppgifter",
   "connection_succeeded": "Kontakten har lagts till",
   "question_auto_approval": "aktivera autogodkännande?",
