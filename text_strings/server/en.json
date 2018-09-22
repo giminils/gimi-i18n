@@ -323,6 +323,6 @@
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} just spent {statement.str_amount} at {statement.merchant_name}",
   "push_you_have_reached_a_dream": "Congratulations! You just achieved your dream! 🚀",
   "push_new_weekly_tasks": "Check out this week's chores!",
-  "push_turn_on_notifications": "You're missing out on important notifications!",
-  "event_turn_on_notifications": "You're missing out on important notifications!"
+  "push_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications in the app!",
+  "event_turn_on_notifications": "PLZ_COPY You're missing out on important messages. Turn on pushnotifications?"
 }
