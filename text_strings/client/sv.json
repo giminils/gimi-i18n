@@ -1729,9 +1729,9 @@
   "recurring_chores_help_title": "Såhär fungerar återkommande uppgifter",
   "recurring_chores_help_desc": "Om du väljer återkommande och markerar flera dagar, då skapas flera uppgifter - en för varje dag.",
   "general_ok_nice": "OK, najs!",
-  "allowance_frequency_help_title": "PLZ_CHECK Veckopeng eller månadspeng?",
-  "allowance_amount_weekly_help_title": "PLZ_CHECK Hur fungerar det här med veckopeng?",
-  "allowance_amount_monthly_help_title": "PLZ_CHECK Hur fungerar det här med månadspeng?",
-  "interest_explainer_title": "PLZ_CHECK Varför du borde betala ränta till ditt barn",
-  "accepted_invite_chores_explainer_title": "PLZ_CHECK Uppgifter ger möjlighet att tjäna extra pengar"
+  "allowance_frequency_help_title": "Veckopeng eller månadspeng?",
+  "allowance_amount_weekly_help_title": "Hur fungerar det här med veckopeng?",
+  "allowance_amount_monthly_help_title": "Hur fungerar det här med månadspeng?",
+  "interest_explainer_title": "Varför borde du betala ränta till ditt barn",
+  "accepted_invite_chores_explainer_title": "Uppgifter ger möjlighet att tjäna extra pengar"
 }
