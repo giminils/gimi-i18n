@@ -346,6 +346,19 @@
   "download.caps": "DOWNLOAD",
   "weekly.allowance.calculator": "Veckopengskalkylatorn",
   "monthly.allowance.calculator": "Månadpengskalkylator",
-  "i.am.age": "Jag är {age} år gammal"
-  
+  "i.am.age": "Jag är {age} år gammal",
+  "how.it.works": "How it works",
+  "how.get.started": "Hur kommer jag igång",
+  "get.started.descr": "Börja med att skicka in en anmälan på {url} så kommer vi att höra av oss. Det är viktigt att du pratar med dina föräldrar innan du skickar in den här informationen, vi behöver även ha deras kontaktinformation för att bekräfta att du har fått tillåtelse.",
+  "question.which.channel.influencer": "I vilken kanal är du en influencer?",
+  "question.which.channel.influencer.descr": "I dagsläget arbetar vi framför allt med dig som är aktiv på TikTok (f.d. Musical.ly), Instagram eller YouTube. I undantagsfall kan det även vara intressant att komma i kontakt med dig som är Snapchat-influencer.",
+  "send.in.application": "Skicka in anmälan",
+  "send.in.application.descr": "När du har fyllt i informationen som efterfrågas i formuläret är det bara att skicka iväg! Du kommer att få en bekräftelse inom kort, om du inte hört något på två veckor kan du maila oss på info@gimitheapp.com.",
+  "what.to.expect": "Vad kan jag förvänta mig?",
+  "what.to.expect.descr": "Du kommer först att få ett erbjudande om att göra ett testprojekt, det här projektet är kort och enkelt, och du får instrktioner via mailen. Om allting går bra kan du få ett erbjudande om att fortsätta som en ambassadör eller som influencer.",
+  "what.is.needed.to.apply": "Vad krävs för att söka?",
+  "what.is.needed.to.apply.descr": "– Du är en god förebild för andra. Detta är superviktigt för oss!{br}– Du har alltid en god ton i dina och andras kommentarer.{br}– Du föregår med gott exempel vad gäller tobak och alkohol.{br}– Du har en öppen profil.{br}– Du har minst 1000 aktiva följare på Instagram eller 250 på YouTube",
+  "what.do.i.get": "Vad får jag?",
+  "what.do.i.get.subheading": "Ersättning baseras på antalet följare",
+  "what.do.i.get.descr": "Du tjänar mer desto mer följare du har. Alla som lägger ut inlägg som en del av Gimis nätverk får någon form av ersättning, exempelvis presentkort eller presenter."
 }
