@@ -1739,5 +1739,13 @@
   "interest_explainer_title": "Why should you pay interest to your child?",
   "accepted_invite_chores_explainer_title": "Chores give the opportunity to earn extra money",
   "edit_child_phone": "Update phone number",
-  "push_notifications_custom_notification": "Enable pushnotifications"
+  "push_notifications_custom_notification": "Enable pushnotifications",
+  "kid_intro_chores_title": "Chores",
+  "kid_intro_chores_desc": "Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
+  "kid_intro_invite_title": "Get some grownups in here",
+  "kid_intro_invite_desc": "Gimi only works if you get money from some grownups. Invite them. The more, the better!",
+  "kid_intro_payday_title": "Payday is money day!",
+  "kid_intro_payday_desc": "Payday is the day when you get yout money! You can see how much you will get, and how long you have to wait.",
+  "kid_intro_money_title": "Your money, your choice!",
+  "kid_intro_money_desc": "Grownups hold yopur money for you. If you save, it grows! Feel like spending? Ask your grownups to pay!"
 }

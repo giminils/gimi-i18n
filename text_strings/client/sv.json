@@ -1739,5 +1739,13 @@
   "interest_explainer_title": "Varför ska du betala ränta till ditt barn?",
   "accepted_invite_chores_explainer_title": "Uppgifter gör det möjligt att tjäna extra pengar",
   "edit_child_phone": "PLZ_CHECK Update phone number",
-  "push_notifications_custom_notification": "PLZ_CHECK Enable pushnotifications"
+  "push_notifications_custom_notification": "PLZ_CHECK Enable pushnotifications",
+  "kid_intro_chores_title": "PLZ_CHECK Chores",
+  "kid_intro_chores_desc": "PLZ_CHECK Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
+  "kid_intro_invite_title": "PLZ_CHECK Get some grownups in here",
+  "kid_intro_invite_desc": "PLZ_CHECK Gimi only works if you get money from some grownups. Invite them. The more, the better!",
+  "kid_intro_payday_title": "PLZ_CHECK Payday is money day!",
+  "kid_intro_payday_desc": "PLZ_CHECK Payday is the day when you get yout money! You can see how much you will get, and how long you have to wait.",
+  "kid_intro_money_title": "PLZ_CHECK Your money, your choice!",
+  "kid_intro_money_desc": "PLZ_CHECK Grownups hold yopur money for you. If you save, it grows! Feel like spending? Ask your grownups to pay!"
 }

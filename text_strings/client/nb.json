@@ -1739,5 +1739,13 @@
   "interest_explainer_title": "Hvorfor bør du betale rente til barnet ditt?",
   "accepted_invite_chores_explainer_title": "Oppgaver gir muligheten til å tjene ekstra penger",
   "edit_child_phone": "PLZ_TRANSLATE Update phone number",
-  "push_notifications_custom_notification": "PLZ_TRANSLATE Enable pushnotifications"
+  "push_notifications_custom_notification": "PLZ_TRANSLATE Enable pushnotifications",
+  "kid_intro_chores_title": "PLZ_TRANSLATE Chores",
+  "kid_intro_chores_desc": "PLZ_TRANSLATE Want more than your allowance? Do some chores! The more chores you do, the more you earn on the next payday.",
+  "kid_intro_invite_title": "PLZ_TRANSLATE Get some grownups in here",
+  "kid_intro_invite_desc": "PLZ_TRANSLATE Gimi only works if you get money from some grownups. Invite them. The more, the better!",
+  "kid_intro_payday_title": "PLZ_TRANSLATE Payday is money day!",
+  "kid_intro_payday_desc": "PLZ_TRANSLATE Payday is the day when you get yout money! You can see how much you will get, and how long you have to wait.",
+  "kid_intro_money_title": "PLZ_TRANSLATE Your money, your choice!",
+  "kid_intro_money_desc": "PLZ_TRANSLATE Grownups hold yopur money for you. If you save, it grows! Feel like spending? Ask your grownups to pay!"
 }
