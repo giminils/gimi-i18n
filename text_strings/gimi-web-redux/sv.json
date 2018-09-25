@@ -362,5 +362,15 @@
   "what.do.i.get.subheading": "Ersättning baseras på antalet följare",
   "what.do.i.get.descr": "Du tjänar mer desto mer följare du har. Alla som lägger ut inlägg som en del av Gimis nätverk får någon form av ersättning, exempelvis presentkort eller presenter.",
   "calculator.share.title": "Jag kan tjäna {amount} KR i {time}",
-  "calculator.share.descr": "Räkna ut din {allowance} med hjälp av {calculator}"
+  "calculator.share.descr": "Räkna ut din {allowance} med hjälp av {calculator}",
+  "get.started.gimi": "Kom igång med Gimi-appen",
+  "get.started.gimi.descr": "Så här kommer du igång med Gimi-appen! Från registrering till att koppla upp dig med dina föräldrar och sätta upp ett sparmal.",
+  "howto.get.started": "Kom igång",
+  "howto.get.started.descr": "Ladda hem appen från App Store eller Google Play. Registrera ditt konto och fyll i dina detaljer.",
+  "invite.your.parents": "Bjud in dina föräldrar",
+  "invite.your.parents.descr": "Koppla ihop appen med din mamma och pappa för att komma igång med Gimi-appen. Du kan välja att bjuda in via SMS eller genom att skanna en QR-kod.",
+  "add.a.dream": "Lägg upp ett sparmål",
+  "add.a.dream.descr": "Ditt sparmål, eller dröm, är vad du drömmer om att kunna ha råd med att köpa. Lägg till en dröm med med en bild för att påminna dig själv om hur du vill spendera dina pengar.",
+  "suggest.a.chore": "Föreslå en uppgift",
+  "suggest.a.chore.descr": "Kom igång med uppgifter tillsammans med dina föräldrar! Föreslå en uppgift som du kan hjälpa med i hemmet. Skriv in hur mycket du skulle vilja ha som belöning."
 }
