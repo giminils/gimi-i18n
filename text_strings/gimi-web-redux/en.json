@@ -359,5 +359,7 @@
   "what.is.needed.to.apply.descr": "– Du är en god förebild för andra. Detta är superviktigt för oss!{br}– Du har alltid en god ton i dina och andras kommentarer.{br}– Du föregår med gott exempel vad gäller tobak och alkohol.{br}– Du har en öppen profil.{br}– Du har minst 1000 aktiva följare på Instagram eller 250 på YouTube",
   "what.do.i.get": "Vad får jag?",
   "what.do.i.get.subheading": "Ersättning baseras på antalet följare",
-  "what.do.i.get.descr": "Du tjänar mer desto mer följare du har. Alla som lägger ut inlägg som en del av Gimis nätverk får någon form av ersättning, exempelvis presentkort eller presenter."
+  "what.do.i.get.descr": "Du tjänar mer desto mer följare du har. Alla som lägger ut inlägg som en del av Gimis nätverk får någon form av ersättning, exempelvis presentkort eller presenter.",
+  "calculator.share.title": "Jag kan tjäna {amount} KR i {time}",
+  "calculator.share.descr": "Räkna ut din {allowance} med hjälp av {calculator}"
 }
