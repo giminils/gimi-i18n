@@ -1738,5 +1738,6 @@
   "allowance_amount_monthly_help_title": "PLZ_TRANSLATE How does the monthly allowance work?",
   "interest_explainer_title": "PLZ_TRANSLATE Why should you pay interest to your child?",
   "accepted_invite_chores_explainer_title": "PLZ_TRANSLATE Chores give the opportunity to earn extra money",
-  "edit_child_phone": "PLZ_TRANSLATE Update phone number"
+  "edit_child_phone": "PLZ_TRANSLATE Update phone number",
+  "push_notifications_custom_notification": "PLZ_TRANSLATE Enable pushnotifications"
 }
