@@ -1752,5 +1752,6 @@
   "kyc_method_uc_title": "Use your mobile BankID with UC",
   "kyc_method_uc_subtitle": "This is not a kreditupplysning",
   "kyc_method_id_card_title": "Scan your ID card",
-  "kyc_method_picker_subtitle": "You can choose how!"
+  "kyc_method_picker_subtitle": "You can choose how!",
+  "kid_next_payment": "Payday"
 }
