@@ -1747,5 +1747,9 @@
   "kid_intro_payday_title": "PLZ_TRANSLATE Payday is money day!",
   "kid_intro_payday_desc": "PLZ_TRANSLATE Payday is the day when you get yout money! You can see how much you will get, and how long you have to wait.",
   "kid_intro_money_title": "PLZ_TRANSLATE Your money, your choice!",
-  "kid_intro_money_desc": "PLZ_TRANSLATE Grownups hold yopur money for you. If you save, it grows! Feel like spending? Ask your grownups to pay!"
+  "kid_intro_money_desc": "PLZ_TRANSLATE Grownups hold yopur money for you. If you save, it grows! Feel like spending? Ask your grownups to pay!",
+  "kyc_method_instantor_title": "PLZ_TRANSLATE Use your mobile BankID with Instantor",
+  "kyc_method_uc_title": "PLZ_TRANSLATE This is not a kreditupplysning",
+  "kyc_method_uc_subtitle": "PLZ_TRANSLATE This is not a kreditupplysning",
+  "kyc_method_id_card_title": "PLZ_TRANSLATE Scan your ID card"
 }
