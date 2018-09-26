@@ -1749,7 +1749,7 @@
   "kid_intro_money_title": "PLZ_CHECK Your money, your choice!",
   "kid_intro_money_desc": "PLZ_CHECK Grownups hold yopur money for you. If you save, it grows! Feel like spending? Ask your grownups to pay!",
   "kyc_method_instantor_title": "PLZ_CHECK Use your mobile BankID with Instantor",
-  "kyc_method_uc_title": "PLZ_CHECK This is not a kreditupplysning",
+  "kyc_method_uc_title": "PLZ_CHECK Use your mobile BankID with UC",
   "kyc_method_uc_subtitle": "PLZ_CHECK This is not a kreditupplysning",
   "kyc_method_id_card_title": "PLZ_CHECK Scan your ID card"
 }
