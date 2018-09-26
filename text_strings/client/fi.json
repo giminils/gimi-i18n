@@ -1751,5 +1751,6 @@
   "kyc_method_instantor_title": "PLZ_TRANSLATE Use your mobile BankID with Instantor",
   "kyc_method_uc_title": "PLZ_TRANSLATE Use your mobile BankID with UC",
   "kyc_method_uc_subtitle": "PLZ_TRANSLATE This is not a kreditupplysning",
-  "kyc_method_id_card_title": "PLZ_TRANSLATE Scan your ID card"
+  "kyc_method_id_card_title": "PLZ_TRANSLATE Scan your ID card",
+  "kyc_method_picker_subtitle": "PLZ_TRANSLATE You can choose how!"
 }
