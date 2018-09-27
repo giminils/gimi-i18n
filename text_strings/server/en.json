@@ -324,5 +324,6 @@
   "push_you_have_reached_a_dream": "Congratulations! You just achieved your dream! 🚀",
   "push_new_weekly_tasks": "Check out this week's chores!",
   "push_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications in the app!",
-  "event_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications?"
+  "event_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications?",
+  "push_connect_more_children": "Connection request from {child.nickname}"
 }

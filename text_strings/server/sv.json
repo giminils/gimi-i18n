@@ -324,5 +324,6 @@
   "push_you_have_reached_a_dream": "Grattis! Du har precis uppnått din dröm! 🚀",
   "push_new_weekly_tasks": "Se hur mycket du kan tjäna den här veckan. Kolla in veckans uppgifter i appen!",
   "push_turn_on_notifications": "Du missar just nu viktiga meddelanden från Gimi. Slå på pushnotiser i appen!",
-  "event_turn_on_notifications": "Du missar just nu viktiga meddelanden. Vill du slå på pushnotiser?"
+  "event_turn_on_notifications": "Du missar just nu viktiga meddelanden. Vill du slå på pushnotiser?",
+  "push_connect_more_children": "Connection request from {child.nickname}"
 }

@@ -324,5 +324,6 @@
   "push_you_have_reached_a_dream": "Gefeliciteerd! Je hebt net je droomwens bereikt! 🚀",
   "push_new_weekly_tasks": "Kijk naar de klusjes van deze week!",
   "push_turn_on_notifications": "Je mist belangrijke meldingen!",
-  "event_turn_on_notifications": "PLZ_TRANSLATE You're missing out on important messages. Turn on pushnotifications?"
+  "event_turn_on_notifications": "PLZ_TRANSLATE You're missing out on important messages. Turn on pushnotifications?",
+  "push_connect_more_children": "PLZ_TRANSLATE Connection request from {child.nickname}"
 }
