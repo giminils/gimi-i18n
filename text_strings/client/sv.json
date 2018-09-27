@@ -1755,5 +1755,9 @@
   "kyc_method_picker_subtitle": "Du kan välja hur!",
   "kid_next_payment": "Payday",
   "kyc_method_coming_soon": "PLZ_CHECK Coming soon!",
-  "kyc_method_coming_soon_description": "PLZ_CHECK Currently we only support ID verification with Instantor. We will redirect you!"
+  "kyc_method_coming_soon_description": "PLZ_CHECK Currently we only support ID verification with Instantor. We will redirect you!",
+  "updated_money_settings_for_kid_title": "PLZ_CHECK New money settings from %1$d!",
+  "updated_money_settings_for_kid_subtitle": "PLZ_CHECK Check them out:",
+  "updated_money_settings_for_kid_allowance_title": "PLZ_CHECK Allowance from %1$d",
+  "updated_money_settings_for_kid_interest_title": "PLZ_CHECK Interest from %1$d"
 }

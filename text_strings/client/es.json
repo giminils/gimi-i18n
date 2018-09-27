@@ -1755,5 +1755,9 @@
   "kyc_method_picker_subtitle": "PLZ_TRANSLATE You can choose how!",
   "kid_next_payment": "PLZ_TRANSLATE Payday",
   "kyc_method_coming_soon": "PLZ_TRANSLATE Coming soon!",
-  "kyc_method_coming_soon_description": "PLZ_TRANSLATE Currently we only support ID verification with Instantor. We will redirect you!"
+  "kyc_method_coming_soon_description": "PLZ_TRANSLATE Currently we only support ID verification with Instantor. We will redirect you!",
+  "updated_money_settings_for_kid_title": "PLZ_TRANSLATE New money settings from %1$d!",
+  "updated_money_settings_for_kid_subtitle": "PLZ_TRANSLATE Check them out:",
+  "updated_money_settings_for_kid_allowance_title": "PLZ_TRANSLATE Allowance from %1$d",
+  "updated_money_settings_for_kid_interest_title": "PLZ_TRANSLATE Interest from %1$d"
 }
