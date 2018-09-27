@@ -1759,5 +1759,6 @@
   "updated_money_settings_for_kid_title": "New money settings from %1$d!",
   "updated_money_settings_for_kid_subtitle": "Check them out:",
   "updated_money_settings_for_kid_allowance_title": "Allowance from %1$d",
-  "updated_money_settings_for_kid_interest_title": "Interest from %1$d"
+  "updated_money_settings_for_kid_interest_title": "Interest from %1$d",
+  "join_beta_button": "Join our beta programme!"
 }

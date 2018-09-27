@@ -1759,5 +1759,6 @@
   "updated_money_settings_for_kid_title": "PLZ_CHECK New money settings from %1$d!",
   "updated_money_settings_for_kid_subtitle": "PLZ_CHECK Check them out:",
   "updated_money_settings_for_kid_allowance_title": "PLZ_CHECK Allowance from %1$d",
-  "updated_money_settings_for_kid_interest_title": "PLZ_CHECK Interest from %1$d"
+  "updated_money_settings_for_kid_interest_title": "PLZ_CHECK Interest from %1$d",
+  "join_beta_button": "PLZ_CHECK Join our beta programme!"
 }
