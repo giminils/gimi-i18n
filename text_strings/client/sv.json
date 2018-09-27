@@ -1753,5 +1753,5 @@
   "kyc_method_uc_subtitle": "PLZ_CHECK This is not a kreditupplysning",
   "kyc_method_id_card_title": "PLZ_CHECK Scan your ID card",
   "kyc_method_picker_subtitle": "PLZ_CHECK You can choose how!",
-  "kid_next_payment": "PLZ_CHECK Payday"
+  "kid_next_payment": "Payday"
 }
