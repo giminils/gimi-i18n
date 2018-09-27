@@ -1760,5 +1760,8 @@
   "updated_money_settings_for_kid_subtitle": "PLZ_CHECK Check them out:",
   "updated_money_settings_for_kid_allowance_title": "PLZ_CHECK Allowance from %1$d",
   "updated_money_settings_for_kid_interest_title": "PLZ_CHECK Interest from %1$d",
-  "join_beta_button": "PLZ_CHECK Join our beta programme!"
+  "join_beta_button": "PLZ_CHECK Join our beta programme!",
+  "beta_program_intro_title": "PLZ_CHECK Want to be a Gimi tester?",
+  "beta_program_intro_description": "PLZ_CHECK Join out beta testing programme to get first hand access to new cool features.",
+  "beta_tester_confirmation_message": "PLZ_CHECK We will contact you!"
 }
