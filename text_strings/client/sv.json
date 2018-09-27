@@ -1753,5 +1753,7 @@
   "kyc_method_uc_subtitle": "Detta alternativ är inte en form av kreditupplysning",
   "kyc_method_id_card_title": "Scanna ditt ID-kort",
   "kyc_method_picker_subtitle": "Du kan välja hur!",
-  "kid_next_payment": "Payday"
+  "kid_next_payment": "Payday",
+  "kyc_method_coming_soon": "PLZ_CHECK Coming soon!",
+  "kyc_method_coming_soon_description": "PLZ_CHECK Currently we only support ID verification with Instantor. We will redirect you!"
 }

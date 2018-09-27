@@ -1753,5 +1753,7 @@
   "kyc_method_uc_subtitle": "PLZ_TRANSLATE This is not a kreditupplysning",
   "kyc_method_id_card_title": "PLZ_TRANSLATE Scan your ID card",
   "kyc_method_picker_subtitle": "PLZ_TRANSLATE You can choose how!",
-  "kid_next_payment": "PLZ_TRANSLATE Payday"
+  "kid_next_payment": "PLZ_TRANSLATE Payday",
+  "kyc_method_coming_soon": "PLZ_TRANSLATE Coming soon!",
+  "kyc_method_coming_soon_description": "PLZ_TRANSLATE Currently we only support ID verification with Instantor. We will redirect you!"
 }
