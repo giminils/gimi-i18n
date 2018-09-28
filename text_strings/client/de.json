@@ -1773,5 +1773,7 @@
   "percentage_left_of_money": "PLZ_TRANSLATE %1$d% of your monthly earnings are left 👏",
   "kid_savings_spending_more_than_earning": "PLZ_TRANSLATE You are spending more than you´re earning 😑",
   "kid_savings_too_much_spendning": "PLZ_TRANSLATE You spent all this months earnings 😿",
-  "kid_savings_no_spending": "PLZ_TRANSLATE You havn´t spent anything 😎"
+  "kid_savings_no_spending": "PLZ_TRANSLATE You havn´t spent anything 😎",
+  "your_subscription_cancelled_title": "PLZ_TRANSLATE Your subscription has been cancelled",
+  "your_subscription_cancelled_subtitle": "PLZ_TRANSLATE You can keep using Gimi, but you won't be able to use your card anymore."
 }

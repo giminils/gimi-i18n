@@ -1773,5 +1773,7 @@
   "percentage_left_of_money": "PLZ_CHECK %1$d% of your monthly earnings are left 👏",
   "kid_savings_spending_more_than_earning": "PLZ_CHECK You are spending more than you´re earning 😑",
   "kid_savings_too_much_spendning": "PLZ_CHECK You spent all this months earnings 😿",
-  "kid_savings_no_spending": "PLZ_CHECK You havn´t spent anything 😎"
+  "kid_savings_no_spending": "PLZ_CHECK You havn´t spent anything 😎",
+  "your_subscription_cancelled_title": "PLZ_CHECK Your subscription has been cancelled",
+  "your_subscription_cancelled_subtitle": "PLZ_CHECK You can keep using Gimi, but you won't be able to use your card anymore."
 }
