@@ -1769,9 +1769,5 @@
   "saved_in_month": "Saved in %1$d",
   "kid_savings_emptystate": "nothing earnt, nothing spent, nothing saved.",
   "connected_to_parent_takeover_title": "You're connected to %1$d",
-  "connected_to_parent_takeover_subtitle": "Check out your new money settings",
-  "percentage_left_of_money": "%1$d% of your monthly earnings are left 👏",
-  "kid_savings_too_much_spendning": "You are spending more than you are earning 😑",
-  "kid_savings_spending_more_than_earning": "You are spending more than you´re earning😿",
-  "kid_savings_no_spending": "You havn´t spent anything 😎"
+  "connected_to_parent_takeover_subtitle": "Check out your new money settings"
 }
