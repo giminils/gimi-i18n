@@ -184,5 +184,12 @@
   "bot_btn_another_time": "PLZ_CHECK Maybe another time",
   "bot_link_add_dream": "PLZ_CHECK Add a dream!",
   "bot_says_nice_excl": "PLZ_CHECK Nice!",
-  "bot_says_wanna_do_chore": "PLZ_CHECK Wanna do a chore?"
+  "bot_says_wanna_do_chore": "PLZ_CHECK Wanna do a chore?",
+  "bot_says_get_money_into_app": "PLZ_CHECK Wanna know how to get them into the app?",
+  "bot_says_ask_parents_for_deposit": "PLZ_CHECK Try giving them to your parents and ask for a deposit :)",
+  "bot_btn_thumbs_up": "PLZ_CHECK 👍",
+  "bot_says_talk_about_something_else": "PLZ_CHECK Ok! Let's talk about something else",
+  "bot_btn_short_yes": "PLZ_CHECK Yes",
+  "bot_btn_short_yes_please": "PLZ_CHECK Yes please",
+  "bot_says_find_and_deposit": "PLZ_CHECK If you find any, you can try giving them to your parents and ask for a deposit :)"
 }
