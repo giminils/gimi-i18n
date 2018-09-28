@@ -1769,5 +1769,9 @@
   "saved_in_month": "PLZ_TRANSLATE Saved in %1$d",
   "kid_savings_emptystate": "PLZ_TRANSLATE nothing earnt, nothing spent, nothing saved.",
   "connected_to_parent_takeover_title": "PLZ_TRANSLATE You're connected to %1$d",
-  "connected_to_parent_takeover_subtitle": "PLZ_TRANSLATE Check out your new money settings"
+  "connected_to_parent_takeover_subtitle": "PLZ_TRANSLATE Check out your new money settings",
+  "percentage_left_of_money": "PLZ_TRANSLATE %1$d% of your monthly earnings are left 👏",
+  "kid_savings_spending_more_than_earning": "PLZ_TRANSLATE You are spending more than you´re earning 😑",
+  "kid_savings_too_much_spendning": "PLZ_TRANSLATE You spent all this months earnings 😿",
+  "kid_savings_no_spending": "PLZ_TRANSLATE You havn´t spent anything 😎"
 }
