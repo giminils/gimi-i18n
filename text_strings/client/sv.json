@@ -1765,5 +1765,7 @@
   "beta_program_intro_description": "PLZ_CHECK Join out beta testing programme to get first hand access to new cool features.",
   "beta_tester_confirmation_message": "PLZ_CHECK We will contact you!",
   "report_dream_caption": "PLZ_CHECK %1$d accompilshed %2$d dreams! %3$d was saved for %4$d.",
-  "beta_testers_accept_email_contact": "PLZ_CHECK You must accept contact via email!"
+  "beta_testers_accept_email_contact": "PLZ_CHECK You must accept contact via email!",
+  "saved_in_month": "PLZ_CHECK Saved in %1$d",
+  "kid_savings_emptystate": "PLZ_CHECK nothing earnt, nothing spent, nothing saved."
 }

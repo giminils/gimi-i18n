@@ -1765,5 +1765,7 @@
   "beta_program_intro_description": "Neem deel aan ons beta test programma om als eerste toegang tot nieuwe coole functies te krijgen.",
   "beta_tester_confirmation_message": "Wij nemen contact met je op!",
   "report_dream_caption": "%1$d bereikte %2$d droomwensen! %3$d is gespaard voor %4$d.",
-  "beta_testers_accept_email_contact": "Je moet contact per email goedkeuren!"
+  "beta_testers_accept_email_contact": "Je moet contact per email goedkeuren!",
+  "saved_in_month": "PLZ_TRANSLATE Saved in %1$d",
+  "kid_savings_emptystate": "PLZ_TRANSLATE nothing earnt, nothing spent, nothing saved."
 }
