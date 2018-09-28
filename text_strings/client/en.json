@@ -1775,5 +1775,7 @@
   "kid_savings_too_much_spendning": "You spent all this months earnings 😿",
   "kid_savings_no_spending": "You havn´t spent anything 😎",
   "your_subscription_cancelled_title": "Your subscription has been cancelled",
-  "your_subscription_cancelled_subtitle": "You can keep using Gimi, but you won't be able to use your card anymore."
+  "your_subscription_cancelled_subtitle": "You can keep using Gimi, but you won't be able to use your card anymore.",
+  "already_active_dream_popover_title": "You already have a dream...",
+  "already_active_dream_popover_text": "If you want to make this your dream, you first need to delete your current dream."
 }
