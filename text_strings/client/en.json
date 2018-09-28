@@ -1767,5 +1767,7 @@
   "report_dream_caption": "%1$d accompilshed %2$d dreams! %3$d was saved for %4$d.",
   "beta_testers_accept_email_contact": "You must accept contact via email!",
   "saved_in_month": "Saved in %1$d",
-  "kid_savings_emptystate": "nothing earnt, nothing spent, nothing saved."
+  "kid_savings_emptystate": "nothing earnt, nothing spent, nothing saved.",
+  "connected_to_parent_takeover_title": "You're connected to %1$d",
+  "connected_to_parent_takeover_subtitle": "Check out your new money settings"
 }
