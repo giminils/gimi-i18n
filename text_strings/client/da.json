@@ -1764,5 +1764,6 @@
   "beta_program_intro_title": "Vil du blive en Gimi tester?",
   "beta_program_intro_description": "Tilmeld dig vores beta testprogram for at få førstehånds adgang til nye, cool funktioner.",
   "beta_tester_confirmation_message": "Vi kontakter dig!",
-  "report_dream_caption": "PLZ_TRANSLATE %1$d accompilshed %2$d dreams! %3$d was saved for %4$d."
+  "report_dream_caption": "PLZ_TRANSLATE %1$d accompilshed %2$d dreams! %3$d was saved for %4$d.",
+  "beta_testers_accept_email_contact": "PLZ_TRANSLATE You must accept contact via email!"
 }
