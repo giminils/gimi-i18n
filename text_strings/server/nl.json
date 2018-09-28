@@ -326,6 +326,6 @@
   "push_turn_on_notifications": "Je mist belangrijke meldingen!",
   "event_turn_on_notifications": "Je mist belangrijke boodschappen. Pushmeldingen aanzetten?",
   "push_connect_more_children": "Verzoek om te verbinden van {child.nickname}",
-  "one_off_push_parent": "PLZ_TRANSLATE Happy Weekend, check your new earnings in app!",
-  "one_off_push_child": "PLZ_TRANSLATE Happy Weekend, check your new earnings in app!"
+  "one_off_push_parent": "Happy weekend! You are a super parent ✨",
+  "one_off_push_child": "Happy weekend! Piggy loves you 💖"
 }
