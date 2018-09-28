@@ -325,5 +325,7 @@
   "push_new_weekly_tasks": "Se hur mycket du kan tjäna den här veckan. Kolla in veckans uppgifter i appen!",
   "push_turn_on_notifications": "Du missar just nu viktiga meddelanden från Gimi. Slå på pushnotiser i appen!",
   "event_turn_on_notifications": "Du missar just nu viktiga meddelanden. Vill du slå på pushnotiser?",
-  "push_connect_more_children": "Connection request from {child.nickname}"
+  "push_connect_more_children": "Connection request from {child.nickname}",
+  "one_off_push_parent": "PLZ_CHECK Happy Weekend, check your new earnings in app!",
+  "one_off_push_child": "PLZ_CHECK Happy Weekend, check your new earnings in app!"
 }

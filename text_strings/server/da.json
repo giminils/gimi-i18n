@@ -325,5 +325,7 @@
   "push_new_weekly_tasks": "Tjek ugens opgaver ud!",
   "push_turn_on_notifications": "Du går glip af vigtige beskeder!",
   "event_turn_on_notifications": "Du går glip af vigtige beskeder. Tænd pushnotifikationer?",
-  "push_connect_more_children": "Forbindelsesanmodning fra {child.nickname}"
+  "push_connect_more_children": "Forbindelsesanmodning fra {child.nickname}",
+  "one_off_push_parent": "PLZ_TRANSLATE Happy Weekend, check your new earnings in app!",
+  "one_off_push_child": "PLZ_TRANSLATE Happy Weekend, check your new earnings in app!"
 }

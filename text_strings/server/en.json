@@ -325,5 +325,7 @@
   "push_new_weekly_tasks": "Check out this week's chores!",
   "push_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications in the app!",
   "event_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications?",
-  "push_connect_more_children": "Connection request from {child.nickname}"
+  "push_connect_more_children": "Connection request from {child.nickname}",
+  "one_off_push_parent": "Happy Weekend, check your new earnings in app!",
+  "one_off_push_child": "Happy Weekend, check your new earnings in app!"
 }

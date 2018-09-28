@@ -325,5 +325,7 @@
   "push_new_weekly_tasks": "PLZ_TRANSLATE Check out this weeks chores!",
   "push_turn_on_notifications": "PLZ_TRANSLATE You're missing out on important notifications!",
   "event_turn_on_notifications": "PLZ_TRANSLATE You're missing out on important messages. Turn on pushnotifications?",
-  "push_connect_more_children": "PLZ_TRANSLATE Connection request from {child.nickname}"
+  "push_connect_more_children": "PLZ_TRANSLATE Connection request from {child.nickname}",
+  "one_off_push_parent": "PLZ_TRANSLATE Happy Weekend, check your new earnings in app!",
+  "one_off_push_child": "PLZ_TRANSLATE Happy Weekend, check your new earnings in app!"
 }
