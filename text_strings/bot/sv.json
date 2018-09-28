@@ -176,5 +176,13 @@
   "bot_btn_yeah_exc": "Ja",
   "bot_says_watch_this": "Kolla här!",
   "bot_btn_thanks": "Tack!",
-  "bot_btn_yes_please_exc": "Ja tack!"
+  "bot_btn_yes_please_exc": "Ja tack!",
+  "bot_btn_victory_hand": "PLZ_CHECK ✌️",
+  "bot_says_awesome_excl": "PLZ_CHECK Awesome!",
+  "bot_says_are_you_saving": "PLZ_CHECK Ok! Are you saving for something?",
+  "bot_says_wanna_start_saving": "PLZ_CHECK Wanna start saving for a dream?",
+  "bot_btn_another_time": "PLZ_CHECK Maybe another time",
+  "bot_link_add_dream": "PLZ_CHECK Add a dream!",
+  "bot_says_nice_excl": "PLZ_CHECK Nice!",
+  "bot_says_wanna_do_chore": "PLZ_CHECK Wanna do a chore?"
 }

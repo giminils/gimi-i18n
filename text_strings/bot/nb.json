@@ -176,5 +176,13 @@
   "bot_btn_yeah_exc": "PLZ_TRANSLATE Yeah!",
   "bot_says_watch_this": "PLZ_TRANSLATE Watch this!",
   "bot_btn_thanks": "PLZ_TRANSLATE Thanks!",
-  "bot_btn_yes_please_exc": "PLZ_TRANSLATE Yes please!"
+  "bot_btn_yes_please_exc": "PLZ_TRANSLATE Yes please!",
+  "bot_btn_victory_hand": "PLZ_TRANSLATE ✌️",
+  "bot_says_awesome_excl": "PLZ_TRANSLATE Awesome!",
+  "bot_says_are_you_saving": "PLZ_TRANSLATE Ok! Are you saving for something?",
+  "bot_says_wanna_start_saving": "PLZ_TRANSLATE Wanna start saving for a dream?",
+  "bot_btn_another_time": "PLZ_TRANSLATE Maybe another time",
+  "bot_link_add_dream": "PLZ_TRANSLATE Add a dream!",
+  "bot_says_nice_excl": "PLZ_TRANSLATE Nice!",
+  "bot_says_wanna_do_chore": "PLZ_TRANSLATE Wanna do a chore?"
 }

@@ -176,5 +176,13 @@
   "bot_btn_yeah_exc": "Yeah!",
   "bot_says_watch_this": "Watch this!",
   "bot_btn_thanks": "Thanks!",
-  "bot_btn_yes_please_exc": "Yes please!"
+  "bot_btn_yes_please_exc": "Yes please!",
+  "bot_btn_victory_hand": "✌️",
+  "bot_says_awesome_excl": "Awesome!",
+  "bot_says_are_you_saving": "Ok! Are you saving for something?",
+  "bot_says_wanna_start_saving": "Wanna start saving for a dream?",
+  "bot_btn_another_time": "Maybe another time",
+  "bot_link_add_dream": "Add a dream!",
+  "bot_says_nice_excl": "Nice!",
+  "bot_says_wanna_do_chore": "Wanna do a chore?"
 }
