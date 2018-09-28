@@ -1763,5 +1763,6 @@
   "join_beta_button": "Join our beta programme!",
   "beta_program_intro_title": "Want to be a Gimi tester?",
   "beta_program_intro_description": "Join out beta testing programme to get first hand access to new cool features.",
-  "beta_tester_confirmation_message": "We will contact you!"
+  "beta_tester_confirmation_message": "We will contact you!",
+  "report_dream_caption": "%1$d accompilshed %2$d dreams! %3$d was saved for %4$d."
 }
