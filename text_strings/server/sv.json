@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "{assignment.child.nickname} har gjort klart \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} frågar om lov att redigera dina uppgifter",
   "push_payday_parent": "Payday för {child.nickname}. Gå in i appen för att se hur mycket {child.nickname} har tjänat!",
-  "push_child_has_reached_a_dream": "{name} har sparat ihop till en dröm",
+  "push_child_has_reached_a_dream": "{child.nickname} har sparat ihop till en dröm",
   "event_add_email": "Lägg till din e-post",
   "push_short_tutorial": "Såhär funkar Gimi",
   "event_chore_title_or_amount_changed": "{parent.nickname} uppdaterade {chore.title}",

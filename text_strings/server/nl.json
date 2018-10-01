@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "{assignment.child.nickname} heeft \"{assignment.task.title}\" voltooid!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} vraagt toestemming om klussen te wijzigen",
   "push_payday_parent": "Payday voor {child.nickname}. Open de app om te zien hoeveel {child.nickname} heeft verdiend!",
-  "push_child_has_reached_a_dream": "{name} heeft een droom bereikt",
+  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "Voeg email toe voor status & veiligheid",
   "push_short_tutorial": "Zo werkt de app",
   "event_chore_title_or_amount_changed": "{parent.nickname} heeft {chore.title} gewijzigd",

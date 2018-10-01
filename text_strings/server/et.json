@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "PLZ_TRANSLATE {assignment.child.nickname} on täitnud \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "PLZ_TRANSLATE {name} asks permission to edit your chores",
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Avage rakendus, et näha, kui palju {child.nickname} on teeninud!",
-  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {name} has reached a dream",
+  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "PLZ_TRANSLATE Add email for status & security",
   "push_short_tutorial": "PLZ_TRANSLATE That's how Gimi works, in 20 seconds",
   "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",

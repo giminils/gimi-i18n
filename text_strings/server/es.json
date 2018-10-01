@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "¡{assignment.child.nickname} ha completado \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} pide permiso para modificar sus tareas",
   "push_payday_parent": "PLZ_TRANSLATE Día de pago para {child.nickname}. Abra la aplicación para ver cuánto ha ganado {child.nickname}.",
-  "push_child_has_reached_a_dream": "{name} ha alcanzado un sueño",
+  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "Añadir un correo electrónico para estatus y seguridad",
   "push_short_tutorial": "Así funciona Gimi, en 20 segundos",
   "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",

@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "{assignment.child.nickname} har fullført \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} spør om tillatelse til å redigere dine oppgaver",
   "push_payday_parent": "Payday for {child.nickname}. Åpne appen for å se hvor mye {child.nickname} har tjent!",
-  "push_child_has_reached_a_dream": "{name} har spart sammen til en drøm",
+  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "Legg til din e-post",
   "push_short_tutorial": "Slik fungerer appen",
   "event_chore_title_or_amount_changed": "{parent.nickname} oppdaterte {chore.title}",

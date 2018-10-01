@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "{assignment.child.nickname} on suorittanut askareen \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} haluaisi muokata askareitasi",
   "push_payday_parent": "Tilipäivä lapselle {child.nickname}. Avaa sovellus nähdäksesi kuinka paljon {child.nickname} on ansainnut!",
-  "push_child_has_reached_a_dream": "{name} on saavuttanut unelman",
+  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "Lisää sähköpostiosoite ilmoituksia ja suojausta varten",
   "push_short_tutorial": "Näin Gimi toimii, 20 sekunnissa",
   "event_chore_title_or_amount_changed": "{parent.nickname} päivitti askareen {chore.title}",
