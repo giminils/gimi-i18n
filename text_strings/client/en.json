@@ -1777,5 +1777,6 @@
   "your_subscription_cancelled_subtitle": "You can keep using Gimi, but you won't be able to use your card anymore.",
   "already_active_dream_popover_title": "You already have a dream...",
   "already_active_dream_popover_text": "If you want to make this your dream, you first need to delete your current dream.",
-  "you_been_connect_to_kid_subtitle": "%1$d already has settings:"
+  "you_been_connect_to_kid_subtitle": "%1$d already has settings:",
+  "today_is_pay_day_subtitle": "You just got yourself %1$d"
 }

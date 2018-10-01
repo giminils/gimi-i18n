@@ -1777,5 +1777,6 @@
   "your_subscription_cancelled_subtitle": "PLZ_CHECK You can keep using Gimi, but you won't be able to use your card anymore.",
   "already_active_dream_popover_title": "PLZ_CHECK You already have a dream...",
   "already_active_dream_popover_text": "PLZ_CHECK If you want to make this your dream, you first need to delete your current dream.",
-  "you_been_connect_to_kid_subtitle": "PLZ_CHECK %1$d already has settings:"
+  "you_been_connect_to_kid_subtitle": "PLZ_CHECK %1$d already has settings:",
+  "today_is_pay_day_subtitle": "PLZ_CHECK You just got yourself %1$d"
 }
