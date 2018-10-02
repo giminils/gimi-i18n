@@ -1766,7 +1766,7 @@
   "report_dream_caption": "%1$d oppnådde %2$d drømmmer! %3$d ble spart for %4$d.",
   "beta_testers_accept_email_contact": "Du må godkjenne kontakt via e-post!",
   "saved_in_month": "Spart i %1$d",
-  "kid_savings_emptystate": "ingenting opptjent, ingenting brukt, ingenting spart.",
+  "kid_savings_emptystate": "ingenting tjent, ingenting brukt, ingenting spart.",
   "connected_to_parent_takeover_title": "Du er koblet til %1$d",
   "connected_to_parent_takeover_subtitle": "Sjekk ut dine nye pengeinnstillinger",
   "percentage_left_of_money": "%1$d% av din månedelig inntekt er igjen 👏",
