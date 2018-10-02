@@ -1779,5 +1779,6 @@
   "already_active_dream_popover_text": "PLZ_TRANSLATE If you want to make this your dream, you first need to delete your current dream.",
   "you_been_connect_to_kid_subtitle": "PLZ_TRANSLATE %1$d already has settings:",
   "today_is_pay_day_subtitle": "PLZ_TRANSLATE You just got yourself %1$d",
-  "too_long_name_error": "PLZ_TRANSLATE That name is too long!"
+  "too_long_name_error": "PLZ_TRANSLATE That name is too long!",
+  "kid_cloud_withdraw_btn": "PLZ_TRANSLATE Withdraw"
 }
