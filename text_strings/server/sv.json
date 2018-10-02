@@ -313,7 +313,7 @@
   "event_premium_payday_child": "Payday",
   "event_premium_payday_parent": "Payday",
   "push_you_got_a_chore_suggestion": "Uppgiftsförslag från {task.created_by.nickname}",
-  "event_child_created": "Välkommen till Gimi!",
+  "event_child_created": "Välkommen till Gimi",
   "event_child_lost_the_card": "{child.nickname} har markerat sitt kort som förlorat",
   "event_other_parent_asks_for_deposit": "{parent.nickname} begär tillstånd att göra insättningar till {child.nickname}",
   "event_new_weekly_tasks": "Kolla in den här veckans uppgifter!",
