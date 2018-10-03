@@ -1784,5 +1784,8 @@
   "wishlist_title": "PLZ_TRANSLATE Wishlist",
   "wishlist_empty_text": "PLZ_TRANSLATE Oh no, you have no wishes 😔",
   "wishlist_add_wish_btn": "PLZ_TRANSLATE Add wish",
-  "pfs_manual_deposit_to_card": "PLZ_TRANSLATE Manual transfer to card"
+  "pfs_manual_deposit_to_card": "PLZ_TRANSLATE Manual transfer to card",
+  "existing_phone_contacts_title": "PLZ_TRANSLATE Contacts in Gimi",
+  "phone_search_other_contacts": "PLZ_TRANSLATE Other contacts",
+  "phone_search_general_contacts": "PLZ_TRANSLATE Contacts"
 }
