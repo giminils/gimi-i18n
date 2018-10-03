@@ -1783,5 +1783,6 @@
   "kid_cloud_withdraw_btn": "Withdraw",
   "wishlist_title": "Wishlist",
   "wishlist_empty_text": "Oh no, you have no wishes 😔",
-  "wishlist_add_wish_btn": "Add wish"
+  "wishlist_add_wish_btn": "Add wish",
+  "pfs_manual_deposit_to_card": "Manual transfer to card"
 }

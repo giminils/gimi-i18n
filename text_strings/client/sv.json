@@ -1783,5 +1783,6 @@
   "kid_cloud_withdraw_btn": "PLZ_CHECK Withdraw",
   "wishlist_title": "PLZ_CHECK Wishlist",
   "wishlist_empty_text": "PLZ_CHECK Oh no, you have no wishes 😔",
-  "wishlist_add_wish_btn": "PLZ_CHECK Add wish"
+  "wishlist_add_wish_btn": "PLZ_CHECK Add wish",
+  "pfs_manual_deposit_to_card": "PLZ_CHECK Manual transfer to card"
 }
