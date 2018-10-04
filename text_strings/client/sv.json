@@ -1768,7 +1768,7 @@
   "saved_in_month": "Sparat under %1$d",
   "kid_savings_emptystate": "Inget tjänat, inget spenderat, inget sparat.",
   "connected_to_parent_takeover_title": "Du är ihopkopplad med %1$d",
-  "connected_to_parent_takeover_subtitle": "Kolla in dina nya penga-inställningar",
+  "connected_to_parent_takeover_subtitle": "Kolla in, nu kanske du får mer pengar på nästa payday!",
   "percentage_left_of_money": "PLZ_CHECK %1$d% of your monthly earnings are left 👏",
   "kid_savings_spending_more_than_earning": "PLZ_CHECK You are spending more than you´re earning 😑",
   "kid_savings_too_much_spendning": "PLZ_CHECK You spent all this months earnings 😿",
