@@ -328,5 +328,5 @@
   "push_connect_more_children": "Verzoek om te verbinden van {child.nickname}",
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
   "one_off_push_child": "Happy weekend! Piggy loves you 💖",
-  "push_pfs_payday": "PLZ_TRANSLATE Payday for {child.nickname}"
+  "push_pfs_payday": "PLZ_TRANSLATE It`s payday for {child.nickname}"
 }
