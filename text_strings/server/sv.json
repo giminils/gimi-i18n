@@ -327,5 +327,6 @@
   "event_turn_on_notifications": "Du missar just nu viktiga meddelanden. Vill du slå på pushnotiser?",
   "push_connect_more_children": "Connection request from {child.nickname}",
   "one_off_push_parent": "Happy weekend! Du är en superförälder ✨",
-  "one_off_push_child": "Happy weekend! Piggy gillar dig 💖"
+  "one_off_push_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_pfs_payday": "Payday for {child.nickname}"
 }

@@ -327,5 +327,6 @@
   "event_turn_on_notifications": "You're missing out on important messages. Turn on pushnotifications?",
   "push_connect_more_children": "Connection request from {child.nickname}",
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
-  "one_off_push_child": "Happy weekend! Piggy loves you 💖"
+  "one_off_push_child": "Happy weekend! Piggy loves you 💖",
+  "push_pfs_payday": "Payday for {child.nickname}"
 }

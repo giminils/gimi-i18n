@@ -327,5 +327,6 @@
   "event_turn_on_notifications": "PLZ_TRANSLATE You're missing out on important messages. Turn on pushnotifications?",
   "push_connect_more_children": "PLZ_TRANSLATE Connection request from {child.nickname}",
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
-  "one_off_push_child": "Happy weekend! Piggy loves you 💖"
+  "one_off_push_child": "Happy weekend! Piggy loves you 💖",
+  "push_pfs_payday": "PLZ_TRANSLATE Payday for {child.nickname}"
 }
