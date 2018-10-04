@@ -1722,7 +1722,7 @@
   "your_monthly_allowance_n": "Din månadspeng: %1$d",
   "your_interest": "Din ränta: %1$d%",
   "your_savings": "Ditt sparande: %1$d",
-  "interest_colon": "Sparbonus: %1$d",
+  "interest_colon": "PLZ_CHECK Savings bonus: %1$d",
   "phone_login_button": "Logga in med nummer",
   "add_goal_image_title": "Lägg till en bild på din dröm!",
   "edit_image": "Redigera bild",

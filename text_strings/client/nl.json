@@ -1722,7 +1722,7 @@
   "your_monthly_allowance_n": "Je zakgeld: %1$d",
   "your_interest": "Je rent: %1$d%",
   "your_savings": "Je spaargeld: %1$d",
-  "interest_colon": "Rente: %1$d",
+  "interest_colon": "PLZ_TRANSLATE Savings bonus: %1$d",
   "phone_login_button": "Nummer login",
   "add_goal_image_title": "Voeg een foto van je droomwens toe!",
   "edit_image": "Wijzig foto",

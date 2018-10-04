@@ -1722,7 +1722,7 @@
   "your_monthly_allowance_n": "Dine lommepenge: %1$d",
   "your_interest": "Din rente: %1$d%",
   "your_savings": "Din opsparing: %1$d",
-  "interest_colon": "Rate: %1$d",
+  "interest_colon": "PLZ_TRANSLATE Savings bonus: %1$d",
   "phone_login_button": "Nummer login",
   "add_goal_image_title": "Tilføj et billede af din drøm!",
   "edit_image": "Rediger billede",

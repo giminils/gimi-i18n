@@ -1722,7 +1722,7 @@
   "your_monthly_allowance_n": "Dine månedspenger: %1$d",
   "your_interest": "Din rente: %1$d%",
   "your_savings": "Dine besparelser: %1$d",
-  "interest_colon": "Rente: %1$d",
+  "interest_colon": "PLZ_TRANSLATE Savings bonus: %1$d",
   "phone_login_button": "Logg inn med nummer",
   "add_goal_image_title": "Legg til et bilde av drømmen din!",
   "edit_image": "Rediger bilde",
