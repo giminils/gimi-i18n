@@ -1758,6 +1758,8 @@
   "updated_money_settings_for_kid_title": "Nye penge indstillinger fra %1$d!",
   "updated_money_settings_for_kid_subtitle": "Tjek dem ud:",
   "updated_money_settings_for_kid_allowance_title": "Lommepenge fra %1$d",
+  "updated_money_settings_for_kid_weekly_allowance_title": "PLZ_TRANSLATE Allowance from %1$d",
+  "updated_money_settings_for_kid_monthly_allowance_title": "PLZ_TRANSLATE Allowance from %1$d",
   "updated_money_settings_for_kid_interest_title": "Rente fra %1$d",
   "join_beta_button": "Bliv en del af vores beta program!",
   "beta_program_intro_title": "PLZ_TRANSLATE Want to be a testpilot?",

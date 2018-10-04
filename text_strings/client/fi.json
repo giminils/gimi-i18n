@@ -1758,6 +1758,8 @@
   "updated_money_settings_for_kid_title": "PLZ_TRANSLATE New money settings from %1$d!",
   "updated_money_settings_for_kid_subtitle": "PLZ_TRANSLATE Check them out:",
   "updated_money_settings_for_kid_allowance_title": "PLZ_TRANSLATE Allowance from %1$d",
+  "updated_money_settings_for_kid_weekly_allowance_title": "PLZ_TRANSLATE Allowance from %1$d",
+  "updated_money_settings_for_kid_monthly_allowance_title": "PLZ_TRANSLATE Allowance from %1$d",
   "updated_money_settings_for_kid_interest_title": "PLZ_TRANSLATE Interest from %1$d",
   "join_beta_button": "PLZ_TRANSLATE Join our beta programme!",
   "beta_program_intro_title": "PLZ_TRANSLATE Want to be a testpilot?",

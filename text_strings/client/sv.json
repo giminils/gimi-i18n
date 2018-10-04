@@ -1758,6 +1758,8 @@
   "updated_money_settings_for_kid_title": "Uppdaterade inställningar har gjorts av %1$d!",
   "updated_money_settings_for_kid_subtitle": "Kolla in dem:",
   "updated_money_settings_for_kid_allowance_title": "Vecko- eller månadspeng från %1$d",
+  "updated_money_settings_for_kid_weekly_allowance_title": "Veckopeng från %1$d",
+  "updated_money_settings_for_kid_monthly_allowance_title": "Månadspeng från %1$d",
   "updated_money_settings_for_kid_interest_title": "Ränta från %1$d",
   "join_beta_button": "Bli testpilot för Gimi!",
   "beta_program_intro_title": "Vill du testa det senaste?",
