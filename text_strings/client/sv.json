@@ -1789,5 +1789,7 @@
   "pfs_manual_deposit_to_card": "PLZ_CHECK Manual transfer to card",
   "existing_phone_contacts_title": "PLZ_CHECK Contacts in Gimi",
   "phone_search_other_contacts": "PLZ_CHECK Other contacts",
-  "phone_search_general_contacts": "PLZ_CHECK Contacts"
+  "phone_search_general_contacts": "PLZ_CHECK Contacts",
+  "change_push_permission_title": "PLZ_CHECK Permission for notifications",
+  "change_push_permission_desc": "PLZ_CHECK This app needs access to push notifications, so you don't miss out on anything"
 }
