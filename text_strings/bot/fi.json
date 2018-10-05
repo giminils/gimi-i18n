@@ -218,5 +218,7 @@
   "bot_says_thanks_exlc": "PLZ_TRANSLATE Thanks!",
   "bot_btn_you_are_welcome": "PLZ_TRANSLATE You're welcome!",
   "bot_says_will_think_of_better_one_excl": "PLZ_TRANSLATE Ok! I will think of a better one!",
-  "bot_says_i_will_be_serious": "PLZ_TRANSLATE Ok! I'll be a bit more serious :)"
+  "bot_says_i_will_be_serious": "PLZ_TRANSLATE Ok! I'll be a bit more serious :)",
+  "bot_says_wanna_dance_snapchat": "PLZ_TRANSLATE Wanna dance with me in Snapchat?",
+  "bot_link_lets_dance": "PLZ_TRANSLATE Let's dance!"
 }

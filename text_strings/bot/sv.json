@@ -218,5 +218,7 @@
   "bot_says_thanks_exlc": "PLZ_CHECK Thanks!",
   "bot_btn_you_are_welcome": "PLZ_CHECK You're welcome!",
   "bot_says_will_think_of_better_one_excl": "PLZ_CHECK Ok! I will think of a better one!",
-  "bot_says_i_will_be_serious": "PLZ_CHECK Ok! I'll be a bit more serious :)"
+  "bot_says_i_will_be_serious": "PLZ_CHECK Ok! I'll be a bit more serious :)",
+  "bot_says_wanna_dance_snapchat": "PLZ_CHECK Wanna dance with me in Snapchat?",
+  "bot_link_lets_dance": "PLZ_CHECK Let's dance!"
 }
