@@ -220,5 +220,17 @@
   "bot_says_will_think_of_better_one_excl": "PLZ_CHECK Ok! I will think of a better one!",
   "bot_says_i_will_be_serious": "PLZ_CHECK Ok! I'll be a bit more serious :)",
   "bot_says_wanna_dance_snapchat": "PLZ_CHECK Wanna dance with me in Snapchat?",
-  "bot_link_lets_dance": "PLZ_CHECK Let's dance!"
+  "bot_link_lets_dance": "PLZ_CHECK Let's dance!",
+  "bot_says_what_do_you_like_the_most": "PLZ_CHECK What do you like the most?",
+  "bot_btn_earn_money": "PLZ_CHECK Earn money",
+  "bot_btn_save_money": "PLZ_CHECK Save money",
+  "bot_btn_spend_money": "PLZ_CHECK Spend money",
+  "bot_says_you_like_doing_chores": "PLZ_CHECK Cool! So you like doing chores?",
+  "bot_says_thats_my_favorite_too": "PLZ_CHECK Nice! That's my favorite too!",
+  "bot_says_careful_overspend": "PLZ_CHECK Ok! Be careful so you don't overspend!",
+  "bot_says_my_favorite_chore": "PLZ_CHECK Me too! Wanna know what my favorite chore is?",
+  "bot_says_cleaning_out_my_closet": "PLZ_CHECK Cleaning out my closet! If I find something I don't use, I try to sell it :)",
+  "bot_btn_good_idea": "PLZ_CHECK Good idea!",
+  "bot_says_check_payday": "PLZ_CHECK Ok! Wanna check how much money you'll get on Payday?",
+  "bot_link_check_payday": "PLZ_CHECK Check Payday!"
 }
