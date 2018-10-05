@@ -328,5 +328,6 @@
   "push_connect_more_children": "Connection request from {child.nickname}",
   "one_off_push_parent": "Happy weekend! Du är en superförälder ✨",
   "one_off_push_child": "Happy weekend! Piggy gillar dig 💖",
-  "push_pfs_payday": "It`s payday for {child.nickname}"
+  "push_pfs_payday": "It`s payday for {child.nickname}",
+  "push_connect_with_child": "You haven't connected to a child yet... Gimi is more fun when you have someone to give money to!"
 }
