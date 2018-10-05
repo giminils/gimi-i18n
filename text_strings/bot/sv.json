@@ -211,5 +211,12 @@
   "bot_says_fun_chatting": "PLZ_CHECK Nice! Hope you think it's fun chatting with me too!",
   "bot_says_not_fun_chatting": "PLZ_CHECK Oh no :( I hope you think it's more fun chatting with me!",
   "bot_btn_of_course": "PLZ_CHECK Of course!",
-  "bot_says_i_will_teach_you": "PLZ_CHECK Oh no :( I'll try to teach you!"
+  "bot_says_i_will_teach_you": "PLZ_CHECK Oh no :( I'll try to teach you!",
+  "bot_btn_tears_of_joy": "PLZ_CHECK 😂",
+  "bot_says_one_plus_one_sorry_bad_joke": "PLZ_CHECK 1 + 1 = 2! Sorry it was a bad joke!",
+  "bot_btn_not_really": "PLZ_CHECK Not really",
+  "bot_says_thanks_exlc": "PLZ_CHECK Thanks!",
+  "bot_btn_you_are_welcome": "PLZ_CHECK You're welcome!",
+  "bot_says_will_think_of_better_one_excl": "PLZ_CHECK Ok! I will think of a better one!",
+  "bot_says_i_will_be_serious": "PLZ_CHECK Ok! I'll be a bit more serious :)"
 }
