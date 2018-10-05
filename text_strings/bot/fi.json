@@ -191,5 +191,18 @@
   "bot_says_talk_about_something_else": "PLZ_TRANSLATE Ok! Let's talk about something else",
   "bot_btn_short_yes": "PLZ_TRANSLATE Yes",
   "bot_btn_short_yes_please": "PLZ_TRANSLATE Yes please",
-  "bot_says_find_and_deposit": "PLZ_TRANSLATE If you find any, you can try giving them to your parents and ask for a deposit :)"
+  "bot_says_find_and_deposit": "PLZ_TRANSLATE If you find any, you can try giving them to your parents and ask for a deposit :)",
+  "bot_says_wanna_learn_about_money": "PLZ_TRANSLATE Wanna learn about money today?",
+  "bot_says_learn_money_category": "PLZ_TRANSLATE Wanna learn about earning, saving or spending money?",
+  "bot_btn_earn": "PLZ_TRANSLATE Earn",
+  "bot_btn_save": "PLZ_TRANSLATE Save",
+  "bot_btn_spend": "PLZ_TRANSLATE Spend",
+  "bot_link_watch_this_excl": "PLZ_TRANSLATE Watch this!",
+  "bot_says_practice_earning": "PLZ_TRANSLATE Maybe you want to practice earning money?",
+  "bot_says_out_of_ideas": "PLZ_TRANSLATE I'm out of ideas for now. Let's talk about something else :)",
+  "bot_says_secret_to_saving": "PLZ_TRANSLATE Wanna know the secret to saving money?",
+  "bot_says_never_spend_more_than_you_earn": "PLZ_TRANSLATE Never spend more than you earn!",
+  "bot_says_hear_something_cool": "PLZ_TRANSLATE Ok! Wanna hear something cool?",
+  "bot_says_check_phone_spend_more_money": "PLZ_TRANSLATE People who check their phone while shopping seem to spend more money!",
+  "bot_says_another_day": "PLZ_TRANSLATE Ok! Maybe another day :)"
 }

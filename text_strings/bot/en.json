@@ -191,5 +191,18 @@
   "bot_says_talk_about_something_else": "Ok! Let's talk about something else",
   "bot_btn_short_yes": "Yes",
   "bot_btn_short_yes_please": "Yes please",
-  "bot_says_find_and_deposit": "If you find any, you can try giving them to your parents and ask for a deposit :)"
+  "bot_says_find_and_deposit": "If you find any, you can try giving them to your parents and ask for a deposit :)",
+  "bot_says_wanna_learn_about_money": "Wanna learn about money today?",
+  "bot_says_learn_money_category": "Wanna learn about earning, saving or spending money?",
+  "bot_btn_earn": "Earn",
+  "bot_btn_save": "Save",
+  "bot_btn_spend": "Spend",
+  "bot_link_watch_this_excl": "Watch this!",
+  "bot_says_practice_earning": "Maybe you want to practice earning money?",
+  "bot_says_out_of_ideas": "I'm out of ideas for now. Let's talk about something else :)",
+  "bot_says_secret_to_saving": "Wanna know the secret to saving money?",
+  "bot_says_never_spend_more_than_you_earn": "Never spend more than you earn!",
+  "bot_says_hear_something_cool": "Ok! Wanna hear something cool?",
+  "bot_says_check_phone_spend_more_money": "People who check their phone while shopping seem to spend more money!",
+  "bot_says_another_day": "Ok! Maybe another day :)"
 }

@@ -191,5 +191,18 @@
   "bot_says_talk_about_something_else": "PLZ_CHECK Ok! Let's talk about something else",
   "bot_btn_short_yes": "PLZ_CHECK Yes",
   "bot_btn_short_yes_please": "PLZ_CHECK Yes please",
-  "bot_says_find_and_deposit": "PLZ_CHECK If you find any, you can try giving them to your parents and ask for a deposit :)"
+  "bot_says_find_and_deposit": "PLZ_CHECK If you find any, you can try giving them to your parents and ask for a deposit :)",
+  "bot_says_wanna_learn_about_money": "PLZ_CHECK Wanna learn about money today?",
+  "bot_says_learn_money_category": "PLZ_CHECK Wanna learn about earning, saving or spending money?",
+  "bot_btn_earn": "PLZ_CHECK Earn",
+  "bot_btn_save": "PLZ_CHECK Save",
+  "bot_btn_spend": "PLZ_CHECK Spend",
+  "bot_link_watch_this_excl": "PLZ_CHECK Watch this!",
+  "bot_says_practice_earning": "PLZ_CHECK Maybe you want to practice earning money?",
+  "bot_says_out_of_ideas": "PLZ_CHECK I'm out of ideas for now. Let's talk about something else :)",
+  "bot_says_secret_to_saving": "PLZ_CHECK Wanna know the secret to saving money?",
+  "bot_says_never_spend_more_than_you_earn": "PLZ_CHECK Never spend more than you earn!",
+  "bot_says_hear_something_cool": "PLZ_CHECK Ok! Wanna hear something cool?",
+  "bot_says_check_phone_spend_more_money": "PLZ_CHECK People who check their phone while shopping seem to spend more money!",
+  "bot_says_another_day": "PLZ_CHECK Ok! Maybe another day :)"
 }
