@@ -207,5 +207,9 @@
   "bot_says_another_day": "Ok! Maybe another day :)",
   "bot_says_earn_money_today": "Wanna earn some money today?",
   "bot_says_do_chore": "Do a chore?",
-  "bot_says_maybe_suggest_chore": "Maybe suggest a chore?"
+  "bot_says_maybe_suggest_chore": "Maybe suggest a chore?",
+  "bot_says_fun_chatting": "Nice! Hope you think it's fun chatting with me too!",
+  "bot_says_not_fun_chatting": "Oh no :( I hope you think it's more fun chatting with me!",
+  "bot_btn_of_course": "Of course!",
+  "bot_says_i_will_teach_you": "Oh no :( I'll try to teach you!"
 }
