@@ -204,5 +204,8 @@
   "bot_says_never_spend_more_than_you_earn": "PLZ_TRANSLATE Never spend more than you earn!",
   "bot_says_hear_something_cool": "PLZ_TRANSLATE Ok! Wanna hear something cool?",
   "bot_says_check_phone_spend_more_money": "PLZ_TRANSLATE People who check their phone while shopping seem to spend more money!",
-  "bot_says_another_day": "PLZ_TRANSLATE Ok! Maybe another day :)"
+  "bot_says_another_day": "PLZ_TRANSLATE Ok! Maybe another day :)",
+  "bot_says_earn_money_today": "PLZ_TRANSLATE Wanna earn some money today?",
+  "bot_says_do_chore": "PLZ_TRANSLATE Do a chore?",
+  "bot_says_maybe_suggest_chore": "PLZ_TRANSLATE Maybe suggest a chore?"
 }

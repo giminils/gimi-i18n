@@ -204,5 +204,8 @@
   "bot_says_never_spend_more_than_you_earn": "Never spend more than you earn!",
   "bot_says_hear_something_cool": "Ok! Wanna hear something cool?",
   "bot_says_check_phone_spend_more_money": "People who check their phone while shopping seem to spend more money!",
-  "bot_says_another_day": "Ok! Maybe another day :)"
+  "bot_says_another_day": "Ok! Maybe another day :)",
+  "bot_says_earn_money_today": "Wanna earn some money today?",
+  "bot_says_do_chore": "Do a chore?",
+  "bot_says_maybe_suggest_chore": "Maybe suggest a chore?"
 }
