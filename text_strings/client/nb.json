@@ -1749,7 +1749,7 @@
   "kid_intro_money_desc": "Voksne holder pengene dine for deg. Hvis du sparer, vokser de! Har du lyst til å bruke dem? Spør dine voksne om å betale!",
   "kyc_method_instantor_title": "Bruk din mobile BankID med Instantor",
   "kyc_method_uc_title": "Bruk din mobile BankID med UC",
-  "kyc_method_uc_subtitle": "Dette er ikke en kredittopplysning",
+  "kyc_method_uc_subtitle": "PLZ_TRANSLATE This is not a credit report",
   "kyc_method_id_card_title": "Skann ditt ID-kort",
   "kyc_method_picker_subtitle": "Du kan velge hvordan!",
   "kid_next_payment": "Payday",
