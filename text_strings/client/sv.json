@@ -1791,5 +1791,6 @@
   "phone_search_other_contacts": "Andra kontakter",
   "phone_search_general_contacts": "Kontakter",
   "change_push_permission_title": "Tillåt pushnotiser",
-  "change_push_permission_desc": "Appen behöver din tillåtelse att skicka pushnotiser, så att du inte missar någonting viktigt"
+  "change_push_permission_desc": "Appen behöver din tillåtelse att skicka pushnotiser, så att du inte missar någonting viktigt",
+  "name_length_error": "PLZ_CHECK Name is too short or too long"
 }

@@ -1791,5 +1791,6 @@
   "phone_search_other_contacts": "Other contacts",
   "phone_search_general_contacts": "Contacts",
   "change_push_permission_title": "Permission for notifications",
-  "change_push_permission_desc": "This app needs access to push notifications, so you don't miss out on anything"
+  "change_push_permission_desc": "This app needs access to push notifications, so you don't miss out on anything",
+  "name_length_error": "Name is too short or too long"
 }

@@ -1791,5 +1791,6 @@
   "phone_search_other_contacts": "PLZ_TRANSLATE Other contacts",
   "phone_search_general_contacts": "PLZ_TRANSLATE Contacts",
   "change_push_permission_title": "PLZ_TRANSLATE Permission for notifications",
-  "change_push_permission_desc": "PLZ_TRANSLATE This app needs access to push notifications, so you don't miss out on anything"
+  "change_push_permission_desc": "PLZ_TRANSLATE This app needs access to push notifications, so you don't miss out on anything",
+  "name_length_error": "PLZ_TRANSLATE Name is too short or too long"
 }
