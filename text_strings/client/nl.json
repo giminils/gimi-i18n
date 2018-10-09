@@ -1792,5 +1792,9 @@
   "phone_search_general_contacts": "Contactpersonen",
   "change_push_permission_title": "Toestemming voor meldingen",
   "change_push_permission_desc": "Deze app heeft toestemming voor pushmeldingen nodig, zodat je helemaal niets mist",
-  "name_length_error": "Naam is te kort of te lang"
+  "name_length_error": "Naam is te kort of te lang",
+  "add_craving_title": "PLZ_TRANSLATE Add craving",
+  "price_of_craving": "PLZ_TRANSLATE How much does the craving cost?",
+  "add_craving_image_title": "PLZ_TRANSLATE Add an image of your craving!",
+  "craving_overview": "PLZ_TRANSLATE my craving"
 }

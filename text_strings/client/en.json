@@ -1792,5 +1792,9 @@
   "phone_search_general_contacts": "Contacts",
   "change_push_permission_title": "Permission for notifications",
   "change_push_permission_desc": "This app needs access to push notifications, so you don't miss out on anything",
-  "name_length_error": "Name is too short or too long"
+  "name_length_error": "Name is too short or too long",
+  "add_craving_title": "Add craving",
+  "price_of_craving": "How much does the craving cost?",
+  "add_craving_image_title": "Add an image of your craving!",
+  "craving_overview": "my craving"
 }

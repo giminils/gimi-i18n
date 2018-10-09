@@ -1792,5 +1792,9 @@
   "phone_search_general_contacts": "Kontakter",
   "change_push_permission_title": "Tillåt pushnotiser",
   "change_push_permission_desc": "Appen behöver din tillåtelse att skicka pushnotiser, så att du inte missar någonting viktigt",
-  "name_length_error": "PLZ_CHECK Name is too short or too long"
+  "name_length_error": "PLZ_CHECK Name is too short or too long",
+  "add_craving_title": "PLZ_CHECK Add craving",
+  "price_of_craving": "PLZ_CHECK How much does the craving cost?",
+  "add_craving_image_title": "PLZ_CHECK Add an image of your craving!",
+  "craving_overview": "PLZ_CHECK my craving"
 }

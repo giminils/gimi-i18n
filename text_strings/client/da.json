@@ -1792,5 +1792,9 @@
   "phone_search_general_contacts": "Kontakter",
   "change_push_permission_title": "Tilladelse til notifikationer",
   "change_push_permission_desc": "Denne app har brug for adgang til push notifikationer, så du ikke går glip af noget",
-  "name_length_error": "PLZ_TRANSLATE Name is too short or too long"
+  "name_length_error": "PLZ_TRANSLATE Name is too short or too long",
+  "add_craving_title": "PLZ_TRANSLATE Add craving",
+  "price_of_craving": "PLZ_TRANSLATE How much does the craving cost?",
+  "add_craving_image_title": "PLZ_TRANSLATE Add an image of your craving!",
+  "craving_overview": "PLZ_TRANSLATE my craving"
 }
