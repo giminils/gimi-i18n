@@ -1836,5 +1836,6 @@
   "share_dream_title": "PLZ_TRANSLATE Share your dream!",
   "general_share_it": "PLZ_TRANSLATE Share it",
   "sharing_dream_title": "PLZ_TRANSLATE I reached my dream!",
-  "sharing_dream_message": "PLZ_TRANSLATE I saved enough for my dream in the Gimi app!"
+  "sharing_dream_message": "PLZ_TRANSLATE I saved enough for my dream in the Gimi app!",
+  "entered_pin_too_many_tries": "PLZ_TRANSLATE You tried too many times, try again later."
 }
