@@ -263,7 +263,7 @@
   "push_child_has_completed_a_chore": "{assignment.child.nickname} heeft \"{assignment.task.title}\" voltooid!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} vraagt toestemming om klussen te wijzigen",
   "push_payday_parent": "Payday voor {child.nickname}. Open de app om te zien hoeveel {child.nickname} heeft verdiend!",
-  "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
+  "push_child_has_reached_a_dream": "{child.nickname} heeft een droomwens bereikt",
   "event_add_email": "Voeg email toe voor status & veiligheid",
   "push_short_tutorial": "Zo werkt de app",
   "event_chore_title_or_amount_changed": "{parent.nickname} heeft {chore.title} gewijzigd",
@@ -328,6 +328,6 @@
   "push_connect_more_children": "Verzoek om te verbinden van {child.nickname}",
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
   "one_off_push_child": "Happy weekend! Piggy loves you 💖",
-  "push_pfs_payday": "PLZ_TRANSLATE It`s payday for {child.nickname}",
-  "push_connect_with_child": "PLZ_TRANSLATE You haven't connected to a child yet... Gimi is more fun when you have someone to give money to!"
+  "push_pfs_payday": "Het is payday voor {child.nickname}",
+  "push_connect_with_child": "Je bent nog niet verbonden met een kind... Gimi is leuker als je iemand hebt om geld aan te geven!"
 }
