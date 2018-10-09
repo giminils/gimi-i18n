@@ -1796,5 +1796,9 @@
   "add_craving_title": "PLZ_CHECK Add craving",
   "price_of_craving": "PLZ_CHECK How much does the craving cost?",
   "add_craving_image_title": "PLZ_CHECK Add an image of your craving!",
-  "craving_overview": "PLZ_CHECK my craving"
+  "craving_overview": "PLZ_CHECK my craving",
+  "share_dream_title": "PLZ_CHECK Share your dream!",
+  "general_share_it": "PLZ_CHECK Share it",
+  "sharing_dream_title": "PLZ_CHECK I reached my dream!",
+  "sharing_dream_message": "PLZ_CHECK I saved enough for my dream in the Gimi app!"
 }
