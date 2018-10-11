@@ -330,5 +330,6 @@
   "one_off_push_child": "Happy weekend! Piggy liker deg 💖",
   "push_pfs_payday": "PLZ_TRANSLATE It`s payday for {child.nickname}",
   "push_connect_with_child": "PLZ_TRANSLATE You haven't connected to a child yet... Gimi is more fun when you have someone to give money to!",
-  "push_child_card_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏"
+  "push_child_card_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏",
+  "event_card_has_been_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏"
 }
