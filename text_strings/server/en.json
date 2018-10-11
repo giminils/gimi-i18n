@@ -329,5 +329,6 @@
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
   "one_off_push_child": "Happy weekend! Piggy loves you 💖",
   "push_pfs_payday": "It`s payday for {child.nickname}",
-  "push_connect_with_child": "You haven't connected to a child yet... Gimi is more fun when you have someone to give money to!"
+  "push_connect_with_child": "You haven't connected to a child yet... Gimi is more fun when you have someone to give money to!",
+  "push_child_card_activated": "{child.nickname} just activated the Gimi card! 👏"
 }
