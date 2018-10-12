@@ -1840,5 +1840,6 @@
   "entered_pin_too_many_tries": "PLZ_CHECK You tried too many times, try again later.",
   "general_remove_craving": "PLZ_CHECK Remove craving",
   "kid_notification_new_dream_stats": "PLZ_CHECK Check out how much closer your will be to reaching your dream on next payday!",
-  "parent_notification_new_withdrawals": "PLZ_CHECK You can now make withdrawals and deposits directly from savings!"
+  "parent_notification_new_withdrawals": "PLZ_CHECK You can now make withdrawals and deposits directly from savings!",
+  "kid_settings_invite_shortcut_button": "PLZ_CHECK Invite your family!"
 }
