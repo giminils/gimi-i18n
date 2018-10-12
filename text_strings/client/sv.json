@@ -1843,5 +1843,6 @@
   "parent_notification_new_withdrawals": "PLZ_CHECK You can now make withdrawals and deposits directly from savings!",
   "kid_settings_invite_shortcut_button": "PLZ_CHECK Invite your family!",
   "general_featured": "PLZ_CHECK Featured",
-  "popular_now": "PLZ_CHECK Popular now"
+  "popular_now": "PLZ_CHECK Popular now",
+  "about_education_button": "PLZ_CHECK About"
 }
