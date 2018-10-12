@@ -1841,5 +1841,7 @@
   "general_remove_craving": "Remove craving",
   "kid_notification_new_dream_stats": "Check out how much closer your will be to reaching your dream on next payday!",
   "parent_notification_new_withdrawals": "You can now make withdrawals and deposits directly from savings!",
-  "kid_settings_invite_shortcut_button": "Invite your family!"
+  "kid_settings_invite_shortcut_button": "Invite your family!",
+  "general_featured": "Featured",
+  "popular_now": "Popular now"
 }

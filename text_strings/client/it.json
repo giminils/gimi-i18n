@@ -1841,5 +1841,7 @@
   "general_remove_craving": "PLZ_TRANSLATE Remove craving",
   "kid_notification_new_dream_stats": "PLZ_TRANSLATE Check out how much closer your will be to reaching your dream on next payday!",
   "parent_notification_new_withdrawals": "PLZ_TRANSLATE You can now make withdrawals and deposits directly from savings!",
-  "kid_settings_invite_shortcut_button": "PLZ_TRANSLATE Invite your family!"
+  "kid_settings_invite_shortcut_button": "PLZ_TRANSLATE Invite your family!",
+  "general_featured": "PLZ_TRANSLATE Featured",
+  "popular_now": "PLZ_TRANSLATE Popular now"
 }
