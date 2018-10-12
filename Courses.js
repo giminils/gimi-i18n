@@ -1,18 +1,28 @@
 // @flow
 let defaultCourse = {}
-let defaultChapter = {}
+let defaultChapter = {
+  icon: 'iconHeart'
+}
 export default [
   {
     ...defaultCourse,
-    'name': 'save',
-    'titleLangKey': 'course_save_title',
-    'subtitleLangKey': '',
-    'chapters': [
+    name: 'save',
+    titleLangKey: 'course_save_title',
+    subtitleLangKey: '',
+    chapters: [
       {
         ...defaultChapter,
-        'chapterName': 'Saving for dummies',
-        'titleLangKey': 'save_chapter_1',
-        'content': [
+        chapterName: 'Saving for dummies',
+        titleLangKey: 'save_chapter_1',
+        content: [
+
+        ]
+      },
+      {
+        ...defaultChapter,
+        chapterName: 'Saving for dummies',
+        titleLangKey: 'save_chapter_1',
+        content: [
 
         ]
       }
@@ -20,15 +30,15 @@ export default [
   },
   {
     ...defaultCourse,
-    'name': 'earn',
-    'titleLangKey': 'course_earn_title',
-    'subtitleLangKey': '',
-    'chapters': [
+    name: 'earn',
+    titleLangKey: 'course_earn_title',
+    subtitleLangKey: '',
+    chapters: [
       {
         ...defaultChapter,
-        'chapterName': 'Easy cash',
-        'titleLangKey': 'earn_chapter_1',
-        'content': [
+        chapterName: 'Easy cash',
+        titleLangKey: 'earn_chapter_1',
+        content: [
 
         ]
       }
@@ -36,15 +46,15 @@ export default [
   },
   {
     ...defaultCourse,
-    'name': 'spend',
-    'titleLangKey': 'course_spend_title',
-    'subtitleLangKey': '',
-    'chapters': [
+    name: 'spend',
+    titleLangKey: 'course_spend_title',
+    subtitleLangKey: '',
+    chapters: [
       {
         ...defaultChapter,
-        'chapterName': 'Spend like rich kids',
-        'titleLangKey': 'spend_chapter_1',
-        'content': [
+        chapterName: 'Spend like rich kids',
+        titleLangKey: 'spend_chapter_1',
+        content: [
 
         ]
       }
