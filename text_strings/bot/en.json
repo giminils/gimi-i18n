@@ -232,5 +232,9 @@
   "bot_says_cleaning_out_my_closet": "Cleaning out my closet! If I find something I don't use, I try to sell it :)",
   "bot_btn_good_idea": "Good idea!",
   "bot_says_check_payday": "Ok! Wanna check how much money you'll get on Payday?",
-  "bot_link_check_payday": "Check Payday!"
+  "bot_link_check_payday": "Check Payday!",
+  "bot_says_hi_im_piggy": "Hi! My name is Piggy.",
+  "bot_btn_hi_piggy": "Hi Piggy!",
+  "bot_says_who_am_i": "I live inside the Gimi app. When I'm not counting your money you can chat with me :) ",
+  "bot_btn_yay": "Yay"
 }
