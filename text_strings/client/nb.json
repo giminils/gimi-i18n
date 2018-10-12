@@ -1838,5 +1838,7 @@
   "sharing_dream_title": "PLZ_TRANSLATE I reached my dream!",
   "sharing_dream_message": "PLZ_TRANSLATE I saved enough for my dream in the Gimi app!",
   "entered_pin_too_many_tries": "PLZ_TRANSLATE You tried too many times, try again later.",
-  "general_remove_craving": "PLZ_TRANSLATE Remove craving"
+  "general_remove_craving": "PLZ_TRANSLATE Remove craving",
+  "kid_notification_new_dream_stats": "PLZ_TRANSLATE Check out how much closer your will be to reaching your dream on next payday!",
+  "parent_notification_new_withdrawals": "PLZ_TRANSLATE You can now make withdrawals and deposits directly from savings!"
 }
