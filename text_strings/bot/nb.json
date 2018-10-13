@@ -249,5 +249,6 @@
   "bot_link_invite_someone": "PLZ_TRANSLATE Invite someone",
   "bot_says_like_gimi": "PLZ_TRANSLATE Do you like me and Gimi?",
   "bot_btn_dont_want_to_answer": "PLZ_TRANSLATE I don't want to answer",
-  "bot_btn_done": "PLZ_TRANSLATE Done"
+  "bot_btn_done": "PLZ_TRANSLATE Done",
+  "bot_says_check_money": "PLZ_TRANSLATE Wanna check how much money you've got?"
 }
