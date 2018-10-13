@@ -242,5 +242,7 @@
   "bot_says_wanna_buy_something": "PLZ_CHECK Wanna buy something? Ask one of your grownups to give you your money!",
   "bot_link_check_who_owes_me": "PLZ_CHECK Check who owes me!",
   "bot_says_do_some_chores_to_earn_more": "PLZ_CHECK Do some chores to earn more?",
-  "bot_link_do_chores": "PLZ_CHECK Do chores!"
+  "bot_link_do_chores": "PLZ_CHECK Do chores!",
+  "bot_says_soon_you_get_first_money": "PLZ_CHECK You'll soon get your first money!",
+  "bot_says_check_how_much_you_get": "PLZ_CHECK Wanna check how much you'll get?"
 }
