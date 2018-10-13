@@ -236,5 +236,11 @@
   "bot_says_hi_im_piggy": "PLZ_TRANSLATE Hi! My name is Piggy.",
   "bot_btn_hi_piggy": "PLZ_TRANSLATE Hi Piggy!",
   "bot_says_who_am_i": "PLZ_TRANSLATE I live inside the Gimi app. When I'm not counting your money you can chat with me :) ",
-  "bot_btn_yay": "PLZ_TRANSLATE Yay"
+  "bot_btn_yay": "PLZ_TRANSLATE Yay",
+  "bot_says_cloud_balance": "PLZ_TRANSLATE You've got %1$d %2$d!",
+  "bot_btn_loudly_crying_face": "PLZ_TRANSLATE 😭",
+  "bot_says_wanna_buy_something": "PLZ_TRANSLATE Wanna buy something? Ask one of your grownups to give you your money!",
+  "bot_link_check_who_owes_me": "PLZ_TRANSLATE Check who owes me!",
+  "bot_says_do_some_chores_to_earn_more": "PLZ_TRANSLATE Do some chores to earn more?",
+  "bot_link_do_chores": "PLZ_TRANSLATE Do chores!"
 }
