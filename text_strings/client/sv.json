@@ -1845,5 +1845,8 @@
   "general_featured": "PLZ_CHECK Featured",
   "popular_now": "PLZ_CHECK Popular now",
   "about_education_button": "PLZ_CHECK About",
-  "autumn_feature_text": "PLZ_CHECK Autumn inspiration"
+  "autumn_feature_text": "PLZ_CHECK Autumn inspiration",
+  "gimi_rating_1": "PLZ_CHECK No",
+  "gimi_rating_3": "PLZ_CHECK Sort of",
+  "gimi_rating_5": "PLZ_CHECK Love you!"
 }

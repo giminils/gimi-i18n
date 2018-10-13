@@ -244,5 +244,10 @@
   "bot_says_do_some_chores_to_earn_more": "Do some chores to earn more?",
   "bot_link_do_chores": "Do chores!",
   "bot_says_soon_you_get_first_money": "You'll soon get your first money!",
-  "bot_says_check_how_much_you_get": "Wanna check how much you'll get?"
+  "bot_says_check_how_much_you_get": "Wanna check how much you'll get?",
+  "bot_says_invite_grandparents": "Did you know you can invite grandparents to Gimi? Try it!",
+  "bot_link_invite_someone": "Invite someone",
+  "bot_says_like_gimi": "Do you like me and Gimi?",
+  "bot_btn_dont_want_to_answer": "I don't want to answer",
+  "bot_btn_done": "Done"
 }

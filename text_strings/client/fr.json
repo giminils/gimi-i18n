@@ -1845,5 +1845,8 @@
   "general_featured": "PLZ_TRANSLATE Featured",
   "popular_now": "PLZ_TRANSLATE Popular now",
   "about_education_button": "PLZ_TRANSLATE About",
-  "autumn_feature_text": "PLZ_TRANSLATE Autumn inspiration"
+  "autumn_feature_text": "PLZ_TRANSLATE Autumn inspiration",
+  "gimi_rating_1": "PLZ_TRANSLATE No",
+  "gimi_rating_3": "PLZ_TRANSLATE Sort of",
+  "gimi_rating_5": "PLZ_TRANSLATE Love you!"
 }
