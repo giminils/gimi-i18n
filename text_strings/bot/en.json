@@ -250,5 +250,8 @@
   "bot_says_like_gimi": "Do you like me and Gimi?",
   "bot_btn_dont_want_to_answer": "I don't want to answer",
   "bot_btn_done": "Done",
-  "bot_says_check_money": "Wanna check how much money you've got?"
+  "bot_says_check_money": "Wanna check how much money you've got?",
+  "bot_says_do_card_test": "Wanna do the Gimi card test?",
+  "bot_link_do_card_test": "Do card test",
+  "bot_says_do_card_test_later": "Ok maybe another day :)"
 }
