@@ -253,5 +253,6 @@
   "bot_says_check_money": "Wanna check how much money you've got?",
   "bot_says_do_card_test": "Wanna do the Gimi card test?",
   "bot_link_do_card_test": "Do card test",
-  "bot_says_do_card_test_later": "Ok maybe another day :)"
+  "bot_says_do_card_test_later": "Ok maybe another day :)",
+  "bot_btn_hi_there_excl": "Hi there!"
 }

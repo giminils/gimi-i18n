@@ -253,5 +253,6 @@
   "bot_says_check_money": "PLZ_CHECK Wanna check how much money you've got?",
   "bot_says_do_card_test": "PLZ_CHECK Wanna do the Gimi card test?",
   "bot_link_do_card_test": "PLZ_CHECK Do card test",
-  "bot_says_do_card_test_later": "PLZ_CHECK Ok maybe another day :)"
+  "bot_says_do_card_test_later": "PLZ_CHECK Ok maybe another day :)",
+  "bot_btn_hi_there_excl": "PLZ_CHECK Hi there!"
 }
