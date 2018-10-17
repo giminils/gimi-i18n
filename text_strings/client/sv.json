@@ -1858,5 +1858,6 @@
   "connect_with_email_desc": "PLZ_CHECK If the child does not have a phone number",
   "kid_recieved_money_go_to_account": "PLZ_CHECK Go to account",
   "kid_recieved_money_title": "PLZ_CHECK You recieved money!",
-  "connect_with_email_title": "PLZ_CHECK Type an email you want to connect to"
+  "connect_with_email_title": "PLZ_CHECK Type an email you want to connect to",
+  "card_coming_kid_home_item": "PLZ_CHECK Card is on it's way!"
 }
