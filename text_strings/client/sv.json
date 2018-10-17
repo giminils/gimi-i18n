@@ -1856,7 +1856,7 @@
   "how_do_you_want_to_connect": "PLZ_CHECK How do you want to want to connect?",
   "connect_with_qr_desc": "PLZ_CHECK If you’re close to each other!",
   "connect_with_email_desc": "PLZ_CHECK If the child does not have a phone number",
-  "connect_with_email_title": "PLZ_CHECK Type your kids email",
   "kid_recieved_money_go_to_account": "PLZ_CHECK Go to account",
-  "kid_recieved_money_title": "PLZ_CHECK You recieved money!"
+  "kid_recieved_money_title": "PLZ_CHECK You recieved money!",
+  "connect_with_email_title": "PLZ_CHECK Type an email you want to connect to"
 }
