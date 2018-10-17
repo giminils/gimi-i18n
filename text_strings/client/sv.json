@@ -1851,5 +1851,6 @@
   "gimi_rating_5": "PLZ_CHECK Love you!",
   "savings_account_cloud_help": "PLZ_CHECK *Explain debt from cloud*",
   "connect_without_phone_number": "PLZ_CHECK Invite without phone number",
-  "invite_more_title": "PLZ_CHECK Invite more people!"
+  "invite_more_title": "PLZ_CHECK Invite more people!",
+  "control_phone_no_title": "PLZ_CHECK Please check the phone number"
 }

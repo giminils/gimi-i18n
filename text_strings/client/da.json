@@ -1851,5 +1851,6 @@
   "gimi_rating_5": "PLZ_TRANSLATE Love you!",
   "savings_account_cloud_help": "PLZ_TRANSLATE *Explain debt from cloud*",
   "connect_without_phone_number": "PLZ_TRANSLATE Invite without phone number",
-  "invite_more_title": "PLZ_TRANSLATE Invite more people!"
+  "invite_more_title": "PLZ_TRANSLATE Invite more people!",
+  "control_phone_no_title": "PLZ_TRANSLATE Please check the phone number"
 }
