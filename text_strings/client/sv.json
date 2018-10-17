@@ -1852,5 +1852,9 @@
   "savings_account_cloud_help": "PLZ_CHECK *Explain debt from cloud*",
   "connect_without_phone_number": "PLZ_CHECK Invite without phone number",
   "invite_more_title": "PLZ_CHECK Invite more people!",
-  "control_phone_no_title": "PLZ_CHECK Please check the phone number"
+  "control_phone_no_title": "PLZ_CHECK Please check the phone number",
+  "how_do_you_want_to_connect": "PLZ_CHECK How do you want to want to connect?",
+  "connect_with_qr_desc": "PLZ_CHECK If you’re close to each other!",
+  "connect_with_email_desc": "PLZ_CHECK If the child does not have a phone number",
+  "connect_with_email_title": "PLZ_CHECK Type your kids email"
 }

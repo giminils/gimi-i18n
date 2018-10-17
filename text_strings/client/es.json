@@ -1852,5 +1852,9 @@
   "savings_account_cloud_help": "PLZ_TRANSLATE *Explain debt from cloud*",
   "connect_without_phone_number": "PLZ_TRANSLATE Invite without phone number",
   "invite_more_title": "PLZ_TRANSLATE Invite more people!",
-  "control_phone_no_title": "PLZ_TRANSLATE Please check the phone number"
+  "control_phone_no_title": "PLZ_TRANSLATE Please check the phone number",
+  "how_do_you_want_to_connect": "PLZ_TRANSLATE How do you want to want to connect?",
+  "connect_with_qr_desc": "PLZ_TRANSLATE If you’re close to each other!",
+  "connect_with_email_desc": "PLZ_TRANSLATE If the child does not have a phone number",
+  "connect_with_email_title": "PLZ_TRANSLATE Type your kids email"
 }
