@@ -270,5 +270,12 @@
   "bot_btn_loads": "PLZ_TRANSLATE Loads",
   "bot_says_let_them_know": "PLZ_TRANSLATE What are you waiting for? Let them know! ❤️",
   "bot_says_really_that_sucks": "PLZ_TRANSLATE Really? That sucks. I hope things get better ❤️",
-  "bot_btn_ok_short": "PLZ_TRANSLATE Ok"
+  "bot_btn_ok_short": "PLZ_TRANSLATE Ok",
+  "bot_says_main_hand": "PLZ_TRANSLATE Are you left-handed or right-handed?",
+  "bot_btn_right": "PLZ_TRANSLATE Right",
+  "bot_btn_left": "PLZ_TRANSLATE Left",
+  "bot_btn_both": "PLZ_TRANSLATE Both",
+  "bot_says_use_left_hand": "PLZ_TRANSLATE Only use your left hand today and have fun with the feeling of clumsiness!",
+  "bot_says_use_right_hand": "PLZ_TRANSLATE Only use your right hand today and have fun with the feeling of clumsiness!",
+  "bot_says_wow_so_cool": "PLZ_TRANSLATE Ok wow! That's soooooo cool!"
 }

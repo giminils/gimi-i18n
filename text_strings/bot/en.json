@@ -270,5 +270,12 @@
   "bot_btn_loads": "Loads",
   "bot_says_let_them_know": "What are you waiting for? Let them know! ❤️",
   "bot_says_really_that_sucks": "Really? That sucks. I hope things get better ❤️",
-  "bot_btn_ok_short": "Ok"
+  "bot_btn_ok_short": "Ok",
+  "bot_says_main_hand": "Are you left-handed or right-handed?",
+  "bot_btn_right": "Right",
+  "bot_btn_left": "Left",
+  "bot_btn_both": "Both",
+  "bot_says_use_left_hand": "Only use your left hand today and have fun with the feeling of clumsiness!",
+  "bot_says_use_right_hand": "Only use your right hand today and have fun with the feeling of clumsiness!",
+  "bot_says_wow_so_cool": "Ok wow! That's soooooo cool!"
 }

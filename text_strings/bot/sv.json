@@ -270,5 +270,12 @@
   "bot_btn_loads": "PLZ_CHECK Loads",
   "bot_says_let_them_know": "PLZ_CHECK What are you waiting for? Let them know! ❤️",
   "bot_says_really_that_sucks": "PLZ_CHECK Really? That sucks. I hope things get better ❤️",
-  "bot_btn_ok_short": "PLZ_CHECK Ok"
+  "bot_btn_ok_short": "PLZ_CHECK Ok",
+  "bot_says_main_hand": "PLZ_CHECK Are you left-handed or right-handed?",
+  "bot_btn_right": "PLZ_CHECK Right",
+  "bot_btn_left": "PLZ_CHECK Left",
+  "bot_btn_both": "PLZ_CHECK Both",
+  "bot_says_use_left_hand": "PLZ_CHECK Only use your left hand today and have fun with the feeling of clumsiness!",
+  "bot_says_use_right_hand": "PLZ_CHECK Only use your right hand today and have fun with the feeling of clumsiness!",
+  "bot_says_wow_so_cool": "PLZ_CHECK Ok wow! That's soooooo cool!"
 }
