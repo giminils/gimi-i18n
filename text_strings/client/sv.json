@@ -1175,7 +1175,7 @@
   "request_permission_title_photo": "Saknar åtkomst till bilder",
   "revoke_permission_camera": "Är du säker på att du vill ta bort kameratillstånd",
   "revoke_permission_photo": "Är du säker på att du vill ta bort fotolicens",
-  "revoke_permission_notifications": "Är du säker på att du vill ta bort anmälningsbehörighet",
+  "revoke_permission_notifications": "Är du säker på att du vill ta bort push notiser?",
   "invitation_error": "Problem med att koppla ihop...",
   "invitation_error_mesasge": "Vi kunde inte koppla ihop dig med %1$d",
   "my_kids": "Barn",
