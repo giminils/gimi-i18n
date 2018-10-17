@@ -265,5 +265,10 @@
   "bot_btn_red_heart": "❤️",
   "bot_says_give_compliment": "Give someone a compliment today!",
   "bot_says_you_are_nice": "You're a very nice person!",
-  "bot_btn_thanks_short": "Thanks"
+  "bot_btn_thanks_short": "Thanks",
+  "bot_says_something_you_love_about_family": "Can you think of something you love about your family?",
+  "bot_btn_loads": "Loads",
+  "bot_says_let_them_know": "What are you waiting for? Let them know! ❤️",
+  "bot_says_really_that_sucks": "Really? That sucks. I hope things get better ❤️",
+  "bot_btn_ok_short": "Ok"
 }
