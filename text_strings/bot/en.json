@@ -262,5 +262,8 @@
   "bot_says_my_favorite_too": "It's my favorite too!",
   "bot_btn_great_taste_excl": "Great taste!",
   "bot_says_spread_the_love": "Spread the love!",
-  "bot_btn_red_heart": "❤️"
+  "bot_btn_red_heart": "❤️",
+  "bot_says_give_compliment": "Give someone a compliment today!",
+  "bot_says_you_are_nice": "You're a very nice person!",
+  "bot_btn_thanks_short": "Thanks"
 }

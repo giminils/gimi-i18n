@@ -262,5 +262,8 @@
   "bot_says_my_favorite_too": "PLZ_CHECK It's my favorite too!",
   "bot_btn_great_taste_excl": "PLZ_CHECK Great taste!",
   "bot_says_spread_the_love": "PLZ_CHECK Spread the love!",
-  "bot_btn_red_heart": "PLZ_CHECK ❤️"
+  "bot_btn_red_heart": "PLZ_CHECK ❤️",
+  "bot_says_give_compliment": "PLZ_CHECK Give someone a compliment today!",
+  "bot_says_you_are_nice": "PLZ_CHECK You're a very nice person!",
+  "bot_btn_thanks_short": "PLZ_CHECK Thanks"
 }
