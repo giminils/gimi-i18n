@@ -254,5 +254,13 @@
   "bot_says_do_card_test": "PLZ_CHECK Wanna do the Gimi card test?",
   "bot_link_do_card_test": "PLZ_CHECK Do card test",
   "bot_says_do_card_test_later": "PLZ_CHECK Ok maybe another day :)",
-  "bot_btn_hi_there_excl": "PLZ_CHECK Hi there!"
+  "bot_btn_hi_there_excl": "PLZ_CHECK Hi there!",
+  "bot_says_favorite_emoji": "PLZ_CHECK Which of these emojis do you like the most?",
+  "bot_btn_money_mouth_face": "PLZ_CHECK 🤑",
+  "bot_btn_smiling_face_with_hearth_eyes": "PLZ_CHECK 😍",
+  "bot_says_most_popular_emoji": "PLZ_CHECK You're not alone! Some people say it's the most popular emoji in the world!",
+  "bot_says_my_favorite_too": "PLZ_CHECK It's my favorite too!",
+  "bot_btn_great_taste_excl": "PLZ_CHECK Great taste!",
+  "bot_says_spread_the_love": "PLZ_CHECK Spread the love!",
+  "bot_btn_red_heart": "PLZ_CHECK ❤️"
 }
