@@ -1850,5 +1850,6 @@
   "gimi_rating_3": "PLZ_CHECK Sort of",
   "gimi_rating_5": "PLZ_CHECK Love you!",
   "savings_account_cloud_help": "PLZ_CHECK *Explain debt from cloud*",
-  "connect_without_phone_number": "PLZ_CHECK Invite without phone number"
+  "connect_without_phone_number": "PLZ_CHECK Invite without phone number",
+  "invite_more_title": "PLZ_CHECK Invite more people!"
 }
