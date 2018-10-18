@@ -14,9 +14,20 @@ export default [
         ...defaultChapter,
         chapterName: 'Saving for dummies',
         titleLangKey: 'save_chapter_1',
-        content: [
-
-        ]
+        content: {
+          chapterIntroLangKey: 'save_chapter_1_intro',
+          chapterSessionDescLangKey: 'save_chapter_1_session_desc',
+          slideContent: [
+            {
+              titleLangKey: '',
+              descLangKey: '',
+            }, 
+            {
+              titleLangKey: '',
+              descLangKey: '',
+            }
+          ]
+        },
       },
       {
         ...defaultChapter,
