@@ -19,12 +19,16 @@ export default [
           chapterSessionDescLangKey: 'save_chapter_1_session_desc',
           slideContent: [
             {
-              titleLangKey: '',
-              descLangKey: '',
+              titleLangKey: 'save_chapter_1_step_1_title',
+              descLangKey: 'save_chapter_1_step_1_desc',
             }, 
             {
-              titleLangKey: '',
-              descLangKey: '',
+              titleLangKey: 'save_chapter_1_step_2_title',
+              descLangKey: 'save_chapter_1_step_2_desc',
+            },
+            {
+              titleLangKey: 'save_chapter_1_step_3_title',
+              descLangKey: 'save_chapter_1_step_3_desc',
             }
           ]
         },
