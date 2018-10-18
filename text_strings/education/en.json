@@ -2,7 +2,15 @@
   "course_earn_title": "Earn",
   "course_save_title": "Save",
   "course_spend_title": "Spend",
-  "save_chapter_1": "Saving for dummies",
+  "save_chapter_1": "Intro to interest",
+  "save_chapter_1_intro": "Interest can have a great impact on our personal finances, but the concept is quite hard to grasp. In this session you will introduce the cncept by using a small sweet as a metaphor. You can then proceed to explain how it works in a monetary context and show how the savings bonus work in the app.",
+  "save_chapter_1_desc": "Introduce the concept of interest using a small sweet.",
+  "save_chapter_1_step_1_title": "Make an offer",
+  "save_chapter_1_step_1_desc": "Give your child a sweet and say: 'Don’t eat it for 1 hour and you’ll get one more'.",
+  "save_chapter_1_step_2_title": "Introduce interest",
+  "save_chapter_1_step_2_desc": "Explain that interest is like getting another sweet, but with money. If you save it you'll get more.",
+  "save_chapter_1_step_3_title": "Give an example",
+  "save_chapter_1_step_3_desc": "For instance: 'For every £10 you save you would get 10p extra on Payday'",
   "earn_chapter_1": "Easy cash",
   "spend_chapter_1": "Spending like a pro"
 }
