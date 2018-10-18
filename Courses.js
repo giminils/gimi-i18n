@@ -16,7 +16,7 @@ export default [
         titleLangKey: 'save_chapter_1',
         content: {
           chapterIntroLangKey: 'save_chapter_1_intro',
-          chapterSessionDescLangKey: 'save_chapter_1_session_desc',
+          chapterSessionDescLangKey: 'save_chapter_1_desc',
           slideContent: [
             {
               titleLangKey: 'save_chapter_1_step_1_title',
