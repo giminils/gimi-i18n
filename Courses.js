@@ -54,8 +54,8 @@ export default [
               descLangKey: 'save_chapter_2_step_3_desc',
             },
             {
-              titleLangKey: 'save_chapter_2_step_3_title',
-              descLangKey: 'save_chapter_2_step_3_desc',
+              titleLangKey: 'save_chapter_2_step_4_title',
+              descLangKey: 'save_chapter_2_step_4_desc',
             }
         ]
       }
