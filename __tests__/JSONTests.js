@@ -10,6 +10,7 @@ describe('JSON files', () => {
   templateDirs.forEach((dir) => {
     if (!fs.existsSync(dir)) return
     fs.readdirSync(dir).forEach((file) => {
+      if (file === '.DS_Store') return
       let path = `${dir}/${file}`
       it(`it should have valid JSON for ${path}`, () => {
         let json = fs.readFileSync(path, {encoding: 'utf8'})
