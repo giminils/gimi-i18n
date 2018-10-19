@@ -1862,5 +1862,7 @@
   "card_coming_kid_home_item": "PLZ_TRANSLATE Card is on it's way!",
   "want_to_connect_with_more_family": "PLZ_TRANSLATE Want to connect %1$d with more family members? Invite them here!",
   "control_phone_no_subtitle": "PLZ_TRANSLATE check the format of the phone number",
-  "open_bank_id_info": "PLZ_TRANSLATE You might need to open BankID..."
+  "open_bank_id_info": "PLZ_TRANSLATE You might need to open BankID...",
+  "savings_account_intro_title": "PLZ_TRANSLATE Savings just got an upgrade!",
+  "savings_account_intro_text": "PLZ_TRANSLATE You can now transfer real money to this account, so that %1$d can spend it with the Gimi card."
 }
