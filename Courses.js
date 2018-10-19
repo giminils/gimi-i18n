@@ -20,18 +20,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_1_step_1_title',
-              descLangKey: 'save_chapter_1_step_1_desc',
-            }, 
+              descLangKey: 'save_chapter_1_step_1_desc'
+            },
             {
               titleLangKey: 'save_chapter_1_step_2_title',
-              descLangKey: 'save_chapter_1_step_2_desc',
+              descLangKey: 'save_chapter_1_step_2_desc'
             },
             {
               titleLangKey: 'save_chapter_1_step_3_title',
-              descLangKey: 'save_chapter_1_step_3_desc',
+              descLangKey: 'save_chapter_1_step_3_desc'
             }
           ]
-        },
+        }
       },
       {
         ...defaultChapter,
@@ -43,17 +43,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_2_step_1_title',
-              descLangKey: 'save_chapter_2_step_1_desc',
-            }, 
+              descLangKey: 'save_chapter_2_step_1_desc'
+            },
             {
               titleLangKey: 'save_chapter_2_step_2_title',
-              descLangKey: 'save_chapter_2_step_2_desc',
+              descLangKey: 'save_chapter_2_step_2_desc'
             },
             {
               titleLangKey: 'save_chapter_2_step_3_title',
-              descLangKey: 'save_chapter_2_step_3_desc',
+              descLangKey: 'save_chapter_2_step_3_desc'
             }
-        ]
+          ]
+        }
       }
     ]
   },
