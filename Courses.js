@@ -12,7 +12,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
-        chapterName: 'Saving for dummies',
+        chapterName: 'Intro to interest',
         titleLangKey: 'save_chapter_1',
         content: {
           chapterIntroLangKey: 'save_chapter_1_intro',
@@ -35,10 +35,28 @@ export default [
       },
       {
         ...defaultChapter,
-        chapterName: 'Saving for dummies',
-        titleLangKey: 'save_chapter_1',
-        content: [
-
+        chapterName: 'Cutting back on sweets',
+        titleLangKey: 'save_chapter_2',
+        content: {
+          chapterIntroLangKey: 'save_chapter_2_intro',
+          chapterSessionDescLangKey: 'save_chapter_2_desc',
+          slideContent: [
+            {
+              titleLangKey: 'save_chapter_2_step_1_title',
+              descLangKey: 'save_chapter_2_step_1_desc',
+            }, 
+            {
+              titleLangKey: 'save_chapter_2_step_2_title',
+              descLangKey: 'save_chapter_2_step_2_desc',
+            },
+            {
+              titleLangKey: 'save_chapter_2_step_3_title',
+              descLangKey: 'save_chapter_2_step_3_desc',
+            },
+            {
+              titleLangKey: 'save_chapter_2_step_3_title',
+              descLangKey: 'save_chapter_2_step_3_desc',
+            }
         ]
       }
     ]
