@@ -283,5 +283,15 @@
   "bot_says_many_cats": "PLZ_TRANSLATE There are more than 600 million of them! Do you like cats?",
   "bot_says_like_cats": "PLZ_TRANSLATE Mjau! Me too. But I like pigs more!",
   "bot_says_dislike_cats": "PLZ_TRANSLATE So you're more of a piggy person right?",
-  "bot_btn_love_them": "PLZ_TRANSLATE Love them"
+  "bot_btn_love_them": "PLZ_TRANSLATE Love them",
+  "bot_says_lick_elbow": "PLZ_TRANSLATE Can you lick your elbow?",
+  "bot_says_supposed_to_be_impossible": "PLZ_TRANSLATE Really? It's supposed to be impossible!",
+  "bot_says_no_one_can_impossible": "PLZ_TRANSLATE I don't think anyone can, it's supposed to be impossible!",
+  "bot_says_how_is_your_day": "PLZ_TRANSLATE How's your day?",
+  "bot_btn_great": "PLZ_TRANSLATE Great",
+  "bot_btn_bad": "PLZ_TRANSLATE Bad",
+  "bot_says_makes_me_happy": "PLZ_TRANSLATE Nice! It makes me happy to hear :)",
+  "bot_says_outside_boost_mood": "PLZ_TRANSLATE Try going outside? Sun and fresh air is supposed to boost the mood.",
+  "bot_btn_i_will_try": "PLZ_TRANSLATE I'll try",
+  "bot_btn_smiling_face_with_smiling_eyes": "PLZ_TRANSLATE 😊"
 }
