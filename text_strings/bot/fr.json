@@ -277,5 +277,11 @@
   "bot_btn_both": "PLZ_TRANSLATE Both",
   "bot_says_use_left_hand": "PLZ_TRANSLATE Only use your left hand today and have fun with the feeling of clumsiness!",
   "bot_says_use_right_hand": "PLZ_TRANSLATE Only use your right hand today and have fun with the feeling of clumsiness!",
-  "bot_says_wow_so_cool": "PLZ_TRANSLATE Ok wow! That's soooooo cool!"
+  "bot_says_wow_so_cool": "PLZ_TRANSLATE Ok wow! That's soooooo cool!",
+  "bot_says_most_popular_pets": "PLZ_TRANSLATE Did you know that cats are one of the world's most popular pets?",
+  "bot_btn_mjau": "PLZ_TRANSLATE Mjau",
+  "bot_says_many_cats": "PLZ_TRANSLATE There are more than 600 million of them! Do you like cats?",
+  "bot_says_like_cats": "PLZ_TRANSLATE Mjau! Me too. But I like pigs more!",
+  "bot_says_dislike_cats": "PLZ_TRANSLATE So you're more of a piggy person right?",
+  "bot_btn_love_them": "PLZ_TRANSLATE Love them"
 }
