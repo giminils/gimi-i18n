@@ -293,5 +293,9 @@
   "bot_says_makes_me_happy": "PLZ_TRANSLATE Nice! It makes me happy to hear :)",
   "bot_says_outside_boost_mood": "PLZ_TRANSLATE Try going outside? Sun and fresh air is supposed to boost the mood.",
   "bot_btn_i_will_try": "PLZ_TRANSLATE I'll try",
-  "bot_btn_smiling_face_with_smiling_eyes": "PLZ_TRANSLATE 😊"
+  "bot_btn_smiling_face_with_smiling_eyes": "PLZ_TRANSLATE 😊",
+  "bot_says_tell_coworkers_why": "PLZ_TRANSLATE Oh no... Want to tell my coworkers why?",
+  "bot_says_thanks_letting_me_know": "PLZ_TRANSLATE So not great. But ok. Thanks for letting me know!",
+  "bot_says_wow_thanks": "PLZ_TRANSLATE Wow thanks!",
+  "bot_says_nice_of_you": "PLZ_TRANSLATE That's so nice of you!"
 }
