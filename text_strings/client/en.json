@@ -1158,7 +1158,7 @@
   "old_transaction_to_savings": "From Payday to Savings",
   "old_savings_to_transactional_transaction": "Deposit to Payday",
   "old_transaction_deposit": "Deposit",
-  "old_reverted_allowance_transaction": "Adjustment of allowance",
+  "old_reverted_allowance_transaction": "PLZ_COPY Balance adjustment due to deleted contact",
   "old_reverted_transaction": "Correction of transaction",
   "cloud_created_noti_description_1": "shake it off",
   "cloud_created_noti_description_2": "shake it off",
