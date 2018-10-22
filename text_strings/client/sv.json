@@ -1837,7 +1837,7 @@
   "general_share_it": "PLZ_CHECK Share it",
   "sharing_dream_title": "PLZ_CHECK I reached my dream!",
   "sharing_dream_message": "PLZ_CHECK I saved enough for my dream in the Gimi app!",
-  "entered_pin_too_many_tries": "PLZ_CHECK You tried too many times, try again later.",
+  "entered_pin_too_many_tries": "Fel kod 3 gånger! Nu får du vänta en timme innan du kan försöka igen.",
   "general_remove_craving": "PLZ_CHECK Remove craving",
   "kid_notification_new_dream_stats": "PLZ_CHECK Check out how much closer your will be to reaching your dream on next payday!",
   "parent_notification_new_withdrawals": "PLZ_CHECK You can now make withdrawals and deposits directly from savings!",
