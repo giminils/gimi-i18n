@@ -1864,5 +1864,6 @@
   "control_phone_no_subtitle": "check the format of the phone number",
   "open_bank_id_info": "You might need to open BankID...",
   "savings_account_intro_title": "Savings just got an upgrade!",
-  "savings_account_intro_text": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card."
+  "savings_account_intro_text": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card.",
+  "phone_verification_sent_to_kid_phone": "Verification code is sent to your childs new phone number"
 }
