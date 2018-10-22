@@ -1170,7 +1170,7 @@
   "request_permission_title_microphone": "The app doesn't have permission to access the microphone",
   "request_permission_microphone": "The app requests access to the microphone to allow you to take photos and send them as image proof for chores performed",
   "revoke_permission_microphone": "Are you sure you want to enable access to the microphone?",
-  "revoke_permission_title": "Removing permissions can lead to events beyond our control",
+  "revoke_permission_title": "PLZ_COPY Remove permission?",
   "request_permission_photo": "The app requests access to the gallery so that you can add picures to dreams and chores, and update your profile picture",
   "request_permission_title_photo": "The app doesn't have persmission to access the gallery",
   "revoke_permission_camera": "Are you sure you want to enable access to the camera?",
