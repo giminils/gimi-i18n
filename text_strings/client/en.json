@@ -1865,5 +1865,9 @@
   "open_bank_id_info": "You might need to open BankID...",
   "savings_account_intro_title": "Savings just got an upgrade!",
   "savings_account_intro_text": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card.",
-  "phone_verification_sent_to_kid_phone": "Verification code is sent to your childs new phone number"
+  "phone_verification_sent_to_kid_phone": "Verification code is sent to your childs new phone number",
+  "education_title": "Education",
+  "education_n_out_of_n_completed": "%1$d/%2$d completed",
+  "education_chapter_lesson_title": "The task",
+  "education_chapter_lesson_slider_title": "Discuss"
 }
