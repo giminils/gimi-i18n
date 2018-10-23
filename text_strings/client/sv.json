@@ -795,7 +795,7 @@
   "general_country": "Land",
   "general_sweden": "Sverige",
   "question_address_not_correct": "Stämmer inte adressen?",
-  "choose_pin_code": "Välj lösenkod",
+  "choose_pin_code": "Välj en lösenkod till appen",
   "i_accept_the_user_terms": "jag accepterar användarvillkoren",
   "order_card_done_payment_title": "Betalningen har gått igenom!",
   "order_card_done_payment_description": "Pengarna finns på barnets konto direkt.",
