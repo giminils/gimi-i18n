@@ -795,7 +795,7 @@
   "general_country": "Country",
   "general_sweden": "Sweden",
   "question_address_not_correct": "address not correct?",
-  "choose_pin_code": "Choose passcode",
+  "choose_pin_code": "PLZ_COPY Choose an app code",
   "i_accept_the_user_terms": "I accept the user terms",
   "order_card_done_payment_title": "Payment went through!",
   "order_card_done_payment_description": "The money will be added directly to the child's account.",
