@@ -12,6 +12,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
+        chapterID: 'save_chapter_1',
         chapterName: 'Intro to interest',
         titleLangKey: 'save_chapter_1',
         content: {
@@ -35,6 +36,7 @@ export default [
       },
       {
         ...defaultChapter,
+        chapterID: 'save_chapter_2',
         chapterName: 'Cutting back on sweets',
         titleLangKey: 'save_chapter_2',
         content: {
@@ -66,6 +68,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
+        chapterID: 'earn_chapter_1',
         chapterName: 'Easy cash',
         titleLangKey: 'earn_chapter_1',
         content: [
@@ -82,6 +85,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
+        chapterID: 'spend_chapter_1',
         chapterName: 'Spend like rich kids',
         titleLangKey: 'spend_chapter_1',
         content: [
