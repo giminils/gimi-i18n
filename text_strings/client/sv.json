@@ -1869,5 +1869,7 @@
   "education_title": "PLZ_CHECK Education",
   "education_n_out_of_n_completed": "PLZ_CHECK %1$d/%2$d completed",
   "education_chapter_lesson_title": "PLZ_CHECK The task",
-  "education_chapter_lesson_slider_title": "PLZ_CHECK Discuss"
+  "education_chapter_lesson_slider_title": "PLZ_CHECK Discuss",
+  "new_connection_infoview_title": "PLZ_CHECK You have a new connection! 😍",
+  "new_connection_infoview_text": "PLZ_CHECK %1$d accpeted your invitation!"
 }
