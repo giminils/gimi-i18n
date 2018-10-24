@@ -1749,7 +1749,7 @@
   "kid_intro_money_desc": "Dina supporters ska betala dig det du har sparat. När du sparar växer dina pengar! Vill du köpa något? Be dina supporters betala!",
   "kyc_method_instantor_title": "Använd mobilt BankID med Instantor",
   "kyc_method_uc_title": "Använd mobilt BankID med UC",
-  "kyc_method_uc_subtitle": "PLZ_CHECK This is not a credit report",
+  "kyc_method_uc_subtitle": "Detta är inte en kreditupplysning",
   "kyc_method_id_card_title": "Scanna ditt ID-kort",
   "kyc_method_picker_subtitle": "Du kan välja hur!",
   "kid_next_payment": "Payday",
