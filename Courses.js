@@ -221,6 +221,90 @@ export default [
             }
           ]
         }
+      },
+      {
+      ...defaultChapter,
+        chapterID: 'spend_chapter_2',
+        chapterName: 'Craft a shoppig list',
+        titleLangKey: 'spend_chapter_2',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_2_intro',
+          chapterSessionDescLangKey: 'spend_chapter_2_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_2_step_1_title',
+              descLangKey: 'spend_chapter_2_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_2_step_2_title',
+              descLangKey: 'spend_chapter_2_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_2_step_3_title',
+              descLangKey: 'spend_chapter_2_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_2_step_4_title',
+              descLangKey: 'spend_chapter_2_step_4_desc'
+            }
+          ]
+        }
+      },
+      {
+      ...defaultChapter,
+        chapterID: 'spend_chapter_3',
+        chapterName: 'Shopping for shoes',
+        titleLangKey: 'spend_chapter_3',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_3_intro',
+          chapterSessionDescLangKey: 'spend_chapter_3_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_3_step_1_title',
+              descLangKey: 'spend_chapter_3_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_3_step_2_title',
+              descLangKey: 'spend_chapter_3_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_3_step_3_title',
+              descLangKey: 'spend_chapter_3_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_3_step_4_title',
+              descLangKey: 'spend_chapter_3_step_4_desc'
+            }
+          ]
+        }
+      },
+      {
+      ...defaultChapter,
+        chapterID: 'spend_chapter_4',
+        chapterName: 'A sustainable mindset',
+        titleLangKey: 'spend_chapter_4',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_4_intro',
+          chapterSessionDescLangKey: 'spend_chapter_4_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_4_step_1_title',
+              descLangKey: 'spend_chapter_4_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_4_step_2_title',
+              descLangKey: 'spend_chapter_4_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_4_step_3_title',
+              descLangKey: 'spend_chapter_4_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_4_step_4_title',
+              descLangKey: 'spend_chapter_4_step_4_desc'
+            }
+          ]
+        }
       }
     ]
   }
