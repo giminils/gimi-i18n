@@ -160,7 +160,7 @@ export default [
       },
       {
         ...defaultChapter,
-        chapterID: 'earn_chapter_2',
+        chapterID: 'earn_chapter_3',
         chapterName: 'Declutter challenge',
         titleLangKey: 'earn_chapter_3',
         content: {
