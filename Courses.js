@@ -196,13 +196,30 @@ export default [
     chapters: [
       {
         ...defaultChapter,
-        chapterID: '',
-        chapterName: '',
-        titleLangKey: '',
+        chapterID: 'spend_chapter_1',
+        chapterName: 'Family fun on a budget',
+        titleLangKey: 'spend_chapter_1',
         content: {
-          chapterIntroLangKey: '',
-          chapterSessionDescLangKey: '',
-          slideContent: []
+          chapterIntroLangKey: 'spend_chapter_1_intro',
+          chapterSessionDescLangKey: 'spend_chapter_1_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_1_step_1_title',
+              descLangKey: 'spend_chapter_1_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_1_step_2_title',
+              descLangKey: 'spend_chapter_1_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_1_step_3_title',
+              descLangKey: 'spend_chapter_1_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_1_step_4_title',
+              descLangKey: 'spend_chapter_1_step_4_desc'
+            }
+          ]
         }
       }
     ]
