@@ -101,11 +101,30 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'earn_chapter_1',
-        chapterName: 'Easy cash',
+        chapterName: 'Solving problems',
         titleLangKey: 'earn_chapter_1',
-        content: [
-
-        ]
+        content: {
+          chapterIntroLangKey: 'earn_chapter_1_intro',
+          chapterSessionDescLangKey: 'earn_chapter_1_desc',
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_1_step_1_title',
+              descLangKey: 'earn_chapter_1_step_1_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_1_step_2_title',
+              descLangKey: 'earn_chapter_1_step_2_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_1_step_3_title',
+              descLangKey: 'earn_chapter_1_step_3_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_1_step_4_title',
+              descLangKey: 'earn_chapter_1_step_4_desc'
+            }
+          ]
+        }
       }
     ]
   },
