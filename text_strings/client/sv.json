@@ -1158,7 +1158,7 @@
   "old_transaction_to_savings": "Sparat av Payday",
   "old_savings_to_transactional_transaction": "Topup av Payday",
   "old_transaction_deposit": "Insättning",
-  "old_reverted_allowance_transaction": "PLZ_CHECK Balance adjustment due to deleted contact",
+  "old_reverted_allowance_transaction": "Justerat saldo på grund av borttagen kontakt",
   "old_reverted_transaction": "Korrigering av transaktion",
   "cloud_created_noti_description_1": "shake it off",
   "cloud_created_noti_description_2": "shake it off",
