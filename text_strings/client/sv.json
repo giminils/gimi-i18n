@@ -1872,5 +1872,7 @@
   "education_chapter_lesson_slider_title": "PLZ_CHECK Discuss",
   "new_connection_infoview_title": "PLZ_CHECK You have a new connection! 😍",
   "new_connection_infoview_text": "PLZ_CHECK %1$d accpeted your invitation!",
-  "education_more_chapters_coming_soon": "PLZ_CHECK More coming soon!"
+  "education_more_chapters_coming_soon": "PLZ_CHECK More coming soon!",
+  "spending_categories_item_explainer_kid": "PLZ_CHECK You have spent %1$d on %2$d this year",
+  "spending_categories_item_explainer_parent": "PLZ_CHECK %1$d have spent %2$d on %3$d this year"
 }
