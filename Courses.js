@@ -89,38 +89,6 @@ export default [
             }
           ]
         }
-      },
-      {
-        ...defaultChapter,
-        chapterID: 'earn_chapter_2',
-        chapterName: 'Selling cookies',
-        titleLangKey: 'earn_chapter_2',
-        content: {
-          chapterIntroLangKey: 'earn_chapter_2_intro',
-          chapterSessionDescLangKey: 'earn_chapter_2_desc',
-          slideContent: [
-            {
-              titleLangKey: 'earn_chapter_2_step_1_title',
-              descLangKey: 'earn_chapter_2_step_1_desc'
-            },
-            {
-              titleLangKey: 'earn_chapter_2_step_2_title',
-              descLangKey: 'earn_chapter_2_step_2_desc'
-            },
-            {
-              titleLangKey: 'earn_chapter_2_step_3_title',
-              descLangKey: 'earn_chapter_2_step_3_desc'
-            },
-            {
-              titleLangKey: 'earn_chapter_2_step_4_title',
-              descLangKey: 'earn_chapter_2_step_4_desc'
-            },
-            {
-              titleLangKey: 'earn_chapter_2_step_5_title',
-              descLangKey: 'earn_chapter_2_step_5_desc'
-            }
-          ]
-        }
       }
     ]
   },
@@ -154,6 +122,66 @@ export default [
             {
               titleLangKey: 'earn_chapter_1_step_4_title',
               descLangKey: 'earn_chapter_1_step_4_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        chapterID: 'earn_chapter_2',
+        chapterName: 'Selling cookies',
+        titleLangKey: 'earn_chapter_2',
+        content: {
+          chapterIntroLangKey: 'earn_chapter_2_intro',
+          chapterSessionDescLangKey: 'earn_chapter_2_desc',
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_2_step_1_title',
+              descLangKey: 'earn_chapter_2_step_1_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_2_step_2_title',
+              descLangKey: 'earn_chapter_2_step_2_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_2_step_3_title',
+              descLangKey: 'earn_chapter_2_step_3_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_2_step_4_title',
+              descLangKey: 'earn_chapter_2_step_4_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_2_step_5_title',
+              descLangKey: 'earn_chapter_2_step_5_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        chapterID: 'earn_chapter_2',
+        chapterName: 'Declutter challenge',
+        titleLangKey: 'earn_chapter_3',
+        content: {
+          chapterIntroLangKey: 'earn_chapter_3_intro',
+          chapterSessionDescLangKey: 'earn_chapter_3_desc',
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_3_step_1_title',
+              descLangKey: 'earn_chapter_3_step_1_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_3_step_2_title',
+              descLangKey: 'earn_chapter_3_step_2_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_3_step_3_title',
+              descLangKey: 'earn_chapter_3_step_3_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_3_step_4_title',
+              descLangKey: 'earn_chapter_3_step_4_desc'
             }
           ]
         }
