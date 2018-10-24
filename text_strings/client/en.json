@@ -1875,5 +1875,12 @@
   "education_more_chapters_coming_soon": "More coming soon!",
   "spending_categories_item_explainer_kid": "You have spent %1$d on %2$d this year",
   "spending_categories_item_explainer_parent": "%1$d have spent %2$d on %3$d this year",
-  "premium_section_setup": "Premium"
+  "premium_section_setup": "Premium",
+  "about_gimi_title": "This is Gimi Education",
+  "about_gimi_headline_1": "About ed. headline 1",
+  "about_gimi_section_1": "About Education text 1",
+  "about_gimi_headline_2": "About ed. headline 2",
+  "about_gimi_section_2": "About Education text 2",
+  "about_gimi_headline_3": "About ed. headline 3",
+  "about_gimi_section_3": "About Education text 3"
 }
