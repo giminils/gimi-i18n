@@ -168,12 +168,14 @@ export default [
     chapters: [
       {
         ...defaultChapter,
-        chapterID: 'spend_chapter_1',
-        chapterName: 'Spend like rich kids',
-        titleLangKey: 'spend_chapter_1',
-        content: [
-
-        ]
+        chapterID: '',
+        chapterName: '',
+        titleLangKey: '',
+        content: {
+          chapterIntroLangKey: '',
+          chapterSessionDescLangKey: '',
+          slideContent: []
+        }
       }
     ]
   }
