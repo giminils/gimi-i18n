@@ -1170,7 +1170,7 @@
   "request_permission_title_microphone": "Saknar åtkomst till mikrofonen",
   "request_permission_microphone": "Appen begär åtkomst till mikrofonen för att du ska kunna filma och skicka det som bildbevis för utförda uppgifter",
   "revoke_permission_microphone": "Är du säker på att du vill ta bort mikrofonstillstånd",
-  "revoke_permission_title": "PLZ_CHECK Remove permission?",
+  "revoke_permission_title": "Dra tillbaka åtkomst?",
   "request_permission_photo": "Appen begär åtkomst för att du ska kunna lägga till bilder från ditt bibliotek vid sparmål, uppgifter eller uppdatering av profilbilder.",
   "request_permission_title_photo": "Saknar åtkomst till bilder",
   "revoke_permission_camera": "Är du säker på att du vill ta bort kameratillstånd",
