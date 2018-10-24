@@ -1872,5 +1872,6 @@
   "education_chapter_lesson_slider_title": "Discuss",
   "new_connection_infoview_title": "You have a new connection! 😍",
   "new_connection_infoview_text": "%1$d accpeted your invitation!",
-  "spending_categories_item_explainer": "You have spent %1$d on %2$d this year"
+  "spending_categories_item_explainer": "You have spent %1$d on %2$d this year",
+  "education_more_chapters_coming_soon": "More coming soon!"
 }
