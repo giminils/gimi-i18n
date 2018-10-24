@@ -190,6 +190,6 @@ export let getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfl
 
 export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
 
-export let getCourses = (): Array<EducationCourse> => Courses
+export let getCourses = () => Courses
 
 export let getChapter = () => Courses
