@@ -1882,5 +1882,6 @@
   "about_gimi_headline_2": "PLZ_CHECK About ed. headline 2",
   "about_gimi_section_2": "PLZ_CHECK About Education text 2",
   "about_gimi_headline_3": "PLZ_CHECK About ed. headline 3",
-  "about_gimi_section_3": "PLZ_CHECK About Education text 3"
+  "about_gimi_section_3": "PLZ_CHECK About Education text 3",
+  "child_ready_for_card_confirmation_message": "PLZ_CHECK %1$d is ready for card!"
 }
