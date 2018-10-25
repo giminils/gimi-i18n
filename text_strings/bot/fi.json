@@ -297,5 +297,12 @@
   "bot_says_tell_coworkers_why": "PLZ_TRANSLATE Oh no... Want to tell my coworkers why?",
   "bot_says_thanks_letting_me_know": "PLZ_TRANSLATE So not great. But ok. Thanks for letting me know!",
   "bot_says_wow_thanks": "PLZ_TRANSLATE Wow thanks!",
-  "bot_says_nice_of_you": "PLZ_TRANSLATE That's so nice of you!"
+  "bot_says_nice_of_you": "PLZ_TRANSLATE That's so nice of you!",
+  "bot_says_love_your_flaws": "PLZ_TRANSLATE Love your flaws. Own your quirks.",
+  "bot_btn_two_hearths": "PLZ_TRANSLATE 💕",
+  "bot_says_like_ariana_grande": "PLZ_TRANSLATE Do you like Ariana Grande?",
+  "bot_says_ariana_favorite_song": "PLZ_TRANSLATE Do you have a favorite song by her?",
+  "bot_says_why_not_listen": "PLZ_TRANSLATE Well, why aren't you listening to it right now?",
+  "bot_btn_great_idea": "PLZ_TRANSLATE Great idea",
+  "bot_says_no_tears_left_to_cry": "PLZ_TRANSLATE I really like 'No tears left to cry'. You should listen to it!"
 }

@@ -297,5 +297,12 @@
   "bot_says_tell_coworkers_why": "Ånej... Vill du berätta för mina kollegor vad som kan bli bättre?",
   "bot_says_thanks_letting_me_know": "Så inte superbra men helt ok... Tack för att du berättade!",
   "bot_says_wow_thanks": "Wow tack!",
-  "bot_says_nice_of_you": "Så himla snällt!"
+  "bot_says_nice_of_you": "Så himla snällt!",
+  "bot_says_love_your_flaws": "PLZ_CHECK Love your flaws. Own your quirks.",
+  "bot_btn_two_hearths": "PLZ_CHECK 💕",
+  "bot_says_like_ariana_grande": "PLZ_CHECK Do you like Ariana Grande?",
+  "bot_says_ariana_favorite_song": "PLZ_CHECK Do you have a favorite song by her?",
+  "bot_says_why_not_listen": "PLZ_CHECK Well, why aren't you listening to it right now?",
+  "bot_btn_great_idea": "PLZ_CHECK Great idea",
+  "bot_says_no_tears_left_to_cry": "PLZ_CHECK I really like 'No tears left to cry'. You should listen to it!"
 }
