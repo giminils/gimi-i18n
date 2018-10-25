@@ -1891,5 +1891,6 @@
   "deposit_permission_req_sent_confirmation": "PLZ_TRANSLATE Request sent!",
   "deposit_permission_req_approved_confirmation": "PLZ_TRANSLATE Approved!",
   "kid_notification_new_cravings": "PLZ_TRANSLATE Make a list of your cravings!",
-  "parent_notification_new_cravings": "PLZ_TRANSLATE Children can now have more than just 1 dream! "
+  "parent_notification_new_cravings": "PLZ_TRANSLATE Children can now have more than just 1 dream! ",
+  "order_gimi_card": "PLZ_TRANSLATE Order the Gimi card"
 }
