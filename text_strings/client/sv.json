@@ -1853,7 +1853,7 @@
   "connect_without_phone_number": "Bjud in utan telefonnummer",
   "invite_more_title": "Bjud in fler!",
   "control_phone_no_title": "Vänligen kontrollera telefonnummer",
-  "how_do_you_want_to_connect": "Hur vill du bjuda in?",
+  "how_do_you_want_to_connect": "PLZ_CHECK How do you want to invite?",
   "connect_with_qr_desc": "Om ni är i närheten av varandra!",
   "connect_with_email_desc": "PLZ_CHECK If the user you're inviting does not have a phone number",
   "kid_recieved_money_go_to_account": "PLZ_CHECK Go to account",
