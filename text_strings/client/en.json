@@ -1858,7 +1858,7 @@
   "connect_with_email_desc": "If the user you're inviting does not have a phone number",
   "kid_recieved_money_go_to_account": "Go to account",
   "kid_recieved_money_title": "You recieved money!",
-  "connect_with_email_title": "Type the email you want to send the invite to",
+  "connect_with_email_title": "PLZ_COPY Type the email you want to send the invite to",
   "card_coming_kid_home_item": "Card is on it's way!",
   "want_to_connect_with_more_family": "Want to connect %1$d with more family members? Invite them here!",
   "control_phone_no_subtitle": "check the format of the phone number",
