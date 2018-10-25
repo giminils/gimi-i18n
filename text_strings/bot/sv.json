@@ -304,5 +304,16 @@
   "bot_says_ariana_favorite_song": "PLZ_CHECK Do you have a favorite song by her?",
   "bot_says_why_not_listen": "PLZ_CHECK Well, why aren't you listening to it right now?",
   "bot_btn_great_idea": "PLZ_CHECK Great idea",
-  "bot_says_no_tears_left_to_cry": "PLZ_CHECK I really like 'No tears left to cry'. You should listen to it!"
+  "bot_says_no_tears_left_to_cry": "PLZ_CHECK I really like 'No tears left to cry'. You should listen to it!",
+  "bot_says_learn_military_secret": "PLZ_CHECK Wanna learn the military secret to faling asleep in 2 minutes?",
+  "bot_says_ok_another_day": "PLZ_CHECK Ok maybe another day!",
+  "bot_btn_absolutely": "PLZ_CHECK Absolutely",
+  "bot_btn_and_then": "PLZ_CHECK And then?",
+  "bot_btn_hehe_thanks": "PLZ_CHECK Hehe ok thanks!",
+  "bot_says_military_secret_step_1": "PLZ_CHECK Step 1: Relax all the muscles in your face",
+  "bot_says_military_secret_step_2": "PLZ_CHECK Step 2: Drop your shoulders and arms as far down as they go",
+  "bot_says_military_secret_step_3": "PLZ_CHECK Step 3: Breathe out, relaxing your chest",
+  "bot_says_military_secret_step_4": "PLZ_CHECK Step 4: Relax your legs, starting from the thighs and working down",
+  "bot_says_military_secret_step_5": "PLZ_CHECK Step 5: Whisper 'don't think, don't think, don't think' over and over again for 10 seconds",
+  "bot_says_still_awake": "PLZ_CHECK Are you still awake??? That was it!"
 }
