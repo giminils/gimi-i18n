@@ -1885,5 +1885,8 @@
   "about_gimi_section_3": "PLZ_TRANSLATE About Education text 3",
   "child_ready_for_card_confirmation_message": "PLZ_TRANSLATE %1$d is ready for card!",
   "premium_intro_passcode_title": "PLZ_TRANSLATE Headline passcode",
-  "premium_intro_passcode_desc_for_kid": "PLZ_TRANSLATE Text about passcode"
+  "premium_intro_passcode_desc_for_kid": "PLZ_TRANSLATE Text about passcode",
+  "request_deposit_permission_popover_title": "PLZ_TRANSLATE You need permission to send money.",
+  "request_deposit_permission_popover_text": "PLZ_TRANSLATE Do you want to ask %1$d for permission to send money to %2$d?",
+  "deposit_permission_req_sent_confirmation": "PLZ_TRANSLATE Request sent!"
 }
