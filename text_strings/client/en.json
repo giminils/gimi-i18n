@@ -1888,5 +1888,6 @@
   "premium_intro_passcode_desc_for_kid": "Text about passcode",
   "request_deposit_permission_popover_title": "You need permission to send money.",
   "request_deposit_permission_popover_text": "Do you want to ask %1$d for permission to send money to %2$d?",
-  "deposit_permission_req_sent_confirmation": "Request sent!"
+  "deposit_permission_req_sent_confirmation": "Request sent!",
+  "deposit_permission_req_approved_confirmation": "Approved!"
 }
