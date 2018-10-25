@@ -178,10 +178,6 @@ export default [
             {
               titleLangKey: 'earn_chapter_3_step_3_title',
               descLangKey: 'earn_chapter_3_step_3_desc'
-            },
-            {
-              titleLangKey: 'earn_chapter_3_step_4_title',
-              descLangKey: 'earn_chapter_3_step_4_desc'
             }
           ]
         }
