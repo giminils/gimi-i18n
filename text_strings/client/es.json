@@ -1889,5 +1889,7 @@
   "request_deposit_permission_popover_title": "PLZ_TRANSLATE You need permission to send money.",
   "request_deposit_permission_popover_text": "PLZ_TRANSLATE Do you want to ask %1$d for permission to send money to %2$d?",
   "deposit_permission_req_sent_confirmation": "PLZ_TRANSLATE Request sent!",
-  "deposit_permission_req_approved_confirmation": "PLZ_TRANSLATE Approved!"
+  "deposit_permission_req_approved_confirmation": "PLZ_TRANSLATE Approved!",
+  "kid_notification_new_cravings": "PLZ_TRANSLATE Make a list of your cravings!",
+  "parent_notification_new_cravings": "PLZ_TRANSLATE Children can now have more than just 1 dream! "
 }

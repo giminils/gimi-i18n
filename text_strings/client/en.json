@@ -1889,5 +1889,7 @@
   "request_deposit_permission_popover_title": "You need permission to send money.",
   "request_deposit_permission_popover_text": "Do you want to ask %1$d for permission to send money to %2$d?",
   "deposit_permission_req_sent_confirmation": "Request sent!",
-  "deposit_permission_req_approved_confirmation": "Approved!"
+  "deposit_permission_req_approved_confirmation": "Approved!",
+  "kid_notification_new_cravings": "Make a list of your cravings!",
+  "parent_notification_new_cravings": "Children can now have more than just 1 dream! "
 }
