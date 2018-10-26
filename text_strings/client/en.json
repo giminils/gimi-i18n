@@ -1892,5 +1892,6 @@
   "deposit_permission_req_approved_confirmation": "Approved!",
   "kid_notification_new_cravings": "Make a list of your cravings!",
   "parent_notification_new_cravings": "Children can now have more than just 1 dream!",
-  "order_gimi_card": "Order the Gimi card"
+  "order_gimi_card": "Order the Gimi card",
+  "beta_tester_event_title": "Bli testpilot för Gimi"
 }

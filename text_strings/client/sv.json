@@ -1892,5 +1892,6 @@
   "deposit_permission_req_approved_confirmation": "Godkänd!",
   "kid_notification_new_cravings": "Gör en lista på det du önskar dig!",
   "parent_notification_new_cravings": "Barn kan nu ha mer än bara 1 dröm! ",
-  "order_gimi_card": "Beställ Gimi-kortet"
+  "order_gimi_card": "Beställ Gimi-kortet",
+  "beta_tester_event_title": "PLZ_CHECK Bli testpilot för Gimi"
 }
