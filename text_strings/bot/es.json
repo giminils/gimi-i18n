@@ -315,5 +315,20 @@
   "bot_says_military_secret_step_3": "PLZ_TRANSLATE Step 3: Breathe out, relaxing your chest",
   "bot_says_military_secret_step_4": "PLZ_TRANSLATE Step 4: Relax your legs, starting from the thighs and working down",
   "bot_says_military_secret_step_5": "PLZ_TRANSLATE Step 5: Whisper 'don't think, don't think, don't think' over and over again for 10 seconds",
-  "bot_says_still_awake": "PLZ_TRANSLATE Are you still awake??? That was it!"
+  "bot_says_still_awake": "PLZ_TRANSLATE Are you still awake??? That was it!",
+  "bot_says_have_own_card": "PLZ_TRANSLATE Do you have your own card to pay with?",
+  "bot_says_rather_have_card_from_gimi": "PLZ_TRANSLATE Coolio! Would you rather have a card from Gimi?",
+  "bot_says_tell_more_soon_cardtest": "PLZ_TRANSLATE OMG I'm so flattered! I hope it will happen some day! Wanna do my card test?",
+  "bot_says_got_it_cardtest_anyway": "PLZ_TRANSLATE Alright! Wanna do my card test? It's fun I promise :)",
+  "bot_says_want_card_from_gimi": "PLZ_TRANSLATE Would you want a card from Gimi?",
+  "bot_btn_yay_excl": "PLZ_TRANSLATE Yay!",
+  "bot_says_payday_amount": "PLZ_TRANSLATE You'll get %1$d %2$d on Payday!",
+  "bot_says_what_you_gonna_do_with_it": "PLZ_TRANSLATE What are you gonna do with it?",
+  "bot_btn_save_all": "PLZ_TRANSLATE Save all",
+  "bot_btn_spend_all": "PLZ_TRANSLATE Spend all",
+  "bot_btn_a_bit_of_both": "PLZ_TRANSLATE A bit of both",
+  "bot_says_hope_you_reach_dream_soon": "PLZ_TRANSLATE Hope you reach your dream soon! Keep in mind that it's ok to spend a little to enjoy life too!",
+  "bot_says_unless_buying_dream": "PLZ_TRANSLATE Unless buying your dream, don't spend more than you earned! Ok?",
+  "bot_says_money_master": "PLZ_TRANSLATE Such a money master!",
+  "bot_says_okidoki_another_day": "PLZ_TRANSLATE Okidoki! Maybe another day :)"
 }

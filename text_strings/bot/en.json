@@ -315,5 +315,20 @@
   "bot_says_military_secret_step_3": "Step 3: Breathe out, relaxing your chest",
   "bot_says_military_secret_step_4": "Step 4: Relax your legs, starting from the thighs and working down",
   "bot_says_military_secret_step_5": "Step 5: Whisper 'don't think, don't think, don't think' over and over again for 10 seconds",
-  "bot_says_still_awake": "Are you still awake??? That was it!"
+  "bot_says_still_awake": "Are you still awake??? That was it!",
+  "bot_says_have_own_card": "Do you have your own card to pay with?",
+  "bot_says_rather_have_card_from_gimi": "Coolio! Would you rather have a card from Gimi?",
+  "bot_says_tell_more_soon_cardtest": "OMG I'm so flattered! I hope it will happen some day! Wanna do my card test?",
+  "bot_says_got_it_cardtest_anyway": "Alright! Wanna do my card test? It's fun I promise :)",
+  "bot_says_want_card_from_gimi": "Would you want a card from Gimi?",
+  "bot_btn_yay_excl": "Yay!",
+  "bot_says_payday_amount": "You'll get %1$d %2$d on Payday!",
+  "bot_says_what_you_gonna_do_with_it": "What are you gonna do with it?",
+  "bot_btn_save_all": "Save all",
+  "bot_btn_spend_all": "Spend all",
+  "bot_btn_a_bit_of_both": "A bit of both",
+  "bot_says_hope_you_reach_dream_soon": "Hope you reach your dream soon! Keep in mind that it's ok to spend a little to enjoy life too!",
+  "bot_says_unless_buying_dream": "Unless buying your dream, don't spend more than you earned! Ok?",
+  "bot_says_money_master": "Such a money master!",
+  "bot_says_okidoki_another_day": "Okidoki! Maybe another day :)"
 }
