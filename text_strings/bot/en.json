@@ -332,5 +332,8 @@
   "bot_says_money_master": "Such a money master!",
   "bot_says_okidoki_another_day": "Okidoki! Maybe another day :)",
   "bot_says_highfive_someone_who_made_you_smile": "Give a high five to someone who made you smile today!",
-  "bot_btn_raising_hands": "🙌"
+  "bot_btn_raising_hands": "🙌",
+  "bot_says_get_amount_in_days": "You'll get another %1$d %2$d in %3$d days!",
+  "bot_btn_thumbs_down": "👎",
+  "bot_btn_phew": "Pheeew"
 }
