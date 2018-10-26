@@ -219,7 +219,7 @@ export default [
         }
       },
       {
-      ...defaultChapter,
+        ...defaultChapter,
         chapterID: 'spend_chapter_2',
         chapterName: 'Craft a shoppig list',
         titleLangKey: 'spend_chapter_2',
@@ -247,7 +247,7 @@ export default [
         }
       },
       {
-      ...defaultChapter,
+        ...defaultChapter,
         chapterID: 'spend_chapter_3',
         chapterName: 'Shopping for shoes',
         titleLangKey: 'spend_chapter_3',
@@ -275,7 +275,7 @@ export default [
         }
       },
       {
-      ...defaultChapter,
+        ...defaultChapter,
         chapterID: 'spend_chapter_4',
         chapterName: 'A sustainable mindset',
         titleLangKey: 'spend_chapter_4',
