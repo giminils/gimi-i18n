@@ -1886,11 +1886,11 @@
   "child_ready_for_card_confirmation_message": "%1$d är redo för ett kort!",
   "premium_intro_passcode_title": "PLZ_CHECK Headline passcode",
   "premium_intro_passcode_desc_for_kid": "PLZ_CHECK Text about passcode",
-  "request_deposit_permission_popover_title": "PLZ_CHECK You need permission to send money.",
-  "request_deposit_permission_popover_text": "PLZ_CHECK Do you want to ask %1$d for permission to send money to %2$d?",
-  "deposit_permission_req_sent_confirmation": "PLZ_CHECK Request sent!",
-  "deposit_permission_req_approved_confirmation": "PLZ_CHECK Approved!",
-  "kid_notification_new_cravings": "PLZ_CHECK Make a list of your cravings!",
-  "parent_notification_new_cravings": "PLZ_CHECK Children can now have more than just 1 dream! ",
-  "order_gimi_card": "PLZ_CHECK Order the Gimi card"
+  "request_deposit_permission_popover_title": "Du behöver tillåtelse att skicka riktiga pengar.",
+  "request_deposit_permission_popover_text": "Vill du fråga %1$d om tillåtelse att skicka pengar till %2$d?",
+  "deposit_permission_req_sent_confirmation": "Förfrågan skickad!",
+  "deposit_permission_req_approved_confirmation": "Godkänd!",
+  "kid_notification_new_cravings": "Gör en lista på det du önskar dig!",
+  "parent_notification_new_cravings": "Barn kan nu ha mer än bara 1 dröm! ",
+  "order_gimi_card": "Beställ Gimi-kortet"
 }
