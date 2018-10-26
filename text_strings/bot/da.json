@@ -330,5 +330,7 @@
   "bot_says_hope_you_reach_dream_soon": "PLZ_TRANSLATE Hope you reach your dream soon! Keep in mind that it's ok to spend a little to enjoy life too!",
   "bot_says_unless_buying_dream": "PLZ_TRANSLATE Unless buying your dream, don't spend more than you earned! Ok?",
   "bot_says_money_master": "PLZ_TRANSLATE Such a money master!",
-  "bot_says_okidoki_another_day": "PLZ_TRANSLATE Okidoki! Maybe another day :)"
+  "bot_says_okidoki_another_day": "PLZ_TRANSLATE Okidoki! Maybe another day :)",
+  "bot_says_highfive_someone_who_made_you_smile": "PLZ_TRANSLATE Give a high five to someone who made you smile today!",
+  "bot_btn_raising_hands": "PLZ_TRANSLATE 🙌"
 }
