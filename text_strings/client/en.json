@@ -1175,7 +1175,7 @@
   "request_permission_title_photo": "The app doesn't have persmission to access the gallery",
   "revoke_permission_camera": "Are you sure you want to enable access to the camera?",
   "revoke_permission_photo": "Are you sure you want to enable access to the gallery",
-  "revoke_permission_notifications": "Are you sure you want to remove permission to send notifications",
+  "revoke_permission_notifications": "Are you sure you want to remove permission for push notifications",
   "invitation_error": "Connection problem...",
   "invitation_error_mesasge": "We could not connect you to %1$d",
   "my_kids": "Children",
