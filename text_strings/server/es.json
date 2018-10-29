@@ -333,5 +333,6 @@
   "push_child_card_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏",
   "event_card_has_been_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏",
   "push_successful_purchases_with_gimi_card": "PLZ_TRANSLATE 💳 You just spent €10 at <MerchantName>",
-  "push_declined_purchases_with_insufficient_funds": "PLZ_TRANSLATE 🚫 Oh no! Your card was declined at <MerchantName>, want to transfer money to the card?"
+  "push_declined_purchases_with_insufficient_funds": "PLZ_TRANSLATE 🚫 Oh no! Your card was declined at <MerchantName>, want to transfer money to the card?",
+  "push_declined_purchases_with_blocked_card": "PLZ_TRANSLATE 🚫 Oh no! Your card was declined at <MerchantName>, want to unblock the card?"
 }
