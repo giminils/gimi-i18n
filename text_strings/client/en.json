@@ -1893,5 +1893,13 @@
   "kid_notification_new_cravings": "Make a list of your cravings!",
   "parent_notification_new_cravings": "Children can now have more than just 1 dream!",
   "order_gimi_card": "Order the Gimi card",
-  "beta_tester_event_title": "Bli testpilot för Gimi"
+  "beta_tester_event_title": "Bli testpilot för Gimi",
+  "card_activation_intro_main_title": "Card activation intro title",
+  "card_activation_intro_main_subtitle": "Card activation intro subtitle",
+  "card_activation_intro_headline_1": "Headeline 1",
+  "card_activation_intro_section_text_1": "Section text 1",
+  "card_activation_intro_headline_2": "Headeline 2",
+  "card_activation_intro_section_text_2": "Section text 2",
+  "card_activation_intro_headline_3": "Headeline 3",
+  "card_activation_intro_section_text_3": "Section text 3"
 }

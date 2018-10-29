@@ -1893,5 +1893,13 @@
   "kid_notification_new_cravings": "PLZ_TRANSLATE Make a list of your cravings!",
   "parent_notification_new_cravings": "PLZ_TRANSLATE Children can now have more than just 1 dream! ",
   "order_gimi_card": "PLZ_TRANSLATE Order the Gimi card",
-  "beta_tester_event_title": "PLZ_TRANSLATE Bli testpilot för Gimi"
+  "beta_tester_event_title": "PLZ_TRANSLATE Bli testpilot för Gimi",
+  "card_activation_intro_main_title": "PLZ_TRANSLATE Card activation intro title",
+  "card_activation_intro_main_subtitle": "PLZ_TRANSLATE Card activation intro subtitle",
+  "card_activation_intro_headline_1": "PLZ_TRANSLATE Headeline 1",
+  "card_activation_intro_section_text_1": "PLZ_TRANSLATE Section text 1",
+  "card_activation_intro_headline_2": "PLZ_TRANSLATE Headeline 2",
+  "card_activation_intro_section_text_2": "PLZ_TRANSLATE Section text 2",
+  "card_activation_intro_headline_3": "PLZ_TRANSLATE Headeline 3",
+  "card_activation_intro_section_text_3": "PLZ_TRANSLATE Section text 3"
 }
