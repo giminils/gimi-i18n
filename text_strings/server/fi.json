@@ -311,7 +311,7 @@
   "event_payday_child": "Tänään on tilipäivä!",
   "event_payday_parent": "Tänään on tilipäivä lapselle {child.nickname}!",
   "event_premium_payday_child": "Tänään on tilipäivä!",
-  "event_premium_payday_parent": "Tänään on tilipäivä!",
+  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Transfer money now",
   "push_you_got_a_chore_suggestion": "Olet saanut askare-ehdotuksen henkilöltä {task.created_by.nickname}",
   "event_child_created": "Tutustu Gimiin!",
   "event_child_lost_the_card": "{child.nickname} ilmoitti kortin kadonneeksi",

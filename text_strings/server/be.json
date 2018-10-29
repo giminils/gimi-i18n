@@ -311,7 +311,7 @@
   "event_payday_child": "PLZ_TRANSLATE It's payday!",
   "event_payday_parent": "PLZ_TRANSLATE It's payday for {child.nickname}",
   "event_premium_payday_child": "PLZ_TRANSLATE It's payday!",
-  "event_premium_payday_parent": "PLZ_TRANSLATE Today is payday!",
+  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Transfer money now",
   "push_you_got_a_chore_suggestion": "PLZ_CHECK You got a chore suggestion from {task.created_by.nickname}",
   "event_child_created": "PLZ_TRANSLATE Get to know Gimi!",
   "event_child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",

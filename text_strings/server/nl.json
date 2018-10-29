@@ -311,7 +311,7 @@
   "event_payday_child": "Payday!",
   "event_payday_parent": "Payday voor {child.nickname}",
   "event_premium_payday_child": "Payday!",
-  "event_premium_payday_parent": "Payday!",
+  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Transfer money now",
   "push_you_got_a_chore_suggestion": "Je hebt een voorstel voor een klusje ontvangen van {task.created_by.nickname}",
   "event_child_created": "Leer Gimi kennen!",
   "event_child_lost_the_card": "{child.nickname} heeft kaart als verloren gemarkeerd",

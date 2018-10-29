@@ -311,7 +311,7 @@
   "event_payday_child": "¡Es día de pago!",
   "event_payday_parent": "Es día de pago para {child.nickname}",
   "event_premium_payday_child": "¡Es día de pago!",
-  "event_premium_payday_parent": "¡Hoy es día de pago!",
+  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Transfer money now",
   "push_you_got_a_chore_suggestion": "Tienes una sugerencia de tarea de {task.created_by.nickname}",
   "event_child_created": "¡Conoce a Gimi!",
   "event_child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",
