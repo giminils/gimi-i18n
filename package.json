@@ -63,8 +63,5 @@
     "accounting": "^0.4.1",
     "babel-preset-node6": "^11.0.0",
     "google-translate-api": "2.3.0"
-  },
-  "resolutions": {
-    "fsevents": "1.2.4"
   }
 }
