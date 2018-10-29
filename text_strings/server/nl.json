@@ -331,5 +331,6 @@
   "push_pfs_payday": "Het is payday voor {child.nickname}",
   "push_connect_with_child": "Je bent nog niet verbonden met een kind... Gimi is leuker als je iemand hebt om geld aan te geven!",
   "push_child_card_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏",
-  "event_card_has_been_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏"
+  "event_card_has_been_activated": "PLZ_TRANSLATE {child.nickname} just activated the Gimi card! 👏",
+  "push_successful_purchases_with_gimi_card": "PLZ_TRANSLATE 💳 You just spent €10 at <MerchantName>"
 }

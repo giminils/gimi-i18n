@@ -331,5 +331,6 @@
   "push_pfs_payday": "Det är payday för {child.nickname}",
   "push_connect_with_child": "Du har inte kopplat ihop med ett barn än... Gimi är roligare när du har någon som du ger pengar till!",
   "push_child_card_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
-  "event_card_has_been_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏"
+  "event_card_has_been_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
+  "push_successful_purchases_with_gimi_card": "PLZ_CHECK 💳 You just spent €10 at <MerchantName>"
 }
