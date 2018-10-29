@@ -1904,5 +1904,7 @@
   "card_activation_intro_section_text_3": "PLZ_CHECK Section text 3",
   "premium_intro_title_section_1": "PLZ_CHECK Headline 1 premium intro for parent",
   "premium_intro_text_section_1": "PLZ_CHECK breadtext 1 premium intro for parent",
-  "premium_intro_main_title_for_kid": "PLZ_CHECK This is Gimi Premium"
+  "premium_intro_main_title_for_kid": "PLZ_CHECK This is Gimi Premium",
+  "premium_payday_today_takeover_title": "PLZ_CHECK Today is... Payday! 🎉",
+  "premium_payday_today_takeover_subtitle": "PLZ_CHECK You should be getting your money today."
 }
