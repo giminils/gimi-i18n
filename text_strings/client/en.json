@@ -1861,7 +1861,7 @@
   "connect_with_email_title": "Type the email you want to send the invite to",
   "card_coming_kid_home_item": "Card is on it's way!",
   "want_to_connect_with_more_family": "Want to connect %1$d with more family members? Invite them here!",
-  "control_phone_no_subtitle": "PLZ_COPY It seems to be too many or too few numbers or the wrong country code",
+  "control_phone_no_subtitle": "It seems to be too many or too few numbers or the wrong country code",
   "open_bank_id_info": "You might need to open BankID...",
   "savings_account_intro_title": "Savings just got an upgrade!",
   "savings_account_intro_text": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card.",

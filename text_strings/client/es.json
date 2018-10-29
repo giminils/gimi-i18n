@@ -1861,7 +1861,7 @@
   "connect_with_email_title": "Escribe un correo electrónico al que desees conectarte",
   "card_coming_kid_home_item": "¡La tarjeta está en camino!",
   "want_to_connect_with_more_family": "¿Deseas conectar a %1$d con más miembros de la familia? ¡Invítalos aquí!",
-  "control_phone_no_subtitle": "verifica el formato del número de teléfono",
+  "control_phone_no_subtitle": "PLZ_TRANSLATE It seems to be too many or too few numbers or the wrong country code",
   "open_bank_id_info": "Es posible que necesites abrir BankID...",
   "savings_account_intro_title": "¡Los ahorros acaban de recibir una actualización!",
   "savings_account_intro_text": "Ahora puedes transferir dinero real a esta cuenta, para que %1$d pueda gastarlo con la tarjeta Gimi.",
