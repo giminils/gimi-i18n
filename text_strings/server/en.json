@@ -357,5 +357,7 @@
   "push_today_pay_day": "Today is payday! 🎉",
   "event_today_pay_day": "Today is payday!",
   "push_name_made_deposit_to _account_from_parent": "You have received a deposit from 'parent name'",
-  "event_name_made_deposit_to _account_from_parent": "Name made a deposit to your account"
+  "event_name_made_deposit_to _account_from_parent": "Name made a deposit to your account",
+  "event_name_made_deposit_to _account": "Name made a deposit to your account",
+  "push_name_made_deposit_to _account": "You have received a deposit in your savings"
 }
