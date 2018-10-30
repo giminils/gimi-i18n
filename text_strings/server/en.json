@@ -335,5 +335,6 @@
   "push_successful_purchases_with_gimi_card": "💳 You just spent €10 at <MerchantName>",
   "push_declined_purchases_with_insufficient_funds": "🚫 Oh no! Your card was declined at <MerchantName>, want to transfer money to the card?",
   "push_declined_purchases_with_blocked_card": "🚫 Oh no! Your card was declined at <MerchantName>, want to unblock the card?",
-  "event_continue_with_card_sign_up": "Continue with card sign up"
+  "event_continue_with_card_sign_up": "Continue with card sign up",
+  "event_let_childname_receive_money_from_other_contacts": "Let childname receive money from other contacts!"
 }
