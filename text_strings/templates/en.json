@@ -352,5 +352,13 @@
   "task_template_title_pick_up_trash": "Pick up trash",
   "task_template_description_pick_up_trash": "Pick up trash from the street and thow it in the bin",
   "task_template_title_bring_furniture_in": "Bring furniture in!",
-  "task_template_description_bring_furniture_in": "Patio furniture, that is!"
+  "task_template_description_bring_furniture_in": "Patio furniture, that is!",
+  "goal_template_title_game_console": "Game console",
+  "goal_template_description_game_console": "--",
+  "goal_template_title_game_currency": "Game currency",
+  "goal_template_description_game_currency": "--",
+  "goal_template_title_pet": "Pet",
+  "goal_template_description_pet": "--",
+  "goal_template_title_game": "Game",
+  "goal_template_description_game": "-"
 }

@@ -352,5 +352,13 @@
   "task_template_title_pick_up_trash": "Plocka skräp",
   "task_template_description_pick_up_trash": "Plocka upp skräp från marken och släng i soptunnan",
   "task_template_title_bring_furniture_in": "Ta in utemöbler",
-  "task_template_description_bring_furniture_in": "Och var försiktig!"
+  "task_template_description_bring_furniture_in": "Och var försiktig!",
+  "goal_template_title_game_console": "PLZ_CHECK Game console",
+  "goal_template_description_game_console": "PLZ_CHECK --",
+  "goal_template_title_game_currency": "PLZ_CHECK Game currency",
+  "goal_template_description_game_currency": "PLZ_CHECK --",
+  "goal_template_title_pet": "PLZ_CHECK Pet",
+  "goal_template_description_pet": "PLZ_CHECK --",
+  "goal_template_title_game": "PLZ_CHECK Game",
+  "goal_template_description_game": "PLZ_CHECK -"
 }
