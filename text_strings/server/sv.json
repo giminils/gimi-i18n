@@ -346,5 +346,6 @@
   "push_your_subscription_has_not_been_paid_card_will_be_blocked_tomorrow": "PLZ_CHECK We have not received your payment for premium subscription. Card will be locked down in 24 hours",
   "event_your_subscription_has_not_been_paid_the_gimi_card_has_been_blocked": "PLZ_CHECK Your subscription has not been paid, the Gimi card has been blocked.",
   "push_your_subscription_has_not_been_paid_the_gimi_card_has_been_blocked": "PLZ_CHECK The card for 'childname' is on lock down. Pay premium subscription to unlock it.",
-  "event_card_has_arrived": "PLZ_CHECK Has your card arrived yet? Activate it!"
+  "event_card_has_arrived": "PLZ_CHECK Has your card arrived yet? Activate it!",
+  "event_transfer_money_to_card": "PLZ_CHECK You got money in your accout! Want to spend them? Just transfer to your card."
 }
