@@ -339,5 +339,6 @@
   "event_let_childname_receive_money_from_other_contacts": "Let childname receive money from other contacts!",
   "event_you_can_now_send_real_money_to_childname": "You can now send real money to ChildName!",
   "event_you_have_not_paid_premium_subscription": "You have not paid premium subscription",
-  "push_time_to_pay_your_Gimi_subscription": "Time to pay your Gimi subscription..."
+  "push_time_to_pay_your_gimi_subscription": "Time to pay your Gimi subscription...",
+  "push_you_need_to_pay_for_your_premium_subscription": "You need to pay for your premium subscription. Go to the app to make payment"
 }
