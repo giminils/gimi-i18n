@@ -1906,5 +1906,7 @@
   "premium_intro_text_section_1": "breadtext 1 premium intro for parent",
   "premium_intro_main_title_for_kid": "This is Gimi Premium",
   "premium_payday_today_takeover_title": "Today is... Payday! 🎉",
-  "premium_payday_today_takeover_subtitle": "You should be getting your money today."
+  "premium_payday_today_takeover_subtitle": "You should be getting your money today.",
+  "order_card_done_title": "You're done! Card is on it's way",
+  "order_card_done_subtitle": "Your child will be upgraded once you transfer money to the account. Check your email for more instructions."
 }

@@ -1906,5 +1906,7 @@
   "premium_intro_text_section_1": "PLZ_TRANSLATE breadtext 1 premium intro for parent",
   "premium_intro_main_title_for_kid": "PLZ_TRANSLATE This is Gimi Premium",
   "premium_payday_today_takeover_title": "PLZ_TRANSLATE Today is... Payday! 🎉",
-  "premium_payday_today_takeover_subtitle": "PLZ_TRANSLATE You should be getting your money today."
+  "premium_payday_today_takeover_subtitle": "PLZ_TRANSLATE You should be getting your money today.",
+  "order_card_done_title": "PLZ_TRANSLATE You're done! Card is on it's way",
+  "order_card_done_subtitle": "PLZ_TRANSLATE Your child will be upgraded once you transfer money to the account. Check your email for more instructions."
 }
