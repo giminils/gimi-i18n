@@ -1908,5 +1908,14 @@
   "premium_payday_today_takeover_title": "PLZ_TRANSLATE Today is... Payday! 🎉",
   "premium_payday_today_takeover_subtitle": "PLZ_TRANSLATE You should be getting your money today.",
   "order_card_done_title": "PLZ_TRANSLATE You're done! Card is on it's way",
-  "order_card_done_subtitle": "PLZ_TRANSLATE Your child will be upgraded once you transfer money to the account. Check your email for more instructions."
+  "order_card_done_subtitle": "PLZ_TRANSLATE Your child will be upgraded once you transfer money to the account. Check your email for more instructions.",
+  "buy_premium_intro_title": "PLZ_TRANSLATE Upgrade Gimi and get rid of cash forever!",
+  "buy_premium_intro_subtitle": "PLZ_TRANSLATE When your child is ready to manage their own money.",
+  "buy_premium_included_title": "PLZ_TRANSLATE This is what you get",
+  "buy_premium_included_card_title": "PLZ_TRANSLATE Gimi Prepaid card",
+  "buy_premium_included_card_text": "PLZ_TRANSLATE Works online/offline\nControlled in parent app\nBlock / unblock in app",
+  "buy_premium_included_account_title": "PLZ_TRANSLATE Gimi account",
+  "buy_premium_included_account_text": "PLZ_TRANSLATE Receive money from family members\nTransfer to card to spend\nLorem ipsum",
+  "buy_premium_intro_price_title": "PLZ_TRANSLATE This is what you pay",
+  "buy_premium_intro_next_button": "PLZ_TRANSLATE Upgrade!"
 }

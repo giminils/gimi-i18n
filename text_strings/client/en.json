@@ -1908,5 +1908,14 @@
   "premium_payday_today_takeover_title": "Today is... Payday! 🎉",
   "premium_payday_today_takeover_subtitle": "You should be getting your money today.",
   "order_card_done_title": "You're done! Card is on it's way",
-  "order_card_done_subtitle": "Your child will be upgraded once you transfer money to the account. Check your email for more instructions."
+  "order_card_done_subtitle": "Your child will be upgraded once you transfer money to the account. Check your email for more instructions.",
+  "buy_premium_intro_title": "Upgrade Gimi and get rid of cash forever!",
+  "buy_premium_intro_subtitle": "When your child is ready to manage their own money.",
+  "buy_premium_included_title": "This is what you get",
+  "buy_premium_included_card_title": "Gimi Prepaid card",
+  "buy_premium_included_card_text": "Works online/offline\nControlled in parent app\nBlock / unblock in app",
+  "buy_premium_included_account_title": "Gimi account",
+  "buy_premium_included_account_text": "Receive money from family members\nTransfer to card to spend\nLorem ipsum",
+  "buy_premium_intro_price_title": "This is what you pay",
+  "buy_premium_intro_next_button": "Upgrade!"
 }
