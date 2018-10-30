@@ -336,5 +336,6 @@
   "push_declined_purchases_with_insufficient_funds": "PLZ_CHECK 🚫 Oh no! Your card was declined at <MerchantName>, want to transfer money to the card?",
   "push_declined_purchases_with_blocked_card": "PLZ_CHECK 🚫 Oh no! Your card was declined at <MerchantName>, want to unblock the card?",
   "event_continue_with_card_sign_up": "PLZ_CHECK Continue with card sign up",
-  "event_let_childname_receive_money_from_other_contacts": "PLZ_CHECK Let childname receive money from other contacts!"
+  "event_let_childname_receive_money_from_other_contacts": "PLZ_CHECK Let childname receive money from other contacts!",
+  "event_you_can_now_send_real_money_to_childname": "PLZ_CHECK You can now send real money to ChildName!"
 }
