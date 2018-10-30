@@ -347,5 +347,7 @@
   "event_your_subscription_has_not_been_paid_the_gimi_card_has_been_blocked": "Your subscription has not been paid, the Gimi card has been blocked.",
   "push_your_subscription_has_not_been_paid_the_gimi_card_has_been_blocked": "The card for 'childname' is on lock down. Pay premium subscription to unlock it.",
   "event_card_has_arrived": "Has your card arrived yet? Activate it!",
-  "event_transfer_money_to_card": "You got money in your accout! Want to spend them? Just transfer to your card."
+  "event_transfer_money_to_card": "You got money in your accout! Want to spend them? Just transfer to your card.",
+  "event_name_blocked_your_card": "Name blocked your card",
+  "push_name_blocked_your_card": "Your card has been blocked by 'parentname'"
 }
