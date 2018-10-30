@@ -349,5 +349,7 @@
   "event_card_has_arrived": "PLZ_CHECK Has your card arrived yet? Activate it!",
   "event_transfer_money_to_card": "PLZ_CHECK You got money in your accout! Want to spend them? Just transfer to your card.",
   "event_name_blocked_your_card": "PLZ_CHECK Name blocked your card",
-  "push_name_blocked_your_card": "PLZ_CHECK Your card has been blocked by 'parentname'"
+  "push_name_blocked_your_card": "PLZ_CHECK Your card has been blocked by 'parentname'",
+  "event_name_unblocked_your_card": "PLZ_CHECK Name blocked your card",
+  "push_name_unblocked_your_card": "PLZ_CHECK Your card has been unblocked by 'parentname'"
 }
