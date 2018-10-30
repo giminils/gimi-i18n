@@ -353,5 +353,9 @@
   "event_name_unblocked_your_card": "PLZ_CHECK Name blocked your card",
   "push_name_unblocked_your_card": "PLZ_CHECK Your card has been unblocked by 'parentname'",
   "event_pfs_payday": "PLZ_CHECK It's payday for 'ChildName'! ",
-  "push_add_chores": "PLZ_CHECK You have not added any chores for 'name' yet. Don´t know what to add? Go to the app to find some great suggestions!"
+  "push_add_chores": "PLZ_CHECK You have not added any chores for 'name' yet. Don´t know what to add? Go to the app to find some great suggestions!",
+  "push_today_pay_day": "PLZ_CHECK Today is payday! 🎉",
+  "event_today_pay_day": "PLZ_CHECK Today is payday!",
+  "push_name_made_deposit_to _account_from_parent": "PLZ_CHECK You have received a deposit from 'parent name'",
+  "event_name_made_deposit_to _account_from_parent": "PLZ_CHECK Name made a deposit to your account"
 }
