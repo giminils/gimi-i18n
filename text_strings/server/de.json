@@ -351,5 +351,6 @@
   "event_name_blocked_your_card": "PLZ_TRANSLATE Name blocked your card",
   "push_name_blocked_your_card": "PLZ_TRANSLATE Your card has been blocked by 'parentname'",
   "event_name_unblocked_your_card": "PLZ_TRANSLATE Name blocked your card",
-  "push_name_unblocked_your_card": "PLZ_TRANSLATE Your card has been unblocked by 'parentname'"
+  "push_name_unblocked_your_card": "PLZ_TRANSLATE Your card has been unblocked by 'parentname'",
+  "event_pfs_payday": "PLZ_TRANSLATE It's payday for 'ChildName'! "
 }
