@@ -352,5 +352,6 @@
   "push_name_blocked_your_card": "PLZ_TRANSLATE Your card has been blocked by 'parentname'",
   "event_name_unblocked_your_card": "PLZ_TRANSLATE Name blocked your card",
   "push_name_unblocked_your_card": "PLZ_TRANSLATE Your card has been unblocked by 'parentname'",
-  "event_pfs_payday": "PLZ_TRANSLATE It's payday for 'ChildName'! "
+  "event_pfs_payday": "PLZ_TRANSLATE It's payday for 'ChildName'! ",
+  "push_add_chores": "PLZ_TRANSLATE You have not added any chores for 'name' yet. Don´t know what to add? Go to the app to find some great suggestions!"
 }
