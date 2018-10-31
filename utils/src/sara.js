@@ -37,10 +37,13 @@ let RunSara = (filePath): * => {
 
     // Craete Support
     let NewTextStrings = {...lang}
-    if (file.includes('sv.json'))
-      Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_CHECK ${lang[key]}`))
-    if (!file.includes('sv.json') && !file.includes('en.json'))
-      Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
+
+    switch (true) {
+      case file.includes('sv.json'):
+      case file.includes('en.json'): Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_CHECK ${lang[key]}`)); break
+      default: Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
+    }
+
     NewTextStrings = {...NewTextStrings, ...TextStrings}
     Object.keys(_default).forEach(key => delete NewTextStrings[key])
     var NewTextStringsLength = Object.keys(NewTextStrings).length
