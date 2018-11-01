@@ -362,5 +362,6 @@
   "push_name_made_deposit_to _account": "PLZ_CHECK You have received a deposit in your savings",
   "push_give_chores_to_children": "PLZ_CHECK Don't forget to hand out chores to your children, it's a great way to teach them about earning!",
   "push_verify_phone_to_custom_account": "PLZ_CHECK Verify phone number",
-  "event_settle_your_debt": "PLZ_CHECK Settle your debt to ChildName"
+  "event_settle_your_debt": "PLZ_CHECK Settle your debt to ChildName",
+  "push_chores_waiting": "PLZ_CHECK You have {x} chores waiting. Go to the app to earn money!"
 }
