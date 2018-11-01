@@ -1918,5 +1918,6 @@
   "buy_premium_included_account_text": "Receive money from family members\nTransfer to card to spend\nLorem ipsum",
   "buy_premium_intro_price_title": "This is what you pay",
   "buy_premium_intro_next_button": "Upgrade!",
-  "custom_notification_old_client_warning": "Your phone is running on old software, so Gimi will soon stop working for you"
+  "custom_notification_old_client_warning": "Your phone is running on old software, so Gimi will soon stop working for you",
+  "premium_payday_transfer_warning": "You can't edit the amount once you click Transfer button"
 }
