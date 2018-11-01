@@ -360,5 +360,6 @@
   "event_name_made_deposit_to _account_from_parent": "Name made a deposit to your account",
   "event_name_made_deposit_to _account": "Name made a deposit to your account",
   "push_name_made_deposit_to _account": "You have received a deposit in your savings",
-  "push_give_chores_to_children": "Don't forget to hand out chores to your children, it's a great way to teach them about earning!"
+  "push_give_chores_to_children": "Don't forget to hand out chores to your children, it's a great way to teach them about earning!",
+  "push_verify_phone_to_custom_account": "Verify phone number"
 }
