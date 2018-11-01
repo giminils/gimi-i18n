@@ -361,5 +361,6 @@
   "event_name_made_deposit_to _account": "PLZ_TRANSLATE Name made a deposit to your account",
   "push_name_made_deposit_to _account": "PLZ_TRANSLATE You have received a deposit in your savings",
   "push_give_chores_to_children": "PLZ_TRANSLATE Don't forget to hand out chores to your children, it's a great way to teach them about earning!",
-  "push_verify_phone_to_custom_account": "PLZ_TRANSLATE Verify phone number"
+  "push_verify_phone_to_custom_account": "PLZ_TRANSLATE Verify phone number",
+  "event_settle_your_debt": "PLZ_TRANSLATE Settle your debt to ChildName"
 }
