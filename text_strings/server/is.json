@@ -359,5 +359,6 @@
   "push_name_made_deposit_to _account_from_parent": "PLZ_TRANSLATE You have received a deposit from 'parent name'",
   "event_name_made_deposit_to _account_from_parent": "PLZ_TRANSLATE Name made a deposit to your account",
   "event_name_made_deposit_to _account": "PLZ_TRANSLATE Name made a deposit to your account",
-  "push_name_made_deposit_to _account": "PLZ_TRANSLATE You have received a deposit in your savings"
+  "push_name_made_deposit_to _account": "PLZ_TRANSLATE You have received a deposit in your savings",
+  "push_give_chores_to_children": "PLZ_TRANSLATE Don't forget to hand out chores to your children, it's a great way to teach them about earning!"
 }
