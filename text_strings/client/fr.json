@@ -1919,5 +1919,6 @@
   "buy_premium_intro_price_title": "PLZ_TRANSLATE This is what you pay",
   "buy_premium_intro_next_button": "PLZ_TRANSLATE Upgrade!",
   "custom_notification_old_client_warning": "PLZ_TRANSLATE Your phone is running on old software, so Gimi will soon stop working for you",
-  "premium_payday_transfer_warning": "PLZ_TRANSLATE You can't edit the amount once you click Transfer button"
+  "premium_payday_transfer_warning": "PLZ_TRANSLATE You can't edit the amount once you click Transfer button",
+  "gimi_beta_active_custom_note": "PLZ_TRANSLATE Welcome to Gimi Beta! Order a card now"
 }
