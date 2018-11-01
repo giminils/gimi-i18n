@@ -1917,5 +1917,6 @@
   "buy_premium_included_account_title": "PLZ_TRANSLATE Gimi account",
   "buy_premium_included_account_text": "PLZ_TRANSLATE Receive money from family members\nTransfer to card to spend\nLorem ipsum",
   "buy_premium_intro_price_title": "PLZ_TRANSLATE This is what you pay",
-  "buy_premium_intro_next_button": "PLZ_TRANSLATE Upgrade!"
+  "buy_premium_intro_next_button": "PLZ_TRANSLATE Upgrade!",
+  "custom_notification_old_client_warning": "PLZ_TRANSLATE Your phone is running on old software, so Gimi will soon stop working for you"
 }
