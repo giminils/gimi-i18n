@@ -337,7 +337,7 @@
   "push_declined_purchases_with_blocked_card": "PLZ_TRANSLATE 🚫 Oh no! Your card was declined at <MerchantName>, want to unblock the card?",
   "event_card_sign_up": "PLZ_TRANSLATE Continue with card sign up",
   "event_child_receive_money_from_other": "PLZ_TRANSLATE Let childname receive money from other contacts!",
-  "event_end_real_money_to_child": "PLZ_TRANSLATE You can now send real money to ChildName!",
+  "event_end_real_money": "PLZ_TRANSLATE You can now send real money to ChildName!",
   "event_you_have_not_paid_premium_subscription": "PLZ_TRANSLATE You have not paid premium subscription",
   "push_you_have_not_paid_premium_subscription": "PLZ_TRANSLATE Time to pay your Gimi subscription...",
   "push_you_have_not_paid_premium_subscription_go_to_app": "PLZ_TRANSLATE You need to pay for your premium subscription. Go to the app to make payment",
