@@ -1920,5 +1920,7 @@
   "buy_premium_intro_next_button": "PLZ_CHECK Upgrade!",
   "custom_notification_old_client_warning": "PLZ_CHECK Your phone is running on old software, so Gimi will soon stop working for you",
   "premium_payday_transfer_warning": "PLZ_CHECK You can't edit the amount once you click Transfer button",
-  "gimi_beta_active_custom_note": "PLZ_CHECK Welcome to Gimi Beta! Order a card now"
+  "gimi_beta_active_custom_note": "PLZ_CHECK Welcome to Gimi Beta! Order a card now",
+  "parent_custom_note_feature_autumn_chores": "PLZ_CHECK Here's some inspiration for autumn chores",
+  "kid_custom_note_feature_bot": "PLZ_CHECK Hey there! Wanna chat?"
 }
