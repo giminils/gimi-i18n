@@ -340,7 +340,7 @@
   "event_end_real_money": "You can now send real money to ChildName!",
   "event_not_paid_premium_subscription": "You have not paid premium subscription",
   "push_not_paid_premium_subscription": "Time to pay your Gimi subscription...",
-  "push_not_paid_premium_subscription_go_to_app": "You need to pay for your premium subscription. Go to the app to make payment",
+  "push_not_paid_premium_subscription_app": "You need to pay for your premium subscription. Go to the app to make payment",
   "event_reminder_of_premium_payment": "Reminder of premium payment",
   "event_your_subscription_has_not_been_paid_card_will_be_blocked_tomorrow": "Your subscription has not been paid, card will be blocked tomorrow!",
   "push_your_subscription_has_not_been_paid_card_will_be_blocked_tomorrow": "We have not received your payment for premium subscription. Card will be locked down in 24 hours",
