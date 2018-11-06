@@ -335,7 +335,7 @@
   "bot_says_fun_right": "Hehe! Fun right?",
   "bot_btn_yes": "Yes",
   "bot_btn_of_course": "Of course",
-  "bot_says_you_have_a_dream": "Ok! I thought you were saving for your dream: %1$d",
   "bot_link_check_it_out": "Check it out",
-  "bot_btn_i_will_try": "I will try"
+  "bot_btn_i_will_try": "I will try",
+  "bot_says_you_have_a_dream": "Oh... I thought you were saving for your dream!"
 }
