@@ -16,7 +16,6 @@
     "ErrorUtils" : false
   },
     "rules": {
-      "react-native/no-flex-grow": "off",
       "header/header": "off",
       "import/first": 0,
       "import/no-webpack-loader-syntax": 0,
