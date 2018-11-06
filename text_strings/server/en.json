@@ -364,5 +364,7 @@
   "push_verify_phone_to_custom_account": "Verify phone number",
   "event_settle_your_debt": "Settle your debt to ChildName",
   "push_chores_waiting": "You have {x} chores waiting. Go to the app to earn money!",
-  "event_add_card": "Add your card so you can send money!"
+  "event_add_card": "Add your card so you can send money!",
+  "event_child_spend": "new_card_purchase",
+  "push_child_spend": "💳 <ChildName> just spent €10 at <MerchantName>"
 }

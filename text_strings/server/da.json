@@ -364,5 +364,7 @@
   "push_verify_phone_to_custom_account": "PLZ_TRANSLATE Verify phone number",
   "event_settle_your_debt": "PLZ_TRANSLATE Settle your debt to ChildName",
   "push_chores_waiting": "PLZ_TRANSLATE You have {x} chores waiting. Go to the app to earn money!",
-  "event_add_card": "PLZ_TRANSLATE Add your card so you can send money!"
+  "event_add_card": "PLZ_TRANSLATE Add your card so you can send money!",
+  "event_child_spend": "PLZ_TRANSLATE new_card_purchase",
+  "push_child_spend": "PLZ_TRANSLATE 💳 <ChildName> just spent €10 at <MerchantName>"
 }
