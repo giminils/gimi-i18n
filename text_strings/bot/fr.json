@@ -285,7 +285,6 @@
   "bot_btn_bad": "PLZ_TRANSLATE Bad",
   "bot_says_makes_me_happy": "PLZ_TRANSLATE Nice! It makes me happy to hear :)",
   "bot_says_outside_boost_mood": "PLZ_TRANSLATE Try going outside? Sun and fresh air is supposed to boost the mood.",
-  "bot_btn_i_will_try": "PLZ_TRANSLATE I'll try",
   "bot_btn_smiling_face_with_smiling_eyes": "PLZ_TRANSLATE 😊",
   "bot_says_tell_coworkers_why": "PLZ_TRANSLATE Oh no... Want to tell my coworkers why?",
   "bot_says_thanks_letting_me_know": "PLZ_TRANSLATE So not great. But ok. Thanks for letting me know!",
@@ -337,5 +336,6 @@
   "bot_btn_yes": "PLZ_TRANSLATE Yes",
   "bot_btn_of_course": "PLZ_TRANSLATE Of course",
   "bot_says_you_have_a_dream": "PLZ_TRANSLATE Ok! I thought you were saving for your dream: %1$d",
-  "bot_link_check_it_out": "PLZ_TRANSLATE Check it out"
+  "bot_link_check_it_out": "PLZ_TRANSLATE Check it out",
+  "bot_btn_i_will_try": "PLZ_TRANSLATE I will try"
 }

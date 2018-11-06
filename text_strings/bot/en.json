@@ -285,7 +285,6 @@
   "bot_btn_bad": "Bad",
   "bot_says_makes_me_happy": "Nice! It makes me happy to hear :)",
   "bot_says_outside_boost_mood": "Try going outside? Sun and fresh air is supposed to boost the mood.",
-  "bot_btn_i_will_try": "I'll try",
   "bot_btn_smiling_face_with_smiling_eyes": "😊",
   "bot_says_tell_coworkers_why": "Oh no... Want to tell my coworkers why?",
   "bot_says_thanks_letting_me_know": "So not great. But ok. Thanks for letting me know!",
@@ -337,5 +336,6 @@
   "bot_btn_yes": "Yes",
   "bot_btn_of_course": "Of course",
   "bot_says_you_have_a_dream": "Ok! I thought you were saving for your dream: %1$d",
-  "bot_link_check_it_out": "Check it out"
+  "bot_link_check_it_out": "Check it out",
+  "bot_btn_i_will_try": "I will try"
 }

@@ -285,7 +285,6 @@
   "bot_btn_bad": "Dålig",
   "bot_says_makes_me_happy": "Hoppas den fortsätter va bra!",
   "bot_says_outside_boost_mood": "Testa att gå ut? Frisk luft kan tydligen vara bra för humöret :)",
-  "bot_btn_i_will_try": "Ska försöka",
   "bot_btn_smiling_face_with_smiling_eyes": "😊",
   "bot_says_tell_coworkers_why": "Ånej... Vill du berätta för mina kollegor vad som kan bli bättre?",
   "bot_says_thanks_letting_me_know": "Så inte superbra men helt ok... Tack för att du berättade!",
@@ -337,5 +336,6 @@
   "bot_btn_yes": "Ja",
   "bot_btn_of_course": "Såklart",
   "bot_says_you_have_a_dream": "PLZ_CHECK Ok! I thought you were saving for your dream: %1$d",
-  "bot_link_check_it_out": "PLZ_CHECK Check it out"
+  "bot_link_check_it_out": "PLZ_CHECK Check it out",
+  "bot_btn_i_will_try": "Ska försöka"
 }
