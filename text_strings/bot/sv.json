@@ -335,5 +335,7 @@
   "bot_btn_i_sure_did": "Japp",
   "bot_says_fun_right": "Haha! Kul va?",
   "bot_btn_yes": "Ja",
-  "bot_btn_of_course": "Såklart"
+  "bot_btn_of_course": "Såklart",
+  "bot_says_you_have_a_dream": "PLZ_CHECK Ok! I thought you were saving for your dream: %1$d",
+  "bot_link_check_it_out": "PLZ_CHECK Check it out"
 }
