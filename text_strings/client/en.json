@@ -1922,5 +1922,7 @@
   "premium_payday_transfer_warning": "You can't edit the amount once you click Transfer button",
   "gimi_beta_active_custom_note": "Welcome to Gimi Beta! Order a card now",
   "parent_custom_note_feature_autumn_chores": "Here's some inspiration for autumn chores",
-  "kid_custom_note_feature_bot": "Hey there! Wanna chat?"
+  "kid_custom_note_feature_bot": "Hey there! Wanna chat?",
+  "card_is_on_its_way_takeover_title": "The card is on it's way!",
+  "card_is_on_its_way_takeover_subtitle": "It takes a few days. We send an order to the card factory, they print your name on it and send it with snail mail."
 }
