@@ -1924,5 +1924,6 @@
   "parent_custom_note_feature_autumn_chores": "PLZ_CHECK Here's some inspiration for autumn chores",
   "kid_custom_note_feature_bot": "PLZ_CHECK Hey there! Wanna chat?",
   "card_is_on_its_way_takeover_title": "PLZ_CHECK The card is on it's way!",
-  "card_is_on_its_way_takeover_subtitle": "PLZ_CHECK It takes a few days. We send an order to the card factory, they print your name on it and send it with snail mail."
+  "card_is_on_its_way_takeover_subtitle": "PLZ_CHECK It takes a few days. We send an order to the card factory, they print your name on it and send it with snail mail.",
+  "identity_verified_confirmation_message": "PLZ_CHECK Identity verified"
 }
