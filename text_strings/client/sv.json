@@ -1929,5 +1929,7 @@
   "parent_was_upgraded_to_premium_text": "PLZ_CHECK Now you can order the card!",
   "parent_was_upgraded_to_premium_button": "PLZ_CHECK Get Card!",
   "popular_for_x_year_olds": "PLZ_CHECK pupular for %1$d year olds",
-  "verify_email_title": "PLZ_CHECK Verify your email"
+  "verify_email_title": "PLZ_CHECK Verify your email",
+  "allow_all_relations_to_transfer_title": "PLZ_CHECK Want to allow %1$d to receive money from other supporters?",
+  "allow_all_relations_to_transfer_desc": "PLZ_CHECK %1$d needs your approval to receive money."
 }
