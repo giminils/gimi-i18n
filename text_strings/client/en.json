@@ -1928,5 +1928,6 @@
   "parent_was_upgraded_to_premium_title": "You've been upgraded! ✌️",
   "parent_was_upgraded_to_premium_text": "Now you can order the card!",
   "parent_was_upgraded_to_premium_button": "Get Card!",
-  "popular_for_x_year_olds": "pupular for %1$d year olds"
+  "popular_for_x_year_olds": "pupular for %1$d year olds",
+  "verify_email_title": "Verify your email"
 }

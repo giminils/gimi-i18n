@@ -1927,5 +1927,7 @@
   "card_terms_accepted_confirmation_message": "Brugervilkår accepteret",
   "parent_was_upgraded_to_premium_title": "Du er blevet opgraderet! ✌️",
   "parent_was_upgraded_to_premium_text": "Nu kan du bestille kortet!",
-  "parent_was_upgraded_to_premium_button": "Få kort!"
+  "parent_was_upgraded_to_premium_button": "Få kort!",
+  "popular_for_x_year_olds": "PLZ_TRANSLATE pupular for %1$d year olds",
+  "verify_email_title": "PLZ_TRANSLATE Verify your email"
 }
