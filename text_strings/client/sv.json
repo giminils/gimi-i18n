@@ -1895,6 +1895,7 @@
   "order_gimi_card": "Beställ Gimi-kortet",
   "beta_tester_event_title": "PLZ_CHECK Bli testpilot för Gimi",
   "card_activation_intro_main_title": "PLZ_CHECK Your card is ready for you!",
+  "card_activation_intro_main_subtitle": "PLZ_CHECK ...you just need to transferred some money to it.",
   "card_activation_intro_headline_1": "PLZ_CHECK Get money on the card",
   "card_activation_intro_section_text_1": "PLZ_CHECK  You receive money to your account. When you want to spend, you need to transfer money to the card. You decide how much you want to spend!",
   "card_activation_intro_headline_2": "PLZ_CHECK Pay online and in stores",
