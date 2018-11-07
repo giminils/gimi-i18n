@@ -1927,5 +1927,6 @@
   "card_terms_accepted_confirmation_message": "PLZ_CHECK User terms accepted",
   "parent_was_upgraded_to_premium_title": "PLZ_CHECK You've been upgraded! ✌️",
   "parent_was_upgraded_to_premium_text": "PLZ_CHECK Now you can order the card!",
-  "parent_was_upgraded_to_premium_button": "PLZ_CHECK Get Card!"
+  "parent_was_upgraded_to_premium_button": "PLZ_CHECK Get Card!",
+  "popular_for_x_year_olds": "PLZ_CHECK pupular for %1$d year olds"
 }
