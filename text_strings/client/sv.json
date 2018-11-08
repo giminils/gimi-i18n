@@ -1934,5 +1934,7 @@
   "verify_email_title": "PLZ_CHECK Verify your email",
   "allow_all_relations_to_transfer_title": "PLZ_CHECK Want to allow %1$d to receive money from other supporters?",
   "allow_all_relations_to_transfer_desc": "PLZ_CHECK %1$d needs your approval to receive money.",
-  "cant_update_same_code_error": "PLZ_CHECK Can't update passcode to old passcode "
+  "cant_update_same_code_error": "PLZ_CHECK Can't update passcode to old passcode ",
+  "order_card_enter_email_title": "PLZ_CHECK Type your email address",
+  "order_card_enter_email_subtitle": "PLZ_CHECK We need it to secure your account."
 }
