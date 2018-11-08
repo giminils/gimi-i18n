@@ -1934,11 +1934,11 @@
   "verify_email_title": "Verifiera din e-post",
   "allow_all_relations_to_transfer_title": "Vill du tillåta insättningar till %1$d från andra vuxna?",
   "allow_all_relations_to_transfer_desc": "%1$d behöver din tillåtelse för att ta emot pengar.",
-  "cant_update_same_code_error": "PLZ_CHECK Can't update passcode to old passcode ",
-  "order_card_enter_email_title": "PLZ_CHECK Type your email address",
-  "order_card_enter_email_subtitle": "PLZ_CHECK We need it to secure your account.",
-  "kid_chores_explainer_button": "PLZ_CHECK Suggest a chore!",
-  "kid_chores_explainer_title": "PLZ_CHECK Chores let you earn more money!",
-  "kid_chores_explainer_text": "PLZ_CHECK You can suggest chores yourself, or ask a grownup to assign them to you. But you always need a grownup to approve and pay your chores. The more chores you do, the more money you earn!",
-  "kid_chore_explainer_removable_button": "PLZ_CHECK How do chores work?"
+  "cant_update_same_code_error": "PLZ_CHECK Can't update passcode to old passcode",
+  "order_card_enter_email_title": "Skriv in din e-post",
+  "order_card_enter_email_subtitle": "Vi behöver den för att säkra ditt konto.",
+  "kid_chores_explainer_button": "Föreslå en uppgift!",
+  "kid_chores_explainer_title": "Gör uppgifter och tjäna pengar!",
+  "kid_chores_explainer_text": "Du kan föreslå uppgifter eller be vuxna i appen att ge ut uppgifter till dig. De vuxna behöver alltid godkänna en upgift som du har skickat in som klar. Ju fler uppgifter du gör, ju mer tjänar du!",
+  "kid_chore_explainer_removable_button": "Hur fungerar uppgifter i appen?"
 }
