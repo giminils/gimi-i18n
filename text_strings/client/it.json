@@ -1933,5 +1933,6 @@
   "popular_for_x_year_olds": "PLZ_TRANSLATE pupular for %1$d year olds",
   "verify_email_title": "PLZ_TRANSLATE Verify your email",
   "allow_all_relations_to_transfer_title": "PLZ_TRANSLATE Want to allow %1$d to receive money from other supporters?",
-  "allow_all_relations_to_transfer_desc": "PLZ_TRANSLATE %1$d needs your approval to receive money."
+  "allow_all_relations_to_transfer_desc": "PLZ_TRANSLATE %1$d needs your approval to receive money.",
+  "cant_update_same_code_error": "PLZ_TRANSLATE Can't update passcode to old passcode "
 }
