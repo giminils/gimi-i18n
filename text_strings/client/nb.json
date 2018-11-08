@@ -1936,5 +1936,9 @@
   "allow_all_relations_to_transfer_desc": "PLZ_TRANSLATE %1$d needs your approval to receive money.",
   "cant_update_same_code_error": "PLZ_TRANSLATE Can't update passcode to old passcode ",
   "order_card_enter_email_title": "PLZ_TRANSLATE Type your email address",
-  "order_card_enter_email_subtitle": "PLZ_TRANSLATE We need it to secure your account."
+  "order_card_enter_email_subtitle": "PLZ_TRANSLATE We need it to secure your account.",
+  "kid_chores_explainer_button": "PLZ_TRANSLATE Suggest a chore!",
+  "kid_chores_explainer_title": "PLZ_TRANSLATE Chores let you earn more money!",
+  "kid_chores_explainer_text": "PLZ_TRANSLATE You can suggest chores yourself, or ask a grownup to assign them to you. But you always need a grownup to approve and pay your chores. The more chores you do, the more money you earn!",
+  "kid_chore_explainer_removable_button": "PLZ_TRANSLATE How do chores work?"
 }
