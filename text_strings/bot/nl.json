@@ -337,5 +337,9 @@
   "bot_btn_of_course": "PLZ_TRANSLATE Of course",
   "bot_link_check_it_out": "PLZ_TRANSLATE Check it out",
   "bot_btn_i_will_try": "PLZ_TRANSLATE I will try",
-  "bot_says_you_have_a_dream": "PLZ_TRANSLATE Oh... I thought you were saving for your dream!"
+  "bot_says_you_have_a_dream": "PLZ_TRANSLATE Oh... I thought you were saving for your dream!",
+  "bot_says_balance": "PLZ_TRANSLATE You’ve got %1$d!",
+  "bot_says_payday_payout": "PLZ_TRANSLATE You'll get %1$d on Payday!",
+  "bot_says_amount_in_days": "PLZ_TRANSLATE You'll get another %1$d in %2$d days!",
+  "bot_says_amount_in_day": "PLZ_TRANSLATE You'll get another %1$d tomorrow!"
 }

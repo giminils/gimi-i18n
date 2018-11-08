@@ -1940,5 +1940,6 @@
   "kid_chores_explainer_button": "Föreslå en uppgift!",
   "kid_chores_explainer_title": "Gör uppgifter och tjäna pengar!",
   "kid_chores_explainer_text": "Du kan föreslå uppgifter eller be vuxna i appen att ge ut uppgifter till dig. De vuxna behöver alltid godkänna en upgift som du har skickat in som klar. Ju fler uppgifter du gör, ju mer tjänar du!",
-  "kid_chore_explainer_removable_button": "Hur fungerar uppgifter i appen?"
+  "kid_chore_explainer_removable_button": "Hur fungerar uppgifter i appen?",
+  "settle_debt_to_kid_name": "PLZ_CHECK Settle your debt to %1$d"
 }

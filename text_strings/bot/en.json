@@ -337,5 +337,9 @@
   "bot_btn_of_course": "Of course",
   "bot_link_check_it_out": "Check it out",
   "bot_btn_i_will_try": "I will try",
-  "bot_says_you_have_a_dream": "Oh... I thought you were saving for your dream!"
+  "bot_says_you_have_a_dream": "Oh... I thought you were saving for your dream!",
+  "bot_says_balance": "You’ve got %1$d!",
+  "bot_says_payday_payout": "You'll get %1$d on Payday!",
+  "bot_says_amount_in_days": "You'll get another %1$d in %2$d days!",
+  "bot_says_amount_in_day": "You'll get another %1$d tomorrow!"
 }
