@@ -1947,5 +1947,8 @@
   "parent_payday_explainer_text": "...not all the time, or when you want it. Gimi teaches children to wait for this day, and to make sure the money they earn will last till the next payday. Just like adults do!",
   "parent_payday_explainer_removable_button": "Why payday?",
   "parent_approved_chore_title": "You approved %1$d",
-  "parent_approved_chore_desc": "%1$d will get money on the next payday!"
+  "parent_approved_chore_desc": "%1$d will get money on the next payday!",
+  "kid_payday_explainer_title": "You get money on payday",
+  "kid_payday_explainer_text": "...not all the time, or when you want it. You need to wait for this day, and to make sure the money you earn will last till the next payday. Just like adults do!",
+  "kid_payday_explainer_removable_button": "Why payday?"
 }
