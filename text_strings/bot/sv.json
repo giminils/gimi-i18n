@@ -357,5 +357,13 @@
   "bot_btn_delicious": "PLZ_CHECK Delicious",
   "bot_btn_face_vomiting": "PLZ_CHECK 🤮",
   "bot_says_everyone_is_different": "PLZ_CHECK Well, everyone's different I guess!",
-  "bot_btn_probably": "PLZ_CHECK Probably"
+  "bot_btn_probably": "PLZ_CHECK Probably",
+  "bot_says_what_if_you_found_money": "PLZ_CHECK What would you do if you found 1000 %1$d?",
+  "bot_btn_keep_them": "PLZ_CHECK Keep them",
+  "bot_btn_go_to_police": "PLZ_CHECK Go to the police",
+  "bot_says_you_should_turn_them_in": "PLZ_CHECK But they're not yours! You should give them to the police!",
+  "bot_says_who_knows_finders_fee": "PLZ_CHECK And who knows, maybe you'll get a finders fee :)",
+  "bot_btn_now_you_are_talking": "PLZ_CHECK Now you're talking",
+  "bot_says_might_get_finders_fee": "PLZ_CHECK That's very nice of you! You might even get a finders fee!",
+  "bot_btn_i_do_my_best": "PLZ_CHECK I do my best"
 }

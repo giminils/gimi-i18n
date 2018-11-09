@@ -357,5 +357,13 @@
   "bot_btn_delicious": "Delicious",
   "bot_btn_face_vomiting": "🤮",
   "bot_says_everyone_is_different": "Well, everyone's different I guess!",
-  "bot_btn_probably": "Probably"
+  "bot_btn_probably": "Probably",
+  "bot_says_what_if_you_found_money": "What would you do if you found 1000 %1$d?",
+  "bot_btn_keep_them": "Keep them",
+  "bot_btn_go_to_police": "Go to the police",
+  "bot_says_you_should_turn_them_in": "But they're not yours! You should give them to the police!",
+  "bot_says_who_knows_finders_fee": "And who knows, maybe you'll get a finders fee :)",
+  "bot_btn_now_you_are_talking": "Now you're talking",
+  "bot_says_might_get_finders_fee": "That's very nice of you! You might even get a finders fee!",
+  "bot_btn_i_do_my_best": "I do my best"
 }
