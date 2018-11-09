@@ -1941,5 +1941,6 @@
   "kid_chores_explainer_title": "PLZ_TRANSLATE Chores let you earn more money!",
   "kid_chores_explainer_text": "PLZ_TRANSLATE You can suggest chores yourself, or ask a grownup to assign them to you. But you always need a grownup to approve and pay your chores. The more chores you do, the more money you earn!",
   "kid_chore_explainer_removable_button": "PLZ_TRANSLATE How do chores work?",
-  "settle_debt_to_kid_name": "PLZ_TRANSLATE Settle your debt to %1$d"
+  "settle_debt_to_kid_name": "PLZ_TRANSLATE Settle your debt to %1$d",
+  "checkout_influencer_notification": "PLZ_TRANSLATE Check out how influencers are using Gimi!"
 }
