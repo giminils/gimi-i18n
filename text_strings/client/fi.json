@@ -1959,5 +1959,8 @@
   "activated_card_tutorial_parent_header_2": "PLZ_TRANSLATE Child is loading the card with money from savings",
   "activated_card_tutorial_parent_section_2": "PLZ_TRANSLATE blablabla",
   "activated_card_tutorial_parent_header_3": "PLZ_TRANSLATE Block the card in settings if needed",
-  "activated_card_tutorial_parent_section_3": "PLZ_TRANSLATE blablabla"
+  "activated_card_tutorial_parent_section_3": "PLZ_TRANSLATE blablabla",
+  "spending_type_daily": "PLZ_TRANSLATE daily",
+  "spending_type_weekly": "PLZ_TRANSLATE weekly",
+  "spending_type_monthly": "PLZ_TRANSLATE monthly"
 }

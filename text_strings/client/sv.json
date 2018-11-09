@@ -1959,5 +1959,8 @@
   "activated_card_tutorial_parent_header_2": "PLZ_CHECK Child is loading the card with money from savings",
   "activated_card_tutorial_parent_section_2": "PLZ_CHECK blablabla",
   "activated_card_tutorial_parent_header_3": "PLZ_CHECK Block the card in settings if needed",
-  "activated_card_tutorial_parent_section_3": "PLZ_CHECK blablabla"
+  "activated_card_tutorial_parent_section_3": "PLZ_CHECK blablabla",
+  "spending_type_daily": "PLZ_CHECK daily",
+  "spending_type_weekly": "PLZ_CHECK weekly",
+  "spending_type_monthly": "PLZ_CHECK monthly"
 }
