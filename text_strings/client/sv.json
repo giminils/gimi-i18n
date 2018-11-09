@@ -1286,7 +1286,7 @@
   "card_is_active": "Kortet är aktiverat",
   "general_card_pin": "PIN-kod",
   "card_information": "Information om kortet",
-  "spending_limit_header": "Hur mycket kan %1$d spendera?",
+  "spending_limit_header": "PLZ_CHECK How much can %1$d spend %2$d?",
   "spending_period_header": "Under vilken period?",
   "savings_per_month_parent": "Kvar denna månad",
   "savings_per_month_child": "Kvar denna månad",

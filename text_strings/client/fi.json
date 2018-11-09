@@ -1286,7 +1286,7 @@
   "card_is_active": "Kortti on aktivoitu",
   "general_card_pin": "Kortti PIN",
   "card_information": "Kortti-info",
-  "spending_limit_header": "Kuinka paljon %1$d voi kuluttaa?",
+  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend %2$d?",
   "spending_period_header": "Millä jaksolla?",
   "savings_per_month_parent": "Jäljellä tässä kuussa",
   "savings_per_month_child": "Jäljellä tässä kuussa",
