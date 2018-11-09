@@ -358,7 +358,7 @@
   "bot_btn_face_vomiting": "PLZ_TRANSLATE 🤮",
   "bot_says_everyone_is_different": "PLZ_TRANSLATE Well, everyone's different I guess!",
   "bot_btn_probably": "PLZ_TRANSLATE Probably",
-  "bot_says_what_if_you_found_money": "PLZ_TRANSLATE What would you do if you found 1000 %1$d?",
+  "bot_says_what_if_you_found_money": "PLZ_TRANSLATE What would you do if you found %1$d?",
   "bot_btn_keep_them": "PLZ_TRANSLATE Keep them",
   "bot_btn_go_to_police": "PLZ_TRANSLATE Go to the police",
   "bot_says_you_should_turn_them_in": "PLZ_TRANSLATE But they're not yours! You should give them to the police!",
