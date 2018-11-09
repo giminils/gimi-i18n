@@ -341,5 +341,21 @@
   "bot_says_balance": "PLZ_CHECK You’ve got %1$d!",
   "bot_says_payday_payout": "PLZ_CHECK You'll get %1$d on Payday!",
   "bot_says_amount_in_days": "PLZ_CHECK You'll get another %1$d in %2$d days!",
-  "bot_says_amount_in_day": "PLZ_CHECK You'll get another %1$d tomorrow!"
+  "bot_says_amount_in_day": "PLZ_CHECK You'll get another %1$d tomorrow!",
+  "bot_says_dream_about_chef": "PLZ_CHECK Do you dream about becoming a chef?",
+  "bot_says_make_sunday_dinner": "PLZ_CHECK Why not making Sunday dinner for your family?",
+  "bot_says_never_know_unless_try": "PLZ_CHECK You'll never know unless you try!",
+  "bot_says_try_make_sunday_dinner": "PLZ_CHECK Why not trying to make Sunday dinner this week?",
+  "bot_btn_true": "PLZ_CHECK True",
+  "bot_says_do_you_like_cake": "PLZ_CHECK Do you like cake?",
+  "bot_btn_love_it": "PLZ_CHECK Love it",
+  "bot_btn_hate_it": "PLZ_CHECK Hate it",
+  "bot_says_wanna_know_recepie": "PLZ_CHECK Wanna know my secret recepie?",
+  "bot_says_i_love_cake": "PLZ_CHECK I love cake! But I guess that everyone is different :)",
+  "bot_says_cake_recepie": "PLZ_CHECK Mix ice cream, whipped cream, marshmallows, chocolate sauce, bananas and strawberries in a bowl",
+  "bot_says_done_eat_with_spoon": "PLZ_CHECK You're done! Eat it with a spoon :)",
+  "bot_btn_delicious": "PLZ_CHECK Delicious",
+  "bot_btn_face_vomiting": "PLZ_CHECK 🤮",
+  "bot_says_everyone_is_different": "PLZ_CHECK Well, everyone's different I guess!",
+  "bot_btn_probably": "PLZ_CHECK Probably"
 }

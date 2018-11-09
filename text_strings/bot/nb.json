@@ -341,5 +341,21 @@
   "bot_says_balance": "PLZ_TRANSLATE You’ve got %1$d!",
   "bot_says_payday_payout": "PLZ_TRANSLATE You'll get %1$d on Payday!",
   "bot_says_amount_in_days": "PLZ_TRANSLATE You'll get another %1$d in %2$d days!",
-  "bot_says_amount_in_day": "PLZ_TRANSLATE You'll get another %1$d tomorrow!"
+  "bot_says_amount_in_day": "PLZ_TRANSLATE You'll get another %1$d tomorrow!",
+  "bot_says_dream_about_chef": "PLZ_TRANSLATE Do you dream about becoming a chef?",
+  "bot_says_make_sunday_dinner": "PLZ_TRANSLATE Why not making Sunday dinner for your family?",
+  "bot_says_never_know_unless_try": "PLZ_TRANSLATE You'll never know unless you try!",
+  "bot_says_try_make_sunday_dinner": "PLZ_TRANSLATE Why not trying to make Sunday dinner this week?",
+  "bot_btn_true": "PLZ_TRANSLATE True",
+  "bot_says_do_you_like_cake": "PLZ_TRANSLATE Do you like cake?",
+  "bot_btn_love_it": "PLZ_TRANSLATE Love it",
+  "bot_btn_hate_it": "PLZ_TRANSLATE Hate it",
+  "bot_says_wanna_know_recepie": "PLZ_TRANSLATE Wanna know my secret recepie?",
+  "bot_says_i_love_cake": "PLZ_TRANSLATE I love cake! But I guess that everyone is different :)",
+  "bot_says_cake_recepie": "PLZ_TRANSLATE Mix ice cream, whipped cream, marshmallows, chocolate sauce, bananas and strawberries in a bowl",
+  "bot_says_done_eat_with_spoon": "PLZ_TRANSLATE You're done! Eat it with a spoon :)",
+  "bot_btn_delicious": "PLZ_TRANSLATE Delicious",
+  "bot_btn_face_vomiting": "PLZ_TRANSLATE 🤮",
+  "bot_says_everyone_is_different": "PLZ_TRANSLATE Well, everyone's different I guess!",
+  "bot_btn_probably": "PLZ_TRANSLATE Probably"
 }
