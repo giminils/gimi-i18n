@@ -1942,5 +1942,8 @@
   "kid_chores_explainer_text": "You can suggest chores yourself, or ask a grownup to assign them to you. But you always need a grownup to approve and pay your chores. The more chores you do, the more money you earn!",
   "kid_chore_explainer_removable_button": "How do chores work?",
   "settle_debt_to_kid_name": "Settle your debt to %1$d",
-  "checkout_influencer_notification": "Check out how influencers are using Gimi!"
+  "checkout_influencer_notification": "Check out how influencers are using Gimi!",
+  "parent_payday_explainer_title": "Money comes on payday",
+  "parent_payday_explainer_text": "...not all the time, or when you want it. Gimi teaches children to wait for this day, and to make sure the money they earn will last till the next payday. Just like adults do!",
+  "parent_payday_explainer_removable_button": "Why payday?"
 }
