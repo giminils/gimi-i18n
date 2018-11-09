@@ -370,5 +370,18 @@
   "bot_says_cool_wanna_see_me_do_one": "PLZ_TRANSLATE So cool! Wanna see me do one?",
   "bot_says_wanna_see_me_do_one": "PLZ_TRANSLATE Wanna see me do one?",
   "bot_says_turn_your_phone_upside_down": "PLZ_TRANSLATE Turn your phone upside down",
-  "bot_btn_show_me": "PLZ_TRANSLATE Show me"
+  "bot_btn_show_me": "PLZ_TRANSLATE Show me",
+  "bot_says_weather_today": "PLZ_TRANSLATE What's the weather today? ",
+  "bot_btn_sun": "PLZ_TRANSLATE ☀️",
+  "bot_btn_cloud": "PLZ_TRANSLATE ☁️",
+  "bot_btn_cloud_with_rain": "PLZ_TRANSLATE 🌧️",
+  "bot_btn_snowflake": "PLZ_TRANSLATE ❄️",
+  "bot_says_sunscreen": "PLZ_TRANSLATE Don't forget sunscreen!",
+  "bot_btn_too_late": "PLZ_TRANSLATE Too late",
+  "bot_says_sky_is_there": "PLZ_TRANSLATE Remember that the blue sky is always there!",
+  "bot_btn_so_deep": "PLZ_TRANSLATE So deep",
+  "bot_btn_so_true": "PLZ_TRANSLATE So true",
+  "bot_says_jump_in_water": "PLZ_TRANSLATE I'm jealous! Jump in a pool of water for me please!",
+  "bot_says_make_snowman": "PLZ_TRANSLATE Make a snowman for me please!",
+  "bot_btn_will_not_happen": "PLZ_TRANSLATE Won't happen"
 }
