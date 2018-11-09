@@ -365,5 +365,10 @@
   "bot_says_who_knows_finders_fee": "And who knows, maybe you'll get a finders fee :)",
   "bot_btn_now_you_are_talking": "Now you're talking",
   "bot_says_might_get_finders_fee": "That's very nice of you! You might even get a finders fee!",
-  "bot_btn_i_do_my_best": "I do my best"
+  "bot_btn_i_do_my_best": "I do my best",
+  "bot_says_can_you_headstand": "Can you do a headstand?",
+  "bot_says_cool_wanna_see_me_do_one": "So cool! Wanna see me do one?",
+  "bot_says_wanna_see_me_do_one": "Wanna see me do one?",
+  "bot_says_turn_your_phone_upside_down": "Turn your phone upside down",
+  "bot_btn_show_me": "Show me"
 }
