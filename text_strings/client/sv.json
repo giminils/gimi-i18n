@@ -1951,5 +1951,13 @@
   "kid_payday_explainer_title": "PLZ_CHECK You get money on payday",
   "kid_payday_explainer_text": "PLZ_CHECK ...not all the time, or when you want it. You need to wait for this day, and to make sure the money you earn will last till the next payday. Just like adults do!",
   "kid_payday_explainer_removable_button": "PLZ_CHECK Why payday?",
-  "card_spending_notifications": "PLZ_CHECK Spending notifications"
+  "card_spending_notifications": "PLZ_CHECK Spending notifications",
+  "activated_card_tutorial_parent_title": "PLZ_CHECK %1$d has activated the Gimi card",
+  "activated_card_tutorial_parent_subtitle": "PLZ_CHECK Ready for spending",
+  "activated_card_tutorial_parent_header_1": "PLZ_CHECK You can follow all purchases etc..",
+  "activated_card_tutorial_parent_section_1": "PLZ_CHECK blablabla",
+  "activated_card_tutorial_parent_header_2": "PLZ_CHECK Child is loading the card with money from savings",
+  "activated_card_tutorial_parent_section_2": "PLZ_CHECK blablabla",
+  "activated_card_tutorial_parent_header_3": "PLZ_CHECK Block the card in settings if needed",
+  "activated_card_tutorial_parent_section_3": "PLZ_CHECK blablabla"
 }
