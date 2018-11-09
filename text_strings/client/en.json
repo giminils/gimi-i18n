@@ -1934,7 +1934,7 @@
   "verify_email_title": "Verify your email",
   "allow_all_relations_to_transfer_title": "Want to allow %1$d to receive money from other supporters?",
   "allow_all_relations_to_transfer_desc": "%1$d needs your approval to receive money.",
-  "cant_update_same_code_error": "PLZ_COPY You can't use the same code",
+  "cant_update_same_code_error": "You can't use the same code",
   "order_card_enter_email_title": "Type your email address",
   "order_card_enter_email_subtitle": "We need it to secure your account.",
   "kid_chores_explainer_button": "Suggest a chore!",

@@ -1934,7 +1934,7 @@
   "verify_email_title": "PLZ_TRANSLATE Verify your email",
   "allow_all_relations_to_transfer_title": "PLZ_TRANSLATE Want to allow %1$d to receive money from other supporters?",
   "allow_all_relations_to_transfer_desc": "PLZ_TRANSLATE %1$d needs your approval to receive money.",
-  "cant_update_same_code_error": "PLZ_TRANSLATE Can't update passcode to old passcode ",
+  "cant_update_same_code_error": "PLZ_TRANSLATE You can't use the same code",
   "order_card_enter_email_title": "PLZ_TRANSLATE Type your email address",
   "order_card_enter_email_subtitle": "PLZ_TRANSLATE We need it to secure your account.",
   "kid_chores_explainer_button": "PLZ_TRANSLATE Suggest a chore!",
