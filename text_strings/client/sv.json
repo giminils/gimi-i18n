@@ -1945,5 +1945,7 @@
   "checkout_influencer_notification": "PLZ_CHECK Check out how influencers are using Gimi!",
   "parent_payday_explainer_title": "PLZ_CHECK Money comes on payday",
   "parent_payday_explainer_text": "PLZ_CHECK ...not all the time, or when you want it. Gimi teaches children to wait for this day, and to make sure the money they earn will last till the next payday. Just like adults do!",
-  "parent_payday_explainer_removable_button": "PLZ_CHECK Why payday?"
+  "parent_payday_explainer_removable_button": "PLZ_CHECK Why payday?",
+  "parent_approved_chore_title": "PLZ_CHECK You approved %1$d",
+  "parent_approved_chore_desc": "PLZ_CHECK %1$d will get money on the next payday!"
 }
