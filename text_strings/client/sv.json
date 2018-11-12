@@ -1933,7 +1933,7 @@
   "verify_email_title": "Verifiera din e-post",
   "allow_all_relations_to_transfer_title": "Vill du tillåta insättningar till %1$d från andra vuxna?",
   "allow_all_relations_to_transfer_desc": "%1$d behöver din tillåtelse för att ta emot pengar.",
-  "cant_update_same_code_error": "PLZ_CHECK You can't use the same code",
+  "cant_update_same_code_error": "Du kan inte använda samma kod",
   "order_card_enter_email_title": "Skriv in din e-post",
   "order_card_enter_email_subtitle": "Vi behöver den för att säkra ditt konto.",
   "kid_chores_explainer_button": "Föreslå en uppgift!",
