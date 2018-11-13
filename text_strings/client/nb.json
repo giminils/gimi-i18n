@@ -1793,7 +1793,7 @@
   "change_push_permission_title": "Tillat push-varsler",
   "change_push_permission_desc": "Denne appen trenger tilgang til push-varsler, slik at du ikke går glipp av noe",
   "card_good_to_know_load_account_title_parent": "Laster inn kontoen din",
-  "card_good_to_know_load_account_description_parrent": "Legg til dine kontaktopplysninger i appen for å sette inn penger på barnets Gimi-konto. Bekymret for å glemme en utbetaling? Slapp av, vi vil gi deg en påminnelse hver måned om å sette inn de inn på Gimmi-kontoen, men det er selvsagt du som bestemmer når og hvor mye. Du kan fylle opp Gimi-kontoen når du måtte ønske det, ved å trykke på den rosa pluss-knappen på startskjermen. Merk at det er en grense på maks 10 overføringer per dag.",
+  "card_good_to_know_load_account_description_parrent": "Legg til dine kontaktopplysninger i appen for å sette inn penger på barnets Gimi-konto. Bekymret for å glemme en utbetaling? Slapp av, vi vil sende deg en påminnelse hver måned, men det er selvsagt du som bestemmer når og hvor mye du vil overføre. Du kan fylle opp Gimi-kontoen når som helst ved å trykke på den rosa pluss-knappen på startskjermen. Merk at det er en grense på maks 10 overføringer per dag.",
   "card_good_to_know_pin_parent": "PIN-kode for kort",
   "card_good_to_know_pin_description_parrent": "Du kan ikke selv velge PIN-koden. Det er viktig at barnet ditt husker PIN-koden. Under innstillinger i appen kan du få en påminnelse om PIN-koden.",
   "card_good_to_know_load_card_title_parent": "Hvordan overføre penger til kortet",
