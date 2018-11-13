@@ -1286,7 +1286,7 @@
   "card_is_active": "Kortet er aktivt",
   "general_card_pin": "PIN-kode for kort",
   "card_information": "Kortinformasjon",
-  "spending_limit_header": "Hvor mye kan %1$d bruke?",
+  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend %2$d?",
   "spending_period_header": "I hvilken periode?",
   "savings_per_month_parent": "Igjen denne måneden",
   "savings_per_month_child": "Igjen denne måneden",

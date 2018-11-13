@@ -1286,7 +1286,7 @@
   "card_is_active": "La carta è attiva",
   "general_card_pin": "Pin della carta",
   "card_information": "Informazioni Carta ",
-  "spending_limit_header": " Quanto può spendere %1$d?",
+  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend %2$d?",
   "spending_period_header": "Durante quale periodo?",
   "savings_per_month_parent": "Rimasti questo mese",
   "savings_per_month_child": "Rimasti questo mese",

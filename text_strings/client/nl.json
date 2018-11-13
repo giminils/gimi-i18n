@@ -1286,7 +1286,7 @@
   "card_is_active": "Kaart is actief",
   "general_card_pin": "Kaart pincode",
   "card_information": "Kaart Informatie",
-  "spending_limit_header": "Hoeveel kan %1$d uitgeven?",
+  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend %2$d?",
   "spending_period_header": "In welke periode?",
   "savings_per_month_parent": "Over deze maand",
   "savings_per_month_child": "Over deze maand",
