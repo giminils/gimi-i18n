@@ -366,5 +366,19 @@
   "push_chores_waiting": "PLZ_CHECK You have {x} chores waiting. Go to the app to earn money!",
   "event_add_card": "PLZ_CHECK Add your card so you can send money!",
   "event_child_spend": "PLZ_CHECK new_card_purchase",
-  "push_child_spend": "PLZ_CHECK 💳 <ChildName> just spent €10 at <MerchantName>"
+  "push_child_spend": "PLZ_CHECK 💳 <ChildName> just spent €10 at <MerchantName>",
+  "push_promo_week_41_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_41_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_42_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_42_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_43_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_43_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_44_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_44_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_45_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_45_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_46_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_46_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
+  "event_got_money_back": "PLZ_CHECK You got some money back from <MerchantName>",
+  "push_got_money_back": "PLZ_CHECK 💰You just got some money from <MerchantName>!"
 }

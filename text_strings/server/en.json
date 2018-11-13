@@ -366,5 +366,19 @@
   "push_chores_waiting": "You have {x} chores waiting. Go to the app to earn money!",
   "event_add_card": "Add your card so you can send money!",
   "event_child_spend": "new_card_purchase",
-  "push_child_spend": "💳 <ChildName> just spent €10 at <MerchantName>"
+  "push_child_spend": "💳 <ChildName> just spent €10 at <MerchantName>",
+  "push_promo_week_41_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_41_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_42_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_42_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_43_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_43_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_44_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_44_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_45_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_45_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_46_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_46_parent": "Happy weekend! Du är en superförälder ✨",
+  "event_got_money_back": "You got some money back from <MerchantName>",
+  "push_got_money_back": "💰You just got some money from <MerchantName>!"
 }
