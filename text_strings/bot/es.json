@@ -285,7 +285,6 @@
   "bot_btn_bad": "PLZ_TRANSLATE Bad",
   "bot_says_makes_me_happy": "PLZ_TRANSLATE Nice! It makes me happy to hear :)",
   "bot_says_outside_boost_mood": "PLZ_TRANSLATE Try going outside? Sun and fresh air is supposed to boost the mood.",
-  "bot_btn_i_will_try": "PLZ_TRANSLATE I'll try",
   "bot_btn_smiling_face_with_smiling_eyes": "PLZ_TRANSLATE 😊",
   "bot_says_tell_coworkers_why": "PLZ_TRANSLATE Oh no... Want to tell my coworkers why?",
   "bot_says_thanks_letting_me_know": "PLZ_TRANSLATE So not great. But ok. Thanks for letting me know!",
@@ -356,7 +355,7 @@
   "bot_btn_face_vomiting": "PLZ_TRANSLATE 🤮",
   "bot_says_everyone_is_different": "PLZ_TRANSLATE Well, everyone's different I guess!",
   "bot_btn_probably": "PLZ_TRANSLATE Probably",
-  "bot_says_what_if_you_found_money": "PLZ_TRANSLATE What would you do if you found %1$d?",
+  "bot_says_what_if_you_found_money": "PLZ_TRANSLATE What would you do if you found 1000 %1$d?",
   "bot_btn_i_do_my_best": "PLZ_TRANSLATE I do my best",
   "bot_says_can_you_headstand": "PLZ_TRANSLATE Can you do a headstand?",
   "bot_says_cool_wanna_see_me_do_one": "PLZ_TRANSLATE So cool! Wanna see me do one?",
@@ -375,5 +374,14 @@
   "bot_btn_so_true": "PLZ_TRANSLATE So true",
   "bot_says_jump_in_water": "PLZ_TRANSLATE I'm jealous! Jump in a pool of water for me please!",
   "bot_says_make_snowman": "PLZ_TRANSLATE Make a snowman for me please!",
-  "bot_btn_will_not_happen": "PLZ_TRANSLATE Won't happen"
+  "bot_btn_will_not_happen": "PLZ_TRANSLATE Won't happen",
+  "bot_btn_keep_them": "PLZ_TRANSLATE Keep them",
+  "bot_link_check_it_out": "PLZ_TRANSLATE Check it out",
+  "bot_btn_i_will_try": "PLZ_TRANSLATE I will try",
+  "bot_btn_of_course": "PLZ_TRANSLATE Of course",
+  "bot_says_might_get_finders_fee": "PLZ_TRANSLATE That's very nice of you! You might even get a finders fee!",
+  "bot_btn_go_to_police": "PLZ_TRANSLATE Go to the police",
+  "bot_says_you_should_turn_them_in": "PLZ_TRANSLATE But they're not yours! You should give them to the police!",
+  "bot_says_who_knows_finders_fee": "PLZ_TRANSLATE And who knows, maybe you'll get a finders fee :)",
+  "bot_btn_now_you_are_talking": "PLZ_TRANSLATE Now you're talking"
 }
