@@ -1969,5 +1969,6 @@
   "general_show_old": "PLZ_CHECK Show old",
   "passcode_lockdown_title": "PLZ_CHECK Your app is locked",
   "passcode_lockdown_text": "PLZ_CHECK You typed the wrong app passcode too many times, so we had to lock you out. It will unlock again in one hour.",
-  "passcode_lockdown_contact_button": "PLZ_CHECK Contact us"
+  "passcode_lockdown_contact_button": "PLZ_CHECK Contact us",
+  "order_card_done_section_row": "PLZ_CHECK Already done!"
 }
