@@ -1966,5 +1966,8 @@
   "parent_tutorial_section_1_headline": "Kids save in the cloud",
   "parent_tutorial_section_1_text": "The cloud is made out of money that the grownups owe the child. If they want to spend the money, you'll have to make a deposit from the cloud!",
   "waiting_for_approval_notification_disclaimer": "Waiting for approval",
-  "general_show_old": "PLZ_TRANSLATE Show old"
+  "general_show_old": "PLZ_TRANSLATE Show old",
+  "passcode_lockdown_title": "PLZ_TRANSLATE Your app is locked",
+  "passcode_lockdown_text": "PLZ_TRANSLATE You typed the wrong app passcode too many times, so we had to lock you out. It will unlock again in one hour.",
+  "passcode_lockdown_contact_button": "PLZ_TRANSLATE Contact us"
 }
