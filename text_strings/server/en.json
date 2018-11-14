@@ -371,5 +371,17 @@
   "push_got_money_back": "💰You just got some money from <MerchantName>!",
   "push_enter_token_and_log_in": "Hi {{ user.name }}, Enter the code {{ token.code }} in the app or click on the button below to log in. See you in the app! 👋",
   "connect_sms_template_parent": "Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}",
-  "connect_sms_template_child": "Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}"
+  "connect_sms_template_child": "Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}",
+  "push_promo_week_41_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_41_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_42_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_42_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_43_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_43_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_44_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_44_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_45_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_45_parent": "Happy weekend! Du är en superförälder ✨",
+  "push_promo_week_46_child": "Happy weekend! Piggy gillar dig 💖",
+  "push_promo_week_46_parent": "Happy weekend! Du är en superförälder ✨"
 }
