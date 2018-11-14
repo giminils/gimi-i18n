@@ -380,5 +380,6 @@
   "push_promo_week_46_child": "PLZ_CHECK Happy weekend! Piggy gillar dig 💖",
   "push_promo_week_46_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
   "event_got_money_back": "PLZ_CHECK You got some money back from <MerchantName>",
-  "push_got_money_back": "PLZ_CHECK 💰You just got some money from <MerchantName>!"
+  "push_got_money_back": "PLZ_CHECK 💰You just got some money from <MerchantName>!",
+  "push_enter_token_and_log_in": "Hej {{ user.name }}, Ange koden {{ token.code }} i appen eller klicka på knappen nedan för att logga in. Vi ses i appen! 👋"
 }
