@@ -544,7 +544,7 @@
   "spending_limit_text": "Denne funktion giver dig mulighed for at modtage en besked, når dit barn når en udgiftsgrænse. Hvis du ikke ønsker at godkende køb over denne grænse, kan du nemt blokere kortet, indtil du beslutter at der kan foretages køb igen.",
   "question_delete_connection": "er du sikker på, at du vil fjerne %1$d som kontakt?",
   "deposit_permission": "PLZ_TRANSLATE You need permission to make deposits to the account.",
-  "question_deposit_permission_view_only": "PLZ_TRANSLATE Do you want to ask %1$d for permission to deposit money to Child?",
+  "question_deposit_permission_view_only": "PLZ_TRANSLATE Do you want to ask %1$d for permission to deposit money to %1$d?",
   "without_permission_warning": "Uden tilladelse kan du kun se allerede gennemførte transaktioner.",
   "general_permission": "tilladelse",
   "permission_deposit_permission": "PLZ_TRANSLATE before you can deposit money to %1$d, we need to ask the person who set up the Gimi account for %2$d. Do you want to ask for permission?",

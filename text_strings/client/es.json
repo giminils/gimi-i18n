@@ -544,7 +544,7 @@
   "spending_limit_text": "Esta función te permite recibir una notificación cuando tu hijo(a) llegue al límite de gastos. Si no deseas aprobar compras por encima de ese límite, puedes bloquear la tarjeta fácilmente hasta que decidas que se pueden volver a realizar compras.",
   "question_delete_connection": "¿realmente deseas eliminar a %1$d como contacto?",
   "deposit_permission": "PLZ_TRANSLATE You need permission to make deposits to the account.",
-  "question_deposit_permission_view_only": "PLZ_TRANSLATE Do you want to ask %1$d for permission to deposit money to Child?",
+  "question_deposit_permission_view_only": "PLZ_TRANSLATE Do you want to ask %1$d for permission to deposit money to %1$d?",
   "without_permission_warning": "Sin autorización solamente podrás ver las transacciones completadas.",
   "general_permission": "autorización",
   "permission_deposit_permission": "PLZ_TRANSLATE before you can deposit money to %1$d, we need to ask the person who set up the Gimi account for %2$d. Do you want to ask for permission?",
