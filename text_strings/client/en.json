@@ -667,7 +667,7 @@
   "question_amount_to_transfer": "How much do you want to transfer?",
   "convert_cloud_to_real_money_description": "We will deduct the amount from what you owe your child.",
   "general_transfer_money": "Transfer money",
-  "transfer_now": "Transfer now",
+  "transfer_now": "PLZ_COPY Top up the card",
   "full_amount_in_cloud": "The whole cloud balance",
   "my_debt_in_cloud": "My debt to the cloud",
   "least_possible_amount": "Smallest possible amount",
