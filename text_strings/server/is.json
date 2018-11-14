@@ -383,5 +383,7 @@
   "push_promo_week_45_child": "PLZ_TRANSLATE Happy weekend! Piggy gillar dig 💖",
   "push_promo_week_45_parent": "PLZ_TRANSLATE Happy weekend! Du är en superförälder ✨",
   "push_promo_week_46_child": "PLZ_TRANSLATE Happy weekend! Piggy gillar dig 💖",
-  "push_promo_week_46_parent": "PLZ_TRANSLATE Happy weekend! Du är en superförälder ✨"
+  "push_promo_week_46_parent": "PLZ_TRANSLATE Happy weekend! Du är en superförälder ✨",
+  "event_exceed_daily_limit": "PLZ_TRANSLATE total_spend_limit_overreached",
+  "push_exceed_daily_limit": "PLZ_TRANSLATE 💸 <ChildName> just exceeded the daily spending limit!"
 }
