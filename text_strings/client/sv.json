@@ -1973,5 +1973,6 @@
   "order_card_done_section_row": "PLZ_CHECK Already done!",
   "chore_inspiration": "PLZ_CHECK Winter inspiration",
   "general_chore_inspo": "PLZ_CHECK Chore inspiration",
-  "no_new_notifications": "PLZ_CHECK You have no new notifications. So here are some old ones!"
+  "no_new_notifications": "PLZ_CHECK You have no new notifications. So here are some old ones!",
+  "dream_shared_confirmation": "PLZ_CHECK Dream shared!"
 }

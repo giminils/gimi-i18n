@@ -1973,5 +1973,6 @@
   "order_card_done_section_row": "PLZ_TRANSLATE Already done!",
   "chore_inspiration": "PLZ_TRANSLATE Winter inspiration",
   "general_chore_inspo": "PLZ_TRANSLATE Chore inspiration",
-  "no_new_notifications": "PLZ_TRANSLATE You have no new notifications. So here are some old ones!"
+  "no_new_notifications": "PLZ_TRANSLATE You have no new notifications. So here are some old ones!",
+  "dream_shared_confirmation": "PLZ_TRANSLATE Dream shared!"
 }
