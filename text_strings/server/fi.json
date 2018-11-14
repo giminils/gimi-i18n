@@ -381,5 +381,7 @@
   "push_promo_week_46_parent": "PLZ_TRANSLATE Happy weekend! Du är en superförälder ✨",
   "event_got_money_back": "PLZ_TRANSLATE You got some money back from <MerchantName>",
   "push_got_money_back": "PLZ_TRANSLATE 💰You just got some money from <MerchantName>!",
-  "push_enter_token_and_log_in": "PLZ_TRANSLATE Hi {{ user.name }}, Enter the code {{ token.code }} in the app or click on the button below to log in. See you in the app! 👋"
+  "push_enter_token_and_log_in": "PLZ_TRANSLATE Hi {{ user.name }}, Enter the code {{ token.code }} in the app or click on the button below to log in. See you in the app! 👋",
+  "connect_sms_template_parent": "PLZ_TRANSLATE Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}",
+  "connect_sms_template_child": "PLZ_TRANSLATE Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}"
 }

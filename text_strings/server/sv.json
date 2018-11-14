@@ -381,5 +381,7 @@
   "push_promo_week_46_parent": "PLZ_CHECK Happy weekend! Du är en superförälder ✨",
   "event_got_money_back": "PLZ_CHECK You got some money back from <MerchantName>",
   "push_got_money_back": "PLZ_CHECK 💰You just got some money from <MerchantName>!",
-  "push_enter_token_and_log_in": "Hej {{ user.name }}, Ange koden {{ token.code }} i appen eller klicka på knappen nedan för att logga in. Vi ses i appen! 👋"
+  "push_enter_token_and_log_in": "Hej {{ user.name }}, Ange koden {{ token.code }} i appen eller klicka på knappen nedan för att logga in. Vi ses i appen! 👋",
+  "connect_sms_template_parent": "PLZ_CHECK Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}",
+  "connect_sms_template_child": "PLZ_CHECK Hi! {{ connection_token.created_by.name }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url }}"
 }
