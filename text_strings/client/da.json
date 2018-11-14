@@ -667,7 +667,7 @@
   "question_amount_to_transfer": "PLZ_TRANSLATE How much do you want to transfer?",
   "convert_cloud_to_real_money_description": "PLZ_TRANSLATE We will deduct the amount from what you owe your child.",
   "general_transfer_money": "Overfør penge",
-  "transfer_now": "Overfør nu",
+  "transfer_now": "PLZ_TRANSLATE Top up the card",
   "full_amount_in_cloud": "Hele skysaldoen",
   "my_debt_in_cloud": "Min gæld til skyen",
   "least_possible_amount": "Mindste mulige beløb",

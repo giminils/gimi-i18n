@@ -667,7 +667,7 @@
   "question_amount_to_transfer": "PLZ_CHECK How much do you want to transfer?",
   "convert_cloud_to_real_money_description": "PLZ_CHECK We will deduct the amount from what you owe your child.",
   "general_transfer_money": "Överför pengar",
-  "transfer_now": "Överför nu",
+  "transfer_now": "PLZ_CHECK Top up the card",
   "full_amount_in_cloud": "Hela beloppet i molnet",
   "my_debt_in_cloud": "Min skuld i molnet",
   "least_possible_amount": "Minsta möjliga belopp",

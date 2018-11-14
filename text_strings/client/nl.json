@@ -667,7 +667,7 @@
   "question_amount_to_transfer": "PLZ_TRANSLATE How much do you want to transfer?",
   "convert_cloud_to_real_money_description": "PLZ_TRANSLATE We will deduct the amount from what you owe your child.",
   "general_transfer_money": "Geld overmaken",
-  "transfer_now": "Maak nu over",
+  "transfer_now": "PLZ_TRANSLATE Top up the card",
   "full_amount_in_cloud": "Het hele saldo in de cloud",
   "my_debt_in_cloud": "Mijn schuld aan de cloud",
   "least_possible_amount": "Kleinst mogelijke hoeveelheid",
