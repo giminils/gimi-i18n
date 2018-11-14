@@ -1,7 +1,10 @@
 {
   "course_earn_title": "PLZ_TRANSLATE Earn",
+  "course_earn_subtitle": "PLZ_TRANSLATE Chapters on earning money",
   "course_save_title": "PLZ_TRANSLATE Save",
+  "course_save_subtitle": "PLZ_TRANSLATE Chapters on saving money",
   "course_spend_title": "PLZ_TRANSLATE Spend",
+  "course_spend_subtitle": "PLZ_TRANSLATE Chapters on spending money",
   "save_chapter_1": "PLZ_TRANSLATE Saving for dummies",
   "save_chapter_1_intro": "PLZ_TRANSLATE Interest can have a great impact on our personal finances, but the concept is quite hard to grasp. In this session you will introduce the cncept by using a small sweet as a metaphor. You can then proceed to explain how it works in a monetary context and show how the savings bonus work in the app.",
   "save_chapter_1_desc": "PLZ_TRANSLATE Introduce the concept of interest using a small sweet.",
