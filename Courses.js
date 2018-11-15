@@ -13,6 +13,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'earn_chapter_1',
+        icon: 'iconLamp',
         chapterName: 'Solving problems',
         titleLangKey: 'earn_chapter_1',
         content: {
@@ -41,6 +42,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'earn_chapter_2',
+        icon: 'iconStore',
         chapterName: 'Selling cookies',
         titleLangKey: 'earn_chapter_2',
         content: {
@@ -73,6 +75,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'earn_chapter_3',
+        icon: 'iconBroom',
         chapterName: 'Declutter challenge',
         titleLangKey: 'earn_chapter_3',
         content: {
@@ -105,6 +108,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'save_chapter_1',
+        icon: 'iconPercent',
         chapterName: 'Intro to interest',
         titleLangKey: 'save_chapter_1',
         content: {
@@ -129,6 +133,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'save_chapter_2',
+        icon: 'iconScissors',
         chapterName: 'Cutting back on sweets',
         titleLangKey: 'save_chapter_2',
         content: {
@@ -153,6 +158,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'save_chapter_3',
+        icon: 'iconToiletPaper',
         chapterName: 'Toilet paper challenge',
         titleLangKey: 'save_chapter_3',
         content: {
@@ -193,6 +199,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'spend_chapter_1',
+        icon: 'iconBoat',
         chapterName: 'Family fun on a budget',
         titleLangKey: 'spend_chapter_1',
         content: {
@@ -221,6 +228,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'spend_chapter_2',
+        icon: 'iconCartFull',
         chapterName: 'Craft a shoppig list',
         titleLangKey: 'spend_chapter_2',
         content: {
@@ -249,6 +257,7 @@ export default [
       {
         ...defaultChapter,
         chapterID: 'spend_chapter_3',
+        icon: 'iconFlipFlops',
         chapterName: 'Shopping for shoes',
         titleLangKey: 'spend_chapter_3',
         content: {
