@@ -1974,5 +1974,12 @@
   "chore_inspiration": "PLZ_TRANSLATE Winter inspiration",
   "general_chore_inspo": "PLZ_TRANSLATE Chore inspiration",
   "no_new_notifications": "PLZ_TRANSLATE You have no new notifications. So here are some old ones!",
-  "dream_shared_confirmation": "PLZ_TRANSLATE Dream shared!"
+  "dream_shared_confirmation": "PLZ_TRANSLATE Dream shared!",
+  "allowance_help_slider_content_for_parent": "PLZ_TRANSLATE The allowance for %1$d is a fixed amount that %1$d is guaranteed from you and other grown ups on every payday.",
+  "names_weekly_allowance_n": "PLZ_TRANSLATE %1$d allowance: %2$d",
+  "names_monthly_allowance_n": "PLZ_TRANSLATE %1$d allowance: %2$d",
+  "chores_help_slider_content_for_parent": "PLZ_TRANSLATE Want to support with more than an allowance? Set up some chores! It will help %1$d to learn the value of earning their own money.",
+  "interest_help_slider_content_for_parent": "PLZ_TRANSLATE Saving money is rewarded with interest on payday. Make sure to set it up, it will teach %1$d that saved money grow over time.",
+  "names_interest": "PLZ_TRANSLATE %1$d interest: %2$d%",
+  "names_savings": "PLZ_TRANSLATE %1$d savings: %2$d"
 }
