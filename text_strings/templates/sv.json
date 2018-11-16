@@ -360,5 +360,9 @@
   "task_title_feed_birds": "Mata fåglarna",
   "task_description_feed_birds": "Lägg ut mat till fåglarna i trädgården",
   "task_title_bake_cake": "Baka en kaka",
-  "task_description_bake_cake": "Baka något gott till fikat"
+  "task_description_bake_cake": "Baka något gott till fikat",
+  "task_title_decorate_house": "PLZ_CHECK Decorate the home",
+  "task_description_decorate_house": "PLZ_CHECK Put the festive decorations up",
+  "task_title_scrape_window": "PLZ_CHECK Scrape ice off car",
+  "task_description_scrape_window": "PLZ_CHECK Help clean the windscreen before a journey"
 }

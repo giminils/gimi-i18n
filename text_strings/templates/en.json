@@ -360,5 +360,9 @@
   "task_title_feed_birds": "Feed the birds",
   "task_description_feed_birds": "Put some food out for the garden birds",
   "task_title_bake_cake": "Bake",
-  "task_description_bake_cake": "Bake something for dessert"
+  "task_description_bake_cake": "Bake something for dessert",
+  "task_title_decorate_house": "Decorate the home",
+  "task_description_decorate_house": "Put the festive decorations up",
+  "task_title_scrape_window": "Scrape ice off car",
+  "task_description_scrape_window": "Help clean the windscreen before a journey"
 }

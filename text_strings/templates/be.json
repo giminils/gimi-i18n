@@ -360,5 +360,9 @@
   "task_title_feed_birds": "PLZ_TRANSLATE Feed the birds",
   "task_description_feed_birds": "PLZ_TRANSLATE Put some food out for the garden birds",
   "task_title_bake_cake": "PLZ_TRANSLATE Bake",
-  "task_description_bake_cake": "PLZ_TRANSLATE Bake something for dessert"
+  "task_description_bake_cake": "PLZ_TRANSLATE Bake something for dessert",
+  "task_title_decorate_house": "PLZ_TRANSLATE Decorate the home",
+  "task_description_decorate_house": "PLZ_TRANSLATE Put the festive decorations up",
+  "task_title_scrape_window": "PLZ_TRANSLATE Scrape ice off car",
+  "task_description_scrape_window": "PLZ_TRANSLATE Help clean the windscreen before a journey"
 }
