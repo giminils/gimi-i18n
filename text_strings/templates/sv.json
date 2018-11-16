@@ -352,5 +352,7 @@
   "task_title_make_playlist": "Gör en spellista",
   "task_description_make_playlist": "Gör en spellista till jul- eller nyårsfesten",
   "task_title_clean_fridge": "Städa kylen",
-  "task_description_clean_fridge": "Så att all festmat får plats"
+  "task_description_clean_fridge": "Så att all festmat får plats",
+  "task_title_big_shop_food": "Handla mat",
+  "task_description_big_shop_food": "Hjälp till att handla mat"
 }

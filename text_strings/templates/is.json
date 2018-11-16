@@ -352,5 +352,7 @@
   "task_title_make_playlist": "PLZ_TRANSLATE Make a playlist",
   "task_description_make_playlist": "PLZ_TRANSLATE Make a fastive playlist for a Christmas or New Year's party",
   "task_title_clean_fridge": "PLZ_TRANSLATE Clean out the fridge",
-  "task_description_clean_fridge": "PLZ_TRANSLATE Clean the fridge and make space for all the festive food"
+  "task_description_clean_fridge": "PLZ_TRANSLATE Clean the fridge and make space for all the festive food",
+  "task_title_big_shop_food": "PLZ_TRANSLATE Do a food shop",
+  "task_description_big_shop_food": "PLZ_TRANSLATE Help out with the Christmas grocery shop"
 }
