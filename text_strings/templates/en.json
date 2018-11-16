@@ -348,5 +348,7 @@
   "goal_template_title_pet": "Pet",
   "goal_template_description_pet": "--",
   "goal_template_title_game": "Game",
-  "goal_template_description_game": "-"
+  "goal_template_description_game": "-",
+  "task_title_make_playlist": "Make a playlist",
+  "task_description_make_playlist": "Make a fastive playlist for a Christmas or New Year's party"
 }
