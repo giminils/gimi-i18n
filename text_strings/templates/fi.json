@@ -366,5 +366,7 @@
   "task_title_scrape_window": "PLZ_TRANSLATE Scrape ice off car",
   "task_description_scrape_window": "PLZ_TRANSLATE Help clean the windscreen before a journey",
   "task_title_wrap_presents": "PLZ_TRANSLATE Wrap presents",
-  "task_description_wrap_presents": "PLZ_TRANSLATE Help wrap presents for the family"
+  "task_description_wrap_presents": "PLZ_TRANSLATE Help wrap presents for the family",
+  "task_title_hoover_carpets": "PLZ_TRANSLATE Hoover the carpets",
+  "task_description_hoover_carpets": "PLZ_TRANSLATE Hoover the needles from under the Christmas tree"
 }
