@@ -358,5 +358,7 @@
   "task_title_big_clean": "Julstäda",
   "task_description_big_clean": "Storstäda hela hemmet",
   "task_title_feed_birds": "Mata fåglarna",
-  "task_description_feed_birds": "Lägg ut mat till fåglarna i trädgården"
+  "task_description_feed_birds": "Lägg ut mat till fåglarna i trädgården",
+  "task_title_bake_cake": "Baka en kaka",
+  "task_description_bake_cake": "Baka något gott till fikat"
 }

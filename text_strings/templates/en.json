@@ -358,5 +358,7 @@
   "task_title_big_clean": "Do a big clean",
   "task_description_big_clean": "Clean the house ready for Christmas",
   "task_title_feed_birds": "Feed the birds",
-  "task_description_feed_birds": "Put some food out for the garden birds"
+  "task_description_feed_birds": "Put some food out for the garden birds",
+  "task_title_bake_cake": "Bake",
+  "task_description_bake_cake": "Bake something for dessert"
 }

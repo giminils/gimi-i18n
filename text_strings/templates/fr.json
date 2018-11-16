@@ -358,5 +358,7 @@
   "task_title_big_clean": "PLZ_TRANSLATE Do a big clean",
   "task_description_big_clean": "PLZ_TRANSLATE Clean the house ready for Christmas",
   "task_title_feed_birds": "PLZ_TRANSLATE Feed the birds",
-  "task_description_feed_birds": "PLZ_TRANSLATE Put some food out for the garden birds"
+  "task_description_feed_birds": "PLZ_TRANSLATE Put some food out for the garden birds",
+  "task_title_bake_cake": "PLZ_TRANSLATE Bake",
+  "task_description_bake_cake": "PLZ_TRANSLATE Bake something for dessert"
 }
