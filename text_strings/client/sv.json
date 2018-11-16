@@ -1981,5 +1981,6 @@
   "chores_help_slider_content_for_parent": "PLZ_CHECK Want to support with more than an allowance? Set up some chores! It will help %1$d to learn the value of earning their own money.",
   "interest_help_slider_content_for_parent": "PLZ_CHECK Saving money is rewarded with interest on payday. Make sure to set it up, it will teach %1$d that saved money grow over time.",
   "names_interest": "PLZ_CHECK %1$d interest: %2$d%",
-  "names_savings": "PLZ_CHECK %1$d savings: %2$d"
+  "names_savings": "PLZ_CHECK %1$d savings: %2$d",
+  "invite_someone_title": "PLZ_CHECK Invite someone"
 }
