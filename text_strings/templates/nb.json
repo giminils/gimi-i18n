@@ -356,5 +356,7 @@
   "task_title_big_shop_food": "PLZ_TRANSLATE Do a food shop",
   "task_description_big_shop_food": "PLZ_TRANSLATE Help out with the Christmas grocery shop",
   "task_title_big_clean": "PLZ_TRANSLATE Do a big clean",
-  "task_description_big_clean": "PLZ_TRANSLATE Clean the house ready for Christmas"
+  "task_description_big_clean": "PLZ_TRANSLATE Clean the house ready for Christmas",
+  "task_title_feed_birds": "PLZ_TRANSLATE Feed the birds",
+  "task_description_feed_birds": "PLZ_TRANSLATE Put some food out for the garden birds"
 }
