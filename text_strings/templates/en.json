@@ -350,5 +350,7 @@
   "goal_template_title_game": "Game",
   "goal_template_description_game": "-",
   "task_title_make_playlist": "Make a playlist",
-  "task_description_make_playlist": "Make a fastive playlist for a Christmas or New Year's party"
+  "task_description_make_playlist": "Make a fastive playlist for a Christmas or New Year's party",
+  "task_title_clean_fridge": "Clean out the fridge",
+  "task_description_clean_fridge": "Clean the fridge and make space for all the festive food"
 }

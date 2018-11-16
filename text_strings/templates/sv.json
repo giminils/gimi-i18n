@@ -350,5 +350,7 @@
   "goal_template_title_game": "PLZ_CHECK Game",
   "goal_template_description_game": "PLZ_CHECK -",
   "task_title_make_playlist": "Gör en spellista",
-  "task_description_make_playlist": "Gör en spellista till jul- eller nyårsfesten"
+  "task_description_make_playlist": "Gör en spellista till jul- eller nyårsfesten",
+  "task_title_clean_fridge": "Städa kylen",
+  "task_description_clean_fridge": "Så att all festmat får plats"
 }
