@@ -364,5 +364,7 @@
   "task_title_decorate_house": "PLZ_TRANSLATE Decorate the home",
   "task_description_decorate_house": "PLZ_TRANSLATE Put the festive decorations up",
   "task_title_scrape_window": "PLZ_TRANSLATE Scrape ice off car",
-  "task_description_scrape_window": "PLZ_TRANSLATE Help clean the windscreen before a journey"
+  "task_description_scrape_window": "PLZ_TRANSLATE Help clean the windscreen before a journey",
+  "task_title_wrap_presents": "PLZ_TRANSLATE Wrap presents",
+  "task_description_wrap_presents": "PLZ_TRANSLATE Help wrap presents for the family"
 }
