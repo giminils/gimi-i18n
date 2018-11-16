@@ -1982,5 +1982,6 @@
   "interest_help_slider_content_for_parent": "PLZ_TRANSLATE Saving money is rewarded with interest on payday. Make sure to set it up, it will teach %1$d that saved money grow over time.",
   "names_interest": "PLZ_TRANSLATE %1$d interest: %2$d%",
   "names_savings": "PLZ_TRANSLATE %1$d savings: %2$d",
-  "invite_someone_title": "PLZ_TRANSLATE Invite someone"
+  "invite_someone_title": "PLZ_TRANSLATE Invite someone",
+  "share_dream_completed_title": "PLZ_TRANSLATE Dream reached!"
 }
