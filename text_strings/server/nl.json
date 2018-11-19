@@ -345,14 +345,12 @@
   "event_subscription_not_paid_card_will_blocked": "Je abonnement is niet betaald, de kaart wordt morgen geblokkeerd!",
   "push_subscription_not_paid_card_will_blocked": "We hebben je betaling voor het premium abonnement niet ontvangen. De kaart wordt binnen 24 uur afgesloten",
   "event_subscription_not_paid_card_blocked": "Je abonnement is niet betaald, de Gimi kaart is geblokkeerd.",
-  "push_subscription_not_paid_card_blocked": "De kaart voor 'kindnaam' is afgesloten. Betaal premium abonnement om ze te deblokkeren.",
   "event_card_has_arrived": "Is je kaart al aangekomen? Activeer ze!",
   "event_transfer_money_to_card": "Je hebt geld in op je rekening gekregen! Wil je het uitgeven? Maak het dan gewoon naar je kaart over.",
   "event_name_blocked_your_card": "Naam heeft je kaart geblokkeerd",
   "push_name_blocked_your_card": "Je kaart is geblokkeerd door 'oudernaam'",
   "event_name_unblocked_your_card": "Naam heeft je kaart geblokkeerd",
   "push_name_unblocked_your_card": "Je kaar is gedeblokkeerd door 'oudernaam'",
-  "event_pfs_payday": "Het is payday voor 'kindnaam'! ",
   "push_add_chores": "Je hebt nog geen klusjes voor 'naam' toegevoegd. Weet je niet wat je wilt toevoegen? Ga naar de app voor goede suggesties!",
   "push_today_pay_day": "Vandaag is payday! 🎉",
   "event_today_pay_day": "Vandaag is payday!",
@@ -389,5 +387,7 @@
   "event_exceed_weekly_limit": "<ChildName> heeft net de wekelijkse uitgaven limiet overschreden!",
   "push_exceed_weekly_limit": "<ChildName> heeft net de wekelijkse uitgaven limiet overschreden!",
   "event_exceed_monthly_limit": "<ChildName> heeft net de maandelijkse uitgaven limiet overschreden!",
-  "push_exceed_monthly_limit": "<ChildName> heeft net de maandelijkse uitgaven limiet overschreden!"
+  "push_exceed_monthly_limit": "<ChildName> heeft net de maandelijkse uitgaven limiet overschreden!",
+  "event_pfs_payday": "PLZ_TRANSLATE It's payday for {child.name}! ",
+  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The card for {child.name} is on lock down. Pay premium subscription to unlock it."
 }
