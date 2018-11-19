@@ -382,12 +382,12 @@
   "push_promo_week_45_parent": "PLZ_TRANSLATE Happy weekend! Du är en superförälder ✨",
   "push_promo_week_46_child": "PLZ_TRANSLATE Happy weekend! Piggy gillar dig 💖",
   "push_promo_week_46_parent": "PLZ_TRANSLATE Happy weekend! Du är en superförälder ✨",
-  "event_exceed_daily_limit": "<ChildName> heeft net de dagelijkse uitgaven limiet overschreden!",
-  "push_exceed_daily_limit": "💸 <ChildName> heeft net de dagelijkse uitgaven limiet overschreden!",
-  "event_exceed_weekly_limit": "<ChildName> heeft net de wekelijkse uitgaven limiet overschreden!",
-  "push_exceed_weekly_limit": "<ChildName> heeft net de wekelijkse uitgaven limiet overschreden!",
-  "event_exceed_monthly_limit": "<ChildName> heeft net de maandelijkse uitgaven limiet overschreden!",
-  "push_exceed_monthly_limit": "<ChildName> heeft net de maandelijkse uitgaven limiet overschreden!",
+  "event_exceed_daily_limit": "PLZ_TRANSLATE <ChildName> just exceeded the daily spending limit!",
+  "push_exceed_daily_limit": "PLZ_TRANSLATE 💸 <ChildName> just exceeded the daily spending limit!",
+  "event_exceed_weekly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the weekly spending limit!",
+  "push_exceed_weekly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the weekly spending limit!",
+  "event_exceed_monthly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the monthly spending limit!",
+  "push_exceed_monthly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the monthly spending limit!",
   "event_pfs_payday": "PLZ_TRANSLATE It's payday for {child.name}! ",
   "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The card for {child.name} is on lock down. Pay premium subscription to unlock it."
 }
