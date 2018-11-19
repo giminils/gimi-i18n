@@ -1983,5 +1983,9 @@
   "names_interest": "PLZ_CHECK %1$d interest: %2$d%",
   "names_savings": "PLZ_CHECK %1$d savings: %2$d",
   "invite_someone_title": "PLZ_CHECK Invite someone",
-  "share_dream_completed_title": "PLZ_CHECK Dream reached!"
+  "share_dream_completed_title": "PLZ_CHECK Dream reached!",
+  "payday_info_desc_parent": "PLZ_CHECK How much was earnt this week:",
+  "payday_info_amount_kid": "PLZ_CHECK Amount",
+  "payday_info_desc_kid": "PLZ_CHECK How much was earnt this week:",
+  "payday_info_amount_parent": "PLZ_CHECK Amount"
 }
