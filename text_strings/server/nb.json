@@ -385,7 +385,7 @@
   "event_exceed_daily_limit": "PLZ_TRANSLATE <ChildName> just exceeded the daily spending limit!",
   "push_exceed_daily_limit": "PLZ_TRANSLATE 💸 <ChildName> just exceeded the daily spending limit!",
   "event_exceed_weekly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the weekly spending limit!",
-  "push_exceed_weekly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the weekly spending limit!",
+  "push_exceed_weekly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the weekly spending imit!",
   "event_exceed_monthly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the monthly spending limit!",
   "push_exceed_monthly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the monthly spending limit!",
   "event_pfs_payday": "PLZ_TRANSLATE It's payday for {child.name}! ",
