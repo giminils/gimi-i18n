@@ -190,7 +190,7 @@
   "question_which_day": "on what day?",
   "welcome_to_gimi": "welcome to Gimi",
   "signin_button": "log in",
-  "general_connect": "create contact",
+  "general_connect": "Connect",
   "create_account": "create account",
   "how_do_you_want_to_login": "how do you want to log in?",
   "general_scan_code": "scan the code",
@@ -1991,5 +1991,7 @@
   "payday_info_how_earnt_desc_parent": "This is how the payday money was earnt! 👍",
   "payday_info_how_earnt_desc_kid": "This is how the payday money was earnt! 👍",
   "payday_info_how_earnt_parent": "How it was earnt",
-  "payday_info_how_earnt_kid": "How it was earnt"
+  "payday_info_how_earnt_kid": "How it was earnt",
+  "connect_with_non_existing_phone_popover_title": "No user with this phone number.",
+  "connect_with_non_existing_phone_popover_text": "We can send a link to share the Gimi app! Or, you can also connect using QR code if you're close to someone who is already a Gimi user."
 }

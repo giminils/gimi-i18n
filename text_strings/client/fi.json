@@ -1991,5 +1991,7 @@
   "payday_info_how_earnt_desc_parent": "PLZ_TRANSLATE This is how the payday money was earnt! 👍",
   "payday_info_how_earnt_desc_kid": "PLZ_TRANSLATE This is how the payday money was earnt! 👍",
   "payday_info_how_earnt_parent": "PLZ_TRANSLATE How it was earnt",
-  "payday_info_how_earnt_kid": "PLZ_TRANSLATE How it was earnt"
+  "payday_info_how_earnt_kid": "PLZ_TRANSLATE How it was earnt",
+  "connect_with_non_existing_phone_popover_title": "PLZ_TRANSLATE No user with this phone number.",
+  "connect_with_non_existing_phone_popover_text": "PLZ_TRANSLATE We can send a link to share the Gimi app! Or, you can also connect using QR code if you're close to someone who is already a Gimi user."
 }
