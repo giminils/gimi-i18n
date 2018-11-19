@@ -1,13 +1,13 @@
 
 import fs from 'fs'
 import jsonValidator from 'json-dup-key-validator'
+import * as path from 'path'
 jest.disableAutomock()
-
-let templateDirs = ['./text_strings/client', './text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/share-image-generator']
 
 describe('JSON files', () => {
   it('LOL', () => {})
-  templateDirs.forEach((dir) => {
+  var dirs = fs.readdirSync('./text_strings/')
+  dirs.forEach((dir) => {
     if (!fs.existsSync(dir)) return
     fs.readdirSync(dir).forEach((file) => {
       if (file === '.DS_Store') return

@@ -26,6 +26,7 @@
       "spaced-comment": 1,
       "camelcase": 1,
       "no-dupe-keys": 1,
+      "no-unused-vars": 1,
       "curly": [1, "multi"],
       "no-self-compare": 1,
       "react/jsx-tag-spacing": ["error", { "beforeSelfClosing": "always" }],
