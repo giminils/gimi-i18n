@@ -1,7 +1,6 @@
 
 import fs from 'fs'
 import jsonValidator from 'json-dup-key-validator'
-import * as path from 'path'
 jest.disableAutomock()
 
 describe('JSON files', () => {
