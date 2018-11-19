@@ -1987,5 +1987,9 @@
   "payday_info_desc_parent": "How much was earnt this week:",
   "payday_info_amount_kid": "Amount",
   "payday_info_desc_kid": "How much was earnt this week:",
-  "payday_info_amount_parent": "Amount"
+  "payday_info_amount_parent": "Amount",
+  "payday_info_how_earnt_desc_parent": "This is how the payday money was earnt! 👍",
+  "payday_info_how_earnt_desc_kid": "This is how the payday money was earnt! 👍",
+  "payday_info_how_earnt_parent": "How it was earnt",
+  "payday_info_how_earnt_kid": "How it was earnt"
 }

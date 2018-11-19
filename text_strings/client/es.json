@@ -1987,5 +1987,9 @@
   "payday_info_desc_parent": "PLZ_TRANSLATE How much was earnt this week:",
   "payday_info_amount_kid": "PLZ_TRANSLATE Amount",
   "payday_info_desc_kid": "PLZ_TRANSLATE How much was earnt this week:",
-  "payday_info_amount_parent": "PLZ_TRANSLATE Amount"
+  "payday_info_amount_parent": "PLZ_TRANSLATE Amount",
+  "payday_info_how_earnt_desc_parent": "PLZ_TRANSLATE This is how the payday money was earnt! 👍",
+  "payday_info_how_earnt_desc_kid": "PLZ_TRANSLATE This is how the payday money was earnt! 👍",
+  "payday_info_how_earnt_parent": "PLZ_TRANSLATE How it was earnt",
+  "payday_info_how_earnt_kid": "PLZ_TRANSLATE How it was earnt"
 }

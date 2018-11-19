@@ -1987,5 +1987,9 @@
   "payday_info_desc_parent": "PLZ_CHECK How much was earnt this week:",
   "payday_info_amount_kid": "PLZ_CHECK Amount",
   "payday_info_desc_kid": "PLZ_CHECK How much was earnt this week:",
-  "payday_info_amount_parent": "PLZ_CHECK Amount"
+  "payday_info_amount_parent": "PLZ_CHECK Amount",
+  "payday_info_how_earnt_desc_parent": "PLZ_CHECK This is how the payday money was earnt! 👍",
+  "payday_info_how_earnt_desc_kid": "PLZ_CHECK This is how the payday money was earnt! 👍",
+  "payday_info_how_earnt_parent": "PLZ_CHECK How it was earnt",
+  "payday_info_how_earnt_kid": "PLZ_CHECK How it was earnt"
 }
