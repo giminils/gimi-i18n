@@ -389,5 +389,6 @@
   "event_exceed_monthly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the monthly spending limit!",
   "push_exceed_monthly_limit": "PLZ_TRANSLATE <ChildName> just exceeded the monthly spending limit!",
   "event_pfs_payday": "PLZ_TRANSLATE It's payday for {child.name}! ",
-  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The card for {child.name} is on lock down. Pay premium subscription to unlock it."
+  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The card for {child.name} is on lock down. Pay premium subscription to unlock it.",
+  "verify_email_subject": "PLZ_TRANSLATE Confirm your email address"
 }
