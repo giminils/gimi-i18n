@@ -393,5 +393,6 @@
   "verify_email_subject": "PLZ_TRANSLATE Confirm your email address",
   "event_short_tutorial": "PLZ_TRANSLATE It's payday for {child.name}",
   "push_add_profile_pic": "PLZ_TRANSLATE -",
-  "event_you_are_connected": "PLZ_TRANSLATE You're now connected with ChildName!"
+  "event_you_are_connected": "PLZ_TRANSLATE You're now connected with ChildName!",
+  "push_card_purcharse_decline": "PLZ_TRANSLATE A card purchase was declined because of low balance!"
 }
