@@ -1667,7 +1667,7 @@
   "setup_kid_change_no_allowance_change_later_popover_title": "Hvis du ombestemmer deg...",
   "setup_kid_change_no_allowance_change_later_popover_text": "...du kan alltid oppdatere dine innstillinger for %1$d!",
   "not_gimi_card_error": "Kortet du skannet er ikke et kort fra Gimi",
-  "cash_payout_withdraw_popover_title": "Du har trukket penger fra%1$d",
+  "cash_payout_withdraw_popover_title": "Du har trukket penger fra %1$d",
   "cash_payout_withdraw_popover_text": "%1$d ble trukket fra sparing",
   "select_parent": "Velg en forelder.",
   "general_apology": "Unnskyld",
