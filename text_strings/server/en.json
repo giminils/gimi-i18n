@@ -392,5 +392,6 @@
   "push_subscription_not_paid_card_blocked": "The card for {child.name} is on lock down. Pay premium subscription to unlock it.",
   "verify_email_subject": "Confirm your email address",
   "event_short_tutorial": "It's payday for {child.name}",
-  "push_add_profile_pic": "-"
+  "push_add_profile_pic": "-",
+  "event_you_are_connected": "You're now connected with ChildName!"
 }

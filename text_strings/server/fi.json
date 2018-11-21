@@ -392,5 +392,6 @@
   "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The card for {child.name} is on lock down. Pay premium subscription to unlock it.",
   "verify_email_subject": "PLZ_TRANSLATE Confirm your email address",
   "event_short_tutorial": "PLZ_TRANSLATE It's payday for {child.name}",
-  "push_add_profile_pic": "PLZ_TRANSLATE -"
+  "push_add_profile_pic": "PLZ_TRANSLATE -",
+  "event_you_are_connected": "PLZ_TRANSLATE You're now connected with ChildName!"
 }
