@@ -394,5 +394,6 @@
   "event_short_tutorial": "PLZ_TRANSLATE It's payday for {child.name}",
   "push_add_profile_pic": "PLZ_TRANSLATE -",
   "event_you_are_connected": "PLZ_TRANSLATE You're now connected with ChildName!",
-  "push_card_purcharse_decline": "PLZ_TRANSLATE A card purchase was declined because of low balance!"
+  "push_card_purcharse_decline": "PLZ_TRANSLATE A card purchase was declined because of low balance!",
+  "event_how_premium_work": "PLZ_TRANSLATE How Premium works"
 }

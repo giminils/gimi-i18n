@@ -394,5 +394,6 @@
   "event_short_tutorial": "It's payday for {child.name}",
   "push_add_profile_pic": "-",
   "event_you_are_connected": "You're now connected with ChildName!",
-  "push_card_purcharse_decline": "A card purchase was declined because of low balance!"
+  "push_card_purcharse_decline": "A card purchase was declined because of low balance!",
+  "event_how_premium_work": "How Premium works"
 }
