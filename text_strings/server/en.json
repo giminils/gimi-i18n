@@ -390,5 +390,6 @@
   "push_exceed_monthly_limit": "<ChildName> just exceeded the monthly spending limit!",
   "event_pfs_payday": "It's payday for {child.name}! ",
   "push_subscription_not_paid_card_blocked": "The card for {child.name} is on lock down. Pay premium subscription to unlock it.",
-  "verify_email_subject": "Confirm your email address"
+  "verify_email_subject": "Confirm your email address",
+  "event_short_tutorial": "It's payday for {child.name}"
 }
