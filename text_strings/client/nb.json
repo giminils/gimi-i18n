@@ -1996,5 +1996,6 @@
   "connect_with_non_existing_phone_popover_text": "Vi kan sende en link til Gimi-appen! Eller, du kan fortsette ved å bruke en QR hvis du er i nærheten av noen som allerede er en Gimi-bruker.",
   "custom_notification_add_email": "Vi trenger email-adressen din! Hvis du blir logget ut, vil det ikke være mulig å logge inn igjen ☹️",
   "share_dream_uncompleted_title": "PLZ_TRANSLATE Dreaming of...",
-  "festive_chore_inspiration": "PLZ_TRANSLATE Festive season chores"
+  "festive_chore_inspiration": "PLZ_TRANSLATE Festive season chores",
+  "custom_notification_verify_email": "PLZ_TRANSLATE Verify your email!"
 }

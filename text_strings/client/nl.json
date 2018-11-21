@@ -1996,5 +1996,6 @@
   "connect_with_non_existing_phone_popover_text": "PLZ_TRANSLATE We can send a link to share the Gimi app! Or, you can also connect using QR code if you're close to someone who is already a Gimi user.",
   "custom_notification_add_email": "PLZ_TRANSLATE We need your email address! If you're logged out, you won't be able to login ☹️",
   "share_dream_uncompleted_title": "PLZ_TRANSLATE Dreaming of...",
-  "festive_chore_inspiration": "PLZ_TRANSLATE Festive season chores"
+  "festive_chore_inspiration": "PLZ_TRANSLATE Festive season chores",
+  "custom_notification_verify_email": "PLZ_TRANSLATE Verify your email!"
 }
