@@ -1999,5 +1999,6 @@
   "festive_chore_inspiration": "PLZ_CHECK Festive season chores",
   "custom_notification_verify_email": "PLZ_CHECK Verify your email!",
   "general_no_interest": "PLZ_CHECK No interest",
-  "percentage_interest": "PLZ_CHECK %1$d% interest"
+  "percentage_interest": "PLZ_CHECK %1$d% interest",
+  "custom_note_update_app": "PLZ_CHECK Update your app to get the latest features and avoid bugs!"
 }
