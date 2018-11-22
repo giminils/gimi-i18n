@@ -1997,5 +1997,7 @@
   "custom_notification_add_email": "Vi behöver din mejl! Om du loggas ut så kommer du inte kunna logga in igen!☹️",
   "share_dream_uncompleted_title": "PLZ_CHECK Dreaming of...",
   "festive_chore_inspiration": "PLZ_CHECK Festive season chores",
-  "custom_notification_verify_email": "PLZ_CHECK Verify your email!"
+  "custom_notification_verify_email": "PLZ_CHECK Verify your email!",
+  "general_no_interest": "PLZ_CHECK No interest",
+  "percentage_interest": "PLZ_CHECK %1$d% interest"
 }

@@ -1997,5 +1997,7 @@
   "custom_notification_add_email": "Vi trenger email-adressen din! Hvis du blir logget ut, vil det ikke være mulig å logge inn igjen ☹️",
   "share_dream_uncompleted_title": "PLZ_TRANSLATE Dreaming of...",
   "festive_chore_inspiration": "PLZ_TRANSLATE Festive season chores",
-  "custom_notification_verify_email": "PLZ_TRANSLATE Verify your email!"
+  "custom_notification_verify_email": "PLZ_TRANSLATE Verify your email!",
+  "general_no_interest": "PLZ_TRANSLATE No interest",
+  "percentage_interest": "PLZ_TRANSLATE %1$d% interest"
 }

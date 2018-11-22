@@ -1997,5 +1997,7 @@
   "custom_notification_add_email": "We need your email address! If you're logged out, you won't be able to login ☹️",
   "share_dream_uncompleted_title": "Dreaming of...",
   "festive_chore_inspiration": "Festive season chores",
-  "custom_notification_verify_email": "Verify your email!"
+  "custom_notification_verify_email": "Verify your email!",
+  "general_no_interest": "No interest",
+  "percentage_interest": "%1$d% interest"
 }
