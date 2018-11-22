@@ -395,5 +395,6 @@
   "push_add_profile_pic": "PLZ_CHECK -",
   "event_you_are_connected": "PLZ_CHECK You're now connected with ChildName!",
   "push_card_purcharse_decline": "PLZ_CHECK A card purchase was declined because of low balance!",
-  "event_how_premium_work": "PLZ_CHECK How Premium works"
+  "event_how_premium_work": "PLZ_CHECK How Premium works",
+  "event_child_has_completed_a_chore": "PLZ_CHECK {child.nickname} completed 'chore name'"
 }
