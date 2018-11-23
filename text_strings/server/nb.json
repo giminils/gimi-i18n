@@ -405,5 +405,7 @@
   "event_got_weekly_allowance": "PLZ_TRANSLATE You now got weekly allowance",
   "event_got_monthly_allowance": "PLZ_TRANSLATE You now got monthly allowance",
   "event_got_a_new_chore": "PLZ_TRANSLATE Name sent you a new chore",
-  "push_got_a_new_chore": "PLZ_TRANSLATE You have got a new chore from {parent.nickname}"
+  "push_got_a_new_chore": "PLZ_TRANSLATE You have got a new chore from {parent.nickname}",
+  "event_got_x_new_chores": "PLZ_TRANSLATE Name sent you x new chores",
+  "push_got_x_new_chores": "PLZ_TRANSLATE You have got new chores and can earn more money!"
 }
