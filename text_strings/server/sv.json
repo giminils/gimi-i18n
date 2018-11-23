@@ -411,5 +411,6 @@
   "event_you_have_reached_a_dream_parent": "PLZ_CHECK {goal.child.nickname} has reached a dream",
   "event_you_have_reached_a_dream_child": "PLZ_CHECK You have reached a dream",
   "event_reached_a_dream": "PLZ_CHECK You have reached a dream",
-  "push_the_new_weekly_tasks": "PLZ_CHECK New week, new chores, more money to be earned! 💰"
+  "push_the_new_weekly_tasks": "PLZ_CHECK New week, new chores, more money to be earned! 💰",
+  "push_reminder_of_chore": "PLZ_CHECK {parent.nickname} reminds you of doing the chore 'chore name'"
 }
