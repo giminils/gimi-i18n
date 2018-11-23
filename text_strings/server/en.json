@@ -407,5 +407,6 @@
   "event_got_a_new_chore": "Name sent you a new chore",
   "push_got_a_new_chore": "You have got a new chore from {parent.nickname}",
   "event_got_x_new_chores": "Name sent you x new chores",
-  "push_got_x_new_chores": "You have got new chores and can earn more money!"
+  "push_got_x_new_chores": "You have got new chores and can earn more money!",
+  "push_chore_was_not_approved": "'Chore name' was not approved by {parent.nickname}"
 }
