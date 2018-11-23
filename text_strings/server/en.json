@@ -399,5 +399,6 @@
   "event_child_has_completed_a_chore": "{child.nickname} completed 'chore name'",
   "push_card_decline_unlock": "🚫Gimi card was declined at {statement.merchant_name}! Want to unblock the card?",
   "push_next_payment_is_added_to_cloud": "Payday! You have received a payment to your Cloud!",
-  "event_cloud_created": "Get to know Gimi!"
+  "event_cloud_created": "Get to know Gimi!",
+  "event_add_email_change_number": "Add your email! It's nice to have if you change your number..."
 }
