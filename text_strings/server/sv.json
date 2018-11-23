@@ -403,5 +403,7 @@
   "event_add_email_change_number": "PLZ_CHECK Add your email! It's nice to have if you change your number...",
   "push_receive_first_money": "PLZ_CHECK You have received your first money!",
   "event_got_weekly_allowance": "PLZ_CHECK You now got weekly allowance",
-  "event_got_monthly_allowance": "PLZ_CHECK You now got monthly allowance"
+  "event_got_monthly_allowance": "PLZ_CHECK You now got monthly allowance",
+  "event_got_a_new_chore": "PLZ_CHECK Name sent you a new chore",
+  "push_got_a_new_chore": "PLZ_CHECK You have got a new chore from {parent.nickname}"
 }
