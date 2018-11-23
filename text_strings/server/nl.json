@@ -398,5 +398,6 @@
   "event_how_premium_work": "PLZ_TRANSLATE How Premium works",
   "event_child_has_completed_a_chore": "PLZ_TRANSLATE {child.nickname} completed 'chore name'",
   "push_card_decline_unlock": "PLZ_TRANSLATE 🚫Gimi card was declined at {statement.merchant_name}! Want to unblock the card?",
-  "push_next_payment_is_added_to_cloud": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!"
+  "push_next_payment_is_added_to_cloud": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "event_cloud_created": "PLZ_TRANSLATE Get to know Gimi!"
 }
