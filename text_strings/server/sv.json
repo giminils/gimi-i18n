@@ -408,5 +408,7 @@
   "push_got_x_new_chores": "PLZ_CHECK You have got new chores and can earn more money!",
   "push_chore_was_not_approved": "PLZ_CHECK 'Chore name' was not approved by {parent.nickname}",
   "push_chore_was_approved": "PLZ_CHECK 'Chore name' was approved by {parent.nickname}",
-  "event_you_have_reached_a_dream": "PLZ_CHECK You have reached a dream"
+  "event_you_have_reached_a_dream_parent": "PLZ_CHECK {goal.child.nickname} has reached a dream",
+  "event_you_have_reached_a_dream_child": "PLZ_CHECK You have reached a dream",
+  "event_reached_a_dream": "PLZ_CHECK You have reached a dream"
 }

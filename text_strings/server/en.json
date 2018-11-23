@@ -408,5 +408,7 @@
   "push_got_x_new_chores": "You have got new chores and can earn more money!",
   "push_chore_was_not_approved": "'Chore name' was not approved by {parent.nickname}",
   "push_chore_was_approved": "'Chore name' was approved by {parent.nickname}",
-  "event_you_have_reached_a_dream": "You have reached a dream"
+  "event_you_have_reached_a_dream_parent": "{goal.child.nickname} has reached a dream",
+  "event_you_have_reached_a_dream_child": "You have reached a dream",
+  "event_reached_a_dream": "You have reached a dream"
 }
