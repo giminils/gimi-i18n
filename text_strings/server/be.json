@@ -396,5 +396,6 @@
   "event_you_are_connected": "PLZ_TRANSLATE You're now connected with ChildName!",
   "push_card_purcharse_decline": "PLZ_TRANSLATE A card purchase was declined because of low balance!",
   "event_how_premium_work": "PLZ_TRANSLATE How Premium works",
-  "event_child_has_completed_a_chore": "PLZ_TRANSLATE {child.nickname} completed 'chore name'"
+  "event_child_has_completed_a_chore": "PLZ_TRANSLATE {child.nickname} completed 'chore name'",
+  "push_card_decline_unlock": "PLZ_TRANSLATE 🚫Gimi card was declined at {statement.merchant_name}! Want to unblock the card?"
 }
