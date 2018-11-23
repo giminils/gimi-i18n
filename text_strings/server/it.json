@@ -410,5 +410,6 @@
   "push_chore_was_approved": "PLZ_TRANSLATE 'Chore name' was approved by {parent.nickname}",
   "event_you_have_reached_a_dream_parent": "PLZ_TRANSLATE {goal.child.nickname} has reached a dream",
   "event_you_have_reached_a_dream_child": "PLZ_TRANSLATE You have reached a dream",
-  "event_reached_a_dream": "PLZ_TRANSLATE You have reached a dream"
+  "event_reached_a_dream": "PLZ_TRANSLATE You have reached a dream",
+  "push_the_new_weekly_tasks": "PLZ_TRANSLATE New week, new chores, more money to be earned! 💰"
 }
