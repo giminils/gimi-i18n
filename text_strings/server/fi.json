@@ -418,5 +418,6 @@
   "push_deposit_made_to_your_cloud": "PLZ_TRANSLATE You have received a deposit to your Cloud! ",
   "push_suggested_chore_enabled": "PLZ_TRANSLATE You have a new chore waiting to be done!",
   "event_upgraded_to_premium": "PLZ_TRANSLATE You have been upgraded to premium",
-  "push_upgraded_to_premium": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info!"
+  "push_upgraded_to_premium": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info!",
+  "event_not_paid_card_locked": "PLZ_TRANSLATE You have not paid the subscription for {child.nickname}, account is locked down until you pay. "
 }
