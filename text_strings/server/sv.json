@@ -412,5 +412,6 @@
   "event_you_have_reached_a_dream_child": "PLZ_CHECK You have reached a dream",
   "event_reached_a_dream": "PLZ_CHECK You have reached a dream",
   "push_the_new_weekly_tasks": "PLZ_CHECK New week, new chores, more money to be earned! 💰",
-  "push_reminder_of_chore": "PLZ_CHECK {parent.nickname} reminds you of doing the chore 'chore name'"
+  "push_reminder_of_chore": "PLZ_CHECK {parent.nickname} reminds you of doing the chore 'chore name'",
+  "event_create_a_new_dream": "PLZ_CHECK {parent.nickname}has made a withdrawal from your Cloud."
 }
