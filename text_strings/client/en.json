@@ -2001,5 +2001,6 @@
   "general_no_interest": "No interest",
   "percentage_interest": "%1$d% interest",
   "custom_note_update_app": "Update your app to get the latest features and avoid bugs!",
-  "custom_notification_xmas_gift_of_2018": "Årets julklapp 2018 för barn blev... Spelvaluta! Här kan du läsa allt du behöver veta"
+  "custom_notification_xmas_gift_of_2018": "Årets julklapp 2018 för barn blev... Spelvaluta! Här kan du läsa allt du behöver veta",
+  "email_verification_sent_confirmation": "Verification code sent to %1$d"
 }
