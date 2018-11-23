@@ -419,5 +419,6 @@
   "push_suggested_chore_enabled": "PLZ_CHECK You have a new chore waiting to be done!",
   "event_upgraded_to_premium": "PLZ_CHECK You have been upgraded to premium",
   "push_upgraded_to_premium": "PLZ_CHECK A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info!",
-  "event_not_paid_card_locked": "PLZ_CHECK You have not paid the subscription for {child.nickname}, account is locked down until you pay. "
+  "event_not_paid_card_locked": "PLZ_CHECK You have not paid the subscription for {child.nickname}, account is locked down until you pay. ",
+  "event_influence_use_gimi": "PLZ_CHECK Check out how influencers are using Gimi! "
 }
