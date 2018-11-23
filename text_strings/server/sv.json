@@ -408,5 +408,6 @@
   "push_got_a_new_chore": "PLZ_CHECK You have got a new chore from {parent.nickname}",
   "event_got_x_new_chores": "PLZ_CHECK Name sent you x new chores",
   "push_got_x_new_chores": "PLZ_CHECK You have got new chores and can earn more money!",
-  "push_chore_was_not_approved": "PLZ_CHECK 'Chore name' was not approved by {parent.nickname}"
+  "push_chore_was_not_approved": "PLZ_CHECK 'Chore name' was not approved by {parent.nickname}",
+  "push_chore_was_approved": "PLZ_CHECK 'Chore name' was approved by {parent.nickname}"
 }
