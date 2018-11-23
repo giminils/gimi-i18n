@@ -416,5 +416,7 @@
   "event_create_a_new_dream": "PLZ_TRANSLATE {parent.nickname}has made a withdrawal from your Cloud.",
   "push_withdrawal_made_from_your_cloud": "PLZ_TRANSLATE {parent.nickname} has made a withdrawal from your Cloud.",
   "push_deposit_made_to_your_cloud": "PLZ_TRANSLATE You have received a deposit to your Cloud! ",
-  "push_suggested_chore_enabled": "PLZ_TRANSLATE You have a new chore waiting to be done!"
+  "push_suggested_chore_enabled": "PLZ_TRANSLATE You have a new chore waiting to be done!",
+  "event_upgraded_to_premium": "PLZ_TRANSLATE You have been upgraded to premium",
+  "push_upgraded_to_premium": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info!"
 }
