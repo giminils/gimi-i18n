@@ -286,8 +286,6 @@
   "event_you_have_got_x_new_chores_child": "{parent.nickname} heeft je {x} nieuwe klusjes gestuurd",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} kreeg een rentepercentage van {child.total_interest_rate}%",
   "event_you_have_got_an_interest_rate_of_x_child": "Je hebt een rentepercentage van {child.total_interest_rate}% gekregen",
-  "event_you_have_reached_a_dream_parent": "Droomwens bereikt door {goal.child.nickname}",
-  "event_you_have_reached_a_dream_child": "Je hebt je droomwens bereikt",
   "event_done_with_chore_parent": "{assignment.child.nickname} is klaar met {assignment.task.title}",
   "event_done_with_chore_child": "Je bent klaar met {assignment.task.title}",
   "push_tell_that_your_back": "{user.nickname} is terug in de app en wil weer aan het werk gaan",
@@ -409,5 +407,6 @@
   "event_got_x_new_chores": "PLZ_TRANSLATE Name sent you x new chores",
   "push_got_x_new_chores": "PLZ_TRANSLATE You have got new chores and can earn more money!",
   "push_chore_was_not_approved": "PLZ_TRANSLATE 'Chore name' was not approved by {parent.nickname}",
-  "push_chore_was_approved": "PLZ_TRANSLATE 'Chore name' was approved by {parent.nickname}"
+  "push_chore_was_approved": "PLZ_TRANSLATE 'Chore name' was approved by {parent.nickname}",
+  "event_you_have_reached_a_dream": "PLZ_TRANSLATE You have reached a dream"
 }

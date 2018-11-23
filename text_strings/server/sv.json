@@ -286,8 +286,6 @@
   "event_you_have_got_x_new_chores_child": "{parent.nickname} skickade dig {x} nya uppgifter",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} har fått en ränta på {child.total_interest_rate}%",
   "event_you_have_got_an_interest_rate_of_x_child": "Du har fått en ränta på {child.total_interest_rate}%",
-  "event_you_have_reached_a_dream_parent": "{goal.child.nickname} har nått sin dröm",
-  "event_you_have_reached_a_dream_child": "Du har nått din dröm",
   "event_done_with_chore_parent": "{assignment.child.nickname} är klar med {assignment.task.title}",
   "event_done_with_chore_child": "Du är klar med {assignment.task.title}",
   "push_tell_that_your_back": "{user.nickname} är tillbaka i appen och vill komma igång igen",
@@ -409,5 +407,6 @@
   "event_got_x_new_chores": "PLZ_CHECK Name sent you x new chores",
   "push_got_x_new_chores": "PLZ_CHECK You have got new chores and can earn more money!",
   "push_chore_was_not_approved": "PLZ_CHECK 'Chore name' was not approved by {parent.nickname}",
-  "push_chore_was_approved": "PLZ_CHECK 'Chore name' was approved by {parent.nickname}"
+  "push_chore_was_approved": "PLZ_CHECK 'Chore name' was approved by {parent.nickname}",
+  "event_you_have_reached_a_dream": "PLZ_CHECK You have reached a dream"
 }

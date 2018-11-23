@@ -286,8 +286,6 @@
   "event_you_have_got_x_new_chores_child": "PLZ_TRANSLATE {parent.nickname} sent you {x} new chores",
   "event_you_have_got_an_interest_rate_of_x_parent": "PLZ_TRANSLATE {child.nickname} har fått en ränta i Molnet på {child.total_interest_rate}%",
   "event_you_have_got_an_interest_rate_of_x_child": "PLZ_TRANSLATE Du har fått en ränta i Molnet på {child.total_interest_rate}%",
-  "event_you_have_reached_a_dream_parent": "PLZ_TRANSLATE {goal.child.nickname} har nått sin dröm",
-  "event_you_have_reached_a_dream_child": "PLZ_TRANSLATE Du har nått din dröm",
   "event_done_with_chore_parent": "PLZ_TRANSLATE {assignment.child.nickname} är klar med {assignment.task.title}",
   "event_done_with_chore_child": "PLZ_TRANSLATE Du är klar med {assignment.task.title}",
   "push_tell_that_your_back": "PLZ_TRANSLATE {user.nickname} is back in the app and wants to get going again",
@@ -409,5 +407,6 @@
   "event_got_x_new_chores": "PLZ_TRANSLATE Name sent you x new chores",
   "push_got_x_new_chores": "PLZ_TRANSLATE You have got new chores and can earn more money!",
   "push_chore_was_not_approved": "PLZ_TRANSLATE 'Chore name' was not approved by {parent.nickname}",
-  "push_chore_was_approved": "PLZ_TRANSLATE 'Chore name' was approved by {parent.nickname}"
+  "push_chore_was_approved": "PLZ_TRANSLATE 'Chore name' was approved by {parent.nickname}",
+  "event_you_have_reached_a_dream": "PLZ_TRANSLATE You have reached a dream"
 }
