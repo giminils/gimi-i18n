@@ -193,3 +193,23 @@ export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConf
 export let getCourses = () => Courses
 
 export let getChapter = () => Courses
+
+export function getText (langKey: *, values?: Array<*>, textTransform?: string = 'capitalize', textStrings: Object): string {
+  if (typeof textStrings === 'undefined') return ''
+  if (!textStrings || !langKey) return ''
+  var text = textStrings[langKey]
+  if (!text) return ''
+  text = removeTranslationHelpers(text)
+  text = text.trim()
+  if (values) values.forEach((item, index) => {
+    text = text.split(`%${index + 1}$d`).join(item)
+  })
+  if (textTransform)
+    switch (textTransform) {
+      case 'uppercase': return text.toUpperCase()
+      case 'capitalize': return text.charAt(0).toUpperCase() + text.slice(1)
+      case 'lowercase': return text.toLowerCase()
+      default: return text
+    }
+  return text
+}
