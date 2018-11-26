@@ -2002,5 +2002,8 @@
   "percentage_interest": "%1$d% interest",
   "custom_note_update_app": "Update your app to get the latest features and avoid bugs!",
   "custom_notification_xmas_gift_of_2018": "Årets julklapp 2018 för barn blev... Spelvaluta! Här kan du läsa allt du behöver veta",
-  "email_verification_sent_confirmation": "Verification code sent to %1$d"
+  "email_verification_sent_confirmation": "Verification code sent to %1$d",
+  "keep_dream_active_question_popover_title": "Want to keep your dream here?",
+  "keep_dream_active_question_popover_text": "If you already bought it, or want to start saving for something new, just archive it!",
+  "keep_dream_active_button": "Keep it"
 }
