@@ -2005,5 +2005,6 @@
   "email_verification_sent_confirmation": "Verification code sent to %1$d",
   "keep_dream_active_question_popover_title": "Want to keep your dream here?",
   "keep_dream_active_question_popover_text": "If you already bought it, or want to start saving for something new, just archive it!",
-  "keep_dream_active_button": "Keep it"
+  "keep_dream_active_button": "Keep it",
+  "get_completed_dream_button": "Get it"
 }

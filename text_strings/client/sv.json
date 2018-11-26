@@ -2005,5 +2005,6 @@
   "email_verification_sent_confirmation": "PLZ_CHECK Verification code sent to %1$d",
   "keep_dream_active_question_popover_title": "PLZ_CHECK Want to keep your dream here?",
   "keep_dream_active_question_popover_text": "PLZ_CHECK If you already bought it, or want to start saving for something new, just archive it!",
-  "keep_dream_active_button": "PLZ_CHECK Keep it"
+  "keep_dream_active_button": "PLZ_CHECK Keep it",
+  "get_completed_dream_button": "PLZ_CHECK Get it"
 }
