@@ -1,5 +1,5 @@
 
-import {languageCodes, languageCodesForTranslation, moonshineCountryCodes} from '../index'
+import {languageCodes, languageCodesForTranslation} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace} from '../TestUtil'
 var stringTagData = []
 var jsonDataTranslate = []
@@ -17,7 +17,7 @@ textStringsTypes.forEach(textStringsType => {
 })
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
-  if (textStringsType === 'client') languageCodesHolder = moonshineCountryCodes
+  if (textStringsType === 'client') languageCodesHolder = languageCodes
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
   if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux' &&
@@ -32,7 +32,7 @@ textStringsTypes.forEach(textStringsType => {
 // server and templates string data
 textStringsTypes.forEach(textStringsType => {
   var languageCodesHolder = languageCodes
-  if (textStringsType === 'client') languageCodesHolder = moonshineCountryCodes
+  if (textStringsType === 'client') languageCodesHolder = languageCodes
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
   if (textStringsType !== 'gimi-web' &&

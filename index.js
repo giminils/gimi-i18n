@@ -76,8 +76,6 @@ export var languageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'it', 'es'
 
 export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
 
-export const moonshineCountryCodes = ['sv', 'en', 'nb']
-
 export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
   {code: 'NOK', name: 'Norwegian Krone'},
