@@ -554,7 +554,10 @@
   "cr0804": "PLZ_TRANSLATE OMG I'm so flattered! I hope it will happen some day! Wanna do my card test?",
   "cr0805": "PLZ_TRANSLATE Alright! Wanna do my card test? It's fun I promise :)",
   "cr0808": "PLZ_TRANSLATE Okidoki! Maybe another day :)",
+  "cw0101": "PLZ_TRANSLATE What is your favorite animal?",
+  "cw0102": "PLZ_TRANSLATE I like dogs too!",
   "nice_excl": "PLZ_TRANSLATE Nice!",
+  "bot_nice": "PLZ_TRANSLATE Nice",
   "will_do": "PLZ_TRANSLATE Will do",
   "will_do_excl": "PLZ_TRANSLATE Will do!",
   "watch_this": "PLZ_TRANSLATE Watch this!",
@@ -678,5 +681,10 @@
   "bot_holiday": "PLZ_TRANSLATE Holiday",
   "bot_add_dream": "PLZ_TRANSLATE Add a dream!",
   "bot_check_it_out": "PLZ_TRANSLATE Check it out!",
-  "bot_no_thanks": "PLZ_TRANSLATE No thanks"
+  "bot_no_thanks": "PLZ_TRANSLATE No thanks",
+  "CW0102_dog": "PLZ_TRANSLATE Dog",
+  "CW0103_cat": "PLZ_TRANSLATE Cat",
+  "CW0104_horse": "PLZ_TRANSLATE Horse",
+  "CW0105_hamster": "PLZ_TRANSLATE Hamster",
+  "bot_i_dont_know": "PLZ_TRANSLATE I don't know"
 }

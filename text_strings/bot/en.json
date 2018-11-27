@@ -554,7 +554,10 @@
   "cr0804": "OMG I'm so flattered! I hope it will happen some day! Wanna do my card test?",
   "cr0805": "Alright! Wanna do my card test? It's fun I promise :)",
   "cr0808": "Okidoki! Maybe another day :)",
+  "cw0101": "What is your favorite animal?",
+  "cw0102": "I like dogs too!",
   "nice_excl": "Nice!",
+  "bot_nice": "Nice",
   "will_do": "Will do",
   "will_do_excl": "Will do!",
   "watch_this": "Watch this!",
@@ -678,5 +681,10 @@
   "bot_holiday": "Holiday",
   "bot_add_dream": "Add a dream!",
   "bot_check_it_out": "Check it out!",
-  "bot_no_thanks": "No thanks"
+  "bot_no_thanks": "No thanks",
+  "CW0102_dog": "Dog",
+  "CW0103_cat": "Cat",
+  "CW0104_horse": "Horse",
+  "CW0105_hamster": "Hamster",
+  "bot_i_dont_know": "I don't know"
 }

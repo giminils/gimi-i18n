@@ -554,7 +554,10 @@
   "cr0804": "OMG jag är så smickrad! Hoppas du får ett nån dag. Vill du testa hur mycket du kan om kort?",
   "cr0805": "Alright! Vill du göra mitt korttest? Det är kul, jag lovar!",
   "cr0808": "Okidoki! Kanske en annan dag :)",
+  "cw0101": "PLZ_CHECK What is your favorite animal?",
+  "cw0102": "PLZ_CHECK I like dogs too!",
   "nice_excl": "Nice!",
+  "bot_nice": "PLZ_CHECK Nice",
   "will_do": "Det ska jag",
   "will_do_excl": "Det ska jag!",
   "watch_this": "Kolla här!",
@@ -678,5 +681,10 @@
   "bot_holiday": "PLZ_CHECK Holiday",
   "bot_add_dream": "PLZ_CHECK Add a dream!",
   "bot_check_it_out": "PLZ_CHECK Check it out!",
-  "bot_no_thanks": "PLZ_CHECK No thanks"
+  "bot_no_thanks": "PLZ_CHECK No thanks",
+  "CW0102_dog": "PLZ_CHECK Dog",
+  "CW0103_cat": "PLZ_CHECK Cat",
+  "CW0104_horse": "PLZ_CHECK Horse",
+  "CW0105_hamster": "PLZ_CHECK Hamster",
+  "bot_i_dont_know": "PLZ_CHECK I don't know"
 }
