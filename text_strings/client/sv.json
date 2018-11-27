@@ -1688,7 +1688,7 @@
   "choose_currency": "Välj valuta",
   "currency_picker_subtitle": "Ändringar av valutan kommer att påverka alla barn som du är ihopkopplad med.",
   "suggested_chore_action_title": "Du föreslog precis en uppgift!",
-  "suggested_chore_action_desc": "Du kan utföra den då din förälder godkänt ditt förslag.",
+  "suggested_chore_action_desc": "Du kommer kunna utföra den när den blivit godkänd.",
   "completed_chore_action_title": "Bja gjort! Du har precis utfört en uppgift!",
   "completed_chore_action_desc": "Du får pengarna nästa Payday, om din förälder godkänner uppgiften.",
   "cant_change_currency_for_kid_w_multiple_parents_title": "Du kan inte ändra valutan",
