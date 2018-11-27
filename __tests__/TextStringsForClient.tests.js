@@ -36,7 +36,17 @@ describe('TextStrings', () => {
   })
 
   it('should not have duplicate keys in textStrings', () => {
-
+    var dirs = fs.readdirSync('./text_strings/')
+    let allStrings = []
+    dirs = dirs.filter((dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux')
+    dirs.map(file => {
+      let blaj = fs.readFileSync(path.join(__dirname, `../text_strings/${file}/en.json`), {encoding: 'utf8'}).split('\n')
+      allStrings = allStrings.concat(blaj)
+    })
+    let ignorePattern = ['', '{', '}']
+    allStrings = allStrings.filter((text) => ignorePattern.indexOf(text) === -1)
+    let errors = findDuplicateJSONKeys(allStrings, [])
+    expect(errors).toEqual([])
   })
 
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {
