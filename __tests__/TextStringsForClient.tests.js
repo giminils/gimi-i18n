@@ -36,7 +36,7 @@ describe('TextStrings', () => {
   })
 
   it('should not have duplicate keys in textStrings', () => {
-    var dirs = fs.readdirSync('./text_strings/')
+    var dirs = fs.readdirSync(path.join(__dirname, `../text_strings/`))
     let allStrings = []
     dirs = dirs.filter((dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux')
     dirs.map(file => {
