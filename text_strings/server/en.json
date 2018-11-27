@@ -400,7 +400,6 @@
   "event_got_monthly_allowance": "You now got monthly allowance",
   "event_got_a_new_chore": "{parent.nickname} sent you a new chore",
   "push_got_a_new_chore": "You have got a new chore from {parent.nickname}",
-  "event_got_x_new_chores": "{parent.nickname} sent you x new chores",
   "push_got_x_new_chores": "You have got new chores and can earn more money!",
   "push_chore_was_not_approved": "'Chore name' was not approved by {parent.nickname}",
   "push_chore_was_approved": "'Chore name' was approved by {parent.nickname}",
@@ -428,5 +427,6 @@
   "event_allowance_is_set_for_you": "{parent.nickname} is now giving you an allowance",
   "event_suggestion_of_new_allowance": "Suggestion for new allowance",
   "event_allowance_settings_are_updated": "Allowance settings have been updated",
-  "event_you_have_set_allowance": "You have set an allowance"
+  "event_you_have_set_allowance": "You have set an allowance",
+  "event_got_x_new_chores": "{parent.nickname} sent you number of tasks new chores"
 }
