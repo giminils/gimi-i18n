@@ -675,5 +675,8 @@
   "bot_weekend": "PLZ_CHECK Weekend",
   "bot_sick": "PLZ_CHECK Sick",
   "bot_playing_traunt": "PLZ_CHECK Playing truant",
-  "bot_holiday": "PLZ_CHECK Holiday"
+  "bot_holiday": "PLZ_CHECK Holiday",
+  "bot_add_dream": "PLZ_CHECK Add a dream!",
+  "bot_check_it_out": "PLZ_CHECK Check it out!",
+  "bot_no_thanks": "PLZ_CHECK No thanks"
 }

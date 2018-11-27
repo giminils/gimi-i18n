@@ -675,5 +675,8 @@
   "bot_weekend": "PLZ_TRANSLATE Weekend",
   "bot_sick": "PLZ_TRANSLATE Sick",
   "bot_playing_traunt": "PLZ_TRANSLATE Playing truant",
-  "bot_holiday": "PLZ_TRANSLATE Holiday"
+  "bot_holiday": "PLZ_TRANSLATE Holiday",
+  "bot_add_dream": "PLZ_TRANSLATE Add a dream!",
+  "bot_check_it_out": "PLZ_TRANSLATE Check it out!",
+  "bot_no_thanks": "PLZ_TRANSLATE No thanks"
 }

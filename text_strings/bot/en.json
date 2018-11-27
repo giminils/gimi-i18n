@@ -675,5 +675,8 @@
   "bot_weekend": "Weekend",
   "bot_sick": "Sick",
   "bot_playing_traunt": "Playing truant",
-  "bot_holiday": "Holiday"
+  "bot_holiday": "Holiday",
+  "bot_add_dream": "Add a dream!",
+  "bot_check_it_out": "Check it out!",
+  "bot_no_thanks": "No thanks"
 }
