@@ -50,17 +50,9 @@ export let findDuplicateKeyValues = (firstLang: Object, secondLang: Object, firs
 }
 
 export let findDuplicateJSONKeys = (fileText: Array<Object>, errors: Array<*>) => {
-  let keys = fileText.map(line => {
-    let keyValue = line.split(':')
-    return keyValue[0]
-  })
-
-  let sortedKeys = keys.sort()
-
-  for (let i = 0; i < sortedKeys.length - 1; i++)
-    if (sortedKeys[i + 1] === sortedKeys[i])
-      errors.push(sortedKeys[i])
-
+  let keys = fileText.map(line => line.split(':')[0]).sort()
+  for (let i = 0; i < keys.length - 1; i++)
+    if (keys[i + 1] === keys[i]) errors.push(keys[i])
   return errors
 }
 

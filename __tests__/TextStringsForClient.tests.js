@@ -1,6 +1,6 @@
 
 /* eslint no-console:0 */
-import {getTextStrings, supportedLanguageCodes, gimiWebLanguageCodes, moonshineCountryCodes} from '../index'
+import {getTextStrings, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeys, findDuplicateKeyValues, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
@@ -16,7 +16,7 @@ describe('TextStrings', () => {
     supportedLanguageCodes.forEach(lang1 => {
       supportedLanguageCodes.forEach(lang2 => {
         compareKeys(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
-        if (!moonshineCountryCodes.includes(lang1)) findDuplicateKeyValues(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
+        if (!languageCodes.includes(lang1)) findDuplicateKeyValues(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
       })
     })
   })
@@ -28,11 +28,15 @@ describe('TextStrings', () => {
       expect(errors).toEqual([])
     })
 
-    moonshineCountryCodes.forEach(lang => {
+    languageCodes.forEach(lang => {
       var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'}).split('\n')
       let errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
+  })
+
+  it('should not have duplicate keys in textStrings', () => {
+
   })
 
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {
