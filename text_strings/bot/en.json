@@ -556,6 +556,9 @@
   "cr0808": "Okidoki! Maybe another day :)",
   "cw0101": "What is your favorite animal?",
   "cw0102": "I like dogs too!",
+  "cw0103": "I like cats too!",
+  "cw0104": "I like horses too!",
+  "cw0105": "I like hamsters too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -682,9 +685,9 @@
   "bot_add_dream": "Add a dream!",
   "bot_check_it_out": "Check it out!",
   "bot_no_thanks": "No thanks",
-  "CW0102_dog": "Dog",
-  "CW0103_cat": "Cat",
-  "CW0104_horse": "Horse",
-  "CW0105_hamster": "Hamster",
+  "cw0102_dog": "Dog",
+  "cw0103_cat": "Cat",
+  "cw0104_horse": "Horse",
+  "cw0105_hamster": "Hamster",
   "bot_i_dont_know": "I don't know"
 }

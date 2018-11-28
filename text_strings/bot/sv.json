@@ -556,6 +556,9 @@
   "cr0808": "Okidoki! Kanske en annan dag :)",
   "cw0101": "Vad är ditt favoritdjur?",
   "cw0102": "Jag gillar också hundar!",
+  "cw0103": "PLZ_CHECK I like cats too!",
+  "cw0104": "PLZ_CHECK I like horses too!",
+  "cw0105": "PLZ_CHECK I like hamsters too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -682,9 +685,9 @@
   "bot_add_dream": "Lägg till dröm!",
   "bot_check_it_out": "Spana in!",
   "bot_no_thanks": "Nej tack",
-  "CW0102_dog": "Hund",
-  "CW0103_cat": "Katt",
-  "CW0104_horse": "Häst",
-  "CW0105_hamster": "Hamster",
+  "cw0102_dog": "Hund",
+  "cw0103_cat": "Katt",
+  "cw0104_horse": "Häst",
+  "cw0105_hamster": "Hamster",
   "bot_i_dont_know": "Vet inte"
 }
