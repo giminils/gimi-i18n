@@ -2015,5 +2015,5 @@
   "name_owe_name": "PLZ_CHECK %1$d owe %2$d",
   "parent_relation_overview_self_title": "PLZ_CHECK Your settings for %1$d",
   "parent_connect_to_all_kids_header": "PLZ_CHECK Supporters can’t connect to each other...",
-  "parent_connect_to_all_kids_desc": "PLZ_CHECK But you can connect your children to other supporters! Want to connect [contact name] to all your children?"
+  "parent_connect_to_all_kids_desc": "PLZ_CHECK But you can connect your children to other supporters! Want to connect %1$d to all your children?"
 }
