@@ -2017,5 +2017,6 @@
   "parent_connect_to_all_kids_header": "Supporters can’t connect to each other...",
   "parent_connect_to_all_kids_desc": "But you can connect your children to other supporters! Want to connect %1$d to all your children?",
   "relation_overview_for_kid_subtitle": "Settings for you",
-  "name_owes_you": "%1$d owes you"
+  "name_owes_you": "%1$d owes you",
+  "pfs_general_error": "Sorry, something went wrong..."
 }
