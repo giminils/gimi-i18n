@@ -685,9 +685,9 @@
   "bot_add_dream": "Lägg till dröm!",
   "bot_check_it_out": "Spana in!",
   "bot_no_thanks": "Nej tack",
-  "cw0102_dog": "Hund",
-  "cw0103_cat": "Katt",
-  "cw0104_horse": "Häst",
-  "cw0105_hamster": "Hamster",
-  "bot_i_dont_know": "Vet inte"
+  "bot_i_dont_know": "Vet inte",
+  "botsurvey_dog_week_x": "Hund",
+  "botsurvey_cat_week_x": "Katt",
+  "botsurvey_horse_week_x": "Häst",
+  "botsurvey_hamster_week_x": "Hamster"
 }

@@ -685,9 +685,9 @@
   "bot_add_dream": "PLZ_TRANSLATE Add a dream!",
   "bot_check_it_out": "PLZ_TRANSLATE Check it out!",
   "bot_no_thanks": "PLZ_TRANSLATE No thanks",
-  "cw0102_dog": "PLZ_TRANSLATE Dog",
-  "cw0103_cat": "PLZ_TRANSLATE Cat",
-  "cw0104_horse": "PLZ_TRANSLATE Horse",
-  "cw0105_hamster": "PLZ_TRANSLATE Hamster",
-  "bot_i_dont_know": "PLZ_TRANSLATE I don't know"
+  "bot_i_dont_know": "PLZ_TRANSLATE I don't know",
+  "botsurvey_dog_week_x": "PLZ_TRANSLATE Dog",
+  "botsurvey_cat_week_x": "PLZ_TRANSLATE Cat",
+  "botsurvey_horse_week_x": "PLZ_TRANSLATE Horse",
+  "botsurvey_hamster_week_x": "PLZ_TRANSLATE Hamster"
 }
