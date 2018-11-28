@@ -2009,5 +2009,9 @@
   "get_completed_dream_button": "PLZ_CHECK Get it",
   "old_pfs_payday_warning": "PLZ_CHECK This is an old payday payment.",
   "supporters_in_gimi": "PLZ_CHECK Supporters in Gimi",
-  "kids_in_gimi": "PLZ_CHECK Children in Gimi"
+  "kids_in_gimi": "PLZ_CHECK Children in Gimi",
+  "parent_relation_overview_subtitle": "PLZ_CHECK Settings for %1$d",
+  "you_owe_name": "PLZ_CHECK You owe %1$d",
+  "name_owe_name": "PLZ_CHECK %1$d owe %2$d",
+  "parent_relation_overview_self_title": "PLZ_CHECK Your settings for %1$d"
 }

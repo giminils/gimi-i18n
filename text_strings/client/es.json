@@ -2009,5 +2009,9 @@
   "get_completed_dream_button": "PLZ_TRANSLATE Get it",
   "old_pfs_payday_warning": "PLZ_TRANSLATE This is an old payday payment.",
   "supporters_in_gimi": "PLZ_TRANSLATE Supporters in Gimi",
-  "kids_in_gimi": "PLZ_TRANSLATE Children in Gimi"
+  "kids_in_gimi": "PLZ_TRANSLATE Children in Gimi",
+  "parent_relation_overview_subtitle": "PLZ_TRANSLATE Settings for %1$d",
+  "you_owe_name": "PLZ_TRANSLATE You owe %1$d",
+  "name_owe_name": "PLZ_TRANSLATE %1$d owe %2$d",
+  "parent_relation_overview_self_title": "PLZ_TRANSLATE Your settings for %1$d"
 }
