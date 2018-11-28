@@ -2015,5 +2015,7 @@
   "name_owe_name": "PLZ_TRANSLATE %1$d owe %2$d",
   "parent_relation_overview_self_title": "PLZ_TRANSLATE Your settings for %1$d",
   "parent_connect_to_all_kids_header": "PLZ_TRANSLATE Supporters can’t connect to each other...",
-  "parent_connect_to_all_kids_desc": "PLZ_TRANSLATE But you can connect your children to other supporters! Want to connect %1$d to all your children?"
+  "parent_connect_to_all_kids_desc": "PLZ_TRANSLATE But you can connect your children to other supporters! Want to connect %1$d to all your children?",
+  "relation_overview_for_kid_subtitle": "PLZ_TRANSLATE Settings for you",
+  "name_owes_you": "PLZ_TRANSLATE %1$d owes you"
 }
