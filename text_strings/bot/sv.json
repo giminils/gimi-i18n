@@ -559,6 +559,11 @@
   "cw0103": "PLZ_CHECK I like cats too!",
   "cw0104": "PLZ_CHECK I like horses too!",
   "cw0105": "PLZ_CHECK I like hamsters too!",
+  "cw0201": "PLZ_CHECK What's your favorite game?",
+  "cw0202": "PLZ_CHECK I like Fortnite too!",
+  "cw0203": "PLZ_CHECK I like The SIMS too!",
+  "cw0204": "PLZ_CHECK I like Start Stable too!",
+  "cw0205": "PLZ_CHECK I like Roblox too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -689,5 +694,9 @@
   "botsurvey_dog_week_x": "Hund",
   "botsurvey_cat_week_x": "Katt",
   "botsurvey_horse_week_x": "Häst",
-  "botsurvey_hamster_week_x": "Hamster"
+  "botsurvey_hamster_week_x": "Hamster",
+  "botsurvey_fortnite_week_x": "PLZ_CHECK Fortnite",
+  "botsurvey_the_sims_week_x": "PLZ_CHECK The SIMS",
+  "botsurvey_star_stable_week_x": "PLZ_CHECK Star Stable",
+  "botsurvey_roblox_week_x": "PLZ_CHECK Roblox"
 }
