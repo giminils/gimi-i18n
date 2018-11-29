@@ -2018,5 +2018,7 @@
   "parent_connect_to_all_kids_desc": "PLZ_CHECK But you can connect your children to other supporters! Want to connect %1$d to all your children?",
   "relation_overview_for_kid_subtitle": "PLZ_CHECK Settings for you",
   "name_owes_you": "PLZ_CHECK %1$d owes you",
-  "pfs_general_error": "PLZ_CHECK Sorry, this didn't work..."
+  "pfs_general_error": "PLZ_CHECK Sorry, this didn't work...",
+  "connections_connected_section_title": "PLZ_CHECK Connected",
+  "connections_pending_section_title": "PLZ_CHECK Waiting to be accepted"
 }
