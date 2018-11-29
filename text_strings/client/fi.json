@@ -1300,7 +1300,7 @@
   "premium_intro_savings_title": "PLZ_TRANSLATE Add your card",
   "premium_intro_savings_desc": "PLZ_TRANSLATE Payday and other deposits are simple and instant, just make sure to add the card you want to pay with in settings.",
   "premium_intro_card_title": "PLZ_TRANSLATE Settle your debt",
-  "premium_intro_card_desc": "PLZ_TRANSLATE Transfer money to <ChildName> to empty the old savings, and don't forget to remind the other supporters!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Transfer money to %1$d to empty the old savings, and don't forget to remind the other supporters!",
   "premium_intro_read_more_about_card": "Lue lisää kortista",
   "premium_intro_get_premium_button": "Hanki Premium",
   "activate_new_card": "Aktivoi uusi kortti",

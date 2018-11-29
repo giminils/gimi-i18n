@@ -1300,7 +1300,7 @@
   "premium_intro_savings_title": "Lägg till ditt kort",
   "premium_intro_savings_desc": "Payday och insättningar är enkla, och direkta, lägg bara till ett betalkort i inställningar.",
   "premium_intro_card_title": "För över det du är skyldig",
-  "premium_intro_card_desc": "För över pengar till <ChildName> för att tömma det gamla sparkontot, och glöm inte att påminna alla supporters!",
+  "premium_intro_card_desc": "För över pengar till %1$d för att tömma det gamla sparkontot, och glöm inte att påminna alla supporters!",
   "premium_intro_read_more_about_card": "Läs mer om kortet",
   "premium_intro_get_premium_button": "Skaffa Premium",
   "activate_new_card": "Aktivera det nya kortet",

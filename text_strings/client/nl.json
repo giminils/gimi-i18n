@@ -1300,7 +1300,7 @@
   "premium_intro_savings_title": "Voeg je kaart toe",
   "premium_intro_savings_desc": "Payday en andere stortingen zijn eenvoudig en direct, zorg er alleen maar voor dat je de kaart waarmee je wilt betalen bij de instellingen toevoegt.",
   "premium_intro_card_title": "Voldoe je schuld",
-  "premium_intro_card_desc": "Maak geld over naar <ChildName> om de oude spaarrekening leeg te maken, en vergeet niet om de andere supporters eraan te herinneren!",
+  "premium_intro_card_desc": "Maak geld over naar %1$d om de oude spaarrekening leeg te maken, en vergeet niet om de andere supporters eraan te herinneren!",
   "premium_intro_read_more_about_card": "Lees meer over de kaart",
   "premium_intro_get_premium_button": "Neem Premium",
   "activate_new_card": "Activeer nieuwe kaart",

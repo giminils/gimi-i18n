@@ -1300,7 +1300,7 @@
   "premium_intro_savings_title": "Legg til kortet ditt",
   "premium_intro_savings_desc": "Payday og andre innskudd er enkle og umiddelbare, bare sørg for å legge til kortet du vil betale med i innstillingene.",
   "premium_intro_card_title": "Sett din gjeld",
-  "premium_intro_card_desc": "Overfør penger til <ChildName> for å slette tidligere sparing, og ikke glem å fortelle de andre støttespillerne om det!",
+  "premium_intro_card_desc": "Overfør penger til %1$d for å slette tidligere sparing, og ikke glem å fortelle de andre støttespillerne om det!",
   "premium_intro_read_more_about_card": "Les mer om kortet",
   "premium_intro_get_premium_button": "Få Premium",
   "activate_new_card": "Aktiver nytt kort",
