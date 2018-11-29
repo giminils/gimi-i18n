@@ -565,6 +565,8 @@
   "cw0205": "PLZ_CHECK I like The SIMS too!",
   "cw0206": "PLZ_CHECK I like Start Stable too!",
   "cw0207": "PLZ_CHECK I like Roblox too!",
+  "cw0302": "PLZ_CHECK Do you collect anything?",
+  "cw0304": "PLZ_CHECK Gotta catch 'em all!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -699,5 +701,9 @@
   "botsurvey_fortnite_week_x": "PLZ_CHECK Fortnite",
   "botsurvey_the_sims_week_x": "PLZ_CHECK The SIMS",
   "botsurvey_star_stable_week_x": "PLZ_CHECK Star Stable",
-  "botsurvey_roblox_week_x": "PLZ_CHECK Roblox"
+  "botsurvey_roblox_week_x": "PLZ_CHECK Roblox",
+  "botsurvey_capsules_week_x": "PLZ_CHECK Capsules",
+  "botsurvey_pokemon_cards_week_x": "PLZ_CHECK Pokémon cards",
+  "botsurvey_stamps_week_x": "PLZ_CHECK Stamps",
+  "botsurvey_seashells_week_x": "PLZ_CHECK Seashells"
 }

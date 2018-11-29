@@ -565,6 +565,8 @@
   "cw0205": "PLZ_TRANSLATE I like The SIMS too!",
   "cw0206": "PLZ_TRANSLATE I like Start Stable too!",
   "cw0207": "PLZ_TRANSLATE I like Roblox too!",
+  "cw0302": "PLZ_TRANSLATE Do you collect anything?",
+  "cw0304": "PLZ_TRANSLATE Gotta catch 'em all!",
   "nice_excl": "PLZ_TRANSLATE Nice!",
   "bot_nice": "PLZ_TRANSLATE Nice",
   "will_do": "PLZ_TRANSLATE Will do",
@@ -699,5 +701,9 @@
   "botsurvey_fortnite_week_x": "PLZ_TRANSLATE Fortnite",
   "botsurvey_the_sims_week_x": "PLZ_TRANSLATE The SIMS",
   "botsurvey_star_stable_week_x": "PLZ_TRANSLATE Star Stable",
-  "botsurvey_roblox_week_x": "PLZ_TRANSLATE Roblox"
+  "botsurvey_roblox_week_x": "PLZ_TRANSLATE Roblox",
+  "botsurvey_capsules_week_x": "PLZ_TRANSLATE Capsules",
+  "botsurvey_pokemon_cards_week_x": "PLZ_TRANSLATE Pokémon cards",
+  "botsurvey_stamps_week_x": "PLZ_TRANSLATE Stamps",
+  "botsurvey_seashells_week_x": "PLZ_TRANSLATE Seashells"
 }
