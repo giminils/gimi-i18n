@@ -432,5 +432,7 @@
   "event_ready_for apple_pay": "Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
   "push_ready_for_apple_pay": "Your Gimi card is ready for Apple Pay! ",
   "event_wait_active_for_apple_pay": "Your Gimi card is waiting to be activated for Apple Pay!",
-  "push_wait_active_for_apple_pay": "Your Gimi card is ready for Apple Pay! "
+  "push_wait_active_for_apple_pay": "Your Gimi card is ready for Apple Pay! ",
+  "event_spend_more_money_than_have": "You spent more money than you had on your card. You need to top-up the card. ",
+  "push_spend_more_money_than_have": "Oops... you overspent ☹️"
 }
