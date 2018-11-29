@@ -2018,5 +2018,5 @@
   "parent_connect_to_all_kids_desc": "PLZ_TRANSLATE But you can connect your children to other supporters! Want to connect %1$d to all your children?",
   "relation_overview_for_kid_subtitle": "PLZ_TRANSLATE Settings for you",
   "name_owes_you": "PLZ_TRANSLATE %1$d owes you",
-  "pfs_general_error": "PLZ_TRANSLATE Sorry, something went wrong..."
+  "pfs_general_error": "PLZ_TRANSLATE Sorry, this didn't work..."
 }
