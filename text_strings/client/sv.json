@@ -427,7 +427,7 @@
   "general_per_month": "per månad",
   "of_done_chores": "av klarade uppgifter",
   "statistics_completed_average": "godkända i snitt",
-  "general_spent": "PLZ_CHECK top-ups",
+  "general_spent": "Ladda",
   "account_found_title": "vill du logga in direkt?",
   "account_found_description": "du verkar ha loggat in på den här enheten förut, vill du logga in som %1$d nu?",
   "login_now": "logga in nu",
@@ -1810,7 +1810,7 @@
   "card_good_to_know_pay_online_description_parrent": "För att ingen annan ska kunna handla med kortet online så skickar vi ut en SMS-kod till telefonnumret som är kopplat till kortet för verifiering av onlineköp.",
   "card_good_to_know_gimi_premium_title_parent": "Kort om Gimi Premium",
   "card_good_to_know_gimi_premium_description_parrent": "När ditt barn är redo att hantera riktiga pengar kan du uppgradera ditt barn till Gimi Premium. Ditt barn får då ett Gimi-konto och ett prepaid-kort från Mastercard. Allt hanteras i appen som tidigare men i slutet av månaden förs det över riktiga pengar till ditt barns nya Gimi-konto. Barnet kan spendera pengarna med kortet, men du har fortfarande kontrollen och full insyn i användandet på ditt föräldrakonto i appen.",
-  "card_good_to_know_load_account_title_child": "Ladda på kontot",
+  "card_good_to_know_load_account_title_child": "Gör insättning till kontot",
   "card_good_to_know_load_account_description_child": "För att få pengar på ditt Gimi-konto lägger en förälder till sina kortuppgifter i appen. Orolig för att missa en månadspeng? Lugn, vi kommer att påminna dina föräldrar varje månad om att sätta in månadspengen på ditt Gimi-konto. En förälder kan fylla på ditt Gimi-konto när som helst i sin app, däremot finns en begränsning på max 10 överföringar per dag.",
   "card_good_to_know_pin_title_child": "Kort-PIN",
   "card_good_to_know_pin_description_child": "PIN-koden går inte att välja själv. Det är viktigt att du memorerar din PIN-kod. Under inställningar i appen finns möjlighet om att få en påminnelse om PIN-koden.",
@@ -2021,7 +2021,7 @@
   "pfs_general_error": "Förlåt, det funkade inte...",
   "connections_connected_section_title": "Ihopkopplade",
   "connections_pending_section_title": "Väntar",
-  "cant_delete_email_no_phone_popover_title": "PLZ_CHECK You can't delete your email",
-  "cant_delete_email_no_phone_popover_text": "PLZ_CHECK You need a verified phone number to delete your email or you have no way of logging in.",
-  "cant_delete_email_no_phone_popover_action": "PLZ_CHECK add phone"
+  "cant_delete_email_no_phone_popover_title": "Du kan inte ta bort din mejl",
+  "cant_delete_email_no_phone_popover_text": "Du behöver lägg till och verifiera ett telefonnummer innan du kan radera din mejl, annars kommer du inte att kunna logga in igen!",
+  "cant_delete_email_no_phone_popover_action": "Lägg till"
 }
