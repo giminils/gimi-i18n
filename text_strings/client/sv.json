@@ -2020,5 +2020,8 @@
   "name_owes_you": "%1$d är skyldig dig",
   "pfs_general_error": "Förlåt, det funkade inte...",
   "connections_connected_section_title": "Ihopkopplade",
-  "connections_pending_section_title": "Väntar"
+  "connections_pending_section_title": "Väntar",
+  "cant_delete_email_no_phone_popover_title": "PLZ_CHECK You can't delete your email",
+  "cant_delete_email_no_phone_popover_text": "PLZ_CHECK You need a verified phone number to delete your email or you have no way of logging in.",
+  "cant_delete_email_no_phone_popover_action": "PLZ_CHECK add phone"
 }

@@ -2020,5 +2020,8 @@
   "name_owes_you": "PLZ_TRANSLATE %1$d owes you",
   "pfs_general_error": "PLZ_TRANSLATE Sorry, this didn't work...",
   "connections_connected_section_title": "PLZ_TRANSLATE Connected",
-  "connections_pending_section_title": "PLZ_TRANSLATE Waiting to be accepted"
+  "connections_pending_section_title": "PLZ_TRANSLATE Waiting to be accepted",
+  "cant_delete_email_no_phone_popover_title": "PLZ_TRANSLATE You can't delete your email",
+  "cant_delete_email_no_phone_popover_text": "PLZ_TRANSLATE You need a verified phone number to delete your email or you have no way of logging in.",
+  "cant_delete_email_no_phone_popover_action": "PLZ_TRANSLATE add phone"
 }
