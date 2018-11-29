@@ -409,7 +409,7 @@
   "push_the_new_weekly_tasks": "PLZ_CHECK New week, new chores, more money to be earned! 💰",
   "push_reminder_of_chore": "PLZ_CHECK {parent.nickname} reminds you of doing the chore 'chore name'",
   "event_create_a_new_dream": "PLZ_CHECK {parent.nickname}has made a withdrawal from your Cloud.",
-  "push_withdrawal_made_from_your_cloud": "PLZ_CHECK {parent.nickname} deducted from your savings.",
+  "push_withdrawal_made_from_your_cloud": "{parent.nickname} drog av från sparat.",
   "push_deposit_made_to_your_cloud": "PLZ_CHECK You have received a deposit to your Cloud! ",
   "push_suggested_chore_enabled": "PLZ_CHECK You have a new chore waiting to be done!",
   "event_upgraded_to_premium": "PLZ_CHECK You have been upgraded to premium",
