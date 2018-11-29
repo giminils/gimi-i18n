@@ -547,8 +547,6 @@
   "question_deposit_permission_view_only": "PLZ_TRANSLATE Do you want to ask %1$d for permission to deposit money to %1$d?",
   "without_permission_warning": "Ilman lupaa näet vain suoritetut siirrot.",
   "general_permission": "lupa",
-  "permission_deposit_permission": "PLZ_TRANSLATE before you can deposit money to %1$d, we need to ask the person who set up the Gimi account for %2$d. Do you want to ask for permission?",
-  "permission_deposit_permission_kids": "PLZ_TRANSLATE before you can deposit money to %1$d, we need to ask the person who set up the Gimi account. Do you want to ask for permission?",
   "missing_permissions": "luvat puuttuvat",
   "read_good_to_know": "Lue 'Hyvä tietää'",
   "payment_method": "Maksutapa",

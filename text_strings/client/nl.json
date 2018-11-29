@@ -547,8 +547,6 @@
   "question_deposit_permission_view_only": "Wil je %1$d toestemming vragen om geld te storten op %1$d?",
   "without_permission_warning": "Zonder toestemming kun je alleen voltooide transacties zien.",
   "general_permission": "toestemming",
-  "permission_deposit_permission": "voordat je geld kunt storten op %1$d, moeten we de persoon die het Gimi account gemaakt heeft vragen om %2$d. Wil je om toestemming vragen?",
-  "permission_deposit_permission_kids": " voordat je geld kunt storten op %1$d, moeten we dat aan de persoon die het Gimi account gemaakt heeft vragen. Wil je om toestemming vragen?",
   "missing_permissions": "permissies ontbreken",
   "read_good_to_know": "Lees 'Goed om te weten'",
   "payment_method": "Betalingsmiddel",

@@ -547,8 +547,6 @@
   "question_deposit_permission_view_only": "Ønsker du å spørre %1$d om tillatelse til å sette inn penger til %1$d?",
   "without_permission_warning": "Uten tillatelse har du bare mulighet til å følge transaksjoner.",
   "general_permission": "tillatelse",
-  "permission_deposit_permission": "før du kan sette inn penger til %1$d, må vi spørre personen som satte opp Gimi-kontoen for %2$d. Vil du be om tillatelse?",
-  "permission_deposit_permission_kids": "før du kan sette inn penger til %1$d, må vi spørre personen som satte opp Gimi-kontoen. Vil du be om tillatelse?",
   "missing_permissions": "Savner tillatelse",
   "read_good_to_know": "Les igjennom 'Bra å vite'",
   "payment_method": "Betalingsmetode",
