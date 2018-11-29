@@ -2018,7 +2018,7 @@
   "parent_connect_to_all_kids_desc": "But you can connect your children to other supporters! Want to connect %1$d to all your children?",
   "relation_overview_for_kid_subtitle": "Settings for you",
   "name_owes_you": "%1$d owes you",
-  "pfs_general_error": "PLZ_COPY Sorry, this didn't work...",
+  "pfs_general_error": "Sorry, this didn't work...",
   "connections_connected_section_title": "Connected",
   "connections_pending_section_title": "Waiting to be accepted"
 }
