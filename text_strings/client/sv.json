@@ -1975,7 +1975,7 @@
   "general_chore_inspo": "Inspiration för uppgifter",
   "no_new_notifications": "Inga nya notiser",
   "dream_shared_confirmation": "Drömmar har delats!",
-  "allowance_help_slider_content_for_parent": "Vecko-eller månadspengen för %1$d är en fast summa som är garanterad, från dig och andra supporter, på varje Payday.",
+  "allowance_help_slider_content_for_parent": "Vecko-eller månadspengen för %1$d är en fast summa som %1$d är garanterad, från dig och andra supporter, på varje Payday.",
   "names_weekly_allowance_n": "PLZ_CHECK %1$d allowance: %2$d",
   "names_monthly_allowance_n": "PLZ_CHECK %1$d allowance: %2$d",
   "chores_help_slider_content_for_parent": "Vill du bidra med mer än bara vecko- eller månadspeng? Ge ut uppgifter! Det kommer hjälpa %1$d att lära sig pengarna värde.",
