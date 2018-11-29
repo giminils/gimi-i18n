@@ -428,5 +428,7 @@
   "event_suggestion_of_new_allowance": "PLZ_CHECK Suggestion for new allowance",
   "event_allowance_settings_are_updated": "PLZ_CHECK Allowance settings have been updated",
   "event_you_have_set_allowance": "PLZ_CHECK You have set an allowance",
-  "event_got_x_new_chores": "PLZ_CHECK {parent.nickname} sent you number of tasks new chores"
+  "event_got_x_new_chores": "PLZ_CHECK {parent.nickname} sent you number of tasks new chores",
+  "event_ready_for apple_pay": "PLZ_CHECK Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
+  "push_ready_for_apple_pay": "PLZ_CHECK Your Gimi card is ready for Apple Pay! "
 }
