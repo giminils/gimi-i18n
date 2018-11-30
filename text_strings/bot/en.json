@@ -596,6 +596,11 @@
   "cw0207": "I like Roblox too!",
   "cw0302": "Do you collect anything?",
   "cw0304": "Gotta catch 'em all!",
+  "cw0402": "What's your favorite sport?",
+  "cw0404": "I like football too!",
+  "cw0405": "I like icehockey too!",
+  "cw0406": "I like dance too!",
+  "cw0407": "I like equestrian too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -746,5 +751,9 @@
   "botsurvey_capsules_week_x": "Capsules",
   "botsurvey_pokemon_cards_week_x": "Pokémon cards",
   "botsurvey_stamps_week_x": "Stamps",
-  "botsurvey_seashells_week_x": "Seashells"
+  "botsurvey_seashells_week_x": "Seashells",
+  "botsurvey_football_week_x": "Football",
+  "botsurvey_icehockey_week_x": "Icehockey",
+  "botsurvey_dance_week_x": "Dance",
+  "botsurvey_equestrian_week_x": "Equestrian"
 }

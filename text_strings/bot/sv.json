@@ -596,6 +596,11 @@
   "cw0207": "PLZ_CHECK I like Roblox too!",
   "cw0302": "PLZ_CHECK Do you collect anything?",
   "cw0304": "PLZ_CHECK Gotta catch 'em all!",
+  "cw0402": "PLZ_CHECK What's your favorite sport?",
+  "cw0404": "PLZ_CHECK I like football too!",
+  "cw0405": "PLZ_CHECK I like icehockey too!",
+  "cw0406": "PLZ_CHECK I like dance too!",
+  "cw0407": "PLZ_CHECK I like equestrian too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -746,5 +751,9 @@
   "botsurvey_capsules_week_x": "PLZ_CHECK Capsules",
   "botsurvey_pokemon_cards_week_x": "PLZ_CHECK Pokémon cards",
   "botsurvey_stamps_week_x": "PLZ_CHECK Stamps",
-  "botsurvey_seashells_week_x": "PLZ_CHECK Seashells"
+  "botsurvey_seashells_week_x": "PLZ_CHECK Seashells",
+  "botsurvey_football_week_x": "PLZ_CHECK Football",
+  "botsurvey_icehockey_week_x": "PLZ_CHECK Icehockey",
+  "botsurvey_dance_week_x": "PLZ_CHECK Dance",
+  "botsurvey_equestrian_week_x": "PLZ_CHECK Equestrian"
 }
