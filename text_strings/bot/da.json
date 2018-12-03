@@ -613,6 +613,11 @@
   "cw0705": "PLZ_TRANSLATE I like TikTok too (but i like Gimi more)!",
   "cw0706": "PLZ_TRANSLATE I like Snapchat too (but i like Gimi more)!",
   "cw0707": "PLZ_TRANSLATE I like Instagram too (but i like Gimi more)!",
+  "cw0802": "PLZ_TRANSLATE What do you spend most money on?",
+  "cw0804": "PLZ_TRANSLATE Watch out for cavities!",
+  "cw0805": "PLZ_TRANSLATE Hope they're fun!",
+  "cw0806": "PLZ_TRANSLATE Hope it's fun!",
+  "cw0807": "PLZ_TRANSLATE Hope they keep you warm!",
   "nice_excl": "PLZ_TRANSLATE Nice!",
   "bot_nice": "PLZ_TRANSLATE Nice",
   "will_do": "PLZ_TRANSLATE Will do",
@@ -779,5 +784,9 @@
   "botsurvey_gimi_week_x": "PLZ_TRANSLATE Gimi",
   "botsurvey_tiktok_week_x": "PLZ_TRANSLATE TikTok",
   "botsurvey_snapchat_week_x": "PLZ_TRANSLATE Snapchat",
-  "botsurvey_instagram_week_x": "PLZ_TRANSLATE Instagram"
+  "botsurvey_instagram_week_x": "PLZ_TRANSLATE Instagram",
+  "botsurvey_candy_week_x": "PLZ_TRANSLATE Candy",
+  "botsurvey_toys_week_x": "PLZ_TRANSLATE Toys",
+  "botsurvey_games_week_x": "PLZ_TRANSLATE Games",
+  "botsurvey_clothes_week_x": "PLZ_TRANSLATE Clothes"
 }

@@ -613,6 +613,11 @@
   "cw0705": "I like TikTok too (but i like Gimi more)!",
   "cw0706": "I like Snapchat too (but i like Gimi more)!",
   "cw0707": "I like Instagram too (but i like Gimi more)!",
+  "cw0802": "What do you spend most money on?",
+  "cw0804": "Watch out for cavities!",
+  "cw0805": "Hope they're fun!",
+  "cw0806": "Hope it's fun!",
+  "cw0807": "Hope they keep you warm!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -779,5 +784,9 @@
   "botsurvey_gimi_week_x": "Gimi",
   "botsurvey_tiktok_week_x": "TikTok",
   "botsurvey_snapchat_week_x": "Snapchat",
-  "botsurvey_instagram_week_x": "Instagram"
+  "botsurvey_instagram_week_x": "Instagram",
+  "botsurvey_candy_week_x": "Candy",
+  "botsurvey_toys_week_x": "Toys",
+  "botsurvey_games_week_x": "Games",
+  "botsurvey_clothes_week_x": "Clothes"
 }
