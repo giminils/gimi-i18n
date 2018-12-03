@@ -358,7 +358,7 @@
   "push_chores_waiting": "Du har {x} oppgaver som venter. Gå til appen for å tjene penger!",
   "event_add_card": "Legg til kortet ditt slik at du kan sende penger!",
   "event_child_spend": "PLZ_TRANSLATE new_card_purchase",
-  "push_child_spend": " 💳 {child.nickname} har akkurat brukt kr. 100 hos {statement.merchant_name}",
+  "push_child_spend": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_got_money_back": "Du har fått tilbake penger fra {statement.merchant_name}",
   "push_got_money_back": "💰 Du har akkurat fått penger fra {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hei {{ user.name }}, skriv inn koden {{ token.code }} i appen eller klikk på knappen nedenfor for å logge inn. Ser deg i appen!",

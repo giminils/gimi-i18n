@@ -358,7 +358,7 @@
   "push_chores_waiting": "PLZ_CHECK You have {x} chores waiting. Go to the app to earn money!",
   "event_add_card": "PLZ_CHECK Add your card so you can send money!",
   "event_child_spend": "PLZ_CHECK new_card_purchase",
-  "push_child_spend": "PLZ_CHECK 💳 {child.nickname} just spent €10 at {statement.merchant_name}",
+  "push_child_spend": "PLZ_CHECK 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_got_money_back": "PLZ_CHECK You got some money back from {statement.merchant_name}",
   "push_got_money_back": "PLZ_CHECK 💰You just got some money from {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hej {{ user.name }}, Ange koden {{ token.code }} i appen eller klicka på knappen nedan för att logga in. Vi ses i appen! 👋",

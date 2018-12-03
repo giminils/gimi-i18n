@@ -358,7 +358,7 @@
   "push_chores_waiting": "Je hebt {x} klusjes die op je wachten. Ga naar de app om geld te verdienen!",
   "event_add_card": "Voeg je kaart toe zodat je geld kunt overmaken!",
   "event_child_spend": "nieuwe kaart aankoop",
-  "push_child_spend": "💳 {child.nickname} heeft zojuist €10 uitgegeven bij {statement.merchant_name}",
+  "push_child_spend": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_got_money_back": "Je hebt geld teruggekregen van {statement.merchant_name}",
   "push_got_money_back": "💰Je hebt net wat geld teruggekregen van {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hallo {{ user.name }}, Vul de code {{ token.code }} in de app in of klik op de knop beneden om in te loggen. Tot ziens in de app! 👋",

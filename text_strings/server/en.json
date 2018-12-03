@@ -358,7 +358,7 @@
   "push_chores_waiting": "You have {x} chores waiting. Go to the app to earn money!",
   "event_add_card": "Add your card so you can send money!",
   "event_child_spend": "new_card_purchase",
-  "push_child_spend": "💳 {child.nickname} just spent €10 at {statement.merchant_name}",
+  "push_child_spend": "💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_got_money_back": "You got some money back from {statement.merchant_name}",
   "push_got_money_back": "💰You just got some money from {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hi {{ user.name }}, Enter the code {{ token.code }} in the app or click on the button below to log in. See you in the app! 👋",
