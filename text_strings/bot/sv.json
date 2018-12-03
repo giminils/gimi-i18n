@@ -618,6 +618,11 @@
   "cw0805": "PLZ_CHECK Hope they're fun!",
   "cw0806": "PLZ_CHECK Hope it's fun!",
   "cw0807": "PLZ_CHECK Hope they keep you warm!",
+  "cw0902": "PLZ_CHECK Who's your favorite superhero?",
+  "cw0904": "PLZ_CHECK I like wonder woman too! She is a true warrior!",
+  "cw0905": "PLZ_CHECK I like spiderman too! I wanna be a spiderpig :)",
+  "cw0906": "PLZ_CHECK I like batman too! He has really cool gadgets!",
+  "cw0907": "PLZ_CHECK I like the hulk too! He is so green and strong!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -788,5 +793,9 @@
   "botsurvey_candy_week_x": "PLZ_CHECK Candy",
   "botsurvey_toys_week_x": "PLZ_CHECK Toys",
   "botsurvey_games_week_x": "PLZ_CHECK Games",
-  "botsurvey_clothes_week_x": "PLZ_CHECK Clothes"
+  "botsurvey_clothes_week_x": "PLZ_CHECK Clothes",
+  "botsurvey_wonder_woman_week_x": "PLZ_CHECK Wonder Woman",
+  "botsurvey_spiderman_week_x": "PLZ_CHECK Spiderman",
+  "botsurvey_batman_week_x": "PLZ_CHECK Batman",
+  "botsurvey_the_hulk_week_x": "PLZ_CHECK The Hulk"
 }

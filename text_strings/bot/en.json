@@ -618,6 +618,11 @@
   "cw0805": "Hope they're fun!",
   "cw0806": "Hope it's fun!",
   "cw0807": "Hope they keep you warm!",
+  "cw0902": "Who's your favorite superhero?",
+  "cw0904": "I like wonder woman too! She is a true warrior!",
+  "cw0905": "I like spiderman too! I wanna be a spiderpig :)",
+  "cw0906": "I like batman too! He has really cool gadgets!",
+  "cw0907": "I like the hulk too! He is so green and strong!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -788,5 +793,9 @@
   "botsurvey_candy_week_x": "Candy",
   "botsurvey_toys_week_x": "Toys",
   "botsurvey_games_week_x": "Games",
-  "botsurvey_clothes_week_x": "Clothes"
+  "botsurvey_clothes_week_x": "Clothes",
+  "botsurvey_wonder_woman_week_x": "Wonder Woman",
+  "botsurvey_spiderman_week_x": "Spiderman",
+  "botsurvey_batman_week_x": "Batman",
+  "botsurvey_the_hulk_week_x": "The Hulk"
 }
