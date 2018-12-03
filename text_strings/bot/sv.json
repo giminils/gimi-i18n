@@ -601,6 +601,11 @@
   "cw0405": "PLZ_CHECK I like icehockey too!",
   "cw0406": "PLZ_CHECK I like dance too!",
   "cw0407": "PLZ_CHECK I like equestrian too!",
+  "cw0502": "PLZ_CHECK What's your favorite food?",
+  "cw0504": "PLZ_CHECK I like pizza too!",
+  "cw0505": "PLZ_CHECK I like hamburger too!",
+  "cw0506": "PLZ_CHECK I like sushi too!",
+  "cw0507": "PLZ_CHECK I like pancakes too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -755,5 +760,9 @@
   "botsurvey_football_week_x": "PLZ_CHECK Football",
   "botsurvey_icehockey_week_x": "PLZ_CHECK Icehockey",
   "botsurvey_dance_week_x": "PLZ_CHECK Dance",
-  "botsurvey_equestrian_week_x": "PLZ_CHECK Equestrian"
+  "botsurvey_equestrian_week_x": "PLZ_CHECK Equestrian",
+  "botsurvey_pizza_week_x": "PLZ_CHECK Pizza",
+  "botsurvey_hamburger_week_x": "PLZ_CHECK Hamburger",
+  "botsurvey_sushi_week_x": "PLZ_CHECK Sushi",
+  "botsurvey_pancakes_week_x": "PLZ_CHECK Pancakes"
 }

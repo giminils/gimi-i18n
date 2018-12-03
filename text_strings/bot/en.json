@@ -601,6 +601,11 @@
   "cw0405": "I like icehockey too!",
   "cw0406": "I like dance too!",
   "cw0407": "I like equestrian too!",
+  "cw0502": "What's your favorite food?",
+  "cw0504": "I like pizza too!",
+  "cw0505": "I like hamburger too!",
+  "cw0506": "I like sushi too!",
+  "cw0507": "I like pancakes too!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -755,5 +760,9 @@
   "botsurvey_football_week_x": "Football",
   "botsurvey_icehockey_week_x": "Icehockey",
   "botsurvey_dance_week_x": "Dance",
-  "botsurvey_equestrian_week_x": "Equestrian"
+  "botsurvey_equestrian_week_x": "Equestrian",
+  "botsurvey_pizza_week_x": "Pizza",
+  "botsurvey_hamburger_week_x": "Hamburger",
+  "botsurvey_sushi_week_x": "Sushi",
+  "botsurvey_pancakes_week_x": "Pancakes"
 }
