@@ -388,7 +388,7 @@
   "event_short_tutorial": "It's payday for {child.nickname}",
   "push_add_profile_pic": "-",
   "event_you_are_connected": "You're now connected with {child.nickname}!",
-  "push_card_purcharse_decline": "A card purchase was declined because of low balance!",
+  "push_card_purchase_decline": "A card purchase was declined because of low balance!",
   "event_how_premium_work": "How Premium works",
   "event_child_has_completed_a_chore": "{child.nickname} completed 'chore name'",
   "push_card_decline_unlock": "🚫Gimi card was declined at {statement.merchant_name}! Want to unblock the card?",
