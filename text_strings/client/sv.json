@@ -2025,5 +2025,10 @@
   "instantor_fail_container_title": "PLZ_CHECK This didn't work as intended...",
   "instantor_fail_container_text": "PLZ_CHECK Lorem ipsum",
   "instantor_fail_container_button": "PLZ_CHECK Continue",
-  "pin_entered_too_many_times_error": "PLZ_CHECK Too many tries. PIN locked for 1 hour."
+  "pin_entered_too_many_times_error": "PLZ_CHECK Too many tries. PIN locked for 1 hour.",
+  "withdraw_from_freemium_savings_title": "PLZ_CHECK Deduct from savings",
+  "deposit_to_freemium_savings_title": "PLZ_CHECK Add to savings",
+  "withdraw_from_premium_savings_title": "PLZ_CHECK Deduct from account",
+  "deposit_to_premium_savings_title": "PLZ_CHECK Deposit to account",
+  "premium_kid_internal_transaction_title": "PLZ_CHECK Top-up card"
 }

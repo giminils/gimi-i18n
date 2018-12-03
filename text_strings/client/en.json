@@ -2025,5 +2025,10 @@
   "instantor_fail_container_title": "This didn't work as intended...",
   "instantor_fail_container_text": "Lorem ipsum",
   "instantor_fail_container_button": "Continue",
-  "pin_entered_too_many_times_error": "Too many tries. PIN locked for 1 hour."
+  "pin_entered_too_many_times_error": "Too many tries. PIN locked for 1 hour.",
+  "withdraw_from_freemium_savings_title": "Deduct from savings",
+  "deposit_to_freemium_savings_title": "Add to savings",
+  "withdraw_from_premium_savings_title": "Deduct from account",
+  "deposit_to_premium_savings_title": "Deposit to account",
+  "premium_kid_internal_transaction_title": "Top-up card"
 }
