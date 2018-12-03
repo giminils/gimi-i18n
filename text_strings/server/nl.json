@@ -328,7 +328,7 @@
   "event_card_has_been_activated": "{child.nickname} heeft net de Gimi kaart geactiveerd! 👏",
   "push_purchases_with_card": "💳 Je hebt net €10 uitgegeven bij {statement.merchant_name}",
   "push_declined_purchases_with_insufficient_funds": "🚫 Oh nee! Je kaart was geweigerd bij {pfstransactionstatement.merchant_name}, wil je geld naar de kaart overschrijven?",
-  "push_declined_purchases_with_blocked_card": "🚫 Oh nee! Je kaart was geweigerd bij {statement.merchant_name}, wil je de kaart deblokkeren?",
+  "push_declined_purchases_with_blocked_card": "🚫 Oh nee! Je kaart was geweigerd bij {pfstransactionstatement.merchant_name}, wil je de kaart deblokkeren?",
   "event_card_sign_up": "Wil je doorgaan met het aanmelden voor de kaart",
   "event_child_receive_money_from_other": "Laat {child.nickname} geld ontvangen van andere contactpersonen !",
   "event_end_real_money": "Je kunt nu echt geld naar {child.nickname} sturen!",
