@@ -2021,5 +2021,8 @@
   "connections_pending_section_title": "Waiting to be accepted",
   "cant_delete_email_no_phone_popover_title": "You can't delete your email",
   "cant_delete_email_no_phone_popover_text": "You need a verified phone number to delete your email, or you won't be able to log in.",
-  "cant_delete_email_no_phone_popover_action": "add number"
+  "cant_delete_email_no_phone_popover_action": "add number",
+  "instantor_fail_container_title": "This didn't work as intended...",
+  "instantor_fail_container_text": "Lorem ipsum",
+  "instantor_fail_container_button": "Continue"
 }

@@ -2021,5 +2021,8 @@
   "connections_pending_section_title": "Väntar",
   "cant_delete_email_no_phone_popover_title": "Du kan inte ta bort din mejl",
   "cant_delete_email_no_phone_popover_text": "Du behöver lägg till och verifiera ett telefonnummer innan du kan radera din mejl, annars kommer du inte att kunna logga in igen!",
-  "cant_delete_email_no_phone_popover_action": "Lägg till"
+  "cant_delete_email_no_phone_popover_action": "Lägg till",
+  "instantor_fail_container_title": "PLZ_CHECK This didn't work as intended...",
+  "instantor_fail_container_text": "PLZ_CHECK Lorem ipsum",
+  "instantor_fail_container_button": "PLZ_CHECK Continue"
 }

@@ -2021,5 +2021,8 @@
   "connections_pending_section_title": "PLZ_TRANSLATE Waiting to be accepted",
   "cant_delete_email_no_phone_popover_title": "PLZ_TRANSLATE You can't delete your email",
   "cant_delete_email_no_phone_popover_text": "PLZ_TRANSLATE You need a verified phone number to delete your email or you have no way of logging in.",
-  "cant_delete_email_no_phone_popover_action": "PLZ_TRANSLATE add phone"
+  "cant_delete_email_no_phone_popover_action": "PLZ_TRANSLATE add phone",
+  "instantor_fail_container_title": "PLZ_TRANSLATE This didn't work as intended...",
+  "instantor_fail_container_text": "PLZ_TRANSLATE Lorem ipsum",
+  "instantor_fail_container_button": "PLZ_TRANSLATE Continue"
 }
