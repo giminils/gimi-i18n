@@ -2038,5 +2038,7 @@
   "kid_savings_deposit_transaction": "PLZ_TRANSLATE Deposit",
   "savings_account_cloud_help_kid": "PLZ_TRANSLATE To be deposited from your supporters",
   "general_your_supporters": "PLZ_TRANSLATE Your supporters",
-  "supporters_to_kid": "PLZ_TRANSLATE Supporters to %1$d"
+  "supporters_to_kid": "PLZ_TRANSLATE Supporters to %1$d",
+  "cloud_withdraw_from_parent_name": "PLZ_TRANSLATE Deduction by %1$d",
+  "cloud_insertion_from_parent": "PLZ_TRANSLATE Added by %1$d"
 }
