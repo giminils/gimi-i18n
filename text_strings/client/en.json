@@ -2024,5 +2024,6 @@
   "cant_delete_email_no_phone_popover_action": "add number",
   "instantor_fail_container_title": "This didn't work as intended...",
   "instantor_fail_container_text": "Lorem ipsum",
-  "instantor_fail_container_button": "Continue"
+  "instantor_fail_container_button": "Continue",
+  "pin_entered_too_many_times_error": "Too many tries. PIN locked for 1 hour."
 }

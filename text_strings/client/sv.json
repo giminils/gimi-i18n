@@ -2024,5 +2024,6 @@
   "cant_delete_email_no_phone_popover_action": "Lägg till",
   "instantor_fail_container_title": "PLZ_CHECK This didn't work as intended...",
   "instantor_fail_container_text": "PLZ_CHECK Lorem ipsum",
-  "instantor_fail_container_button": "PLZ_CHECK Continue"
+  "instantor_fail_container_button": "PLZ_CHECK Continue",
+  "pin_entered_too_many_times_error": "PLZ_CHECK Too many tries. PIN locked for 1 hour."
 }
