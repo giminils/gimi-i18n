@@ -435,8 +435,8 @@
   "event_spend_more_money_than_have": "PLZ_CHECK You spent more money than you had on your card. You need to top-up the card. ",
   "push_spend_more_money_than_have": "PLZ_CHECK Oops... you overspent ☹️",
   "event_child_spend_more_money": "PLZ_CHECK {child.nickname} spent more money than was on the card. Contact us if you need support!",
-  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 You just spent €10 at {pfstransactionstatement.merchant_name}",
   "push_child_spend": "PLZ_CHECK 💳 You just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! ",
-  "push_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! 💫 Transfer money now"
+  "push_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! 💫 Transfer money now",
+  "push_child_spend_to_parent": "PLZ_CHECK 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}"
 }
