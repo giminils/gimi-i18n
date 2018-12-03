@@ -608,6 +608,11 @@
   "cw0507": "PLZ_CHECK I like pancakes too!",
   "cw0602": "PLZ_CHECK Is it difficult to save money?",
   "cw0604": "PLZ_CHECK Keep trying!",
+  "cw0702": "PLZ_CHECK What's your favorite app?",
+  "cw0704": "PLZ_CHECK OMG thank you so much <3",
+  "cw0705": "PLZ_CHECK I like TikTok too (but i like Gimi more)!",
+  "cw0706": "PLZ_CHECK I like Snapchat too (but i like Gimi more)!",
+  "cw0707": "PLZ_CHECK I like Instagram too (but i like Gimi more)!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -770,5 +775,9 @@
   "botsurvey_superhard_week_x": "PLZ_CHECK Superhard",
   "botsurvey_a_little_week_x": "PLZ_CHECK A little",
   "botsurvey_not_really_week_x": "PLZ_CHECK Not really",
-  "boysurvey_no_week_x": "PLZ_CHECK No"
+  "botsurvey_no_week_x": "PLZ_CHECK No",
+  "botsurvey_gimi_week_x": "PLZ_CHECK Gimi",
+  "botsurvey_tiktok_week_x": "PLZ_CHECK TikTok",
+  "botsurvey_snapchat_week_x": "PLZ_CHECK Snapchat",
+  "botsurvey_instagram_week_x": "PLZ_CHECK Instagram"
 }
