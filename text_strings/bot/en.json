@@ -623,6 +623,7 @@
   "cw0905": "I like spiderman too! I wanna be a spiderpig :)",
   "cw0906": "I like batman too! He has really cool gadgets!",
   "cw0907": "I like the hulk too! He is so green and strong!",
+  "cw1002": "Do your parents talk to you about money?",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -761,6 +762,7 @@
   "bot_show_me_excl": "Show me!",
   "bot_sure": "Sure",
   "bot_do_it": "Do it!",
+  "bot_alright_excl": "Alright!",
   "bot_thanks_piggy": "Thanks Piggy",
   "botsurvey_dog_week_x": "Dog",
   "botsurvey_cat_week_x": "Cat",
@@ -797,5 +799,9 @@
   "botsurvey_wonder_woman_week_x": "Wonder Woman",
   "botsurvey_spiderman_week_x": "Spiderman",
   "botsurvey_batman_week_x": "Batman",
-  "botsurvey_the_hulk_week_x": "The Hulk"
+  "botsurvey_the_hulk_week_x": "The Hulk",
+  "botsurvey_every_day_week_x": "Every day",
+  "botsurvey_sometimes_week_x": "Sometimes",
+  "botsurvey_hardly_ever_week_x": "Hardly ever",
+  "botsurvey_never_week_x": "Never"
 }

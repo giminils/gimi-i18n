@@ -623,6 +623,7 @@
   "cw0905": "PLZ_TRANSLATE I like spiderman too! I wanna be a spiderpig :)",
   "cw0906": "PLZ_TRANSLATE I like batman too! He has really cool gadgets!",
   "cw0907": "PLZ_TRANSLATE I like the hulk too! He is so green and strong!",
+  "cw1002": "PLZ_TRANSLATE Do your parents talk to you about money?",
   "nice_excl": "PLZ_TRANSLATE Nice!",
   "bot_nice": "PLZ_TRANSLATE Nice",
   "will_do": "PLZ_TRANSLATE Will do",
@@ -761,6 +762,7 @@
   "bot_show_me_excl": "PLZ_TRANSLATE Show me!",
   "bot_sure": "PLZ_TRANSLATE Sure",
   "bot_do_it": "PLZ_TRANSLATE Do it!",
+  "bot_alright_excl": "PLZ_TRANSLATE Alright!",
   "bot_thanks_piggy": "PLZ_TRANSLATE Thanks Piggy",
   "botsurvey_dog_week_x": "PLZ_TRANSLATE Dog",
   "botsurvey_cat_week_x": "PLZ_TRANSLATE Cat",
@@ -797,5 +799,9 @@
   "botsurvey_wonder_woman_week_x": "PLZ_TRANSLATE Wonder Woman",
   "botsurvey_spiderman_week_x": "PLZ_TRANSLATE Spiderman",
   "botsurvey_batman_week_x": "PLZ_TRANSLATE Batman",
-  "botsurvey_the_hulk_week_x": "PLZ_TRANSLATE The Hulk"
+  "botsurvey_the_hulk_week_x": "PLZ_TRANSLATE The Hulk",
+  "botsurvey_every_day_week_x": "PLZ_TRANSLATE Every day",
+  "botsurvey_sometimes_week_x": "PLZ_TRANSLATE Sometimes",
+  "botsurvey_hardly_ever_week_x": "PLZ_TRANSLATE Hardly ever",
+  "botsurvey_never_week_x": "PLZ_TRANSLATE Never"
 }

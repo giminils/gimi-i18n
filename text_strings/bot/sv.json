@@ -623,6 +623,7 @@
   "cw0905": "PLZ_CHECK I like spiderman too! I wanna be a spiderpig :)",
   "cw0906": "PLZ_CHECK I like batman too! He has really cool gadgets!",
   "cw0907": "PLZ_CHECK I like the hulk too! He is so green and strong!",
+  "cw1002": "PLZ_CHECK Do your parents talk to you about money?",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -761,6 +762,7 @@
   "bot_show_me_excl": "PLZ_CHECK Show me!",
   "bot_sure": "PLZ_CHECK Sure",
   "bot_do_it": "PLZ_CHECK Do it!",
+  "bot_alright_excl": "PLZ_CHECK Alright!",
   "bot_thanks_piggy": "PLZ_CHECK Thanks Piggy",
   "botsurvey_dog_week_x": "Hund",
   "botsurvey_cat_week_x": "Katt",
@@ -797,5 +799,9 @@
   "botsurvey_wonder_woman_week_x": "PLZ_CHECK Wonder Woman",
   "botsurvey_spiderman_week_x": "PLZ_CHECK Spiderman",
   "botsurvey_batman_week_x": "PLZ_CHECK Batman",
-  "botsurvey_the_hulk_week_x": "PLZ_CHECK The Hulk"
+  "botsurvey_the_hulk_week_x": "PLZ_CHECK The Hulk",
+  "botsurvey_every_day_week_x": "PLZ_CHECK Every day",
+  "botsurvey_sometimes_week_x": "PLZ_CHECK Sometimes",
+  "botsurvey_hardly_ever_week_x": "PLZ_CHECK Hardly ever",
+  "botsurvey_never_week_x": "PLZ_CHECK Never"
 }
