@@ -2030,5 +2030,6 @@
   "deposit_to_freemium_savings_title": "Add to savings",
   "withdraw_from_premium_savings_title": "Deduct from account",
   "deposit_to_premium_savings_title": "Deposit to account",
-  "premium_kid_internal_transaction_title": "Top-up card"
+  "premium_kid_internal_transaction_title": "Top-up card",
+  "deposit_to_savings_button_for_parent": "Add money"
 }

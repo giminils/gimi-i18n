@@ -2030,5 +2030,6 @@
   "deposit_to_freemium_savings_title": "PLZ_CHECK Add to savings",
   "withdraw_from_premium_savings_title": "PLZ_CHECK Deduct from account",
   "deposit_to_premium_savings_title": "PLZ_CHECK Deposit to account",
-  "premium_kid_internal_transaction_title": "PLZ_CHECK Top-up card"
+  "premium_kid_internal_transaction_title": "PLZ_CHECK Top-up card",
+  "deposit_to_savings_button_for_parent": "PLZ_CHECK Add money"
 }
