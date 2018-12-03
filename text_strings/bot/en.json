@@ -606,6 +606,8 @@
   "cw0505": "I like hamburger too!",
   "cw0506": "I like sushi too!",
   "cw0507": "I like pancakes too!",
+  "cw0602": "Is it difficult to save money?",
+  "cw0604": "Keep trying!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Will do",
@@ -764,5 +766,9 @@
   "botsurvey_pizza_week_x": "Pizza",
   "botsurvey_hamburger_week_x": "Hamburger",
   "botsurvey_sushi_week_x": "Sushi",
-  "botsurvey_pancakes_week_x": "Pancakes"
+  "botsurvey_pancakes_week_x": "Pancakes",
+  "botsurvey_superhard_week_x": "Superhard",
+  "botsurvey_a_little_week_x": "A little",
+  "botsurvey_not_really_week_x": "Not really",
+  "boysurvey_no_week_x": "No"
 }

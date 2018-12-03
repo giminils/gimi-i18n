@@ -606,6 +606,8 @@
   "cw0505": "PLZ_TRANSLATE I like hamburger too!",
   "cw0506": "PLZ_TRANSLATE I like sushi too!",
   "cw0507": "PLZ_TRANSLATE I like pancakes too!",
+  "cw0602": "PLZ_TRANSLATE Is it difficult to save money?",
+  "cw0604": "PLZ_TRANSLATE Keep trying!",
   "nice_excl": "PLZ_TRANSLATE Nice!",
   "bot_nice": "PLZ_TRANSLATE Nice",
   "will_do": "PLZ_TRANSLATE Will do",
@@ -764,5 +766,9 @@
   "botsurvey_pizza_week_x": "PLZ_TRANSLATE Pizza",
   "botsurvey_hamburger_week_x": "PLZ_TRANSLATE Hamburger",
   "botsurvey_sushi_week_x": "PLZ_TRANSLATE Sushi",
-  "botsurvey_pancakes_week_x": "PLZ_TRANSLATE Pancakes"
+  "botsurvey_pancakes_week_x": "PLZ_TRANSLATE Pancakes",
+  "botsurvey_superhard_week_x": "PLZ_TRANSLATE Superhard",
+  "botsurvey_a_little_week_x": "PLZ_TRANSLATE A little",
+  "botsurvey_not_really_week_x": "PLZ_TRANSLATE Not really",
+  "boysurvey_no_week_x": "PLZ_TRANSLATE No"
 }

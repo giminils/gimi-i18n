@@ -606,6 +606,8 @@
   "cw0505": "PLZ_CHECK I like hamburger too!",
   "cw0506": "PLZ_CHECK I like sushi too!",
   "cw0507": "PLZ_CHECK I like pancakes too!",
+  "cw0602": "PLZ_CHECK Is it difficult to save money?",
+  "cw0604": "PLZ_CHECK Keep trying!",
   "nice_excl": "Nice!",
   "bot_nice": "Nice",
   "will_do": "Det ska jag",
@@ -764,5 +766,9 @@
   "botsurvey_pizza_week_x": "PLZ_CHECK Pizza",
   "botsurvey_hamburger_week_x": "PLZ_CHECK Hamburger",
   "botsurvey_sushi_week_x": "PLZ_CHECK Sushi",
-  "botsurvey_pancakes_week_x": "PLZ_CHECK Pancakes"
+  "botsurvey_pancakes_week_x": "PLZ_CHECK Pancakes",
+  "botsurvey_superhard_week_x": "PLZ_CHECK Superhard",
+  "botsurvey_a_little_week_x": "PLZ_CHECK A little",
+  "botsurvey_not_really_week_x": "PLZ_CHECK Not really",
+  "boysurvey_no_week_x": "PLZ_CHECK No"
 }
