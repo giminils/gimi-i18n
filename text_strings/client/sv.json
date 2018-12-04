@@ -2042,5 +2042,7 @@
   "cloud_withdraw_from_parent_name": "PLZ_CHECK Deduction by %1$d",
   "cloud_insertion_from_parent": "PLZ_CHECK Added by %1$d",
   "general_go_to_chores": "PLZ_CHECK Go to chores",
-  "deposit_to_cloud_button_for_parent": "PLZ_CHECK Add money"
+  "deposit_to_cloud_button_for_parent": "PLZ_CHECK Add money",
+  "premium_intro_savings_title_for_kid": "PLZ_CHECK Savings just got an upgrade",
+  "premium_intro_card_title_for_kid": "PLZ_CHECK The card is for spending"
 }
