@@ -305,7 +305,7 @@
   "event_payday_child": "Payday",
   "event_payday_parent": "Payday för {child.nickname}",
   "event_premium_payday_child": "Payday",
-  "event_premium_payday_parent": "PLZ_CHECK It's payday! 💫 Transfer money now",
+  "event_premium_payday_parent": "Payday är här! 💫 Gör en insättning till {child.nickname} nu",
   "push_you_got_a_chore_suggestion": "Uppgiftsförslag från {task.created_by.nickname}",
   "event_child_created": "Välkommen till Gimi",
   "event_child_lost_the_card": "{child.nickname} har markerat sitt kort som förlorat",
