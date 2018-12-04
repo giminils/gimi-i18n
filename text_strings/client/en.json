@@ -2041,5 +2041,6 @@
   "supporters_to_kid": "Supporters to %1$d",
   "cloud_withdraw_from_parent_name": "Deduction by %1$d",
   "cloud_insertion_from_parent": "Added by %1$d",
-  "general_go_to_chores": "Go to chores"
+  "general_go_to_chores": "Go to chores",
+  "deposit_to_cloud_button_for_parent": "Add money"
 }
