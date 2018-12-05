@@ -427,7 +427,7 @@
   "general_per_month": "al mese",
   "of_done_chores": "di lavoretti completati",
   "statistics_completed_average": "approvati in media",
-  "general_spent": "PLZ_TRANSLATE top-ups",
+  "general_spent": "PLZ_TRANSLATE Spent",
   "account_found_title": "Vuoi accedere adesso?",
   "account_found_description": "Sembra che tu abbia già effettuato l'accesso su questo dispositivo, vuoi accedere come %1$d ora?",
   "login_now": "accedi ora",
@@ -2031,7 +2031,7 @@
   "withdraw_from_premium_savings_title": "PLZ_TRANSLATE Deduct from account",
   "deposit_to_premium_savings_title": "PLZ_TRANSLATE Deposit to account",
   "premium_kid_internal_transaction_title": "PLZ_TRANSLATE Top-up card",
-  "deposit_to_savings_button_for_parent": "PLZ_TRANSLATE Add money",
+  "deposit_to_savings_button_for_parent": "PLZ_TRANSLATE Deposit",
   "existing_connection_popover_title": "PLZ_TRANSLATE You're already connected to this user",
   "existing_connection_popover_text": "PLZ_TRANSLATE Maybe invite someone else while you're at it?",
   "kid_savings_deposit": "PLZ_TRANSLATE Make a deposit",
@@ -2042,7 +2042,7 @@
   "cloud_withdraw_from_parent_name": "PLZ_TRANSLATE Deduction by %1$d",
   "cloud_insertion_from_parent": "PLZ_TRANSLATE Added by %1$d",
   "general_go_to_chores": "PLZ_TRANSLATE Go to chores",
-  "deposit_to_cloud_button_for_parent": "PLZ_TRANSLATE Add money",
+  "deposit_to_cloud_button_for_parent": "PLZ_TRANSLATE Add",
   "premium_intro_savings_title_for_kid": "PLZ_TRANSLATE Savings just got an upgrade",
   "premium_intro_card_title_for_kid": "PLZ_TRANSLATE The card is for spending"
 }
