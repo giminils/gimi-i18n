@@ -663,7 +663,7 @@
   "convert_cloud": "Första insättningen",
   "transfer_to_card": "Ladda kortet",
   "question_amount_to_transfer": "Hur mycket vill du föra över?",
-  "convert_cloud_to_real_money_description": "Vi kommer att dra av summan från vad du är skyldig barnet.",
+  "convert_cloud_to_real_money_description": "Vi kommer att dra av summan från din nuvarande skuld till barnet.",
   "general_transfer_money": "Överför pengar",
   "transfer_now": "Ladda kortet",
   "full_amount_in_cloud": "Hela beloppet i sparat",
