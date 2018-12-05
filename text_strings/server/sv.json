@@ -438,5 +438,5 @@
   "event_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! ",
   "push_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! 💫 Transfer money now",
   "push_child_spend_to_parent": "PLZ_CHECK 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
-  "event_premium_payday_parent": "Det är Payday 💫 Gör en insättning till {child.nickname}"
+  "event_premium_payday_parent": "PLZ_CHECK It's payday! 💫 Transfer money to your children"
 }

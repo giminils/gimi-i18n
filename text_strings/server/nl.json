@@ -438,5 +438,5 @@
   "event_payday_transfer_money": "Het is payday voor {child.nickname}! ",
   "push_payday_transfer_money": "Het is payday voor {child.nickname}! 💫 Maak nu geld over",
   "push_child_spend_to_parent": "💳 {child.nickname} heet net €10 uitgegeven bij {pfstransactionstatement.merchant_name}",
-  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Make a deposit to {child.nickname}"
+  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Transfer money to your children"
 }
