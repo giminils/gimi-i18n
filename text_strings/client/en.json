@@ -427,7 +427,7 @@
   "general_per_month": "per month",
   "of_done_chores": "of completed chores",
   "statistics_completed_average": "approved on average",
-  "general_spent": "PLZ ADD",
+  "general_spent": "PLZ_COPY Spent",
   "account_found_title": "Do you want to log in now?",
   "account_found_description": "You seem to have logged in on this device before, do you want to log in as %1$d now?",
   "login_now": "log in now",
@@ -2031,7 +2031,7 @@
   "withdraw_from_premium_savings_title": "Deduct from account",
   "deposit_to_premium_savings_title": "Deposit to account",
   "premium_kid_internal_transaction_title": "Top-up card",
-  "deposit_to_savings_button_for_parent": "Add money",
+  "deposit_to_savings_button_for_parent": "PLZ_COPY Deposit",
   "existing_connection_popover_title": "You're already connected to this user",
   "existing_connection_popover_text": "Maybe invite someone else while you're at it?",
   "kid_savings_deposit": "Make a deposit",
@@ -2042,7 +2042,7 @@
   "cloud_withdraw_from_parent_name": "Deduction by %1$d",
   "cloud_insertion_from_parent": "Added by %1$d",
   "general_go_to_chores": "Go to chores",
-  "deposit_to_cloud_button_for_parent": "Add money",
+  "deposit_to_cloud_button_for_parent": "PLZ_COPY Add",
   "premium_intro_savings_title_for_kid": "Savings just got an upgrade",
   "premium_intro_card_title_for_kid": "The card is for spending"
 }
