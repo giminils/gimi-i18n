@@ -2044,5 +2044,6 @@
   "general_go_to_chores": "PLZ_TRANSLATE Go to chores",
   "deposit_to_cloud_button_for_parent": "PLZ_TRANSLATE Add",
   "premium_intro_savings_title_for_kid": "PLZ_TRANSLATE Savings just got an upgrade",
-  "premium_intro_card_title_for_kid": "PLZ_TRANSLATE The card is for spending"
+  "premium_intro_card_title_for_kid": "PLZ_TRANSLATE The card is for spending",
+  "pay_online_turned_off_warning": "PLZ_TRANSLATE You will not be able to pay online because your card is blocked"
 }
