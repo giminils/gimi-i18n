@@ -305,7 +305,6 @@
   "event_payday_child": "Es ist Zahltag!",
   "event_payday_parent": "Es ist Zahltag für {child.nickname}",
   "event_premium_payday_child": "Es ist Zahltag!",
-  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Make a deposit to {child.nickname}",
   "push_you_got_a_chore_suggestion": "Du hast einen Aufgabenvorschlag von {task.created_by.nickname} erhalten",
   "event_child_created": "Erfahre mehr über Gimi!",
   "event_child_lost_the_card": "PLZ_TRANSLATE {child.nickname} marked card as lost",
@@ -438,5 +437,6 @@
   "push_child_spend": "PLZ_TRANSLATE 💳 You just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_payday_transfer_money": "PLZ_TRANSLATE It's payday for {child.nickname}! ",
   "push_payday_transfer_money": "PLZ_TRANSLATE It's payday for {child.nickname}! 💫 Transfer money now",
-  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}"
+  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
+  "event_premium_payday_parent": "PLZ_TRANSLATE It's payday! 💫 Make a deposit to {child.nickname}"
 }

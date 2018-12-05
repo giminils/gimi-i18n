@@ -305,7 +305,6 @@
   "event_payday_child": "Payday",
   "event_payday_parent": "Payday för {child.nickname}",
   "event_premium_payday_child": "Payday",
-  "event_premium_payday_parent": "Det är Payday 💫 Gör en insättning till {child.nickname}",
   "push_you_got_a_chore_suggestion": "Uppgiftsförslag från {task.created_by.nickname}",
   "event_child_created": "Välkommen till Gimi",
   "event_child_lost_the_card": "{child.nickname} har markerat sitt kort som förlorat",
@@ -438,5 +437,6 @@
   "push_child_spend": "PLZ_CHECK 💳 You just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! ",
   "push_payday_transfer_money": "PLZ_CHECK It's payday for {child.nickname}! 💫 Transfer money now",
-  "push_child_spend_to_parent": "PLZ_CHECK 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}"
+  "push_child_spend_to_parent": "PLZ_CHECK 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
+  "event_premium_payday_parent": "Det är Payday 💫 Gör en insättning till {child.nickname}"
 }
