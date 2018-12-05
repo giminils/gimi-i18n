@@ -1862,7 +1862,7 @@
   "control_phone_no_subtitle": "There seems to be too many or too few digits, or the wrong country code",
   "open_bank_id_info": "You might need to open BankID...",
   "savings_account_intro_title": "Savings just got an upgrade!",
-  "savings_account_intro_text": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card.",
+  "savings_account_intro_text": "PLZ_COPY You can now deposit real money to this account.%1$d can save this money or top-up the Gimi card.",
   "phone_verification_sent_to_kid_phone": "A verification code has been sent to your child’s new phone number",
   "education_title": "Education",
   "education_n_out_of_n_completed": "%1$d/%2$d completed",
