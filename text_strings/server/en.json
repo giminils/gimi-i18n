@@ -291,7 +291,7 @@
   "push_x_days_until_payday": "{x} days until Payday! Do some chores and earn more money!",
   "push_checkout_balance": "Check out your balance and see if your money are growing!",
   "push_have_you_bought_something": "Have you bought something for {child.nickname} today? Make a deduction from savings!",
-  "push_does_kid_has_cash": "Does {child.nickname} have any cash? Put them in savings instead! Go into the app and press the plus sign to add a deposit to savings",
+  "push_does_kid_has_cash": "PLZ_COPY Does {child.nickname} have any cash? Exchange them and add them to savings in the app!",
   "push_need_help_with_dinner": "Need help with something at home? Add a chore for {child.nickname}!",
   "event_has_card_arrived": "Has your card arrived yet?",
   "event_pfs_card_blocked_by_parent": "Your card has been blocked",
