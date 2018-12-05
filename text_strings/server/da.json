@@ -291,7 +291,7 @@
   "push_x_days_until_payday": "Du har {x} dage til Payday! Tjen flere penge og lav nogle af dine opgaver!",
   "push_checkout_balance": "Tjek din saldo og se om dine penge vokser!",
   "push_have_you_bought_something": "PLZ_TRANSLATE Have you bought something for {child.nickname} today? Make a deduction from savings!",
-  "push_does_kid_has_cash": "Har {child.nickname} nogle kontanter? Kom dem i opsparingen istedet! Gå ind i appen og klik på plus tegnet for at tilføje en indbetaling til opsparingen",
+  "push_does_kid_has_cash": "PLZ_TRANSLATE Does {child.nickname} have any cash? Exchange them and add them to savings in the app!",
   "push_need_help_with_dinner": "Har du brug for hjælp med aftensmaden? ATilføj en opgave for {child.nickname}",
   "event_has_card_arrived": "Er dit kort ankommet?",
   "event_pfs_card_blocked_by_parent": "Dit kort er blevet blokeret",

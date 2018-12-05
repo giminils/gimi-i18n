@@ -291,7 +291,7 @@
   "push_x_days_until_payday": "Tu as {x} jours avant ton jour de paie! Gagne plus d'argent et fais quelques-une des tes tâches",
   "push_checkout_balance": "Verifie ton solde et vois si ton argent a grossi!",
   "push_have_you_bought_something": "PLZ_TRANSLATE Have you bought something for {child.nickname} today? Make a deduction from savings!",
-  "push_does_kid_has_cash": "Est-ce que {child.nickname} a du liquide? Ajoutez-le et faites un dépôt d'argent dans le Cloud",
+  "push_does_kid_has_cash": "PLZ_TRANSLATE Does {child.nickname} have any cash? Exchange them and add them to savings in the app!",
   "push_need_help_with_dinner": "Besoin d'aide pour le dîner? Ajoutez une tâche pour {child.nickname}",
   "event_has_card_arrived": "Est-ce que ta/votre carte est déjà arrivé?",
   "event_pfs_card_blocked_by_parent": "Ta carte a été bloquée",

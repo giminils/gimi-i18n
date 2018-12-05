@@ -291,7 +291,7 @@
   "push_x_days_until_payday": "Sinulla on {x} päivää tilipäivään! Ansaitse lisää rahaa tekemällä askareita!",
   "push_checkout_balance": "Tsekkaa saldosi ja katso ovatko rahasi kasvaneet!",
   "push_have_you_bought_something": "PLZ_TRANSLATE Have you bought something for {child.nickname} today? Make a deduction from savings!",
-  "push_does_kid_has_cash": "Onko lapsella {child.nickname} rahaa? Siirrä ne säästöihin! Mene sovellukseen ja paina plus-painiketta tallettaaksesi rahaa säästöihin",
+  "push_does_kid_has_cash": "PLZ_TRANSLATE Does {child.nickname} have any cash? Exchange them and add them to savings in the app!",
   "push_need_help_with_dinner": "Tarvitsetko apua päivällisen kanssa? Lisää askare lapselle {child.nickname}",
   "event_has_card_arrived": "Onko korttisi vielä saapunut?",
   "event_pfs_card_blocked_by_parent": "Korttisi on estetty",

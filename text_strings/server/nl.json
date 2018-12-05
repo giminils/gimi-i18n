@@ -291,7 +291,7 @@
   "push_x_days_until_payday": "Je hebt nog {x} dagen tot Payday! Verdien meer geld en doe een paar van je klusjes!",
   "push_checkout_balance": "Controleer je saldo en kijk of je geld groeit!",
   "push_have_you_bought_something": "Heb je vandaag iets voor {child.nickname} gekocht? Neem op van de spaarrekening!",
-  "push_does_kid_has_cash": "Heeft {child.nickname} contant geld? Zet het in plaats daarvan op de spaarrekening! Open de app en druk op het plusteken om een storting op de spaarrekening te doen!",
+  "push_does_kid_has_cash": "PLZ_TRANSLATE Does {child.nickname} have any cash? Exchange them and add them to savings in the app!",
   "push_need_help_with_dinner": "Heb je hulp nodig met het avondeten? Voeg een klusje toe voor {child.nickname}",
   "event_has_card_arrived": "Is je kaart al aangekomen?",
   "event_pfs_card_blocked_by_parent": "Je kaart is geblokkeerd",
