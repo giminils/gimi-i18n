@@ -427,10 +427,38 @@
   "push_payday_transfer_money": "It's payday for {child.nickname}! 💫 Transfer money now",
   "push_child_spend_to_parent": "💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
   "event_premium_payday_parent": "It's payday! 💫 Transfer money to your children",
-  "push_promo_week_51_child": "Happy weekend! Piggy gillar dig 💖",
-  "push_promo_week_51_parent": "Happy weekend! Du är en superförälder ✨",
-  "push_promo_week_52_child": "Happy weekend! Piggy gillar dig 💖",
-  "push_promo_week_52_parent": "Happy weekend! Du är en superförälder ✨",
-  "push_promo_week_53_child": "Happy weekend! Piggy gillar dig 💖",
-  "push_promo_week_53_parent": "Happy weekend! Du är en superförälder ✨"
+  "push_promo_week_51_child": "Compliment someone today! 🤘- Piggy",
+  "push_promo_week_52_child": "Have a great day 🌈 - Piggy",
+  "push_promo_week_1_child": "Money can't buy you happiness 😇",
+  "push_promo_week_2_child": "You're amazing 🌼 - Piggy",
+  "push_promo_week_3_child": "Enjoy your day 🥰 - Piggy",
+  "push_promo_week_4_child": "What are you up to today? - Piggy",
+  "push_promo_week_5_child": "Hi, what's up? - Piggy",
+  "push_promo_week_6_child": "Do some chores today! - Piggy",
+  "push_promo_week_7_child": "Give some love today 🌼 - Piggy",
+  "push_promo_week_8_child": "Check out your savings? - Piggy",
+  "push_promo_week_9_child": "You rock! 😜 - Piggy",
+  "push_promo_week_10_child": "Wanna chat? - Piggy",
+  "push_promo_week_11_child": "Happy Saturday! 🥳 - Piggy",
+  "push_promo_week_12_child": "Do you need it, or just want it? ",
+  "push_promo_week_13_child": "Take good care of your savings! - Piggy",
+  "push_promo_week_51_parent": "Have a great day! 🌈",
+  "push_promo_week_52_parent": "Time to check next week's chores?",
+  "push_promo_week_1_parent": "Your children are learning about money!"
+  "push_promo_week_3_parent": "Bought anything for your kids lately? ✨",
+  "push_promo_week_4_parent": "Saturdays are the best days ☀️",
+  "push_promo_week_5_parent": "Today is going to be a great day 💕" 
+  "push_promo_week_6_parent": "How much are your kids saving?"
+  "push_promo_week_7_parent": "Happy Saturday! 🥳"
+  "push_promo_week_8_parent": "Are your kids spending too much?"
+  "push_promo_week_9_parent": "How are your children's money skills?"
+  "push_promo_week_10_parent": "Remember to deduct money for sweets!"
+  "push_promo_week_11_parent": "Let's talk about money today!"
+  "push_promo_week_12_parent": "Any more expenses from your kids recently?"
+  "push_promo_week_13_parent": "What's your best saving trick?"
+  "push_promo_week_14_parent": "Let the kids do some chores today!"
+  "push_promo_week_15_parent": "Enjoy your day 🥰"
+  "push_promo_week_16_parent": "Give your family some love today"
+  
+  
 }
