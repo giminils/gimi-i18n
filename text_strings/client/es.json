@@ -2045,5 +2045,6 @@
   "deposit_to_cloud_button_for_parent": "PLZ_TRANSLATE Add",
   "premium_intro_savings_title_for_kid": "PLZ_TRANSLATE Savings just got an upgrade",
   "premium_intro_card_title_for_kid": "PLZ_TRANSLATE The card is for spending",
-  "pay_online_turned_off_warning": "PLZ_TRANSLATE You will not be able to pay online because your card is blocked"
+  "pay_online_turned_off_warning": "PLZ_TRANSLATE You will not be able to pay online because your card is blocked",
+  "slow_code_message": "PLZ_TRANSLATE Wait for it... the delay can be up to 5 minutes!"
 }

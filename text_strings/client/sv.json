@@ -2045,5 +2045,6 @@
   "deposit_to_cloud_button_for_parent": "Fyll på",
   "premium_intro_savings_title_for_kid": "Sparkontot har uppgraderats!",
   "premium_intro_card_title_for_kid": "Kortet betalar du med",
-  "pay_online_turned_off_warning": "Du kommer inte kunna betala online för ditt kort är avstängt."
+  "pay_online_turned_off_warning": "Du kommer inte kunna betala online för ditt kort är avstängt.",
+  "slow_code_message": "PLZ_CHECK Wait for it... the delay can be up to 5 minutes!"
 }
