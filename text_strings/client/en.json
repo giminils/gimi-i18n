@@ -2049,5 +2049,5 @@
   "slow_code_message": "Wait for it... the delay can be up to 5 minutes!",
   "add_to_kid_allowance_monthly": "%1$d har redan en månadspeng, vill du öka på den?",
   "add_to_kid_allowance_weekly": "%1$d har redan en veckopeng, vill du öka på den?",
-  "name_has_existing_connection_popover_title": "%1$d already connected to this user"
+  "name_has_existing_connection_popover_title": "%1$d is already connected to this user"
 }
