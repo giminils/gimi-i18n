@@ -2046,5 +2046,7 @@
   "premium_intro_savings_title_for_kid": "Savings just got an upgrade",
   "premium_intro_card_title_for_kid": "The card is for spending",
   "pay_online_turned_off_warning": "You will not be able to pay online because your card is blocked",
-  "slow_code_message": "Wait for it... the delay can be up to 5 minutes!"
+  "slow_code_message": "Wait for it... the delay can be up to 5 minutes!",
+  "add_to_kid_allowance_monthly": "%1$d har redan en månadspeng, vill du öka på den?",
+  "add_to_kid_allowance_weekly": "%1$d har redan en veckopeng, vill du öka på den?"
 }
