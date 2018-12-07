@@ -2048,5 +2048,6 @@
   "pay_online_turned_off_warning": "Du vil ikke være i stand til at betale online, fordi dit kort er blokeret",
   "slow_code_message": "Vent... forsinkelsen kan være op til 5 minutter!",
   "add_to_kid_allowance_monthly": "PLZ_TRANSLATE %1$d har redan en månadspeng, vill du öka på den?",
-  "add_to_kid_allowance_weekly": "PLZ_TRANSLATE %1$d har redan en veckopeng, vill du öka på den?"
+  "add_to_kid_allowance_weekly": "PLZ_TRANSLATE %1$d har redan en veckopeng, vill du öka på den?",
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE %1$d already connected to this user"
 }
