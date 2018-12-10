@@ -459,5 +459,6 @@
   "push_promo_week_16_parent": "Give your family some love today",
   "connect_sms_template_parent": "Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start manage money together! {connection_token.accept_url}",
   "connect_sms_template_child": "Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start manage money together! {connection_token.accept_url}",
-  "ADGEON019_notification_title": "You're on the Gimi Card wait list!"
+  "ADGEON019_notification_title": "You're on the Gimi Card wait list!",
+  "manual_notification": "Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!"
 }
