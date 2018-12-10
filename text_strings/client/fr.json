@@ -2049,5 +2049,7 @@
   "slow_code_message": "PLZ_TRANSLATE Wait for it... the delay can be up to 5 minutes!",
   "add_to_kid_allowance_monthly": "PLZ_TRANSLATE %1$d har redan en månadspeng, vill du öka på den?",
   "add_to_kid_allowance_weekly": "PLZ_TRANSLATE %1$d har redan en veckopeng, vill du öka på den?",
-  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE %1$d is already connected to this user"
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE %1$d is already connected to this user",
+  "no_convert_currency_popover_main": "PLZ_TRANSLATE We don't convert currencies",
+  "no_convert_currency_popover_note": "PLZ_TRANSLATE We will just change the currency, but the amounts will stay the same."
 }
