@@ -46,7 +46,7 @@ textStringsTypes.forEach(textStringsType => {
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(checkStringEmptySpace(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
-    if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux')
+    if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux' && textStringsType !== 'server')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
