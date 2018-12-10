@@ -2050,8 +2050,8 @@
   "add_to_kid_allowance_monthly": "PLZ_CHECK %1$d har redan en månadspeng, vill du öka på den?",
   "add_to_kid_allowance_weekly": "PLZ_CHECK %1$d har redan en veckopeng, vill du öka på den?",
   "name_has_existing_connection_popover_title": "%1$d är redan ihopkopplad med den här användaren",
-  "no_convert_currency_popover_main": "Vi omvandlar inte valutor",
-  "no_convert_currency_popover_note": "Vi kommer bara att ändra valutan och behålla summorna som desamma.",
+  "no_convert_currency_popover_title": "Vi omvandlar inte valutor",
+  "no_convert_currency_popover_desc": "Vi kommer bara att ändra valutan och behålla summorna som desamma.",
   "weekly_payout_week_x": "Payday vecka %1$d",
   "monthly_payout_month_x": "Payday %1$d"
 }
