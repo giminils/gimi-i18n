@@ -457,7 +457,7 @@
   "push_promo_week_14_parent": "Låt barnen hjälpa till med något hemma!",
   "push_promo_week_15_parent": "Njut av dagen 🥰",
   "push_promo_week_16_parent": "Ge din familj lite kärlek idag",
-  "connect_sms_template_parent": "PLZ_CHECK Hi! {{ connection_token.created_by.nickname }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url() }}",
-  "connect_sms_template_child": "PLZ_CHECK Hi! {{ connection_token.created_by.nickname }} is waiting for you in the Gimi app. Click here to start manage money together! {{ connection_token.accept_url() }}",
+  "connect_sms_template_parent": "PLZ_CHECK Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start managing money together! {connection_token.accept_url}",
+  "connect_sms_template_child": "PLZ_CHECK Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start managing money together! {connection_token.accept_url}",
   "ADGEON019_notification_title": "You're on the Gimi Card wait list!"
 }
