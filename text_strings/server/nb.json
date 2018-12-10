@@ -369,7 +369,6 @@
   "event_pfs_payday": "Det er utbetalingsdag for {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "Gimi-kortet er blokkert. Betal abonnementsavgiften for {child.nickname} for å fjerne blokkeringen.",
   "verify_email_subject": "Bekreft e-postadressen din",
-  "event_short_tutorial": "Det er utbetalingsdag for {child.nickname}",
   "push_add_profile_pic": "-",
   "event_you_are_connected": "Du er nå koblet opp mot {child.nickname}!",
   "push_card_purchase_decline": "Et kortkjøp ble avslått på grunne av lav saldo!",
@@ -460,5 +459,6 @@
   "connect_sms_template_parent": "Hei! {connection_token.created_by.nickname} venter på deg i Gimi-appen. Klikk her for å håndtere penger sammen! {connection_token.accept_url}",
   "connect_sms_template_child": "Hei! {connection_token.created_by.nickname} venter på deg i Gimi-appen. Klikk her for å håndtere penger sammen! {connection_token.accept_url}",
   "ADGEON019_notification_title": "PLZ_TRANSLATE You're on the Gimi Card wait list!",
-  "manual_notification": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!"
+  "manual_notification": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
+  "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi in 20 seconds"
 }
