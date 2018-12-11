@@ -460,5 +460,6 @@
   "ADGEON019_notification_title": "You're on the Gimi Card wait list!",
   "event_short_tutorial": "PLZ_CHECK How to use Gimi in 20 seconds",
   "ADGEPU006_notification_title": "PLZ_CHECK Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
-  "push_add_chores": "PLZ_CHECK {children.nickname} has no chores yet. We have some chore suggestions!"
+  "push_add_chores": "PLZ_CHECK {children.nickname} has no chores yet. We have some chore suggestions!",
+  "CHGERE030_notification_title": "PLZ_CHECK A chore is due today, 10.00 am"
 }
