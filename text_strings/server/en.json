@@ -344,7 +344,6 @@
   "push_name_blocked_your_card": "Your card has been blocked by {parent.nickname}",
   "event_name_unblocked_your_card": "{parent.nickname} blocked your card",
   "push_name_unblocked_your_card": "Your card was unblocked by {parent.nickname}",
-  "push_add_chores": "{name} has no chores yet. We have some chore suggestions!",
   "push_today_pay_day": "Today is payday! 🎉",
   "event_today_pay_day": "Today is payday!",
   "push_name_deposit_to_account": "You have received a deposit from {parent.nickname}",
@@ -460,5 +459,6 @@
   "connect_sms_template_child": "Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start manage money together! {connection_token.accept_url}",
   "ADGEON019_notification_title": "You're on the Gimi Card wait list!",
   "event_short_tutorial": "How to use Gimi in 20 seconds",
-  "ADGEPU006_notification_title": "Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!"
+  "ADGEPU006_notification_title": "Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
+  "push_add_chores": "{children.nickname} has no chores yet. We have some chore suggestions!"
 }

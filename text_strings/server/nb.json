@@ -344,7 +344,6 @@
   "push_name_blocked_your_card": "Kortet ditt har blitt blokkert av {parent.nickname}",
   "event_name_unblocked_your_card": "{parent.nickname} har blokkert kortet ditt",
   "push_name_unblocked_your_card": "Kortet ditt har blitt låst opp av {parent.nickname}",
-  "push_add_chores": "{name} har ingen oppgaver ennå. Vi har noen forslag til oppgaver!",
   "push_today_pay_day": "I dag er det payday! 🎉",
   "event_today_pay_day": "I dag er det payday!",
   "push_name_deposit_to_account": "Du har mottatt et innskudd av {parent.nickname}",
@@ -460,5 +459,6 @@
   "connect_sms_template_child": "Hei! {connection_token.created_by.nickname} venter på deg i Gimi-appen. Klikk her for å håndtere penger sammen! {connection_token.accept_url}",
   "ADGEON019_notification_title": "PLZ_TRANSLATE You're on the Gimi Card wait list!",
   "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi in 20 seconds",
-  "ADGEPU006_notification_title": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!"
+  "ADGEPU006_notification_title": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
+  "push_add_chores": "PLZ_TRANSLATE {children.nickname} has no chores yet. We have some chore suggestions!"
 }
