@@ -1228,7 +1228,7 @@
   "chore_transaction_help_header_parent": "Klusjes, wat is het?",
   "chore_transaction_help_desc_parent": "Het getal dat je hier ziet toont hoeveel een kind verdiend heeft met klusjes gedurende de week of maand.",
   "future_interest_help_header_parent": "Spaargeld bonus, wat is het?",
-  "future_interest_help_desc_parent": "Het getal dat je hier ziet is de schatting van de volgende Spaargeld bonus die betaald wordt op Payday, gebaseerd op het Spaargeld.",
+  "future_interest_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows an estimate of the savings bonus added to Savings on Payday, which is calculated on the interest and the amount in Savings.",
   "chore_reward": "Beloning",
   "email_invite_description": "we sturen je een email",
   "monthly_allowance_amount_explainer": "Zakgeld wordt altijd uitbetaald. We bevelen een bedrag aan dat het gemiddelde is van wat kinderen van dezelfde leeftijd krijgen.",

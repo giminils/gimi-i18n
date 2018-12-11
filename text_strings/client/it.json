@@ -1228,7 +1228,7 @@
   "chore_transaction_help_header_parent": "Faccende, cosa sono?",
   "chore_transaction_help_desc_parent": " La cifra che vedi qui mostra quanto un bambino ha guadagnato dalle faccende durante la settimana o il mese.",
   "future_interest_help_header_parent": "Interessi, coasa sono?",
-  "future_interest_help_desc_parent": "La cifra che vedi qui mostra una stima del prossimo pagamento degli interessi, che si basa sull'importo del risparmio nel Cloud.",
+  "future_interest_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows an estimate of the savings bonus added to Savings on Payday, which is calculated on the interest and the amount in Savings.",
   "chore_reward": "Ricompensa",
   "email_invite_description": "Ti abbiamo mandato un'e-mail",
   "monthly_allowance_amount_explainer": "la paghetta viene pagata incondizionatamente. Raccomandiamo un importo che è la media di ciò che ottengono altri bambini della stessa età.",

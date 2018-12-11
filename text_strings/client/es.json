@@ -1228,7 +1228,7 @@
   "chore_transaction_help_header_parent": "Tareas, ¿qué es eso?",
   "chore_transaction_help_desc_parent": "La cifra que ves aquí muestra cuánto ha ganado un niño por las tareas durante la semana o el mes.",
   "future_interest_help_header_parent": "Interés, ¿qué es eso?",
-  "future_interest_help_desc_parent": "La cifra que ves aquí muestra un estimado del próximo Payday de intereses, que se basa en el monto de los ahorros en la Nube.",
+  "future_interest_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows an estimate of the savings bonus added to Savings on Payday, which is calculated on the interest and the amount in Savings.",
   "chore_reward": "Recompensa",
   "email_invite_description": "te enviamos un correo electrónico",
   "monthly_allowance_amount_explainer": "El dinero de bolsillo es pagado incondicionalmente. Recomendamos una cantidad que sea el promedio de lo que reciben otros niños de la misma edad.",

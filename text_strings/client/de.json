@@ -1228,7 +1228,7 @@
   "chore_transaction_help_header_parent": "Aufgaben, was ist das?",
   "chore_transaction_help_desc_parent": "Die Zahl, die Du hier siehst, zeigt, wie viel ein Kind während der Woche oder des Monats mit Arbeiten verdient hat.",
   "future_interest_help_header_parent": "Zinsen, was ist das?",
-  "future_interest_help_desc_parent": "Die Zahl, die Du hier siehst, zeigt eine Schätzung der nächsten Zinszahlung, die auf dem Einsparungsbetrag in der Cloud basiert.",
+  "future_interest_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows an estimate of the savings bonus added to Savings on Payday, which is calculated on the interest and the amount in Savings.",
   "chore_reward": "Belohnung",
   "email_invite_description": "Wir senden Dir eine Email",
   "monthly_allowance_amount_explainer": "Taschengeld wird bedingungslos ausgezahlt. Wir empfehlen einen Betrag, der dem Durchschnittswert anderer gleichaltriger Kinder entspricht.",
