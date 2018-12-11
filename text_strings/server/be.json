@@ -459,6 +459,6 @@
   "connect_sms_template_parent": "PLZ_TRANSLATE Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start manage money together! {connection_token.accept_url}",
   "connect_sms_template_child": "PLZ_TRANSLATE Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app. Click here to start manage money together! {connection_token.accept_url}",
   "ADGEON019_notification_title": "PLZ_TRANSLATE You're on the Gimi Card wait list!",
-  "manual_notification": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
-  "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi in 20 seconds"
+  "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi in 20 seconds",
+  "ADGEPU006_notification_title": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!"
 }
