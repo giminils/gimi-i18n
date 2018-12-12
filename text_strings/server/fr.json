@@ -456,10 +456,11 @@
   "ADGEON019_notification_title": "PLZ_TRANSLATE You're on the Gimi Card wait list!",
   "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi in 20 seconds",
   "ADGEPU006_notification_title": "PLZ_TRANSLATE Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
-  "push_add_chores": "PLZ_TRANSLATE {children.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE030_notification_title": "PLZ_TRANSLATE A chore is due today, 10.00 am",
   "push_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {child.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "push_purchases_with_card": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
+  "CHGERE030_push_title": "PLZ_TRANSLATE You have a new chore waiting to be done!",
+  "CHGERE030_notification_title": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!",
+  "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!"
 }

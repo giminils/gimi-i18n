@@ -456,10 +456,11 @@
   "ADGEON019_notification_title": "You're on the Gimi Card wait list!",
   "event_short_tutorial": "How to use Gimi in 20 seconds",
   "ADGEPU006_notification_title": "Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
-  "push_add_chores": "{children.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE030_notification_title": "A chore is due today, 10.00 am",
   "push_child_spend": "💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "push_child_spend_to_parent": "💳 {child.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "push_purchases_with_card": "💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
+  "CHGERE030_push_title": "You have a new chore waiting to be done!",
+  "CHGERE030_notification_title": "{parent.nickname} has accepted your chore suggestion!",
+  "push_add_chores": "{child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "You have a chore to do today!"
 }
