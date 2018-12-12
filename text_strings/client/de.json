@@ -665,7 +665,6 @@
   "question_amount_to_transfer": "PLZ_TRANSLATE How much do you want to transfer?",
   "convert_cloud_to_real_money_description": "PLZ_TRANSLATE We will deduct the amount from what you owe your child.",
   "general_transfer_money": "überweise Geld",
-  "transfer_now": "PLZ_TRANSLATE Top up the card",
   "full_amount_in_cloud": "das Gesamtsaldo der Cloud",
   "my_debt_in_cloud": "meine Schulden an die Cloud",
   "least_possible_amount": "kleinstmöglicher Betrag",
@@ -2053,5 +2052,6 @@
   "no_convert_currency_popover_title": "PLZ_TRANSLATE We don't convert currencies",
   "no_convert_currency_popover_desc": "PLZ_TRANSLATE We will just change the currency, but the amounts will stay the same.",
   "weekly_payout_week_x": "PLZ_TRANSLATE Payday week %1$d",
-  "monthly_payout_month_x": "PLZ_TRANSLATE Payday %1$d"
+  "monthly_payout_month_x": "PLZ_TRANSLATE Payday %1$d",
+  "transfer_now": "PLZ_TRANSLATE Deposit now"
 }

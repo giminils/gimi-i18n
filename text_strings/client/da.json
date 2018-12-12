@@ -665,7 +665,6 @@
   "question_amount_to_transfer": "Hvor meget vil du overføre?",
   "convert_cloud_to_real_money_description": "Vi vil trække det beløb fra som du skylder dit barn.",
   "general_transfer_money": "Overfør penge",
-  "transfer_now": "Tank kortet op",
   "full_amount_in_cloud": "Hele skysaldoen",
   "my_debt_in_cloud": "Min gæld til skyen",
   "least_possible_amount": "Mindste mulige beløb",
@@ -2053,5 +2052,6 @@
   "no_convert_currency_popover_title": "PLZ_TRANSLATE We don't convert currencies",
   "no_convert_currency_popover_desc": "PLZ_TRANSLATE We will just change the currency, but the amounts will stay the same.",
   "weekly_payout_week_x": "PLZ_TRANSLATE Payday week %1$d",
-  "monthly_payout_month_x": "PLZ_TRANSLATE Payday %1$d"
+  "monthly_payout_month_x": "PLZ_TRANSLATE Payday %1$d",
+  "transfer_now": "PLZ_TRANSLATE Deposit now"
 }

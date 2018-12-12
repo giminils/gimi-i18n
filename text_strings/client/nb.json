@@ -665,7 +665,6 @@
   "question_amount_to_transfer": "Hvor mye vil du overføre?",
   "convert_cloud_to_real_money_description": "Vi vil trekke beløpet som du skylder barnet ditt.",
   "general_transfer_money": "Overfør penger",
-  "transfer_now": "Fyll på kortet",
   "full_amount_in_cloud": "Hele beløpet i skyen",
   "my_debt_in_cloud": "Min gjeld i skyen",
   "least_possible_amount": "Minste mulige beløp",
@@ -2053,5 +2052,6 @@
   "no_convert_currency_popover_title": "Vi konverterer ikke valutaer",
   "no_convert_currency_popover_desc": "Vi endrer bare valutaen, men beløpet vil fortsatt være det samme.",
   "weekly_payout_week_x": "Payday uke %1$d",
-  "monthly_payout_month_x": "Payday %1$d"
+  "monthly_payout_month_x": "Payday %1$d",
+  "transfer_now": "PLZ_TRANSLATE Deposit now"
 }
