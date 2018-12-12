@@ -2053,5 +2053,6 @@
   "no_convert_currency_popover_desc": "Vi endrer bare valutaen, men beløpet vil fortsatt være det samme.",
   "weekly_payout_week_x": "Payday uke %1$d",
   "monthly_payout_month_x": "Payday %1$d",
-  "transfer_now": "PLZ_TRANSLATE Deposit now"
+  "transfer_now": "PLZ_TRANSLATE Deposit now",
+  "custom_notif_invite_to_kids": "PLZ_TRANSLATE Invite more supporters to your children!"
 }
