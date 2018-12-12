@@ -261,7 +261,6 @@
   "push_payday_parent": "Utbetalingsdag for {child.nickname}. Sjekk hvor mye penger som ble lagt på sparegrisen!",
   "push_child_has_reached_a_dream": "{child.nickname} har oppfylt en drøm",
   "event_add_email": "Legg til din e-post",
-  "push_short_tutorial": "Slik fungerer appen",
   "event_chore_title_or_amount_changed": "{parent.nickname} oppdaterte {chore.title}",
   "event_welcome_back": "Velkommen tilbake! Vil du begynne på nytt?",
   "event_tell_that_your_back": "La familien din få vite at du er tilbake!",

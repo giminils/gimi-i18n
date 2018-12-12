@@ -261,7 +261,6 @@
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",
   "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "Füge Email-Adresse für Status und Sicherheit hinzu",
-  "push_short_tutorial": "So funktioniert Gimi in 20 Sekunden",
   "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "Willkommen zurück! Möchtest Du von vorne anfangen?",
   "event_tell_that_your_back": "Lass Deine Familie wissen, dass Du zurück bist!",

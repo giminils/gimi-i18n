@@ -261,7 +261,6 @@
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",
   "push_child_has_reached_a_dream": "{child.nickname} har nået en drøm",
   "event_add_email": "Tilføj e-mail for status og sikkerhed",
-  "push_short_tutorial": "Sådan virker appen",
   "event_chore_title_or_amount_changed": "{parent.nickname} har opdateret {chore.title}",
   "event_welcome_back": "Velkommen tilbage! Vil du starte forfra?",
   "event_tell_that_your_back": "Lad din familie vide, at du er tilbage!",

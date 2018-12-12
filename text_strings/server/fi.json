@@ -261,7 +261,6 @@
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",
   "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
   "event_add_email": "Lisää sähköpostiosoite ilmoituksia ja suojausta varten",
-  "push_short_tutorial": "Näin Gimi toimii, 20 sekunnissa",
   "event_chore_title_or_amount_changed": "{parent.nickname} päivitti askareen {chore.title}",
   "event_welcome_back": "Tervetuloa takaisin! Haluatko aloittaa alusta?",
   "event_tell_that_your_back": "Kerro perheellesi, että tulit takaisin!",
