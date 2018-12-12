@@ -324,7 +324,6 @@
   "push_connect_with_child": "PLZ_CHECK Connect to a child! Gimi is more fun with your children!",
   "push_child_card_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
   "event_card_has_been_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
-  "push_purchases_with_card": "💳 Du spenderade precis €10 hos {statement.merchant_name}",
   "push_declined_purchases_with_insufficient_funds": "PLZ_CHECK 🚫 Not enough money on the Gimi Card! That's why your purchase at {pfstransactionstatement.merchant_name} was declined. Want to transfer money to the card?",
   "push_declined_purchases_with_blocked_card": "PLZ_CHECK 🚫 Your Gimi card is blocked, that's why it was declined at {pfstransactionstatement.merchant_name}.",
   "event_card_sign_up": "Fortsätt med din beställning av Gimi-kortet",
@@ -417,10 +416,8 @@
   "event_spend_more_money_than_have": "Du har spenderat mer pengar än du hade på kortet, så du behöver ladda kortet nu.",
   "push_spend_more_money_than_have": "Oj då... du spenderade lite för mycket ☹️",
   "event_child_spend_more_money": "{child.nickname} spenderade mer pengar än vad som fanns på kortet. Kontakta oss om du behöver hjälp!",
-  "push_child_spend": " 💳 Du spendare precis €10 på {pfstransactionstatement.merchant_name}",
   "event_payday_transfer_money": "Det är Payday för {child.nickname}! ",
   "push_payday_transfer_money": "Det är Payday för {child.nickname}! 💫 Gör en insättning nu!",
-  "push_child_spend_to_parent": " 💳 {child.nickname} spenderade precis €10 på {pfstransactionstatement.merchant_name}",
   "event_premium_payday_parent": "Det är Payday! 💫 Gör en insättning till dina barn",
   "push_promo_week_51_child": "Det kostar ingenting att försöka 💡",
   "push_promo_week_52_child": "Behöver du verkligen lördagsgodis? ",
@@ -460,5 +457,8 @@
   "event_short_tutorial": "PLZ_CHECK How to use Gimi in 20 seconds",
   "ADGEPU006_notification_title": "PLZ_CHECK Problem logging in your child? You can now add a phone number in your child’s settings, so they can log in again!",
   "push_add_chores": "PLZ_CHECK {children.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE030_notification_title": "PLZ_CHECK A chore is due today, 10.00 am"
+  "CHGERE030_notification_title": "PLZ_CHECK A chore is due today, 10.00 am",
+  "push_child_spend": "PLZ_CHECK 💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
+  "push_child_spend_to_parent": "PLZ_CHECK 💳 {child.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
+  "push_purchases_with_card": "PLZ_CHECK 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}"
 }
