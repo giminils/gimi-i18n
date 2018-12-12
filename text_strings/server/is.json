@@ -460,5 +460,6 @@
   "CHGERE030_notification_title": "PLZ_TRANSLATE A chore is due today, 10.00 am",
   "push_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {child.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
-  "push_purchases_with_card": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}"
+  "push_purchases_with_card": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
+  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!"
 }
