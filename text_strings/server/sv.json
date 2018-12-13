@@ -196,7 +196,6 @@
   "event_how_upcoming_payment": "Så fungerar kommande utbetalningar",
   "event_set_allowance": "Sätt vecko- eller månadspeng",
   "event_add_chores": "Lägg till uppgifter",
-  "event_add_deposit_to_savings": "Gör en insättning till Sparkontot?",
   "event_help_connect": "Behöver du hjälp att bjuda in?",
   "event_connect_get_going": "Bjud in för att komma igång",
   "connect_get_going": "Bjud in för att komma igång",
@@ -462,5 +461,6 @@
   "CHGERE030_push_title": "PLZ_CHECK You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "PLZ_CHECK {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_CHECK {child.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE031_notification_title": "PLZ_CHECK You have a chore to do today!"
+  "CHGERE031_notification_title": "PLZ_CHECK You have a chore to do today!",
+  "event_add_deposit_to_savings": "PLZ_CHECK Time to boost savings for {child.nickname}? Click here to add an amount!"
 }

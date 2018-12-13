@@ -196,7 +196,6 @@
   "event_how_upcoming_payment": "Hoe toekomstige betalingen werken",
   "event_set_allowance": "Stel zakgeld in",
   "event_add_chores": "Voeg klusjes toe",
-  "event_add_deposit_to_savings": "Voeg een storting aan Spaargeld toe?",
   "event_help_connect": "Klik hier voor hulp om te verbinden",
   "event_connect_get_going": "Verbind om te beginnen",
   "connect_get_going": "Verbind om te beginnen",
@@ -462,5 +461,6 @@
   "CHGERE030_push_title": "PLZ_TRANSLATE You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!"
+  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
+  "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!"
 }

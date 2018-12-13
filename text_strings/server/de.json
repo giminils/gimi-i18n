@@ -196,7 +196,6 @@
   "event_how_upcoming_payment": "So funktionieren künftige Zahlungen",
   "event_set_allowance": "Taschengeld erstellen",
   "event_add_chores": "Aufgaben hinzufügen",
-  "event_add_deposit_to_savings": "Geld zu Ersparnissen einzahlen?",
   "event_help_connect": "Klicke hier für Hilfe beim Verbinden",
   "event_connect_get_going": "Verbinden um loszulegen",
   "connect_get_going": "Verbinden um loszulegen",
@@ -462,5 +461,6 @@
   "CHGERE030_push_title": "PLZ_TRANSLATE You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!"
+  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
+  "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!"
 }
