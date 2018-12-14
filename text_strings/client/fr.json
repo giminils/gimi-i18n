@@ -2054,5 +2054,7 @@
   "weekly_payout_week_x": "PLZ_TRANSLATE Payday week %1$d",
   "monthly_payout_month_x": "PLZ_TRANSLATE Payday %1$d",
   "transfer_now": "PLZ_TRANSLATE Deposit now",
-  "custom_notif_invite_to_kids": "PLZ_TRANSLATE Invite more supporters to your children!"
+  "custom_notif_invite_to_kids": "PLZ_TRANSLATE Invite more supporters to your children!",
+  "buy_premium_education_title": "PLZ_TRANSLATE You need Gimi Premium to access this!",
+  "buy_premium_education_subtitle": "PLZ_TRANSLATE When your child is ready to manage real money, you can upgrade to Premium."
 }
