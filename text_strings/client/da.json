@@ -1670,7 +1670,7 @@
   "general_apology": "Undskyldning",
   "added_dream_without_parent_takeover_title": "Din drøm er tilføjet!",
   "added_dream_without_parent_takeover_text": "Men du skal bruge en forælder for at få penge til din drøm!",
-  "parent_no_kids_header": "PLZ_TRANSLATE Hi I'm Piggy!",
+  "parent_no_kids_header": "PLZ_TRANSLATE Hi, I'm Piggy!",
   "parent_no_kids_desc": "PLZ_TRANSLATE I'll be here until you've connected with your own children.",
   "cant_delete_premium_kid_popover_title": "Du kan ikke slette %1$d",
   "cant_delete_premium_kid_popover_text": "Du har et aktivt Premium-abonnement, så du kan ikke slette denne forbindelse.",
