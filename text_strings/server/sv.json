@@ -319,7 +319,6 @@
   "push_connect_more_children": "{child.nickname} har bjudit in dig. Vill du koppla ihop?",
   "one_off_push_parent": "Happy weekend! Du är en superförälder ✨",
   "one_off_push_child": "Happy weekend! Piggy gillar dig 💖",
-  "push_pfs_payday": "Det är payday för {child.nickname}",
   "push_connect_with_child": "PLZ_CHECK Connect to a child! Gimi is more fun with your children!",
   "push_child_card_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
   "event_card_has_been_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
@@ -462,5 +461,6 @@
   "CHGERE030_notification_title": "PLZ_CHECK {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_CHECK {child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "PLZ_CHECK You have a chore to do today!",
-  "event_add_deposit_to_savings": "PLZ_CHECK Time to boost savings for {child.nickname}? Click here to add an amount!"
+  "event_add_deposit_to_savings": "PLZ_CHECK Time to boost savings for {child.nickname}? Click here to add an amount!",
+  "push_pfs_payday": "PLZ_CHECK It's payday for your children"
 }
