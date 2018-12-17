@@ -2052,5 +2052,7 @@
   "buy_premium_education_subtitle": "PLZ_CHECK When your child is ready to manage real money, you can upgrade to Premium.",
   "order_gimi_card_now": "PLZ_CHECK Order the Gimi Card now!",
   "sign_up_on_card_waitlist": "PLZ_CHECK Sign up on card waitlist!",
-  "get_the_gimi_card": "PLZ_CHECK Get the Gimi Card!"
+  "get_the_gimi_card": "PLZ_CHECK Get the Gimi Card!",
+  "reduce_debt_without_deposit_message": "PLZ_CHECK Just want to reduce debt without deposit?",
+  "reduce_kids_debt_wihtout_money_message": "PLZ_CHECK This will decrease yor dept to %1$d without deposit any money"
 }
