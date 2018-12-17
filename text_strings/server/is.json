@@ -407,7 +407,7 @@
   "event_allowance_settings_are_updated": "PLZ_TRANSLATE Allowance settings have been updated",
   "event_you_have_set_allowance": "PLZ_TRANSLATE You have set an allowance",
   "event_got_x_new_chores": "PLZ_TRANSLATE {parent.nickname} sent you number of tasks new chores",
-  "event_ready_for apple_pay": "PLZ_TRANSLATE Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
+  "event_ready_for_apple_pay": "PLZ_TRANSLATE Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
   "push_ready_for_apple_pay": "PLZ_TRANSLATE Your Gimi card is ready for Apple Pay! ",
   "event_wait_active_for_apple_pay": "PLZ_TRANSLATE Your Gimi card is waiting to be activated for Apple Pay!",
   "push_wait_active_for_apple_pay": "PLZ_TRANSLATE Your Gimi card is ready for Apple Pay! ",

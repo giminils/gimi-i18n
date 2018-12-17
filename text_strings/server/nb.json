@@ -407,7 +407,7 @@
   "event_allowance_settings_are_updated": "Innstillinger for lommepenger har blitt oppdatert",
   "event_you_have_set_allowance": "Du har angitt nivået for lommepenger",
   "event_got_x_new_chores": "{parent.nickname} har sendt deg nye oppgaver",
-  "event_ready_for apple_pay": "Gimi-kortet ditt er klargjort for Apple Pay! Du kan bruke det når du ser dette merket for kontaktløs betaling",
+  "event_ready_for_apple_pay": "Gimi-kortet ditt er klargjort for Apple Pay! Du kan bruke det når du ser dette merket for kontaktløs betaling",
   "push_ready_for_apple_pay": "Gimi-kortet ditt er klargjort for Apple Pay! ",
   "event_wait_active_for_apple_pay": "Gimi-kortet ditt venter på å bli aktivert for Apple Pay!",
   "push_wait_active_for_apple_pay": "Gimi-kortet ditt er klargjort for Apple Pay! ",

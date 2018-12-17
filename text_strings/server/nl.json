@@ -407,7 +407,7 @@
   "event_allowance_settings_are_updated": "Zakgeld instellingen zijn aangepast",
   "event_you_have_set_allowance": "Je hebt zakgeld ingesteld",
   "event_got_x_new_chores": "{parent.nickname} heeft je nieuwe klusjes gestuurd",
-  "event_ready_for apple_pay": "Je Gimi kaart is nu klaar voor Apple Pay! Je kunt het gebruiken als je dit contactloos icoon ziet",
+  "event_ready_for_apple_pay": "Je Gimi kaart is nu klaar voor Apple Pay! Je kunt het gebruiken als je dit contactloos icoon ziet",
   "push_ready_for_apple_pay": "Je Gimi kaart is klaar voor Apple Pay! ",
   "event_wait_active_for_apple_pay": "Je Gimi kaart wacht op activering voor Apple Pay!",
   "push_wait_active_for_apple_pay": "Je Gimi kaart is klaar voor Apple Pay! ",

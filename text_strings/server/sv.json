@@ -407,7 +407,7 @@
   "event_allowance_settings_are_updated": "Inställningar för månadspeng har uppdaterats",
   "event_you_have_set_allowance": "Du har satt en veckopeng",
   "event_got_x_new_chores": "{parent.nickname} har gett dig nya uppgifter!",
-  "event_ready_for apple_pay": "Gimi-kortet är redo för Apple Pay! Använd det när du ser ikonen för kontaktlösa betalningar.",
+  "event_ready_for_apple_pay": "Gimi-kortet är redo för Apple Pay! Använd det när du ser ikonen för kontaktlösa betalningar.",
   "push_ready_for_apple_pay": "Gimi-kortet är redo för Apple Pay! ",
   "event_wait_active_for_apple_pay": "Gimi-kortet väntar på att aktiveras i Apple Pay!",
   "push_wait_active_for_apple_pay": "Gimi-kortet är redo för Apple Pay! ",

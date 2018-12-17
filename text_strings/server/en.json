@@ -407,7 +407,7 @@
   "event_allowance_settings_are_updated": "Allowance settings have been updated",
   "event_you_have_set_allowance": "You have set an allowance",
   "event_got_x_new_chores": "{parent.nickname} sent you new chores",
-  "event_ready_for apple_pay": "Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
+  "event_ready_for_apple_pay": "Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
   "push_ready_for_apple_pay": "Your Gimi card is ready for Apple Pay! ",
   "event_wait_active_for_apple_pay": "Your Gimi card is waiting to be activated for Apple Pay!",
   "push_wait_active_for_apple_pay": "Your Gimi card is ready for Apple Pay! ",
