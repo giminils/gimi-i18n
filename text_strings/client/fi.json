@@ -2057,5 +2057,7 @@
   "reduce_kids_debt_wihtout_money_message": "PLZ_TRANSLATE This will decrease yor dept to %1$d without deposit any money",
   "education_how_to_pay_with_a_card": "PLZ_TRANSLATE How to pay with a card",
   "kid_savings_deposit_transaction_by": "PLZ_TRANSLATE Deposit by %1$d",
-  "want_to_transfer_money_now": "PLZ_TRANSLATE Want to transfer money to %1$d now?"
+  "want_to_transfer_money_now": "PLZ_TRANSLATE Want to transfer the money now?",
+  "want_to_transfer_money_to_kid_now": "Want to transfer money to %1$d now?",
+  "payday_for_children": "Payday for your children!"
 }
