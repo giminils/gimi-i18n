@@ -2055,5 +2055,6 @@
   "get_the_gimi_card": "PLZ_TRANSLATE Get the Gimi Card!",
   "reduce_debt_without_deposit_message": "PLZ_TRANSLATE Just want to reduce debt without deposit?",
   "reduce_kids_debt_wihtout_money_message": "PLZ_TRANSLATE This will decrease yor dept to %1$d without deposit any money",
-  "education_how_to_pay_with_a_card": "PLZ_TRANSLATE How to pay with a card"
+  "education_how_to_pay_with_a_card": "PLZ_TRANSLATE How to pay with a card",
+  "kid_savings_deposit_transaction_by": "PLZ_TRANSLATE Deposit by %1$d"
 }

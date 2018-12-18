@@ -2055,5 +2055,6 @@
   "get_the_gimi_card": "Skaffa Gimi-kortet!",
   "reduce_debt_without_deposit_message": "Vill du bara göra avdrag utan att göra en insättning?",
   "reduce_kids_debt_wihtout_money_message": "Det här kommer att minska din skuld till %1$d utan att du behöver göra en insättning.",
-  "education_how_to_pay_with_a_card": "Att betala med ett kort"
+  "education_how_to_pay_with_a_card": "Att betala med ett kort",
+  "kid_savings_deposit_transaction_by": "PLZ_CHECK Deposit by %1$d"
 }
