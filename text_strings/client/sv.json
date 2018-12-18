@@ -1752,8 +1752,8 @@
   "kid_next_payment": "Payday",
   "kyc_method_coming_soon": "Kommer snart!",
   "kyc_method_coming_soon_description": "Just nu stödjer vi bara ID verifikation med Instantor. Vi skickar dig vidare!",
-  "updated_money_settings_for_kid_title": "Uppdaterade inställningar har gjorts av %1$d!",
-  "updated_money_settings_for_kid_subtitle": "Kolla in dem:",
+  "updated_money_settings_for_kid_title": "%1$d har uppdaterat dina inställningar!",
+  "updated_money_settings_for_kid_subtitle": "Kolla in dina nya inställningar:",
   "updated_money_settings_for_kid_allowance_title": "Vecko- eller månadspeng från %1$d",
   "updated_money_settings_for_kid_weekly_allowance_title": "Veckopeng från %1$d",
   "updated_money_settings_for_kid_monthly_allowance_title": "Månadspeng från %1$d",
@@ -2062,5 +2062,6 @@
   "payday_for_children": "Payday for your children!",
   "does_my_child_need_device": "PLZ_CHECK Does my child need a device?",
   "gimi_is_for_children_popover_title": "PLZ_CHECK Gimi is for children!",
-  "we_created_gimi_for_children_popover_text": "PLZ_CHECK We created Gimi so that children could learn about money. Without access to a device, they can’t use the app and learn. Maybe you have a tablet at home that they can use before they get their own devices?"
+  "we_created_gimi_for_children_popover_text": "PLZ_CHECK We created Gimi so that children could learn about money. Without access to a device, they can’t use the app and learn. Maybe you have a tablet at home that they can use before they get their own devices?",
+  "total_amount": "PLZ_CHECK Total: %1$d"
 }

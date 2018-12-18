@@ -2062,5 +2062,6 @@
   "payday_for_children": "Payday for your children!",
   "does_my_child_need_device": "PLZ_TRANSLATE Does my child need a device?",
   "gimi_is_for_children_popover_title": "PLZ_TRANSLATE Gimi is for children!",
-  "we_created_gimi_for_children_popover_text": "PLZ_TRANSLATE We created Gimi so that children could learn about money. Without access to a device, they can’t use the app and learn. Maybe you have a tablet at home that they can use before they get their own devices?"
+  "we_created_gimi_for_children_popover_text": "PLZ_TRANSLATE We created Gimi so that children could learn about money. Without access to a device, they can’t use the app and learn. Maybe you have a tablet at home that they can use before they get their own devices?",
+  "total_amount": "PLZ_TRANSLATE Total: %1$d"
 }

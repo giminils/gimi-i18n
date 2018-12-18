@@ -368,5 +368,17 @@
   "task_template_title_wrap_presents": "Pak geschenken in",
   "task_template_description_wrap_presents": "Help met het inpakken van geschenken voor het gezin",
   "task_template_title_hoover_carpets": "Stofzuig het tapijt",
-  "task_template_description_hoover_carpets": "Stofzuig de naalden die onder de kerstboom liggen op"
+  "task_template_description_hoover_carpets": "Stofzuig de naalden die onder de kerstboom liggen op",
+  "task_template_title_clean_hall": "PLZ_TRANSLATE Clean the hall",
+  "task_template_description_clean_hall": "PLZ_TRANSLATE Put away shoes and mop the floor",
+  "task_template_title_take_out_recycling": "PLZ_TRANSLATE Take out recycling",
+  "task_template_description_take_out_recycling": "PLZ_TRANSLATE Take newspapers, glass jars etc to the bin for collection",
+  "task_template_title_finish_book": "PLZ_TRANSLATE Finish a book",
+  "task_template_description_finish_book": "PLZ_TRANSLATE Pick a book an finish reading all of it",
+  "task_template_title_fix_bike": "PLZ_TRANSLATE Fix your bike",
+  "task_template_description_fix_bike": "PLZ_TRANSLATE Make your bike fit for fight when spring arrives",
+  "task_template_title_plant_flowers": "PLZ_TRANSLATE Plant flowers",
+  "task_template_description_plant_flowers": "PLZ_TRANSLATE Let's plant spring flowers",
+  "task_template_title_clean_windows": "PLZ_TRANSLATE Clean windows",
+  "task_template_description_clean_windows": "PLZ_TRANSLATE Help out cleaning all windows at home"
 }
