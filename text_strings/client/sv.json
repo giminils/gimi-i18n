@@ -2060,5 +2060,7 @@
   "want_to_transfer_money_now": "PLZ_CHECK Want to transfer the money now?",
   "want_to_transfer_money_to_kid_now": "Want to transfer money to %1$d now?",
   "payday_for_children": "Payday for your children!",
-  "does_my_child_need_device": "PLZ_CHECK Does my child need a device?"
+  "does_my_child_need_device": "PLZ_CHECK Does my child need a device?",
+  "gimi_is_for_children_popover_title": "PLZ_CHECK Gimi is for children!",
+  "we_created_gimi_for_children_popover_text": "PLZ_CHECK We created Gimi so that children could learn about money. Without access to a device, they can’t use the app and learn. Maybe you have a tablet at home that they can use before they get their own devices?"
 }
