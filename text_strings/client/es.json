@@ -2059,5 +2059,6 @@
   "kid_savings_deposit_transaction_by": "PLZ_TRANSLATE Deposit by %1$d",
   "want_to_transfer_money_now": "PLZ_TRANSLATE Want to transfer the money now?",
   "want_to_transfer_money_to_kid_now": "Want to transfer money to %1$d now?",
-  "payday_for_children": "Payday for your children!"
+  "payday_for_children": "Payday for your children!",
+  "does_my_child_need_device": "PLZ_TRANSLATE Does my child need a device?"
 }
