@@ -185,7 +185,7 @@
   "event_how_to_spend": "Spendera som en chef",
   "event_add_cravings": "Har du några cravings? Lägg till dom!",
   "event_suggest_chore": "föreslå en uppgift",
-  "event_send_invite_reminder": "{user.nickname} har inte accepterat på din inbjudan. Skicka en påminnelse!",
+  "event_send_invite_reminder": "{user.nickname} har inte accepterat din inbjudan. Skicka en påminnelse!",
   "event_keep_account": "Fortfarande inga pengar i appen. Bjud in förälder nu!",
   "event_will_delete_account": "Koppla ihop inom 24 timmar för att behålla kontot. Skicka inbjudan nu!",
   "event_connect_children": "Bjud in dina barn",
@@ -196,7 +196,6 @@
   "event_how_upcoming_payment": "Så fungerar kommande utbetalningar",
   "event_set_allowance": "Sätt vecko- eller månadspeng",
   "event_add_chores": "Lägg till uppgifter",
-  "event_add_deposit_to_savings": "Gör en insättning till Sparkontot?",
   "event_help_connect": "Behöver du hjälp att bjuda in?",
   "event_connect_get_going": "Bjud in för att komma igång",
   "connect_get_going": "Bjud in för att komma igång",
@@ -320,7 +319,6 @@
   "push_connect_more_children": "{child.nickname} har bjudit in dig. Vill du koppla ihop?",
   "one_off_push_parent": "Happy weekend! Du är en superförälder ✨",
   "one_off_push_child": "Happy weekend! Piggy gillar dig 💖",
-  "push_pfs_payday": "Det är payday för {child.nickname}",
   "push_connect_with_child": "PLZ_CHECK Connect to a child! Gimi is more fun with your children!",
   "push_child_card_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
   "event_card_has_been_activated": "{child.nickname} har precis aktiverat Gimi-kortet! 👏",
@@ -409,7 +407,7 @@
   "event_allowance_settings_are_updated": "Inställningar för månadspeng har uppdaterats",
   "event_you_have_set_allowance": "Du har satt en veckopeng",
   "event_got_x_new_chores": "{parent.nickname} har gett dig nya uppgifter!",
-  "event_ready_for apple_pay": "Gimi-kortet är redo för Apple Pay! Använd det när du ser ikonen för kontaktlösa betalningar.",
+  "event_ready_for_apple_pay": "Gimi-kortet är redo för Apple Pay! Använd det när du ser ikonen för kontaktlösa betalningar.",
   "push_ready_for_apple_pay": "Gimi-kortet är redo för Apple Pay! ",
   "event_wait_active_for_apple_pay": "Gimi-kortet väntar på att aktiveras i Apple Pay!",
   "push_wait_active_for_apple_pay": "Gimi-kortet är redo för Apple Pay! ",
@@ -462,5 +460,7 @@
   "CHGERE030_push_title": "PLZ_CHECK You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "PLZ_CHECK {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_CHECK {child.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE031_notification_title": "PLZ_CHECK You have a chore to do today!"
+  "CHGERE031_notification_title": "PLZ_CHECK You have a chore to do today!",
+  "event_add_deposit_to_savings": "PLZ_CHECK Time to boost savings for {child.nickname}? Click here to add an amount!",
+  "push_pfs_payday": "PLZ_CHECK It's payday for your children"
 }

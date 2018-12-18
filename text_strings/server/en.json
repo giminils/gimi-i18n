@@ -196,7 +196,6 @@
   "event_how_upcoming_payment": "How upcoming payments work",
   "event_set_allowance": "Set allowance",
   "event_add_chores": "Add chores",
-  "event_add_deposit_to_savings": "Add a deposit to Savings?",
   "event_help_connect": "Click here for help to connect",
   "event_connect_get_going": "Connect to get going",
   "connect_get_going": "Connect to get going",
@@ -320,7 +319,6 @@
   "push_connect_more_children": "Connection request from {child.nickname}",
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
   "one_off_push_child": "Happy weekend! Piggy loves you 💖",
-  "push_pfs_payday": "It's payday for {child.nickname}",
   "push_connect_with_child": "Connect to a child! Gimi is more fun with your children!",
   "push_child_card_activated": "{child.nickname} just activated the Gimi card! 👏",
   "event_card_has_been_activated": "{child.nickname} just activated the Gimi card! 👏",
@@ -409,7 +407,7 @@
   "event_allowance_settings_are_updated": "Allowance settings have been updated",
   "event_you_have_set_allowance": "You have set an allowance",
   "event_got_x_new_chores": "{parent.nickname} sent you new chores",
-  "event_ready_for apple_pay": "Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
+  "event_ready_for_apple_pay": "Your Gimi card is ready for Apple Pay! You can use it when you see this the contactless icon",
   "push_ready_for_apple_pay": "Your Gimi card is ready for Apple Pay! ",
   "event_wait_active_for_apple_pay": "Your Gimi card is waiting to be activated for Apple Pay!",
   "push_wait_active_for_apple_pay": "Your Gimi card is ready for Apple Pay! ",
@@ -462,5 +460,7 @@
   "CHGERE030_push_title": "You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "{parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "{child.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE031_notification_title": "You have a chore to do today!"
+  "CHGERE031_notification_title": "You have a chore to do today!",
+  "event_add_deposit_to_savings": "Time to boost savings for {child.nickname}? Click here to add an amount!",
+  "push_pfs_payday": "It's payday for your children"
 }

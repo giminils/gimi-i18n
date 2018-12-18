@@ -196,7 +196,6 @@
   "event_how_upcoming_payment": "Hoe toekomstige betalingen werken",
   "event_set_allowance": "Stel zakgeld in",
   "event_add_chores": "Voeg klusjes toe",
-  "event_add_deposit_to_savings": "Voeg een storting aan Spaargeld toe?",
   "event_help_connect": "Klik hier voor hulp om te verbinden",
   "event_connect_get_going": "Verbind om te beginnen",
   "connect_get_going": "Verbind om te beginnen",
@@ -320,7 +319,6 @@
   "push_connect_more_children": "Verzoek om te verbinden van {child.nickname}",
   "one_off_push_parent": "Happy weekend! You are a super parent ✨",
   "one_off_push_child": "Happy weekend! Piggy loves you 💖",
-  "push_pfs_payday": "Het is payday voor {child.nickname}",
   "push_connect_with_child": "PLZ_TRANSLATE Connect to a child! Gimi is more fun with your children!",
   "push_child_card_activated": "{child.nickname} heeft net de Gimi kaart geactiveerd! 👏",
   "event_card_has_been_activated": "{child.nickname} heeft net de Gimi kaart geactiveerd! 👏",
@@ -409,7 +407,7 @@
   "event_allowance_settings_are_updated": "Zakgeld instellingen zijn aangepast",
   "event_you_have_set_allowance": "Je hebt zakgeld ingesteld",
   "event_got_x_new_chores": "{parent.nickname} heeft je nieuwe klusjes gestuurd",
-  "event_ready_for apple_pay": "Je Gimi kaart is nu klaar voor Apple Pay! Je kunt het gebruiken als je dit contactloos icoon ziet",
+  "event_ready_for_apple_pay": "Je Gimi kaart is nu klaar voor Apple Pay! Je kunt het gebruiken als je dit contactloos icoon ziet",
   "push_ready_for_apple_pay": "Je Gimi kaart is klaar voor Apple Pay! ",
   "event_wait_active_for_apple_pay": "Je Gimi kaart wacht op activering voor Apple Pay!",
   "push_wait_active_for_apple_pay": "Je Gimi kaart is klaar voor Apple Pay! ",
@@ -462,5 +460,7 @@
   "CHGERE030_push_title": "PLZ_TRANSLATE You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
-  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!"
+  "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
+  "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!",
+  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children"
 }
