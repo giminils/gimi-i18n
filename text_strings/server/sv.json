@@ -185,7 +185,6 @@
   "event_how_to_spend": "Spendera som en chef",
   "event_add_cravings": "Har du några cravings? Lägg till dom!",
   "event_suggest_chore": "föreslå en uppgift",
-  "event_send_invite_reminder": "{user.nickname} har inte accepterat din inbjudan. Skicka en påminnelse!",
   "event_keep_account": "Fortfarande inga pengar i appen. Bjud in förälder nu!",
   "event_will_delete_account": "Koppla ihop inom 24 timmar för att behålla kontot. Skicka inbjudan nu!",
   "event_connect_children": "Bjud in dina barn",
@@ -462,5 +461,6 @@
   "push_add_chores": "PLZ_CHECK {child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "PLZ_CHECK You have a chore to do today!",
   "event_add_deposit_to_savings": "PLZ_CHECK Time to boost savings for {child.nickname}? Click here to add an amount!",
-  "push_pfs_payday": "PLZ_CHECK It's payday for your children"
+  "push_pfs_payday": "PLZ_CHECK It's payday for your children",
+  "event_send_invite_reminder": "Din inbjudan har inte accepterats. Skicka en påminnelse!"
 }

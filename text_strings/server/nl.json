@@ -185,7 +185,6 @@
   "event_how_to_spend": "Hoe uit te geven als een meester",
   "event_add_cravings": "Heb je wensen? Voeg ze toe!",
   "event_suggest_chore": "Suggereer een klus",
-  "event_send_invite_reminder": "{user.nickname} heeft je uitnodiging niet geaccepteerd. Stuur een herinnering!",
   "event_keep_account": "Verbind om je account te behouden",
   "event_will_delete_account": "Je account wordt verwijderd",
   "event_connect_children": "Verbind je kinderen",
@@ -462,5 +461,6 @@
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
   "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!",
-  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children"
+  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children",
+  "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!"
 }

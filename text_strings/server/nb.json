@@ -185,7 +185,6 @@
   "event_how_to_spend": "Hvordan bruke penger som en mester",
   "event_add_cravings": "Har du noen cravings? Legg dem til!",
   "event_suggest_chore": "Foreslå en oppgave",
-  "event_send_invite_reminder": "{user.nickname} har ikke godkjent din invitasjon. Send en påminnelse!",
   "event_keep_account": "Koble til for å beholde din konto",
   "event_will_delete_account": "Din konto vil bli slettet",
   "event_connect_children": "Inviter dine barn",
@@ -462,5 +461,6 @@
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
   "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!",
-  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children"
+  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children",
+  "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!"
 }

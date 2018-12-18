@@ -185,7 +185,6 @@
   "event_how_to_spend": "How to spend like a master",
   "event_add_cravings": "Got any cravings? Add them!",
   "event_suggest_chore": "Suggest a chore",
-  "event_send_invite_reminder": "PLZ_TRANSLATE {user.nickname} has not accepted on your invitation. Send a reminder!",
   "event_keep_account": "Connect to keep your account",
   "event_will_delete_account": "Your account will be deleted",
   "event_connect_children": "Connect your children",
@@ -462,5 +461,6 @@
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
   "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!",
-  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children"
+  "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children",
+  "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!"
 }

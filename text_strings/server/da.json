@@ -185,7 +185,6 @@
   "event_how_to_spend": "Sådan bruger du bedst penge",
   "event_add_cravings": "Har du trang til noget? Tilføj dem!",
   "event_suggest_chore": "Foreslå en opgave",
-  "event_send_invite_reminder": "{user.nickname} har ikke accepteret din invitation. Send en påmindelse!",
   "event_keep_account": "Opret forbindelse for at beholde din konto",
   "event_will_delete_account": "Din konto vil blive slettet",
   "event_connect_children": "Forbind dine børn",
@@ -462,5 +461,6 @@
   "push_add_chores": "{child.nickname} har ingen opgaver endnu. Vi har nogle opgave forslag!",
   "CHGERE031_notification_title": "Du har ingen opgaver i dag!",
   "event_add_deposit_to_savings": "Tid til at booste opsparingen for {child.nickname}? Klik her for at tilføje et beløb!",
-  "push_pfs_payday": "Det er payday for dine børn"
+  "push_pfs_payday": "Det er payday for dine børn",
+  "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!"
 }
