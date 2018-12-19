@@ -1,7 +1,8 @@
 // @flow
 let defaultCourse = {}
 let defaultChapter = {
-  icon: 'iconHeart'
+  icon: 'iconHeart',
+  isPremium: false
 }
 export default [
   {
@@ -12,6 +13,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'earn_chapter_1',
         icon: 'iconLamp',
         chapterName: 'Solving problems',
@@ -41,6 +43,7 @@ export default [
       },
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'earn_chapter_2',
         icon: 'iconStore',
         chapterName: 'Selling cookies',
@@ -74,6 +77,7 @@ export default [
       },
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'earn_chapter_3',
         icon: 'iconBroom',
         chapterName: 'Declutter challenge',
@@ -107,6 +111,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'save_chapter_1',
         icon: 'iconPercent',
         chapterName: 'Intro to interest',
@@ -132,6 +137,7 @@ export default [
       },
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'save_chapter_2',
         icon: 'iconScissors',
         chapterName: 'Cutting back on sweets',
@@ -157,6 +163,7 @@ export default [
       },
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'save_chapter_3',
         icon: 'iconToiletPaper',
         chapterName: 'Toilet paper challenge',
@@ -198,6 +205,7 @@ export default [
     chapters: [
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'spend_chapter_1',
         icon: 'iconBoat',
         chapterName: 'Family fun on a budget',
@@ -227,6 +235,7 @@ export default [
       },
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'spend_chapter_2',
         icon: 'iconCartFull',
         chapterName: 'Craft a shoppig list',
@@ -256,6 +265,7 @@ export default [
       },
       {
         ...defaultChapter,
+        available: true,
         chapterID: 'spend_chapter_3',
         icon: 'iconFlipFlops',
         chapterName: 'Shopping for shoes',
