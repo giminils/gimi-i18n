@@ -5,7 +5,7 @@ import {removeTranslationHelpers} from './index'
 // import da from './text_strings/shared/da.json'
 // import fi from './text_strings/shared/fi.json'
 // import is from './text_strings/shared/is.json'
-// import sv from './text_strings/shared/sv.json'
+import sv from './text_strings/shared/sv.json'
 // import fr from './text_strings/shared/fr.json'
 // import nl from './text_strings/shared/nl.json'
 // import no from './text_strings/shared/nb.json'
@@ -78,23 +78,22 @@ let getValidCardAnswer = (step: number, answer: number): boolean => {
 }
 
 let getSharedStrings = (lang: string) => {
-  return en
-  /* switch (lang.substring(0, 2)) {
-    case 'da' : return da // danish
-    case 'sv' : return sv // sweden
+  switch (lang.substring(0, 2)) {
+    case 'sv' : return sv
+    /* case 'da' : return da
     case 'nb' :
-    case 'nn' : return no // norway
-    case 'fr' : return fr // france
-    case 'nl' : return nl // Netherlands
-    case 'be' : return be // belgian
-    case 'fi' : return fi // finish
-    case 'it' : return it // italian
-    case 'es' : return es // spanish
-    case 'de' : return de // german
-    case 'is' : return is // island
-    case 'et' : return et // Estonia
+    case 'nn' : return no
+    case 'fr' : return fr
+    case 'nl' : return nl
+    case 'be' : return be
+    case 'fi' : return fi
+    case 'it' : return it
+    case 'es' : return es
+    case 'de' : return de
+    case 'is' : return is
+    case 'et' : return et */
     default : return en
-  } */
+  }
 }
 
 let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
@@ -105,8 +104,7 @@ let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   else text = removeTranslationHelpers(text)
   text = text.trim()
   if (values) values.forEach((item, index) => {
-    // $FlowFixMe //Needed 05.12.2017
-    text = text.split(`%${index + 1}$d`).join(item)
+
   })
   text = text.charAt(0).toUpperCase() + text.slice(1)
   return text
