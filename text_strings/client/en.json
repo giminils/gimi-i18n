@@ -689,7 +689,7 @@
   "deep_regret": "Deep regret",
   "connection_invite_sent": "Invite sent",
   "connection_invite_sent_description": "We'll send you a notification when the invite has been accepted",
-  "question_transfer_amount_to_n": "How much do you want to transfer to %1$d?",
+  "question_transfer_amount_to_n": "How much do you want to deposit to %1$d?",
   "how_often": "How often?",
   "general_daily": "daily",
   "daily_chore_desc": "the chore is handed out once a day",
@@ -1599,7 +1599,7 @@
   "general_completed": "completed",
   "report_most_expensive_withdrawal": "Most expensive deduction",
   "dream_achieved": "Dream achieved",
-  "general_custom": "Custom",
+  "general_custom": "Create your own",
   "your_tasks_section": "chores from you",
   "other_parents_tasks": "chores from others",
   "dots_choose_from_popular_dreams": "...or choose from popular",
@@ -1850,7 +1850,7 @@
   "connect_without_phone_number": "Invite without phone number",
   "invite_more_title": "Invite more people!",
   "control_phone_no_title": "Please check the phone number",
-  "how_do_you_want_to_connect": "What do you want to do?",
+  "how_do_you_want_to_connect": "How do you want to connect?",
   "connect_with_qr_desc": "If you’re close to each other!",
   "connect_with_email_desc": "If the person you're inviting doesn't have a phone number",
   "kid_recieved_money_go_to_account": "Go to account",
@@ -2054,7 +2054,7 @@
   "sign_up_on_card_waitlist": "Sign up on card waitlist!",
   "get_the_gimi_card": "Get the Gimi Card!",
   "reduce_debt_without_deposit_message": "Just want to reduce debt without deposit?",
-  "reduce_kids_debt_wihtout_money_message": "This will decrease yor dept to %1$d without deposit any money",
+  "reduce_kids_debt_wihtout_money_message": "This will decrease yor dept to %1$d without depositing any money",
   "education_how_to_pay_with_a_card": "How to pay with a card",
   "kid_savings_deposit_transaction_by": "Deposit by %1$d",
   "want_to_transfer_money_now": "Want to transfer the money now?",
@@ -2064,5 +2064,5 @@
   "gimi_is_for_children_popover_title": "Gimi is for children!",
   "we_created_gimi_for_children_popover_text": "We created Gimi so that children could learn about money. Without access to a device, they can’t use the app and learn. Maybe you have a tablet at home that they can use before they get their own devices?",
   "total_amount": "Total: %1$d",
-  "influencer_work_with_us": "Work with gimi!"
+  "influencer_work_with_us": "Collaborate with gimi!"
 }
