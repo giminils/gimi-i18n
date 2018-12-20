@@ -350,7 +350,7 @@
   "event_settle_your_debt": "Voldoe je schuld aan {child.nickname}",
   "push_chores_waiting": "PLZ_TRANSLATE You have {x} chores waiting. Go earn some money!",
   "event_add_card": "Voeg je betaalkaart toe zodat je geld kunt storten voor je kinderen!",
-  "event_child_spend": "nieuwe kaart aankoop",
+  "event_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
   "event_got_money_back": "Je hebt geld teruggekregen van {statement.merchant_name}",
   "push_got_money_back": "💰Je hebt net wat geld teruggekregen van {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hallo {{ user.name }}, Vul de code {{ token.code }} in de app in of klik op de knop beneden om in te loggen. Tot ziens in de app! 👋",

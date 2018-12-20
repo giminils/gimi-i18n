@@ -350,7 +350,7 @@
   "event_settle_your_debt": "PLZ_TRANSLATE Settle your debt to {child.nickname}",
   "push_chores_waiting": "PLZ_TRANSLATE You have {x} chores waiting. Go earn some money!",
   "event_add_card": "PLZ_TRANSLATE Add your debitcard so you can make deposits to your children!",
-  "event_child_spend": "PLZ_TRANSLATE new_card_purchase",
+  "event_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
   "event_got_money_back": "PLZ_TRANSLATE You got some money back from {statement.merchant_name}",
   "push_got_money_back": "PLZ_TRANSLATE 💰You just got some money from {statement.merchant_name}!",
   "push_enter_token_and_log_in": "PLZ_TRANSLATE Hi {{ user.name }}, Enter the code {{ token.code }} in the app or click on the button below to log in. See you in the app! 👋",

@@ -350,7 +350,7 @@
   "event_settle_your_debt": "Afvikl din gæld til {child.nickname}",
   "push_chores_waiting": "Du har {x} opgaver der venter. Få tjent nogle penge!",
   "event_add_card": "Tilføj dit betalingskort, så du kan foretage indbetalinger til dine børn!",
-  "event_child_spend": "nyt_kort_køb",
+  "event_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
   "event_got_money_back": "Du har fået nogle penge tilbage fra {statement.merchant_name}",
   "push_got_money_back": "💰Du har lige fået nogle penge tilbage fra {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hej {{ user.name }}, Indtast koden {{ token.code }} i appen eller klik på knappen nedenfor for at logge ind. Vi ses i appen! 👋",

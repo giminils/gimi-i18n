@@ -350,7 +350,7 @@
   "event_settle_your_debt": "Betal det du skylder {child.nickname}",
   "push_chores_waiting": "Du har {x} oppgaver som venter på å bli gjort. Tjen litt penger!",
   "event_add_card": "Legg til debetkortet ditt slik at du kan overføre penger til barna dine!",
-  "event_child_spend": "new_card_purchase",
+  "event_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
   "event_got_money_back": "Du har fått tilbake penger fra {statement.merchant_name}",
   "push_got_money_back": "💰 Du har akkurat fått penger fra {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hei {{ user.name }}, skriv inn koden {{ token.code }} i appen eller klikk på knappen nedenfor for å logge inn. Ser deg i appen!",

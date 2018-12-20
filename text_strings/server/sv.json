@@ -350,7 +350,7 @@
   "event_settle_your_debt": "Bli kvitt din skuld till {child.nickname}",
   "push_chores_waiting": "Du har {x} uppgifter som väntar! Gå och tjäna extra penagr!",
   "event_add_card": "Lägg till ett kort för att kunna göra insättningar till barnen!",
-  "event_child_spend": "Lorem ipsum",
+  "event_child_spend": "PLZ_CHECK 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
   "event_got_money_back": "Du har fått en återbetalning från {statement.merchant_name}",
   "push_got_money_back": "💰Du fick precis en återbetalning från {statement.merchant_name}!",
   "push_enter_token_and_log_in": "Hej {{ user.name }}, Ange koden {{ token.code }} i appen eller klicka på knappen nedan för att logga in. Vi ses i appen! 👋",
