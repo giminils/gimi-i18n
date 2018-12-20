@@ -104,7 +104,8 @@ let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   else text = removeTranslationHelpers(text)
   text = text.trim()
   if (values) values.forEach((item, index) => {
-
+    // $FlowFixMe //Needed 05.12.2017
+    text = text.split(`%${index + 1}$d`).join(item)
   })
   text = text.charAt(0).toUpperCase() + text.slice(1)
   return text
