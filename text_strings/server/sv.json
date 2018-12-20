@@ -462,5 +462,7 @@
   "CHGERE031_notification_title": "Du har en uppgift att göra idag!",
   "event_add_deposit_to_savings": "Dags att fylla på i Sparat för {child.nickname}?",
   "push_pfs_payday": "Det är Payday för dina barn!",
-  "event_send_invite_reminder": "Din inbjudan har inte accepterats. Skicka en påminnelse!"
+  "event_send_invite_reminder": "Din inbjudan har inte accepterats. Skicka en påminnelse!",
+  "ADPRON016_notification_title": "PLZ_CHECK You're on the waitlist for the Gimi card, and we're finally taking orders!",
+  "ADPRON016_push_title": "PLZ_CHECK You're next on the Gimi card waitlist! Get your card now!"
 }

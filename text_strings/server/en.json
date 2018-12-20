@@ -462,5 +462,7 @@
   "CHGERE031_notification_title": "You have a chore to do today!",
   "event_add_deposit_to_savings": "Time to boost savings for {child.nickname}?",
   "push_pfs_payday": "It's payday for your children",
-  "event_send_invite_reminder": "Your invite has not been accepted. Send a reminder!"
+  "event_send_invite_reminder": "Your invite has not been accepted. Send a reminder!",
+  "ADPRON016_notification_title": "You're on the waitlist for the Gimi card, and we're finally taking orders!",
+  "ADPRON016_push_title": "You're next on the Gimi card waitlist! Get your card now!"
 }

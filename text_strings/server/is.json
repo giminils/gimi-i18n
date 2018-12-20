@@ -462,5 +462,7 @@
   "CHGERE031_notification_title": "PLZ_TRANSLATE You have a chore to do today!",
   "event_add_deposit_to_savings": "PLZ_TRANSLATE Time to boost savings for {child.nickname}? Click here to add an amount!",
   "push_pfs_payday": "PLZ_TRANSLATE It's payday for your children",
-  "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!"
+  "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!",
+  "ADPRON016_notification_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card, and we're finally taking orders!",
+  "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!"
 }
