@@ -2065,7 +2065,7 @@
   "we_created_gimi_for_children_popover_text": "Vi skapade Gimi för att barn ska lära sig om pengar. Men utan tillgång till appen kan de inte vara med och lära sig. Kanske har du en padda hemma som de kan använda innan de får en egen telefon?",
   "total_amount": "Totalt: %1$d",
   "influencer_work_with_us": "Samarbeta med Gimi!",
-  "kid_pay_online_card_details": "PLZ_CHECK Your card details",
-  "card_blocked_warning": "PLZ_CHECK You will not be able to pay online because your card is blocked",
-  "card_is_on_its_way": "PLZ_CHECK You'r done! Card is on it's way!"
+  "kid_pay_online_card_details": "Dina kortuppgifter",
+  "card_blocked_warning": "Du kan inte betala online för ditt kort är låst!",
+  "card_is_on_its_way": "Klar! Kortet är påväg till dig!"
 }
