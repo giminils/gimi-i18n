@@ -2067,5 +2067,7 @@
   "influencer_work_with_us": "PLZ_TRANSLATE Work with gimi!",
   "kid_pay_online_card_details": "PLZ_TRANSLATE Your card details",
   "card_blocked_warning": "PLZ_TRANSLATE You will not be able to pay online because your card is blocked",
-  "card_is_on_its_way": "PLZ_TRANSLATE You'r done! Card is on it's way!"
+  "card_is_on_its_way": "PLZ_TRANSLATE You'r done! Card is on it's way!",
+  "parent_create_chore_action_title": "PLZ_TRANSLATE You just created a chore!",
+  "parent_create_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!"
 }
