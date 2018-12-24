@@ -2069,5 +2069,6 @@
   "card_blocked_warning": "PLZ_TRANSLATE You will not be able to pay online because your card is blocked",
   "card_is_on_its_way": "PLZ_TRANSLATE You'r done! Card is on it's way!",
   "parent_create_chore_action_title": "PLZ_TRANSLATE You just created a chore!",
-  "parent_create_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!"
+  "parent_create_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!",
+  "general_delete_conection": "PLZ_TRANSLATE Delete connection"
 }

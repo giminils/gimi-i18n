@@ -2069,5 +2069,6 @@
   "card_blocked_warning": "You will not be able to pay online because your card is blocked",
   "card_is_on_its_way": "Done! The card is on it's way to you!",
   "parent_create_chore_action_title": "You just created a chore!",
-  "parent_create_chore_action_desc": "%1$d will be notified and reminded!"
+  "parent_create_chore_action_desc": "%1$d will be notified and reminded!",
+  "general_delete_conection": "Delete connection"
 }
