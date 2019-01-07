@@ -2070,5 +2070,7 @@
   "card_is_on_its_way": "Klar! Kortet är påväg till dig!",
   "parent_create_chore_action_title": "PLZ_CHECK You just created a chore!",
   "parent_create_chore_action_desc": "PLZ_CHECK %1$d will be notified and reminded!",
-  "general_delete_conection": "PLZ_CHECK Delete connection"
+  "general_delete_conection": "PLZ_CHECK Delete connection",
+  "parentrelation_overview_for_parent_subtitle": "PLZ_CHECK Settings for %1$d",
+  "name_owes_name": "PLZ_CHECK %1$d owes %2$d"
 }
