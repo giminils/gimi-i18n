@@ -2072,5 +2072,6 @@
   "parent_create_chore_action_desc": "%1$d will be notified and reminded!",
   "general_delete_conection": "Delete connection",
   "parentrelation_overview_for_parent_subtitle": "Settings for %1$d",
-  "name_owes_name": "%1$d owes %2$d"
+  "name_owes_name": "%1$d owes %2$d",
+  "kid_connect_with_qr_instead_button": "Connect with QR code"
 }
