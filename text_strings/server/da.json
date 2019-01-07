@@ -464,5 +464,6 @@
   "push_pfs_payday": "Det er payday for dine børn",
   "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!",
   "ADPRON016_notification_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card, and we're finally taking orders!",
-  "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!"
+  "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!",
+  "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!"
 }
