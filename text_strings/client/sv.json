@@ -2067,11 +2067,11 @@
   "influencer_work_with_us": "Samarbeta med Gimi!",
   "kid_pay_online_card_details": "Dina kortuppgifter",
   "card_blocked_warning": "Du kan inte betala online för ditt kort är låst!",
-  "card_is_on_its_way": "Klar! Kortet är påväg till dig!",
-  "parent_create_chore_action_title": "PLZ_CHECK You just created a chore!",
-  "parent_create_chore_action_desc": "PLZ_CHECK %1$d will be notified and reminded!",
-  "general_delete_conection": "PLZ_CHECK Delete connection",
-  "parentrelation_overview_for_parent_subtitle": "PLZ_CHECK Settings for %1$d",
-  "name_owes_name": "PLZ_CHECK %1$d owes %2$d",
-  "kid_connect_with_qr_instead_button": "PLZ_CHECK Connect with QR code"
+  "card_is_on_its_way": "Klart! Kortet är påväg till dig!",
+  "parent_create_chore_action_title": "Du skapade precis en uppgift!",
+  "parent_create_chore_action_desc": "Vi kommer påminna %1$d!",
+  "general_delete_conection": "Ta bort koppling",
+  "parentrelation_overview_for_parent_subtitle": "Inställningar för %1$d",
+  "name_owes_name": "%1$d är skyldig %2$d",
+  "kid_connect_with_qr_instead_button": "Koplla ihop med QR-kod"
 }
