@@ -224,7 +224,6 @@
   "event_birthday_today": "Syntymäpäivä tänään!",
   "event_suggestion_of_new_chore_update": "Askarepäivitysehdotus",
   "event_suggestion_of_monthly_allowance": "Kuukausirahaehdotus",
-  "event_chore_was_approved": "{user.nickname} hyväksyi askareen {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} hyväksyttiin automaattisesti",
   "event_chore_was_disapproved": "{chore.title} hylättiin",
   "event_want_to_activate_auto_approval": "Haluatko hyväksyä automaattisesti?",
@@ -465,5 +464,6 @@
   "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!",
   "ADPRON016_notification_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!",
-  "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!"
+  "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {task.title}"
 }

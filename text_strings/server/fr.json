@@ -224,7 +224,6 @@
   "event_birthday_today": "Anniversaire aujourd'hui!",
   "event_suggestion_of_new_chore_update": "Suggestion pour une mise à jour d'une tâche",
   "event_suggestion_of_monthly_allowance": "Suggestion pour une allocation mensuelle",
-  "event_chore_was_approved": "{user.nickname} a approuvé {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} a été approuvé automatiquement",
   "event_chore_was_disapproved": "{chore.title} n'a pas été aprprouvé",
   "event_want_to_activate_auto_approval": "Souhaitez-vous activer l'auto-approbation?",
@@ -465,5 +464,6 @@
   "event_send_invite_reminder": "PLZ_TRANSLATE Your invite has not been accepted. Send a reminder!",
   "ADPRON016_notification_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!",
-  "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!"
+  "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!",
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {task.title}"
 }

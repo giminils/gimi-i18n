@@ -224,7 +224,6 @@
   "event_birthday_today": "Födelsedag idag!",
   "event_suggestion_of_new_chore_update": "Gimi föreslår uppdatering av uppgifter",
   "event_suggestion_of_monthly_allowance": "Gimi föreslår byte till månadspeng",
-  "event_chore_was_approved": "{user.nickname} godkände {chore.title}",
   "event_chore_was_auto_approved": "{chore.title} godkändes automatiskt",
   "event_chore_was_disapproved": "{chore.title} godkändes inte",
   "event_want_to_activate_auto_approval": "Aktivera automatiskt godkännande?",
@@ -465,5 +464,6 @@
   "event_send_invite_reminder": "Din inbjudan har inte accepterats. Skicka en påminnelse!",
   "ADPRON016_notification_title": "PLZ_CHECK You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "PLZ_CHECK You're next on the Gimi card waitlist! Get your card now!",
-  "ADGEON017_notification_title": "PLZ_CHECK Connect with a child!"
+  "ADGEON017_notification_title": "PLZ_CHECK Connect with a child!",
+  "event_chore_was_approved": "PLZ_CHECK {user.nickname} approved {task.title}"
 }
