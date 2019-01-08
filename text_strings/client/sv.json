@@ -2073,5 +2073,6 @@
   "general_delete_conection": "Ta bort koppling",
   "parentrelation_overview_for_parent_subtitle": "Inställningar för %1$d",
   "name_owes_name": "%1$d är skyldig %2$d",
-  "kid_connect_with_qr_instead_button": "Koplla ihop med QR-kod"
+  "kid_connect_with_qr_instead_button": "Koplla ihop med QR-kod",
+  "parent_education_feature_custom_notification": "PLZ_CHECK We've updated Gimi with some money education!"
 }
