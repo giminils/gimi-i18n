@@ -253,7 +253,6 @@
   "push_you_have_a_new_connection": "You have a new connection!",
   "push_you_have_got_an_invitation_to_connect": "You have got an invitation from {connection_token.created_by.nickname} to connect",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "You got an allowance!",
-  "push_child_has_completed_a_chore": "{assignment.child.nickname} has completed \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} wants permission to edit your chores",
   "push_payday_parent": "Payday for {child.nickname}. Check out how much money was added to their Savings!",
   "push_child_has_reached_a_dream": "{child.nickname} has reached a dream",
@@ -366,7 +365,6 @@
   "event_you_are_connected": "You're now connected with {child.nickname}!",
   "push_card_purchase_decline": "A purchase was declined because of low balance!",
   "event_how_premium_work": "How Gimi Premium works",
-  "event_child_has_completed_a_chore": "{child.nickname} completed {chore.title}",
   "push_card_decline_unlock": "🚫Your Gimi card is blocked! That's why it was declined at {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "Payday! Money has been added to savings!",
   "event_cloud_created": "Get to know Gimi!",
@@ -465,5 +463,7 @@
   "ADPRON016_notification_title": "You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "You're next on the Gimi card waitlist! Get yours now!",
   "ADGEON017_notification_title": "Connect with a child!",
-  "event_chore_was_approved": "{user.nickname} approved {task.title}"
+  "event_chore_was_approved": "{user.nickname} approved {task.title}",
+  "push_child_has_completed_a_chore": "{assignment.child.nickname} has completed {assignment.task.title}!",
+  "event_child_has_completed_a_chore": "{child.nickname} completed {task.title}"
 }

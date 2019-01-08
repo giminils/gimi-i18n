@@ -253,7 +253,6 @@
   "push_you_have_a_new_connection": "Du har en ny forbindelse! ",
   "push_you_have_got_an_invitation_to_connect": "Du har en invitation fra {connection_token.created_by.nickname} til at oprette forbindelse",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Dine lommepenge er sat op! Tjek det ud i appen!",
-  "push_child_has_completed_a_chore": "{assignment.child.nickname} har afsluttet \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} beder om tilladelse til at redigere dine opgaver",
   "push_payday_parent": "Payday for {child.nickname}. Tjek hvor mange penge der blev tilføjet til Opsparingen!",
   "push_child_has_reached_a_dream": "{child.nickname} har nået en drøm",
@@ -366,7 +365,6 @@
   "event_you_are_connected": "Du er nu forbundet med {child.nickname}!",
   "push_card_purchase_decline": "Et kort køb blev afvist på grund af lav balance!",
   "event_how_premium_work": "Hvordan Premium virker",
-  "event_child_has_completed_a_chore": "{child.nickname} har færdiggjort {chore.title}",
   "push_card_decline_unlock": "🚫Dit Gimi kort er blokeret! Derfor blev det afslået hos {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "Payday! Penge er blevet tilføjet til din opsparing! Tjek ud hvor meget i appen",
   "event_cloud_created": "Lær Gimi at kende!",
@@ -465,5 +463,7 @@
   "ADPRON016_notification_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!",
   "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!",
-  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {task.title}"
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {task.title}",
+  "push_child_has_completed_a_chore": "PLZ_TRANSLATE {assignment.child.nickname} has completed {assignment.task.title}!",
+  "event_child_has_completed_a_chore": "PLZ_TRANSLATE {child.nickname} completed {task.title}"
 }

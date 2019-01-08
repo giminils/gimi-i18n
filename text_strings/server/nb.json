@@ -253,7 +253,6 @@
   "push_you_have_a_new_connection": "Du har en ny kontakt! ",
   "push_you_have_got_an_invitation_to_connect": "Du har fått en invitasjon fra {connection_token.created_by.nickname}",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Nye uke- eller månedspenger er blitt bestemt! Sjekk dem i appen!",
-  "push_child_has_completed_a_chore": "{assignment.child.nickname} har fullført \"{assignment.task.title}\"!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} spør om tillatelse til å redigere dine oppgaver",
   "push_payday_parent": "Utbetalingsdag for {child.nickname}. Sjekk hvor mye penger som ble lagt på sparegrisen!",
   "push_child_has_reached_a_dream": "{child.nickname} har oppfylt en drøm",
@@ -366,7 +365,6 @@
   "event_you_are_connected": "Du er nå koblet opp mot {child.nickname}!",
   "push_card_purchase_decline": "Et kortkjøp ble avslått på grunne av lav saldo!",
   "event_how_premium_work": "Slik fungerer Premium",
-  "event_child_has_completed_a_chore": "{child.nickname} gjorde {chore.title}",
   "push_card_decline_unlock": "🚫 Gimi-kortet ditt er blokkert! Derfor ble det avvist hos {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "Utbetalingsdag! Det har blitt lagt penger på sparegrisen! Sjekk hvor mye som har blitt lagt på i appen",
   "event_cloud_created": "Bli kjent med Gimi!",
@@ -465,5 +463,7 @@
   "ADPRON016_notification_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "PLZ_TRANSLATE You're next on the Gimi card waitlist! Get your card now!",
   "ADGEON017_notification_title": "PLZ_TRANSLATE Connect with a child!",
-  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {task.title}"
+  "event_chore_was_approved": "PLZ_TRANSLATE {user.nickname} approved {task.title}",
+  "push_child_has_completed_a_chore": "PLZ_TRANSLATE {assignment.child.nickname} has completed {assignment.task.title}!",
+  "event_child_has_completed_a_chore": "PLZ_TRANSLATE {child.nickname} completed {task.title}"
 }
