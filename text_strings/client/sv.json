@@ -2074,5 +2074,9 @@
   "parentrelation_overview_for_parent_subtitle": "Inställningar för %1$d",
   "name_owes_name": "%1$d är skyldig %2$d",
   "kid_connect_with_qr_instead_button": "Koplla ihop med QR-kod",
-  "parent_education_feature_custom_notification": "PLZ_CHECK We've updated Gimi with some money education!"
+  "parent_education_feature_custom_notification": "PLZ_CHECK We've updated Gimi with some money education!",
+  "pfs_acquirer_error_title": "PLZ_CHECK Oh no... something went wrong",
+  "pfs_acquirer_error_check_card_details": "PLZ_CHECK Sure you saved the correct card details to make sure they are correct.",
+  "pfs_acquirer_error_check_card_details_action_button": "PLZ_CHECK Settings",
+  "pfs_acquirer_error_try_again": "PLZ_CHECK ...or try again soon, hopefully it's up and working by then!"
 }
