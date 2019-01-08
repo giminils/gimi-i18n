@@ -2078,5 +2078,6 @@
   "pfs_acquirer_error_title": "Oh no... something went wrong",
   "pfs_acquirer_error_check_card_details": "PLZ_COPY Sure you saved the right card details? Make sure they are correct!",
   "pfs_acquirer_error_check_card_details_action_button": "Settings",
-  "pfs_acquirer_error_try_again": "...or try again soon, hopefully it's up and working by then!"
+  "pfs_acquirer_error_try_again": "...or try again soon, hopefully it's up and working by then!",
+  "general_play_video": "play"
 }

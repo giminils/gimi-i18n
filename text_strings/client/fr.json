@@ -2078,5 +2078,6 @@
   "pfs_acquirer_error_title": "PLZ_TRANSLATE Oh no... something went wrong",
   "pfs_acquirer_error_check_card_details": "PLZ_TRANSLATE Sure you saved the correct card details to make sure they are correct.",
   "pfs_acquirer_error_check_card_details_action_button": "PLZ_TRANSLATE Settings",
-  "pfs_acquirer_error_try_again": "PLZ_TRANSLATE ...or try again soon, hopefully it's up and working by then!"
+  "pfs_acquirer_error_try_again": "PLZ_TRANSLATE ...or try again soon, hopefully it's up and working by then!",
+  "general_play_video": "PLZ_TRANSLATE play"
 }
