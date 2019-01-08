@@ -1193,7 +1193,7 @@
   "general_weekly_allowance": "Weekly allowance",
   "general_monthly_allowance": "Monthly allowance",
   "kid_connected_parent": "You and %1$d are now connected",
-  "set_interest_descr": "The interest rate gives a savings bonus calculated on the savings",
+  "set_interest_descr": "PLZ_COPY The interest rate is calculated weekly or monthly, depending on the allowance frequency. A bonus for savings!",
   "payday_circle_empty_state_title": "No money yet, invite a parent now!",
   "explainer_video_tutorial": "About Gimi",
   "future_interest_help_header": "What is a savings bonus?",
@@ -1627,7 +1627,7 @@
   "card_good_to_know_limit_desc": "We have set up security limits for how much you can spend and transfer to the card. The limits are stricter if your child is under 15 years old.\n\nMaximum daily limit for children under 15 : %1$d\nMax daily limit for children over 15 : %2$d",
   "chore_cant_be_completed_popover_title": "This chore cannot be completed yet!",
   "chore_cant_be_completed_popover_text": "This chore is not due yet, so you can't complete it today. Come back later!",
-  "edit_interest_for_name": "Interest rate for %1$d",
+  "edit_interest_for_name": "PLZ_COPY Add a savings bonus for %1$d",
   "enable_gimi_premium_beta": "Enable Gimi Premium [Beta]",
   "about_gimi_settings_label": "About Gimi",
   "custom_notification_choose_payday": "Choose custom payday!",
@@ -2076,7 +2076,7 @@
   "kid_connect_with_qr_instead_button": "Connect with QR code",
   "parent_education_feature_custom_notification": "We've updated Gimi with some money education!",
   "pfs_acquirer_error_title": "Oh no... something went wrong",
-  "pfs_acquirer_error_check_card_details": "Sure you saved the correct card details to make sure they are correct.",
+  "pfs_acquirer_error_check_card_details": "PLZ_COPY Sure you saved the right card details? Make sure they are correct!",
   "pfs_acquirer_error_check_card_details_action_button": "Settings",
   "pfs_acquirer_error_try_again": "...or try again soon, hopefully it's up and working by then!"
 }
