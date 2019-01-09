@@ -2079,5 +2079,11 @@
   "pfs_acquirer_error_check_card_details": "PLZ_TRANSLATE Sure you saved the correct card details to make sure they are correct.",
   "pfs_acquirer_error_check_card_details_action_button": "PLZ_TRANSLATE Settings",
   "pfs_acquirer_error_try_again": "PLZ_TRANSLATE ...or try again soon, hopefully it's up and working by then!",
-  "general_play_video": "PLZ_TRANSLATE play"
+  "general_play_video": "PLZ_TRANSLATE play",
+  "debt_explainer_button": "PLZ_TRANSLATE %1$d waiting to be deposited",
+  "kid_cloud_debt_explainer_title": "PLZ_TRANSLATE Your supporters still owe you!",
+  "kid_cloud_debt_explainer_subtitle": "PLZ_TRANSLATE You got a real money account, and your supporters can now deposit real money to you. Gimi keeps track of how much is waiting to be deposited!",
+  "parent_cloud_debt_explainer_title": "PLZ_TRANSLATE Supporters still owe %1$d",
+  "parent_cloud_debt_explainer_subtitle": "PLZ_TRANSLATE %1$d got a real money account, and supporters can now deposit real money. Gimi keeps track of how much is waiting to be deposited!",
+  "kid_cloud_debt_explainer_remind_button": "PLZ_TRANSLATE Remind them!"
 }

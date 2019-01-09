@@ -2079,5 +2079,11 @@
   "pfs_acquirer_error_check_card_details": "Säker på att du lagt till rätt kortinformation? Kolla så att allt stämmer.",
   "pfs_acquirer_error_check_card_details_action_button": "Inställningar",
   "pfs_acquirer_error_try_again": "...eller försök igen om en stund, förhoppningsvis så funkar allt snart!",
-  "general_play_video": "Spela"
+  "general_play_video": "Spela",
+  "debt_explainer_button": "PLZ_CHECK %1$d waiting to be deposited",
+  "kid_cloud_debt_explainer_title": "PLZ_CHECK Your supporters still owe you!",
+  "kid_cloud_debt_explainer_subtitle": "PLZ_CHECK You got a real money account, and your supporters can now deposit real money to you. Gimi keeps track of how much is waiting to be deposited!",
+  "parent_cloud_debt_explainer_title": "PLZ_CHECK Supporters still owe %1$d",
+  "parent_cloud_debt_explainer_subtitle": "PLZ_CHECK %1$d got a real money account, and supporters can now deposit real money. Gimi keeps track of how much is waiting to be deposited!",
+  "kid_cloud_debt_explainer_remind_button": "PLZ_CHECK Remind them!"
 }
