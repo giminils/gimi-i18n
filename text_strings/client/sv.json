@@ -2076,6 +2076,7 @@
   "kid_connect_with_qr_instead_button": "Koppla ihop med QR-kod",
   "parent_education_feature_custom_notification": "Lär dina barn tjäna, spara och spendera med Gimi!",
   "pfs_acquirer_error_title": "Åh nej... något gick fel",
+  "pfs_acquirer_error_check_card_details": "PLZ_CHECK Sure you saved the right card details? Make sure they are correct!",
   "pfs_acquirer_error_check_card_details_action_button": "Inställningar",
   "pfs_acquirer_error_try_again": "...eller försök igen om en stund, förhoppningsvis så funkar allt snart!",
   "general_play_video": "Spela",
