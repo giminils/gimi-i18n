@@ -2090,5 +2090,7 @@
   "general_activate_it": "Aktivera kortet!",
   "test_debitcard_charge_popover_title": "Vi kommer att dra 1kr...",
   "test_debitcard_charge_popover_text": "...bara för att kontrollera att kortuppgifterna stämmer. Men du får snart tillbaka pengarna!",
-  "no_gimi_children_in_phone_contacts": "Inga Gimi-barn bland dina kontakter contacts 😞"
+  "no_gimi_children_in_phone_contacts": "Inga Gimi-barn bland dina kontakter contacts 😞",
+  "cloud_deduct_more_than_balance_popover_title": "PLZ_CHECK You cannot deduct more than what's in the account",
+  "cloud_deduct_more_than_balance_popover_text": "PLZ_CHECK %1$d only has %2$d in the account, so you can't deduct more than that!"
 }

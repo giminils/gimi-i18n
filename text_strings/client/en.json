@@ -2090,5 +2090,7 @@
   "general_activate_it": "Activate it!",
   "test_debitcard_charge_popover_title": "We will make a authorisation charge of 1kr...",
   "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But we won't charge you anything! The money will be returned as a chargeback.",
-  "no_gimi_children_in_phone_contacts": "No Gimi children in your contacts 😞"
+  "no_gimi_children_in_phone_contacts": "No Gimi children in your contacts 😞",
+  "cloud_deduct_more_than_balance_popover_title": "You cannot deduct more than what's in the account",
+  "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in the account, so you can't deduct more than that!"
 }

@@ -2090,5 +2090,7 @@
   "general_activate_it": "PLZ_TRANSLATE Activate it!",
   "test_debitcard_charge_popover_title": "PLZ_TRANSLATE We will make a test charge of 1kr...",
   "test_debitcard_charge_popover_text": "PLZ_TRANSLATE ...to confirm that the card is valid. But won't charge anything! The money will be returned as a chargeback.",
-  "no_gimi_children_in_phone_contacts": "PLZ_TRANSLATE No Gimi children in your contacts 😞"
+  "no_gimi_children_in_phone_contacts": "PLZ_TRANSLATE No Gimi children in your contacts 😞",
+  "cloud_deduct_more_than_balance_popover_title": "PLZ_TRANSLATE You cannot deduct more than what's in the account",
+  "cloud_deduct_more_than_balance_popover_text": "PLZ_TRANSLATE %1$d only has %2$d in the account, so you can't deduct more than that!"
 }
