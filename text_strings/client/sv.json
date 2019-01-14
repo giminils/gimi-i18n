@@ -2089,5 +2089,6 @@
   "card_on_its_way_activate": "PLZ_CHECK Your card is on its way! Did it arrive already?",
   "general_activate_it": "PLZ_CHECK Activate it!",
   "test_debitcard_charge_popover_title": "PLZ_CHECK We will make a test charge of 1kr...",
-  "test_debitcard_charge_popover_text": "PLZ_CHECK ...to confirm that the card is valid. But won't charge anything! The money will be returned as a chargeback."
+  "test_debitcard_charge_popover_text": "PLZ_CHECK ...to confirm that the card is valid. But won't charge anything! The money will be returned as a chargeback.",
+  "no_gimi_children_in_phone_contacts": "PLZ_CHECK No Gimi children in your contacts 😞"
 }

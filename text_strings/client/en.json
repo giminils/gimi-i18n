@@ -2089,5 +2089,6 @@
   "card_on_its_way_activate": "Your card is on its way! Has it arrived already?",
   "general_activate_it": "Activate it!",
   "test_debitcard_charge_popover_title": "We will make a authorisation charge of 1kr...",
-  "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But we won't charge you anything! The money will be returned as a chargeback."
+  "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But we won't charge you anything! The money will be returned as a chargeback.",
+  "no_gimi_children_in_phone_contacts": "No Gimi children in your contacts 😞"
 }
