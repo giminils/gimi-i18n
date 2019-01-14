@@ -2085,5 +2085,7 @@
   "kid_cloud_debt_explainer_subtitle": "Du har en ekte konto, og dine støttespillere kan nå sette inn ekte penger til deg. Gimi holder styr på hvor mye som venter på å bli innbetalt!",
   "parent_cloud_debt_explainer_title": "Støttespillere skylder fortsatt %1$d",
   "parent_cloud_debt_explainer_subtitle": "%1$d har en ekte konto, og støttespillere kan nå sette inn ekte penger. Gimi holder styr på hvor mye som venter på å bli innbetalt!",
-  "kid_cloud_debt_explainer_remind_button": "Påminn dem!"
+  "kid_cloud_debt_explainer_remind_button": "Påminn dem!",
+  "card_on_its_way_activate": "PLZ_TRANSLATE Your card is on its way! Did it arrive already?",
+  "general_activate_it": "PLZ_TRANSLATE Activate it!"
 }

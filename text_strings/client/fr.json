@@ -2085,5 +2085,7 @@
   "kid_cloud_debt_explainer_subtitle": "PLZ_TRANSLATE You got a real money account, and your supporters can now deposit real money to you. Gimi keeps track of how much is waiting to be deposited!",
   "parent_cloud_debt_explainer_title": "PLZ_TRANSLATE Supporters still owe %1$d",
   "parent_cloud_debt_explainer_subtitle": "PLZ_TRANSLATE %1$d got a real money account, and supporters can now deposit real money. Gimi keeps track of how much is waiting to be deposited!",
-  "kid_cloud_debt_explainer_remind_button": "PLZ_TRANSLATE Remind them!"
+  "kid_cloud_debt_explainer_remind_button": "PLZ_TRANSLATE Remind them!",
+  "card_on_its_way_activate": "PLZ_TRANSLATE Your card is on its way! Did it arrive already?",
+  "general_activate_it": "PLZ_TRANSLATE Activate it!"
 }

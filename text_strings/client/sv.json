@@ -2085,5 +2085,7 @@
   "kid_cloud_debt_explainer_subtitle": "Nu när du har ett riktigt konto, så kan dina supporters sätta in riktiga pengar till dig. Gimi håller koll på hur mycket pengar som ska sättas in!",
   "parent_cloud_debt_explainer_title": "%1$d väntar på insättningar från supporters",
   "parent_cloud_debt_explainer_subtitle": "%1$d har fått ett riktigt konto, och supporters kan nu sätta in riktiga pengar. Gimi håller koll på hur mycket pengar som ska sättas in!",
-  "kid_cloud_debt_explainer_remind_button": "Påminn dom!"
+  "kid_cloud_debt_explainer_remind_button": "Påminn dom!",
+  "card_on_its_way_activate": "PLZ_CHECK Your card is on its way! Did it arrive already?",
+  "general_activate_it": "PLZ_CHECK Activate it!"
 }
