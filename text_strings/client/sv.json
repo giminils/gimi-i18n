@@ -2086,9 +2086,9 @@
   "parent_cloud_debt_explainer_title": "%1$d väntar på insättningar från supporters",
   "parent_cloud_debt_explainer_subtitle": "%1$d har fått ett riktigt konto, och supporters kan nu sätta in riktiga pengar. Gimi håller koll på hur mycket pengar som ska sättas in!",
   "kid_cloud_debt_explainer_remind_button": "Påminn dom!",
-  "card_on_its_way_activate": "PLZ_CHECK Your card is on its way! Did it arrive already?",
-  "general_activate_it": "PLZ_CHECK Activate it!",
-  "test_debitcard_charge_popover_title": "PLZ_CHECK We will make a test charge of 1kr...",
-  "test_debitcard_charge_popover_text": "PLZ_CHECK ...to confirm that the card is valid. But won't charge anything! The money will be returned as a chargeback.",
-  "no_gimi_children_in_phone_contacts": "PLZ_CHECK No Gimi children in your contacts 😞"
+  "card_on_its_way_activate": "Ditt kort är på väg! Har det kommit än?",
+  "general_activate_it": "Aktivera kortet!",
+  "test_debitcard_charge_popover_title": "Vi kommer att dra 1kr...",
+  "test_debitcard_charge_popover_text": "...bara för att kontrollera att kortuppgifterna stämmer. Men du får snart tillbaka pengarna!",
+  "no_gimi_children_in_phone_contacts": "Inga Gimi-barn bland dina kontakter contacts 😞"
 }
