@@ -2086,8 +2086,8 @@
   "parent_cloud_debt_explainer_title": "Supporters still owe %1$d",
   "parent_cloud_debt_explainer_subtitle": "%1$d got a real money account, and supporters can now deposit real money. Gimi keeps track of how much is waiting to be deposited!",
   "kid_cloud_debt_explainer_remind_button": "Remind them!",
-  "card_on_its_way_activate": "Your card is on its way! Did it arrive already?",
+  "card_on_its_way_activate": "Your card is on its way! Has it arrived already?",
   "general_activate_it": "Activate it!",
-  "test_debitcard_charge_popover_title": "We will make a test charge of 1kr...",
-  "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But won't charge anything! The money will be returned as a chargeback."
+  "test_debitcard_charge_popover_title": "We will make a authorisation charge of 1kr...",
+  "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But we won't charge you anything! The money will be returned as a chargeback."
 }
