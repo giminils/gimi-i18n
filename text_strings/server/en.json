@@ -458,12 +458,12 @@
   "push_add_chores": "{child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "You have a chore to do today!",
   "event_add_deposit_to_savings": "Time to boost savings for {child.nickname}?",
-  "push_pfs_payday": "It's payday for your children",
   "event_send_invite_reminder": "Your invite has not been accepted. Send a reminder!",
   "ADPRON016_notification_title": "You're on the waitlist for the Gimi card, and we're finally taking orders!",
   "ADPRON016_push_title": "You're next on the Gimi card waitlist! Get yours now!",
   "ADGEON017_notification_title": "Connect with a child!",
   "event_chore_was_approved": "{user.nickname} approved {task.title}",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} has completed {assignment.task.title}!",
-  "event_child_has_completed_a_chore": "{child.nickname} completed {task.title}"
+  "event_child_has_completed_a_chore": "{child.nickname} completed {task.title}",
+  "push_pfs_payday": "It's payday! 💫 Transfer money to your children"
 }
