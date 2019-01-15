@@ -2097,5 +2097,15 @@
   "price_test_popover_desc": "Gimi-kortet är inte lanserat än... men vi kan skriva upp dig på väntelistan! Det är inte bindande och du blir den första att veta när kortet lanseras!",
   "confirmation_waitlist": "PLZ_CHECK You are on the waitlist!",
   "intercom_stolen_card_initial_message": "PLZ_CHECK Help! My card has been stolen!",
-  "intercom_lost_card_initial_message": "PLZ_CHECK Help! My card has been lost!"
+  "intercom_lost_card_initial_message": "PLZ_CHECK Help! My card has been lost!",
+  "setup_kid_upgrade_premium_title": "PLZ_CHECK Real money or tracker?",
+  "setup_kid_upgrade_premium_subtitle": "PLZ_CHECK You can always upgrade later",
+  "price_sku": "PLZ_CHECK %1$d/%2$d",
+  "general_free": "PLZ_CHECK Free",
+  "gimi_premium": "PLZ_CHECK Gimi Premium",
+  "gimi_tracker": "PLZ_CHECK Gimi Tracker",
+  "setup_kid_premium_subtitle": "PLZ_CHECK When your child is ready to handle real money, get them a card and savings account.",
+  "setup_kid_premium_recommended_age": "PLZ_CHECK Recommended for ages 9+",
+  "setup_kid_tracker_subtitle": "PLZ_CHECK Let your child practice money before they start using real money.",
+  "setup_kid_tracker_recommended_age": "PLZ_CHECK Recommended for ages 6+"
 }

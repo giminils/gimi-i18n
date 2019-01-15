@@ -2097,5 +2097,15 @@
   "price_test_popover_desc": "PLZ_TRANSLATE The card is not launched yet… but we can put you on the waitlist, so you’ll be the first one to know when it’s live!",
   "confirmation_waitlist": "PLZ_TRANSLATE You are on the waitlist!",
   "intercom_stolen_card_initial_message": "PLZ_TRANSLATE Help! My card has been stolen!",
-  "intercom_lost_card_initial_message": "PLZ_TRANSLATE Help! My card has been lost!"
+  "intercom_lost_card_initial_message": "PLZ_TRANSLATE Help! My card has been lost!",
+  "setup_kid_upgrade_premium_title": "PLZ_TRANSLATE Real money or tracker?",
+  "setup_kid_upgrade_premium_subtitle": "PLZ_TRANSLATE You can always upgrade later",
+  "price_sku": "PLZ_TRANSLATE %1$d/%2$d",
+  "general_free": "PLZ_TRANSLATE Free",
+  "gimi_premium": "PLZ_TRANSLATE Gimi Premium",
+  "gimi_tracker": "PLZ_TRANSLATE Gimi Tracker",
+  "setup_kid_premium_subtitle": "PLZ_TRANSLATE When your child is ready to handle real money, get them a card and savings account.",
+  "setup_kid_premium_recommended_age": "PLZ_TRANSLATE Recommended for ages 9+",
+  "setup_kid_tracker_subtitle": "PLZ_TRANSLATE Let your child practice money before they start using real money.",
+  "setup_kid_tracker_recommended_age": "PLZ_TRANSLATE Recommended for ages 6+"
 }
