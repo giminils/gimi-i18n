@@ -2094,5 +2094,6 @@
   "cloud_deduct_more_than_balance_popover_title": "You cannot deduct more than what's in the account",
   "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in Savings. Just like with a real account, one cannot spend more than one has!",
   "price_test_popover_title": "Hey early bird! Wanna get on the waitlist?",
-  "price_test_popover_desc": "The card is not launched yet… but we can put you on the waitlist! It's not binding, and you’ll be the first one to know when the card is live!"
+  "price_test_popover_desc": "The card is not launched yet… but we can put you on the waitlist! It's not binding, and you’ll be the first one to know when the card is live!",
+  "confirmation_waitlist": "You are on the waitlist!"
 }

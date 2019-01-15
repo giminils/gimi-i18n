@@ -2094,5 +2094,6 @@
   "cloud_deduct_more_than_balance_popover_title": "Du kan inte dra av mer än vad som finns på kontot!",
   "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in the account, so you can't deduct more than that!",
   "price_test_popover_title": "Vill du skriva upp dig på väntelistan?",
-  "price_test_popover_desc": "Gimi-kortet är inte lanserat än... men vi kan skriva upp dig på väntelistan! Det är inte bindande och du blir den första att veta när kortet lanseras!"
+  "price_test_popover_desc": "Gimi-kortet är inte lanserat än... men vi kan skriva upp dig på väntelistan! Det är inte bindande och du blir den första att veta när kortet lanseras!",
+  "confirmation_waitlist": "PLZ_CHECK You are on the waitlist!"
 }
