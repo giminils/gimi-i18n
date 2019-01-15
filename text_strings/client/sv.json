@@ -2076,7 +2076,7 @@
   "kid_connect_with_qr_instead_button": "Koppla ihop med QR-kod",
   "parent_education_feature_custom_notification": "Lär dina barn tjäna, spara och spendera med Gimi!",
   "pfs_acquirer_error_title": "Åh nej... något gick fel",
-  "pfs_acquirer_error_check_card_details": "PLZ_CHECK Sure you saved the right card details? Make sure they are correct!",
+  "pfs_acquirer_error_check_card_details": "Säker på att du lagt in rätt kort-uppgifter? Dubbelkolla så att de stämmer!",
   "pfs_acquirer_error_check_card_details_action_button": "Inställningar",
   "pfs_acquirer_error_try_again": "...eller försök igen om en stund, förhoppningsvis så funkar allt snart!",
   "general_play_video": "Spela",
@@ -2091,8 +2091,8 @@
   "test_debitcard_charge_popover_title": "Vi kommer att dra 1kr...",
   "test_debitcard_charge_popover_text": "...bara för att kontrollera att kortuppgifterna stämmer. Men du får snart tillbaka pengarna!",
   "no_gimi_children_in_phone_contacts": "Inga Gimi-barn bland dina kontakter contacts 😞",
-  "cloud_deduct_more_than_balance_popover_title": "PLZ_CHECK You cannot deduct more than what's in the account",
-  "cloud_deduct_more_than_balance_popover_text": "PLZ_CHECK %1$d only has %2$d in the account, so you can't deduct more than that!",
-  "price_test_popover_title": "PLZ_CHECK Hey early bird! Wanna get on the waitlist?",
-  "price_test_popover_desc": "PLZ_CHECK The card is not launched yet… but we can put you on the waitlist, so you’ll be the first one to know when it’s live!"
+  "cloud_deduct_more_than_balance_popover_title": "Du kan inte dra av mer än vad som finns på kontot!",
+  "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in the account, so you can't deduct more than that!",
+  "price_test_popover_title": "Vill du skriva upp dig på väntelistan?",
+  "price_test_popover_desc": "Gimi-kortet är inte lanserat än... men vi kan skriva upp dig på väntelistan! Det är inte bindande och du blir den första att veta när kortet lanseras!"
 }
