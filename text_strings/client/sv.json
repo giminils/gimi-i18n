@@ -2107,5 +2107,8 @@
   "setup_kid_premium_subtitle": "PLZ_CHECK When your child is ready to handle real money, get them a card and savings account.",
   "setup_kid_premium_recommended_age": "PLZ_CHECK Recommended for ages 9+",
   "setup_kid_tracker_subtitle": "PLZ_CHECK Let your child practice money before they start using real money.",
-  "setup_kid_tracker_recommended_age": "PLZ_CHECK Recommended for ages 6+"
+  "setup_kid_tracker_recommended_age": "PLZ_CHECK Recommended for ages 6+",
+  "auto_approve_after_time": "PLZ_CHECK Auto-approve after 12h",
+  "auto_approve_chore_popover_title": "PLZ_CHECK Sure you want to auto-approve?",
+  "auto_approve_chore_popover_text": "PLZ_CHECK This chore will be automatically approved 12 hours after completion. You can’t undo approved chores."
 }
