@@ -2095,5 +2095,7 @@
   "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in the account, so you can't deduct more than that!",
   "price_test_popover_title": "Vill du skriva upp dig på väntelistan?",
   "price_test_popover_desc": "Gimi-kortet är inte lanserat än... men vi kan skriva upp dig på väntelistan! Det är inte bindande och du blir den första att veta när kortet lanseras!",
-  "confirmation_waitlist": "PLZ_CHECK You are on the waitlist!"
+  "confirmation_waitlist": "PLZ_CHECK You are on the waitlist!",
+  "intercom_stolen_card_initial_message": "PLZ_CHECK Help! My card has been stolen!",
+  "intercom_lost_card_initial_message": "PLZ_CHECK Help! My card has been lost!"
 }

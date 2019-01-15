@@ -2095,5 +2095,7 @@
   "cloud_deduct_more_than_balance_popover_text": "PLZ_TRANSLATE %1$d only has %2$d in the account, so you can't deduct more than that!",
   "price_test_popover_title": "PLZ_TRANSLATE Hey early bird! Wanna get on the waitlist?",
   "price_test_popover_desc": "PLZ_TRANSLATE The card is not launched yet… but we can put you on the waitlist, so you’ll be the first one to know when it’s live!",
-  "confirmation_waitlist": "PLZ_TRANSLATE You are on the waitlist!"
+  "confirmation_waitlist": "PLZ_TRANSLATE You are on the waitlist!",
+  "intercom_stolen_card_initial_message": "PLZ_TRANSLATE Help! My card has been stolen!",
+  "intercom_lost_card_initial_message": "PLZ_TRANSLATE Help! My card has been lost!"
 }
