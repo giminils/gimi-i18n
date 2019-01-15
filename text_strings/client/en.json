@@ -2092,7 +2092,7 @@
   "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But we won't charge you anything! The money will be returned as a chargeback.",
   "no_gimi_children_in_phone_contacts": "No Gimi children in your contacts 😞",
   "cloud_deduct_more_than_balance_popover_title": "You cannot deduct more than what's in the account",
-  "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in the account, so you can't deduct more than that!",
+  "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in Savings. Just like with a real account, one cannot spend more than one has!",
   "price_test_popover_title": "Hey early bird! Wanna get on the waitlist?",
-  "price_test_popover_desc": "The card is not launched yet… but we can put you on the waitlist, so you’ll be the first one to know when it’s live!"
+  "price_test_popover_desc": "The card is not launched yet… but we can put you on the waitlist! It's not binding, and you’ll be the first one to know when the card is live!"
 }
