@@ -465,5 +465,7 @@
   "event_chore_was_approved": "{user.nickname} godtok {task.title}",
   "push_child_has_completed_a_chore": "{assignment.child.nickname} har fullført {assignment.task.title}!",
   "event_child_has_completed_a_chore": "{child.nickname} fullførte {task.title}",
-  "push_pfs_payday": "Tid for betaling! 💫 Overfør penger til dine barn"
+  "push_pfs_payday": "Tid for betaling! 💫 Overfør penger til dine barn",
+  "ADGERE037_notification_title": "PLZ_TRANSLATE {child.nickname} disconnected from you",
+  "push_child_disconnected_you": "PLZ_TRANSLATE {child.nickname} disconnected from you"
 }
