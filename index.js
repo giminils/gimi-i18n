@@ -1,5 +1,5 @@
 // @flow
-import {leaveBreadcrumb} from './Bugsnag'
+
 // client
 import sv from './text_strings/client/sv.json'
 import en from './text_strings/client/en.json'
@@ -199,10 +199,8 @@ export function getText (langKey: *, values?: Array<*>, textTransform?: string =
   if (!text) return ''
   text = removeTranslationHelpers(text)
   text = text.trim()
-  if (values && !values.isArray())
-    leaveBreadcrumb(`I18N text values error ${values}`)
 
-  if (!!values && values.isArray()) values.forEach((item, index) => {
+  if (!!values && Array.isArray(values)) values.forEach((item, index) => {
     text = text.split(`%${index + 1}$d`).join(item)
   })
   if (textTransform)
