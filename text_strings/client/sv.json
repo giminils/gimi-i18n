@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d har accepterat din inbjudan!",
   "accepted_invite_setup_flow_description": "sätt upp vecko- eller månadspeng åt %1$d.",
   "recommended_chore_package": "rekommenderat uppgiftspaket",
-  "accepted_invite_setup_flow_done_description": "Klart! Du har satt upp inställningarna åt ditt barn. ",
+  "accepted_invite_setup_flow_done_description": "PLZ_CHECK Done! You have completed the settings for %1$d.",
   "delete_task": "radera uppgift",
   "popular_chore_package": "populära uppgiftspaket",
   "edit_interest": "ändra ränta",

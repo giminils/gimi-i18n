@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d heeft je uitnodiging geaccepteerd!",
   "accepted_invite_setup_flow_description": "zakgeld instellen voor %1$d",
   "recommended_chore_package": "aanbevolen klusjes pakket",
-  "accepted_invite_setup_flow_done_description": "Klaar! Je hebt de instellingen voor het kind voltooid.",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "verwijder klusje",
   "popular_chore_package": "populaire klusjes pakket",
   "edit_interest": "wijzig rentepercentage",

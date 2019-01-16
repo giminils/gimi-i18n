@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d a accepté votre invitation!",
   "accepted_invite_setup_flow_description": "configurer l'argent de poche pour %1$d.",
   "recommended_chore_package": "ensemble de tâches suggérées",
-  "accepted_invite_setup_flow_done_description": "Et voilà! Vous avez fini les réglages pour l'enfant.",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "supprimer une tâche",
   "popular_chore_package": "ensemble de tâches à la mode",
   "edit_interest": "changer le taux d'intérêt",

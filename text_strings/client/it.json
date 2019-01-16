@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d ha accettato il tuo invito!",
   "accepted_invite_setup_flow_description": "imposta una paghetta per %1$d.",
   "recommended_chore_package": "insieme di faccende consigliato",
-  "accepted_invite_setup_flow_done_description": "Fatto! Hai completato le impostazioni per il bambino. ",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "cancella faccenda",
   "popular_chore_package": "insieme di faccende popolari",
   "edit_interest": "cambia tasso d'interessi",

@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d hyväksyi kutsusi!",
   "accepted_invite_setup_flow_description": "aseta taskuraha käyttäjälle %1$d.",
   "recommended_chore_package": "suositeltu askaresetti",
-  "accepted_invite_setup_flow_done_description": "Tehty! Kaikki tämän lapsen asetukset ovat kunnossa. ",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "poista askare",
   "popular_chore_package": "suosittu askarepaketti",
   "edit_interest": "muuta korkoa",

@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d har accepteret din invitation!",
   "accepted_invite_setup_flow_description": "opret lommepege for %1$d.",
   "recommended_chore_package": "anbefalet opgavesamling",
-  "accepted_invite_setup_flow_done_description": "Færdig! Du har færdiggjort indstillingerne for barnet. ",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "slet opgave",
   "popular_chore_package": "populære opgavesamlinger",
   "edit_interest": "ændr rentesatsen",

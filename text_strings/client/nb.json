@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d har akseptert din invitasjon!",
   "accepted_invite_setup_flow_description": "sett opp uke- eller månedspenger til %1$d.",
   "recommended_chore_package": "anbefalt oppgavesamling",
-  "accepted_invite_setup_flow_done_description": "Ferdig! Du har satt opp innstillingene til ditt barn. ",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "slett oppgave",
   "popular_chore_package": "populære oppgavesamlinger",
   "edit_interest": "endre rente",

@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d hat Deine Einladung erhalten!",
   "accepted_invite_setup_flow_description": "Setze Taschengeld für %1$d an.",
   "recommended_chore_package": "Empfohlenes Aufgaben-Paket",
-  "accepted_invite_setup_flow_done_description": "Geschafft! Du hast die Einstellungen für Dein Kind fertiggestellt.",
+  "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "Aufgabe löschen",
   "popular_chore_package": "beliebtes Aufgaben-Paket",
   "edit_interest": "Ändere die Zinsrate",

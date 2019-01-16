@@ -564,7 +564,7 @@
   "name_accepted_your_invite": "%1$d has accepted your invite!",
   "accepted_invite_setup_flow_description": "set up allowance for %1$d.",
   "recommended_chore_package": "recommended chore package",
-  "accepted_invite_setup_flow_done_description": "Done! You have completed the settings for the child. ",
+  "accepted_invite_setup_flow_done_description": "Done! You have completed the settings for %1$d.",
   "delete_task": "delete chore",
   "popular_chore_package": "popular chore package",
   "edit_interest": "change interest rate",
