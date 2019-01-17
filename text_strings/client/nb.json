@@ -2110,5 +2110,7 @@
   "setup_kid_tracker_recommended_age": "Anbefales for aldre 6+",
   "auto_approve_after_time": "Automatisk godkjenning etter 12 timer",
   "auto_approve_chore_popover_title": "Sikker på at du vil godkjenne automatisk?",
-  "auto_approve_chore_popover_text": "Denne oppgaven godkjennes automatisk 12 timer etter den er ferdig. Du kan ikke angre godkjente oppgaver."
+  "auto_approve_chore_popover_text": "Denne oppgaven godkjennes automatisk 12 timer etter den er ferdig. Du kan ikke angre godkjente oppgaver.",
+  "cant_change_premium_currency_popover_title": "PLZ_TRANSLATE You can’t change the currency",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE Because you have at least one connection with a real account and real money, that cannot change currency."
 }
