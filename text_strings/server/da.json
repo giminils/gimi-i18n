@@ -467,5 +467,6 @@
   "event_child_has_completed_a_chore": "PLZ_TRANSLATE {child.nickname} completed {task.title}",
   "push_pfs_payday": "PLZ_TRANSLATE It's payday! 💫 Transfer money to your children",
   "ADGERE037_notification_title": "PLZ_TRANSLATE {child.nickname} disconnected from you",
-  "push_child_disconnected_you": "PLZ_TRANSLATE {child.nickname} disconnected from you"
+  "push_child_disconnected_you": "PLZ_TRANSLATE {child.nickname} disconnected from you",
+  "ADGEPU010_push_title": "PLZ_TRANSLATE We've got some great news for you!"
 }
