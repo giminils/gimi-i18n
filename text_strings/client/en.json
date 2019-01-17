@@ -1319,7 +1319,7 @@
   "snooze_payout_singluar_text": "Your child is expecting their Payday money!",
   "snooze_payout_plural_text": "Your children are expecting their Payday money!",
   "general_sure": "Sure",
-  "payout_loading_text": "Loading...",
+  "payout_loading_text": "PLZ_COPY You're temporarily leaving the Gimi app to add your card details...",
   "why_phone_number": "Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family.",
   "general_the_card": "The card",
   "general_the_savings_account": "The account",
