@@ -2098,7 +2098,7 @@
   "confirmation_waitlist": "You are on the waitlist!",
   "intercom_stolen_card_initial_message": "Help! My card has been stolen!",
   "intercom_lost_card_initial_message": "Help! My card has been lost!",
-  "setup_kid_upgrade_premium_title": "Real money or tracker?",
+  "setup_kid_upgrade_premium_title": "Do you want to use Gimi with real money?",
   "setup_kid_upgrade_premium_subtitle": "You can always upgrade later",
   "price_sku": "%1$d/%2$d",
   "general_free": "Free",
