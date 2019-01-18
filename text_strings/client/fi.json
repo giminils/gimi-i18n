@@ -2119,5 +2119,6 @@
   "waitlist_add_me_button": "PLZ_TRANSLATE Add me to the waitlist!",
   "waitlist_confirmation_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card!",
   "waitlist_confirmation_subtitle": "PLZ_TRANSLATE You'll be the first on to know when we launch. Your number on the waitlist:",
-  "waitlist_already_on_button": "PLZ_TRANSLATE You're on the Gimi card waitlist!"
+  "waitlist_already_on_button": "PLZ_TRANSLATE You're on the Gimi card waitlist!",
+  "updated_pfs_transaction": "PLZ_TRANSLATE Yay! Transaction updated"
 }
