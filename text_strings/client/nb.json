@@ -2112,5 +2112,12 @@
   "auto_approve_chore_popover_title": "Sikker på at du vil godkjenne automatisk?",
   "auto_approve_chore_popover_text": "Denne oppgaven godkjennes automatisk 12 timer etter den er ferdig. Du kan ikke angre godkjente oppgaver.",
   "cant_change_premium_currency_popover_title": "PLZ_TRANSLATE You can’t change the currency",
-  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE Because you have at least one connection with a real account and real money, that cannot change currency."
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE Because you have at least one connection with a real account and real money, that cannot change currency.",
+  "get_on_waitlist_removable_button_parent_settings": "PLZ_TRANSLATE Get on the waitlist for the Gimi card",
+  "waitlist_container_title": "PLZ_TRANSLATE The Gimi card is coming soon!",
+  "waitlist_container_subtitle": "PLZ_TRANSLATE A card desgined for children and their families. Get on the waitlist to be the first one to get access!",
+  "waitlist_add_me_button": "PLZ_TRANSLATE Add me to the waitlist!",
+  "waitlist_confirmation_title": "PLZ_TRANSLATE You're on the waitlist for the Gimi card!",
+  "waitlist_confirmation_subtitle": "PLZ_TRANSLATE You'll be the first on to know when we launch. Your number on the waitlist:",
+  "waitlist_already_on_button": "PLZ_TRANSLATE You're on the Gimi card waitlist!"
 }
