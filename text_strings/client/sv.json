@@ -2120,5 +2120,8 @@
   "waitlist_confirmation_title": "Du är på väntelistan till Gimi-kortet!",
   "waitlist_confirmation_subtitle": "Du blir den första att få veta när vi lanserar. Ditt nummer på väntelistan:",
   "waitlist_already_on_button": "Du är på väntelistan till Gimi-kortet!",
-  "updated_pfs_transaction": "Transaktion uppdaterad!"
+  "updated_pfs_transaction": "Transaktion uppdaterad!",
+  "need_to_change_currency_for_premium_popover_title": "PLZ_CHECK You'll need to change currency…",
+  "need_to_change_currency_for_premium_popover_text": "PLZ_CHECK You can't upgrade to premium because of your currency. Currently, Gimi Premium only supports SEK.",
+  "need_to_change_currency_for_premium_popover_change_button": "PLZ_CHECK Change"
 }
