@@ -2101,6 +2101,7 @@
   "setup_kid_upgrade_premium_title": "Vill du använda Gimi med riktiga pengar?",
   "setup_kid_upgrade_premium_subtitle": "Du kan alltid uppgradera sen",
   "price_sku": "PLZ_CHECK %1$d/%2$d",
+  "test_price_month": "PLZ_CHECK 79kr/månad",
   "general_free": "Gratis",
   "gimi_premium": "Gimi Premium",
   "gimi_tracker": "Gimi Tracker",

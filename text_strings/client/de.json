@@ -2101,6 +2101,7 @@
   "setup_kid_upgrade_premium_title": "PLZ_TRANSLATE Real money or tracker?",
   "setup_kid_upgrade_premium_subtitle": "PLZ_TRANSLATE You can always upgrade later",
   "price_sku": "PLZ_TRANSLATE %1$d/%2$d",
+  "test_price_month": "PLZ_TRANSLATE 79kr/månad",
   "general_free": "PLZ_TRANSLATE Free",
   "gimi_premium": "PLZ_TRANSLATE Gimi Premium",
   "gimi_tracker": "PLZ_TRANSLATE Gimi Tracker",
