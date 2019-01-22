@@ -2123,5 +2123,6 @@
   "updated_pfs_transaction": "Transaktion uppdaterad!",
   "need_to_change_currency_for_premium_popover_title": "PLZ_CHECK You'll need to change currency…",
   "need_to_change_currency_for_premium_popover_text": "PLZ_CHECK You can't upgrade to premium because of your currency. Currently, Gimi Premium only supports SEK.",
-  "need_to_change_currency_for_premium_popover_change_button": "PLZ_CHECK Change"
+  "need_to_change_currency_for_premium_popover_change_button": "PLZ_CHECK Change",
+  "pfs_transaction_error": "PLZ_CHECK Just a temporary problem showing your transactions. Check back soon!"
 }
