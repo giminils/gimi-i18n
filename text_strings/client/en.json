@@ -2130,5 +2130,8 @@
   "pfs_transaction_error": "Just a temporary problem showing your transactions. Check back soon!",
   "not_authed_transaction_message": "This is a preliminary transaction. The merchant has not yet deducted money from your account.",
   "local_push_create_account": "Gimi here... waiting for you👋",
-  "who_owes_name_parent": "Who owes %1$d"
+  "who_owes_name_parent": "Who owes %1$d",
+  "cloud_debt_balance_title": "Account balance",
+  "cloud_debt_balance_subtitle": "before premium upgrade",
+  "cloud_debt_remove_information_page": "When the debt has been settled, you can remove this information page"
 }
