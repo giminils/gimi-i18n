@@ -1912,7 +1912,7 @@
   "premium_payday_transfer_warning": "Du kan inte ändra beloppet när du tryckt OK nedan!",
   "gimi_beta_active_custom_note": "Välkommern till Gimi Beta! Beställ ett Gimi-kort nu.",
   "parent_custom_note_feature_autumn_chores": "Här är inspiration för vinterns uppgifter",
-  "kid_custom_note_feature_bot": "Hej! Vill du chatta?",
+  "kid_custom_note_feature_bot": "Hitta mig i appen för att chatta!",
   "card_is_on_its_way_takeover_title": "Gimi-kortet är påväg!",
   "card_is_on_its_way_takeover_subtitle": "Det tar några dagar. Vi skickar en beställning till kort-fabriken, de trycker ditt namn på kortet, och skickar ett paket med snigel-post.",
   "identity_verified_confirmation_message": "Identitet verifierad!",
@@ -2124,9 +2124,9 @@
   "waitlist_confirmation_subtitle": "Du blir den första att få veta när vi lanserar. Ditt nummer på väntelistan:",
   "waitlist_already_on_button": "Du är på väntelistan till Gimi-kortet!",
   "updated_pfs_transaction": "Transaktion uppdaterad!",
-  "need_to_change_currency_for_premium_popover_title": "PLZ_CHECK You'll need to change currency…",
-  "need_to_change_currency_for_premium_popover_text": "PLZ_CHECK You can't upgrade to premium because of your currency. Currently, Gimi Premium only supports SEK.",
-  "need_to_change_currency_for_premium_popover_change_button": "PLZ_CHECK Change",
-  "pfs_transaction_error": "PLZ_CHECK Just a temporary problem showing your transactions. Check back soon!",
-  "not_authed_transaction_message": "PLZ_CHECK This is a preliminary transaction. The merchant has not yet deducted money from your account."
+  "need_to_change_currency_for_premium_popover_title": "Du måste byta valuta…",
+  "need_to_change_currency_for_premium_popover_text": "Du kan inte uppgradera till Premium på grund av dni valuta. Gimi Premium har för tillfället bara stöd för SEK.",
+  "need_to_change_currency_for_premium_popover_change_button": "Ändra",
+  "pfs_transaction_error": "Bara ett tillfälligt problem med att visa dina transaktioner. Kolla in här snart igen!",
+  "not_authed_transaction_message": "Det här är en preliminär transaktion. Butiken har inte dragit några pengar från ditt kort än."
 }
