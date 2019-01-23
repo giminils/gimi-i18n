@@ -2098,6 +2098,8 @@
   "confirmation_waitlist": "Du er på ventelisten!",
   "intercom_stolen_card_initial_message": "Hjelp! Kortet mitt er blitt stjålet!",
   "intercom_lost_card_initial_message": "Hjelp! Jeg har mistet kortet mitt!",
+  "parent_intercom_stolen_card_initial_message": "PLZ_TRANSLATE Help! %1$d has a Gimi card that's been stolen!",
+  "parent_intercom_lost_card_initial_message": "PLZ_TRANSLATE Help! %1$d lost the Gimi card!",
   "setup_kid_upgrade_premium_title": "Ekte penger eller sporing?",
   "setup_kid_upgrade_premium_subtitle": "Du kan alltid oppgradere senere",
   "price_sku": "%1$d/%2$d",
