@@ -2129,5 +2129,6 @@
   "need_to_change_currency_for_premium_popover_change_button": "Ändra",
   "pfs_transaction_error": "Bara ett tillfälligt problem med att visa dina transaktioner. Kolla in här snart igen!",
   "not_authed_transaction_message": "Det här är en preliminär transaktion. Butiken har inte dragit några pengar från ditt kort än.",
-  "local_push_create_account": "PLZ_CHECK Gimi here... waiting for you👋"
+  "local_push_create_account": "PLZ_CHECK Gimi here... waiting for you👋",
+  "who_owes_name_parent": "PLZ_CHECK Who owes %1$d"
 }
