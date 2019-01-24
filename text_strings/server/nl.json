@@ -468,5 +468,7 @@
   "push_pfs_payday": "Het is payday! 💫 Maak geld over naar je kinderen",
   "ADGERE037_notification_title": "{child.nickname} is niet meer met je verbonden",
   "push_child_disconnected_you": "{child.nickname} is niet meer met je verbonden",
-  "ADGEPU010_push_title": "We hebben geweldig nieuws voor je!"
+  "ADGEPU010_push_title": "We hebben geweldig nieuws voor je!",
+  "ADPRRE029_notification_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!",
+  "ADPRRE029_push_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!"
 }

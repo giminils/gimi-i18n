@@ -468,5 +468,7 @@
   "push_pfs_payday": "Det er payday! 💫 Overfør penge til dine børn",
   "ADGERE037_notification_title": "{child.nickname} disconnected from you",
   "push_child_disconnected_you": "{child.nickname} har afbrudt sin forbindelse til dig",
-  "ADGEPU010_push_title": "Vi har gode nyheder til dig!"
+  "ADGEPU010_push_title": "Vi har gode nyheder til dig!",
+  "ADPRRE029_notification_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!",
+  "ADPRRE029_push_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!"
 }
