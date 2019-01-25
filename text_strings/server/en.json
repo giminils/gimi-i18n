@@ -470,5 +470,6 @@
   "push_child_disconnected_you": "{child.nickname} disconnected from you",
   "ADGEPU010_push_title": "We've got some great news for you!",
   "ADPRRE029_notification_title": "Reminder from {child.nickname} to deposit money!",
-  "ADPRRE029_push_title": "Reminder from {child.nickname} to deposit money!"
+  "ADPRRE029_push_title": "Reminder from {child.nickname} to deposit money!",
+  "ADPRRE008_push_title": "{parent.nickname} is requesting permission to deposit to {child.nickname}"
 }

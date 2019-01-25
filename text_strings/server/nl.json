@@ -470,5 +470,6 @@
   "push_child_disconnected_you": "{child.nickname} is niet meer met je verbonden",
   "ADGEPU010_push_title": "We hebben geweldig nieuws voor je!",
   "ADPRRE029_notification_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!",
-  "ADPRRE029_push_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!"
+  "ADPRRE029_push_title": "PLZ_TRANSLATE Reminder from {child.nickname} to deposit money!",
+  "ADPRRE008_push_title": "PLZ_TRANSLATE {parent.nickname} is requesting permission to deposit to {child.nickname}"
 }
