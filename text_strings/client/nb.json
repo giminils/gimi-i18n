@@ -2133,5 +2133,6 @@
   "who_owes_name_parent": "PLZ_TRANSLATE Who owes %1$d",
   "cloud_debt_balance_title": "PLZ_TRANSLATE Account balance",
   "cloud_debt_balance_subtitle": "PLZ_TRANSLATE before premium upgrade",
-  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When the debt has been settled, you can remove this information page"
+  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When the debt has been settled, you can remove this information page",
+  "empty_contacts_section_text": "PLZ_TRANSLATE Can't show your contacts..."
 }

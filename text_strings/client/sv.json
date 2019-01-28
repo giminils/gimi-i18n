@@ -2133,5 +2133,6 @@
   "who_owes_name_parent": "PLZ_CHECK Who owes %1$d",
   "cloud_debt_balance_title": "PLZ_CHECK Account balance",
   "cloud_debt_balance_subtitle": "PLZ_CHECK before premium upgrade",
-  "cloud_debt_remove_information_page": "PLZ_CHECK When the debt has been settled, you can remove this information page"
+  "cloud_debt_remove_information_page": "PLZ_CHECK When the debt has been settled, you can remove this information page",
+  "empty_contacts_section_text": "PLZ_CHECK Can't show your contacts..."
 }
