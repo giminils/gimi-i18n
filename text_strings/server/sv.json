@@ -481,5 +481,6 @@
   "ADPRPU004_push_title": "PLZ_CHECK You have not paid the premium subscription",
   "CHGEON005_push_title": "PLZ_CHECK Your Gimi account has been deleted. Welcome back anytime!",
   "ADGERE015_notification_title": "PLZ_CHECK {child.nickname} has a new connection",
-  "CHGERE017_notification_title": "PLZ_CHECK Your invitation was rejected. Invite someone else?"
+  "CHGERE017_notification_title": "PLZ_CHECK Your invitation was rejected. Invite someone else?",
+  "ADGERE016_notification_title": "PLZ_CHECK Your invitation was rejected. Invite someone else?"
 }
