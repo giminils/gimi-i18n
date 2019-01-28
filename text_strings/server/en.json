@@ -479,5 +479,6 @@
   "ADPRRE027_push_title": "{child.nickname} spent more money than was on the card...",
   "ADPRRE011_push_title": "Reminder to pay premium subscription",
   "ADPRPU004_push_title": "You have not paid the premium subscription",
-  "CHGEON005_push_title": "Your Gimi account has been deleted. Welcome back anytime!"
+  "CHGEON005_push_title": "Your Gimi account has been deleted. Welcome back anytime!",
+  "ADGERE015_notification_title": "{child.nickname} has a new connection"
 }
