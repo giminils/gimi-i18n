@@ -2134,5 +2134,8 @@
   "cloud_debt_balance_title": "PLZ_TRANSLATE Account balance",
   "cloud_debt_balance_subtitle": "PLZ_TRANSLATE before premium upgrade",
   "cloud_debt_remove_information_page": "PLZ_TRANSLATE When the debt has been settled, you can remove this information page",
-  "empty_contacts_section_text": "PLZ_TRANSLATE Can't show your contacts..."
+  "empty_contacts_section_text": "PLZ_TRANSLATE Can't show your contacts...",
+  "cant_access_card_info_without_passcode_err_title": "PLZ_TRANSLATE You haven't setup a passcode yet!",
+  "cant_access_card_info_without_passcode_err_text": "PLZ_TRANSLATE You need an app passcode to access sensitive card information like this! Set it up now!",
+  "cant_access_card_info_without_passcode_err_button": "PLZ_TRANSLATE Create passcode"
 }
