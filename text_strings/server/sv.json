@@ -473,5 +473,6 @@
   "ADPRRE029_push_title": "PLZ_CHECK Reminder from {child.nickname} to deposit money!",
   "ADPRRE008_push_title": "PLZ_CHECK {parent.nickname} is requesting permission to deposit to {child.nickname}",
   "ALGEON001_notification_title": "PLZ_CHECK Watch this short movie about Gimi!",
-  "CHGEON024_notification_title": "PLZ_CHECK Verify your email address!"
+  "CHGEON024_notification_title": "PLZ_CHECK Verify your email address!",
+  "CHGEON025_notification_title": "PLZ_CHECK Add your phone number!"
 }
