@@ -474,5 +474,6 @@
   "ADPRRE008_push_title": "{parent.nickname} is requesting permission to deposit to {child.nickname}",
   "ALGEON001_notification_title": "Watch this short movie about Gimi!",
   "CHGEON024_notification_title": "Verify your email address!",
-  "CHGEON025_notification_title": "Add your phone number!"
+  "CHGEON025_notification_title": "Add your phone number!",
+  "CHGERE031_push_title": "You have a chore to do today!"
 }
