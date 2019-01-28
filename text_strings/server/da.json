@@ -215,7 +215,7 @@
   "event_invitation_is_sent": "Invitationen er sendt",
   "event_you_are_connected_receiver": "Du er forbundet med {connection_token.created_by.nickname}",
   "event_you_are_connected_sender": "Du er forbundet med {connection_token.used_by.nickname}",
-  "event_you_have_got_an_invitation": "Du har fået en invitation fra {connection_token.created_by.nickname}",
+  "event_you_have_got_an_invitation": "Du har fået en invitation fra {connectiontoken.created_by.nickname}",
   "event_invitation_was_not_accepted": "Invitation blev ikke accepteret",
   "event_has_a_new_connection": "Har en ny forbindelse",
   "event_changed_to_weekly_allowance": "Ændret til ugentlige lommepenge",

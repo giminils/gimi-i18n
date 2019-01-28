@@ -215,7 +215,7 @@
   "event_invitation_is_sent": "Einladung wurde versendet",
   "event_you_are_connected_receiver": "Sie sind mit {connection_token.created_by.nickname} verbunden",
   "event_you_are_connected_sender": "Sie sind mit {connection_token.used_by.nickname} verbunden",
-  "event_you_have_got_an_invitation": "Du hast eine Einladung erhalten von {connection_token.created_by.nickname}",
+  "event_you_have_got_an_invitation": "Du hast eine Einladung erhalten von {connectiontoken.created_by.nickname}",
   "event_invitation_was_not_accepted": "Einladung wurde nicht angenommen",
   "event_has_a_new_connection": "Hat eine neue Verbindung",
   "event_changed_to_weekly_allowance": "Gewechselt zu wöchentliches Taschengeld",
