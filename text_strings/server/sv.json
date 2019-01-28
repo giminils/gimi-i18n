@@ -475,5 +475,6 @@
   "ALGEON001_notification_title": "PLZ_CHECK Watch this short movie about Gimi!",
   "CHGEON024_notification_title": "PLZ_CHECK Verify your email address!",
   "CHGEON025_notification_title": "PLZ_CHECK Add your phone number!",
-  "CHGERE031_push_title": "PLZ_CHECK You have a chore to do today!"
+  "CHGERE031_push_title": "PLZ_CHECK You have a chore to do today!",
+  "ADPRRE027_push_title": "PLZ_CHECK {child.nickname} spent more money than was on the card..."
 }
