@@ -2142,5 +2142,6 @@
   "kid_card_action_button_card": "Card details",
   "kid_card_action_button_cloud": "Save to account",
   "kid_card_action_button_pin": "View PIN",
-  "kid_card_action_button_settings": "Settings"
+  "kid_card_action_button_settings": "Settings",
+  "transfer_to_savings": "Transfer to savings"
 }

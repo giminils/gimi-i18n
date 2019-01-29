@@ -2142,5 +2142,6 @@
   "kid_card_action_button_card": "PLZ_TRANSLATE Card details",
   "kid_card_action_button_cloud": "PLZ_TRANSLATE Save to account",
   "kid_card_action_button_pin": "PLZ_TRANSLATE View PIN",
-  "kid_card_action_button_settings": "PLZ_TRANSLATE Settings"
+  "kid_card_action_button_settings": "PLZ_TRANSLATE Settings",
+  "transfer_to_savings": "PLZ_TRANSLATE Transfer to savings"
 }
