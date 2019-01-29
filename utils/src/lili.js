@@ -9,23 +9,19 @@ let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 let copyEn = []
 let removePLzCopy = (enTextFile): * => {
   enTextFile = enTextFile.replace(PLZ_COPY + ' ', '')
-  if (!enTextFile.includes(PLZ_COPY))
-    return enTextFile
-  else
-    return removePLzCopy(enTextFile)
+  if (!enTextFile.includes(PLZ_COPY)) return enTextFile
+  else return removePLzCopy(enTextFile)
 }
 let removeAndSave = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var langPath = getPath('en.json') // Edit here for what language to use
-
   var enTextFile = fs.readFileSync(langPath, {encoding: 'utf8'})
-
   enTextFile = removePLzCopy(enTextFile)
 
   fs.unlinkSync(langPath)
   fs.writeFileSync(langPath, enTextFile, {encoding: 'utf8'})
 }
-let RunLili = (filePath): * => {
+let runLili = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var langPath = getPath('en.json') // Edit here for what language to use
   var lang = fs.readFileSync(langPath, {encoding: 'utf8'})
@@ -82,5 +78,5 @@ let RunLili = (filePath): * => {
   fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
 }
 templateDirs.forEach((filePath) => {
-  RunLili(filePath)
+  runLili(filePath)
 })
