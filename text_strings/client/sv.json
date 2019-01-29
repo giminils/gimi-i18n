@@ -1554,7 +1554,7 @@
   "share_the_app_message": "Spana in denna app",
   "general_share_gimi": "Dela Gimi",
   "general_points": "poäng",
-  "money_settings": "Veckopeng, ränta & valuta",
+  "money_settings": "PLZ_CHECK Payday, allowance and interest",
   "kid_invite_parent": "Hallå där! Du behöver föräldrar här inne för att Gimi ska funka...",
   "delete_recurring_popover_title": "Är du säker på att du vill radera %1$d?",
   "delete_recurring_popover_text": "Detta innebär att du raderar den för alla dagar den är aktiv, samt alla redan godkända uppgifter. Pengarna i Payday som tidigare tjänats på denna uppgift kommer därmed dras bort. Om du bara vill ändra när den är tillgänglig, gå till inställningar för Uppgifter!",
