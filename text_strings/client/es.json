@@ -2100,7 +2100,7 @@
   "intercom_lost_card_initial_message": "PLZ_TRANSLATE Help! My card has been lost!",
   "parent_intercom_stolen_card_initial_message": "PLZ_TRANSLATE Help! %1$d has a Gimi card that's been stolen!",
   "parent_intercom_lost_card_initial_message": "PLZ_TRANSLATE Help! %1$d lost the Gimi card!",
-  "setup_kid_upgrade_premium_title": "PLZ_TRANSLATE Real money or tracker?",
+  "setup_kid_upgrade_premium_title": "PLZ_TRANSLATE What level is %1$d at?",
   "setup_kid_upgrade_premium_subtitle": "PLZ_TRANSLATE You can always upgrade later",
   "price_sku": "PLZ_TRANSLATE %1$d/%2$d",
   "test_price_month": "PLZ_TRANSLATE 79kr/månad",

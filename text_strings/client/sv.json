@@ -2100,7 +2100,7 @@
   "intercom_lost_card_initial_message": "Hjälp! Jag har tappat bort mitt kort!",
   "parent_intercom_stolen_card_initial_message": "Hjälp! %1$d har blivit av med sitt Gimi-kort!",
   "parent_intercom_lost_card_initial_message": "Hjälp! %1$d har tappar bort sitt Gimi-kort!",
-  "setup_kid_upgrade_premium_title": "Vill du använda Gimi med riktiga pengar?",
+  "setup_kid_upgrade_premium_title": "PLZ_CHECK What level is %1$d at?",
   "setup_kid_upgrade_premium_subtitle": "Du kan alltid uppgradera sen",
   "price_sku": " %1$d/%2$d",
   "test_price_month": "79kr/månad",
