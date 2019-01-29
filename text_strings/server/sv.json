@@ -251,7 +251,7 @@
   "event_share_your_cravings": "Dela dina cravings!",
   "event_happy_birthday": "Grattis på födelsedagen! 🎉",
   "push_you_have_a_new_connection": "Du har en ny kontakt!",
-  "push_you_have_got_an_invitation_to_connect": "Du har fått en inbjudan av {connection_token.created_by.nickname}",
+  "push_you_have_got_an_invitation_to_connect": "Du har fått en inbjudan av {connectiontoken.created_by.nickname}",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Du kommer att få en vecko- eller månadspeng. Kolla in hur mycket i appen!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} frågar om lov att redigera dina uppgifter",
   "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i Sparat.",

@@ -251,7 +251,7 @@
   "event_share_your_cravings": "Jaa mielitekosi",
   "event_happy_birthday": "Hyvää syntymäpäivää",
   "push_you_have_a_new_connection": "Sinulla on uusi yhteys! ",
-  "push_you_have_got_an_invitation_to_connect": "{connection_token.created_by.nickname} haluaisi kutsua sinut",
+  "push_you_have_got_an_invitation_to_connect": "{connectiontoken.created_by.nickname} haluaisi kutsua sinut",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Sinulle asetettiin taskuraha! Avaa sovellus ja katso!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} haluaisi muokata askareitasi",
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",

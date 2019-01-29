@@ -251,7 +251,7 @@
   "event_share_your_cravings": "PLZ_TRANSLATE Share your cravings",
   "event_happy_birthday": "PLZ_TRANSLATE Happy birthday",
   "push_you_have_a_new_connection": "PLZ_TRANSLATE You have a new connection! ",
-  "push_you_have_got_an_invitation_to_connect": "PLZ_TRANSLATE You have got an invitation from {connection_token.created_by.nickname} to connect",
+  "push_you_have_got_an_invitation_to_connect": "PLZ_TRANSLATE You have got an invitation from {connectiontoken.created_by.nickname} to connect",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "PLZ_TRANSLATE Allowance is set for you! Check it out in the app!",
   "push_parent_name_asks_permission_to_edit_your_chores": "PLZ_TRANSLATE {name} asks permission to edit your chores",
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",

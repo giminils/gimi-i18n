@@ -251,7 +251,7 @@
   "event_share_your_cravings": "Del dine cravings",
   "event_happy_birthday": "Tillykke med fødselsdagen",
   "push_you_have_a_new_connection": "Du har en ny forbindelse! ",
-  "push_you_have_got_an_invitation_to_connect": "Du har en invitation fra {connection_token.created_by.nickname} til at oprette forbindelse",
+  "push_you_have_got_an_invitation_to_connect": "Du har en invitation fra {connectiontoken.created_by.nickname} til at oprette forbindelse",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Dine lommepenge er sat op! Tjek det ud i appen!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} beder om tilladelse til at redigere dine opgaver",
   "push_payday_parent": "Payday for {child.nickname}. Tjek hvor mange penge der blev tilføjet til Opsparingen!",

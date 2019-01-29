@@ -251,7 +251,7 @@
   "event_share_your_cravings": "Partagez vos envies",
   "event_happy_birthday": "Joyeux Anniversaire!",
   "push_you_have_a_new_connection": "Vous avez un nouveau contact! ",
-  "push_you_have_got_an_invitation_to_connect": "Vous avez reçu une invitation de {connection_token.created_by.nickname} pour vous connecter",
+  "push_you_have_got_an_invitation_to_connect": "Vous avez reçu une invitation de {connectiontoken.created_by.nickname} pour vous connecter",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Une allocation a été établie pour vous! Consultez-la dans l'appli!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} demande la permission de changer vos tâches",
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",
