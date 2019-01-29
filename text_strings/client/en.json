@@ -2138,5 +2138,9 @@
   "cant_access_card_info_without_passcode_err_title": "You haven't setup a passcode yet!",
   "cant_access_card_info_without_passcode_err_text": "You need an app passcode to access sensitive card information like this! Set it up now!",
   "cant_access_card_info_without_passcode_err_button": "Create passcode",
-  "add_a_card_parent_settings_row": "Add a card!"
+  "add_a_card_parent_settings_row": "Add a card!",
+  "kid_card_action_button_card": "Card details",
+  "kid_card_action_button_cloud": "Save to account",
+  "kid_card_action_button_pin": "View PIN",
+  "kid_card_action_button_settings": "Settings"
 }
