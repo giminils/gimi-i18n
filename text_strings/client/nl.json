@@ -2140,13 +2140,13 @@
   "cant_access_card_info_without_passcode_err_button": "PLZ_TRANSLATE Create passcode",
   "add_a_card_parent_settings_row": "PLZ_TRANSLATE Add a card!",
   "kid_card_action_button_card": "PLZ_TRANSLATE Card details",
-  "kid_card_action_button_cloud": "PLZ_TRANSLATE Save to account",
+  "kid_card_action_button_cloud": "PLZ_TRANSLATE Transfer",
   "kid_card_action_button_pin": "PLZ_TRANSLATE View PIN",
   "kid_card_action_button_settings": "PLZ_TRANSLATE Settings",
-  "transfer_to_savings": "PLZ_TRANSLATE Transfer to savings",
+  "transfer_to_savings": "PLZ_TRANSLATE Transfer to account",
   "buy_premium_kid_setup_title": "PLZ_TRANSLATE Gimi Premium kid Lorem ipsum",
   "buy_premium_kid_setup_subtitle": "PLZ_TRANSLATE When you child is ready to mange their own money",
   "kid_home_piggy_hello_string": "PLZ_TRANSLATE Wanna chat?",
   "locked_pin_container_because_not_main_parent_title": "PLZ_TRANSLATE This is locked...",
-  "locked_pin_container_because_not_main_parent_text": "PLZ_TRANSLATE You cannot access the PIN code for this card, because... what?"
+  "locked_pin_container_because_not_main_parent_text": "PLZ_TRANSLATE You cannot access the PIN code for this card."
 }
