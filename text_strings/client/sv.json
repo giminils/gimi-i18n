@@ -2152,5 +2152,7 @@
   "create_manual_chore_from_category_title": "Egen",
   "need_passcode_err_container_title": "Du har inte skapat en lösenkod än!",
   "need_passcode_err_container_text": "Du behöver en lösenkod för det här, sätt upp en nu!",
-  "need_passcode_err_container_button": "Lägg till lösenkod"
+  "need_passcode_err_container_button": "Lägg till lösenkod",
+  "premium_deposit_confirmation_title": "PLZ_CHECK You deposited %1$d to %1$d",
+  "premium_deposit_confirmation_desc": "PLZ_CHECK Deposit was very successful! Money is already in the savings account."
 }
