@@ -2146,5 +2146,7 @@
   "transfer_to_savings": "PLZ_TRANSLATE Transfer to savings",
   "buy_premium_kid_setup_title": "PLZ_TRANSLATE Gimi Premium kid Lorem ipsum",
   "buy_premium_kid_setup_subtitle": "PLZ_TRANSLATE When you child is ready to mange their own money",
-  "kid_home_piggy_hello_string": "PLZ_TRANSLATE Wanna chat?"
+  "kid_home_piggy_hello_string": "PLZ_TRANSLATE Wanna chat?",
+  "locked_pin_container_because_not_main_parent_title": "PLZ_TRANSLATE This is locked...",
+  "locked_pin_container_because_not_main_parent_text": "PLZ_TRANSLATE You cannot access the PIN code for this card, because... what?"
 }
