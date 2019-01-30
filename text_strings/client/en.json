@@ -2149,5 +2149,8 @@
   "kid_home_piggy_hello_string": "Wanna chat?",
   "locked_pin_container_because_not_main_parent_title": "This is locked...",
   "locked_pin_container_because_not_main_parent_text": "You cannot access the PIN code for this card.",
-  "create_manual_chore_from_category_title": "Manual"
+  "create_manual_chore_from_category_title": "Manual",
+  "need_passcode_err_container_title": "You haven't setup a passcode yet!",
+  "need_passcode_err_container_text": "You need an app passcode for this, set it up now!",
+  "need_passcode_err_container_button": "Add passcode"
 }

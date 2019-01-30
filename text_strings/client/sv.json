@@ -2149,5 +2149,8 @@
   "kid_home_piggy_hello_string": "PLZ_CHECK Wanna chat?",
   "locked_pin_container_because_not_main_parent_title": "PLZ_CHECK This is locked...",
   "locked_pin_container_because_not_main_parent_text": "PLZ_CHECK You cannot access the PIN code for this card.",
-  "create_manual_chore_from_category_title": "PLZ_CHECK Manual"
+  "create_manual_chore_from_category_title": "PLZ_CHECK Manual",
+  "need_passcode_err_container_title": "PLZ_CHECK You haven't setup a passcode yet!",
+  "need_passcode_err_container_text": "PLZ_CHECK You need an app passcode for this, set it up now!",
+  "need_passcode_err_container_button": "PLZ_CHECK Add passcode"
 }
