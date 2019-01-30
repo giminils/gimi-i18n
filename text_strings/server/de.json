@@ -251,7 +251,7 @@
   "event_share_your_cravings": "Teile Deine Wünsche",
   "event_happy_birthday": "Alles Gute zum Geburtstag",
   "push_you_have_a_new_connection": "Du hast eine neue Verbindung! ",
-  "push_you_have_got_an_invitation_to_connect": "Du hast eine Verbindungsanfrage von {connection_token.created_by.nickname} erhalten",
+  "push_you_have_got_an_invitation_to_connect": "Du hast eine Verbindungsanfrage von {connectiontoken.created_by.nickname} erhalten",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Dein Taschengeld wurde eingerichtet! Guck mal in die App!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} bittet um Erlaubnis Deine Aufgaben bearbeiten zu dürfen",
   "push_payday_parent": "Zahltag für {child.nickname}. Schau nach, wieviel Geld zu den Ersparnissen hinzugefügt wurde!",
