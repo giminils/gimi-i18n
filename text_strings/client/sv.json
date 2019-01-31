@@ -2157,5 +2157,9 @@
   "premium_deposit_confirmation_desc": "Överföring lyckades! Pengarna finns på kontot direkt.",
   "ok_back": "PLZ_CHECK OK, back",
   "no_parent_no_chores_title": "PLZ_CHECK Oh no! You need some supporters...",
-  "no_parent_no_chores_desc": "PLZ_CHECK You can't start doing chores and earning money before your have supporters who will pay you. "
+  "no_parent_no_chores_desc": "PLZ_CHECK You can't start doing chores and earning money before your have supporters who will pay you. ",
+  "signup_kid_user_type_title": "PLZ_CHECK Earn, save, spend",
+  "signup_kid_user_type_subtitle": "PLZ_CHECK For all children",
+  "signup_parent_user_type_title": "PLZ_CHECK Support children",
+  "signup_parent_user_type_subtitle": "PLZ_CHECK For parents, grand-parents and all other grown-ups"
 }

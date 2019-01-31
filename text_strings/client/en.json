@@ -2157,5 +2157,9 @@
   "premium_deposit_confirmation_desc": "Deposit was very successful! Money is already in the savings account.",
   "ok_back": "OK, back",
   "no_parent_no_chores_title": "Oh no! You need some supporters...",
-  "no_parent_no_chores_desc": "You can't start doing chores and earning money before your have supporters who will pay you. "
+  "no_parent_no_chores_desc": "You can't start doing chores and earning money before your have supporters who will pay you. ",
+  "signup_kid_user_type_title": "Earn, save, spend",
+  "signup_kid_user_type_subtitle": "For all children",
+  "signup_parent_user_type_title": "Support children",
+  "signup_parent_user_type_subtitle": "For parents, grand-parents and all other grown-ups"
 }
