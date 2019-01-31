@@ -2161,5 +2161,6 @@
   "signup_kid_user_type_title": "PLZ_CHECK Earn, save, spend",
   "signup_kid_user_type_subtitle": "PLZ_CHECK For all children",
   "signup_parent_user_type_title": "PLZ_CHECK Support children",
-  "signup_parent_user_type_subtitle": "PLZ_CHECK For parents, grand-parents and all other grown-ups"
+  "signup_parent_user_type_subtitle": "PLZ_CHECK For parents, grand-parents and all other grown-ups",
+  "kid_card_set_as_number_button": "PLZ_CHECK Set as number"
 }
