@@ -103,7 +103,7 @@ export default [
       },
       {
         ...defaultChapter,
-        available: false,
+        available: true,
         chapterID: 'earn_chapter_4',
         icon: 'iconChef',
         chapterName: 'Iterests and skills',
@@ -223,7 +223,7 @@ export default [
       },
       {
         ...defaultChapter,
-        available: false,
+        available: true,
         chapterID: 'save_chapter_4',
         icon: 'iconRocket',
         chapterName: 'Start saving for a dream',
@@ -355,7 +355,7 @@ export default [
       },
       {
         ...defaultChapter,
-        available: false,
+        available: true,
         chapterID: 'spend_chapter_4',
         icon: 'iconEarth',
         chapterName: 'The climate deal',
