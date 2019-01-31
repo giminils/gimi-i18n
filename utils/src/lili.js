@@ -2,24 +2,34 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 var fs = require('fs')
 let templateDirs = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/education']
+
 let PLZ_CHECK = 'PLZ_CHECK'
 let PLZ_COPY = 'PLZ_COPY'
 let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
 let copyEn = []
 let removePLzCopy = (enTextFile): * => {
-  enTextFile = enTextFile.replace(PLZ_COPY + ' ', '')
-  if (!enTextFile.includes(PLZ_COPY)) return enTextFile
-  else return removePLzCopy(enTextFile)
+  Object.keys(enTextFile).forEach(key => {
+    if (enTextFile[key].includes(PLZ_COPY))
+
+      enTextFile[key] = enTextFile[key].replace(PLZ_COPY + ' ', '')
+  })
+  return enTextFile
 }
 let removeAndSave = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
   var langPath = getPath('en.json') // Edit here for what language to use
   var enTextFile = fs.readFileSync(langPath, {encoding: 'utf8'})
-  enTextFile = removePLzCopy(enTextFile)
+  enTextFile = JSON.parse(enTextFile)
+
+  let updateEnTextFile = {...enTextFile}
+
+  enTextFile = removePLzCopy(updateEnTextFile)
+  updateEnTextFile = {...updateEnTextFile, ...enTextFile}
+  updateEnTextFile = JSON.stringify(updateEnTextFile, undefined, 2)
 
   fs.unlinkSync(langPath)
-  fs.writeFileSync(langPath, enTextFile, {encoding: 'utf8'})
+  fs.writeFileSync(langPath, updateEnTextFile, {encoding: 'utf8'})
 }
 let runLili = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
@@ -73,9 +83,9 @@ let runLili = (filePath): * => {
     removeAndSave(pathsa)
   })
 
-  lang = JSON.stringify(lang, undefined, 2)
-  fs.unlinkSync(langPath)
-  fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
+  // lang = JSON.stringify(lang, undefined, 2)
+  // fs.unlinkSync(langPath)
+  // fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
 }
 templateDirs.forEach((filePath) => {
   runLili(filePath)
