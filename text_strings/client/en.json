@@ -2154,5 +2154,6 @@
   "need_passcode_err_container_text": "You need an app passcode for this, set it up now!",
   "need_passcode_err_container_button": "Add passcode",
   "premium_deposit_confirmation_title": "You deposited %1$d to %1$d",
-  "premium_deposit_confirmation_desc": "Deposit was very successful! Money is already in the savings account."
+  "premium_deposit_confirmation_desc": "Deposit was very successful! Money is already in the savings account.",
+  "ok_back": "OK, back"
 }

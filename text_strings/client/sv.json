@@ -2154,5 +2154,6 @@
   "need_passcode_err_container_text": "Du behöver en lösenkod för det här, sätt upp en nu!",
   "need_passcode_err_container_button": "Lägg till lösenkod",
   "premium_deposit_confirmation_title": "Du förde över %1$d till %1$d",
-  "premium_deposit_confirmation_desc": "Överföring lyckades! Pengarna finns på kontot direkt."
+  "premium_deposit_confirmation_desc": "Överföring lyckades! Pengarna finns på kontot direkt.",
+  "ok_back": "PLZ_CHECK OK, back"
 }

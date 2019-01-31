@@ -2143,9 +2143,9 @@
   "kid_card_action_button_cloud": "Stort op de rekening",
   "kid_card_action_button_pin": "Toon pin",
   "kid_card_action_button_settings": "Instellingen",
-  "transfer_to_savings": "Maak over naar de spaarrekening"
+  "transfer_to_savings": "Maak over naar de spaarrekening",
   "buy_premium_kid_setup_title": "PLZ_TRANSLATE Gimi Premium kid Lorem ipsum",
-  "buy_premium_kid_setup_subtitle": "Als je kind klaar is om het eigen geld te beheren"
+  "buy_premium_kid_setup_subtitle": "Als je kind klaar is om het eigen geld te beheren",
   "kid_home_piggy_hello_string": "Wil je chatten?",
   "locked_pin_container_because_not_main_parent_title": "Dit is geblokkeerd...",
   "locked_pin_container_because_not_main_parent_text": "Je kunt de pincode voor deze kaart niet inzien.",
@@ -2154,5 +2154,6 @@
   "need_passcode_err_container_text": "Je hebt een app pincode hiervoor nodig. Stel die nu in!",
   "need_passcode_err_container_button": "Voeg pincode toe",
   "premium_deposit_confirmation_title": "Je hebt %1$d gestort op %1$d",
-  "premium_deposit_confirmation_desc": "Storting was erg succesvol! Het geld staat al op de spaarrekening."
+  "premium_deposit_confirmation_desc": "Storting was erg succesvol! Het geld staat al op de spaarrekening.",
+  "ok_back": "PLZ_TRANSLATE OK, back"
 }
