@@ -2155,5 +2155,7 @@
   "need_passcode_err_container_button": "Voeg pincode toe",
   "premium_deposit_confirmation_title": "Je hebt %1$d gestort op %1$d",
   "premium_deposit_confirmation_desc": "Storting was erg succesvol! Het geld staat al op de spaarrekening.",
-  "ok_back": "PLZ_TRANSLATE OK, back"
+  "ok_back": "PLZ_TRANSLATE OK, back",
+  "no_parent_no_chores_title": "PLZ_TRANSLATE Oh no! You need some supporters...",
+  "no_parent_no_chores_desc": "PLZ_TRANSLATE You can't start doing chores and earning money before your have supporters who will pay you. "
 }
