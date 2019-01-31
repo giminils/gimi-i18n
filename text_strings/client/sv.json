@@ -2162,5 +2162,8 @@
   "signup_kid_user_type_subtitle": "PLZ_CHECK For all children",
   "signup_parent_user_type_title": "PLZ_CHECK Support children",
   "signup_parent_user_type_subtitle": "PLZ_CHECK For parents, grand-parents and all other grown-ups",
-  "kid_card_set_as_number_button": "PLZ_CHECK Set as number"
+  "kid_card_set_as_number_button": "PLZ_CHECK Set as number",
+  "bank_not_working": "PLZ_CHECK Not working :(",
+  "skandia_broken_bank_popover_title": "PLZ_CHECK BankID with Skandia is not working…",
+  "skandia_broken_bank_popover_text": "PLZ_CHECK Skandia requires you to scan a QR code on their website in order to authenticate with BankID. Unfortunately this doesn’t work in in an app, so you will not be able to verify your identify :("
 }
