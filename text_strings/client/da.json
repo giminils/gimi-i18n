@@ -2166,5 +2166,6 @@
   "bank_not_working": "Virker ikke:(",
   "skandia_broken_bank_popover_title": "BankID med Skandia virker ikke…",
   "skandia_broken_bank_popover_text": "Skandia kræver, at du scanner en QR kode på deres hjemmeside for at autentificere med BankID. Desværre virker dette ikke i appen, så du vil ikke kunne verificere din identitet :(",
-  "you_have_a_card_on_file": "PLZ_TRANSLATE You have a card on file"
+  "you_have_a_card_on_file": "PLZ_TRANSLATE You have a card on file",
+  "general_suggested": "PLZ_TRANSLATE Suggested"
 }
