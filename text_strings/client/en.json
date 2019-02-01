@@ -2162,7 +2162,7 @@
   "signup_kid_user_type_subtitle": "For all children",
   "signup_parent_user_type_title": "Support children",
   "signup_parent_user_type_subtitle": "For parents, grand-parents and all other grown-ups",
-  "kid_card_set_as_number_button": "Set as number",
+  "kid_card_set_as_number_button": "PLZ_COPY You got it",
   "bank_not_working": "Not working :(",
   "skandia_broken_bank_popover_title": "BankID with Skandia is not working…",
   "skandia_broken_bank_popover_text": "Skandia requires you to scan a QR code on their website in order to authenticate with BankID. Unfortunately this doesn’t work in in an app, so you will not be able to verify your identify :(",
