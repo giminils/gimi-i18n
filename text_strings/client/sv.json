@@ -2168,5 +2168,7 @@
   "skandia_broken_bank_popover_text": "Skandia kräver att du skannar en QR-kod på deras hemsida för att autentisera med BankID. Tyvärr så funkar det inte i en app, så du kommer tyvärr inte att kunna verifiera din identitet :(",
   "you_have_a_card_on_file": "Du har ett kort sparat",
   "general_suggested": "PLZ_CHECK Suggested",
-  "chore_waiting_for_enable": "PLZ_CHECK Waiting to be added"
+  "chore_waiting_for_enable": "PLZ_CHECK Waiting to be added",
+  "new_supporter_connection_text": "PLZ_CHECK %1$d accepted your invitation. You'll get some money or something...",
+  "new_kid_connection_text": "PLZ_CHECK %1$d accepted your invitation. Set up allowance, interest and chores now!"
 }
