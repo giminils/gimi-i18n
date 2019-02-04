@@ -2009,7 +2009,7 @@
   "relation_overview_for_kid_subtitle": "Settings for you",
   "name_owes_you": "%1$d owes you",
   "pfs_general_error": "Sorry, this didn't work...",
-  "connections_connected_section_title": "Connected",
+  "connections_connected_section_title": "PLZ_COPY Connected children",
   "connections_pending_section_title": "Waiting to be accepted",
   "cant_delete_email_no_phone_popover_title": "You can't delete your email",
   "cant_delete_email_no_phone_popover_text": "You need a verified phone number to delete your email, or you won't be able to log in.",
