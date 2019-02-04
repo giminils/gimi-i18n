@@ -2173,5 +2173,6 @@
   "new_kid_connection_text": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
   "kid_got_new_connection_success_title": "You'll get some money or something from %1$d...",
   "one_month_free": "1 month free",
-  "there_after_x_per_year": "There after %1$d per year"
+  "there_after_x_per_year": "There after %1$d per year",
+  "allowance_day_settings_row": "Payday"
 }
