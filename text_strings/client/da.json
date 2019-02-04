@@ -2153,7 +2153,7 @@
   "need_passcode_err_container_title": "Du har ikke opsat en kode endnu!",
   "need_passcode_err_container_text": "Du skal bruge en app kode for dette, sæt den op nu!",
   "need_passcode_err_container_button": "Tilføj kode",
-  "premium_deposit_confirmation_title": "Du har indbetalt %1$d til %1$d",
+  "premium_deposit_confirmation_title": "Du har indbetalt %1$d til %2$d",
   "premium_deposit_confirmation_desc": "Indbetalingen var meget succesfuld! Pengene er allerede på opsparingskontoen.",
   "ok_back": "OK, tilbage",
   "no_parent_no_chores_title": "Oh nej! Du skal bruge nogle supportere...",

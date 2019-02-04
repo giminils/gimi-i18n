@@ -2153,7 +2153,7 @@
   "need_passcode_err_container_title": "PLZ_TRANSLATE You haven't setup a passcode yet!",
   "need_passcode_err_container_text": "PLZ_TRANSLATE You need an app passcode for this, set it up now!",
   "need_passcode_err_container_button": "PLZ_TRANSLATE Add passcode",
-  "premium_deposit_confirmation_title": "PLZ_TRANSLATE You deposited %1$d to %1$d",
+  "premium_deposit_confirmation_title": "PLZ_TRANSLATE You deposited %1$d to %2$d",
   "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Deposit was very successful! Money is already in the savings account.",
   "ok_back": "PLZ_TRANSLATE OK, back",
   "no_parent_no_chores_title": "PLZ_TRANSLATE Oh no! You need some supporters...",

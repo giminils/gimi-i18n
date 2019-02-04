@@ -2153,7 +2153,7 @@
   "need_passcode_err_container_title": "You haven't setup a passcode yet!",
   "need_passcode_err_container_text": "You need an app passcode for this, set it up now!",
   "need_passcode_err_container_button": "Add passcode",
-  "premium_deposit_confirmation_title": "You deposited %1$d to %1$d",
+  "premium_deposit_confirmation_title": "You deposited %1$d to %2$d",
   "premium_deposit_confirmation_desc": "Deposit was very successful! Money is already in the savings account.",
   "ok_back": "OK, back",
   "no_parent_no_chores_title": "Oh no! You need some supporters...",
