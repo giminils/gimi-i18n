@@ -2170,5 +2170,6 @@
   "general_suggested": "PLZ_TRANSLATE Suggested",
   "chore_waiting_for_enable": "PLZ_TRANSLATE Waiting to be added",
   "new_supporter_connection_text": "PLZ_TRANSLATE %1$d accepted your invitation. You'll get some money or something...",
-  "new_kid_connection_text": "PLZ_TRANSLATE %1$d accepted your invitation. Set up allowance, interest and chores now!"
+  "new_kid_connection_text": "PLZ_TRANSLATE %1$d accepted your invitation. Set up allowance, interest and chores now!",
+  "kid_got_new_connection_success_title": "PLZ_TRANSLATE You'll get some money or something from %1$d..."
 }
