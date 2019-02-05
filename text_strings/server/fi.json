@@ -482,5 +482,7 @@
   "CHGEON005_push_title": "Gimi-tilisi on poistettu. Olet tervetullut takaisin milloin tahansa!",
   "ADGERE015_notification_title": "Lapsella {child.nickname} on uusi kontakti",
   "CHGERE017_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
-  "ADGERE016_notification_title": "Kutsusi hylättiin. Kutsu joku muu?"
+  "ADGERE016_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
+  "CHFRRE001_push_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE It's payday!"
 }

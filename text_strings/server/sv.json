@@ -482,5 +482,7 @@
   "CHGEON005_push_title": "Ditt Gimi-konto har raderats. Du är välkommen tillbaka när du vill!",
   "ADGERE015_notification_title": "{child.nickname} har en ny kontakt",
   "CHGERE017_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
-  "ADGERE016_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?"
+  "ADGERE016_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
+  "CHFRRE001_push_title": "PLZ_CHECK Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_CHECK It's payday!"
 }
