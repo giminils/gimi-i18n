@@ -482,5 +482,6 @@
   "CHGEON005_push_title": "Gimi-tilisi on poistettu. Olet tervetullut takaisin milloin tahansa!",
   "ADGERE015_notification_title": "Lapsella {child.nickname} on uusi kontakti",
   "CHGERE017_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
-  "ADGERE016_notification_title": "Kutsusi hylättiin. Kutsu joku muu?"
+  "ADGERE016_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
+  "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!"
 }
