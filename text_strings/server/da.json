@@ -361,6 +361,7 @@
   "event_pfs_payday": "Det er payday for {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "Gimi kortet er lukket ned. Betal abonnementsgebyr for {child.nickname} for at aktiveret det.",
   "verify_email_subject": "Bekræft din e-mail adresse",
+  "push_add_profile_pic": "-",
   "event_you_are_connected": "Du er nu forbundet med {child.nickname}!",
   "push_card_purchase_decline": "Et kort køb blev afvist på grund af lav balance!",
   "event_how_premium_work": "Hvordan Premium virker",

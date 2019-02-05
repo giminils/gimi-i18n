@@ -361,6 +361,7 @@
   "event_pfs_payday": "Det er utbetalingsdag for {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "Gimi-kortet er blokkert. Betal abonnementsavgiften for {child.nickname} for å fjerne blokkeringen.",
   "verify_email_subject": "Bekreft e-postadressen din",
+  "push_add_profile_pic": "-",
   "event_you_are_connected": "Du er nå koblet opp mot {child.nickname}!",
   "push_card_purchase_decline": "Et kortkjøp ble avslått på grunne av lav saldo!",
   "event_how_premium_work": "Slik fungerer Premium",

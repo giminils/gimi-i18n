@@ -361,6 +361,7 @@
   "event_pfs_payday": "Tänään on lapsen {child.nickname} tilipäivä! ",
   "push_subscription_not_paid_card_blocked": "Gimi-kortti on lukittu. Maksa lapsen {child.nickname} tilausmaksu avataksesi sen.",
   "verify_email_subject": "Vahvista sähköpostiosoitteesi",
+  "push_add_profile_pic": "PLZ_CHECK -",
   "event_you_are_connected": "Sinut on nyt yhdistetty lapseen {child.nickname}!",
   "push_card_purchase_decline": "Korttimaksu peruutettiin vähäisen saldon vuoksi!",
   "event_how_premium_work": "Miten Premium toimii",

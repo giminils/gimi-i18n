@@ -361,6 +361,7 @@
   "event_pfs_payday": "Es ist Zahltag für {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "Die Gimi Card ist nun gesperrt. Bezahle die Abonnement-Gebühr für {child.nickname}, um sie wieder freizuschalten.",
   "verify_email_subject": "Bestätige Deine Email-Adresse",
+  "push_add_profile_pic": "PLZ_CHECK -",
   "event_you_are_connected": "Du bist jetzt mit {child.nickname} verbunden!",
   "push_card_purchase_decline": "Ein Karteneinkauf wurde aufgrund des zu geringen Kontostandes abgelehnt!",
   "event_how_premium_work": "So funktioniert Premium",
