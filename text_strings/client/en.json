@@ -2178,5 +2178,6 @@
   "this_week_kid_earn": "This week · %1$d - %2$d",
   "maintenance_title": "Gimi is closed for maintenance...",
   "maintenance_subtitle": "...but we'll be back up again really soon! We hope to see you again in a few minutes.",
-  "genera_to_be_done": "To be done"
+  "genera_to_be_done": "To be done",
+  "general_pending_chores": "Pending"
 }

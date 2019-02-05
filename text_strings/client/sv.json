@@ -2178,5 +2178,6 @@
   "this_week_kid_earn": "PLZ_CHECK This week · %1$d - %2$d",
   "maintenance_title": "PLZ_CHECK Gimi is closed for maintenance...",
   "maintenance_subtitle": "PLZ_CHECK ...but we'll be back up again really soon! We hope to see you again in a few minutes.",
-  "genera_to_be_done": "PLZ_CHECK To be done"
+  "genera_to_be_done": "PLZ_CHECK To be done",
+  "general_pending_chores": "PLZ_CHECK Pending"
 }
