@@ -1645,7 +1645,7 @@
   "faq_ask_us": "Spør oss",
   "setup_passcode_for_premium_notification": "Opprett app-passordet ditt",
   "kid_earn_no_chores_title": "Dette er stedet...",
-  "kid_earn_no_chores_subtitle": "...hvor barna dine kan tjene ekstra penger ved å gjøre oppgaver.",
+  "kid_earn_no_chores_subtitle": "PLZ_TRANSLATE ...where your child can earn extra money by doing chores.",
   "kid_earn_no_chores_bot_message_1": "Her kan du tjene ekstra penger ved å fullføre oppgaver!",
   "kid_earn_no_chores_bot_message_2": "Kom i gang ved å foreslå en oppgave!",
   "choose_kid_to_update_frequency_for": "Velg hvem du vil oppdatere",
