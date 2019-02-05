@@ -2174,5 +2174,6 @@
   "kid_got_new_connection_success_title": "PLZ_TRANSLATE More supporters means more opportunities to earn money! Maybe you should suggest a chore to %1$d?",
   "one_month_free": "PLZ_TRANSLATE 1 month free",
   "there_after_x_per_year": "PLZ_TRANSLATE Then %1$d/year",
-  "allowance_day_settings_row": "PLZ_TRANSLATE Payday"
+  "allowance_day_settings_row": "PLZ_TRANSLATE Payday",
+  "this_week_kid_earn": "PLZ_TRANSLATE This week · %1$d - %2$d"
 }
