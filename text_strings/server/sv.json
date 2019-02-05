@@ -483,5 +483,6 @@
   "ADGERE015_notification_title": "{child.nickname} har en ny kontakt",
   "CHGERE017_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
   "ADGERE016_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
-  "ADGEON005_push_title": "PLZ_CHECK Add a profile picture!"
+  "ADGEON005_push_title": "PLZ_CHECK Add a profile picture!",
+  "CHFRRE001_notification_title": "PLZ_CHECK Payday! You have received a payment to your Cloud!"
 }

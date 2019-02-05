@@ -483,5 +483,6 @@
   "ADGERE015_notification_title": "Lapsella {child.nickname} on uusi kontakti",
   "CHGERE017_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
   "ADGERE016_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
-  "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!"
+  "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!"
 }
