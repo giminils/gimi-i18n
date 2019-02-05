@@ -2175,5 +2175,7 @@
   "one_month_free": "1 månad gratis",
   "there_after_x_per_year": "PLZ_CHECK Then %1$d/year",
   "allowance_day_settings_row": "Payday",
-  "this_week_kid_earn": "PLZ_CHECK This week · %1$d - %2$d"
+  "this_week_kid_earn": "PLZ_CHECK This week · %1$d - %2$d",
+  "maintenance_title": "PLZ_CHECK Gimi is closed for maintenance...",
+  "maintenance_subtitle": "PLZ_CHECK ...but we'll be back up again really soon! We hope to see you again in a few minutes."
 }

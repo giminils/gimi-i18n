@@ -2175,5 +2175,7 @@
   "one_month_free": "PLZ_TRANSLATE 1 month free",
   "there_after_x_per_year": "PLZ_TRANSLATE Then %1$d/year",
   "allowance_day_settings_row": "PLZ_TRANSLATE Payday",
-  "this_week_kid_earn": "PLZ_TRANSLATE This week · %1$d - %2$d"
+  "this_week_kid_earn": "PLZ_TRANSLATE This week · %1$d - %2$d",
+  "maintenance_title": "PLZ_TRANSLATE Gimi is closed for maintenance...",
+  "maintenance_subtitle": "PLZ_TRANSLATE ...but we'll be back up again really soon! We hope to see you again in a few minutes."
 }
