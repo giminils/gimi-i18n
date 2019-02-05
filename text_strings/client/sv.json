@@ -1682,7 +1682,7 @@
   "card_was_blocked_confirmation_message": "Kort har spärrats",
   "card_was_unblocked_confirmation_message": "Kort har återaktiverats",
   "lockdown_reminder_push_message_to_parents": "%1$d är utelåst från appen! Betala för Premium och %1$d är igång igen.",
-  "nav_bar_educate": "PLZ_CHECK Sessions",
+  "nav_bar_educate": "Övningar",
   "almost_reached_dream_title": "Du är nära din dröm!",
   "almost_reached_dream_subtitle": "Vänta på Payday utan att spendera så kommer du att uppnå din dröm!",
   "choose_currency": "Välj valuta",
@@ -2182,5 +2182,6 @@
   "maintenance_title": "Gimi är tillfälligt stängt för underhåll...",
   "maintenance_subtitle": "...men vi är verkligen snart tillbaka! Hoppas vi sen igen om en liten stund.",
   "genera_to_be_done": "Väntar på att bli utförda",
-  "general_pending_chores": "Väntar"
+  "general_pending_chores": "Väntar",
+  "general_lets_do_it": "PLZ_CHECK Let's do it"
 }

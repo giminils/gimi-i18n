@@ -2182,5 +2182,6 @@
   "maintenance_title": "PLZ_TRANSLATE Gimi is closed for maintenance...",
   "maintenance_subtitle": "PLZ_TRANSLATE ...but we'll be back up again really soon! We hope to see you again in a few minutes.",
   "genera_to_be_done": "PLZ_TRANSLATE To be done",
-  "general_pending_chores": "PLZ_TRANSLATE Pending"
+  "general_pending_chores": "PLZ_TRANSLATE Pending",
+  "general_lets_do_it": "PLZ_TRANSLATE Let's do it"
 }
