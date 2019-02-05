@@ -361,7 +361,6 @@
   "event_pfs_payday": "Het is payday voor {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "De Gimi-kaart is vergrendeld. Betaal het abonnement voor {child.nickname} om ze te ontgrendelen.",
   "verify_email_subject": "Bevestig je e-mail adres",
-  "push_add_profile_pic": "PLZ_TRANSLATE -",
   "event_you_are_connected": "Je bent nu verbonden met {child.nickname}!",
   "push_card_purchase_decline": "Een kaart aankoop was geweigerd vanwege een te laag saldo!",
   "event_how_premium_work": "Hoe Premium werkt",

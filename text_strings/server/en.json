@@ -361,7 +361,6 @@
   "event_pfs_payday": "It's payday for {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "The Gimi card is locked. Pay the subscription fee for {child.nickname} to unlock it.",
   "verify_email_subject": "Confirm your email address",
-  "push_add_profile_pic": "Add a profile pic!",
   "event_you_are_connected": "You're now connected with {child.nickname}!",
   "push_card_purchase_decline": "A card purchase was declined because of low balance!",
   "event_how_premium_work": "How Gimi Premium works",

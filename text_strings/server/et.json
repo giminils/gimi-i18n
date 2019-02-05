@@ -361,7 +361,6 @@
   "event_pfs_payday": "PLZ_TRANSLATE It's payday for {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The Gimi card is on lock down. Pay subscription fee for {child.nickname} to unlock it.",
   "verify_email_subject": "PLZ_TRANSLATE Confirm your email address",
-  "push_add_profile_pic": "PLZ_TRANSLATE -",
   "event_you_are_connected": "PLZ_TRANSLATE You're now connected with {child.nickname}!",
   "push_card_purchase_decline": "PLZ_TRANSLATE A card purchase was declined because of low balance!",
   "event_how_premium_work": "PLZ_TRANSLATE How Premium works",
