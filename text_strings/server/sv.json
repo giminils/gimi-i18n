@@ -484,5 +484,6 @@
   "CHGERE017_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
   "ADGERE016_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
   "ADGEON005_push_title": "PLZ_CHECK Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_CHECK Payday! You have received a payment to your Cloud!"
+  "CHFRRE001_notification_title": "PLZ_CHECK Payday! You have received a payment to your Cloud!",
+  "ADGERE011_notification_title": "PLZ_CHECK {child.nickname} has reached a dream"
 }

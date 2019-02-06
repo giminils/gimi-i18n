@@ -484,5 +484,6 @@
   "CHGERE017_notification_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
   "ADGERE016_notification_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!"
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }
