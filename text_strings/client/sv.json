@@ -2183,5 +2183,9 @@
   "maintenance_subtitle": "...men vi är verkligen snart tillbaka! Hoppas vi sen igen om en liten stund.",
   "genera_to_be_done": "Väntar på att bli utförda",
   "general_pending_chores": "Väntar",
-  "general_lets_do_it": "PLZ_CHECK Let's do it"
+  "general_lets_do_it": "PLZ_CHECK Let's do it",
+  "shareable_recieved_money_title": "PLZ_CHECK I just got...",
+  "general_shared_confirmation": "PLZ_CHECK Shared successfully!",
+  "sharing_recieved_money_title": "PLZ_CHECK I recieved money!",
+  "sharing_recieved_money_message": "PLZ_CHECK I just recieved money in the Gimi app!"
 }

@@ -2183,5 +2183,9 @@
   "maintenance_subtitle": "...but we'll be back up again really soon! We hope to see you again in a few minutes.",
   "genera_to_be_done": "To be done",
   "general_pending_chores": "Pending",
-  "general_lets_do_it": "Let's do it"
+  "general_lets_do_it": "Let's do it",
+  "shareable_recieved_money_title": "I just got...",
+  "general_shared_confirmation": "Shared successfully!",
+  "sharing_recieved_money_title": "I recieved money!",
+  "sharing_recieved_money_message": "I just recieved money in the Gimi app!"
 }
