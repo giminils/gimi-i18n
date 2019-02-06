@@ -2114,7 +2114,7 @@
   "setup_kid_premium_recommended_age": "Recommended for ages 9+",
   "setup_kid_tracker_subtitle": "Let your child practice money before they start using real money.",
   "setup_kid_tracker_recommended_age": "Recommended for ages 6+",
-  "auto_approve_after_time": "PLZ_COPY Auto-approve after 24h",
+  "auto_approve_after_time": "Auto-approve after 24h",
   "auto_approve_chore_popover_title": "Sure you want to auto-approve?",
   "auto_approve_chore_popover_text": "This chore will be automatically approved 12 hours after completion. You can’t undo approved chores.",
   "cant_change_premium_currency_popover_title": "You can’t change the currency",

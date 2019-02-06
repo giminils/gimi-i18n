@@ -2114,7 +2114,7 @@
   "setup_kid_premium_recommended_age": "Rekommenderas för barn över 9 år",
   "setup_kid_tracker_subtitle": "Låter ditt barn träna på ekonomi innan de börjar använda riktiga pengar.",
   "setup_kid_tracker_recommended_age": "Rekommenderas från 6 år",
-  "auto_approve_after_time": "Godkänn automatiskt efter 12h",
+  "auto_approve_after_time": "PLZ_CHECK Auto-approve after 24h",
   "auto_approve_chore_popover_title": "Säker på att du vill godkänna automatiskt?",
   "auto_approve_chore_popover_text": "Den här uppgifter kommer att godkännas automatiskt 12 timmar efter utförande. Tänk på att du inte kan ångra godkända uppgifter.",
   "cant_change_premium_currency_popover_title": "Du kan inte ändra valuta",

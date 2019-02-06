@@ -2114,7 +2114,7 @@
   "setup_kid_premium_recommended_age": "Aanbevolen vanaf 9 jaar",
   "setup_kid_tracker_subtitle": "Laat je kind met geld oefenen voordat ze echt geld gaan gebruiken.",
   "setup_kid_tracker_recommended_age": "Aanbevolen vanaf 6 jaar",
-  "auto_approve_after_time": "Automatisch goedkeuren na 12 uur",
+  "auto_approve_after_time": "PLZ_TRANSLATE Auto-approve after 24h",
   "auto_approve_chore_popover_title": "Weet je zeker dat je het automatisch wilt goedkeuren?",
   "auto_approve_chore_popover_text": "Dit klusje wordt automatisch 12 uur nadat het gereed is goedgekeurd. Goedgekeurde klusjes kun je niet ongedaan maken.",
   "cant_change_premium_currency_popover_title": "Je kunt de munteenheid niet wijzigen",

@@ -2114,7 +2114,7 @@
   "setup_kid_premium_recommended_age": "Anbefalet til alderen 9+",
   "setup_kid_tracker_subtitle": "Lad dit barn øve sig på at bruge penge før de begynder på at bruge rigtige penge.",
   "setup_kid_tracker_recommended_age": "Anbefalet til alderen 6+",
-  "auto_approve_after_time": "Godkend automatisk efter 12 timer",
+  "auto_approve_after_time": "PLZ_TRANSLATE Auto-approve after 24h",
   "auto_approve_chore_popover_title": "Er du sikker på, at du vil godkende automatisk?",
   "auto_approve_chore_popover_text": "Denne opgave vil automatisk blive godkendt efter 12 timer efter færdiggørelse. Du kan ikke lave en godkendelse til opgaven om.",
   "cant_change_premium_currency_popover_title": "Du kan ikke ændre valutaen",
