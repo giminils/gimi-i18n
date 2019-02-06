@@ -2187,5 +2187,7 @@
   "shareable_recieved_money_title": "PLZ_CHECK I just got...",
   "general_shared_confirmation": "PLZ_CHECK Shared successfully!",
   "sharing_recieved_money_title": "PLZ_CHECK I recieved money!",
-  "sharing_recieved_money_message": "PLZ_CHECK I just recieved money in the Gimi app!"
+  "sharing_recieved_money_message": "PLZ_CHECK I just recieved money in the Gimi app!",
+  "onfido_start_info_title": "PLZ_CHECK You'll need to scan your ID card",
+  "onfido_start_info_desc": "PLZ_CHECK We will now re-direct you to our ID verification partner Onfido, and ask tou to scan your ID card."
 }
