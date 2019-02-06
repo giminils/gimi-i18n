@@ -2189,5 +2189,6 @@
   "sharing_recieved_money_title": "I recieved money!",
   "sharing_recieved_money_message": "I just recieved money in the Gimi app!",
   "onfido_start_info_title": "You'll need to scan your ID card",
-  "onfido_start_info_desc": "We will now re-direct you to our ID verification partner Onfido, and ask tou to scan your ID card."
+  "onfido_start_info_desc": "We will now re-direct you to our ID verification partner Onfido, and ask tou to scan your ID card.",
+  "general_how_does_it_work": "How does this work?"
 }
