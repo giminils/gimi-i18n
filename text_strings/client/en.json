@@ -2190,5 +2190,7 @@
   "sharing_recieved_money_message": "I just recieved money in the Gimi app!",
   "onfido_start_info_title": "You'll need to scan your ID card",
   "onfido_start_info_desc": "We will now re-direct you to our ID verification partner Onfido, and ask tou to scan your ID card.",
-  "general_how_does_it_work": "How does this work?"
+  "general_how_does_it_work": "How does this work?",
+  "broken_bank_popover_title": "BankID with %1$d is not working…",
+  "broken_bank_popover_text": "Skandia requires you to scan a QR code on their website in order to authenticate with BankID. Unfortunately this doesn’t work in in an app, so you will not be able to verify your identify :("
 }
