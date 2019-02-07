@@ -2200,5 +2200,6 @@
   "feature_pre_spring": "PLZ_CHECK Get it done before spring",
   "feature_easter": "PLZ_CHECK Easter eggs and bunnies",
   "feature_spring": "PLZ_CHECK Spring is here!",
-  "no_gimi_accounts_in_phone_contacts": "PLZ_CHECK Couldn't find any Gimi accounts in your contacts 🥺"
+  "no_gimi_accounts_in_phone_contacts": "PLZ_CHECK Couldn't find any Gimi accounts in your contacts 🥺",
+  "using_hotmail_outlook_warning": "PLZ_CHECK Using Hotmail and Outlook? Sorry but your email provider is blocking our emails."
 }
