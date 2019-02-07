@@ -1963,7 +1963,7 @@
   "passcode_lockdown_text": "Du slog in fel kod för många gånger, så vi har låst din app. Den låser upp sig igen om en timme.",
   "passcode_lockdown_contact_button": "Kontakta oss",
   "order_card_done_section_row": "Klart!",
-  "chore_inspiration": "Inspiration för vinterns uppgifter",
+  "chore_inspiration": "PLZ_CHECK Chore inspiration",
   "general_chore_inspo": "Inspiration för uppgifter",
   "no_new_notifications": "Inga nya notiser",
   "dream_shared_confirmation": "Din dröm har delats!",

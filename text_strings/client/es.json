@@ -1963,7 +1963,7 @@
   "passcode_lockdown_text": "PLZ_TRANSLATE You typed the wrong app passcode too many times, so we had to lock you out. It will unlock again in one hour.",
   "passcode_lockdown_contact_button": "PLZ_TRANSLATE Contact us",
   "order_card_done_section_row": "PLZ_TRANSLATE Already done!",
-  "chore_inspiration": "PLZ_TRANSLATE Winter inspiration",
+  "chore_inspiration": "PLZ_TRANSLATE Chore inspiration",
   "general_chore_inspo": "PLZ_TRANSLATE Chore inspiration",
   "no_new_notifications": "PLZ_TRANSLATE No new notifications!",
   "dream_shared_confirmation": "PLZ_TRANSLATE Dream shared!",

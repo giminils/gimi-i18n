@@ -1963,7 +1963,7 @@
   "passcode_lockdown_text": "Kirjoitit salasanan väärin liian monta kertaa, joten jouduimme lukitsemaan sovelluksen. Se avautuu tunnin päästä, jolloin voit yrittää uudelleen.",
   "passcode_lockdown_contact_button": "Ota meihin yhteyttä",
   "order_card_done_section_row": "Valmista!",
-  "chore_inspiration": "Talvi-inspiraatio",
+  "chore_inspiration": "PLZ_TRANSLATE Chore inspiration",
   "general_chore_inspo": "Askare-inspiraatio",
   "no_new_notifications": "Ei uusia ilmoituksia!",
   "dream_shared_confirmation": "Unelma jaettu!",
