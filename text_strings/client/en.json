@@ -2194,5 +2194,10 @@
   "broken_bank_popover_text": "%1$d requires you to scan a QR code on their website with the BankID app. Unfortunately this doesn’t work in an app, so here's another, better way to identify your identity!",
   "kyc_confirmation_success_title": "Great success with your identity verification!",
   "onfido_explainer_popover_title": "Verifying your identity with you ID card",
-  "onfido_explainer_popover_desc": "When BankID is not working, we use a UK based identify verification service called Onfido. They scan your ID card too make sure it is real, and that it matches the data we get from SPAR based on your personal number."
+  "onfido_explainer_popover_desc": "When BankID is not working, we use a UK based identify verification service called Onfido. They scan your ID card too make sure it is real, and that it matches the data we get from SPAR based on your personal number.",
+  "feature_winter": "Winter inspiration",
+  "feature_winter_holiday": "Get busy during half-term",
+  "feature_pre_spring": "Get it done before spring",
+  "feature_easter": "Easter eggs and bunnies",
+  "feature_spring": "Spring is here!"
 }
