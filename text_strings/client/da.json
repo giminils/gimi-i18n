@@ -784,7 +784,7 @@
   "which_bank_do_you_have_bankid": "Hvilken bank er din BankID forbundet med?",
   "create_your_own": "opret din egen",
   "name_verification_title": "Er dette dit navn?",
-  "name_verification_desc": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+  "name_verification_desc": "PLZ_TRANSLATE We get you name and address from SPAR, Statens personadressregister, using your personal number.",
   "general_full_name": "Fulde navn",
   "question_name_not_correct": "Er navnet ikke korrekt?",
   "question_address_correct": "Er adressen korrekt?",

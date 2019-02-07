@@ -784,7 +784,7 @@
   "which_bank_do_you_have_bankid": "Mihin pankkiin BankID:si on yhdistetty?",
   "create_your_own": "luo oma",
   "name_verification_title": "Onko tämä sinun nimesi?",
-  "name_verification_desc": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+  "name_verification_desc": "PLZ_TRANSLATE We get you name and address from SPAR, Statens personadressregister, using your personal number.",
   "general_full_name": "Koko nimi",
   "question_name_not_correct": "Onko nimi kirjoitettu väärin?",
   "question_address_correct": "Onko osoite oikea?",
