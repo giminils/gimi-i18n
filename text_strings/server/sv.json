@@ -286,7 +286,7 @@
   "push_x_days_until_payday": "{x} dagar till Payday! Utför några uppgifter och tjäna mer pengar!",
   "push_checkout_balance": "Kolla Sparat och se om dina pengar växer!",
   "push_have_you_bought_something": "Har du betalat något åt {child.nickname} idag? Dra av summan från sparat!",
-  "push_does_kid_has_cash": "Har {child.nickname} kontanter? Fyll på i Sparat istället!",
+  "push_does_kid_has_cash": "Har {child.nickname} kontanter som ska digitaliseras? Växla in och fyll på i Sparat!",
   "push_need_help_with_dinner": "Behöver du hjälp med något hemma? Lägg till en uppgift för {child.nickname}",
   "event_has_card_arrived": "Har kortet kommit?",
   "event_pfs_card_blocked_by_parent": "Ditt kort har spärrats",
