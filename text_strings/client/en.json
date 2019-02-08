@@ -2207,5 +2207,6 @@
   "general_enter_your_name": "Type your name",
   "first_and_last_name": "First and last name",
   "welcome_tutorial_title": "Hi! Welcome to Gimi 👋",
-  "buy_premium_included_card_title": "The Gimi card"
+  "buy_premium_included_card_title": "The Gimi card",
+  "parent_signup_phone_subtitle": "Children without a phone can sign up up with an email, but all adults have a phone number!"
 }

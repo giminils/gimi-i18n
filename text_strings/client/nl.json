@@ -2207,5 +2207,6 @@
   "general_enter_your_name": "PLZ_TRANSLATE Type your name",
   "first_and_last_name": "PLZ_TRANSLATE First and last name",
   "welcome_tutorial_title": "PLZ_TRANSLATE Hi! Welcome to Gimi 👋",
-  "buy_premium_included_card_title": "PLZ_TRANSLATE The Gimi card"
+  "buy_premium_included_card_title": "PLZ_TRANSLATE The Gimi card",
+  "parent_signup_phone_subtitle": "PLZ_TRANSLATE Children without a phone can sign up up with an email, but all adults have a phone number!"
 }
