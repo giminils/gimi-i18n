@@ -2138,7 +2138,7 @@
   "cloud_debt_remove_information_page": "When the debt has been settled, you can remove this information page",
   "empty_contacts_section_text": "Can't show your contacts...",
   "cant_access_card_info_without_passcode_err_title": "You haven't setup a passcode yet!",
-  "cant_access_card_info_without_passcode_err_text": "You need an app passcode to do this, and for lots of other features in the app. Set it up now!",
+  "cant_access_card_info_without_passcode_err_text": "PLZ_COPY You need an app passcode to do this, and for lots of other features in the app. Set it up now!",
   "cant_access_card_info_without_passcode_err_button": "Create passcode",
   "add_a_card_parent_settings_row": "Add a card!",
   "kid_card_action_button_card": "Card details",
