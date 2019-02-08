@@ -2206,5 +2206,6 @@
   "cloud_insertion_from_self": "PLZ_TRANSLATE Added by you",
   "general_enter_your_name": "PLZ_TRANSLATE Type your name",
   "first_and_last_name": "PLZ_TRANSLATE First and last name",
-  "welcome_tutorial_title": "PLZ_TRANSLATE Hi! Welcome to Gimi 👋"
+  "welcome_tutorial_title": "PLZ_TRANSLATE Hi! Welcome to Gimi 👋",
+  "buy_premium_included_card_title": "PLZ_TRANSLATE The Gimi card"
 }
