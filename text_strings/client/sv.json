@@ -2203,5 +2203,7 @@
   "no_gimi_accounts_in_phone_contacts": "PLZ_CHECK Couldn't find any Gimi accounts in your contacts 🥺",
   "using_hotmail_outlook_warning": "PLZ_CHECK Using Hotmail and Outlook? Sorry but your email provider is blocking our emails.",
   "cloud_withdraw_from_self": "PLZ_CHECK Deduction by you",
-  "cloud_insertion_from_self": "PLZ_CHECK Added by you"
+  "cloud_insertion_from_self": "PLZ_CHECK Added by you",
+  "general_enter_your_name": "PLZ_CHECK Type your name",
+  "first_and_last_name": "PLZ_CHECK First and last name"
 }
