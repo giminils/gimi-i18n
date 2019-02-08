@@ -2201,5 +2201,7 @@
   "feature_easter": "Easter eggs and bunnies",
   "feature_spring": "Spring is here!",
   "no_gimi_accounts_in_phone_contacts": "Couldn't find any Gimi accounts in your contacts 🥺",
-  "using_hotmail_outlook_warning": "Using Hotmail and Outlook? Sorry but your email provider is blocking our emails."
+  "using_hotmail_outlook_warning": "Using Hotmail and Outlook? Sorry but your email provider is blocking our emails.",
+  "cloud_withdraw_from_self": "Deduction by you",
+  "cloud_insertion_from_self": "Added by you"
 }
