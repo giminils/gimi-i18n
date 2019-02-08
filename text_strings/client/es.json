@@ -562,7 +562,7 @@
   "days_to_next_pay": "días hasta el \nDía de pago",
   "search_results": "buscar resultados",
   "name_accepted_your_invite": "¡%1$d ha aceptado tu invitación!",
-  "accepted_invite_setup_flow_description": "establecer el dinero de bolsillo para  %1$d.",
+  "accepted_invite_setup_flow_description": "PLZ_TRANSLATE Set up an allowance, saving bonus and chores for %1$d now!",
   "recommended_chore_package": "conjunto de tareas recomendadas",
   "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "eliminar la tarea",

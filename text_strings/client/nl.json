@@ -562,7 +562,7 @@
   "days_to_next_pay": "dagen tot \nPayday",
   "search_results": "zoekresultaten",
   "name_accepted_your_invite": "%1$d heeft je uitnodiging geaccepteerd!",
-  "accepted_invite_setup_flow_description": "zakgeld instellen voor %1$d",
+  "accepted_invite_setup_flow_description": "PLZ_TRANSLATE Set up an allowance, saving bonus and chores for %1$d now!",
   "recommended_chore_package": "aanbevolen klusjes pakket",
   "accepted_invite_setup_flow_done_description": "Klaar! Je bent klaar met de instellingen voor %1$d.",
   "delete_task": "verwijder klusje",

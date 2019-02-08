@@ -562,7 +562,7 @@
   "days_to_next_pay": "dager til \nPayday",
   "search_results": "søkeresultat",
   "name_accepted_your_invite": "%1$d har akseptert din invitasjon!",
-  "accepted_invite_setup_flow_description": "sett opp uke- eller månedspenger til %1$d.",
+  "accepted_invite_setup_flow_description": "PLZ_TRANSLATE Set up an allowance, saving bonus and chores for %1$d now!",
   "recommended_chore_package": "anbefalt oppgavesamling",
   "accepted_invite_setup_flow_done_description": "PLZ_TRANSLATE Done! You have completed the settings for %1$d.",
   "delete_task": "slett oppgave",

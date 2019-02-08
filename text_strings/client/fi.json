@@ -562,7 +562,7 @@
   "days_to_next_pay": "päivää \nTilipäivään",
   "search_results": "shakutulokset",
   "name_accepted_your_invite": "%1$d hyväksyi kutsusi!",
-  "accepted_invite_setup_flow_description": "aseta taskuraha käyttäjälle %1$d.",
+  "accepted_invite_setup_flow_description": "PLZ_TRANSLATE Set up an allowance, saving bonus and chores for %1$d now!",
   "recommended_chore_package": "suositeltu askaresetti",
   "accepted_invite_setup_flow_done_description": "Valmista! Olet saanut valmiiksi %1$d asetukset.",
   "delete_task": "poista askare",
