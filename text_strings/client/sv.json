@@ -2205,5 +2205,6 @@
   "cloud_withdraw_from_self": "PLZ_CHECK Deduction by you",
   "cloud_insertion_from_self": "PLZ_CHECK Added by you",
   "general_enter_your_name": "PLZ_CHECK Type your name",
-  "first_and_last_name": "PLZ_CHECK First and last name"
+  "first_and_last_name": "PLZ_CHECK First and last name",
+  "welcome_tutorial_title": "PLZ_CHECK Hi! Welcome to Gimi 👋"
 }
