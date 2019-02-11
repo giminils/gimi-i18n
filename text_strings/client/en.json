@@ -2216,5 +2216,6 @@
   "personal_number_no_exist_title": "Error with personal number",
   "personal_number_no_exist_desc": "We cant find any data with your personal number. Please go back and check your details",
   "account_type_premium": "Gimi Premium",
-  "account_type_freemium": "Gimi Tracker"
+  "account_type_freemium": "Gimi Tracker",
+  "loading_after_onfido_check": "Verifying your ID card and personal details..."
 }

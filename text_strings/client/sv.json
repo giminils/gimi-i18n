@@ -2216,5 +2216,6 @@
   "personal_number_no_exist_title": "PLZ_CHECK Error with personal number",
   "personal_number_no_exist_desc": "PLZ_CHECK We cant find any data with your personal number. Please go back and check your details",
   "account_type_premium": "PLZ_CHECK Gimi Premium",
-  "account_type_freemium": "PLZ_CHECK Gimi Tracker"
+  "account_type_freemium": "PLZ_CHECK Gimi Tracker",
+  "loading_after_onfido_check": "PLZ_CHECK Verifying your ID card and personal details..."
 }
