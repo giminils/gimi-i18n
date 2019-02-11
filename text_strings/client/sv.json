@@ -2214,5 +2214,7 @@
   "no_supporters_in_phone_contacts_kid": "PLZ_CHECK Couldn't find supporters in your contacts ☹️",
   "no_supporters_in_phone_contacts_parent": "PLZ_CHECK No other supporters among your contacts 😟",
   "personal_number_no_exist_title": "PLZ_CHECK Error with personal number",
-  "personal_number_no_exist_desc": "PLZ_CHECK We cant find any data with your personal number. Please go back and check your details"
+  "personal_number_no_exist_desc": "PLZ_CHECK We cant find any data with your personal number. Please go back and check your details",
+  "account_type_premium": "PLZ_CHECK Gimi Premium",
+  "account_type_freemium": "PLZ_CHECK Gimi Tracker"
 }
