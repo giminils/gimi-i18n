@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Vi lyckades hämta dina bankuppgifter!",
   "push_instantor_unsuccessful_login": "Hämtning av bankdetaljer misslyckades",
   "push_instantor_login_timeout": "Du godkände inte inloggningsförfrågan på `MobiltBankId` inom 2 minuter.",
-  "event_connect_for_money": "Inga pengar än, bjud in en förälder",
+  "event_connect_for_money": "PLZ_CHECK No supporters, no money. Invite a parent!",
   "event_create_dream": "Börja spara till din dröm!",
   "event_secure_account": "Säkra ditt användarkonto",
   "event_allowance_tips": "Bra att veta om vecko- eller månadspeng",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
   "ADGERE016_notification_title": "Din inbjudan accepterades inte... Bjuda in någon annan?",
   "ADGEON005_push_title": "PLZ_CHECK Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_CHECK Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_CHECK Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_CHECK {child.nickname} has reached a dream"
 }

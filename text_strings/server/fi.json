@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Pankkitietojen kerääminen onnistui!",
   "push_instantor_unsuccessful_login": "Pankkitietojen kerääminen epäonnistui!",
   "push_instantor_login_timeout": "Et hyväksynyt 'MobileBankId'-kirjautumispyyntöä 2 minuutissa.",
-  "event_connect_for_money": "Yhdistä saadaksesi rahat",
+  "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",
   "event_create_dream": "Luo unelmasi",
   "event_secure_account": "Suojaa tilisi",
   "event_allowance_tips": "Hyvä tietää taskurahasta",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
   "ADGERE016_notification_title": "Kutsusi hylättiin. Kutsu joku muu?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }

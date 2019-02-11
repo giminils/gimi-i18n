@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Détails bancaires recueillis avec succès!",
   "push_instantor_unsuccessful_login": "La collecte des détails bancaires a échouée!",
   "push_instantor_login_timeout": "Vous n'avez pas autorisé la connexion demandée sur `MobiltBankId` en 2 minutes.",
-  "event_connect_for_money": "Connectez-vous pour recevoir l'argent",
+  "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",
   "event_create_dream": "Créez votre souhait",
   "event_secure_account": "Sécurisez votre compte",
   "event_allowance_tips": "Bon à savoir à propos de l'allocation",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGERE016_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }

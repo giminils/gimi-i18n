@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Bankdaten erfolgreich gespeichert!",
   "push_instantor_unsuccessful_login": "Das Speichern der Bankdaten ist fehlgeschlagen!",
   "push_instantor_login_timeout": "Du hast die Anmeldeanfrage auf `MobiltBankId` nicht binnen 2 Minuten genehmigt.",
-  "event_connect_for_money": "Verbinden um Geld zu bekommen",
+  "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",
   "event_create_dream": "Erstelle einen Traum",
   "event_secure_account": "Sichere Deinen Account",
   "event_allowance_tips": "Wissenswertes über Taschengeld",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
   "ADGERE016_notification_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }

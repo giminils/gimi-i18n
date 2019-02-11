@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Vellykket samlet bankopplysninger!",
   "push_instantor_unsuccessful_login": "Samling av bankopplysninger var ikke vellykket!",
   "push_instantor_login_timeout": "Du godtok ikke innloggingsforespørselen på `MobiltBankId` på 2 minutter.",
-  "event_connect_for_money": "Koble til for å få penger",
+  "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",
   "event_create_dream": "Skap din egen drøm",
   "event_secure_account": "Sikre din konto",
   "event_allowance_tips": "Fint å vite om uke- eller månedspenger",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGERE016_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }

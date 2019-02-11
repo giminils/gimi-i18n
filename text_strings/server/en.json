@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Bank details entered successfully!",
   "push_instantor_unsuccessful_login": "Entering bank details was unsuccessful!",
   "push_instantor_login_timeout": "You did not approve the Login request on `MobiltBankId` in 2 minutes.",
-  "event_connect_for_money": "PLZ_COPY No supporters, no money. Invite a parent!",
+  "event_connect_for_money": "No supporters, no money. Invite a parent!",
   "event_create_dream": "Start saving towards your dream!",
   "event_secure_account": "Secure your user account",
   "event_allowance_tips": "Good to know about allowances",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "Your invitation wasn't accepted. Invite someone else?",
   "ADGERE016_notification_title": "Your invitation wasn't accepted. Invite someone else?",
   "ADGEON005_push_title": "Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_COPY Today is Payday! 🤩",
+  "CHFRRE001_notification_title": "Today is Payday! 🤩",
   "ADGERE011_notification_title": "{child.nickname} has reached a dream"
 }

@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Dati bancari raccolti con successo!",
   "push_instantor_unsuccessful_login": "La raccolta dei dati bancari è riuscita con successo!",
   "push_instantor_login_timeout": "Non hai approvato la richiesta di accesso su 'MobiltBankId' entro 2 minuti.",
-  "event_connect_for_money": "Connettiti per ottenere soldi",
+  "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",
   "event_create_dream": "Crea il tuo desiderio",
   "event_secure_account": "Rendi sicuro il tuo account",
   "event_allowance_tips": "Cosa sapere sulla paghetta",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGERE016_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }

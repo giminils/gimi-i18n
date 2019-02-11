@@ -174,7 +174,7 @@
   "push_instantor_successful_login": "Succesvol bank details opgehaald!",
   "push_instantor_unsuccessful_login": "Ophalen bank details mislukt!",
   "push_instantor_login_timeout": "U heeft het login verzoek op `MobiltBankId` niet binnen 2 minuten geaccordeerd.",
-  "event_connect_for_money": "Verbind om geld te krijgen",
+  "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",
   "event_create_dream": "Creëer je droom",
   "event_secure_account": "Beveilig je account",
   "event_allowance_tips": "Goed om te weten over zakgeld",
@@ -484,6 +484,6 @@
   "CHGERE017_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGERE016_notification_title": "PLZ_TRANSLATE Your invitation was rejected. Invite someone else?",
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
-  "CHFRRE001_notification_title": "PLZ_TRANSLATE Payday! You have received a payment to your Cloud!",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream"
 }
