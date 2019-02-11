@@ -2213,8 +2213,8 @@
   "education_start_chapter": "Start challenge",
   "no_supporters_in_phone_contacts_kid": "Couldn't find supporters in your contacts ☹️",
   "no_supporters_in_phone_contacts_parent": "No other supporters among your contacts 😟",
-  "personal_number_no_exist_title": "Error with personal number",
-  "personal_number_no_exist_desc": "We cant find any data with your personal number. Please go back and check your details",
+  "personal_number_no_exist_title": "PLZ_COPY Something went wrong...",
+  "personal_number_no_exist_desc": "We cant find any data on your personal number. Please go back and check your details.",
   "account_type_premium": "Gimi Premium",
   "account_type_freemium": "Gimi Tracker",
   "loading_after_onfido_check": "Verifying your ID card and personal details..."
