@@ -28,7 +28,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_1_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'earn_chapter_1_desc', NOTE TO SELF: probably not used
+          chapterSessionDescLangKey: 'earn_chapter_1_desc', // NOTE TO SELF: probably not used
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -66,7 +66,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_2_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'earn_chapter_2_desc',
+          chapterSessionDescLangKey: 'earn_chapter_2_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -107,7 +107,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_3_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'earn_chapter_3_desc',
+          chapterSessionDescLangKey: 'earn_chapter_3_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -140,7 +140,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_4_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'earn_chapter_4_desc',
+          chapterSessionDescLangKey: 'earn_chapter_4_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -181,7 +181,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_1_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'save_chapter_1_desc',
+          chapterSessionDescLangKey: 'save_chapter_1_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -214,7 +214,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_2_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'save_chapter_2_desc',
+          chapterSessionDescLangKey: 'save_chapter_2_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -247,7 +247,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_3_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'save_chapter_3_desc',
+          chapterSessionDescLangKey: 'save_chapter_3_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -288,7 +288,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_4_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'save_chapter_4_desc',
+          chapterSessionDescLangKey: 'save_chapter_4_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -337,7 +337,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_1_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'spend_chapter_1_desc',
+          chapterSessionDescLangKey: 'spend_chapter_1_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -374,7 +374,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_2_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'spend_chapter_2_desc',
+          chapterSessionDescLangKey: 'spend_chapter_2_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -411,7 +411,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_3_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'spend_chapter_3_desc',
+          chapterSessionDescLangKey: 'spend_chapter_3_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
@@ -448,7 +448,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_4_intro',
           // image: must be set programmatically. Unless it's an url
-          // chapterSessionDescLangKey: 'spend_chapter_4_desc',
+          chapterSessionDescLangKey: 'spend_chapter_4_desc',
           relatedLinks: [
             {
               displayLangKey: 'general_name',
