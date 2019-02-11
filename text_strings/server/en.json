@@ -485,5 +485,6 @@
   "ADGERE016_notification_title": "Your invitation wasn't accepted. Invite someone else?",
   "ADGEON005_push_title": "Add a profile picture!",
   "CHFRRE001_notification_title": "Today is Payday! 🤩",
-  "ADGERE011_notification_title": "{child.nickname} has reached a dream"
+  "ADGERE011_notification_title": "{child.nickname} has reached a dream",
+  "CHGERE033_push_title": "Don't forget you have {savings_balance} in savings! ✌️"
 }
