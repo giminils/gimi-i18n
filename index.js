@@ -64,6 +64,7 @@ import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
 import Courses from './Courses'
+import ExperimentalCourses from './Education'
 
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 export var gimiWebLanguageCodes = ['en', 'sv']
@@ -189,6 +190,8 @@ export let getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfl
 export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
 
 export let getCourses = () => Courses
+
+export let getExperimentalCourses = () => ExperimentalCourses
 
 export let getChapter = () => Courses
 
