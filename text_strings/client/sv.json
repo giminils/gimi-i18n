@@ -2210,5 +2210,7 @@
   "buy_premium_included_card_title": "Gimi-kortet",
   "parent_signup_phone_subtitle": "PLZ_CHECK Children without a phone can sign up up with an email, but all adults have a phone number!",
   "button_debt_explainer": "PLZ_CHECK Where did the money go!?",
-  "education_start_chapter": "PLZ_CHECK Start challenge"
+  "education_start_chapter": "PLZ_CHECK Start challenge",
+  "no_supporters_in_phone_contacts_kid": "PLZ_CHECK Couldn't find supporters in your contacts ☹️",
+  "no_supporters_in_phone_contacts_parent": "PLZ_CHECK No other supporters among your contacts 😟"
 }
