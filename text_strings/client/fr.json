@@ -2220,5 +2220,12 @@
   "account_type_premium": "PLZ_TRANSLATE Gimi Premium",
   "account_type_freemium": "PLZ_TRANSLATE Gimi Tracker",
   "loading_after_onfido_check": "PLZ_TRANSLATE Verifying your ID card and personal details...",
-  "general_featured_chores": "PLZ_TRANSLATE Featured chores"
+  "general_featured_chores": "PLZ_TRANSLATE Featured chores",
+  "parent_kid_earn_suggested_empty": "PLZ_TRANSLATE All clear. Well done! 👌",
+  "parent_kid_earn_pending_empty": "PLZ_TRANSLATE Give you child something to do! 👇",
+  "parent_kid_earn_completed_empty": "PLZ_TRANSLATE Looks too empty here IMO... 🧐",
+  "kid_earn_to_be_done_empty": "PLZ_TRANSLATE Nothing to do? Suggest a chore! 👇",
+  "kid_earn_completed_empty": "PLZ_TRANSLATE No completed chores means no extra money this week! 😱",
+  "kid_earn_suggested_empty": "PLZ_TRANSLATE Nothing here...",
+  "general_empty": "PLZ_TRANSLATE Empty..."
 }

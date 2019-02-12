@@ -2220,5 +2220,12 @@
   "account_type_premium": "Gimi Premium",
   "account_type_freemium": "Gimi Tracker",
   "loading_after_onfido_check": "Verifying your ID card and personal details...",
-  "general_featured_chores": "Featured chores"
+  "general_featured_chores": "Featured chores",
+  "parent_kid_earn_suggested_empty": "All clear. Well done! 👌",
+  "parent_kid_earn_pending_empty": "Give you child something to do! 👇",
+  "parent_kid_earn_completed_empty": "Looks too empty here IMO... 🧐",
+  "kid_earn_to_be_done_empty": "Nothing to do? Suggest a chore! 👇",
+  "kid_earn_completed_empty": "No completed chores means no extra money this week! 😱",
+  "kid_earn_suggested_empty": "Nothing here...",
+  "general_empty": "Empty..."
 }
