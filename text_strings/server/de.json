@@ -486,5 +486,7 @@
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
   "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! 🤩",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a dream",
-  "CHGERE033_push_title": "PLZ_TRANSLATE Don't forget you have {savings_balance} in savings! ✌️"
+  "CHGERE033_push_title": "PLZ_TRANSLATE Don't forget you have {savings_balance} in savings! ✌️",
+  "CHGERE028_push_title": "PLZ_TRANSLATE You and {ConnectionToken.used_by.nickname} are connected!",
+  "CHGERE028_notification_title": "PLZ_TRANSLATE You are now connected with {ConnectionToken.used_by.nickname}!"
 }

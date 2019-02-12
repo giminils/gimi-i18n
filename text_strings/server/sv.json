@@ -486,5 +486,7 @@
   "ADGEON005_push_title": "Lägg till en profilbild!",
   "CHFRRE001_notification_title": "Idag är det Payday! 🤩",
   "ADGERE011_notification_title": "{child.nickname} har sparat ihop till sin dröm!",
-  "CHGERE033_push_title": "Glöm inte att du har {savings_balance} i Sparat! ✌️"
+  "CHGERE033_push_title": "Glöm inte att du har {savings_balance} i Sparat! ✌️",
+  "CHGERE028_push_title": "PLZ_CHECK You and {ConnectionToken.used_by.nickname} are connected!",
+  "CHGERE028_notification_title": "PLZ_CHECK You are now connected with {ConnectionToken.used_by.nickname}!"
 }
