@@ -1192,6 +1192,8 @@
   "general_add": "Ajouter",
   "allowance_frequency_select_monthly_title": "Mensuel",
   "allowance_frequency_select_weekly_title": "Hebdomadaire",
+  "allowance_frequency_select_monthly_subtitle": "PLZ_TRANSLATE Monthly allowance is paid once a month on the day of your choice.",
+  "allowance_frequency_select_weekly_subtitle": "PLZ_TRANSLATE Weekly allowance is paid once a week on the day of your choice.",
   "notification_section_setup": "PLZ_TRANSLATE Get started with Gimi!",
   "general_weekly_allowance": "Argent de poche hebdomadaire",
   "general_monthly_allowance": "Argent de poche mensuel",
