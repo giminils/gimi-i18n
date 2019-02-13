@@ -2233,5 +2233,12 @@
   "kid_request_money_button": "Send request",
   "you_requested_money_tinder_card_title": "You just requested money from %1$d",
   "you_requested_money_tinder_card_text": "We'll let you know, and keep you posted",
-  "general_more_instructions": "More instructions"
+  "general_more_instructions": "More instructions",
+  "kid_card_explainer_header": "Start using the Gimi card",
+  "kid_card_explainer_balance_title": "Got money on the card?",
+  "kid_card_explainer_balance_subtitle": "To pay you need money on the card. Check the price of what you're buying, make sure you have enough, or top-up from your savings account.",
+  "kid_card_explainer_pay_in_store_title": "Paying in store",
+  "kid_card_explainer_pay_in_store_subtitle": "When paying, you can either blip the card, or inject it in the terminal. Then you type your secret PIN code. If you forgot it, you can see it in the app.",
+  "kid_card_explainer_paying_online_title": "Paying online",
+  "kid_card_explainer_paying_online_subtitle": "When you pay online, you'll need to type your card information. You can find  all of this on the button called \"card details\" on your card account."
 }
