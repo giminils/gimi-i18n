@@ -2228,5 +2228,6 @@
   "kid_earn_to_be_done_empty": "PLZ_CHECK Nothing to do? Suggest a chore! 👇",
   "kid_earn_completed_empty": "PLZ_CHECK No completed chores means no extra money this week! 😱",
   "kid_earn_suggested_empty": "PLZ_CHECK Nothing here...",
-  "general_empty": "PLZ_CHECK Empty..."
+  "general_empty": "PLZ_CHECK Empty...",
+  "how_to_use_the_card_removable_button": "PLZ_CHECK How to use the card"
 }
