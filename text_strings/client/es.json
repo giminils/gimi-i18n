@@ -2232,5 +2232,6 @@
   "how_to_use_the_card_removable_button": "PLZ_TRANSLATE How to use the card",
   "kid_request_money_button": "PLZ_TRANSLATE Send request",
   "you_requested_money_tinder_card_title": "PLZ_TRANSLATE You just requested money from %1$d",
-  "you_requested_money_tinder_card_text": "PLZ_TRANSLATE We'll let you know, and keep you posted"
+  "you_requested_money_tinder_card_text": "PLZ_TRANSLATE We'll let you know, and keep you posted",
+  "general_more_instructions": "PLZ_TRANSLATE More instructions"
 }
