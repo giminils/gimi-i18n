@@ -764,6 +764,7 @@
   "general_got_it": "Ich habe es geschafft",
   "choose_country": "wähle Land",
   "is_this_number_correct": "Ist das Deine Telefonnummer?",
+  "is_this_number_correct_subtitle": "PLZ_TRANSLATE Just making sure we have the right number...",
   "resend_code": "sende Code noch einmal",
   "verify_number": "gib Code ein",
   "international_number": "internationale Nummer",

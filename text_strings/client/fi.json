@@ -764,6 +764,7 @@
   "general_got_it": "selvä",
   "choose_country": "valitse maa",
   "is_this_number_correct": "Onko tämä puhelinnumerosi?",
+  "is_this_number_correct_subtitle": "PLZ_TRANSLATE Just making sure we have the right number...",
   "resend_code": "lähetä koodi uudestaan",
   "verify_number": "syötä koodi",
   "international_number": "kansainvälinen numero",

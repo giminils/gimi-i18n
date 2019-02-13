@@ -764,6 +764,7 @@
   "general_got_it": "Ik heb het begrepen",
   "choose_country": "kies land",
   "is_this_number_correct": "Is dit je telefoonnummer?",
+  "is_this_number_correct_subtitle": "PLZ_TRANSLATE Just making sure we have the right number...",
   "resend_code": "Code nogmaals sturen",
   "verify_number": "vul de code in",
   "international_number": "internationaal nummer",
