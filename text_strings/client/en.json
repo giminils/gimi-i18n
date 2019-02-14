@@ -789,7 +789,7 @@
   "general_full_name": "Full name",
   "question_name_not_correct": "name not correct?",
   "question_address_correct": "Is the address correct?",
-  "address_verification_description": "PLZ_CHECK We only ship to Sweden, so make sure you've stated a Swedish address.",
+  "address_verification_description": "PLZ_CHECK We only issue cards in Sweden, so make sure you have a Swedish address.",
   "general_country": "Country",
   "general_sweden": "Sweden",
   "question_address_not_correct": "address not correct?",
@@ -813,7 +813,7 @@
   "get_the_card": "Get the card",
   "approve_payouts": "Approve deposit",
   "enter_your_address": "Enter your address",
-  "we_only_ship_to_sweden": "We only ship to addresses in Sweden.",
+  "we_only_ship_to_sweden": "PLZ_COPY We only issue cards in Sweden, so make sure you've stated a swedish address.",
   "activate_card_start_title": "Did you get your Gimi card yet?",
   "activate_card_start_description": "You can activate it anytime you want, but we recommend you wait until your card has arrived! It's safer that way.",
   "replace_card_start_title": "have you got your new card yet?",
@@ -1325,7 +1325,7 @@
   "snooze_payout_singluar_text": "Your child is expecting their Payday money!",
   "snooze_payout_plural_text": "Your children are expecting their Payday money!",
   "general_sure": "Sure",
-  "payout_loading_text": "PLZ_CHECK You're temporarily leaving the Gimi app to add your card details...",
+  "payout_loading_text": "PLZ_COPY You're temporarily leaving the Gimi app to confirm your card details...",
   "why_phone_number": "Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family.",
   "general_the_card": "The card",
   "general_the_savings_account": "The account",
@@ -1561,7 +1561,7 @@
   "general_share_gimi": "Share Gimi",
   "general_points": "points",
   "money_settings": "Payday, allowance and interest",
-  "kid_invite_parent": "Hey there! You need some parents in here to make it work…",
+  "kid_invite_parent": "PLZ_COPY Hey there! You need some supporters in here to make it work…",
   "delete_recurring_popover_title": "You sure you want to delete %1$d?",
   "delete_recurring_popover_text": "This means deleting it on all it’s active days, as well as all completed chores. It will also deduct the money previously earned through this chore from payday. If you only want to change the frequency, go to chore settings!",
   "general_delete_all": "Delete all",
@@ -2248,5 +2248,5 @@
   "iap_error_view_text": "We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "My supporters",
   "suggest_your_own_chore": "Suggest your own chore",
-  "order_card_going_to_payment_loading_text": "Redirecting to payment client"
+  "order_card_going_to_payment_loading_text": "PLZ_COPY You're temporarily leaving the Gimi app to add your card details..."
 }
