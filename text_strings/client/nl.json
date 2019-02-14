@@ -2247,5 +2247,6 @@
   "iap_error_view_title": "PLZ_TRANSLATE Successfully got an error ",
   "iap_error_view_text": "PLZ_TRANSLATE We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "PLZ_TRANSLATE My supporters",
-  "suggest_your_own_chore": "PLZ_TRANSLATE Suggest your own chore"
+  "suggest_your_own_chore": "PLZ_TRANSLATE Suggest your own chore",
+  "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE Redirecting to payment client"
 }

@@ -2247,5 +2247,6 @@
   "iap_error_view_title": "PLZ_CHECK Successfully got an error ",
   "iap_error_view_text": "PLZ_CHECK We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "Mina supporters",
-  "suggest_your_own_chore": "Föreslå egen uppgift"
+  "suggest_your_own_chore": "Föreslå egen uppgift",
+  "order_card_going_to_payment_loading_text": "PLZ_CHECK Redirecting to payment client"
 }
