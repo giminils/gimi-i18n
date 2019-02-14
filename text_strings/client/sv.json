@@ -2245,5 +2245,6 @@
   "name_is_requesting_money": "PLZ_CHECK %1$d is requesting",
   "select_kid_for_card_subtitle": "PLZ_CHECK One card at the time. You will be able to order more cards later!",
   "iap_error_view_title": "PLZ_CHECK Successfully got an error ",
-  "iap_error_view_text": "PLZ_CHECK We successfully crashed your purchase! not good stuff..."
+  "iap_error_view_text": "PLZ_CHECK We successfully crashed your purchase! not good stuff...",
+  "general_my_supporters": "Mina supporters"
 }
