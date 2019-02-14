@@ -2246,5 +2246,6 @@
   "select_kid_for_card_subtitle": "PLZ_TRANSLATE One card at the time. You will be able to order more cards later!",
   "iap_error_view_title": "PLZ_TRANSLATE Successfully got an error ",
   "iap_error_view_text": "PLZ_TRANSLATE We successfully crashed your purchase! not good stuff...",
-  "general_my_supporters": "PLZ_TRANSLATE My supporters"
+  "general_my_supporters": "PLZ_TRANSLATE My supporters",
+  "suggest_your_own_chore": "PLZ_TRANSLATE Suggest your own chore"
 }

@@ -2246,5 +2246,6 @@
   "select_kid_for_card_subtitle": "One card at the time. You will be able to order more cards later!",
   "iap_error_view_title": "Successfully got an error ",
   "iap_error_view_text": "We successfully crashed your purchase! not good stuff...",
-  "general_my_supporters": "My supporters"
+  "general_my_supporters": "My supporters",
+  "suggest_your_own_chore": "Suggest your own chore"
 }

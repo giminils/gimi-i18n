@@ -2246,5 +2246,6 @@
   "select_kid_for_card_subtitle": "PLZ_CHECK One card at the time. You will be able to order more cards later!",
   "iap_error_view_title": "PLZ_CHECK Successfully got an error ",
   "iap_error_view_text": "PLZ_CHECK We successfully crashed your purchase! not good stuff...",
-  "general_my_supporters": "Mina supporters"
+  "general_my_supporters": "Mina supporters",
+  "suggest_your_own_chore": "Föreslå egen uppgift"
 }
