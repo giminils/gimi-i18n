@@ -813,7 +813,7 @@
   "get_the_card": "Skaffa kortet",
   "approve_payouts": "Godkänn utbetalningar",
   "enter_your_address": "Skriv in din adress",
-  "we_only_ship_to_sweden": "Vi skickar bara till Sverige.",
+  "we_only_ship_to_sweden": "PLZ_CHECK We only issue cards in Sweden, so make sure you've stated a swedish address.",
   "activate_card_start_title": "Har du fått ditt Gimi-kort?",
   "activate_card_start_description": "Du kan aktivera det när du vill, men vi rekommenderar att du väntar tills du har fått hem kortet! Det är säkrare så.",
   "replace_card_start_title": "Har ditt nya kort kommit än?",
@@ -1325,7 +1325,7 @@
   "snooze_payout_singluar_text": "Ditt barn väntar på utbetalning!",
   "snooze_payout_plural_text": "Dina barn väntar på utbetalning!",
   "general_sure": "OK",
-  "payout_loading_text": "Skickar dig vidare till Gimi kortet...",
+  "payout_loading_text": "PLZ_CHECK You're temporarily leaving the Gimi app to confirm your card details...",
   "why_phone_number": "Varför behöver vi ditt nummer? Vi använder telefonnumret för att koppla ihop dig med din familj, och garantera att det inte sker ihopkopplingar med någon utanför familjen.",
   "general_the_card": "kort",
   "general_the_savings_account": "konto",
@@ -1561,7 +1561,7 @@
   "general_share_gimi": "Dela Gimi",
   "general_points": "poäng",
   "money_settings": "Payday, veckopeng och ränta",
-  "kid_invite_parent": "Hallå där! Du behöver föräldrar här inne för att Gimi ska funka...",
+  "kid_invite_parent": "PLZ_CHECK Hey there! You need some supporters in here to make it work…",
   "delete_recurring_popover_title": "Är du säker på att du vill radera %1$d?",
   "delete_recurring_popover_text": "Detta innebär att du raderar den för alla dagar den är aktiv, samt alla redan godkända uppgifter. Pengarna i Payday som tidigare tjänats på denna uppgift kommer därmed dras bort. Om du bara vill ändra när den är tillgänglig, gå till inställningar för Uppgifter!",
   "general_delete_all": "Radera allt",
@@ -2248,5 +2248,5 @@
   "iap_error_view_text": "PLZ_CHECK We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "Mina supporters",
   "suggest_your_own_chore": "Föreslå egen uppgift",
-  "order_card_going_to_payment_loading_text": "Vi skickar dig vidare så att du kan ange dina kortuppgifter..."
+  "order_card_going_to_payment_loading_text": "PLZ_CHECK You're temporarily leaving the Gimi app to add your card details..."
 }

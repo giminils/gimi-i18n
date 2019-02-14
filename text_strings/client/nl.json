@@ -813,7 +813,7 @@
   "get_the_card": "Pak de kaart",
   "approve_payouts": "Uitbetalingen goedkeuren",
   "enter_your_address": "Vul je adres in",
-  "we_only_ship_to_sweden": "We versturen post alleen binnen Zweden.",
+  "we_only_ship_to_sweden": "PLZ_TRANSLATE We only issue cards in Sweden, so make sure you've stated a swedish address.",
   "activate_card_start_title": "PLZ_TRANSLATE Has your Gimi card arrived?",
   "activate_card_start_description": "PLZ_TRANSLATE you can activate it anytime you want, but we recommend you wait until your card has arrived! It's safer that way.",
   "replace_card_start_title": "heb jij je nieuwe kaart al?",
@@ -1325,7 +1325,7 @@
   "snooze_payout_singluar_text": "Je kind verwacht de betaling!",
   "snooze_payout_plural_text": "Je kinderen verwachten hun betaling!",
   "general_sure": "Zeker",
-  "payout_loading_text": "Stuur je naar kaart dingen...",
+  "payout_loading_text": "PLZ_TRANSLATE You're temporarily leaving the Gimi app to confirm your card details...",
   "why_phone_number": "Waarom hebben we je telefoonnummer nodig? We gebruiken het telefoonnummer om je te linken aan je gezin en om te garanderen dat er geen link is met iemand buiten het gezin.",
   "general_the_card": "De kaart",
   "general_the_savings_account": "De spaarrekening",
@@ -1561,7 +1561,7 @@
   "general_share_gimi": "Deel Gimi",
   "general_points": "punten",
   "money_settings": "Payday, zakgeld en rente",
-  "kid_invite_parent": "Hé daar! Je hebt een paar volwassenen nodig om het te laten werken…",
+  "kid_invite_parent": "PLZ_TRANSLATE Hey there! You need some supporters in here to make it work…",
   "delete_recurring_popover_title": "Weet je zeker dat je %1$d wilt verwijderen?",
   "delete_recurring_popover_text": "Dit betekent verwijderen op alle actieve dagen, als je alleen de frequentie wilt veranderen ga dan naar instellingen voor klusjes!",
   "general_delete_all": "Verwijder alles",
@@ -2248,5 +2248,5 @@
   "iap_error_view_text": "PLZ_TRANSLATE We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "PLZ_TRANSLATE My supporters",
   "suggest_your_own_chore": "PLZ_TRANSLATE Suggest your own chore",
-  "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE Redirecting to payment client"
+  "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE You're temporarily leaving the Gimi app to add your card details..."
 }
