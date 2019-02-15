@@ -345,7 +345,6 @@
   "push_name_made_deposit_to_account": "Du har fått en insättning till ditt konto",
   "push_give_chores_to_children": "Kom ihåg att du kan ge ut uppgifter i Gimi!",
   "push_verify_phone_to_custom_account": "Verifiera ditt telefonnummer",
-  "event_settle_your_debt": "Bli kvitt din skuld till {child.nickname}",
   "push_chores_waiting": "Du har {x} uppgifter som väntar! Gå och tjäna extra penagr!",
   "event_add_card": "Lägg till ett kort för att kunna göra insättningar till barnen!",
   "event_child_spend": "💳 Du spenderade just {pfstransactionstatement.str_amount} på {pfstransactionstatement.merchant_name}",
@@ -491,5 +490,6 @@
   "CHGERE028_notification_title": "PLZ_CHECK You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "PLZ_CHECK You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "PLZ_CHECK You and {child.nickname} are connected!",
-  "ADGEON005_notification_title": "PLZ_CHECK Add a profile pic!"
+  "ADGEON005_notification_title": "PLZ_CHECK Add a profile pic!",
+  "event_settle_your_debt": "Bli kvitt din skuld till {child.nickname}"
 }

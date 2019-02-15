@@ -345,7 +345,6 @@
   "push_name_made_deposit_to_account": "Je hebt een storting op je spaarrekening gekregen",
   "push_give_chores_to_children": "Denk aan klusjes! Daardoor leren kinderen over verdienen!",
   "push_verify_phone_to_custom_account": "Verifieer telefoonnummer",
-  "event_settle_your_debt": "Voldoe je schuld aan {child.nickname}",
   "push_chores_waiting": "Er wachten {x} klusjes op je. Ga wat geld verdienen!",
   "event_add_card": "Voeg je betaalkaart toe zodat je geld kunt storten voor je kinderen!",
   "event_child_spend": "💳 Je hebt net {pfstransactionstatement.str_amount} uitgegeven bij {pfstransactionstatement.merchant_name}",
@@ -491,5 +490,6 @@
   "CHGERE028_notification_title": "PLZ_TRANSLATE You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "PLZ_TRANSLATE You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected!",
-  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!"
+  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!",
+  "event_settle_your_debt": "Voldoe je schuld aan {child.nickname}"
 }

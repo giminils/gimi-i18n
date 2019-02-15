@@ -345,7 +345,6 @@
   "push_name_made_deposit_to_account": "Du har modtaget en indbetaling i din opsparing",
   "push_give_chores_to_children": "Husk opgaver! Det lærer børn om at tjene penge!",
   "push_verify_phone_to_custom_account": "Verificer telefonnummer",
-  "event_settle_your_debt": "Afvikl din gæld til {child.nickname}",
   "push_chores_waiting": "Du har {x} opgaver der venter. Få tjent nogle penge!",
   "event_add_card": "Tilføj dit betalingskort, så du kan foretage indbetalinger til dine børn!",
   "event_child_spend": "💳 Du har lige brugt {pfstransactionstatement.str_amount} hos {pfstransactionstatement.merchant_name}",
@@ -491,5 +490,6 @@
   "CHGERE028_notification_title": "PLZ_TRANSLATE You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "PLZ_TRANSLATE You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected!",
-  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!"
+  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!",
+  "event_settle_your_debt": "Afvikl din gæld til {child.nickname}"
 }

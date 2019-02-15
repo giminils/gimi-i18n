@@ -345,7 +345,6 @@
   "push_name_made_deposit_to_account": "You received a deposit in your savings",
   "push_give_chores_to_children": "Remember your chores!",
   "push_verify_phone_to_custom_account": "Verify your phone number",
-  "event_settle_your_debt": "Settle your debt to {child.nickname}",
   "push_chores_waiting": "You have {x} chores waiting. Go earn some money!",
   "event_add_card": "Add your debit card so you can deposit to your children!",
   "event_child_spend": "💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
@@ -491,5 +490,6 @@
   "CHGERE028_notification_title": "You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "You and {child.nickname} are connected!",
-  "ADGEON005_notification_title": "Add a profile pic!"
+  "ADGEON005_notification_title": "Add a profile pic!",
+  "event_settle_your_debt": "{child.nickname} has been upgraded to Master!"
 }

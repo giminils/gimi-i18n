@@ -345,7 +345,6 @@
   "push_name_made_deposit_to_account": "Olet saanut talletuksen säästöihisi",
   "push_give_chores_to_children": "Muista antaa askareita!",
   "push_verify_phone_to_custom_account": "Vahvista puhelinnumerosi",
-  "event_settle_your_debt": "Sovittele velkasi lapsesi {child.nickname} kanssa",
   "push_chores_waiting": "Sinulla on {x} askaretta odottamassa. On aika ansaita rahaa!",
   "event_add_card": "Lisää pankkikorttisi, jotta voit tallettaa rahaa lapsillesi!",
   "event_child_spend": "💳 Käytit juuri {pfstransactionstatement.str_amount} kauppiaalla {pfstransactionstatement.merchant_name}",
@@ -491,5 +490,6 @@
   "CHGERE028_notification_title": "PLZ_TRANSLATE You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "PLZ_TRANSLATE You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected!",
-  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!"
+  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!",
+  "event_settle_your_debt": "Sovittele velkasi lapsesi {child.nickname} kanssa"
 }
