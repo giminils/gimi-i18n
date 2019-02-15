@@ -2249,5 +2249,6 @@
   "general_my_supporters": "My supporters",
   "suggest_your_own_chore": "Suggest your own chore",
   "order_card_going_to_payment_loading_text": "You're temporarily leaving the Gimi app to add your card details...",
-  "testable_component_text_string": "Tests are good"
+  "testable_component_text_string": "Tests are good!",
+  "testable_component_text_string_header": "Testable Header!"
 }
