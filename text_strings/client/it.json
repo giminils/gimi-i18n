@@ -2250,5 +2250,6 @@
   "suggest_your_own_chore": "PLZ_TRANSLATE Suggest your own chore",
   "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE You're temporarily leaving the Gimi app to add your card details...",
   "testable_component_text_string": "PLZ_TRANSLATE Tests are good!",
-  "testable_component_text_string_header": "PLZ_TRANSLATE Testable Header!"
+  "testable_component_text_string_header": "PLZ_TRANSLATE Testable Header!",
+  "connections_connected_supporters": "PLZ_TRANSLATE Connected supporters"
 }

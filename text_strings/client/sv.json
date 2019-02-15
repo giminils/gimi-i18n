@@ -2250,5 +2250,6 @@
   "suggest_your_own_chore": "Föreslå egen uppgift",
   "order_card_going_to_payment_loading_text": "PLZ_CHECK You're temporarily leaving the Gimi app to add your card details...",
   "testable_component_text_string": "PLZ_CHECK Tests are good!",
-  "testable_component_text_string_header": "PLZ_CHECK Testable Header!"
+  "testable_component_text_string_header": "PLZ_CHECK Testable Header!",
+  "connections_connected_supporters": "PLZ_CHECK Connected supporters"
 }
