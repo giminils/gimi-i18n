@@ -490,5 +490,6 @@
   "CHGERE028_push_title": "PLZ_TRANSLATE You and {ConnectionToken.used_by.nickname} are connected!",
   "CHGERE028_notification_title": "PLZ_TRANSLATE You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "PLZ_TRANSLATE You are now connected with {child.nickname}!",
-  "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected! "
+  "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected!",
+  "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!"
 }
