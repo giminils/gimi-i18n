@@ -486,10 +486,10 @@
   "CHFRRE001_notification_title": "Idag är det Payday! 🤩",
   "ADGERE011_notification_title": "{child.nickname} har sparat ihop till sin dröm!",
   "CHGERE033_push_title": "Glöm inte att du har {savings_balance} i Sparat! ✌️",
-  "CHGERE028_push_title": "PLZ_CHECK You and {ConnectionToken.used_by.nickname} are connected!",
-  "CHGERE028_notification_title": "PLZ_CHECK You are now connected with {ConnectionToken.used_by.nickname}!",
-  "ADGERE021_notification_title": "PLZ_CHECK You are now connected with {child.nickname}!",
-  "ADGERE021_push_title": "PLZ_CHECK You and {child.nickname} are connected!",
-  "ADGEON005_notification_title": "PLZ_CHECK Add a profile pic!",
-  "event_settle_your_debt": "Bli kvitt din skuld till {child.nickname}"
+  "CHGERE028_push_title": "Du har blivit ihopkopplad med {ConnectionToken.used_by.nickname}!",
+  "CHGERE028_notification_title": "Du har blivit ihopkopplad med {ConnectionToken.used_by.nickname}!",
+  "ADGERE021_notification_title": "Du har blivit ihopkopplad med {child.nickname}!",
+  "ADGERE021_push_title": "Du har blivit ihopkopplad med {child.nickname}!",
+  "ADGEON005_notification_title": "Lägg till en profilbild!",
+  "event_settle_your_debt": "{child.nickname} har blivit uppgraderad till Master!"
 }
