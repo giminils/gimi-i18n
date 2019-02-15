@@ -245,7 +245,7 @@
   "transfer_savings": "overschrijven van de spaarrekening",
   "suggest_chore": "voeg klusje toe",
   "question_name": "wat is je naam?",
-  "question_age": "wat wil je doen?",
+  "question_age": "PLZ_TRANSLATE What user type are you?",
   "under_18": "alleen onder 18 jaar",
   "over_18": "ouder dan 18",
   "terms_conditions": "Als je doorgaat, dan ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid",
@@ -2163,10 +2163,10 @@
   "ok_back": "PLZ_TRANSLATE OK, back",
   "no_parent_no_chores_title": "PLZ_TRANSLATE Oh no! You need some supporters...",
   "no_parent_no_chores_desc": "PLZ_TRANSLATE You can't start doing chores and earning money before your have supporters who will pay you. ",
-  "signup_kid_user_type_title": "PLZ_TRANSLATE Earn, save, spend",
-  "signup_kid_user_type_subtitle": "PLZ_TRANSLATE For all children",
-  "signup_parent_user_type_title": "PLZ_TRANSLATE Support children",
-  "signup_parent_user_type_subtitle": "PLZ_TRANSLATE For parents, grand-parents and all other grown-ups",
+  "signup_kid_user_type_title": "PLZ_TRANSLATE Child",
+  "signup_kid_user_type_subtitle": "PLZ_TRANSLATE Earn, save and spend your own money",
+  "signup_parent_user_type_title": "PLZ_TRANSLATE Supporter",
+  "signup_parent_user_type_subtitle": "PLZ_TRANSLATE Give money & teach financial superskills",
   "kid_card_set_as_number_button": "PLZ_TRANSLATE You got it",
   "bank_not_working": "PLZ_TRANSLATE Not working :(",
   "skandia_broken_bank_popover_title": "PLZ_TRANSLATE BankID with Skandia is not working…",
@@ -2248,5 +2248,6 @@
   "iap_error_view_text": "PLZ_TRANSLATE We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "PLZ_TRANSLATE My supporters",
   "suggest_your_own_chore": "PLZ_TRANSLATE Suggest your own chore",
-  "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE You're temporarily leaving the Gimi app to add your card details..."
+  "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE You're temporarily leaving the Gimi app to add your card details...",
+  "testable_component_text_string": "Tests are good"
 }

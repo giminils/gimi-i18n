@@ -245,7 +245,7 @@
   "transfer_savings": "transfer from the account",
   "suggest_chore": "add chore",
   "question_name": "what's your name?",
-  "question_age": "PLZ_COPY What user type are you?",
+  "question_age": "What user type are you?",
   "under_18": "under 18 only",
   "over_18": "over 18",
   "terms_conditions": "By continuing, you agree to our Terms of Service and Privacy Policy",
@@ -2163,10 +2163,10 @@
   "ok_back": "OK, back",
   "no_parent_no_chores_title": "Oh no! You need some supporters...",
   "no_parent_no_chores_desc": "You can't start doing chores and earning money before your have supporters who will pay you. ",
-  "signup_kid_user_type_title": "PLZ_COPY Child",
-  "signup_kid_user_type_subtitle": "PLZ_COPY Earn, save and spend your own money",
-  "signup_parent_user_type_title": "PLZ_COPY Supporter",
-  "signup_parent_user_type_subtitle": "PLZ_COPY Give money & teach financial superskills",
+  "signup_kid_user_type_title": "Child",
+  "signup_kid_user_type_subtitle": "Earn, save and spend your own money",
+  "signup_parent_user_type_title": "Supporter",
+  "signup_parent_user_type_subtitle": "Give money & teach financial superskills",
   "kid_card_set_as_number_button": "You got it",
   "bank_not_working": "Not working 😑",
   "skandia_broken_bank_popover_title": "BankID with Skandia is not working…",
@@ -2248,5 +2248,6 @@
   "iap_error_view_text": "We successfully crashed your purchase! not good stuff...",
   "general_my_supporters": "My supporters",
   "suggest_your_own_chore": "Suggest your own chore",
-  "order_card_going_to_payment_loading_text": "You're temporarily leaving the Gimi app to add your card details..."
+  "order_card_going_to_payment_loading_text": "You're temporarily leaving the Gimi app to add your card details...",
+  "testable_component_text_string": "Tests are good"
 }
