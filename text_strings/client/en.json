@@ -1451,7 +1451,7 @@
   "custom_notification_word_from_ceo": "Word from the CEO",
   "pin_code_doesnt_match_old_error": "Passcode does not match the old.",
   "choose_recurring_day_explainer": "If you choose several days, a task will be created for each individual day",
-  "card_pin_header": "the PIN code for your card",
+  "card_pin_header": "PLZ_COPY The PIN code for the Gimi card",
   "push_notification_header": "Turn on notifications and relax...",
   "push_notification_desc": "We will remind you about the important stuff, and let you know when you’re needed.",
   "general_yes_please": "Yes please!",
