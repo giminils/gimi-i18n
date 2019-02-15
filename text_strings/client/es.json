@@ -2251,5 +2251,7 @@
   "order_card_going_to_payment_loading_text": "PLZ_TRANSLATE You're temporarily leaving the Gimi app to add your card details...",
   "testable_component_text_string": "PLZ_TRANSLATE Tests are good!",
   "testable_component_text_string_header": "PLZ_TRANSLATE Testable Header!",
-  "connections_connected_supporters": "PLZ_TRANSLATE Connected supporters"
+  "connections_connected_supporters": "PLZ_TRANSLATE Connected supporters",
+  "childsetup_confirmation_tinder_card_title": "PLZ_TRANSLATE Well done! Setting for your child are saved!",
+  "childsetup_confirmation_tinder_card_subtitle": "PLZ_TRANSLATE You can start enjoying Gimi together with %1$d!"
 }

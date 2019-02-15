@@ -2251,5 +2251,7 @@
   "order_card_going_to_payment_loading_text": "You're temporarily leaving the Gimi app to add your card details...",
   "testable_component_text_string": "Tests are good!",
   "testable_component_text_string_header": "Testable Header!",
-  "connections_connected_supporters": "Connected supporters"
+  "connections_connected_supporters": "Connected supporters",
+  "childsetup_confirmation_tinder_card_title": "Well done! Setting for your child are saved!",
+  "childsetup_confirmation_tinder_card_subtitle": "You can start enjoying Gimi together with %1$d!"
 }
