@@ -2258,5 +2258,6 @@
   "share_save_education_chapter_title": "PLZ_TRANSLATE Saving Chapter Completed!",
   "share_spend_education_chapter_title": "PLZ_TRANSLATE Spending Chapter Completed!",
   "parent_settings_unsetupped_kid_right_section": "PLZ_TRANSLATE Complete setup",
-  "custom_note_survey": "PLZ_TRANSLATE Contribute to research on children and money habits! Take the survey..."
+  "custom_note_survey": "PLZ_TRANSLATE Contribute to research on children and money habits! Take the survey...",
+  "question_currency": "PLZ_TRANSLATE Which currency do you use?"
 }
