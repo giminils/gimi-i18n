@@ -2261,5 +2261,6 @@
   "parent_settings_unsetupped_kid_right_section": "Færdiggør setup",
   "custom_note_survey": "Bidrag til forskning om børn og penge vaner! Tag undersøgelsen...",
   "question_currency": "PLZ_TRANSLATE Which currency do you use?",
-  "add_card_details": "PLZ_TRANSLATE Add card"
+  "add_card_details": "PLZ_TRANSLATE Add card",
+  "debt_explainer_removed_confirmation": "PLZ_TRANSLATE Removed!"
 }

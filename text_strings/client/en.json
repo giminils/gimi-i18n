@@ -2261,5 +2261,6 @@
   "parent_settings_unsetupped_kid_right_section": "Complete setup",
   "custom_note_survey": "Contribute to research on children and money habits! Take the survey...",
   "question_currency": "Which currency do you use?",
-  "add_card_details": "Add card"
+  "add_card_details": "Add card",
+  "debt_explainer_removed_confirmation": "Removed!"
 }

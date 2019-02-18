@@ -2261,5 +2261,6 @@
   "parent_settings_unsetupped_kid_right_section": "PLZ_TRANSLATE Complete setup",
   "custom_note_survey": "PLZ_TRANSLATE Contribute to research on children and money habits! Take the survey...",
   "question_currency": "PLZ_TRANSLATE Which currency do you use?",
-  "add_card_details": "PLZ_TRANSLATE Add card"
+  "add_card_details": "PLZ_TRANSLATE Add card",
+  "debt_explainer_removed_confirmation": "PLZ_TRANSLATE Removed!"
 }
