@@ -1258,7 +1258,7 @@
   "go_back": "Go back",
   "parent_loading_screen_text": "Connecting to cyberspace",
   "question_cancel_subscription": "You sure you want to cancel the Premium subscription?",
-  "cancel_subscription_descr": "The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed when the period you alreay paid for will be over.",
+  "cancel_subscription_descr": "PLZ_COPY The Gimi card will be irrevocably cancelled and the Card and Gimi account of %1$d will be closed, when period you've paid for is over.",
   "general_yes_cancel": "Yes, cancel",
   "wrong_pin_entered": "Wrong passcode",
   "pin_setup_done_descr": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
