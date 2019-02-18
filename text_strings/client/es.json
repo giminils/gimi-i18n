@@ -2262,5 +2262,7 @@
   "custom_note_survey": "PLZ_TRANSLATE Contribute to research on children and money habits! Take the survey...",
   "question_currency": "PLZ_TRANSLATE Which currency do you use?",
   "add_card_details": "PLZ_TRANSLATE Add card",
-  "debt_explainer_removed_confirmation": "PLZ_TRANSLATE Removed!"
+  "debt_explainer_removed_confirmation": "PLZ_TRANSLATE Removed!",
+  "not_main_parent_premium_intro_main_title": "PLZ_TRANSLATE %1$d is upgraded to Master!",
+  "not_main_parent_premium_intro_main_desc": "PLZ_TRANSLATE Gimi master comes with a Gimi card and a savings account. Prepare to start managing real money."
 }
