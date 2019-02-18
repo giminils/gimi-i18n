@@ -2062,6 +2062,7 @@
   "reduce_kids_debt_wihtout_money_message": "Hiermee word je schuld verminderd tot %1$d zonder dat je geld stort",
   "education_how_to_pay_with_a_card": "Hoe met een kaart betalen",
   "kid_savings_deposit_transaction_by": "Storting door %1$d",
+  "kid_savings_deposit_transaction_by_you": "PLZ_TRANSLATE Deposit by you",
   "want_to_transfer_money_now": "Wil je het geld nu overboeken?",
   "want_to_transfer_money_to_kid_now": "Want to transfer money to %1$d now?",
   "payday_for_children": "Payday for your children!",

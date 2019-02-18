@@ -2062,6 +2062,7 @@
   "reduce_kids_debt_wihtout_money_message": "Det här kommer att minska din skuld till %1$d utan att du behöver göra en insättning.",
   "education_how_to_pay_with_a_card": "Att betala med ett kort",
   "kid_savings_deposit_transaction_by": "Insättning från %1$d",
+  "kid_savings_deposit_transaction_by_you": "PLZ_CHECK Deposit by you",
   "want_to_transfer_money_now": "Vill du göra en insättning?",
   "want_to_transfer_money_to_kid_now": "Vill du göra en insättning till %1$d?",
   "payday_for_children": "Payday för dina barn!",

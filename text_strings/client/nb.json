@@ -2062,6 +2062,7 @@
   "reduce_kids_debt_wihtout_money_message": "Dette vil redusere gjelden din til %1$d uten innskudd av penger",
   "education_how_to_pay_with_a_card": "Hvordan betale med et kort",
   "kid_savings_deposit_transaction_by": "Innskudd av %1$d",
+  "kid_savings_deposit_transaction_by_you": "PLZ_TRANSLATE Deposit by you",
   "want_to_transfer_money_now": "Ønsker du å overføre pengene nå?",
   "want_to_transfer_money_to_kid_now": "Ønsker du å overføre penger til %1$d nå?",
   "payday_for_children": "Payday for barna dine!",
