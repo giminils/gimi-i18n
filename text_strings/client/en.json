@@ -2266,5 +2266,12 @@
   "not_main_parent_premium_intro_main_title": "%1$d is upgraded to Master!",
   "not_main_parent_premium_intro_main_desc": "Gimi master comes with a Gimi card and a savings account. Prepare to start managing real money.",
   "parent_dream_explainer_popover_title": "Only children can add a dream",
-  "parent_dream_explainer_popover_subtitle": "This feature is made to encourage children to save for something they dream about."
+  "parent_dream_explainer_popover_subtitle": "This feature is made to encourage children to save for something they dream about.",
+  "premium_slide_title_name": "Skaffa Master till %1$d",
+  "premium_slide_desc_title_1": "Gimi-kontot",
+  "premium_slide_desc_title_2": "Onlineköp",
+  "premium_slide_desc_title_3": "Få viktiga notiser",
+  "premium_slide_desc_1": "Ett sparkonto med obegränsade insättningar",
+  "premium_slide_desc_2": "Slå av/på onlineköp när du vill",
+  "premium_slide_desc_3": "...varje gång kortet används"
 }
