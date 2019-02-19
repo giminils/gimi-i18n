@@ -2266,12 +2266,5 @@
   "not_main_parent_premium_intro_main_title": "PLZ_TRANSLATE %1$d is upgraded to Master!",
   "not_main_parent_premium_intro_main_desc": "PLZ_TRANSLATE Gimi master comes with a Gimi card and a savings account. Prepare to start managing real money.",
   "parent_dream_explainer_popover_title": "PLZ_TRANSLATE Only children can add a dream",
-  "parent_dream_explainer_popover_subtitle": "PLZ_TRANSLATE This feature is made to encourage children to save for something they dream about.",
-  "premium_slide_title_name": "PLZ_TRANSLATE Skaffa Master till %1$d",
-  "premium_slide_desc_title_1": "PLZ_TRANSLATE Gimi-kontot",
-  "premium_slide_desc_title_2": "PLZ_TRANSLATE Onlineköp",
-  "premium_slide_desc_title_3": "PLZ_TRANSLATE Få viktiga notiser",
-  "premium_slide_desc_1": "PLZ_TRANSLATE Ett sparkonto med obegränsade insättningar",
-  "premium_slide_desc_2": "PLZ_TRANSLATE Slå av/på onlineköp när du vill",
-  "premium_slide_desc_3": "PLZ_TRANSLATE ...varje gång kortet används"
+  "parent_dream_explainer_popover_subtitle": "PLZ_TRANSLATE This feature is made to encourage children to save for something they dream about."
 }
