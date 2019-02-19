@@ -2275,5 +2275,6 @@
   "premium_slide_desc_2": "Slå av/på onlineköp när du vill",
   "premium_slide_desc_3": "...varje gång kortet används",
   "itunes_disclaimer_title": "Recurring billing, cancel anytime. ",
-  "itunes_disclaimer": "Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. For more information, please see our terms of service and privacy policy."
+  "itunes_disclaimer": "Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. For more information, please see our terms of service and privacy policy.",
+  "popular_iap_banner": "Popular"
 }
