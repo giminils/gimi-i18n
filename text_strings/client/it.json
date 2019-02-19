@@ -2279,5 +2279,6 @@
   "popular_iap_banner": "PLZ_TRANSLATE Popular",
   "premium_early_bird": "PLZ_TRANSLATE Early bird! Testa 1 månad gratis",
   "premium_slide_title_without_kid": "PLZ_TRANSLATE Köp premium!",
-  "general_timezone": "PLZ_TRANSLATE Timezone"
+  "general_timezone": "PLZ_TRANSLATE Timezone",
+  "parent_settings_order_card_promotion": "PLZ_TRANSLATE Get the Gimi Card for %1$d!"
 }

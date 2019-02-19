@@ -2279,5 +2279,6 @@
   "popular_iap_banner": "Popular",
   "premium_early_bird": "Early bird! Testa 1 månad gratis",
   "premium_slide_title_without_kid": "Köp premium!",
-  "general_timezone": "Timezone"
+  "general_timezone": "Timezone",
+  "parent_settings_order_card_promotion": "Get the Gimi Card for %1$d!"
 }
