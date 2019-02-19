@@ -491,5 +491,6 @@
   "ADGERE021_notification_title": "Du er nå forbundet med {child.nickname}!",
   "ADGERE021_push_title": "Du er forbundet med {child.nickname}!",
   "ADGEON005_notification_title": "Legg til et profilbilde.",
-  "event_settle_your_debt": "Betal det du skylder {child.nickname}"
+  "event_settle_your_debt": "Betal det du skylder {child.nickname}",
+  "CHGEON007_notification_title": "PLZ_TRANSLATE Add your picture"
 }

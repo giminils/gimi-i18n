@@ -491,5 +491,6 @@
   "ADGERE021_notification_title": "You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "You and {child.nickname} are connected!",
   "ADGEON005_notification_title": "Add a profile pic!",
-  "event_settle_your_debt": "{child.nickname} has been upgraded to Master!"
+  "event_settle_your_debt": "{child.nickname} has been upgraded to Master!",
+  "CHGEON007_notification_title": "Add your picture"
 }

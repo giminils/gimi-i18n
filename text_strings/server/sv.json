@@ -491,5 +491,6 @@
   "ADGERE021_notification_title": "Du har blivit ihopkopplad med {child.nickname}!",
   "ADGERE021_push_title": "Du har blivit ihopkopplad med {child.nickname}!",
   "ADGEON005_notification_title": "Lägg till en profilbild!",
-  "event_settle_your_debt": "{child.nickname} har blivit uppgraderad till Master!"
+  "event_settle_your_debt": "{child.nickname} har blivit uppgraderad till Master!",
+  "CHGEON007_notification_title": "PLZ_CHECK Add your picture"
 }
