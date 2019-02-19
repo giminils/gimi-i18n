@@ -2273,5 +2273,7 @@
   "premium_slide_desc_title_3": "PLZ_CHECK Få viktiga notiser",
   "premium_slide_desc_1": "PLZ_CHECK Ett sparkonto med obegränsade insättningar",
   "premium_slide_desc_2": "PLZ_CHECK Slå av/på onlineköp när du vill",
-  "premium_slide_desc_3": "PLZ_CHECK ...varje gång kortet används"
+  "premium_slide_desc_3": "PLZ_CHECK ...varje gång kortet används",
+  "itunes_disclaimer_title": "PLZ_CHECK Recurring billing, cancel anytime. ",
+  "itunes_disclaimer": "PLZ_CHECK Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. For more information, please see our terms of service and privacy policy."
 }
