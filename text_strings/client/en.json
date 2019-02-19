@@ -2280,9 +2280,9 @@
   "premium_early_bird": "Early bird! Testa 1 månad gratis",
   "premium_slide_title_without_kid": "Köp premium!",
   "general_timezone": "Timezone",
-  "parent_settings_order_card_promotion": "Get the Gimi Card for %1$d!",
   "payday_info_supporters_parent": "Supporters",
   "payday_info_supporters_kid": "Supporters",
   "payday_info_supporters_desc_parent": "How much each supporter paid %1$d",
-  "payday_info_supporters_desc_kid": "How much each supporter paid you"
+  "payday_info_supporters_desc_kid": "How much each supporter paid you",
+  "order_card_for_name_promotion": "Get the Gimi Card for %1$d!"
 }
