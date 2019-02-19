@@ -2284,5 +2284,6 @@
   "payday_info_supporters_kid": "PLZ_TRANSLATE Supporters",
   "payday_info_supporters_desc_parent": "PLZ_TRANSLATE How much each supporter paid %1$d",
   "payday_info_supporters_desc_kid": "PLZ_TRANSLATE How much each supporter paid you",
-  "order_card_for_name_promotion": "PLZ_TRANSLATE Get the Gimi Card for %1$d!"
+  "order_card_for_name_promotion": "PLZ_TRANSLATE Get the Gimi Card for %1$d!",
+  "set_kid_phone_for_card_subtitle": "PLZ_TRANSLATE We use the phone number to secure your child's account. The card will not work without a verified phone number."
 }
