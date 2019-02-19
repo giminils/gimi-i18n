@@ -382,6 +382,36 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'spend_chapter_5',
+        icon: 'iconCashier',
+        chapterName: 'First purchase in a store',
+        titleLangKey: 'spend_chapter_5',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_5_intro',
+          chapterSessionDescLangKey: 'spend_chapter_3_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_5_step_1_title',
+              descLangKey: 'spend_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_5_step_2_title',
+              descLangKey: 'spend_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_5_step_3_title',
+              descLangKey: 'spend_chapter_5_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_3_step_4_title',
+              descLangKey: 'spend_chapter_3_step_4_desc'
+            }
+          ]
+        }
       }
     ]
   }
