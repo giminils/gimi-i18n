@@ -2280,5 +2280,9 @@
   "premium_early_bird": "PLZ_CHECK Early bird! Testa 1 månad gratis",
   "premium_slide_title_without_kid": "PLZ_CHECK Köp premium!",
   "general_timezone": "PLZ_CHECK Timezone",
-  "parent_settings_order_card_promotion": "PLZ_CHECK Get the Gimi Card for %1$d!"
+  "parent_settings_order_card_promotion": "PLZ_CHECK Get the Gimi Card for %1$d!",
+  "payday_info_supporters_parent": "PLZ_CHECK Supporters",
+  "payday_info_supporters_kid": "PLZ_CHECK Supporters",
+  "payday_info_supporters_desc_parent": "PLZ_CHECK How much each supporter paid %1$d",
+  "payday_info_supporters_desc_kid": "PLZ_CHECK How much each supporter paid you"
 }
