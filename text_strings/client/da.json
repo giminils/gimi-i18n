@@ -2278,5 +2278,6 @@
   "itunes_disclaimer": "PLZ_TRANSLATE Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. For more information, please see our terms of service and privacy policy.",
   "popular_iap_banner": "PLZ_TRANSLATE Popular",
   "premium_early_bird": "PLZ_TRANSLATE Early bird! Testa 1 månad gratis",
-  "premium_slide_title_without_kid": "PLZ_TRANSLATE Köp premium!"
+  "premium_slide_title_without_kid": "PLZ_TRANSLATE Köp premium!",
+  "general_timezone": "PLZ_TRANSLATE Timezone"
 }
