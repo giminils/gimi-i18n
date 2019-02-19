@@ -392,7 +392,7 @@ export default [
         titleLangKey: 'spend_chapter_5',
         content: {
           chapterIntroLangKey: 'spend_chapter_5_intro',
-          chapterSessionDescLangKey: 'spend_chapter_3_desc',
+          chapterSessionDescLangKey: 'spend_chapter_5_desc',
           slideContent: [
             {
               titleLangKey: 'spend_chapter_5_step_1_title',
@@ -407,8 +407,8 @@ export default [
               descLangKey: 'spend_chapter_5_step_3_desc'
             },
             {
-              titleLangKey: 'spend_chapter_3_step_4_title',
-              descLangKey: 'spend_chapter_3_step_4_desc'
+              titleLangKey: 'spend_chapter_5_step_4_title',
+              descLangKey: 'spend_chapter_5_step_4_desc'
             }
           ]
         }
