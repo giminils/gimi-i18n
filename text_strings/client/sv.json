@@ -1574,7 +1574,7 @@
   "payday_takeover_multiple_parents_info": "%1$d har andra kontakter. Du kan se vad de betalar i transaktionslistan.",
   "payday_takeover_subtitle_parent": "Pengarna har lagts till i Sparat",
   "i_approve_possesive_instantors": "Jag godkänner Instantors användarvillkor",
-  "i_approve_possesive_instantors_integrity_policy": "Jag godkänner att uppgifter från mitt bankkonto samlas in, används och dels med Gimi, och förstår hur annan information kommer att användas utifrån vad som står i Instantors användarvillkor",
+  "i_approve_possesive_instantors_integrity_policy": "Jag godkänner att uppgifter från mitt bankkonto samlas in, används och delas med Gimi, och förstår hur annan information kommer att användas utifrån vad som står i Instantors användarvillkor",
   "service_provided_by_instantor": "Tjänsten tillhandahålls av Instantor AB, inte av din bank.",
   "general_user_terms": "Användarpolicy",
   "general_integrity_policy": "Integritetspolicy",
