@@ -494,5 +494,7 @@
   "event_settle_your_debt": "{child.nickname} has been upgraded to Master!",
   "CHGEON007_notification_title": "Add your picture",
   "ADPRON012_notification_title": "Setup an app passcode",
-  "ADPRON013_notification_title": "Verify your email address"
+  "ADPRON013_notification_title": "Verify your email address",
+  "CHGEON026_notification_title": "You've got an invitation from {parent.nickname}!",
+  "CHGEON026_push_title": "{parent.nickname} wants to connect with you!"
 }

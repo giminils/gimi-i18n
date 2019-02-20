@@ -494,5 +494,7 @@
   "event_settle_your_debt": "{child.nickname} har blivit uppgraderad till Master!",
   "CHGEON007_notification_title": "PLZ_CHECK Add your picture",
   "ADPRON012_notification_title": "PLZ_CHECK Setup an app passcode",
-  "ADPRON013_notification_title": "PLZ_CHECK Verify your email address"
+  "ADPRON013_notification_title": "PLZ_CHECK Verify your email address",
+  "CHGEON026_notification_title": "PLZ_CHECK You've got an invitation from {parent.nickname}!",
+  "CHGEON026_push_title": "PLZ_CHECK {parent.nickname} wants to connect with you!"
 }
