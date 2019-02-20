@@ -493,5 +493,6 @@
   "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!",
   "event_settle_your_debt": "Sovittele velkasi lapsesi {child.nickname} kanssa",
   "CHGEON007_notification_title": "PLZ_TRANSLATE Add your picture",
-  "ADPRON012_notification_title": "PLZ_TRANSLATE Setup an app passcode"
+  "ADPRON012_notification_title": "PLZ_TRANSLATE Setup an app passcode",
+  "ADPRON013_notification_title": "PLZ_TRANSLATE Verify your email address"
 }

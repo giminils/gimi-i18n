@@ -493,5 +493,6 @@
   "ADGEON005_notification_title": "Lägg till en profilbild!",
   "event_settle_your_debt": "{child.nickname} har blivit uppgraderad till Master!",
   "CHGEON007_notification_title": "PLZ_CHECK Add your picture",
-  "ADPRON012_notification_title": "PLZ_CHECK Setup an app passcode"
+  "ADPRON012_notification_title": "PLZ_CHECK Setup an app passcode",
+  "ADPRON013_notification_title": "PLZ_CHECK Verify your email address"
 }
