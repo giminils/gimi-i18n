@@ -2285,5 +2285,10 @@
   "payday_info_supporters_desc_parent": "PLZ_CHECK How much each supporter paid %1$d",
   "payday_info_supporters_desc_kid": "PLZ_CHECK How much each supporter paid you",
   "order_card_for_name_promotion": "PLZ_CHECK Get the Gimi Card for %1$d!",
-  "set_kid_phone_for_card_subtitle": "PLZ_CHECK We use the phone number to secure your child's account. The card will not work without a verified phone number."
+  "set_kid_phone_for_card_subtitle": "PLZ_CHECK We use the phone number to secure your child's account. The card will not work without a verified phone number.",
+  "onfido_general_error_title": "PLZ_CHECK Something went wrong...",
+  "onfido_general_error_subtitle": "PLZ_CHECK It's not you, it's us. We ran into a problem. Would you like to try again?",
+  "onfido_verification_error_title": "PLZ_CHECK We could not verify your identity",
+  "onfido_verification_error_subtitle": "PLZ_CHECK The identity check based on your ID card could not verify your identity. Want to try verifying yourself with BankID instead?",
+  "general_ok_lets_do_it": "PLZ_CHECK OK let's do it!"
 }
