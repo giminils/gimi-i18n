@@ -492,5 +492,6 @@
   "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected!",
   "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!",
   "event_settle_your_debt": "Afvikl din gæld til {child.nickname}",
-  "CHGEON007_notification_title": "PLZ_TRANSLATE Add your picture"
+  "CHGEON007_notification_title": "PLZ_TRANSLATE Add your picture",
+  "ADPRON012_notification_title": "PLZ_TRANSLATE Setup an app passcode"
 }
