@@ -497,5 +497,6 @@
   "CHGEON026_notification_title": "{parent.nickname} vill koppla ihop sig med dig!",
   "CHGEON026_push_title": "{parent.nickname} vill koppla ihop sig med dig!",
   "active_email_subject": "PLZ_CHECK Please active",
-  "push_card_purchase_decline": "PLZ_CHECK 🚫Purchase was declined for {child.nickname} because of low card balance!"
+  "push_card_purchase_decline": "PLZ_CHECK 🚫Purchase was declined for {child.nickname} because of low card balance!",
+  "CHPRPU002_notification_title": "PLZ_CHECK Card was declined because of low balance! Want to transfer money?"
 }

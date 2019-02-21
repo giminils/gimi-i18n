@@ -497,5 +497,6 @@
   "CHGEON026_notification_title": "You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "{parent.nickname} wants to connect with you!",
   "active_email_subject": "Please active",
-  "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!"
+  "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!",
+  "CHPRPU002_notification_title": "Card was declined because of low balance! Want to transfer money?"
 }

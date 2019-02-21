@@ -1967,7 +1967,7 @@
   "passcode_lockdown_contact_button": "Kontakt oss",
   "order_card_done_section_row": "Allerede ferdig!",
   "chore_inspiration": "PLZ_TRANSLATE Chore inspiration",
-  "general_chore_inspo": "Oppgave-inspirasjon",
+  "general_chore_inspo": "PLZ_TRANSLATE Inspiration",
   "no_new_notifications": "Ingen nye notifikasjoner!",
   "dream_shared_confirmation": "Drøm delt! ",
   "allowance_help_slider_content_for_parent": " Ukepenger for %1$d er et fastsatt beløp som %1$d er garantert fra deg og andre voksne hver Payday.",

@@ -1967,7 +1967,7 @@
   "passcode_lockdown_contact_button": "Ota meihin yhteyttä",
   "order_card_done_section_row": "Valmista!",
   "chore_inspiration": "PLZ_TRANSLATE Chore inspiration",
-  "general_chore_inspo": "Askare-inspiraatio",
+  "general_chore_inspo": "PLZ_TRANSLATE Inspiration",
   "no_new_notifications": "Ei uusia ilmoituksia!",
   "dream_shared_confirmation": "Unelma jaettu!",
   "allowance_help_slider_content_for_parent": "Viikko-/kuukausiraha %1$d on kiinteä määrä jonka %1$d saa taatusti sinulta ja muilta aikuisilta Tilipäivänä.",
