@@ -2292,5 +2292,6 @@
   "onfido_verification_error_subtitle": "The identity check based on your ID card could not verify your identity. Want to try verifying yourself with BankID instead?",
   "general_ok_lets_do_it": "OK let's do it!",
   "by_name": "By %1$d",
-  "general_months": "Months"
+  "general_months": "Months",
+  "general_var_per_month": "%1$d/Month"
 }

@@ -2292,5 +2292,6 @@
   "onfido_verification_error_subtitle": "Identitetsverifieringen med ditt ID-kort fungerade inte. Vill du försöka verifiera dig med BankID istället?",
   "general_ok_lets_do_it": "OK, jag testar!",
   "by_name": "PLZ_CHECK By %1$d",
-  "general_months": "PLZ_CHECK Months"
+  "general_months": "PLZ_CHECK Months",
+  "general_var_per_month": "PLZ_CHECK %1$d/Month"
 }
