@@ -496,5 +496,6 @@
   "ADPRON012_notification_title": "Skapa en lösenkod",
   "ADPRON013_notification_title": "Verifiera din mejladress",
   "CHGEON026_notification_title": "{parent.nickname} vill koppla ihop sig med dig!",
-  "CHGEON026_push_title": "{parent.nickname} vill koppla ihop sig med dig!"
+  "CHGEON026_push_title": "{parent.nickname} vill koppla ihop sig med dig!",
+  "active_email_subject": "PLZ_CHECK Please active"
 }

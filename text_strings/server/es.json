@@ -496,5 +496,6 @@
   "ADPRON012_notification_title": "PLZ_TRANSLATE Setup an app passcode",
   "ADPRON013_notification_title": "PLZ_TRANSLATE Verify your email address",
   "CHGEON026_notification_title": "PLZ_TRANSLATE You've got an invitation from {parent.nickname}!",
-  "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!"
+  "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
+  "active_email_subject": "PLZ_TRANSLATE Please active"
 }
