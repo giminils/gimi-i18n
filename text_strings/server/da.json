@@ -342,7 +342,6 @@
   "push_name_deposit_to_account": "Du har modtaget en indbetaling af {parent.nickname}",
   "event_name_deposit_to_account": "{parent.nickname} har lavet en indbetaling til din konto",
   "event_name_made_deposit_to_account": "{parent.nickname} har lavet en indbetaling til din konto",
-  "push_name_made_deposit_to_account": "Du har modtaget en indbetaling i din opsparing",
   "push_give_chores_to_children": "Husk opgaver! Det lærer børn om at tjene penge!",
   "push_verify_phone_to_custom_account": "Verificer telefonnummer",
   "push_chores_waiting": "Du har {x} opgaver der venter. Få tjent nogle penge!",
@@ -498,5 +497,6 @@
   "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
   "active_email_subject": "PLZ_TRANSLATE Please active",
   "push_card_purchase_decline": "PLZ_TRANSLATE 🚫Purchase was declined for {child.nickname} because of low card balance!",
-  "CHPRPU002_notification_title": "PLZ_TRANSLATE Card was declined because of low balance! Want to transfer money?"
+  "CHPRPU002_notification_title": "PLZ_TRANSLATE Card was declined because of low balance! Want to transfer money?",
+  "push_name_made_deposit_to_account": "PLZ_TRANSLATE {parent.nickname} received a deposit in your savings"
 }

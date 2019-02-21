@@ -342,7 +342,6 @@
   "push_name_deposit_to_account": "Du har fått en insättning till ditt konto från {parent.nickname}",
   "event_name_deposit_to_account": "{parent.nickname} har gjort en insättning till ditt konto",
   "event_name_made_deposit_to_account": "{parent.nickname} har gjort en insättning till ditt konto",
-  "push_name_made_deposit_to_account": "Du har fått en insättning till ditt konto",
   "push_give_chores_to_children": "Kom ihåg att du kan ge ut uppgifter i Gimi!",
   "push_verify_phone_to_custom_account": "Verifiera ditt telefonnummer",
   "push_chores_waiting": "Du har {x} uppgifter som väntar! Gå och tjäna extra penagr!",
@@ -498,5 +497,6 @@
   "CHGEON026_push_title": "{parent.nickname} vill koppla ihop sig med dig!",
   "active_email_subject": "PLZ_CHECK Please active",
   "push_card_purchase_decline": "PLZ_CHECK 🚫Purchase was declined for {child.nickname} because of low card balance!",
-  "CHPRPU002_notification_title": "PLZ_CHECK Card was declined because of low balance! Want to transfer money?"
+  "CHPRPU002_notification_title": "PLZ_CHECK Card was declined because of low balance! Want to transfer money?",
+  "push_name_made_deposit_to_account": "PLZ_CHECK {parent.nickname} received a deposit in your savings"
 }

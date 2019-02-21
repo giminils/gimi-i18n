@@ -342,7 +342,6 @@
   "push_name_deposit_to_account": "{parent.nickname} on tallettanut sinulle rahaa",
   "event_name_deposit_to_account": "{parent.nickname} talletti rahaa tilillesi",
   "event_name_made_deposit_to_account": "{parent.nickname} talletti rahaa tilillesi",
-  "push_name_made_deposit_to_account": "Olet saanut talletuksen säästöihisi",
   "push_give_chores_to_children": "Muista antaa askareita!",
   "push_verify_phone_to_custom_account": "Vahvista puhelinnumerosi",
   "push_chores_waiting": "Sinulla on {x} askaretta odottamassa. On aika ansaita rahaa!",
@@ -498,5 +497,6 @@
   "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
   "active_email_subject": "PLZ_TRANSLATE Please active",
   "push_card_purchase_decline": "PLZ_TRANSLATE 🚫Purchase was declined for {child.nickname} because of low card balance!",
-  "CHPRPU002_notification_title": "PLZ_TRANSLATE Card was declined because of low balance! Want to transfer money?"
+  "CHPRPU002_notification_title": "PLZ_TRANSLATE Card was declined because of low balance! Want to transfer money?",
+  "push_name_made_deposit_to_account": "PLZ_TRANSLATE {parent.nickname} received a deposit in your savings"
 }

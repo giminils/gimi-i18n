@@ -342,7 +342,6 @@
   "push_name_deposit_to_account": "You have received a deposit from {parent.nickname}",
   "event_name_deposit_to_account": "{parent.nickname} deposited to your account",
   "event_name_made_deposit_to_account": "{parent.nickname} deposited to your account",
-  "push_name_made_deposit_to_account": "You received a deposit in your savings",
   "push_give_chores_to_children": "Remember your chores!",
   "push_verify_phone_to_custom_account": "Verify your phone number",
   "push_chores_waiting": "You have {x} chores waiting. Go earn some money!",
@@ -498,5 +497,6 @@
   "CHGEON026_push_title": "{parent.nickname} wants to connect with you!",
   "active_email_subject": "Please active",
   "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!",
-  "CHPRPU002_notification_title": "Card was declined because of low balance! Want to transfer money?"
+  "CHPRPU002_notification_title": "Card was declined because of low balance! Want to transfer money?",
+  "push_name_made_deposit_to_account": "{parent.nickname} received a deposit in your savings"
 }
