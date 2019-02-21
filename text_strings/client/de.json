@@ -2291,5 +2291,6 @@
   "onfido_verification_error_title": "PLZ_TRANSLATE We could not verify your identity",
   "onfido_verification_error_subtitle": "PLZ_TRANSLATE The identity check based on your ID card could not verify your identity. Want to try verifying yourself with BankID instead?",
   "general_ok_lets_do_it": "PLZ_TRANSLATE OK let's do it!",
-  "by_name": "PLZ_TRANSLATE By %1$d"
+  "by_name": "PLZ_TRANSLATE By %1$d",
+  "general_months": "PLZ_TRANSLATE Months"
 }
