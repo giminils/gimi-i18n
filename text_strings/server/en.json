@@ -362,7 +362,6 @@
   "verify_email_subject": "Confirm your email address",
   "push_add_profile_pic": "Add a profile pic!",
   "event_you_are_connected": "You're now connected with {child.nickname}!",
-  "push_card_purchase_decline": "A card purchase was declined because of low balance!",
   "event_how_premium_work": "How Gimi Premium works",
   "push_card_decline_unlock": "A purchase at {pfstransactionstatement.merchant_name} was declined because the Gimi card is blocked.",
   "push_next_payment_is_added_to_cloud": "Payday! Money has been added to savings!",
@@ -497,5 +496,6 @@
   "ADPRON013_notification_title": "Verify your email address",
   "CHGEON026_notification_title": "You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "{parent.nickname} wants to connect with you!",
-  "active_email_subject": "Please active"
+  "active_email_subject": "Please active",
+  "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!"
 }

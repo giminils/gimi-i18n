@@ -362,7 +362,6 @@
   "verify_email_subject": "PLZ_TRANSLATE Confirm your email address",
   "push_add_profile_pic": "PLZ_TRANSLATE -",
   "event_you_are_connected": "PLZ_TRANSLATE You're now connected with {child.nickname}!",
-  "push_card_purchase_decline": "PLZ_TRANSLATE A card purchase was declined because of low balance!",
   "event_how_premium_work": "PLZ_TRANSLATE How Premium works",
   "push_card_decline_unlock": "PLZ_TRANSLATE 🚫Your Gimi card is blocked! That's why it was declined at {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "PLZ_TRANSLATE Payday! Money has been added to your savings! Check out how much in the app",
@@ -497,5 +496,6 @@
   "ADPRON013_notification_title": "PLZ_TRANSLATE Verify your email address",
   "CHGEON026_notification_title": "PLZ_TRANSLATE You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
-  "active_email_subject": "PLZ_TRANSLATE Please active"
+  "active_email_subject": "PLZ_TRANSLATE Please active",
+  "push_card_purchase_decline": "PLZ_TRANSLATE 🚫Purchase was declined for {child.nickname} because of low card balance!"
 }

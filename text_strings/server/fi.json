@@ -362,7 +362,6 @@
   "verify_email_subject": "Vahvista sähköpostiosoitteesi",
   "push_add_profile_pic": "PLZ_CHECK -",
   "event_you_are_connected": "Sinut on nyt yhdistetty lapseen {child.nickname}!",
-  "push_card_purchase_decline": "Korttimaksu peruutettiin vähäisen saldon vuoksi!",
   "event_how_premium_work": "Miten Premium toimii",
   "push_card_decline_unlock": "🚫 Gimi-korttisi on estetty! Siksi se hylättiin kauppiaalla {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "Tilipäivä! Rahat on lisätty Säästöihisi! Tsekkaa kuinka paljon sovelluksessa",
@@ -497,5 +496,6 @@
   "ADPRON013_notification_title": "PLZ_TRANSLATE Verify your email address",
   "CHGEON026_notification_title": "PLZ_TRANSLATE You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
-  "active_email_subject": "PLZ_TRANSLATE Please active"
+  "active_email_subject": "PLZ_TRANSLATE Please active",
+  "push_card_purchase_decline": "PLZ_TRANSLATE 🚫Purchase was declined for {child.nickname} because of low card balance!"
 }

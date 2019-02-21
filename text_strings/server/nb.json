@@ -362,7 +362,6 @@
   "verify_email_subject": "Bekreft e-postadressen din",
   "push_add_profile_pic": "-",
   "event_you_are_connected": "Du er nå koblet opp mot {child.nickname}!",
-  "push_card_purchase_decline": "Et kortkjøp ble avslått på grunne av lav saldo!",
   "event_how_premium_work": "Slik fungerer Premium",
   "push_card_decline_unlock": "🚫 Gimi-kortet ditt er blokkert! Derfor ble det avvist hos {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "Utbetalingsdag! Det har blitt lagt penger på sparegrisen! Sjekk hvor mye som har blitt lagt på i appen",
@@ -497,5 +496,6 @@
   "ADPRON013_notification_title": "PLZ_TRANSLATE Verify your email address",
   "CHGEON026_notification_title": "PLZ_TRANSLATE You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
-  "active_email_subject": "PLZ_TRANSLATE Please active"
+  "active_email_subject": "PLZ_TRANSLATE Please active",
+  "push_card_purchase_decline": "PLZ_TRANSLATE 🚫Purchase was declined for {child.nickname} because of low card balance!"
 }

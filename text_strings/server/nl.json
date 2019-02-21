@@ -362,7 +362,6 @@
   "verify_email_subject": "Bevestig je e-mail adres",
   "push_add_profile_pic": "PLZ_TRANSLATE -",
   "event_you_are_connected": "Je bent nu verbonden met {child.nickname}!",
-  "push_card_purchase_decline": "Een kaart aankoop was geweigerd vanwege een te laag saldo!",
   "event_how_premium_work": "Hoe Premium werkt",
   "push_card_decline_unlock": "🚫Je Gimi-kaart is geblokkeerd! Daarom is ze geweigerd bij {pfstransactionstatement.merchant_name}!",
   "push_next_payment_is_added_to_cloud": "Payday! Geld is op je spaarrekening gestort! Kijk hoeveel het was in de app",
@@ -497,5 +496,6 @@
   "ADPRON013_notification_title": "PLZ_TRANSLATE Verify your email address",
   "CHGEON026_notification_title": "PLZ_TRANSLATE You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "PLZ_TRANSLATE {parent.nickname} wants to connect with you!",
-  "active_email_subject": "PLZ_TRANSLATE Please active"
+  "active_email_subject": "PLZ_TRANSLATE Please active",
+  "push_card_purchase_decline": "PLZ_TRANSLATE 🚫Purchase was declined for {child.nickname} because of low card balance!"
 }

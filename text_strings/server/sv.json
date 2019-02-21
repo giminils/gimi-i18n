@@ -362,7 +362,6 @@
   "verify_email_subject": "Verifiera din e-post",
   "push_add_profile_pic": "Lägg till en profilbild!",
   "event_you_are_connected": "Du är nu ihopkopplad med {child.nickname}!",
-  "push_card_purchase_decline": "Ett kortköp nekades på grund av för lågt saldo!",
   "event_how_premium_work": "Såhär fungerar Gimi Premium",
   "push_card_decline_unlock": "🚫 Ditt kort är låst! Det är därför ditt köp på {pfstransactionstatement.merchant_name} nekades.",
   "push_next_payment_is_added_to_cloud": "Payday! Sparat har fyllts på!",
@@ -497,5 +496,6 @@
   "ADPRON013_notification_title": "Verifiera din mejladress",
   "CHGEON026_notification_title": "{parent.nickname} vill koppla ihop sig med dig!",
   "CHGEON026_push_title": "{parent.nickname} vill koppla ihop sig med dig!",
-  "active_email_subject": "PLZ_CHECK Please active"
+  "active_email_subject": "PLZ_CHECK Please active",
+  "push_card_purchase_decline": "PLZ_CHECK 🚫Purchase was declined for {child.nickname} because of low card balance!"
 }
