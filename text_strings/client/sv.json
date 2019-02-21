@@ -2290,5 +2290,6 @@
   "onfido_general_error_subtitle": "Förlåt! Vi stötte på ett oväntat problem. Skulle du vilja försöka igen?",
   "onfido_verification_error_title": "Vi kunde inte verifiera din identitet",
   "onfido_verification_error_subtitle": "Identitetsverifieringen med ditt ID-kort fungerade inte. Vill du försöka verifiera dig med BankID istället?",
-  "general_ok_lets_do_it": "OK, jag testar!"
+  "general_ok_lets_do_it": "OK, jag testar!",
+  "by_name": "PLZ_CHECK By %1$d"
 }
