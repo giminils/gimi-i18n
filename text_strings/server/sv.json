@@ -498,5 +498,5 @@
   "active_email_subject": "PLZ_CHECK Please active",
   "push_card_purchase_decline": "PLZ_CHECK 🚫Purchase was declined for {child.nickname} because of low card balance!",
   "CHPRPU002_notification_title": "PLZ_CHECK Card was declined because of low balance! Want to transfer money?",
-  "push_name_made_deposit_to_account": "PLZ_CHECK {parent.nickname} received a deposit in your savings"
+  "push_name_made_deposit_to_account": "PLZ_CHECK You have received a deposit from {parent.nickname}"
 }
