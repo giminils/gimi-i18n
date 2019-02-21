@@ -11,6 +11,7 @@ let defaultChapter = {
   icon: 'iconHeart',
   isPremium: false
 }
+const EDUCATION_STATIC_PATH = '/static/education/'
 export default [
   {
     ...defaultCourse,
@@ -27,7 +28,7 @@ export default [
         titleLangKey: 'earn_chapter_1',
         content: {
           chapterIntroLangKey: 'earn_chapter_1_intro',
-          // image: must be set programmatically. Unless it's an url
+          image: EDUCATION_STATIC_PATH + 'overviewHouse.png',
           chapterSessionDescLangKey: 'earn_chapter_1_desc', // NOTE TO SELF: probably not used
           relatedLinks: [
             {
@@ -37,19 +38,22 @@ export default [
           ],
           slideContent: [
             {
-              // image: must be set programmatically. Unless it's an url
+              image: EDUCATION_STATIC_PATH + 'houseSlide1.png',
               titleLangKey: 'earn_chapter_1_step_1_title',
               descLangKey: 'earn_chapter_1_step_1_desc'
             },
             {
+              image: EDUCATION_STATIC_PATH + 'houseSlide2.png',
               titleLangKey: 'earn_chapter_1_step_2_title',
               descLangKey: 'earn_chapter_1_step_2_desc'
             },
             {
+              image: EDUCATION_STATIC_PATH + 'houseSlide3.png',
               titleLangKey: 'earn_chapter_1_step_3_title',
               descLangKey: 'earn_chapter_1_step_3_desc'
             },
             {
+              image: EDUCATION_STATIC_PATH + 'houseSlide4.png',
               titleLangKey: 'earn_chapter_1_step_4_title',
               descLangKey: 'earn_chapter_1_step_4_desc'
             }
