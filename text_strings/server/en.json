@@ -498,5 +498,6 @@
   "active_email_subject": "Please active",
   "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!",
   "CHPRPU002_notification_title": "Card was declined because of low balance! Want to transfer money?",
-  "push_name_made_deposit_to_account": "You have received a deposit from {parent.nickname}"
+  "push_name_made_deposit_to_account": "You have received a deposit from {parent.nickname}",
+  "ADPRPU002_notification_title": "Purchase was declined for {child.nickname}, because of low card balance! "
 }
