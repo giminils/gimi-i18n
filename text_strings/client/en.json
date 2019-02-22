@@ -2293,5 +2293,8 @@
   "general_ok_lets_do_it": "OK let's do it!",
   "by_name": "By %1$d",
   "general_months": "Months",
-  "general_var_per_month": "%1$d/Month"
+  "general_var_per_month": "%1$d/Month",
+  "iap_general_error": "Someting went wrong! Seems we can't show you the subscription options",
+  "general_talk_to_us": "Talk to us",
+  "iap_no_products_for_you": "You've maxed out your subscriptions - we dont't have any more to offer you!"
 }

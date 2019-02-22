@@ -2293,5 +2293,8 @@
   "general_ok_lets_do_it": "OK, jag testar!",
   "by_name": "PLZ_CHECK By %1$d",
   "general_months": "PLZ_CHECK Months",
-  "general_var_per_month": "PLZ_CHECK %1$d/Month"
+  "general_var_per_month": "PLZ_CHECK %1$d/Month",
+  "iap_general_error": "PLZ_CHECK Someting went wrong! Seems we can't show you the subscription options",
+  "general_talk_to_us": "PLZ_CHECK Talk to us",
+  "iap_no_products_for_you": "PLZ_CHECK You've maxed out your subscriptions - we dont't have any more to offer you!"
 }

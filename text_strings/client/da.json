@@ -2293,5 +2293,8 @@
   "general_ok_lets_do_it": "PLZ_TRANSLATE OK let's do it!",
   "by_name": "PLZ_TRANSLATE By %1$d",
   "general_months": "PLZ_TRANSLATE Months",
-  "general_var_per_month": "PLZ_TRANSLATE %1$d/Month"
+  "general_var_per_month": "PLZ_TRANSLATE %1$d/Month",
+  "iap_general_error": "PLZ_TRANSLATE Someting went wrong! Seems we can't show you the subscription options",
+  "general_talk_to_us": "PLZ_TRANSLATE Talk to us",
+  "iap_no_products_for_you": "PLZ_TRANSLATE You've maxed out your subscriptions - we dont't have any more to offer you!"
 }
