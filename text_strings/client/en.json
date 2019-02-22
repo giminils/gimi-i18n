@@ -2296,5 +2296,6 @@
   "general_var_per_month": "%1$d/Month",
   "iap_general_error": "Someting went wrong! Seems we can't show you the subscription options",
   "general_talk_to_us": "Talk to us",
-  "iap_no_products_for_you": "You've maxed out your subscriptions - we dont't have any more to offer you!"
+  "iap_no_products_for_you": "You've maxed out your subscriptions - we dont't have any more to offer you!",
+  "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 12h auto-approval!"
 }
