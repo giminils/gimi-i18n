@@ -495,9 +495,9 @@
   "ADPRON013_notification_title": "Verifiera din mejladress",
   "CHGEON026_notification_title": "{parent.nickname} vill koppla ihop sig med dig!",
   "CHGEON026_push_title": "{parent.nickname} vill koppla ihop sig med dig!",
-  "active_email_subject": "PLZ_CHECK Please active",
   "push_card_purchase_decline": "🚫Ett köp av {child.nickname} nekades på grund av för lågt saldo på kortet!",
   "CHPRPU002_notification_title": "Köpet nekades på grund av lågt saldo. Ladda kortet?",
   "push_name_made_deposit_to_account": "Du har fått en insättning från {parent.nickname}",
-  "ADPRPU002_notification_title": "Ett köp av {child.nickname} nekades på grund av för lågt saldo! "
+  "ADPRPU002_notification_title": "Ett köp av {child.nickname} nekades på grund av för lågt saldo! ",
+  "active_email_subject": "Aktivera Apple Pay"
 }

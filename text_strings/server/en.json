@@ -495,9 +495,9 @@
   "ADPRON013_notification_title": "Verify your email address",
   "CHGEON026_notification_title": "You've got an invitation from {parent.nickname}!",
   "CHGEON026_push_title": "{parent.nickname} wants to connect with you!",
-  "active_email_subject": "Please active",
   "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!",
   "CHPRPU002_notification_title": "Card was declined because of low balance! Want to transfer money?",
   "push_name_made_deposit_to_account": "You have received a deposit from {parent.nickname}",
-  "ADPRPU002_notification_title": "Purchase was declined for {child.nickname}, because of low card balance! "
+  "ADPRPU002_notification_title": "Purchase was declined for {child.nickname}, because of low card balance! ",
+  "active_email_subject": "Activate Apple Pay"
 }
