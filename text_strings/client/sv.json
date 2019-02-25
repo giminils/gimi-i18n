@@ -2303,5 +2303,6 @@
   "general_show_code": "PLZ_CHECK Show code",
   "one_time_cost": "PLZ_CHECK One time cost",
   "general_forever": "PLZ_CHECK Forever",
-  "save_n_percent": "PLZ_CHECK Save %1$d%"
+  "save_n_percent": "PLZ_CHECK Save %1$d%",
+  "lysa_email_title": "PLZ_CHECK First we need your email..."
 }

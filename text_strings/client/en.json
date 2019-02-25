@@ -2303,5 +2303,6 @@
   "general_show_code": "Show code",
   "one_time_cost": "One time cost",
   "general_forever": "Forever",
-  "save_n_percent": "Save %1$d%"
+  "save_n_percent": "Save %1$d%",
+  "lysa_email_title": "First we need your email..."
 }
