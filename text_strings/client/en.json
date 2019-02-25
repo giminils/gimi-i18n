@@ -2298,5 +2298,6 @@
   "general_talk_to_us": "Talk to us",
   "iap_no_products_for_you": "You've maxed out your subscriptions - we dont't have any more to offer you!",
   "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 12h auto-approval!",
-  "general_scan_me": "Scan me"
+  "general_scan_me": "Scan me",
+  "general_scan_a_code": "Scan a code"
 }

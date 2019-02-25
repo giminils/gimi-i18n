@@ -2298,5 +2298,6 @@
   "general_talk_to_us": "Snakk med oss",
   "iap_no_products_for_you": "Du har maksimert abonnementene dine - vi har ikke noe mer å tilby deg!",
   "parent_auto_approval_feature_custom_notification": "Aldri gå glipp av å godkjenne en oppgave, slå på 12 timers automatisk godkjenning!",
-  "general_scan_me": "Skann meg"
+  "general_scan_me": "Skann meg",
+  "general_scan_a_code": "PLZ_TRANSLATE Scan a code"
 }
