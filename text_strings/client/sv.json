@@ -2300,5 +2300,8 @@
   "parent_auto_approval_feature_custom_notification": "PLZ_CHECK Never miss approving a chore, turn on the 12h auto-approval!",
   "general_scan_me": "PLZ_CHECK Scan me",
   "general_scan_a_code": "PLZ_CHECK Scan a code",
-  "general_show_code": "PLZ_CHECK Show code"
+  "general_show_code": "PLZ_CHECK Show code",
+  "one_time_cost": "PLZ_CHECK One time cost",
+  "general_forever": "PLZ_CHECK Forever",
+  "save_n_percent": "PLZ_CHECK Save %1$d%"
 }

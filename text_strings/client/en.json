@@ -2300,5 +2300,8 @@
   "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 12h auto-approval!",
   "general_scan_me": "Scan me",
   "general_scan_a_code": "Scan a code",
-  "general_show_code": "Show code"
+  "general_show_code": "Show code",
+  "one_time_cost": "One time cost",
+  "general_forever": "Forever",
+  "save_n_percent": "Save %1$d%"
 }
