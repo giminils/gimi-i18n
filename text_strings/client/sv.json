@@ -2297,7 +2297,7 @@
   "iap_general_error": "PLZ_CHECK Someting went wrong! Seems we can't show you the subscription options",
   "general_talk_to_us": "PLZ_CHECK Talk to us",
   "iap_no_products_for_you": "PLZ_CHECK You've maxed out your subscriptions - we dont't have any more to offer you!",
-  "parent_auto_approval_feature_custom_notification": "Missa aldrig att godkänna en uppgift, slå automatiskt godkännande efter 24h!",
+  "parent_auto_approval_feature_custom_notification": "PLZ_CHECK Never miss approving a chore, turn on the 24h auto-approval!",
   "general_scan_me": "Skanna mig",
   "general_scan_a_code": "Skanna en kod",
   "general_show_code": "Visa kod",
@@ -2306,6 +2306,6 @@
   "save_n_percent": "PLZ_CHECK Save %1$d%",
   "lysa_email_title": "PLZ_CHECK First we need your email...",
   "delete_chore": "Radera uppgift",
-  "transfer_between_card_loading_title": "PLZ_CHECK Sending...",
-  "transfer_between_card_loading_desc": "PLZ_CHECK Wait for it..."
+  "transfer_between_card_loading_title": "PLZ_CHECK Sending money...",
+  "transfer_between_card_loading_desc": "PLZ_CHECK Cyberspace is slow today, so hang in there"
 }

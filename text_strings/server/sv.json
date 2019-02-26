@@ -500,5 +500,7 @@
   "push_name_made_deposit_to_account": "Du har fått en insättning från {parent.nickname}",
   "ADPRPU002_notification_title": "Ett köp av {child.nickname} nekades på grund av för lågt saldo! ",
   "active_email_subject": "Aktivera Apple Pay",
-  "CHGEON009_notification_title": "PLZ_CHECK Create your dream"
+  "CHGEON009_notification_title": "PLZ_CHECK Create your dream",
+  "CHGERE020_notification_title": "PLZ_CHECK {parent.nickname} denied your chore suggestion: {task.title}. Suggest new one?",
+  "CHGERE020_push_title": "PLZ_CHECK Chore suggestion denied!"
 }

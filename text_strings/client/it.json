@@ -2297,7 +2297,7 @@
   "iap_general_error": "PLZ_TRANSLATE Someting went wrong! Seems we can't show you the subscription options",
   "general_talk_to_us": "PLZ_TRANSLATE Talk to us",
   "iap_no_products_for_you": "PLZ_TRANSLATE You've maxed out your subscriptions - we dont't have any more to offer you!",
-  "parent_auto_approval_feature_custom_notification": "PLZ_TRANSLATE Never miss approving a chore, turn on the 12h auto-approval!",
+  "parent_auto_approval_feature_custom_notification": "PLZ_TRANSLATE Never miss approving a chore, turn on the 24h auto-approval!",
   "general_scan_me": "PLZ_TRANSLATE Scan me",
   "general_scan_a_code": "PLZ_TRANSLATE Scan a code",
   "general_show_code": "PLZ_TRANSLATE Show code",
@@ -2306,6 +2306,6 @@
   "save_n_percent": "PLZ_TRANSLATE Save %1$d%",
   "lysa_email_title": "PLZ_TRANSLATE First we need your email...",
   "delete_chore": "PLZ_TRANSLATE Delete chore",
-  "transfer_between_card_loading_title": "PLZ_TRANSLATE Sending...",
-  "transfer_between_card_loading_desc": "PLZ_TRANSLATE Wait for it..."
+  "transfer_between_card_loading_title": "PLZ_TRANSLATE Sending money...",
+  "transfer_between_card_loading_desc": "PLZ_TRANSLATE Cyberspace is slow today, so hang in there"
 }
