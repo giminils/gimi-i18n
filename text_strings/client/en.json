@@ -2304,5 +2304,6 @@
   "one_time_cost": "One time cost",
   "general_forever": "Forever",
   "save_n_percent": "Save %1$d%",
-  "lysa_email_title": "First we need your email..."
+  "lysa_email_title": "First we need your email...",
+  "delete_chore": "Delete chore"
 }
