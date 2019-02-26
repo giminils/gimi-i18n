@@ -2305,5 +2305,7 @@
   "general_forever": "Forever",
   "save_n_percent": "Save %1$d%",
   "lysa_email_title": "First we need your email...",
-  "delete_chore": "Delete chore"
+  "delete_chore": "Delete chore",
+  "transfer_between_card_loading_title": "Sending...",
+  "transfer_between_card_loading_desc": "Wait for it..."
 }

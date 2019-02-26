@@ -2305,5 +2305,7 @@
   "general_forever": "PLZ_TRANSLATE Forever",
   "save_n_percent": "PLZ_TRANSLATE Save %1$d%",
   "lysa_email_title": "PLZ_TRANSLATE First we need your email...",
-  "delete_chore": "PLZ_TRANSLATE Delete chore"
+  "delete_chore": "PLZ_TRANSLATE Delete chore",
+  "transfer_between_card_loading_title": "PLZ_TRANSLATE Sending...",
+  "transfer_between_card_loading_desc": "PLZ_TRANSLATE Wait for it..."
 }
