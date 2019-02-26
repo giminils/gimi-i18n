@@ -2307,5 +2307,6 @@
   "lysa_email_title": "First we need your email...",
   "delete_chore": "Delete chore",
   "transfer_between_card_loading_title": "Sending money...",
-  "transfer_between_card_loading_desc": "Cyberspace is slow today, so hang in there"
+  "transfer_between_card_loading_desc": "Cyberspace is slow today, so hang in there",
+  "general_continue": "Continue"
 }

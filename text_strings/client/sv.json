@@ -2307,5 +2307,6 @@
   "lysa_email_title": "PLZ_CHECK First we need your email...",
   "delete_chore": "Radera uppgift",
   "transfer_between_card_loading_title": "PLZ_CHECK Sending money...",
-  "transfer_between_card_loading_desc": "PLZ_CHECK Cyberspace is slow today, so hang in there"
+  "transfer_between_card_loading_desc": "PLZ_CHECK Cyberspace is slow today, so hang in there",
+  "general_continue": "PLZ_CHECK Continue"
 }
