@@ -2296,8 +2296,8 @@
   "general_var_per_month": "%1$d/Month",
   "iap_general_error": "Someting went wrong! Seems we can't show you the subscription options",
   "general_talk_to_us": "Talk to us",
-  "iap_no_products_for_you": "You've maxed out your subscriptions - we dont't have any more to offer you!",
-  "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 12h auto-approval!",
+  "iap_no_products_for_you": "You've maxed out your subscriptions - we don't have any more to offer you!",
+  "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 24h auto-approval!",
   "general_scan_me": "Scan me",
   "general_scan_a_code": "Scan a code",
   "general_show_code": "Show code",
@@ -2306,6 +2306,6 @@
   "save_n_percent": "Save %1$d%",
   "lysa_email_title": "First we need your email...",
   "delete_chore": "Delete chore",
-  "transfer_between_card_loading_title": "Sending...",
-  "transfer_between_card_loading_desc": "Wait for it..."
+  "transfer_between_card_loading_title": "PLZ_COPY Sending money...",
+  "transfer_between_card_loading_desc": "PLZ_COPY Cyberspace is slow today, so hang in there"
 }
