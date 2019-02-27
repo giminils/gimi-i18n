@@ -502,5 +502,7 @@
   "active_email_subject": "Aktivera Apple Pay",
   "CHGEON009_notification_title": "Börja spara till din dröm",
   "CHGERE020_notification_title": "{parent.nickname} accepterade inte ditt förslag: {task.title}. Föreslå en ny uppgift?",
-  "CHGERE020_push_title": "Ditt förslag på uppgift accepterades inte!"
+  "CHGERE020_push_title": "Ditt förslag på uppgift accepterades inte!",
+  "ADPRON017_notification_title": "PLZ_CHECK ID verification completed! Order the card now...",
+  "ADPRON017_push_title": "PLZ_CHECK You've been verified. Get the Gimi card now!"
 }
