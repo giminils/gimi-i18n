@@ -504,5 +504,7 @@
   "CHGERE020_notification_title": "{parent.nickname} denied your chore suggestion: {task.title}. Suggest new one?",
   "CHGERE020_push_title": "Chore suggestion denied!",
   "ADPRON017_notification_title": "ID verification completed! Order the card now...",
-  "ADPRON017_push_title": "You've been verified. Get the Gimi card now!"
+  "ADPRON017_push_title": "You've been verified. Get the Gimi card now!",
+  "ADPRON018_notification_title": "ID verification completed! But something went wrong...",
+  "ADPRON018_push_title": "ID verification completed!"
 }

@@ -504,5 +504,7 @@
   "CHGERE020_notification_title": "{parent.nickname} accepterade inte ditt förslag: {task.title}. Föreslå en ny uppgift?",
   "CHGERE020_push_title": "Ditt förslag på uppgift accepterades inte!",
   "ADPRON017_notification_title": "PLZ_CHECK ID verification completed! Order the card now...",
-  "ADPRON017_push_title": "PLZ_CHECK You've been verified. Get the Gimi card now!"
+  "ADPRON017_push_title": "PLZ_CHECK You've been verified. Get the Gimi card now!",
+  "ADPRON018_notification_title": "PLZ_CHECK ID verification completed! But something went wrong...",
+  "ADPRON018_push_title": "PLZ_CHECK ID verification completed!"
 }
