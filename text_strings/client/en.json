@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Payday summary for %1$d",
   "payout_summary_edit_amount": "Edit amount",
   "payout_to_n": "Payday for %1$d",
-  "snooze_payout_singluar_title": "You sure you don't want to pay your child?",
+  "snooze_payout_singluar_title": "You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": "You sure you don't want to pay your children?",
   "snooze_payout_singluar_text": "Your child is expecting their Payday money!",
   "snooze_payout_plural_text": "Your children are expecting their Payday money!",

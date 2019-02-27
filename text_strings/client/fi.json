@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Maksuyhteenveto henkilölle %1$d",
   "payout_summary_edit_amount": "Muokkaa määrää",
   "payout_to_n": "Maksu henkilölle %1$d",
-  "snooze_payout_singluar_title": "Oletko varma, että et halua maksaa lapsellesi?",
+  "snooze_payout_singluar_title": "PLZ_TRANSLATE You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": "Oletko varma, että et halua maksaa lapsillesi?",
   "snooze_payout_singluar_text": "Lapsesi odottaa maksua!",
   "snooze_payout_plural_text": "Lapsesi odottavat maksua!",

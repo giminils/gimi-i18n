@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Riepilogo pagamenti per %1$d",
   "payout_summary_edit_amount": "Modifica importo",
   "payout_to_n": "Pagamento a %1$d",
-  "snooze_payout_singluar_title": " Sei sicuro di non voler pagare il tuo bambino?",
+  "snooze_payout_singluar_title": "PLZ_TRANSLATE You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": " Sei sicuro di non voler pagare i tuoi bambini ?",
   "snooze_payout_singluar_text": "Il tuo bambino sta aspettando il suo pagamento!",
   "snooze_payout_plural_text": "I tuoi bambini stanno aspettando i loro pagamenti!",

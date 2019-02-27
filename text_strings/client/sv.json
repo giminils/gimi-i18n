@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Utbetalning för %1$d",
   "payout_summary_edit_amount": "Ändra belopp",
   "payout_to_n": "Utbetalning till %1$d",
-  "snooze_payout_singluar_title": "Är du säker på att du inte vill betala ut till ditt barn?",
+  "snooze_payout_singluar_title": "PLZ_CHECK You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": "Är du säker på att du inte vill betala ut till dina barn?",
   "snooze_payout_singluar_text": "Ditt barn väntar på utbetalning!",
   "snooze_payout_plural_text": "Dina barn väntar på utbetalning!",

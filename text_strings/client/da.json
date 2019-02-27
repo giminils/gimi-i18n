@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Udbetalingsoversigt for %1$d",
   "payout_summary_edit_amount": "Rediger beløb",
   "payout_to_n": "Udbetaling til %1$d",
-  "snooze_payout_singluar_title": "Er du sikker på, at du ikke vil betale dit barn?",
+  "snooze_payout_singluar_title": "PLZ_TRANSLATE You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": "Er du sikker på, at du ikke vil betale dine børn?",
   "snooze_payout_singluar_text": "Dit barn forventer sin udbetaling!",
   "snooze_payout_plural_text": "Dine børn forventer deres udbetaling!",

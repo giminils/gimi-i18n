@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Auszahlungszusammenfassung für %1$d",
   "payout_summary_edit_amount": "Betrag ändern",
   "payout_to_n": "Auszahlung an %1$d",
-  "snooze_payout_singluar_title": "Bist Du sicher, dass Du Dein Kind nicht bezahlen möchtest?",
+  "snooze_payout_singluar_title": "PLZ_TRANSLATE You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": "Bist Du sicher, dass Du Deine Kinder nicht bezahlen möchtest?",
   "snooze_payout_singluar_text": "Dein Kind erwartet seine Auszahlung!",
   "snooze_payout_plural_text": "Deine Kinder erwarten ihre Auszahlung",
