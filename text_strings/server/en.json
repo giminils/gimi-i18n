@@ -294,9 +294,7 @@
   "push_pfs_card_blocked_by_parent": "Your card has been blocked by {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Your card has been unblocked by {pfs_card.updated_by.nickname}",
   "event_pfs_manual_deposit_to_savings": "You received a deposit from {pfs_payment_target.payment.parent.nickname}",
-  "event_pfs_payday_deposit_to_savings": "You received a deposit to your account",
   "push_pfs_manual_deposit_to_savings": "You received a deposit from {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_payday_deposit_to_savings": "You received a deposit to your account",
   "event_payday_child": "Payday",
   "event_payday_parent": "Payday for {child.nickname}",
   "event_premium_payday_child": "Payday",
@@ -506,5 +504,7 @@
   "ADPRON017_notification_title": "ID verification completed! Order the card now...",
   "ADPRON017_push_title": "You've been verified. Get the Gimi card now!",
   "ADPRON018_notification_title": "ID verification completed! But something went wrong...",
-  "ADPRON018_push_title": "ID verification completed!"
+  "ADPRON018_push_title": "ID verification completed!",
+  "event_pfs_payday_deposit_to_savings": "You received a deposit from {pfs_payment_target.payment.parent.nickname}",
+  "push_pfs_payday_deposit_to_savings": "You received a deposit from {pfs_payment_target.payment.parent.nickname}"
 }

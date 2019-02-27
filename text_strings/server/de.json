@@ -294,9 +294,7 @@
   "push_pfs_card_blocked_by_parent": "Deine Karte wurde von {pfs_card.updated_by.nickname} blockiert",
   "push_pfs_card_unblocked_by_parent": "Die Sperrung Deiner Karte wurde von {pfs_card.updated_by.nickname} aufgehoben",
   "event_pfs_manual_deposit_to_savings": "Du hast eine Einzahlung von {pfs_payment_target.payment.parent.nickname} erhalten",
-  "event_pfs_payday_deposit_to_savings": "Du hast eine neue Einzahlung auf dein Konto erhalten",
   "push_pfs_manual_deposit_to_savings": "Du hast eine Einzahlung von {pfs_payment_target.payment.parent.nickname} erhalten",
-  "push_pfs_payday_deposit_to_savings": "Du hast eine neue Einzahlung auf dein Konto erhalten",
   "event_payday_child": "Es ist Zahltag!",
   "event_payday_parent": "Es ist Zahltag für {child.nickname}",
   "event_premium_payday_child": "Es ist Zahltag!",
@@ -506,5 +504,7 @@
   "ADPRON017_notification_title": "PLZ_TRANSLATE ID verification completed! Order the card now...",
   "ADPRON017_push_title": "PLZ_TRANSLATE You've been verified. Get the Gimi card now!",
   "ADPRON018_notification_title": "PLZ_TRANSLATE ID verification completed! But something went wrong...",
-  "ADPRON018_push_title": "PLZ_TRANSLATE ID verification completed!"
+  "ADPRON018_push_title": "PLZ_TRANSLATE ID verification completed!",
+  "event_pfs_payday_deposit_to_savings": "PLZ_TRANSLATE You received a deposit from {pfs_payment_target.payment.parent.nickname}",
+  "push_pfs_payday_deposit_to_savings": "PLZ_TRANSLATE You received a deposit from {pfs_payment_target.payment.parent.nickname}"
 }
