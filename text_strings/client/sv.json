@@ -2308,5 +2308,8 @@
   "delete_chore": "Radera uppgift",
   "transfer_between_card_loading_title": "PLZ_CHECK Sending money...",
   "transfer_between_card_loading_desc": "PLZ_CHECK Cyberspace is slow today, so hang in there",
-  "general_continue": "PLZ_CHECK Continue"
+  "general_continue": "PLZ_CHECK Continue",
+  "new_connection_infoview_title_kid": "%1$d accepted your invitation. You’ll get some money or something...",
+  "new_connection_infoview_title_parent": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
+  "accepted_invite_setup_flow_description_kid”": "You’ll get some money or something from %1$d ..."
 }
