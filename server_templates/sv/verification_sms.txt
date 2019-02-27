@@ -1,0 +1,1 @@
+Skriv in koden i Gimi-appen: {{ verification_token.code }}

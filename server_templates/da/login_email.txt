@@ -1,0 +1,5 @@
+Hej {{ token.user.nickname }},{% if invite %}
+{{ sender.name }} har inviteret dig til at bruge you Gimi! Klik på linket for at komme i gang.{% else %}
+Indtast koden {{ token.code }} i appen, eller klik på linket for at logge ind.{% endif %}
+
+{{ token.login_url }}

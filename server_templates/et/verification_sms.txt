@@ -1,0 +1,1 @@
+Enter verification code in gimi app: {{ verification_token.code }}

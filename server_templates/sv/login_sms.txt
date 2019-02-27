@@ -1,0 +1,3 @@
+Ange koden {{ token.code }} i appen eller öppna länken nedan för att logga in.
+
+{{ token.login_url }}
