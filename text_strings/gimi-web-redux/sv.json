@@ -184,6 +184,7 @@
   "card_test_fail.hero.subtitle": "Du behöver nog lära dig lite mer om pengar innan du kan få ditt eget kort. Se dina resultat nedan!",
   "card_test.button.waitlist": "Väntelista",
   "card_test.button.next": "Nästa",
+  "card_test.button.redo": "Gör testet igen",
   "card_test.score.max": "Max",
   "card_test.score.approved": "Godkänd",
   "card_test.score.user": "Dina poäng",

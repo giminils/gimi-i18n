@@ -184,6 +184,7 @@
   "card_test_fail.hero.subtitle": "It seems like you need to learn more about money before you can get your own card. View your results below!",
   "card_test.button.waitlist": "Waitlist",
   "card_test.button.next": "Next",
+  "card_test.button.redo": "Retake quiz",
   "card_test.score.max": "Max",
   "card_test.score.approved": "Pass",
   "card_test.score.user": "Your score",
