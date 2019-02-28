@@ -1096,7 +1096,7 @@
   "weekly_allowance_amount": "amount",
   "monthly_allowance_amount": "amount",
   "kid_needs_migration": "update",
-  "no_connections_yet": "No contacts yet! \nGimi is more fun with family in the app.",
+  "no_connections_yet": "No contacts yet! \nGimi is more fun with your family in the app.",
   "general_remove_goal": "Remove dream",
   "event_allowance_tips": "Good to know about allowance",
   "event_earn_like_master": "Earn like a pro",
@@ -1196,6 +1196,7 @@
   "allowance_frequency_select_monthly_subtitle": "Monthly allowance is paid once a month on the day of your choice.",
   "allowance_frequency_select_weekly_subtitle": "Weekly allowance is paid once a week on the day of your choice.",
   "notification_section_setup": "Get started with Gimi!",
+  "notification_section_premium": "Premium Gimi!",
   "general_weekly_allowance": "Weekly allowance",
   "general_monthly_allowance": "Monthly allowance",
   "kid_connected_parent": "You and %1$d are now connected",
@@ -2309,9 +2310,11 @@
   "transfer_between_card_loading_title": "Sending money...",
   "transfer_between_card_loading_desc": "Cyberspace is slow today, so hang in there",
   "general_continue": "Continue",
-  "new_connection_infoview_title_kid": "%1$d accepted your invitation. You’ll get some money or something...",
+  "new_connection_infoview_title_kid": "%1$d accepted your invitation. More supporters means more opportunities to earn money 💪",
   "new_connection_infoview_title_parent": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
   "accepted_invite_setup_flow_description_kid”": "You’ll get some money or something from %1$d ...",
   "confirm_delete_chore_popover_title": "Sure you want to delete this chore?",
-  "confirm_delete_chore_popover_text": "You will not be able to undo this, this chore will be forever deleted!"
+  "confirm_delete_chore_popover_text": "You will not be able to undo this, this chore will be forever deleted!",
+  "onfido_notification_success": "ID verification completed! Order the card now...",
+  "onfido_notification_failure": "ID verification completed! But something went wrong..."
 }

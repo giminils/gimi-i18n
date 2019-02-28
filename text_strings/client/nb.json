@@ -1196,6 +1196,7 @@
   "allowance_frequency_select_monthly_subtitle": "Månedspenger betales en gang i måneden på dagen du ønsker.",
   "allowance_frequency_select_weekly_subtitle": "Ukepenger betales en gang i uken på dagen du ønsker.",
   "notification_section_setup": "Kom i gang med Gimi!",
+  "notification_section_premium": "Premium Gimi!",
   "general_weekly_allowance": "Ukepenger",
   "general_monthly_allowance": "Månedspenger",
   "kid_connected_parent": "du og %1$d er nå kontakter",
@@ -2313,5 +2314,7 @@
   "new_connection_infoview_title_parent": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
   "accepted_invite_setup_flow_description_kid”": "You’ll get some money or something from %1$d ...",
   "confirm_delete_chore_popover_title": "PLZ_TRANSLATE Sure you want to delete this chore?",
-  "confirm_delete_chore_popover_text": "PLZ_TRANSLATE You will not be able to undo this, this chore will be forever deleted!"
+  "confirm_delete_chore_popover_text": "PLZ_TRANSLATE You will not be able to undo this, this chore will be forever deleted!",
+  "onfido_notification_success": "PLZ_TRANSLATE ID verification completed! Order the card now...",
+  "onfido_notification_failure": "PLZ_TRANSLATE ID verification completed! But something went wrong..."
 }

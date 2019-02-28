@@ -126,6 +126,32 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'earn_chapter_5',
+        icon: 'iconMedalFirst',
+        chapterName: 'Job spotting',
+        titleLangKey: 'earn_chapter_5',
+        content: {
+          chapterIntroLangKey: 'earn_chapter_5_intro',
+          chapterSessionDescLangKey: 'earn_chapter_5_desc',
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_5_step_1_title',
+              descLangKey: 'earn_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_5_step_2_title',
+              descLangKey: 'earn_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_5_step_3_title',
+              descLangKey: 'earn_chapter_5_step_3_desc'
+            }
+          ]
+        }
       }
     ]
   },
@@ -251,6 +277,40 @@ export default [
             {
               titleLangKey: 'save_chapter_4_step_5_title',
               descLangKey: 'save_chapter_4_step_5_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'save_chapter_5',
+        icon: 'iconMagicWand',
+        chapterName: 'Introduce compound interest',
+        titleLangKey: 'save_chapter_5',
+        content: {
+          chapterIntroLangKey: 'save_chapter_5_intro',
+          chapterSessionDescLangKey: 'save_chapter_5_desc',
+          slideContent: [
+            {
+              titleLangKey: 'save_chapter_5_step_1_title',
+              descLangKey: 'save_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_2_title',
+              descLangKey: 'save_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_3_title',
+              descLangKey: 'save_chapter_5_step_3_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_4_title',
+              descLangKey: 'save_chapter_5_step_4_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_5_title',
+              descLangKey: 'save_chapter_5_step_5_desc'
             }
           ]
         }
@@ -409,6 +469,40 @@ export default [
             {
               titleLangKey: 'spend_chapter_5_step_4_title',
               descLangKey: 'spend_chapter_5_step_4_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'spend_chapter_6',
+        icon: 'iconDesktop',
+        chapterName: 'First online purchase',
+        titleLangKey: 'spend_chapter_6',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_6_intro',
+          chapterSessionDescLangKey: 'spend_chapter_6_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_6_step_1_title',
+              descLangKey: 'spend_chapter_6_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_2_title',
+              descLangKey: 'spend_chapter_6_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_3_title',
+              descLangKey: 'spend_chapter_6_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_4_title',
+              descLangKey: 'spend_chapter_6_step_4_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_5_title',
+              descLangKey: 'spend_chapter_6_step_5_desc'
             }
           ]
         }
