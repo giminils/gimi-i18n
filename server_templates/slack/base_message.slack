@@ -1,0 +1,8 @@
+{% extends django_slack %}
+
+{% block channel %}
+{{channel}}
+{% endblock %}
+{% block text %}
+{{message}}
+{% endblock%}

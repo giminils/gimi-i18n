@@ -1,0 +1,3 @@
+Gib den Code {{ token.code }} in der App ein oder öffne den Link, um Dich anzumelden.
+
+{{ token.login_url }}

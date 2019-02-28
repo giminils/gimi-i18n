@@ -1,0 +1,3 @@
+Syötä koodi {{ token.code }} sovelluksessa tai avaa linkki kirjautuaksesi sisään.
+
+{{ token.login_url }}

@@ -1,0 +1,5 @@
+Hei {{ token.user.nickname }},{% if invite %}
+{{ sender.name }} haluaisi kutsua sinut käyttämään Gimiä! Klikkaa linkkiä aloittaaksesi.{% else %}
+Syötä koodi {{ token.code }} sovelluksessa tai klikkaa linkkiä kirjautuaksesi sisään.{% endif %}
+
+{{ token.login_url }}

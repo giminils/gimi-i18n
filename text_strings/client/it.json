@@ -1320,7 +1320,7 @@
   "payout_summary_for_name": "Riepilogo pagamenti per %1$d",
   "payout_summary_edit_amount": "Modifica importo",
   "payout_to_n": "Pagamento a %1$d",
-  "snooze_payout_singluar_title": " Sei sicuro di non voler pagare il tuo bambino?",
+  "snooze_payout_singluar_title": "PLZ_TRANSLATE You sure you don't want to pay %1$d?",
   "snooze_payout_plural_title": " Sei sicuro di non voler pagare i tuoi bambini ?",
   "snooze_payout_singluar_text": "Il tuo bambino sta aspettando il suo pagamento!",
   "snooze_payout_plural_text": "I tuoi bambini stanno aspettando i loro pagamenti!",
@@ -2308,5 +2308,10 @@
   "delete_chore": "PLZ_TRANSLATE Delete chore",
   "transfer_between_card_loading_title": "PLZ_TRANSLATE Sending money...",
   "transfer_between_card_loading_desc": "PLZ_TRANSLATE Cyberspace is slow today, so hang in there",
-  "general_continue": "PLZ_TRANSLATE Continue"
+  "general_continue": "PLZ_TRANSLATE Continue",
+  "new_connection_infoview_title_kid": "%1$d accepted your invitation. You’ll get some money or something...",
+  "new_connection_infoview_title_parent": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
+  "accepted_invite_setup_flow_description_kid”": "You’ll get some money or something from %1$d ...",
+  "confirm_delete_chore_popover_title": "PLZ_TRANSLATE Sure you want to delete this chore?",
+  "confirm_delete_chore_popover_text": "PLZ_TRANSLATE You will not be able to undo this, this chore will be forever deleted!"
 }
