@@ -412,6 +412,40 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'spend_chapter_6',
+        icon: 'iconDesktop',
+        chapterName: 'First online purchase',
+        titleLangKey: 'spend_chapter_6',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_6_intro',
+          chapterSessionDescLangKey: 'spend_chapter_6_desc',
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_6_step_1_title',
+              descLangKey: 'spend_chapter_6_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_2_title',
+              descLangKey: 'spend_chapter_6_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_3_title',
+              descLangKey: 'spend_chapter_6_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_4_title',
+              descLangKey: 'spend_chapter_6_step_4_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_5_title',
+              descLangKey: 'spend_chapter_6_step_5_desc'
+            }
+          ]
+        }
       }
     ]
   }
