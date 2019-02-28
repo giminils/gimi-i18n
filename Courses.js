@@ -131,7 +131,7 @@ export default [
         ...defaultChapter,
         available: false,
         chapterID: 'earn_chapter_5',
-        icon: 'iconTrophy',
+        icon: 'iconMedalFirst',
         chapterName: 'Job spotting',
         titleLangKey: 'earn_chapter_5',
         content: {
@@ -277,6 +277,40 @@ export default [
             {
               titleLangKey: 'save_chapter_4_step_5_title',
               descLangKey: 'save_chapter_4_step_5_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'save_chapter_5',
+        icon: 'iconMagicWand',
+        chapterName: 'Introduce compound interest',
+        titleLangKey: 'save_chapter_5',
+        content: {
+          chapterIntroLangKey: 'save_chapter_5_intro',
+          chapterSessionDescLangKey: 'save_chapter_5_desc',
+          slideContent: [
+            {
+              titleLangKey: 'save_chapter_5_step_1_title',
+              descLangKey: 'save_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_2_title',
+              descLangKey: 'save_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_3_title',
+              descLangKey: 'save_chapter_5_step_3_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_4_title',
+              descLangKey: 'save_chapter_5_step_4_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_5_title',
+              descLangKey: 'save_chapter_5_step_5_desc'
             }
           ]
         }
