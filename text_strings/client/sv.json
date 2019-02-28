@@ -2316,5 +2316,7 @@
   "confirm_delete_chore_popover_title": "Säker på att du vill ta bort den här uppgiften?",
   "confirm_delete_chore_popover_text": "Du kommer inte kunna ångra dig. Den här uppgiften försvinner för alltid!",
   "onfido_notification_success": "ID-verifieringen klar! Nu kan du beställa kortet...",
-  "onfido_notification_failure": "ID-verifieringen klar! Men någonting gick fel..."
+  "onfido_notification_failure": "ID-verifieringen klar! Men någonting gick fel...",
+  "qr_code_explainer_popover_title": "PLZ_CHECK Koppla ihop med kod",
+  "qr_code_explainer_popover_subtitle": "PLZ_CHECK En person ska visa koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar, kontakter på knappen bjud in!"
 }

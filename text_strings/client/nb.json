@@ -2316,5 +2316,7 @@
   "confirm_delete_chore_popover_title": "PLZ_TRANSLATE Sure you want to delete this chore?",
   "confirm_delete_chore_popover_text": "PLZ_TRANSLATE You will not be able to undo this, this chore will be forever deleted!",
   "onfido_notification_success": "PLZ_TRANSLATE ID verification completed! Order the card now...",
-  "onfido_notification_failure": "PLZ_TRANSLATE ID verification completed! But something went wrong..."
+  "onfido_notification_failure": "PLZ_TRANSLATE ID verification completed! But something went wrong...",
+  "qr_code_explainer_popover_title": "PLZ_TRANSLATE Koppla ihop med kod",
+  "qr_code_explainer_popover_subtitle": "PLZ_TRANSLATE En person ska visa koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar, kontakter på knappen bjud in!"
 }
