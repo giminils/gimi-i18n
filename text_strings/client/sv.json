@@ -2309,7 +2309,7 @@
   "delete_chore": "Radera uppgift",
   "transfer_between_card_loading_title": "Skickar penagr...",
   "transfer_between_card_loading_desc": "Vänta lite... cyberspace är långsamt idag",
-  "general_continue": "Fortästt",
+  "general_continue": "Fortsätt",
   "new_connection_infoview_title_kid": "%1$d accepted your invitation. You’ll get some money or something...",
   "new_connection_infoview_title_parent": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
   "accepted_invite_setup_flow_description_kid”": "You’ll get some money or something from %1$d ...",
