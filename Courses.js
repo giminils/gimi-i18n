@@ -126,6 +126,32 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'earn_chapter_5',
+        icon: 'iconTrophy',
+        chapterName: 'Job spotting',
+        titleLangKey: 'earn_chapter_5',
+        content: {
+          chapterIntroLangKey: 'earn_chapter_5_intro',
+          chapterSessionDescLangKey: 'earn_chapter_5_desc',
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_5_step_1_title',
+              descLangKey: 'earn_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_5_step_2_title',
+              descLangKey: 'earn_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_5_step_3_title',
+              descLangKey: 'earn_chapter_5_step_3_desc'
+            }
+          ]
+        }
       }
     ]
   },
