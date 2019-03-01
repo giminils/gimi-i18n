@@ -2318,5 +2318,6 @@
   "onfido_notification_success": "PLZ_TRANSLATE ID verification completed! Order the card now...",
   "onfido_notification_failure": "PLZ_TRANSLATE ID verification completed! But something went wrong...",
   "qr_code_explainer_popover_title": "PLZ_TRANSLATE Koppla ihop med kod",
-  "qr_code_explainer_popover_subtitle": "PLZ_TRANSLATE En person ska visa koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar, kontakter på knappen bjud in!"
+  "qr_code_explainer_popover_subtitle": "PLZ_TRANSLATE En person ska visa koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar, kontakter på knappen bjud in!",
+  "add_chore_history_empty": "PLZ_TRANSLATE No previous chores to show 😕"
 }
