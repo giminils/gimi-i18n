@@ -2322,5 +2322,6 @@
   "add_chore_history_empty": "No previous chores to show 😕",
   "kid_earn_no_parents_bot_message_1": "You need supporters before you can start earning extra money",
   "kid_earn_no_parents_bot_message_2": "Invite them now!",
-  "general_invite_now": "Invite now!"
+  "general_invite_now": "Invite now!",
+  "notification_waiting_for_you": "Waiting for you"
 }
