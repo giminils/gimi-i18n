@@ -2319,5 +2319,8 @@
   "onfido_notification_failure": "ID-verifieringen klar! Men någonting gick fel...",
   "qr_code_explainer_popover_title": "Koppla ihop med QR-kod",
   "qr_code_explainer_popover_subtitle": "En person visar koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar och kontakter!",
-  "add_chore_history_empty": "Inga tidigare uppgifter att visa 😕"
+  "add_chore_history_empty": "Inga tidigare uppgifter att visa 😕",
+  "kid_earn_no_parents_bot_message_1": "PLZ_CHECK You need supporters before you can start earning extra money",
+  "kid_earn_no_parents_bot_message_2": "PLZ_CHECK Invite them now!",
+  "general_invite_now": "PLZ_CHECK Invite now!"
 }
