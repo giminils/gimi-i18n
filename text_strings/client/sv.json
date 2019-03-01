@@ -1705,7 +1705,7 @@
   "error_fetching_card_subscription_prices": "Kunde inte hämta priserna för Premium.",
   "sucessfull_pfs_deposit_title": "Insättning på %1$d är klar!",
   "new_chores_hint": "Nya att godkänna!",
-  "money_settings_multiple_parents_disclaimer": "%1$d har också vecko- eller månadspeng och ränta från andra vuxna.",
+  "money_settings_multiple_parents_disclaimer": "%1$d får också vecko- eller månadspeng och ränta från andra vuxna.",
   "money_settings_connections_button": "Kontakter",
   "scan_qr_code_instead_button": "Koppla ihop utan telefonnummer",
   "general_send_invite": "Skicka inbjudan!",
@@ -2317,7 +2317,7 @@
   "confirm_delete_chore_popover_text": "Du kommer inte kunna ångra dig. Den här uppgiften försvinner för alltid!",
   "onfido_notification_success": "ID-verifieringen klar! Nu kan du beställa kortet...",
   "onfido_notification_failure": "ID-verifieringen klar! Men någonting gick fel...",
-  "qr_code_explainer_popover_title": "PLZ_CHECK Koppla ihop med kod",
-  "qr_code_explainer_popover_subtitle": "PLZ_CHECK En person ska visa koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar, kontakter på knappen bjud in!",
-  "add_chore_history_empty": "PLZ_CHECK No previous chores to show 😕"
+  "qr_code_explainer_popover_title": "Koppla ihop med QR-kod",
+  "qr_code_explainer_popover_subtitle": "En person visar koden, den andra personen skannar koden i sin telefon. Både kod och skanner hittar du i inställningar och kontakter!",
+  "add_chore_history_empty": "Inga tidigare uppgifter att visa 😕"
 }
