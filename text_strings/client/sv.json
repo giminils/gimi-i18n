@@ -2324,5 +2324,6 @@
   "kid_earn_no_parents_bot_message_2": "PLZ_CHECK Invite them now!",
   "general_invite_now": "PLZ_CHECK Invite now!",
   "notification_waiting_for_you": "PLZ_CHECK Waiting for you",
-  "premium_internal_transaction_to_savings": "PLZ_CHECK Transfer to savings"
+  "premium_internal_transaction_to_savings": "PLZ_CHECK Transfer to savings",
+  "error_buying_iap": "PLZ_CHECK Something didnt work..."
 }

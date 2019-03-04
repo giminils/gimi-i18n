@@ -2324,5 +2324,6 @@
   "kid_earn_no_parents_bot_message_2": "Invite them now!",
   "general_invite_now": "Invite now!",
   "notification_waiting_for_you": "Waiting for you",
-  "premium_internal_transaction_to_savings": "Transfer to savings"
+  "premium_internal_transaction_to_savings": "Transfer to savings",
+  "error_buying_iap": "Something didnt work..."
 }
