@@ -166,7 +166,7 @@
   "trustly_manual_transaction_email_subject": "Did you just send {transaction.str_value} to {transaction.child.nickname}?",
   "trustly_manual_transaction_email_body": "Because you have enabled simple transfers from your account to the {transaction.child.nickname} account that do not require a Mobile BankID account, we just wanted to make sure that it was you you just made a transfer. If so, you can ignore this email. If it was not you, you'll need to check if someone has access to your phone. Please note that simple transfers can only be made between the accounts that you have previously linked with BankID and our Trustly partner , and you can only send max. 2000kr per transfer in a day. You can see your linked accounts in the app under the Downloads tab.",
   "push_parent_not_giving_chores": "Get your children to help at home! Hand out chores!",
-  "push_event_request_money": "PLZ_COPY {kid_id} is requesting ({amount})!",
+  "push_event_request_money": "{kid_id} is requesting ({amount})!",
   "push_event_request_money_title": "{child_name} is requesting money",
   "push_interest_notification": "New Gimi Interest Level: {interest_rate}",
   "phone_number_verification_sms": "Verification code: {code}",
