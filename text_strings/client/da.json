@@ -2333,5 +2333,6 @@
   "external_survey_section_4": "PLZ_TRANSLATE Som tack för ert deltagande kommer vi att skänka ett bidrag till Barncancerfonden!",
   "external_survey_section_5": "PLZ_TRANSLATE Genom att gå vidare i studien samtycker du att du läst och samtycker till villkoren.",
   "external_survey_buttontext": "PLZ_TRANSLATE Starta!",
-  "general_vilkor": "PLZ_TRANSLATE Vilkor"
+  "general_vilkor": "PLZ_TRANSLATE Vilkor",
+  "general_show_recommended": "PLZ_TRANSLATE Show recommended"
 }
