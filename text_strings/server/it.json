@@ -166,7 +166,7 @@
   "trustly_manual_transaction_email_subject": "Certo, hai appena inviato {transaction.str_value} a {transaction.child.nickname} ?",
   "trustly_manual_transaction_email_body": "Poiché hai abilitato i trasferimenti semplici dal tuo account all'account {transaction.child.nickname} che non richiede un account Mobile BankID, abbiamo solo voluto assicurarci del trasferimento. Se è legittimo, puoi ignorare questa email. Se non lo è, dovrai controllare se qualcuno ha accesso al telefono. Si prega di notare che i semplici trasferimenti possono essere effettuati solo tra i conti precedentemente collegati con BankID e il nostro partner Trustful e puoi inviare solo max 2000kr per trasferimento e al giorno. Puoi vedere i tuoi account collegati nell applicazione nella scheda Download.",
   "push_parent_not_giving_chores": "PLZ_TRANSLATE Get your children to help at home! Hand out chores!",
-  "push_event_request_money": "{kid_id} chiede più soldi ({amount})!",
+  "push_event_request_money": "PLZ_TRANSLATE {kid_id} is requesting ({amount})!",
   "push_event_request_money_title": "{child_name} chiede denaro!",
   "push_interest_notification": "Nuovo livello di interesse di Gimi: {interest_rate}",
   "phone_number_verification_sms": "Codice di verifica: {code}",
