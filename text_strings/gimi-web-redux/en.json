@@ -274,43 +274,36 @@
   "cookies.body.subtitle1": "What are cookies?",
   "cookies.body.part1": "Cookies are small text files with information that are saved on your computer when you are visiting a webpage, (surfpads with internet access and phones are included). Cookies are used to make webpages to work more effectively but also to give some information to the owner of a website. Cookies makes it possible to distinguish users from each other, which in itself can give the user a more positive experience of the website.",
   "cookies.body.subtitle2": "List of cookies on Gimis domains",
-
   "cookies.body.table.head.name": "Name",
   "cookies.body.table.head.creator": "Creator/user of the cookie",
   "cookies.body.table.head.type": "Type",
   "cookies.body.table.head.function": "Function",
   "cookies.body.table.head.storage": "Tome of storage",
-
   "cookies.body.table.row1.name": "_ga",
   "cookies.body.table.row1.creator": "Creator - Google Analytics User - Gimi",
   "cookies.body.table.row1.type": "HTTP First party",
   "cookies.body.table.row1.function": "Link separate visits to the website to the same interne tuser",
   "cookies.body.table.row1.storage": "Two years after the latest visit on the website",
-
   "cookies.body.table.row2.name": "_gat",
   "cookies.body.table.row2.creator": "Creator - Google Analytics User - Gimi",
   "cookies.body.table.row2.type": "HTTP First party",
   "cookies.body.table.row2.function": "Throttle request rate",
   "cookies.body.table.row2.storage": "1 minute",
-
   "cookies.body.table.row3.name": "_gid",
   "cookies.body.table.row3.creator": "Creator - Google Analytics User - Gimi",
   "cookies.body.table.row3.type": "HTTP First party",
   "cookies.body.table.row3.function": "Distinguish separate users",
   "cookies.body.table.row3.storage": "24 hours",
-
   "cookies.body.table.row4.name": "_fbp",
   "cookies.body.table.row4.creator": "Creator: -Facebook User - Gimi",
   "cookies.body.table.row4.type": "HTTP First party and third party",
   "cookies.body.table.row4.function": "Measure and report visits on the website.",
   "cookies.body.table.row4.storage": "Three months (92 days)",
-
   "cookies.body.table.row5.name": "_intercom-id-ybo9v9ss",
   "cookies.body.table.row5.creator": "Creator - Intercom User - Gimi ",
   "cookies.body.table.row5.type": "HTTP First party",
   "cookies.body.table.row5.function": "Distinguish users on the website.",
   "cookies.body.table.row5.storage": "1 year and 17 days.",
-
   "cookies.body.part2": "Most browsers have a standard setting which accept the use of cookies. You may change these settings and be notified whenever a cookie is sent to your computer or create a rule which means that all cookies are blocked. You may also delete all cookies that are stored on your computer. How you remove stored cookies or change the settings for cookies are found in the instructions för the website or in the help section which are included in most browsers. If you choose to block the cookies that are used on our website it might affect your experience of our website, for example might impair the functionality.",
   "cookies.body.part3": "Your consent to the use of cookies are valid for the domains %l1 and %l2",
   "cookies.body.part4": "If you have further questions, please send an email to %s, or follow the links below for further information.",
