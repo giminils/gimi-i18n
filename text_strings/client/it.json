@@ -2312,7 +2312,7 @@
   "general_continue": "PLZ_TRANSLATE Continue",
   "new_connection_infoview_title_kid": "%1$d accepted your invitation. You’ll get some money or something...",
   "new_connection_infoview_title_parent": "%1$d accepted your invitation. Set up allowance, interest and chores now!",
-  "accepted_invite_setup_flow_description_kid”": "PLZ_TRANSLATE More supporters means more opportunities to earn money! Suggest a chore to %1$d?",
+  "accepted_invite_setup_flow_description_kid": "PLZ_TRANSLATE PLZ_COPY More supporters means more opportunities to earn money! Suggest a chore to %1$d?",
   "confirm_delete_chore_popover_title": "PLZ_TRANSLATE Sure you want to delete this chore?",
   "confirm_delete_chore_popover_text": "PLZ_TRANSLATE You will not be able to undo this, this chore will be forever deleted!",
   "onfido_notification_success": "PLZ_TRANSLATE ID verification completed! Order the card now...",
@@ -2325,5 +2325,13 @@
   "general_invite_now": "PLZ_TRANSLATE Invite now!",
   "notification_waiting_for_you": "PLZ_TRANSLATE Waiting for you",
   "premium_internal_transaction_to_savings": "PLZ_TRANSLATE Transfer to savings",
-  "error_buying_iap": "PLZ_TRANSLATE Something didnt work..."
+  "error_buying_iap": "PLZ_TRANSLATE Something didnt work...",
+  "external_survey_title": "PLZ_TRANSLATE Välkommen till vår studie!",
+  "external_survey_section_1": "PLZ_TRANSLATE Vi genomför en vetenskaplig studie tillsammans med ett forskningsteam från Handelshögskolan i Stockholm, Babson College och Dartmouth College.",
+  "external_survey_section_2": "PLZ_TRANSLATE Vårt mål är att öka förståelsen för hur barn lär sig hantera pengar i en digital värld - och för att kunna genomföra denna studie behöver vi din hjälp!",
+  "external_survey_section_3": "PLZ_TRANSLATE Studien består av tre delar med ett antal frågor. Majoriteten av dessa besvaras av dig som vuxen, men vi är tacksamma om du dessutom skulle kunna ställa några korta frågor till ditt, eller ett av dina, barn som använder Gimi.",
+  "external_survey_section_4": "PLZ_TRANSLATE Som tack för ert deltagande kommer vi att skänka ett bidrag till Barncancerfonden!",
+  "external_survey_section_5": "PLZ_TRANSLATE Genom att gå vidare i studien samtycker du att du läst och samtycker till villkoren.",
+  "external_survey_buttontext": "PLZ_TRANSLATE Starta!",
+  "general_vilkor": "PLZ_TRANSLATE Vilkor"
 }
