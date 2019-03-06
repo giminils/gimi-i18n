@@ -2334,5 +2334,7 @@
   "external_survey_section_5": "Genom att gå vidare i studien samtycker du att du läst och samtycker till villkoren.",
   "external_survey_buttontext": "Starta!",
   "general_vilkor": "Vilkor",
-  "general_show_recommended": "Show recommended"
+  "general_show_recommended": "Show recommended",
+  "pin_loading_screen_title": "The code to your card...",
+  "pin_loading_screen_text": "...is loading slowly. Hang in there!"
 }

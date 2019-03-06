@@ -2334,5 +2334,7 @@
   "external_survey_section_5": "PLZ_CHECK Genom att gå vidare i studien samtycker du att du läst och samtycker till villkoren.",
   "external_survey_buttontext": "PLZ_CHECK Starta!",
   "general_vilkor": "PLZ_CHECK Villkor",
-  "general_show_recommended": "Visa rekommendation"
+  "general_show_recommended": "Visa rekommendation",
+  "pin_loading_screen_title": "PLZ_CHECK The code to your card...",
+  "pin_loading_screen_text": "PLZ_CHECK ...is loading slowly. Hang in there!"
 }
