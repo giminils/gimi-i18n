@@ -2336,5 +2336,11 @@
   "general_vilkor": "Villkor",
   "general_show_recommended": "Visa rekommendation",
   "pin_loading_screen_title": "PLZ_CHECK The code to your card...",
-  "pin_loading_screen_text": "PLZ_CHECK ...is loading slowly. Hang in there!"
+  "pin_loading_screen_text": "PLZ_CHECK ...is loading slowly. Hang in there!",
+  "onfido_loading_texts_1": "PLZ_CHECK Laddar...",
+  "onfido_loading_texts_2": "PLZ_CHECK Detta kan ta en stund...",
+  "onfido_loading_texts_3": "PLZ_CHECK Kopplar ihop sladdar...",
+  "onfido_loading_texts_4": "PLZ_CHECK Gör binära uträkningar...",
+  "onfido_loading_texts_5": "PLZ_CHECK Trycker på knappar...",
+  "onfido_loading_texts_6": "PLZ_CHECK Trixar och fixar..."
 }

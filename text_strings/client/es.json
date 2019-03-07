@@ -2336,5 +2336,11 @@
   "general_vilkor": "PLZ_TRANSLATE Vilkor",
   "general_show_recommended": "PLZ_TRANSLATE Show recommended",
   "pin_loading_screen_title": "PLZ_TRANSLATE The code to your card...",
-  "pin_loading_screen_text": "PLZ_TRANSLATE ...is loading slowly. Hang in there!"
+  "pin_loading_screen_text": "PLZ_TRANSLATE ...is loading slowly. Hang in there!",
+  "onfido_loading_texts_1": "PLZ_TRANSLATE Laddar...",
+  "onfido_loading_texts_2": "PLZ_TRANSLATE Detta kan ta en stund...",
+  "onfido_loading_texts_3": "PLZ_TRANSLATE Kopplar ihop sladdar...",
+  "onfido_loading_texts_4": "PLZ_TRANSLATE Gör binära uträkningar...",
+  "onfido_loading_texts_5": "PLZ_TRANSLATE Trycker på knappar...",
+  "onfido_loading_texts_6": "PLZ_TRANSLATE Trixar och fixar..."
 }
