@@ -2333,5 +2333,15 @@
   "external_survey_section_4": "Som tack för ert deltagande kommer vi att skänka ett bidrag till Barncancerfonden!",
   "external_survey_section_5": "Genom att gå vidare i studien samtycker du att du läst och samtycker till villkoren.",
   "external_survey_buttontext": "Starta!",
-  "general_vilkor": "Vilkor"
+  "general_vilkor": "Vilkor",
+  "general_show_recommended": "Show recommended",
+  "pin_loading_screen_title": "The code to your card...",
+  "pin_loading_screen_text": "...is loading slowly. Hang in there!",
+  "onfido_loading_texts_1": "Laddar...",
+  "onfido_loading_texts_2": "Detta kan ta en stund...",
+  "onfido_loading_texts_3": "Kopplar ihop sladdar...",
+  "onfido_loading_texts_4": "Gör binära uträkningar...",
+  "onfido_loading_texts_5": "Trycker på knappar...",
+  "onfido_loading_texts_6": "Trixar och fixar...",
+  "invite_supporter": "Invite supporter"
 }
