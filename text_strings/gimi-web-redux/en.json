@@ -173,6 +173,7 @@
   "waitlist_status.form.section2.score": "Your score: {score}/10",
   "waitlist_status.form.section2.take_test": "The card test",
   "waitlist_status.form.section2.not_done_test": "You haven't taken the card test yet!",
+  "waitlist_status.form.section2.button_test": "Take the test",
   "waitlist.submit.success": "Invite sent!",
   "waitlist.submit.error.exists": "E-mail already exists.",
   "waitlist.submit.error.other": "Something went wrong, please try again later.",

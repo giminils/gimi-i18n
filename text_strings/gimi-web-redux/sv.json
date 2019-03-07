@@ -173,6 +173,7 @@
   "waitlist_status.form.section2.score": "Ditt resultat : {score}/10",
   "waitlist_status.form.section2.take_test": "Korttestet",
   "waitlist_status.form.section2.not_done_test": "Du har inte gjort Korttestet än!",
+  "waitlist_status.form.section2.button_test": "Till testet",
   "waitlist.submit.success": "Inbjudan skickad!",
   "waitlist.submit.error.exists": "E-postaddressen finns redan registrerad hos oss.",
   "waitlist.submit.error.other": "Något gick fel, prova igen senare.",
