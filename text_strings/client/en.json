@@ -2344,5 +2344,6 @@
   "onfido_loading_texts_5": "Trycker på knappar...",
   "onfido_loading_texts_6": "Trixar och fixar...",
   "invite_supporter": "Invite supporter",
-  "copied_to_clipboard_success": "Copied to clipboard!"
+  "copied_to_clipboard_success": "Copied to clipboard!",
+  "general_topup": "Top-up"
 }

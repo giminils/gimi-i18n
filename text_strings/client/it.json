@@ -2344,5 +2344,6 @@
   "onfido_loading_texts_5": "PLZ_TRANSLATE Trycker på knappar...",
   "onfido_loading_texts_6": "PLZ_TRANSLATE Trixar och fixar...",
   "invite_supporter": "PLZ_TRANSLATE Invite supporter",
-  "copied_to_clipboard_success": "PLZ_TRANSLATE Copied to clipboard!"
+  "copied_to_clipboard_success": "PLZ_TRANSLATE Copied to clipboard!",
+  "general_topup": "PLZ_TRANSLATE Top-up"
 }

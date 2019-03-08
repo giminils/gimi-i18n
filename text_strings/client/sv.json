@@ -2344,5 +2344,6 @@
   "onfido_loading_texts_5": "PLZ_CHECK Trycker på knappar...",
   "onfido_loading_texts_6": "PLZ_CHECK Trixar och fixar...",
   "invite_supporter": "PLZ_CHECK Invite supporter",
-  "copied_to_clipboard_success": "PLZ_CHECK Copied to clipboard!"
+  "copied_to_clipboard_success": "PLZ_CHECK Copied to clipboard!",
+  "general_topup": "PLZ_CHECK Top-up"
 }
