@@ -2343,5 +2343,6 @@
   "onfido_loading_texts_4": "PLZ_TRANSLATE Gör binära uträkningar...",
   "onfido_loading_texts_5": "PLZ_TRANSLATE Trycker på knappar...",
   "onfido_loading_texts_6": "PLZ_TRANSLATE Trixar och fixar...",
-  "invite_supporter": "PLZ_TRANSLATE Invite supporter"
+  "invite_supporter": "PLZ_TRANSLATE Invite supporter",
+  "copied_to_clipboard_success": "PLZ_TRANSLATE Copied to clipboard!"
 }
