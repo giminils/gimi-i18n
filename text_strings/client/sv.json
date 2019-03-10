@@ -2120,7 +2120,7 @@
   "setup_kid_tracker_recommended_age": "Rekommenderas från 6 år",
   "auto_approve_after_time": "Godkänn automatiskt efter 24h",
   "auto_approve_chore_popover_title": "Säker på att du vill godkänna automatiskt?",
-  "auto_approve_chore_popover_text": "Den här uppgifter kommer att godkännas automatiskt 12 timmar efter utförande. Tänk på att du inte kan ångra godkända uppgifter.",
+  "auto_approve_chore_popover_text": "Den här uppgifter kommer att godkännas automatiskt 24 timmar efter utförande. Tänk på att du inte kan ångra godkända uppgifter.",
   "cant_change_premium_currency_popover_title": "Du kan inte ändra valuta",
   "cant_change_premium_currency_popover_text": "Du har minst en kontakt som har ett riktigt konto med riktiga pengar, som inte kan ändra valuta.",
   "get_on_waitlist_removable_button_parent_settings": "Väntelista till Gimi-kortet!",
