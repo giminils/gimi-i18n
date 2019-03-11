@@ -2345,5 +2345,6 @@
   "onfido_loading_texts_6": "PLZ_TRANSLATE Hang in there...",
   "invite_supporter": "PLZ_TRANSLATE Invite supporter",
   "copied_to_clipboard_success": "PLZ_TRANSLATE Copied to clipboard!",
-  "general_topup": "PLZ_TRANSLATE Top-up"
+  "general_topup": "PLZ_TRANSLATE Top-up",
+  "mark_as_completed": "PLZ_TRANSLATE Mark as completed"
 }
