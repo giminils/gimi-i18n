@@ -2345,5 +2345,6 @@
   "copied_to_clipboard_success": "Kopierat!",
   "general_topup": "Ladda kort",
   "mark_as_completed": "PLZ_CHECK Mark as completed",
-  "chore_archive_earned_title": "PLZ_CHECK Earned: %1$d"
+  "chore_archive_earned_title": "PLZ_CHECK Earned: %1$d",
+  "kid_custom_notification_money_week": "PLZ_CHECK Kolla in pengatips från experterna"
 }

@@ -2345,5 +2345,6 @@
   "copied_to_clipboard_success": "PLZ_TRANSLATE Copied to clipboard!",
   "general_topup": "PLZ_TRANSLATE Top-up",
   "mark_as_completed": "PLZ_TRANSLATE Mark as completed",
-  "chore_archive_earned_title": "PLZ_TRANSLATE Earned: %1$d"
+  "chore_archive_earned_title": "PLZ_TRANSLATE Earned: %1$d",
+  "kid_custom_notification_money_week": "PLZ_TRANSLATE Kolla in pengatips från experterna"
 }
