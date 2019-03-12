@@ -2346,5 +2346,6 @@
   "general_topup": "Top-up",
   "mark_as_completed": "Mark as completed",
   "chore_archive_earned_title": "Earned: %1$d",
-  "kid_custom_notification_money_week": "Kolla in pengatips från experterna"
+  "kid_custom_notification_money_week": "Kolla in pengatips från experterna",
+  "top_up_card_action_button": "Top-up card"
 }
