@@ -2347,5 +2347,6 @@
   "mark_as_completed": "Slutförd",
   "chore_archive_earned_title": "Tjänat: %1$d",
   "kid_custom_notification_money_week": "Kolla in pengatips från experterna",
-  "top_up_card_action_button": "Ladda kortet"
+  "top_up_card_action_button": "Ladda kortet",
+  "general_accept": "PLZ_CHECK Accept"
 }
