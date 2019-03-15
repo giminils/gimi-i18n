@@ -173,7 +173,7 @@
   "push_verify_phone_to_custom_account": "PLZ_TRANSLATE Verify phone number",
   "push_chores_waiting": "PLZ_TRANSLATE You have {x} chores waiting. Go earn some money!",
   "event_add_card": "PLZ_TRANSLATE Add your debitcard so you can make deposits to your children!",
-  "event_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {statement.merchant_name}",
+  "event_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "event_got_money_back": "PLZ_TRANSLATE You got some money back from {statement.merchant_name}",
   "push_got_money_back": "PLZ_TRANSLATE 💰You just got some money from {statement.merchant_name}!",
   "event_exceed_daily_limit": "PLZ_TRANSLATE {child.nickname} just exceeded the daily spending limit!",
