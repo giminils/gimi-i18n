@@ -2349,5 +2349,7 @@
   "chore_archive_earned_title": "PLZ_TRANSLATE Earned: %1$d",
   "kid_custom_notification_money_week": "PLZ_TRANSLATE Kolla in pengatips från experterna",
   "top_up_card_action_button": "PLZ_TRANSLATE Top-up card",
-  "general_accept": "PLZ_TRANSLATE Accept"
+  "general_accept": "PLZ_TRANSLATE Accept",
+  "approved_other_parent_for_deposits_success_title": "PLZ_TRANSLATE %1$d is approved!",
+  "approved_other_parent_for_deposits_success_text": "PLZ_TRANSLATE %1$d can now receive money from %2$d. You can manage permissions in settings of %1$d."
 }

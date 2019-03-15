@@ -2349,5 +2349,7 @@
   "chore_archive_earned_title": "Tjänat: %1$d",
   "kid_custom_notification_money_week": "Kolla in pengatips från experterna",
   "top_up_card_action_button": "Ladda kortet",
-  "general_accept": "PLZ_CHECK Accept"
+  "general_accept": "PLZ_CHECK Accept",
+  "approved_other_parent_for_deposits_success_title": "PLZ_CHECK %1$d is approved!",
+  "approved_other_parent_for_deposits_success_text": "PLZ_CHECK %1$d can now receive money from %2$d. You can manage permissions in settings of %1$d."
 }
