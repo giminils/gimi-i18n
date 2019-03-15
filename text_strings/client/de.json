@@ -1497,7 +1497,7 @@
   "parent_blocked_card": "Dein Elternteil hat Deine Karte gesperrt...",
   "maybe_try_again": "Vielleicht magst Du es erneut versuchen?",
   "pfs_temp_trans_text": "Mist! Es hat funktioniert!",
-  "no_phone_no_pin_premium_error": "Etwas ist schiefgegangen... Bitte kontaktiere den Support",
+  "no_phone_no_pin_premium_error": "PLZ_TRANSLATE You need to have a pin Code in order to change Phone number",
   "blocked_card_header": "Deine Karte wurde gesperrt",
   "blocked_card_desc": "...und die Sperrung kann nur von der Person aufgehoben werden, die sie veranlasst hat. Solange kannst Du die Karte nicht verwenden.",
   "general_contact_support": "Support kontaktieren",

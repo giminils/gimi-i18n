@@ -1497,7 +1497,7 @@
   "parent_blocked_card": "Vanhempasi blokkasi korttisi...",
   "maybe_try_again": "Yritä uudelleen?",
   "pfs_temp_trans_text": "PLZ_CHECK Shit! it worked!",
-  "no_phone_no_pin_premium_error": "Jotain meni pieleen... ota yhteyttä tukeen",
+  "no_phone_no_pin_premium_error": "PLZ_TRANSLATE You need to have a pin Code in order to change Phone number",
   "blocked_card_header": "Korttisi on blokattu",
   "blocked_card_desc": "...ja vain sen blokannut henkilö voi avata sen. Ennen sitä et voi käyttää korttia.",
   "general_contact_support": "Ota yhteyttä tukeen",

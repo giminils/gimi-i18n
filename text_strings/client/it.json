@@ -1497,7 +1497,7 @@
   "parent_blocked_card": "i tuoi genitori hanno bloccato la tua carta...",
   "maybe_try_again": "Forse puoi riprovare di nuovo?",
   "pfs_temp_trans_text": "Cavolo! ha funzionato!",
-  "no_phone_no_pin_premium_error": "qualcosa è andato storto... per favore, contatta il supporto",
+  "no_phone_no_pin_premium_error": "PLZ_TRANSLATE You need to have a pin Code in order to change Phone number",
   "blocked_card_header": "La tua carta è stata bloccata",
   "blocked_card_desc": "...e può essere sbloccata solo dalla persona che l'ha bloccata. Fino ad allora, non puoi usare la carta.",
   "general_contact_support": "Contatta il supporto",

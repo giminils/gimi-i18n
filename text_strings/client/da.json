@@ -1497,7 +1497,7 @@
   "parent_blocked_card": "Dine forældre blokerede dit kort...",
   "maybe_try_again": "Måske skal du bare prøve igen?",
   "pfs_temp_trans_text": "For pokker! Det virkede!",
-  "no_phone_no_pin_premium_error": "Noget gik galt... kontakt venligst support",
+  "no_phone_no_pin_premium_error": "PLZ_TRANSLATE You need to have a pin Code in order to change Phone number",
   "blocked_card_header": "Dit kort er blokeret",
   "blocked_card_desc": "Og kan kun blive ublokeret af den person som blokerede det. Indtil da kan du ikke bruge kortet.",
   "general_contact_support": "kontakt venligst support",
