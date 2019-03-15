@@ -2353,5 +2353,6 @@
   "approved_other_parent_for_deposits_success_title": "PLZ_CHECK %1$d is approved!",
   "approved_other_parent_for_deposits_success_text": "PLZ_CHECK %1$d can now receive money from %2$d. You can manage permissions in settings of %1$d.",
   "payday_amount_desc": "PLZ_CHECK How much was earnt this week:",
-  "payday_earnt_desc": "PLZ_CHECK This is how the payday money was earnt!"
+  "payday_earnt_desc": "PLZ_CHECK This is how the payday money was earnt!",
+  "general_disconnected": "PLZ_CHECK disconnected"
 }
