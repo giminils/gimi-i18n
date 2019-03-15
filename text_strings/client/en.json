@@ -2351,5 +2351,7 @@
   "top_up_card_action_button": "Top-up card",
   "general_accept": "Accept",
   "approved_other_parent_for_deposits_success_title": "%1$d is approved!",
-  "approved_other_parent_for_deposits_success_text": "%1$d can now receive money from %2$d. You can manage permissions in settings of %1$d."
+  "approved_other_parent_for_deposits_success_text": "%1$d can now receive money from %2$d. You can manage permissions in settings of %1$d.",
+  "payday_amount_desc": "How much was earnt this week:",
+  "payday_earnt_desc": "This is how the payday money was earnt!"
 }
