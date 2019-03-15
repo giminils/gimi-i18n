@@ -312,5 +312,6 @@
   "ADPRON018_notification_title": "ID-verifieringen klar! Men något gick fel...",
   "ADPRON018_push_title": "ID-verifieringen klar!",
   "event_pfs_payday_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}!",
-  "push_pfs_payday_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}!"
+  "push_pfs_payday_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}!",
+  "active_email_subject": "PLZ_CHECK Activate { wallet_provider }"
 }

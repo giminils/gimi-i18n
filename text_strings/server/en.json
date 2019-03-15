@@ -312,5 +312,6 @@
   "ADPRON018_notification_title": "ID verification completed! But something went wrong...",
   "ADPRON018_push_title": "ID verification completed!",
   "event_pfs_payday_deposit_to_savings": "You just got money from {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_payday_deposit_to_savings": "You just got money from {pfs_payment_target.payment.parent.nickname}"
+  "push_pfs_payday_deposit_to_savings": "You just got money from {pfs_payment_target.payment.parent.nickname}",
+  "active_email_subject": "Activate { wallet_provider }"
 }
