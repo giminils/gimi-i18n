@@ -1,2 +1,2 @@
 Your one-time verification code to add your Gimi Card to Apple Pay is {{ activation_code }}.
-To activate Apple Pay, open the Wallet app, tap your card and enter the code. This code will expire in 30 minutes.
+To activate {{ wallet_provider }}, open the Wallet app, tap your card and enter the code. This code will expire in 30 minutes.

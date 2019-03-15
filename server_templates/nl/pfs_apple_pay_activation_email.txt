@@ -1,4 +1,4 @@
-To activate Apple Pay, open the Wallet app, tap your card, tap Enter Code and enter {{ activation_code }}.
+To activate {{ wallet_provider }}, open the Wallet app, tap your card, tap Enter Code and enter {{ activation_code }}.
 This will expire in 30 minutes and is for card ending {{ last_four_card_number }}.
 If you did not initiate this request, please contact us at +460877700550
 
