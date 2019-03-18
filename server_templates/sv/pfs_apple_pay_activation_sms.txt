@@ -1,2 +1,2 @@
-Din engångskod för att lägga till ditt Gimi kort till Apple Pay är {{ activation_code }}.
+Din engångskod för att lägga till ditt Gimi kort till {{ wallet_provider }} är {{ activation_code }}.
 För att aktivera {{ wallet_provider }}, öppna Wallet-appen, tryck på ditt kort och skriv in koden. Koden upphör att gälla om 30 minuter.
