@@ -2354,5 +2354,6 @@
   "approved_other_parent_for_deposits_success_text": "PLZ_TRANSLATE %1$d can now receive money from %2$d. You can manage permissions in settings of %1$d.",
   "payday_amount_desc": "PLZ_TRANSLATE How much was earnt this week:",
   "payday_earnt_desc": "PLZ_TRANSLATE This is how the payday money was earnt!",
-  "general_disconnected": "PLZ_TRANSLATE disconnected"
+  "general_disconnected": "PLZ_TRANSLATE disconnected",
+  "notification_important_get_started": "PLZ_TRANSLATE Get started"
 }
