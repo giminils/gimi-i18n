@@ -2357,5 +2357,6 @@
   "general_disconnected": "PLZ_CHECK disconnected",
   "notification_important_get_started": "PLZ_CHECK Get started",
   "pfs_card_to_savings": "PLZ_CHECK Transfer to savings",
-  "pfs_deposit_from_card": "PLZ_CHECK Deposit from card"
+  "pfs_deposit_from_card": "PLZ_CHECK Deposit from card",
+  "general_due_today": "PLZ_CHECK Due today"
 }

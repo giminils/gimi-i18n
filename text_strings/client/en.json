@@ -2357,5 +2357,6 @@
   "general_disconnected": "disconnected",
   "notification_important_get_started": "Get started",
   "pfs_card_to_savings": "Transfer to savings",
-  "pfs_deposit_from_card": "Deposit from card"
+  "pfs_deposit_from_card": "Deposit from card",
+  "general_due_today": "Due today"
 }
