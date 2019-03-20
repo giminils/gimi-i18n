@@ -2355,5 +2355,7 @@
   "payday_amount_desc": "How much was earnt this week:",
   "payday_earnt_desc": "This is how the payday money was earnt!",
   "general_disconnected": "disconnected",
-  "notification_important_get_started": "Get started"
+  "notification_important_get_started": "Get started",
+  "pfs_card_to_savings": "Transfer to savings",
+  "pfs_deposit_from_card": "Deposit from card"
 }

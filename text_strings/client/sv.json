@@ -2355,5 +2355,7 @@
   "payday_amount_desc": "PLZ_CHECK How much was earnt this week:",
   "payday_earnt_desc": "PLZ_CHECK This is how the payday money was earnt!",
   "general_disconnected": "PLZ_CHECK disconnected",
-  "notification_important_get_started": "PLZ_CHECK Get started"
+  "notification_important_get_started": "PLZ_CHECK Get started",
+  "pfs_card_to_savings": "PLZ_CHECK Transfer to savings",
+  "pfs_deposit_from_card": "PLZ_CHECK Deposit from card"
 }
