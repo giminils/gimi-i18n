@@ -1,6 +1,6 @@
-To activate Apple Pay, open the Wallet app, tap your card, tap Enter Code and enter {{ activation_code }}.
-This will expire in 30 minutes and is for card ending {{ last_four_card_number }}.
-If you did not initiate this request, please contact us at +460877700550.
+För att aktivera {{ wallet_provider }}, öppna Wallet-appen, tryck på ditt Gimi kort, tryck på Ange Kod och skriv in {{ activation_code }}.
+Denna kod upphör att gälla 30 minuter och gäller för kort med slutsiffrorna {{ last_four_card_number }}.
+Om du inte har gjort denna begäran, vänligen kontakta oss på +460877700550.
 
-Sincerely,
+Hälsningar,
 Gimi

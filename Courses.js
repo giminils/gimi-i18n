@@ -445,7 +445,8 @@ export default [
       },
       {
         ...defaultChapter,
-        available: false,
+        available: true,
+        isPremium: true,
         chapterID: 'spend_chapter_5',
         icon: 'iconCashier',
         chapterName: 'First purchase in a store',
@@ -475,7 +476,8 @@ export default [
       },
       {
         ...defaultChapter,
-        available: false,
+        available: true,
+        isPremium: true,
         chapterID: 'spend_chapter_6',
         icon: 'iconDesktop',
         chapterName: 'First online purchase',
