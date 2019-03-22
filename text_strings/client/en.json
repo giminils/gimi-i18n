@@ -2358,5 +2358,7 @@
   "notification_important_get_started": "Get started",
   "pfs_card_to_savings": "Transfer to savings",
   "pfs_deposit_from_card": "Deposit from card",
-  "general_due_today": "Due today"
+  "general_due_today": "Due today",
+  "scanned_existing_popover_title": "You're already connected to %1$d!",
+  "scanned_existing_popover_text": "Go enjoy Gimi together!"
 }

@@ -2358,5 +2358,7 @@
   "notification_important_get_started": "PLZ_TRANSLATE Get started",
   "pfs_card_to_savings": "PLZ_TRANSLATE Transfer to savings",
   "pfs_deposit_from_card": "PLZ_TRANSLATE Deposit from card",
-  "general_due_today": "PLZ_TRANSLATE Due today"
+  "general_due_today": "PLZ_TRANSLATE Due today",
+  "scanned_existing_popover_title": "PLZ_TRANSLATE You're already connected to %1$d!",
+  "scanned_existing_popover_text": "PLZ_TRANSLATE Go enjoy Gimi together!"
 }

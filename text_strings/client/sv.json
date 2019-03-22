@@ -2358,5 +2358,7 @@
   "notification_important_get_started": "PLZ_CHECK Get started",
   "pfs_card_to_savings": "PLZ_CHECK Transfer to savings",
   "pfs_deposit_from_card": "PLZ_CHECK Deposit from card",
-  "general_due_today": "PLZ_CHECK Due today"
+  "general_due_today": "PLZ_CHECK Due today",
+  "scanned_existing_popover_title": "PLZ_CHECK You're already connected to %1$d!",
+  "scanned_existing_popover_text": "PLZ_CHECK Go enjoy Gimi together!"
 }
