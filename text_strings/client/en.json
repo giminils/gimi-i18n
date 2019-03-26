@@ -859,7 +859,7 @@
   "first_card_payment": "made a first time purchase",
   "deposit_to_savings": "deposits to the Gimi account",
   "general_loading_with_dots": "Loading...",
-  "task_name_was_approved": "%1$d",
+  "task_name_was_approved": "PLZ_COPY %1$d was approved!",
   "interest_last_week": "savings bonus",
   "interest_last_month": "savings bonus",
   "payout_made_to_cloud": "Payday",
