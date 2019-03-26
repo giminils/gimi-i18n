@@ -313,5 +313,6 @@
   "ADPRON018_push_title": "ID-verifisering fullført!",
   "event_pfs_payday_deposit_to_savings": "Du mottok en innbetaling fra {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "Du mottok en innbetaling fra {pfs_payment_target.payment.parent.nickname}",
-  "active_email_subject": "Aktiver {wallet_provider}"
+  "active_email_subject": "Aktiver {wallet_provider}",
+  "ADPRPU001_notification_title": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}"
 }
