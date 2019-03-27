@@ -2349,7 +2349,7 @@
   "top_up_card_action_button": "Top-up card",
   "general_accept": "Accept",
   "approved_other_parent_for_deposits_success_title": "%1$d is approved!",
-  "approved_other_parent_for_deposits_success_text": "%1$d can now receive money from %2$d. You can manage permissions in settings of %1$d.",
+  "approved_other_parent_for_deposits_success_text": "PLZ_COPY %1$d can now receive money from %2$d.",
   "payday_amount_desc": "How much was earnt this week:",
   "payday_earnt_desc": "This is how the payday money was earnt!",
   "general_disconnected": "disconnected",
@@ -2358,9 +2358,5 @@
   "pfs_deposit_from_card": "Transfer from card",
   "general_due_today": "Due today",
   "scanned_existing_popover_title": "You're already connected to %1$d!",
-  "scanned_existing_popover_text": "Go enjoy Gimi together!",
-  "request_permission_title_contacts": "Permission to access Contacts required",
-  "request_permission_contacts": "The app uses Contacts so that you can invite family.",
-  "revoke_permission_contacts": "Are you sure you want to revoke Gimi's access to Contacts?",
-  "permissions_contacts": "Access to contacts"
+  "scanned_existing_popover_text": "Go enjoy Gimi together!"
 }
