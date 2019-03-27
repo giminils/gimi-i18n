@@ -1,1 +1,3 @@
 Syötä tämä vahvistuskoodi Gimi-sovelluksessa: {{ verification_token.code }}
+
+{{ verification_token.verification_url }}

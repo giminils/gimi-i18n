@@ -1,1 +1,3 @@
 Gib den Code in der Gimi App ein: {{ verification_token.code }}
+
+{{ verification_token.verification_url }}

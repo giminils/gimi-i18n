@@ -1,1 +1,3 @@
 Indtast koden i Gimi app'en: {{ verification_token.code }}
+
+{{ verification_token.verification_url }}

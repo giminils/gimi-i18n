@@ -1,1 +1,3 @@
 Voer de code in de Gimi-app in: {{ verification_token.code }}
+
+{{ verification_token.verification_url }}
