@@ -314,5 +314,7 @@
   "event_pfs_payday_deposit_to_savings": "Du har modtaget en betaling fra {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "Du har modtaget en betaling fra {pfs_payment_target.payment.parent.nickname}",
   "active_email_subject": "Aktiver {wallet_provider}",
-  "ADPRPU001_notification_title": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}"
+  "ADPRPU001_notification_title": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
+  "ADGEON013_push_title": "PLZ_TRANSLATE Connect with your children to give them financial superskills!",
+  "ADGEON013_notification_title": "PLZ_TRANSLATE Connect with someone to give them financial superskills!"
 }
