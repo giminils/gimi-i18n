@@ -2358,5 +2358,9 @@
   "pfs_deposit_from_card": "Överfört från kortet",
   "general_due_today": "Ska göras idag",
   "scanned_existing_popover_title": "Du är redan ihopkopplad med %1$d!",
-  "scanned_existing_popover_text": "Ha kul med Gimi tillsammans!"
+  "scanned_existing_popover_text": "Ha kul med Gimi tillsammans!",
+  "request_permission_title_contacts": "PLZ_CHECK Permission to access Contacts required",
+  "request_permission_contacts": "PLZ_CHECK The app uses Contacts so that you can invite family.",
+  "revoke_permission_contacts": "PLZ_CHECK Are you sure you want to revoke Gimi's access to Contacts?",
+  "permissions_contacts": "PLZ_CHECK Access to contacts"
 }

@@ -2358,5 +2358,9 @@
   "pfs_deposit_from_card": "Overfør fra kort",
   "general_due_today": "Forfall i dag",
   "scanned_existing_popover_title": "Du er allerede koblet til %1$d!",
-  "scanned_existing_popover_text": "Bruk Gimi sammen!"
+  "scanned_existing_popover_text": "Bruk Gimi sammen!",
+  "request_permission_title_contacts": "PLZ_TRANSLATE Permission to access Contacts required",
+  "request_permission_contacts": "PLZ_TRANSLATE The app uses Contacts so that you can invite family.",
+  "revoke_permission_contacts": "PLZ_TRANSLATE Are you sure you want to revoke Gimi's access to Contacts?",
+  "permissions_contacts": "PLZ_TRANSLATE Access to contacts"
 }
