@@ -316,5 +316,9 @@
   "active_email_subject": "Aktiver {wallet_provider}",
   "ADPRPU001_notification_title": "PLZ_TRANSLATE 💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
   "ADGEON013_push_title": "PLZ_TRANSLATE Connect with your children to give them financial superskills!",
-  "ADGEON013_notification_title": "PLZ_TRANSLATE Connect with someone to give them financial superskills!"
+  "ADGEON013_notification_title": "PLZ_TRANSLATE Connect with someone to give them financial superskills!",
+  "ADGEON020_notification_title": "PLZ_TRANSLATE Watch this short movie about Gimi!",
+  "CHGEON027_notification_title": "PLZ_TRANSLATE Watch this short movie about Gimi!",
+  "ADGEPU011_notification_title": "PLZ_TRANSLATE 24 hours later",
+  "CHGEPU007_notification_title": "PLZ_TRANSLATE 24 hours later"
 }
