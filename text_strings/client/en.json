@@ -1509,7 +1509,7 @@
   "kid_ready_for_premium_header": "%1$d is ready for Premium!",
   "kid_ready_for_premium_desc": "Continue to the next step",
   "pfs_card_withdrawal": "Purchase with card",
-  "pfs_savings_to_card": "Top-up card",
+  "pfs_savings_to_card": "PLZ_COPY Card top-up",
   "pfs_savings_insertion": "Deposit",
   "pfs_savings_withdrawal": "Card top-up",
   "pfs_allowance_payout": "Allowance payout",
