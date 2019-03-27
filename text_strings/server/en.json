@@ -313,5 +313,12 @@
   "ADPRON018_push_title": "ID verification completed!",
   "event_pfs_payday_deposit_to_savings": "You just got money from {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "You just got money from {pfs_payment_target.payment.parent.nickname}",
-  "active_email_subject": "Activate {wallet_provider}"
+  "active_email_subject": "Activate {wallet_provider}",
+  "ADPRPU001_notification_title": "💳 {child.nickname} just spent €10 at {pfstransactionstatement.merchant_name}",
+  "ADGEON013_push_title": "Connect with your children to give them financial superskills!",
+  "ADGEON013_notification_title": "Connect with someone to give them financial superskills!",
+  "ADGEON020_notification_title": "Watch this short movie about Gimi!",
+  "CHGEON027_notification_title": "Watch this short movie about Gimi!",
+  "ADGEPU011_notification_title": "24 hours later",
+  "CHGEPU007_notification_title": "24 hours later"
 }
