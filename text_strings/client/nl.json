@@ -2362,5 +2362,6 @@
   "request_permission_title_contacts": "PLZ_TRANSLATE Permission to access Contacts required",
   "request_permission_contacts": "PLZ_TRANSLATE The app uses Contacts so that you can invite family.",
   "revoke_permission_contacts": "PLZ_TRANSLATE Are you sure you want to revoke Gimi's access to Contacts?",
-  "permissions_contacts": "PLZ_TRANSLATE Access to contacts"
+  "permissions_contacts": "PLZ_TRANSLATE Access to contacts",
+  "questions_from_instantor": "PLZ_TRANSLATE Questions from instantor"
 }
