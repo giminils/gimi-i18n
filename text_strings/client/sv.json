@@ -2369,5 +2369,7 @@
   "created_chore_header": "PLZ_CHECK Ready to do",
   "cant_transfer_money_back_title": "PLZ_CHECK You can't transfer money back",
   "cant_transfer_money_back_text": "PLZ_CHECK Once you transfer money to %1$d, you will not be able to transfer them back.",
-  "category_savings": "PLZ_CHECK Savings"
+  "category_savings": "PLZ_CHECK Savings",
+  "spending_categories_item_explainer_kid_saved": "PLZ_CHECK You have saved %1$d this year",
+  "spending_categories_item_explainer_parent_saved": "PLZ_CHECK %1$d have saved %2$d this year"
 }

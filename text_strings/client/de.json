@@ -2369,5 +2369,7 @@
   "created_chore_header": "PLZ_TRANSLATE Ready to do",
   "cant_transfer_money_back_title": "PLZ_TRANSLATE You can't transfer money back",
   "cant_transfer_money_back_text": "PLZ_TRANSLATE Once you transfer money to %1$d, you will not be able to transfer them back.",
-  "category_savings": "PLZ_TRANSLATE Savings"
+  "category_savings": "PLZ_TRANSLATE Savings",
+  "spending_categories_item_explainer_kid_saved": "PLZ_TRANSLATE You have saved %1$d this year",
+  "spending_categories_item_explainer_parent_saved": "PLZ_TRANSLATE %1$d have saved %2$d this year"
 }
