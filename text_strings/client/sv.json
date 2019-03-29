@@ -2366,5 +2366,7 @@
   "questions_from_instantor": "PLZ_CHECK Questions from instantor",
   "waiting_to_be_added": "PLZ_CHECK Waiting to be added",
   "rejected_chore_header": "PLZ_CHECK Rejected - Try again!",
-  "created_chore_header": "PLZ_CHECK Ready to do"
+  "created_chore_header": "PLZ_CHECK Ready to do",
+  "cant_transfer_money_back_title": "PLZ_CHECK You can't transfer money back",
+  "cant_transfer_money_back_text": "PLZ_CHECK Once you transfer money to %1$d, you will not be able to transfer them back."
 }
