@@ -2364,5 +2364,6 @@
   "revoke_permission_contacts": "PLZ_CHECK Are you sure you want to revoke Gimi's access to Contacts?",
   "permissions_contacts": "PLZ_CHECK Access to contacts",
   "questions_from_instantor": "PLZ_CHECK Questions from instantor",
-  "waiting_to_be_added": "PLZ_CHECK Waiting to be added"
+  "waiting_to_be_added": "PLZ_CHECK Waiting to be added",
+  "rejected_chore_header": "PLZ_CHECK Rejected - Try again!"
 }

@@ -2364,5 +2364,6 @@
   "revoke_permission_contacts": "Are you sure you want to revoke Gimi's access to Contacts?",
   "permissions_contacts": "Access to contacts",
   "questions_from_instantor": "Questions from instantor",
-  "waiting_to_be_added": "Waiting to be added"
+  "waiting_to_be_added": "Waiting to be added",
+  "rejected_chore_header": "Rejected - Try again!"
 }
