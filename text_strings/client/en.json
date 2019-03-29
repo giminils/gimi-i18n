@@ -2365,5 +2365,6 @@
   "permissions_contacts": "Access to contacts",
   "questions_from_instantor": "Questions from instantor",
   "waiting_to_be_added": "Waiting to be added",
-  "rejected_chore_header": "Rejected - Try again!"
+  "rejected_chore_header": "Rejected - Try again!",
+  "created_chore_header": "Ready to do"
 }

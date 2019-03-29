@@ -2365,5 +2365,6 @@
   "permissions_contacts": "PLZ_TRANSLATE Access to contacts",
   "questions_from_instantor": "PLZ_TRANSLATE Questions from instantor",
   "waiting_to_be_added": "PLZ_TRANSLATE Waiting to be added",
-  "rejected_chore_header": "PLZ_TRANSLATE Rejected - Try again!"
+  "rejected_chore_header": "PLZ_TRANSLATE Rejected - Try again!",
+  "created_chore_header": "PLZ_TRANSLATE Ready to do"
 }

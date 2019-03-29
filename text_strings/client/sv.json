@@ -2365,5 +2365,6 @@
   "permissions_contacts": "PLZ_CHECK Access to contacts",
   "questions_from_instantor": "PLZ_CHECK Questions from instantor",
   "waiting_to_be_added": "PLZ_CHECK Waiting to be added",
-  "rejected_chore_header": "PLZ_CHECK Rejected - Try again!"
+  "rejected_chore_header": "PLZ_CHECK Rejected - Try again!",
+  "created_chore_header": "PLZ_CHECK Ready to do"
 }
