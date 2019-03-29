@@ -2363,5 +2363,6 @@
   "request_permission_contacts": "The app uses Contacts so that you can invite family.",
   "revoke_permission_contacts": "Are you sure you want to revoke Gimi's access to Contacts?",
   "permissions_contacts": "Access to contacts",
-  "questions_from_instantor": "Questions from instantor"
+  "questions_from_instantor": "Questions from instantor",
+  "waiting_to_be_added": "Waiting to be added"
 }
