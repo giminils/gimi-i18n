@@ -12,6 +12,7 @@ let defaultChapter = {
   isPremium: false
 }
 const EDUCATION_STATIC_PATH = '/static/education/'
+
 export default [
   {
     ...defaultCourse,
@@ -28,32 +29,29 @@ export default [
         titleLangKey: 'earn_chapter_1',
         content: {
           chapterIntroLangKey: 'earn_chapter_1_intro',
-          image: EDUCATION_STATIC_PATH + 'overviewHouse.png',
-          chapterSessionDescLangKey: 'earn_chapter_1_desc', // NOTE TO SELF: probably not used
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          chapterSessionDescLangKey: 'earn_chapter_1_desc',
+          image: EDUCATION_STATIC_PATH + 'earn/earnChapter1Image0.png', // NEW, doesnt have to be set. Will try to default to correct static if not set
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
-              image: EDUCATION_STATIC_PATH + 'houseSlide1.png',
+              image: EDUCATION_STATIC_PATH + 'earn/earnChapter1Image0.png', // NEW, doesnt have to be set. Will try to default to correct static if not set
               titleLangKey: 'earn_chapter_1_step_1_title',
               descLangKey: 'earn_chapter_1_step_1_desc'
             },
             {
-              image: EDUCATION_STATIC_PATH + 'houseSlide2.png',
               titleLangKey: 'earn_chapter_1_step_2_title',
               descLangKey: 'earn_chapter_1_step_2_desc'
             },
             {
-              image: EDUCATION_STATIC_PATH + 'houseSlide3.png',
               titleLangKey: 'earn_chapter_1_step_3_title',
               descLangKey: 'earn_chapter_1_step_3_desc'
             },
             {
-              image: EDUCATION_STATIC_PATH + 'houseSlide4.png',
               titleLangKey: 'earn_chapter_1_step_4_title',
               descLangKey: 'earn_chapter_1_step_4_desc'
             }
@@ -69,13 +67,12 @@ export default [
         titleLangKey: 'earn_chapter_2',
         content: {
           chapterIntroLangKey: 'earn_chapter_2_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'earn_chapter_2_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -110,13 +107,12 @@ export default [
         titleLangKey: 'earn_chapter_3',
         content: {
           chapterIntroLangKey: 'earn_chapter_3_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'earn_chapter_3_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -143,13 +139,12 @@ export default [
         titleLangKey: 'earn_chapter_4',
         content: {
           chapterIntroLangKey: 'earn_chapter_4_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'earn_chapter_4_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -163,6 +158,38 @@ export default [
             {
               titleLangKey: 'earn_chapter_4_step_3_title',
               descLangKey: 'earn_chapter_4_step_3_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'earn_chapter_5',
+        icon: 'iconMedalFirst',
+        chapterName: 'Job spotting',
+        titleLangKey: 'earn_chapter_5',
+        content: {
+          chapterIntroLangKey: 'earn_chapter_5_intro',
+          chapterSessionDescLangKey: 'earn_chapter_5_desc',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_5_step_1_title',
+              descLangKey: 'earn_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_5_step_2_title',
+              descLangKey: 'earn_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'earn_chapter_5_step_3_title',
+              descLangKey: 'earn_chapter_5_step_3_desc'
             }
           ]
         }
@@ -184,13 +211,12 @@ export default [
         titleLangKey: 'save_chapter_1',
         content: {
           chapterIntroLangKey: 'save_chapter_1_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'save_chapter_1_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -217,13 +243,12 @@ export default [
         titleLangKey: 'save_chapter_2',
         content: {
           chapterIntroLangKey: 'save_chapter_2_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'save_chapter_2_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -250,13 +275,12 @@ export default [
         titleLangKey: 'save_chapter_3',
         content: {
           chapterIntroLangKey: 'save_chapter_3_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'save_chapter_3_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -291,13 +315,12 @@ export default [
         titleLangKey: 'save_chapter_4',
         content: {
           chapterIntroLangKey: 'save_chapter_4_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'save_chapter_4_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -322,6 +345,46 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'save_chapter_5',
+        icon: 'iconMagicWand',
+        chapterName: 'Introduce compound interest',
+        titleLangKey: 'save_chapter_5',
+        content: {
+          chapterIntroLangKey: 'save_chapter_5_intro',
+          chapterSessionDescLangKey: 'save_chapter_5_desc',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'save_chapter_5_step_1_title',
+              descLangKey: 'save_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_2_title',
+              descLangKey: 'save_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_3_title',
+              descLangKey: 'save_chapter_5_step_3_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_4_title',
+              descLangKey: 'save_chapter_5_step_4_desc'
+            },
+            {
+              titleLangKey: 'save_chapter_5_step_5_title',
+              descLangKey: 'save_chapter_5_step_5_desc'
+            }
+          ]
+        }
       }
     ]
   },
@@ -340,13 +403,12 @@ export default [
         titleLangKey: 'spend_chapter_1',
         content: {
           chapterIntroLangKey: 'spend_chapter_1_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'spend_chapter_1_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -377,13 +439,12 @@ export default [
         titleLangKey: 'spend_chapter_2',
         content: {
           chapterIntroLangKey: 'spend_chapter_2_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'spend_chapter_2_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -414,13 +475,12 @@ export default [
         titleLangKey: 'spend_chapter_3',
         content: {
           chapterIntroLangKey: 'spend_chapter_3_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'spend_chapter_3_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -451,13 +511,12 @@ export default [
         titleLangKey: 'spend_chapter_4',
         content: {
           chapterIntroLangKey: 'spend_chapter_4_intro',
-          // image: must be set programmatically. Unless it's an url
           chapterSessionDescLangKey: 'spend_chapter_4_desc',
-          relatedLinks: [
-            {
-              displayLangKey: 'general_name',
-              url: 'https://matzielab.com'
-            }
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
           ],
           slideContent: [
             {
@@ -475,6 +534,84 @@ export default [
             {
               titleLangKey: 'spend_chapter_4_step_4_title',
               descLangKey: 'spend_chapter_4_step_4_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        available: true,
+        isPremium: true,
+        chapterID: 'spend_chapter_5',
+        icon: 'iconCashier',
+        chapterName: 'First purchase in a store',
+        titleLangKey: 'spend_chapter_5',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_5_intro',
+          chapterSessionDescLangKey: 'spend_chapter_5_desc',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_5_step_1_title',
+              descLangKey: 'spend_chapter_5_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_5_step_2_title',
+              descLangKey: 'spend_chapter_5_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_5_step_3_title',
+              descLangKey: 'spend_chapter_5_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_5_step_4_title',
+              descLangKey: 'spend_chapter_5_step_4_desc'
+            }
+          ]
+        }
+      },
+      {
+        ...defaultChapter,
+        available: true,
+        isPremium: true,
+        chapterID: 'spend_chapter_6',
+        icon: 'iconDesktop',
+        chapterName: 'First online purchase',
+        titleLangKey: 'spend_chapter_6',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_6_intro',
+          chapterSessionDescLangKey: 'spend_chapter_6_desc',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_6_step_1_title',
+              descLangKey: 'spend_chapter_6_step_1_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_2_title',
+              descLangKey: 'spend_chapter_6_step_2_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_3_title',
+              descLangKey: 'spend_chapter_6_step_3_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_4_title',
+              descLangKey: 'spend_chapter_6_step_4_desc'
+            },
+            {
+              titleLangKey: 'spend_chapter_6_step_5_title',
+              descLangKey: 'spend_chapter_6_step_5_desc'
             }
           ]
         }
