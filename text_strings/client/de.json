@@ -2371,5 +2371,9 @@
   "cant_transfer_money_back_text": "PLZ_TRANSLATE Once you transfer money to %1$d, you will not be able to transfer them back.",
   "category_savings": "PLZ_TRANSLATE Savings",
   "spending_categories_item_explainer_kid_saved": "PLZ_TRANSLATE You have saved %1$d this year",
-  "spending_categories_item_explainer_parent_saved": "PLZ_TRANSLATE %1$d have saved %2$d this year"
+  "spending_categories_item_explainer_parent_saved": "PLZ_TRANSLATE %1$d have saved %2$d this year",
+  "parent_cloud_account_explainer_title": "PLZ_TRANSLATE Money in savings are...",
+  "parent_cloud_account_explainer_text": "PLZ_TRANSLATE Gimi is not connected to any bank. So you hold the saved money, kind of like the bank. When %1$d wants to buy something, you pay for it and make a deduction!",
+  "kid_cloud_account_explainer_title": "PLZ_TRANSLATE Your savings are with your supporters!",
+  "kid_cloud_account_explainer_text": "PLZ_TRANSLATE Your supporters are kind of like your bank. They keep your money. Want to get your money or buy something? Ask your supporters to give you cash or to pay!"
 }
