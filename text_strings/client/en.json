@@ -2368,5 +2368,6 @@
   "rejected_chore_header": "Rejected - Try again!",
   "created_chore_header": "Ready to do",
   "cant_transfer_money_back_title": "You can't transfer money back",
-  "cant_transfer_money_back_text": "Once you transfer money to %1$d, you will not be able to transfer them back."
+  "cant_transfer_money_back_text": "Once you transfer money to %1$d, you will not be able to transfer them back.",
+  "category_savings": "Savings"
 }
