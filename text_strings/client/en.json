@@ -2376,5 +2376,6 @@
   "parent_cloud_account_explainer_text": "Gimi is not connected to any bank. So you hold the saved money, kind of like the bank. When %1$d wants to buy something, you pay for it and make a deduction!",
   "kid_cloud_account_explainer_title": "Your savings are with your supporters!",
   "kid_cloud_account_explainer_text": "Your supporters are kind of like your bank. They keep your money. Want to get your money or buy something? Ask your supporters to give you cash or to pay!",
-  "transaction_cash_payout": "Cash payout"
+  "transaction_cash_payout": "Cash payout",
+  "fake_premium_education_course_title": "How to pay with a card"
 }

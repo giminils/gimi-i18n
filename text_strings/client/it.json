@@ -2376,5 +2376,6 @@
   "parent_cloud_account_explainer_text": "Gimi non è collegato a nessuna banca. Pertanto sei tu che trattieni i soldi risparmiati, proprio come la banca. Quando %1$d vuole comprare qualcosa, tu paghi e fai una detrazione!",
   "kid_cloud_account_explainer_title": "I risparmi sono con i sostenitori!",
   "kid_cloud_account_explainer_text": "I tuoi sostenitori sono come la tua banca. Loro trattengono i tuoi soldi. Vuoi ottenere i tuoi soldi o comprare qualcosa? Chiedi ai tuoi sostenitori di darti cash o di pagarez!",
-  "transaction_cash_payout": "PLZ_TRANSLATE Cash payout"
+  "transaction_cash_payout": "PLZ_TRANSLATE Cash payout",
+  "fake_premium_education_course_title": "PLZ_TRANSLATE How to pay with a card"
 }
