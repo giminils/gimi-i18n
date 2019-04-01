@@ -2375,5 +2375,6 @@
   "parent_cloud_account_explainer_title": "Pengarna i Sparat...",
   "parent_cloud_account_explainer_text": "Gimi är inte kopplat till någon bank. Så det är du håller i de sparade pengarna, precis som en bank. När %1$d vill köpa något, så betalar du och gör ett avdrag!",
   "kid_cloud_account_explainer_title": "Dina pengar är hos dina supporters!",
-  "kid_cloud_account_explainer_text": "Dina supporters är ungefär som din bank. De håller i dina pengar. Vill du ta ut pengarna eller köpa något? Be dina supporters!"
+  "kid_cloud_account_explainer_text": "Dina supporters är ungefär som din bank. De håller i dina pengar. Vill du ta ut pengarna eller köpa något? Be dina supporters!",
+  "transaction_cash_payout": "PLZ_CHECK Cash payout"
 }

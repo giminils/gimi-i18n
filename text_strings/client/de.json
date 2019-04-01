@@ -2375,5 +2375,6 @@
   "parent_cloud_account_explainer_title": "Das Geld in Ersparnissen ist...",
   "parent_cloud_account_explainer_text": "Gimi ist mit keiner Bank verbunden. Du verwaltest das gesparte Geld, als wärst Du selbst eine Bank. Wenn %1$d etwas kaufen möchte, bezahlst Du dafür und tätigst eine Abbuchung!",
   "kid_cloud_account_explainer_title": "Deine Ersparnisse sind bei Deinen Unterstützern!",
-  "kid_cloud_account_explainer_text": "Deine Unterstützer funktionieren wie Deine Bank. Sie verwahren Dein Geld. Du möchtest Dein Geld haben oder etwas kaufen? Bitte Deine Unterstützer um Bargeld oder darum, dass sie für Dich bezahlen!"
+  "kid_cloud_account_explainer_text": "Deine Unterstützer funktionieren wie Deine Bank. Sie verwahren Dein Geld. Du möchtest Dein Geld haben oder etwas kaufen? Bitte Deine Unterstützer um Bargeld oder darum, dass sie für Dich bezahlen!",
+  "transaction_cash_payout": "PLZ_TRANSLATE Cash payout"
 }
