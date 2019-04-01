@@ -2377,5 +2377,8 @@
   "kid_cloud_account_explainer_title": "I risparmi sono con i sostenitori!",
   "kid_cloud_account_explainer_text": "I tuoi sostenitori sono come la tua banca. Loro trattengono i tuoi soldi. Vuoi ottenere i tuoi soldi o comprare qualcosa? Chiedi ai tuoi sostenitori di darti cash o di pagarez!",
   "transaction_cash_payout": "PLZ_TRANSLATE Cash payout",
-  "fake_premium_education_course_title": "PLZ_TRANSLATE How to pay with a card"
+  "fake_premium_education_course_title": "PLZ_TRANSLATE How to pay with a card",
+  "general_get_started": "PLZ_TRANSLATE Get started",
+  "education_explainer_title": "PLZ_TRANSLATE Give your children money skills!",
+  "education_explainer_text": "PLZ_TRANSLATE Research shows that talking about money with children at home, helps them develop good money habits. To support families, we've put together some fun practice sessions!"
 }

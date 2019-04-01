@@ -2377,5 +2377,8 @@
   "kid_cloud_account_explainer_title": "Dina pengar är hos dina supporters!",
   "kid_cloud_account_explainer_text": "Dina supporters är ungefär som din bank. De håller i dina pengar. Vill du ta ut pengarna eller köpa något? Be dina supporters!",
   "transaction_cash_payout": "PLZ_CHECK Cash payout",
-  "fake_premium_education_course_title": "PLZ_CHECK How to pay with a card"
+  "fake_premium_education_course_title": "PLZ_CHECK How to pay with a card",
+  "general_get_started": "PLZ_CHECK Get started",
+  "education_explainer_title": "PLZ_CHECK Give your children money skills!",
+  "education_explainer_text": "PLZ_CHECK Research shows that talking about money with children at home, helps them develop good money habits. To support families, we've put together some fun practice sessions!"
 }
