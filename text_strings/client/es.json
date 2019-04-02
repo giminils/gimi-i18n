@@ -2019,7 +2019,7 @@
   "cant_delete_email_no_phone_popover_text": "Necesitas un número telefónico verificado para eliminar tu correo electrónico o no tienes forma de iniciar sesión.",
   "cant_delete_email_no_phone_popover_action": "añadir teléfono",
   "instantor_fail_container_title": "Esto no funcionó según lo previsto...",
-  "instantor_fail_container_text": "PLZ_TRANSLATE Lorem ipsum",
+  "instantor_fail_container_text": "Lorem ipsum",
   "instantor_fail_container_button": "Continuar",
   "pin_entered_too_many_times_error": "Demasiados intentos. PIN bloqueado por 1 hora.",
   "withdraw_from_freemium_savings_title": "Descontar de los ahorros",
