@@ -2382,5 +2382,6 @@
   "education_explainer_title": "Ge dina barn money skills!",
   "education_explainer_text": "Forskning visar att barn utvecklar bättre ekonomiska vanor, om de får prata om pengar hemma. Därför har vi tagit fram utbildningmaterial som är kul att göra ihop i familjen!",
   "general_passed_due": "Försenad!",
-  "transaction_cash_payout_from": "Kontakt utbetalning av %1$d"
+  "transaction_cash_payout_from": "Kontakt utbetalning av %1$d",
+  "add_contact_row_in_settings": "PLZ_CHECK Add contact!"
 }

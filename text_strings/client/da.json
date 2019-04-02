@@ -2382,5 +2382,6 @@
   "education_explainer_title": "PLZ_TRANSLATE Give your children money skills!",
   "education_explainer_text": "PLZ_TRANSLATE Research shows that talking about money with children at home, helps them develop good money habits. To support families, we've put together some fun practice sessions!",
   "general_passed_due": "PLZ_TRANSLATE Passed due date!",
-  "transaction_cash_payout_from": "PLZ_TRANSLATE Cash payout from %1$d"
+  "transaction_cash_payout_from": "PLZ_TRANSLATE Cash payout from %1$d",
+  "add_contact_row_in_settings": "PLZ_TRANSLATE Add contact!"
 }
