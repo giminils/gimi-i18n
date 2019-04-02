@@ -1453,8 +1453,8 @@
   "pin_code_doesnt_match_old_error": "Lösenkoden stämmer inte",
   "choose_recurring_day_explainer": "Om du klickar i flera dagar så skapar du en uppgift för varje enskild dag",
   "card_pin_header": "PIN-koden till Gimi-kortet",
-  "push_notification_header": "PLZ_CHECK Want only the important notifications?",
-  "push_notification_desc": "PLZ_CHECK Make sure to not miss any chores or payday money!",
+  "push_notification_header": "Vill du ha de viktiga notiserna?",
+  "push_notification_desc": "Missa aldrig några uppgifter eller när det är dags för Payday!",
   "general_yes_please": "Ja tack!",
   "kid_welcome_you_need_grownups": "Du behöver en förälder",
   "kid_welcome_you_need_grownups_explainer": "Gimi fungerar bara om du får pengar och uppgifter från en förälder. Så kom igång genom att bjuda in till Gimi!",
@@ -2383,5 +2383,5 @@
   "education_explainer_text": "Forskning visar att barn utvecklar bättre ekonomiska vanor, om de får prata om pengar hemma. Därför har vi tagit fram utbildningmaterial som är kul att göra ihop i familjen!",
   "general_passed_due": "Försenad!",
   "transaction_cash_payout_from": "Kontakt utbetalning av %1$d",
-  "add_contact_row_in_settings": "PLZ_CHECK Add contact!"
+  "add_contact_row_in_settings": "Lägg till kontakt"
 }
