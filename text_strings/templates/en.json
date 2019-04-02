@@ -380,5 +380,13 @@
   "task_template_title_plant_flowers": "Plant flowers",
   "task_template_description_plant_flowers": "Let's plant spring flowers",
   "task_template_title_clean_windows": "Clean windows",
-  "task_template_description_clean_windows": "Help out cleaning all windows at home"
+  "task_template_description_clean_windows": "Help out cleaning all windows at home",
+  "task_group_name_climate_action": "Be a climate hero!",
+  "task_group_description_climate_action": "----",
+  "task_template_title_repair_clothes": "Repair clothes",
+  "task_template_description_repair_clothes": "Sew buttons and patch holes!",
+  "task_template_title_leftover_dinner": "Make leftover dinner",
+  "task_template_description_leftover_dinner": "Prepare a meal made of leftovers, no new purchases allowed!",
+  "task_template_title_leftover_lights_off": "Turn off lights",
+  "task_template_description_leftover_lights_off": "Make sure that all lights are turned off before leaving home"
 }

@@ -380,5 +380,13 @@
   "task_template_title_plant_flowers": "Planter les fleurs",
   "task_template_description_plant_flowers": "Allons planter des fleurs de printemps",
   "task_template_title_clean_windows": "Nettoyer les fenêtres",
-  "task_template_description_clean_windows": "Aider à nettoyer toutes les fenêtres de la maison"
+  "task_template_description_clean_windows": "Aider à nettoyer toutes les fenêtres de la maison",
+  "task_group_name_climate_action": "PLZ_TRANSLATE Be a climate hero!",
+  "task_group_description_climate_action": "PLZ_TRANSLATE ----",
+  "task_template_title_repair_clothes": "PLZ_TRANSLATE Repair clothes",
+  "task_template_description_repair_clothes": "PLZ_TRANSLATE Sew buttons and patch holes!",
+  "task_template_title_leftover_dinner": "PLZ_TRANSLATE Make leftover dinner",
+  "task_template_description_leftover_dinner": "PLZ_TRANSLATE Prepare a meal made of leftovers, no new purchases allowed!",
+  "task_template_title_leftover_lights_off": "PLZ_TRANSLATE Turn off lights",
+  "task_template_description_leftover_lights_off": "PLZ_TRANSLATE Make sure that all lights are turned off before leaving home"
 }
