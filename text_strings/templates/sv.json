@@ -381,12 +381,12 @@
   "task_template_description_plant_flowers": "Gör fint i trädgårdslandet",
   "task_template_title_clean_windows": "Putsa fönster",
   "task_template_description_clean_windows": "Putsa alla fönster hemma",
-  "task_group_name_climate_action": "PLZ_CHECK Be a climate hero!",
-  "task_group_description_climate_action": "PLZ_CHECK ----",
-  "task_template_title_repair_clothes": "PLZ_CHECK Repair clothes",
-  "task_template_description_repair_clothes": "PLZ_CHECK Sew buttons and patch holes!",
-  "task_template_title_leftover_dinner": "PLZ_CHECK Make leftover dinner",
-  "task_template_description_leftover_dinner": "PLZ_CHECK Prepare a meal made of leftovers, no new purchases allowed!",
-  "task_template_title_leftover_lights_off": "PLZ_CHECK Turn off lights",
-  "task_template_description_leftover_lights_off": "PLZ_CHECK Make sure that all lights are turned off before leaving home"
+  "task_group_name_climate_action": "Gör en insats för klimatet!",
+  "task_group_description_climate_action": "----",
+  "task_template_title_repair_clothes": "Laga kläder",
+  "task_template_description_repair_clothes": "Sy i knappar, lappa hål och stoppa strumpor!",
+  "task_template_title_leftover_dinner": "Laga middag på rester",
+  "task_template_description_leftover_dinner": "Laga en måltid på rester, inga inköp är tillåtna!",
+  "task_template_title_leftover_lights_off": "Släck lamporna",
+  "task_template_description_leftover_lights_off": "Se till att alla lampor är släkta innan vi åker hemifrån"
 }
