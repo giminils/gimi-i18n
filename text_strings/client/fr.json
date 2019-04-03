@@ -2385,5 +2385,7 @@
   "transaction_cash_payout_from": "PLZ_TRANSLATE Cash payout from %1$d",
   "add_contact_row_in_settings": "PLZ_TRANSLATE Add contact!",
   "bank_not_responding_use_onfido_desc": "PLZ_TRANSLATE We cant connect to your bank right now. But no worries, we have another way of verifying you!",
-  "general_photo_loading_failed": "PLZ_TRANSLATE Could not load this image"
+  "general_photo_loading_failed": "PLZ_TRANSLATE Could not load this image",
+  "lysa_start_container_title": "PLZ_TRANSLATE A Lysa account in Gimi!",
+  "lysa_start_container_subtitle": "PLZ_TRANSLATE Gimi collaborates with Lysa, to offer parents what we believe is the best and simplest automated investment account for long term saving."
 }
