@@ -314,7 +314,7 @@
   "event_pfs_payday_deposit_to_savings": "Je hebt een storting van {pfs_payment_target.payment.parent.nickname} gekregen",
   "push_pfs_payday_deposit_to_savings": "Je hebt een storting van {pfs_payment_target.payment.parent.nickname} gekregen",
   "active_email_subject": "Activeer {wallet_provider}",
-  "ADPRPU001_notification_title": "💳 {child.nickname} heeft zojuist €10 uitgegven bij {pfstransactionstatement.merchant_name}",
+  "ADPRPU001_notification_title": "PLZ_TRANSLATE PLZ_TRANSLATE 💳 {child.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "ADGEON013_push_title": "Maak verbinding met je kind om ze financiële supervaardigheden te geven!",
   "ADGEON013_notification_title": "Verbind met iemand om ze financiële supervaardigheden te geven!",
   "ADGEON020_notification_title": "Kijk naar deze korte video over Gimi!",
