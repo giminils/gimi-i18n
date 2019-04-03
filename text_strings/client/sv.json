@@ -2383,5 +2383,6 @@
   "education_explainer_text": "Forskning visar att barn utvecklar bättre ekonomiska vanor, om de får prata om pengar hemma. Därför har vi tagit fram utbildningmaterial som är kul att göra ihop i familjen!",
   "general_passed_due": "Försenad!",
   "transaction_cash_payout_from": "Kontakt utbetalning av %1$d",
-  "add_contact_row_in_settings": "Lägg till kontakt"
+  "add_contact_row_in_settings": "Lägg till kontakt",
+  "bank_not_responding_use_onfido_desc": "PLZ_CHECK We cant connect to your bank right now. But no worries, we have another way of verifying you!"
 }

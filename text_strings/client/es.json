@@ -2383,5 +2383,6 @@
   "education_explainer_text": "Las investigaciones señalan que hablar con los hijos en casa acerca del dinero, les ayuda a desarrollar buenos hábitos monetarios. ¡Para apoyar a las familias, les proporcionamos algunas sesiones de práctica juntos!",
   "general_passed_due": "¡Fecha de vencimiento pasada!",
   "transaction_cash_payout_from": "Pago en efectivo de %1$d",
-  "add_contact_row_in_settings": "¡Añadir contacto!"
+  "add_contact_row_in_settings": "¡Añadir contacto!",
+  "bank_not_responding_use_onfido_desc": "PLZ_TRANSLATE We cant connect to your bank right now. But no worries, we have another way of verifying you!"
 }
