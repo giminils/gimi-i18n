@@ -320,5 +320,7 @@
   "ADGEON020_notification_title": "Hur funkar Gimi? Kolla den här korta filmen",
   "CHGEON027_notification_title": "Hur funkar Gimi? Kolla den här korta filmen!",
   "ADGEPU011_notification_title": "PLZ_CHECK Gimi is waiting for you!",
-  "CHGEPU007_notification_title": "PLZ_CHECK Gimi is waiting for you!"
+  "CHGEPU007_notification_title": "PLZ_CHECK Gimi is waiting for you!",
+  "ADGEPU005_notification_title": "PLZ_CHECK Get on the waitlist for the Gimi Card!",
+  "ADGEPU005_push_title": "PLZ_CHECK The Gimi Card is coming soon!"
 }
