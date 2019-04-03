@@ -2384,5 +2384,6 @@
   "general_passed_due": "Försenad!",
   "transaction_cash_payout_from": "Kontakt utbetalning av %1$d",
   "add_contact_row_in_settings": "Lägg till kontakt",
-  "bank_not_responding_use_onfido_desc": "PLZ_CHECK We cant connect to your bank right now. But no worries, we have another way of verifying you!"
+  "bank_not_responding_use_onfido_desc": "PLZ_CHECK We cant connect to your bank right now. But no worries, we have another way of verifying you!",
+  "general_photo_loading_failed": "PLZ_CHECK Could not load this image"
 }

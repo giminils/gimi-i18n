@@ -2384,5 +2384,6 @@
   "general_passed_due": "PLZ_TRANSLATE Passed due date!",
   "transaction_cash_payout_from": "PLZ_TRANSLATE Cash payout from %1$d",
   "add_contact_row_in_settings": "PLZ_TRANSLATE Add contact!",
-  "bank_not_responding_use_onfido_desc": "PLZ_TRANSLATE We cant connect to your bank right now. But no worries, we have another way of verifying you!"
+  "bank_not_responding_use_onfido_desc": "PLZ_TRANSLATE We cant connect to your bank right now. But no worries, we have another way of verifying you!",
+  "general_photo_loading_failed": "PLZ_TRANSLATE Could not load this image"
 }
