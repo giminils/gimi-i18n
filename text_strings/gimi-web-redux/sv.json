@@ -566,44 +566,44 @@
   "meta.weeklycalc.descr": "Hur mycket veckopeng ska du ha? Veckopeng från 4 år, 6 år, 8 år, 12 år och uppåt.",
   "meta.weeklycalc.keywords": "Veckopeng, veckopeng ålder, veckopeng app, veckopengskalkylator",
   "meta.weeklycalc.image": "https://www.gimi.se/img/articles/familjeekonomi-og.jpg",
-  "meta.weeklycalc.url": "https://www.gimi.se/veckopengskalkylator"
-  "pricing.title" : "Financial Superskills for life. Från 0kr/för alltid"
-  "pricing.table.info.row1.col1": "Plan"
-  "pricing.table.info.row1.col2": "Beginner"
-  "pricing.table.info.row1.col3": "Master"
-  "pricing.table.info.row2.col2": "För smidig hantering av veckopengen, sysslor och sparande. Innan ditt barn är redo att hantera riktiga pengar."
-  "pricing.table.info.row2.col3": "Ett skräddarsytt Mastercard för barn & ungdomar  kopplat till Gimiappen. När ditt barn är redo att hantera riktiga pengar."
-  "pricing.table.info.row3.col1": "Pris"
-  "pricing.table.info.row3.col2": "Gratis"
-  "pricing.table.info.row3.col3": "fr. 69kr"
-  "pricing.table.info.row4.col2": "att ladda ned och använda."
-  "pricing.table.info.row4.col3": "per månad, inga extraavgifter."
-  "pricing.table.info.row5.col3": "Enkelt att beställa, inget papperskrångel"
-  "pricing.education.boiler.title": "Utbildning ska alltid vara gratis, Gimi är det bästa hjälpmedlet för att lära barn och ungdomar om pengar."
-  "pricing.education.boiler.body": "Oavsett om du är en lovande nykomling eller redan har erfarenhet av att hantera pengar så är Gimi verktyget för att lära dig om pengar. Gimi förbereder dig inför vuxenlivets finansiella utmaningar. Övning ger färdighet, och pengar är inget undantag. Gimiappen är utvecklad för att ge dem under 10 år ett sätt att hantera pengar i mobilen. Gimi Master tar det till nästa nivå. Som förälder ger du dina barn den frihet de behöver för att hantera pengar på egen hand, samtidigt som ni behåller kontrollen, direkt i appen."
-  "pricing.table.basics.title": "Grundläggande"
-  "pricing.table.basics.row1.col1": "Schemalägg vecko- eller månadspengen"
-  "pricing.table.basics.row2.col1": "Hantera sysslor"
-  "pricing.table.basics.row3.col1": "Bildbevis för sysslor"
-  "pricing.table.basics.row4.col1": "Anslut familjen"
-  "pricing.table.basics.row5.col1": "Föreslå sysslor"
-  "pricing.table.basics.row6.col1": "Sätt ränta"
-  "pricing.table.basics.row7.col1": "Riktiga pengar"
-  "pricing.table.spend.title": "Spendera"
-  "pricing.table.spend.row1.col1": "Gimi-kortet"
-  "pricing.table.spend.row2.col1": "Tips & råd"
-  "pricing.table.spend.row3.col1": "Betala online"
-  "pricing.table.spend.row4.col1": "Sätt köpbegränsningar"
-  "pricing.table.spend.row5.col1": "Gör direktöverföringar"
-  "pricing.table.spend.row6.col1": "Se betalningsnotifikationer"
-  "pricing.table.spend.row7.col1": "Spärrade återförsäljare"
-  "pricing.table.spend.row8.col1": "Mobilbetalningar"
-  "pricing.table.save.title": "Spara"
-  "pricing.table.save.row1.col1": "Sparkonto"
-  "pricing.table.save.row2.col1": "Sätt & följ sparmål"
-  "pricing.table.earn.title": "Tjäna"
-  "pricing.table.earn.row1.col1": "Övningar på att tjäna"
-  "pricing.table.earn.row2.col1": "Bildbevis för sysslor"
-  "pricing.table.earn.row3.col1": "Schemalägg sysslor"
-  "pricing.table.earn.row4.col1": "Godkännande på autopilot"
+  "meta.weeklycalc.url": "https://www.gimi.se/veckopengskalkylator",
+  "pricing.title": "Financial Superskills for life. From 0SEK/forever",
+  "pricing.table.info.row1.col1": "Plan",
+  "pricing.table.info.row1.col2": "Beginner",
+  "pricing.table.info.row1.col3": "Master",
+  "pricing.table.info.row2.col2": "Smarter pocket money for children below the age of 10.",
+  "pricing.table.info.row2.col3": "A tailored Mastercard® for kids & teenagers, connect to the Gimi app, for kids ages 10 and up.",
+  "pricing.table.info.row3.col1": "Price",
+  "pricing.table.info.row3.col2": "Free",
+  "pricing.table.info.row3.col3": "from 69SEK",
+  "pricing.table.info.row4.col2": "to download and use.",
+  "pricing.table.info.row4.col3": "per month, no extra fees.",
+  "pricing.table.info.row5.col3": "Easy to order, no bank visits needed",
+  "pricing.education.boiler.title": "Education should always be free, Gimi is the a tool for teaching kids and teenagers financial literacy",
+  "pricing.education.boiler.body": "Whether you're a promising beginner or already master the art of money management, Gimi is a tool for learning more about money. Gimi prepares you for the financial challanges of adulthood. Practice makes perfect, and money skills is no exception. The Gimi app was developed to give kids under the age of 10 a means of managing their pocket money on their phone. Gimi Master is the next level, where kids get to manage their pocket money independently, while parents stay in control, through the app.",
+  "pricing.table.basics.title": "Basics",
+  "pricing.table.basics.row1.col1": "Scheduling allowance",
+  "pricing.table.basics.row2.col1": "Chore management",
+  "pricing.table.basics.row3.col1": "Picture-proof for chores",
+  "pricing.table.basics.row4.col1": "Connect the family",
+  "pricing.table.basics.row5.col1": "Suggest a chore",
+  "pricing.table.basics.row6.col1": "Savings bonus",
+  "pricing.table.basics.row7.col1": "Real money",
+  "pricing.table.spend.title": "Spend",
+  "pricing.table.spend.row1.col1": "The Gimi Card",
+  "pricing.table.spend.row2.col1": "Tips & advice",
+  "pricing.table.spend.row3.col1": "Online payments",
+  "pricing.table.spend.row4.col1": "Buying limits",
+  "pricing.table.spend.row5.col1": "Peer-to-peer transactions",
+  "pricing.table.spend.row6.col1": "Purchasing notifications",
+  "pricing.table.spend.row7.col1": "Blocked retailers",
+  "pricing.table.spend.row8.col1": "Pay by phone",
+  "pricing.table.save.title": "Saving",
+  "pricing.table.save.row1.col1": "Account for saving",
+  "pricing.table.save.row2.col1": "Savings tracker",
+  "pricing.table.earn.title": "Earn",
+  "pricing.table.earn.row1.col1": "Earning exercises",
+  "pricing.table.earn.row2.col1": "Chores for extended family",
+  "pricing.table.earn.row3.col1": "Chore inspiration",
+  "pricing.table.earn.row4.col1": "Automated approvals"
 }
