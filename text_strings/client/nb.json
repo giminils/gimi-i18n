@@ -2023,7 +2023,7 @@
   "instantor_fail_container_button": "Fortsett",
   "pin_entered_too_many_times_error": "For mange forsøk. PIN-kode låst i 1 time.",
   "withdraw_from_freemium_savings_title": "Trukket fra Spart",
-  "deposit_to_freemium_savings_title": "Legg til Spart",
+  "deposit_to_freemium_savings_title": "PLZ_TRANSLATE Deposit",
   "withdraw_from_premium_savings_title": "Trekk fra konto",
   "deposit_to_premium_savings_title": "Innbetal",
   "premium_kid_internal_transaction_title": "Fyll på kort",

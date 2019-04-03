@@ -2023,7 +2023,7 @@
   "instantor_fail_container_button": "Fortfahren",
   "pin_entered_too_many_times_error": "Zu viele Versuche. PIN gesperrt für 1 Stunde.",
   "withdraw_from_freemium_savings_title": "Von Ersparnissen abbuchen",
-  "deposit_to_freemium_savings_title": "Zu Ersparnissen einzahlen",
+  "deposit_to_freemium_savings_title": "PLZ_TRANSLATE Deposit",
   "withdraw_from_premium_savings_title": "Von Konto abbuchen",
   "deposit_to_premium_savings_title": "Einzahlung",
   "premium_kid_internal_transaction_title": "Karte aufladen",

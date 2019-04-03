@@ -2023,7 +2023,7 @@
   "instantor_fail_container_button": "Continuar",
   "pin_entered_too_many_times_error": "Demasiados intentos. PIN bloqueado por 1 hora.",
   "withdraw_from_freemium_savings_title": "Descontar de los ahorros",
-  "deposit_to_freemium_savings_title": "Añadir a los ahorros",
+  "deposit_to_freemium_savings_title": "PLZ_TRANSLATE Deposit",
   "withdraw_from_premium_savings_title": "Descontar de tu cuenta",
   "deposit_to_premium_savings_title": "Depósito",
   "premium_kid_internal_transaction_title": "Recargar la tarjeta",

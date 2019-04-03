@@ -2023,7 +2023,7 @@
   "instantor_fail_container_button": "Fortsæt",
   "pin_entered_too_many_times_error": "For mange forsøg. PIN er blokeret i 1 time.",
   "withdraw_from_freemium_savings_title": "Træk fra opsparing",
-  "deposit_to_freemium_savings_title": "Tilføj til opsparing",
+  "deposit_to_freemium_savings_title": "PLZ_TRANSLATE Deposit",
   "withdraw_from_premium_savings_title": "Træk fra konto",
   "deposit_to_premium_savings_title": "Udbetal",
   "premium_kid_internal_transaction_title": "Tank-op kort",

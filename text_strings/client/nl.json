@@ -2023,7 +2023,7 @@
   "instantor_fail_container_button": "Doorgaan",
   "pin_entered_too_many_times_error": "Teveel keren geprobeerd. Pin voor een uur geblokkeerd.",
   "withdraw_from_freemium_savings_title": "Neem op van de spaarrekening",
-  "deposit_to_freemium_savings_title": "Stort op de spaarrekening",
+  "deposit_to_freemium_savings_title": "PLZ_TRANSLATE Deposit",
   "withdraw_from_premium_savings_title": "Neem op van de rekening",
   "deposit_to_premium_savings_title": "Storting",
   "premium_kid_internal_transaction_title": "Kaart opwaarderen",
