@@ -1,6 +1,7 @@
 {
   "ok": "Ok",
   "download": "Download",
+  "get_started": "Get started",
   "join": "Join",
   "email_us": "Email us",
   "launched": "Launched",
@@ -604,5 +605,6 @@
   "pricing.table.earn.row1.col1": "Earning exercises",
   "pricing.table.earn.row2.col1": "Chores for extended family",
   "pricing.table.earn.row3.col1": "Chore inspiration",
-  "pricing.table.earn.row4.col1": "Automated approvals"
+  "pricing.table.earn.row4.col1": "Automated approvals",
+  "pricing.table.coming_soon": "Coming soon"
 }
