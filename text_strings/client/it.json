@@ -2390,5 +2390,10 @@
   "lysa_start_container_subtitle": "PLZ_TRANSLATE Gimi collaborates with Lysa, to offer parents what we believe is the best and simplest automated investment account for long term saving.",
   "pfs_refund_kid": "PLZ_TRANSLATE Chargeback from %1$d!",
   "pfs_refund_parent": "PLZ_TRANSLATE %1$d got a chargeback from %2$d",
-  "general_yes_remove": "PLZ_TRANSLATE Yes, remove"
+  "general_yes_remove": "PLZ_TRANSLATE Yes, remove",
+  "lysa_approve_policies_title": "PLZ_TRANSLATE I approve",
+  "lysa_personal_policy_title": "PLZ_TRANSLATE Integrity policy",
+  "lysa_terms_title": "PLZ_TRANSLATE User terms",
+  "lysa_read_policy_button": "PLZ_TRANSLATE Read it",
+  "lysa_create_new_acc_button": "PLZ_TRANSLATE Create new lysa"
 }
