@@ -2389,5 +2389,6 @@
   "lysa_start_container_title": "A Lysa account in Gimi!",
   "lysa_start_container_subtitle": "Gimi collaborates with Lysa, to offer parents what we believe is the best and simplest automated investment account for long term saving.",
   "pfs_refund_kid": "Chargeback from %1$d!",
-  "pfs_refund_parent": "%1$d got a chargeback from %2$d"
+  "pfs_refund_parent": "%1$d got a chargeback from %2$d",
+  "general_yes_remove": "Yes, remove"
 }
