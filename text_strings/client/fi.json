@@ -2388,6 +2388,6 @@
   "general_photo_loading_failed": "PLZ_TRANSLATE Could not load this image",
   "lysa_start_container_title": "PLZ_TRANSLATE A Lysa account in Gimi!",
   "lysa_start_container_subtitle": "PLZ_TRANSLATE Gimi collaborates with Lysa, to offer parents what we believe is the best and simplest automated investment account for long term saving.",
-  "pfs_refund_kid": "PLZ_TRANSLATE Chargeback from %2$d!",
+  "pfs_refund_kid": "PLZ_TRANSLATE Chargeback from %1$d!",
   "pfs_refund_parent": "PLZ_TRANSLATE %1$d got a chargeback from %2$d"
 }

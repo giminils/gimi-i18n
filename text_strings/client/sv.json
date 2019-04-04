@@ -2388,6 +2388,6 @@
   "general_photo_loading_failed": "Kunde inte hämta bilden",
   "lysa_start_container_title": "Ett Lysa-konto i Gimi!",
   "lysa_start_container_subtitle": "Gimi samarbetar med Lysa för att erbjuda automatiserade fondinvesteringar, som vi tycker är det bästa alternativet för långsiktigt sparande till barnen.",
-  "pfs_refund_kid": "PLZ_CHECK Chargeback from %2$d!",
+  "pfs_refund_kid": "PLZ_CHECK Chargeback from %1$d!",
   "pfs_refund_parent": "PLZ_CHECK %1$d got a chargeback from %2$d"
 }
