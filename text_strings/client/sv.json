@@ -2393,6 +2393,6 @@
   "general_yes_remove": "PLZ_CHECK Yes, remove",
   "lysa_personal_policy_title": "PLZ_CHECK I approve Personuppgiftspolicy",
   "lysa_terms_title": "PLZ_CHECK I approve Lysa's user terms",
-  "lysa_create_new_acc_button": "PLZ_CHECK Create new lysa",
+  "lysa_create_new_acc_button": "PLZ_CHECK Start",
   "lysa_existing_customer_button": "PLZ_CHECK I'm already a Lysa customer!"
 }
