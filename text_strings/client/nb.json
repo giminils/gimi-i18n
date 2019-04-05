@@ -2405,5 +2405,8 @@
   "lysa_intro_title": "PLZ_TRANSLATE Give %1$d a head start!",
   "lysa_intro_text": "PLZ_TRANSLATE 10 years from now %1$d will be %2$d. Start investing small amounts today and watch your savings grow in the Gimi app!",
   "only_kid_activate_card": "PLZ_TRANSLATE %1$d can activate the card",
-  "only_kid_activate_card_desc": "PLZ_TRANSLATE %1$d can activate the card at any time in the app, but we recommend waiting until the card has arrived!"
+  "only_kid_activate_card_desc": "PLZ_TRANSLATE %1$d can activate the card at any time in the app, but we recommend waiting until the card has arrived!",
+  "lysa_success_title": "PLZ_TRANSLATE Success! Your account was created.",
+  "lysa_success_text": "PLZ_TRANSLATE You will now be able to follow your money in Gimi. Don't forget to setup autogiro for monthly savings at Lysa!",
+  "lysa_success_skip_autogiro_button": "PLZ_TRANSLATE Skip for now"
 }
