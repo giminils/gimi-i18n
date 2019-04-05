@@ -2391,9 +2391,8 @@
   "pfs_refund_kid": "Chargeback from %1$d!",
   "pfs_refund_parent": "%1$d got a chargeback from %2$d",
   "general_yes_remove": "Yes, remove",
-  "lysa_approve_policies_title": "I approve",
-  "lysa_personal_policy_title": "Integrity policy",
-  "lysa_terms_title": "User terms",
-  "lysa_read_policy_button": "Read it",
-  "lysa_create_new_acc_button": "Create new lysa"
+  "lysa_personal_policy_title": "I approve Personuppgiftspolicy",
+  "lysa_terms_title": "I approve Lysa's user terms",
+  "lysa_create_new_acc_button": "Create new lysa",
+  "lysa_existing_customer_button": "I'm already a Lysa customer!"
 }
