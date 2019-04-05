@@ -323,6 +323,6 @@
   "CHGEPU007_notification_title": "Gimi väntar på dig!",
   "ADGEPU005_notification_title": "Säkra en plats på väntelistan till Gimi-kortet!",
   "ADGEPU005_push_title": "Gimi-kortet lanseras snart!",
-  "confirm_email_subject": "PLZ_CHECK Your Gimi card is ready for {wallet_provider}!",
-  "remind_email_subject": "PLZ_CHECK Activate your Gimi card for {wallet_provider}!"
+  "confirm_email_subject": "Ditt Gimi-kort är redo för {wallet_provider}!",
+  "remind_email_subject": "Aktivera ditt kort för {wallet_provider}!"
 }
