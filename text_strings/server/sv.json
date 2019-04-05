@@ -322,5 +322,7 @@
   "ADGEPU011_notification_title": "Gimi väntar på dig!",
   "CHGEPU007_notification_title": "Gimi väntar på dig!",
   "ADGEPU005_notification_title": "Säkra en plats på väntelistan till Gimi-kortet!",
-  "ADGEPU005_push_title": "Gimi-kortet lanseras snart!"
+  "ADGEPU005_push_title": "Gimi-kortet lanseras snart!",
+  "confirm_email_subject": " Ditt Gimi-kort är redo för Apple Pay!",
+  "remind_email_subject": "PLZ_CHECK Activate your Gimi card for Apple Pay!"
 }

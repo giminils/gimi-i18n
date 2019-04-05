@@ -322,5 +322,7 @@
   "ADGEPU011_notification_title": "PLZ_TRANSLATE Gimi is waiting for you!",
   "CHGEPU007_notification_title": "PLZ_TRANSLATE Gimi is waiting for you!",
   "ADGEPU005_notification_title": "PLZ_TRANSLATE Get on the waitlist for the Gimi Card!",
-  "ADGEPU005_push_title": "PLZ_TRANSLATE The Gimi Card is coming soon!"
+  "ADGEPU005_push_title": "PLZ_TRANSLATE The Gimi Card is coming soon!",
+  "confirm_email_subject": "PLZ_TRANSLATE Your Gimi card is ready for Apple Pay!",
+  "remind_email_subject": "PLZ_TRANSLATE Activate your Gimi card for Apple Pay!"
 }

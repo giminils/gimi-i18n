@@ -1,2 +1,4 @@
-Your Gimi card ending in {{ last_four_card_number }} is ready for {{ wallet_provider }}.
-You can use it wherever you see the contactless symbol or {{ wallet_provider }} mark.
+Ditt Gimi-kort {{ last_four_card_number }} är redo för Apple Pay. 
+Du kan betala med det överallt där du ser symbolen för kontaktlösa betalningar, eller {{ wallet_provider }} loggan.
+
+Hälsingar från Gimi
