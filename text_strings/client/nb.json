@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Hvem skal ha kortet?",
   "error_maintenance_title": "Unnskyld at det er rotete, vi bygger om!",
   "error_maintenance_desc": "Arbeidet vil snart være ferdig, og da kan du bruke Gimi som vanlig!",
-  "spending_categories": "Brukt dette året",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "kjøp",
   "verify_identity_bank_id": "Bekreft din identitet med BankID",
   "general_remove": "slett brukerkonto",

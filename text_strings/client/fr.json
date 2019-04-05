@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Qui doit obtenir la carte?",
   "error_maintenance_title": "Désolé pour ce bazard, nous sommes en re-construction!",
   "error_maintenance_desc": "La maintenance est bientôt terminée, et vous pourrez utiliser l'appli comme d'habitude.",
-  "spending_categories": "PLZ_TRANSLATE Spent this year",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "dépenser",
   "verify_identity_bank_id": "Confirmer votre identité avec BankID",
   "general_remove": "supprimer le compte",

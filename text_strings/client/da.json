@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Hvem skal have kortet?",
   "error_maintenance_title": "Undskyld rodet, vi er ved at bygge om!",
   "error_maintenance_desc": "Arbejdet er snart færdigt, så du kan bruge appen som normalt!",
-  "spending_categories": "Brugt i år",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "udgift",
   "verify_identity_bank_id": "Bekræft din identitet med BankID",
   "general_remove": "slet brugerkonto",

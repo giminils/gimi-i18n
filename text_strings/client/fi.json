@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Kenellä pitäisi olla kortti?",
   "error_maintenance_title": "Anteeksi sotku, työt on kesken!",
   "error_maintenance_desc": "Työ on pian valmis, silloin sovellus on täysin käytettävissä!",
-  "spending_categories": "Tämän vuoden menot",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "menot",
   "verify_identity_bank_id": "Vahvista henkilöllisyytesi BankID:llä",
   "general_remove": "poista tili",

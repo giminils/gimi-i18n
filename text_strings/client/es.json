@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "¿Quién debería recibir la tarjeta?",
   "error_maintenance_title": "¡Perdón por el desorden, estamos remodelando!",
   "error_maintenance_desc": "Pronto estará listo el trabajo, luego podrás usar la aplicación como siempre!",
-  "spending_categories": "Gastado este año",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "gastos",
   "verify_identity_bank_id": "Verifica tu identidad con BankID",
   "general_remove": "eliminar la cuenta",

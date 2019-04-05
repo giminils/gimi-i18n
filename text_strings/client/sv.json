@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Vem vill du skaffa kortet till?",
   "error_maintenance_title": "Ursäkta röran, vi bygger om!",
   "error_maintenance_desc": "Arbetet kommer snart vara klart, och då kan du använda Gimi som vanligt!",
-  "spending_categories": "Spenderat i år",
+  "spending_categories": "PLZ_CHECK Saved & spent",
   "general_spending": "köp",
   "verify_identity_bank_id": "Verifiera identitet med BankID",
   "general_remove": "radera användarkonto",

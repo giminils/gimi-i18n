@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Perché dovrei avere la carta?",
   "error_maintenance_title": "Scusa per il casino, stiamo rinnovando!",
   "error_maintenance_desc": "Il lavoro terminerà presto, poi potrai usare la tua app come al solito!",
-  "spending_categories": "Speso quest'anno",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "spesa",
   "verify_identity_bank_id": "Verifica la tua identità con BankID",
   "general_remove": "cancella account",

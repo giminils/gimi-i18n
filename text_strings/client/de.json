@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Wer soll die Karte bekommen?",
   "error_maintenance_title": "Entschuldige das Chaos, wir sind im Umbau!",
   "error_maintenance_desc": "Die Arbeit wird bald erledigt sein, dann kannst Du die App ganz normal nutzen!",
-  "spending_categories": "Dieses Jahr ausgegeben",
+  "spending_categories": "PLZ_TRANSLATE Saved & spent",
   "general_spending": "Ausgaben",
   "verify_identity_bank_id": "Verifiziere Deine Identität mit BankID",
   "general_remove": "lösche Konto",
