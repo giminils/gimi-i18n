@@ -497,7 +497,7 @@
   "cd1518": "PLZ_TRANSLATE If you forget your PIN, you can see it in the app!",
   "cd1519": "PLZ_TRANSLATE Wanna see it now?",
   "bot_online": "PLZ_TRANSLATE Online",
-  "In a store": "PLZ_TRANSLATE In a store",
+  "bot_in_a_store": "PLZ_TRANSLATE In a store",
   "bot_thats_easy": "PLZ_TRANSLATE That's easy!",
   "bot_whats_pin": "PLZ_TRANSLATE What's PIN?",
   "bot_whats_terminal": "PLZ_TRANSLATE What's a terminal?",

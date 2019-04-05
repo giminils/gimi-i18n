@@ -497,7 +497,7 @@
   "cd1518": "PLZ_CHECK If you forget your PIN, you can see it in the app!",
   "cd1519": "PLZ_CHECK Wanna see it now?",
   "bot_online": "PLZ_CHECK Online",
-  "In a store": "PLZ_CHECK In a store",
+  "bot_in_a_store": "PLZ_CHECK In a store",
   "bot_thats_easy": "PLZ_CHECK That's easy!",
   "bot_whats_pin": "PLZ_CHECK What's PIN?",
   "bot_whats_terminal": "PLZ_CHECK What's a terminal?",
