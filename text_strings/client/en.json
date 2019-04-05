@@ -755,7 +755,7 @@
   "select_kid_for_card_title": "Who should get the card?",
   "error_maintenance_title": "Sorry about the mess, we are rebuilding!",
   "error_maintenance_desc": "The work will soon be done, then you can use the app as usual!",
-  "spending_categories": "Spent this year",
+  "spending_categories": "PLZ_COPY Saved & spent",
   "general_spending": "spending",
   "verify_identity_bank_id": "Verify your identity with BankID",
   "general_remove": "delete user account",
