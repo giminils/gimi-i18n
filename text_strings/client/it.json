@@ -2401,5 +2401,7 @@
   "order_card_from_parent_home": "PLZ_TRANSLATE Order card!",
   "beta_order_card_from_parent_home": "PLZ_TRANSLATE Beta",
   "kid_not_premium_order_card_from_parent_home": "PLZ_TRANSLATE Get the card!",
-  "general_today_expressive": "PLZ_TRANSLATE Today!"
+  "general_today_expressive": "PLZ_TRANSLATE Today!",
+  "lysa_intro_title": "PLZ_TRANSLATE Give %1$d a head start!",
+  "lysa_intro_text": "PLZ_TRANSLATE 10 years from now %1$d will be %2$d. Start investing small amounts today and watch your savings grow in the Gimi app!"
 }

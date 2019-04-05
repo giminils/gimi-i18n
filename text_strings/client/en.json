@@ -2401,5 +2401,7 @@
   "order_card_from_parent_home": "Order card!",
   "beta_order_card_from_parent_home": "Beta",
   "kid_not_premium_order_card_from_parent_home": "Get the card!",
-  "general_today_expressive": "Today!"
+  "general_today_expressive": "Today!",
+  "lysa_intro_title": "Give %1$d a head start!",
+  "lysa_intro_text": "10 years from now %1$d will be %2$d. Start investing small amounts today and watch your savings grow in the Gimi app!"
 }
