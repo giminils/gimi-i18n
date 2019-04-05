@@ -2400,5 +2400,6 @@
   "dream_reached_parent_home": "PLZ_CHECK Reached!",
   "order_card_from_parent_home": "PLZ_CHECK Order card!",
   "beta_order_card_from_parent_home": "PLZ_CHECK Beta",
-  "kid_not_premium_order_card_from_parent_home": "PLZ_CHECK Get the card!"
+  "kid_not_premium_order_card_from_parent_home": "PLZ_CHECK Get the card!",
+  "general_today_expressive": "PLZ_CHECK Today!"
 }
