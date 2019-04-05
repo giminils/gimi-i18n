@@ -2394,5 +2394,11 @@
   "lysa_personal_policy_title": "PLZ_TRANSLATE I approve Personuppgiftspolicy",
   "lysa_terms_title": "PLZ_TRANSLATE I approve Lysa's user terms",
   "lysa_create_new_acc_button": "PLZ_TRANSLATE Start",
-  "lysa_existing_customer_button": "PLZ_TRANSLATE I'm already a Lysa customer!"
+  "lysa_existing_customer_button": "PLZ_TRANSLATE I'm already a Lysa customer!",
+  "general_add_chores": "PLZ_TRANSLATE Add chores!",
+  "pending_chores_hint_parent_home": "PLZ_TRANSLATE %1$d pending",
+  "dream_reached_parent_home": "PLZ_TRANSLATE Reached!",
+  "order_card_from_parent_home": "PLZ_TRANSLATE Order card!",
+  "beta_order_card_from_parent_home": "PLZ_TRANSLATE Beta",
+  "kid_not_premium_order_card_from_parent_home": "PLZ_TRANSLATE Get the card!"
 }
