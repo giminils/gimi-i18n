@@ -314,7 +314,7 @@
   "event_pfs_payday_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}!",
   "push_pfs_payday_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}!",
   "active_email_subject": "Aktivera {wallet_provider}",
-  "ADPRPU001_notification_title": "PLZ_CHECK 💳 {child.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
+  "ADPRPU001_notification_title": "💳 {child.nickname} spenderade {pfstransactionstatement.str_amount} på {pfstransactionstatement.merchant_name}",
   "ADGEON013_push_title": "Ge ett barn financial superskills!",
   "ADGEON013_notification_title": "Koppla ihop med ett barn och ge dem financial superskills!",
   "ADGEON020_notification_title": "Hur funkar Gimi? Kolla den här korta filmen",
