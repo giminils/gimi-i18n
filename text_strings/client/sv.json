@@ -2422,5 +2422,6 @@
   "no_bankid_on_this_device_title": "Inget BankID på denna enhet...",
   "no_bankid_on_this_device_desc": "Om du har BankID på en annan enhet, så kan du öppna det där och signera!",
   "expense_empty_state_text": "Har du gjort utlägg för %1$d?",
-  "expense_help_text": "Summan kommer att dras av från intäkterna"
+  "expense_help_text": "Summan kommer att dras av från intäkterna",
+  "parent_home_kid_item_goal_reached": "PLZ_CHECK Reached!"
 }
