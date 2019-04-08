@@ -2417,5 +2417,6 @@
   "kid_downgraded_takeover_title": "Your Gimi subscription was cancelled",
   "kid_downgraded_takeover_main_parent_text": "So we had to cancel your premium account. But you can continue with a free account!",
   "kid_downgraded_takeover_not_main_parent_text": "So we had to cancel the premium account. But you can continue with a free account!",
-  "email_or_phone_verified_confirmation_message": "Verified!"
+  "email_or_phone_verified_confirmation_message": "Verified!",
+  "inspo_climate_tasks_title": "Fight climate change!"
 }
