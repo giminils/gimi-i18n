@@ -2410,5 +2410,6 @@
   "only_kid_activate_card_desc": "%1$d can activate the card at any time in the app, but we recommend waiting until the card has arrived!",
   "lysa_success_title": "Success! Your account was created.",
   "lysa_success_text": "You will now be able to follow your money in Gimi. Don't forget to setup autogiro for monthly savings at Lysa!",
-  "lysa_success_skip_autogiro_button": "Skip for now"
+  "lysa_success_skip_autogiro_button": "Skip for now",
+  "iap_failed_verification_intercom_auto_message": "Plz help, something went wrong with buying premium"
 }
