@@ -2416,5 +2416,6 @@
   "pfs_transaction_amount_too_low_popover_text": "PLZ_CHECK Minimum amount is %1$d",
   "kid_downgraded_takeover_title": "PLZ_CHECK Your Gimi subscription was cancelled",
   "kid_downgraded_takeover_main_parent_text": "PLZ_CHECK So we had to cancel your premium account. But you can continue with a free account!",
-  "kid_downgraded_takeover_not_main_parent_text": "PLZ_CHECK So we had to cancel the premium account. But you can continue with a free account!"
+  "kid_downgraded_takeover_not_main_parent_text": "PLZ_CHECK So we had to cancel the premium account. But you can continue with a free account!",
+  "email_or_phone_verified_confirmation_message": "PLZ_CHECK Verified!"
 }
