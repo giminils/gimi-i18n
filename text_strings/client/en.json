@@ -2411,7 +2411,7 @@
   "lysa_success_title": "Success! Your account was created.",
   "lysa_success_text": "You will now be able to follow your money in Gimi. Don't forget to setup autogiro for monthly savings at Lysa!",
   "lysa_success_skip_autogiro_button": "Skip for now",
-  "iap_failed_verification_intercom_auto_message": "PLZ_COPY Something went wrong with my Gimi upgrade. Help me!",
+  "iap_failed_verification_intercom_auto_message": "Something went wrong with my Gimi upgrade. Help me!",
   "pfs_transaction_amount_too_low_popover_title": "That amount is too low!",
   "pfs_transaction_amount_too_low_popover_text": "Minimum amount is %1$d",
   "kid_downgraded_takeover_title": "Your Gimi subscription was cancelled",
