@@ -2413,5 +2413,8 @@
   "lysa_success_skip_autogiro_button": "Skip for now",
   "iap_failed_verification_intercom_auto_message": "PLZ_COPY Something went wrong with my Gimi upgrade. Help me!",
   "pfs_transaction_amount_too_low_popover_title": "That amount is too low!",
-  "pfs_transaction_amount_too_low_popover_text": "Minimum amount is %1$d"
+  "pfs_transaction_amount_too_low_popover_text": "Minimum amount is %1$d",
+  "kid_downgraded_takeover_title": "Your Gimi subscription was cancelled",
+  "kid_downgraded_takeover_main_parent_text": "So we had to cancel your premium account. But you can continue with a free account!",
+  "kid_downgraded_takeover_not_main_parent_text": "So we had to cancel the premium account. But you can continue with a free account!"
 }
