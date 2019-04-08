@@ -2405,7 +2405,7 @@
   "kid_not_premium_order_card_from_parent_home": "Beställ kortet",
   "general_today_expressive": "Idag!",
   "lysa_intro_title": "Ge %1$d en bättre start!",
-  "lysa_intro_text": "Om 10 år kommer %1$d vara %2$d. Börja spara lite idag och se pengarna växa i Gimi-appen!",
+  "lysa_intro_text": "PLZ_CHECK %1$d years from now %2$d will be 18. Start investing small amounts today and watch your savings grow in the Gimi app!",
   "only_kid_activate_card": "%1$d kan aktivera kortet",
   "only_kid_activate_card_desc": "%1$d kan aktivera kortet när som helst i appen, men vi rekommenderar att vänta tills kortet har kommit fram!",
   "lysa_success_title": "Succé! Kontot är skapat",
