@@ -2418,5 +2418,7 @@
   "kid_downgraded_takeover_main_parent_text": "PLZ_CHECK So we had to cancel your premium account. But you can continue with a free account!",
   "kid_downgraded_takeover_not_main_parent_text": "PLZ_CHECK So we had to cancel the premium account. But you can continue with a free account!",
   "email_or_phone_verified_confirmation_message": "PLZ_CHECK Verified!",
-  "inspo_climate_tasks_title": "PLZ_CHECK Fight climate change!"
+  "inspo_climate_tasks_title": "PLZ_CHECK Fight climate change!",
+  "no_bankid_on_this_device_title": "PLZ_CHECK No BankID on this device...",
+  "no_bankid_on_this_device_desc": "PLZ_CHECK If you have BankID on another device, you can open it and sign from there!"
 }
