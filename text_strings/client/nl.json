@@ -2411,5 +2411,7 @@
   "lysa_success_title": "PLZ_TRANSLATE Success! Your account was created.",
   "lysa_success_text": "PLZ_TRANSLATE You will now be able to follow your money in Gimi. Don't forget to setup autogiro for monthly savings at Lysa!",
   "lysa_success_skip_autogiro_button": "PLZ_TRANSLATE Skip for now",
-  "iap_failed_verification_intercom_auto_message": "PLZ_TRANSLATE Plz help, something went wrong with buying premium"
+  "iap_failed_verification_intercom_auto_message": "PLZ_TRANSLATE Plz help, something went wrong with buying premium",
+  "pfs_transaction_amount_too_low_popover_title": "PLZ_TRANSLATE That amount is too low!",
+  "pfs_transaction_amount_too_low_popover_text": "PLZ_TRANSLATE Minimum amount is %1$d"
 }

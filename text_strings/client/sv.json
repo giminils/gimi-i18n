@@ -2411,5 +2411,7 @@
   "lysa_success_title": "Succé! Kontot är skapat",
   "lysa_success_text": "Du kommer nu att kunna följa dina investeringar i Gimi. Glöm inte att aktivera autogiro för månadssparandet!",
   "lysa_success_skip_autogiro_button": "Hoppa över",
-  "iap_failed_verification_intercom_auto_message": "PLZ_CHECK Plz help, something went wrong with buying premium"
+  "iap_failed_verification_intercom_auto_message": "PLZ_CHECK Plz help, something went wrong with buying premium",
+  "pfs_transaction_amount_too_low_popover_title": "PLZ_CHECK That amount is too low!",
+  "pfs_transaction_amount_too_low_popover_text": "PLZ_CHECK Minimum amount is %1$d"
 }
