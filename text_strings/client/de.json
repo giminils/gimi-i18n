@@ -2420,5 +2420,7 @@
   "email_or_phone_verified_confirmation_message": "PLZ_TRANSLATE Verified!",
   "inspo_climate_tasks_title": "PLZ_TRANSLATE Fight climate change!",
   "no_bankid_on_this_device_title": "PLZ_TRANSLATE No BankID on this device...",
-  "no_bankid_on_this_device_desc": "PLZ_TRANSLATE If you have BankID on another device, you can open it and sign from there!"
+  "no_bankid_on_this_device_desc": "PLZ_TRANSLATE If you have BankID on another device, you can open it and sign from there!",
+  "expense_empty_state_text": "PLZ_TRANSLATE Did you make any expenses for %1$d?",
+  "expense_help_text": "PLZ_TRANSLATE Amount will be deducted on the next Payday"
 }

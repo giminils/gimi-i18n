@@ -2420,5 +2420,7 @@
   "email_or_phone_verified_confirmation_message": "Verified!",
   "inspo_climate_tasks_title": "Fight climate change!",
   "no_bankid_on_this_device_title": "No BankID on this device...",
-  "no_bankid_on_this_device_desc": "If you have BankID on another device, you can open it and sign from there!"
+  "no_bankid_on_this_device_desc": "If you have BankID on another device, you can open it and sign from there!",
+  "expense_empty_state_text": "Did you make any expenses for %1$d?",
+  "expense_help_text": "Amount will be deducted on the next Payday"
 }
