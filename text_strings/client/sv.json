@@ -2424,5 +2424,7 @@
   "expense_empty_state_text": "Har du gjort utlägg för %1$d?",
   "expense_help_text": "Summan kommer att dras av från intäkterna",
   "parent_home_kid_item_goal_reached": "PLZ_CHECK Reached!",
-  "parent_activate_card_hint": "PLZ_CHECK The Gimi card is on its way. %1$d has to activate it."
+  "parent_activate_card_hint": "PLZ_CHECK The Gimi card is on its way. %1$d has to activate it.",
+  "expense_by_user": "PLZ_CHECK Expense by %1$d",
+  "expense_by_unknown": "PLZ_CHECK Expense"
 }

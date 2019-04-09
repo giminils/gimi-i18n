@@ -2424,5 +2424,7 @@
   "expense_empty_state_text": "Did you make any expenses for %1$d?",
   "expense_help_text": "Amount will be deducted on the next Payday",
   "parent_home_kid_item_goal_reached": "Reached!",
-  "parent_activate_card_hint": "The Gimi card is on its way. %1$d has to activate it."
+  "parent_activate_card_hint": "The Gimi card is on its way. %1$d has to activate it.",
+  "expense_by_user": "Expense by %1$d",
+  "expense_by_unknown": "Expense"
 }
