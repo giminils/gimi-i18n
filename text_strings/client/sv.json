@@ -2423,5 +2423,6 @@
   "no_bankid_on_this_device_desc": "Om du har BankID på en annan enhet, så kan du öppna det där och signera!",
   "expense_empty_state_text": "Har du gjort utlägg för %1$d?",
   "expense_help_text": "Summan kommer att dras av från intäkterna",
-  "parent_home_kid_item_goal_reached": "PLZ_CHECK Reached!"
+  "parent_home_kid_item_goal_reached": "PLZ_CHECK Reached!",
+  "parent_activate_card_hint": "PLZ_CHECK The Gimi card is on its way. %1$d has to activate it."
 }
