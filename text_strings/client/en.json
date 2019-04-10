@@ -2426,5 +2426,7 @@
   "parent_home_kid_item_goal_reached": "Reached!",
   "parent_activate_card_hint": "The Gimi card is on its way. %1$d has to activate it.",
   "expense_by_user": "Expense by %1$d",
-  "expense_by_unknown": "Expense"
+  "expense_by_unknown": "Expense",
+  "added_expense_confirmation_tinder_card_title": "You added an expense for %1$d!",
+  "added_expense_confirmation_tinder_card_subtitle": "%1$d has been deducted from Payday for %2$d"
 }
