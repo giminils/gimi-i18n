@@ -325,5 +325,9 @@
   "remind_email_subject": "Attiva la tua carta Gimi per {wallet_provider}!",
   "ADPRPU002_push_title": "PLZ_TRANSLATE 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!",
   "event_pfs_manual_deposit_to_savings": "PLZ_TRANSLATE You got money from {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_manual_deposit_to_savings": "PLZ_TRANSLATE You got money from {pfs_payment_target.payment.parent.nickname}"
+  "push_pfs_manual_deposit_to_savings": "PLZ_TRANSLATE You got money from {pfs_payment_target.payment.parent.nickname}",
+  "CHPRPU005_push_title": "PLZ_TRANSLATE 🚫Purchase at {pfstransactionstatement.merchant_name} was declined because the merchant category is blocked",
+  "CHPRPU005_notification_title": "PLZ_TRANSLATE Your purchase at {pfstransactionstatement.merchant_name} was declined because the merchant category is blocked",
+  "ADPRPU005_push_title": "PLZ_TRANSLATE 🚫Purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname}",
+  "ADPRPU005_notification_title": "PLZ_TRANSLATE A purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname} because the merchant category is blocked"
 }

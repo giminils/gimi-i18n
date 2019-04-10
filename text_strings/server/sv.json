@@ -325,5 +325,9 @@
   "remind_email_subject": "Aktivera ditt kort för {wallet_provider}!",
   "ADPRPU002_push_title": "PLZ_CHECK 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!",
   "event_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}.",
-  "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}."
+  "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}.",
+  "CHPRPU005_push_title": "PLZ_CHECK 🚫Purchase at {pfstransactionstatement.merchant_name} was declined because the merchant category is blocked",
+  "CHPRPU005_notification_title": "PLZ_CHECK Your purchase at {pfstransactionstatement.merchant_name} was declined because the merchant category is blocked",
+  "ADPRPU005_push_title": "PLZ_CHECK 🚫Purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname}",
+  "ADPRPU005_notification_title": "PLZ_CHECK A purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname} because the merchant category is blocked"
 }
