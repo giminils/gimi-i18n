@@ -2433,5 +2433,8 @@
   "incomplete_setup": "PLZ_CHECK Incomplete setup",
   "setup_allowance": "PLZ_CHECK Setup allowance!",
   "subscription_not_paid": "PLZ_CHECK Subscription not paid",
-  "pay_subscription": "PLZ_CHECK Pay subsciption!"
+  "pay_subscription": "PLZ_CHECK Pay subsciption!",
+  "first_time_approve_chore_popover_title": "PLZ_CHECK If you approve, you pay, ok?",
+  "first_time_approve_chore_popover_text": "PLZ_CHECK Chores have owners, but you can always approve any chore, and others can approve your chores. The one who approves pays!",
+  "first_time_approve_chore_popover_ok_btn": "PLZ_CHECK OK, I pay!"
 }
