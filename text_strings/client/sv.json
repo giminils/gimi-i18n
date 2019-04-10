@@ -2325,7 +2325,7 @@
   "kid_earn_no_parents_bot_message_2": "Bjud in dom nu!",
   "general_invite_now": "Bjud in!",
   "notification_waiting_for_you": "Väntar på dig",
-  "premium_internal_transaction_to_savings": "Till sparkonto",
+  "premium_internal_transaction_to_savings": "PLZ_CHECK Transfer to savings account",
   "error_buying_iap": "Något gick fel...",
   "external_survey_title": "Välkommen!",
   "external_survey_section_1": "Denna studie är ett samarbete med forskare vid Handelshögskolan i Stockholm, Babson College & Dartmouth College. Vårt mål är att öka förståelsen för hur barn lär sig värdet av pengar i en digital värld - och vi behöver din hjälp.",
