@@ -324,5 +324,6 @@
   "ADGEPU005_notification_title": "Get on the waitlist for the Gimi Card!",
   "ADGEPU005_push_title": "The Gimi Card is coming soon!",
   "confirm_email_subject": "Your Gimi card is ready for {wallet_provider}!",
-  "remind_email_subject": "Activate your Gimi card for {wallet_provider}!"
+  "remind_email_subject": "Activate your Gimi card for {wallet_provider}!",
+  "ADPRPU002_push_title": "🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!"
 }

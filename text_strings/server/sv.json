@@ -324,5 +324,6 @@
   "ADGEPU005_notification_title": "Säkra en plats på väntelistan till Gimi-kortet!",
   "ADGEPU005_push_title": "Gimi-kortet lanseras snart!",
   "confirm_email_subject": "Ditt Gimi-kort är redo för {wallet_provider}!",
-  "remind_email_subject": "Aktivera ditt kort för {wallet_provider}!"
+  "remind_email_subject": "Aktivera ditt kort för {wallet_provider}!",
+  "ADPRPU002_push_title": "PLZ_CHECK 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!"
 }

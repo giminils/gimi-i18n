@@ -324,5 +324,6 @@
   "ADGEPU005_notification_title": "Entra nella lista d'attesa per la Carta Gimi!",
   "ADGEPU005_push_title": "La Carta Gimi arriverà presto!",
   "confirm_email_subject": "La tua carta Gimi è pronta per {wallet_provider}!",
-  "remind_email_subject": "Attiva la tua carta Gimi per {wallet_provider}!"
+  "remind_email_subject": "Attiva la tua carta Gimi per {wallet_provider}!",
+  "ADPRPU002_push_title": "PLZ_TRANSLATE 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!"
 }
