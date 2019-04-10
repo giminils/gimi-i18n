@@ -128,8 +128,6 @@
   "event_pfs_card_unblocked_by_parent": "Your card has been unblocked",
   "push_pfs_card_blocked_by_parent": "Your card has been blocked by {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Your card has been unblocked by {pfs_card.updated_by.nickname}",
-  "event_pfs_manual_deposit_to_savings": "You got money from {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_manual_deposit_to_savings": "You got money from {pfs_payment_target.payment.parent.nickname}",
   "event_payday_child": "Payday",
   "event_payday_parent": "Payday for {child.nickname}",
   "event_premium_payday_child": "Payday",
@@ -325,5 +323,7 @@
   "ADGEPU005_push_title": "The Gimi Card is coming soon!",
   "confirm_email_subject": "Your Gimi card is ready for {wallet_provider}!",
   "remind_email_subject": "Activate your Gimi card for {wallet_provider}!",
-  "ADPRPU002_push_title": "🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!"
+  "ADPRPU002_push_title": "🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!",
+  "event_pfs_manual_deposit_to_savings": "You got money from {pfs_payment_target.payment.parent.nickname}",
+  "push_pfs_manual_deposit_to_savings": "You got money from {pfs_payment_target.payment.parent.nickname}"
 }

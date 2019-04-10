@@ -128,8 +128,6 @@
   "event_pfs_card_unblocked_by_parent": "Ditt kort är aktivt igen",
   "push_pfs_card_blocked_by_parent": "Ditt kort har spärrats av {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}",
-  "event_pfs_manual_deposit_to_savings": "Insättning till kontot från {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}. Kolla in hur mycket i appen!",
   "event_payday_child": "Payday",
   "event_payday_parent": "Payday för {child.nickname}",
   "event_premium_payday_child": "Payday!",
@@ -325,5 +323,7 @@
   "ADGEPU005_push_title": "Gimi-kortet lanseras snart!",
   "confirm_email_subject": "Ditt Gimi-kort är redo för {wallet_provider}!",
   "remind_email_subject": "Aktivera ditt kort för {wallet_provider}!",
-  "ADPRPU002_push_title": "PLZ_CHECK 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!"
+  "ADPRPU002_push_title": "PLZ_CHECK 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!",
+  "event_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}.",
+  "push_pfs_manual_deposit_to_savings": "Du har fått pengar från {pfs_payment_target.payment.parent.nickname}."
 }

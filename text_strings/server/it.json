@@ -128,8 +128,6 @@
   "event_pfs_card_unblocked_by_parent": "La tua carta è stata sbloccata",
   "push_pfs_card_blocked_by_parent": "La tua carta è stata bloccata da {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "La tua carta è stata sbloccata da {pfs_card.updated_by.nickname}",
-  "event_pfs_manual_deposit_to_savings": "Hai ricevuto un deposito da {pfs_payment_target.payment.parent.nickname}",
-  "push_pfs_manual_deposit_to_savings": "Hai ricevuto un deposito da {pfs_payment_target.payment.parent.nickname}",
   "event_payday_child": "È Giorno di paga!",
   "event_payday_parent": "È giorno di paga per {child.nickname}",
   "event_premium_payday_child": "È giorno di paga!",
@@ -325,5 +323,7 @@
   "ADGEPU005_push_title": "La Carta Gimi arriverà presto!",
   "confirm_email_subject": "La tua carta Gimi è pronta per {wallet_provider}!",
   "remind_email_subject": "Attiva la tua carta Gimi per {wallet_provider}!",
-  "ADPRPU002_push_title": "PLZ_TRANSLATE 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!"
+  "ADPRPU002_push_title": "PLZ_TRANSLATE 🚫Purchase was declined for {pfstransactionstatement.card.user.nickname} because of low card balance!",
+  "event_pfs_manual_deposit_to_savings": "PLZ_TRANSLATE You got money from {pfs_payment_target.payment.parent.nickname}",
+  "push_pfs_manual_deposit_to_savings": "PLZ_TRANSLATE You got money from {pfs_payment_target.payment.parent.nickname}"
 }
