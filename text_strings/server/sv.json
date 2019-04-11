@@ -301,7 +301,7 @@
   "push_card_purchase_decline": "🚫Ett köp av {child.nickname} nekades på grund av för lågt saldo på kortet!",
   "CHPRPU002_notification_title": "Lågt saldo på Gimi-kortet. Ladda kordet?",
   "push_name_made_deposit_to_account": "Du har fått en insättning från {parent.nickname}",
-  "ADPRPU002_notification_title": "Ett köp av {child.nickname} nekades på grund av för lågt saldo! ",
+  "ADPRPU002_notification_title": "PLZ_CHECK 🚫 Card purchase was declined for {child.nickname}! Low balance on card",
   "CHGEON009_notification_title": "Börja spara till din dröm",
   "CHGERE020_notification_title": "{parent.nickname} accepterade inte ditt förslag: {task.title}. Föreslå en ny uppgift?",
   "CHGERE020_push_title": "Ditt förslag på uppgift accepterades inte!",

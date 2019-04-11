@@ -301,7 +301,7 @@
   "push_card_purchase_decline": "🚫L'acquisto di {child.nickname} è stato rifiutato perché il saldo della carta è basso!",
   "CHPRPU002_notification_title": "Saldo basso nella tua Carta Gimi! Ricarica la tua carta ora!",
   "push_name_made_deposit_to_account": "Hai ricevuto un deposito da {parent.nickname}",
-  "ADPRPU002_notification_title": "L'acquisto di {child.nickname} è stato rifiutato perché il saldo della carta è basso! ",
+  "ADPRPU002_notification_title": "PLZ_TRANSLATE 🚫 Card purchase was declined for {child.nickname}! Low balance on card",
   "CHGEON009_notification_title": "Crea un sogno",
   "CHGERE020_notification_title": "{parent.nickname} ha rifiutato la faccenda suggerita: {task.title}. Suggerirne una nuova?",
   "CHGERE020_push_title": "Faccenda suggerita rifiutata!",

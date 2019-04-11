@@ -301,7 +301,7 @@
   "push_card_purchase_decline": "🚫Kjøpet til {child.nickname} ble avvist grunnet for lav saldo!",
   "CHPRPU002_notification_title": "Lav saldo på Gimi-kortet ditt! Sett inn penger nå!",
   "push_name_made_deposit_to_account": "Du har mottatt en inbetaling fra {parent.nickname}",
-  "ADPRPU002_notification_title": "Kjøpet til {child.nickname} ble avvist grunnet lav saldo! ",
+  "ADPRPU002_notification_title": "PLZ_TRANSLATE 🚫 Card purchase was declined for {child.nickname}! Low balance on card",
   "CHGEON009_notification_title": "Skap dine egne drømmer",
   "CHGERE020_notification_title": "{parent.nickname} avviste ditt forslag til oppgave: {task.title}. Foreslå en ny?",
   "CHGERE020_push_title": "Forslag til oppgave avvist!",
