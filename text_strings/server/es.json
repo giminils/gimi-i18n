@@ -329,5 +329,7 @@
   "CHPRPU005_push_title": "🚫 La compra en {pfstransactionstatement.merchant_name} fue rechazada debido a que la categoría del comercio está bloqueada",
   "CHPRPU005_notification_title": "Tu compra en {pfstransactionstatement.merchant_name} fue rechazada debido a que la categoría del comercio está bloqueada",
   "ADPRPU005_push_title": "🚫 La compra en {pfstransactionstatement.merchant_name} fue rechazada por {child.nickname}",
-  "ADPRPU005_notification_title": "Una compra en {pfstransactionstatement.merchant_name} fue rechazada por {child.nickname} debido a que la categoría del comercio está bloqueada"
+  "ADPRPU005_notification_title": "Una compra en {pfstransactionstatement.merchant_name} fue rechazada por {child.nickname} debido a que la categoría del comercio está bloqueada",
+  "ADPRRE030_notification_title": "PLZ_TRANSLATE {child.nickname} is requesting money!",
+  "ADPRRE030_push_title": "PLZ_TRANSLATE {child.nickname} is requesting money!"
 }

@@ -329,5 +329,7 @@
   "CHPRPU005_push_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined because the merchant category is blocked",
   "CHPRPU005_notification_title": "Your purchase at {pfstransactionstatement.merchant_name} was declined because the merchant category is blocked",
   "ADPRPU005_push_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname}",
-  "ADPRPU005_notification_title": "A purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname} because the merchant category is blocked"
+  "ADPRPU005_notification_title": "A purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname} because the merchant category is blocked",
+  "ADPRRE030_notification_title": "{child.nickname} is requesting money!",
+  "ADPRRE030_push_title": "{child.nickname} is requesting money!"
 }

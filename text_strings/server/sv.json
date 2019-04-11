@@ -329,5 +329,7 @@
   "CHPRPU005_push_title": "🚫Köp nekat, {pfstransactionstatement.merchant_name} är spärrat",
   "CHPRPU005_notification_title": "Ditt köp på {pfstransactionstatement.merchant_name} nekades för att köpstället är spärrat",
   "ADPRPU005_push_title": "🚫Kör på {pfstransactionstatement.merchant_name} nekades för {child.nickname}",
-  "ADPRPU005_notification_title": "Ett köp på {pfstransactionstatement.merchant_name} nekades för {child.nickname} på grund av att köpstället är spärrat"
+  "ADPRPU005_notification_title": "Ett köp på {pfstransactionstatement.merchant_name} nekades för {child.nickname} på grund av att köpstället är spärrat",
+  "ADPRRE030_notification_title": "PLZ_CHECK {child.nickname} is requesting money!",
+  "ADPRRE030_push_title": "PLZ_CHECK {child.nickname} is requesting money!"
 }
