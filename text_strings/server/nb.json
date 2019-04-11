@@ -112,7 +112,7 @@
   "event_you_have_got_x_new_chores_parent": "{child.nickname} har {x} nye oppgaver",
   "event_you_have_got_x_new_chores_child": "{parent.nickname} sendte deg {x} nye oppgaver",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} har fått en rente i Skyen på {child.total_interest_rate}%",
-  "event_you_have_got_an_interest_rate_of_x_child": "Du har fått en rente i Skyen på {child.total_interest_rate}%",
+  "event_you_have_got_an_interest_rate_of_x_child": "PLZ_TRANSLATE Your interest rate has been updated to {child.total_interest_rate}%",
   "event_done_with_chore_parent": "{assignment.child.nickname} er ferdig med {assignment.task.title}",
   "event_done_with_chore_child": "Du er ferdig med {assignment.task.title}",
   "push_payday_child": "Utbetalingsdag! Du har akkurat fått pengenen dine!",

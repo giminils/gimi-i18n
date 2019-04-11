@@ -112,7 +112,7 @@
   "event_you_have_got_x_new_chores_parent": "{child.nickname} tiene {x} tareas nuevas",
   "event_you_have_got_x_new_chores_child": "{parent.nickname} te mandó {x} tarea(s) nueva(s)",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} tiene una tasa de interés en la Nube de {child.total_interest_rate}%",
-  "event_you_have_got_an_interest_rate_of_x_child": "Tienes una tasa de interés en la Nube de {child.total_interest_rate}%",
+  "event_you_have_got_an_interest_rate_of_x_child": "PLZ_TRANSLATE Your interest rate has been updated to {child.total_interest_rate}%",
   "event_done_with_chore_parent": "{assignment.child.nickname} terminó {assignment.task.title}",
   "event_done_with_chore_child": "Terminó {assignment.task.title}",
   "push_payday_child": "¡Payday! ¡Acabas de obtener tu dinero!",

@@ -112,7 +112,7 @@
   "event_you_have_got_x_new_chores_parent": "{child.nickname} has {x} new chores",
   "event_you_have_got_x_new_chores_child": "{parent.nickname} sent you {x} new chores",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} got an interest rate of {child.total_interest_rate}%",
-  "event_you_have_got_an_interest_rate_of_x_child": "PLZ_COPY Your interest rate has been updated to {child.total_interest_rate}%",
+  "event_you_have_got_an_interest_rate_of_x_child": "Your interest rate has been updated to {child.total_interest_rate}%",
   "event_done_with_chore_parent": "{assignment.child.nickname} has completed {assignment.task.title}",
   "event_done_with_chore_child": "You are done with {assignment.task.title}",
   "push_payday_child": "Payday! You got money!",
