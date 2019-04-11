@@ -2436,5 +2436,6 @@
   "pay_subscription": "Betala nu",
   "first_time_approve_chore_popover_title": "Om du godkänner, får du betala",
   "first_time_approve_chore_popover_text": "Uppgifter har ägare, men du kan godkänna alla uppgifter, och andra supporters kan godkänna dina uppgifter. Den som godkänner betalar!",
-  "first_time_approve_chore_popover_ok_btn": "Uppfattat!"
+  "first_time_approve_chore_popover_ok_btn": "Uppfattat!",
+  "premium_settings_row": "PLZ_CHECK Gimi Premium"
 }
