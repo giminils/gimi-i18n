@@ -2437,5 +2437,8 @@
   "first_time_approve_chore_popover_title": "Om du godkänner, får du betala",
   "first_time_approve_chore_popover_text": "Uppgifter har ägare, men du kan godkänna alla uppgifter, och andra supporters kan godkänna dina uppgifter. Den som godkänner betalar!",
   "first_time_approve_chore_popover_ok_btn": "Uppfattat!",
-  "premium_settings_row": "PLZ_CHECK Gimi Premium"
+  "premium_settings_row": "PLZ_CHECK Gimi Premium",
+  "parent_home_add_more_kids_section_title": "PLZ_CHECK Add more children!",
+  "parent_home_add_more_kids_section_add_button": "PLZ_CHECK Invite children",
+  "parent_home_add_more_kids_section_remove_button": "PLZ_CHECK No more children"
 }

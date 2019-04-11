@@ -2437,5 +2437,8 @@
   "first_time_approve_chore_popover_title": "If you approve, you pay, ok?",
   "first_time_approve_chore_popover_text": "Chores have owners, but you can always approve any chore, and others can approve your chores. The one who approves pays!",
   "first_time_approve_chore_popover_ok_btn": "OK, I pay!",
-  "premium_settings_row": "Gimi Premium"
+  "premium_settings_row": "Gimi Premium",
+  "parent_home_add_more_kids_section_title": "Add more children!",
+  "parent_home_add_more_kids_section_add_button": "Invite children",
+  "parent_home_add_more_kids_section_remove_button": "No more children"
 }
