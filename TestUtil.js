@@ -110,8 +110,8 @@ export let checkTemplateLenght = (langs: Object, langName: string = '') => {
   var errorMessages = []
   keys.forEach(key => {
     if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key))
-      if (langs[key].length > 15) {
-        errorMessages.push(`Lang: '${langName}', String: '${langs[key]}' exeeds 15 characters '${langs[key].length}'`)
+      if (langs[key].length > 30) {
+        errorMessages.push(`Lang: '${langName}', String: '${key}' exeeds 30 characters '${langs[key].length}'`)
       }
   })
   expect(errorMessages).toEqual([])

@@ -59,6 +59,10 @@ textStringsTypes.forEach(textStringsType => {
           }
         })
       })
+      xit('all task templates should not exceed 30 chars', () => {
+        // TODO add slack chanell omit PLZ_CHECK and PLZ_TRANSLATE
+        checkTemplateLenght(textStrings[textStringsType][lang], lang)
+      })
 
       if (textStringsType === 'templates')
         it('Should include template rule', () => {
