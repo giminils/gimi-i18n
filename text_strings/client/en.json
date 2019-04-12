@@ -2442,5 +2442,9 @@
   "parent_home_add_more_kids_section_add_button": "Invite children",
   "parent_home_add_more_kids_section_remove_button": "No more children",
   "onfido_confirmation_success_title": "Well done!",
-  "onfido_confirmation_success_desc": "The verification check can be real quick, but in some cases in can take up to 2 hours. We'll let you know when it's done and you can order the card!"
+  "onfido_confirmation_success_desc": "The verification check can be real quick, but in some cases in can take up to 2 hours. We'll let you know when it's done and you can order the card!",
+  "archive_chore_approved": "Approved",
+  "archive_chore_rejected": "Rejected",
+  "archive_chore_pending_approval": "Waiting for approval",
+  "archive_chore_not_completed": "Not completed"
 }
