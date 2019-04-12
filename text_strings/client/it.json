@@ -2440,5 +2440,7 @@
   "premium_settings_row": "PLZ_TRANSLATE Gimi Premium",
   "parent_home_add_more_kids_section_title": "PLZ_TRANSLATE Add more children!",
   "parent_home_add_more_kids_section_add_button": "PLZ_TRANSLATE Invite children",
-  "parent_home_add_more_kids_section_remove_button": "PLZ_TRANSLATE No more children"
+  "parent_home_add_more_kids_section_remove_button": "PLZ_TRANSLATE No more children",
+  "onfido_confirmation_success_title": "PLZ_TRANSLATE Well done!",
+  "onfido_confirmation_success_desc": "PLZ_TRANSLATE The verification check can be real quick, but in some cases in can take up to 2 hours. We'll let you know when it's done and you can order the card!"
 }
