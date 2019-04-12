@@ -333,5 +333,7 @@
   "ADPRRE030_notification_title": "{child.nickname} is requesting money!",
   "ADPRRE030_push_title": "{child.nickname} is requesting money!",
   "ADPRPU003_notification_title": "Card purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname} because the card is locked",
-  "ADPRPU003_push_title": "🚫 Card purchase was declined for {child.nickname}! Card is locked"
+  "ADPRPU003_push_title": "🚫 Card purchase was declined for {child.nickname}! Card is locked",
+  "CHGERE023_notification_title": "{assignment.task.title} has been approved!",
+  "CHGERE023_push_title": "{assignment.task.title} has been approved!"
 }
