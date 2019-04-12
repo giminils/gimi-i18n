@@ -2293,7 +2293,7 @@
   "onfido_verification_error_title": "Vi kunde inte verifiera din identitet",
   "onfido_verification_error_subtitle": "Identitetsverifieringen med ditt ID-kort fungerade inte. Vill du försöka verifiera dig med BankID istället?",
   "general_ok_lets_do_it": "OK, jag testar!",
-  "by_name": "%1$d",
+  "by_name": "Av %1$d",
   "general_months": "Månader",
   "general_var_per_month": "%1$d/månad",
   "iap_general_error": "Något är fel! Vi lyckades inte hämta våra prenumerationer.",
