@@ -335,5 +335,7 @@
   "ADPRPU003_notification_title": "PLZ_CHECK Card purchase at {pfstransactionstatement.merchant_name} was declined for {child.nickname} because the card is locked",
   "ADPRPU003_push_title": "PLZ_CHECK 🚫 Card purchase was declined for {child.nickname}! Card is locked",
   "CHGERE023_notification_title": "PLZ_CHECK {assignment.task.title} has been approved!",
-  "CHGERE023_push_title": "PLZ_CHECK {assignment.task.title} has been approved!"
+  "CHGERE023_push_title": "PLZ_CHECK {assignment.task.title} has been approved!",
+  "ADGERE038_notification_title": "PLZ_CHECK {assignment.task.title} done by {child.nickname} has been auto-approved!",
+  "ADGERE038_push_title": "PLZ_CHECK {assignment.task.title} had been auto-approved!"
 }
