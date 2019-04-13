@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "You need an app passcode for this, set it up now!",
   "need_passcode_err_container_button": "Add passcode",
   "premium_deposit_confirmation_title": "You deposited %1$d to %2$d",
-  "premium_deposit_confirmation_desc": "PLZ_COPY Money successfully deposited and received!",
+  "premium_deposit_confirmation_desc": "Money successfully deposited and received!",
   "ok_back": "OK, back",
   "no_parent_no_chores_title": "Oh no! You need some supporters...",
   "no_parent_no_chores_desc": "You can't start doing chores and earning money before your have supporters who will pay you. ",

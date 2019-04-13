@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "Du trenger et app-passord for dette, lag det nå!",
   "need_passcode_err_container_button": "Legg til passordkode",
   "premium_deposit_confirmation_title": "Du satte inn %1$d til %2$d",
-  "premium_deposit_confirmation_desc": "Innskuddet var veldig vellykket! Penger er allerede på sparekontoen.",
+  "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Money successfully deposited and received!",
   "ok_back": "OK, tilbake",
   "no_parent_no_chores_title": "Å nei! Du trenger noen støttespillere ...",
   "no_parent_no_chores_desc": "Du kan ikke begynne å gjøre oppgaver og tjene penger før du har støttespillere som vil betale deg. ",

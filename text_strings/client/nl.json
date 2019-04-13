@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "Je hebt een app pincode hiervoor nodig. Stel die nu in!",
   "need_passcode_err_container_button": "Voeg pincode toe",
   "premium_deposit_confirmation_title": "Je hebt %1$d gestort op %2$d",
-  "premium_deposit_confirmation_desc": "Storting was erg succesvol! Het geld staat al op de spaarrekening.",
+  "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Money successfully deposited and received!",
   "ok_back": "Oke, terug",
   "no_parent_no_chores_title": "Oh nee! Je hebt enkele supporters nodig...",
   "no_parent_no_chores_desc": "Je kunt niet beginnen met klusjes en geld verdienen als je geen supporters hebt die je betalen. ",

@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "Necesitas una contraseña en la aplicación para esto, ¡configúrala ahora!",
   "need_passcode_err_container_button": "Añade una contraseña",
   "premium_deposit_confirmation_title": "Depositaste %1$d a %2$d",
-  "premium_deposit_confirmation_desc": "¡El depósito fue exitoso! El dinero ya está en la cuenta de ahorros.",
+  "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Money successfully deposited and received!",
   "ok_back": "Ok, atrás",
   "no_parent_no_chores_title": "¡Oh no! Necesitas algunos colaboradores...",
   "no_parent_no_chores_desc": "No puedes comenzar a hacer tareas y ganar dinero antes de que tengas colaboradores que te paguen.",

@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "Ti serve un codice di accesso per l'app per questo, impostalo ora!",
   "need_passcode_err_container_button": "Aggiungi codice di accesso",
   "premium_deposit_confirmation_title": "Hai depositato %1$d a %2$d",
-  "premium_deposit_confirmation_desc": "Il deposito è stato completato con successo! I soldi sono già nel conto dei risparmi.",
+  "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Money successfully deposited and received!",
   "ok_back": "OK, indietro",
   "no_parent_no_chores_title": "Oh no! Ti servono dei sostenitori...",
   "no_parent_no_chores_desc": "Non puoi iniziare a svolgere faccende e guadagnare soldi prima di avere dei sostenitori che ti paghino. ",

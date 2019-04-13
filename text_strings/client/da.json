@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "Du skal bruge en app kode for dette, sæt den op nu!",
   "need_passcode_err_container_button": "Tilføj kode",
   "premium_deposit_confirmation_title": "Du har indbetalt %1$d til %2$d",
-  "premium_deposit_confirmation_desc": "Indbetalingen var meget succesfuld! Pengene er allerede på opsparingskontoen.",
+  "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Money successfully deposited and received!",
   "ok_back": "OK, tilbage",
   "no_parent_no_chores_title": "Oh nej! Du skal bruge nogle supportere...",
   "no_parent_no_chores_desc": "Du kan ikke starte med at udføre opgaver og tjene penge før du supportere, der vil betale dig. ",

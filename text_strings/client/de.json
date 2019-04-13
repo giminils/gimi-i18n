@@ -2159,7 +2159,7 @@
   "need_passcode_err_container_text": "Du brauchst einen Sicherheitscode für die App, richte ihn jetzt ein!",
   "need_passcode_err_container_button": "Sicherheitscode hinzufügen",
   "premium_deposit_confirmation_title": "Du hast %1$d an %2$d überwiesen",
-  "premium_deposit_confirmation_desc": "Überweisung war erfolgreich! Das Geld ist bereits auf dem Sparkonto.",
+  "premium_deposit_confirmation_desc": "PLZ_TRANSLATE Money successfully deposited and received!",
   "ok_back": "Ok, zurück",
   "no_parent_no_chores_title": "Oh nein! Du brauchst Unterstützer...",
   "no_parent_no_chores_desc": "Ohne Unterstützer kannst Du keine Aufgaben erledigen und auch nicht anfangen zu sparen. ",
