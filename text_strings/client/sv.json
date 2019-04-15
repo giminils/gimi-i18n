@@ -2447,5 +2447,6 @@
   "archive_chore_rejected": "Inte godkänd",
   "archive_chore_pending_approval": "Väntar på godkännande",
   "archive_chore_not_completed": "Ej klar",
-  "kid_card_action_button_request_money": "PLZ_CHECK Request"
+  "kid_card_action_button_request_money": "PLZ_CHECK Request",
+  "kid_settings_card_test_button": "PLZ_CHECK Do the card test"
 }

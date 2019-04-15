@@ -2447,5 +2447,6 @@
   "archive_chore_rejected": "Rejected",
   "archive_chore_pending_approval": "Waiting for approval",
   "archive_chore_not_completed": "Not completed",
-  "kid_card_action_button_request_money": "Request"
+  "kid_card_action_button_request_money": "Request",
+  "kid_settings_card_test_button": "Do the card test"
 }
