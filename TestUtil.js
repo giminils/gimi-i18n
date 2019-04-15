@@ -57,8 +57,8 @@ export let findDuplicateJSONKeys = (fileText: Array<Object>, errors: Array<*>) =
 }
 
 export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
-  var keys = Object.keys(firstLang)
-  var errorMessages = []
+  let keys = Object.keys(firstLang)
+  let errorMessages = []
   keys.forEach(key => {
     if (!IgnoredTextStrings.includes(key)) {
       if (firstLang[key] === undefined) return true
@@ -73,14 +73,14 @@ export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLan
 }
 
 let testCompareKeysWithinTextString = (textString1: string, textString2: string, textStringName: string) => {
-  var keys1 = textString1.match(/\{(.*?)\}/g) || []
-  var keys2 = textString2.match(/\{(.*?)\}/g) || []
+  let keys1 = textString1.match(/\{(.*?)\}/g) || []
+  let keys2 = textString2.match(/\{(.*?)\}/g) || []
 
   // remove :possessive
   keys1 = keys1.map((key) => key.replace(':possessive', ''))
   keys2 = keys2.map((key) => key.replace(':possessive', ''))
 
-  var errorMessages = keys1.map(key1 => {
+  let errorMessages = keys1.map(key1 => {
     if (key1.indexOf(' ') !== -1)
       return undefined
 
@@ -90,24 +90,24 @@ let testCompareKeysWithinTextString = (textString1: string, textString2: string,
     return undefined
   })
 
-  var errorMessage = errorMessages.find(errorMessage => errorMessage !== undefined)
+  let errorMessage = errorMessages.find(errorMessage => errorMessage !== undefined)
 
   return errorMessage
 }
 
 export let compareKeysWithinTextStrings = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
-  var keys = Object.keys(firstLang)
+  let keys = Object.keys(firstLang)
   keys.forEach(key => {
-    var errorMessage
+    let errorMessage
     errorMessage = testCompareKeysWithinTextString(firstLang[key], secondLang[key], key)
     expect(errorMessage).toEqual(undefined)
   })
 }
 
 export let checkTemplateLenght = (langs: Object, langName: string = '') => {
-  var keys = Object.keys(langs)
-  var patternTemplates = 'template_title'
-  var errorMessages = []
+  let keys = Object.keys(langs)
+  let patternTemplates = 'template_title'
+  let errorMessages = []
   keys.forEach(key => {
     if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key)) {
       langs[key] = langs[key].replace(PLZ_TRANSLATE, '').replace(PLZ_CHECK, '')
@@ -120,8 +120,8 @@ export let checkTemplateLenght = (langs: Object, langName: string = '') => {
 }
 
 export let checkTemplateRule = (langs: Object, langName: string = '') => {
-  var keys = Object.keys(langs)
-  var errorMessages = []
+  let keys = Object.keys(langs)
+  let errorMessages = []
 
   serverTextStringNames.forEach((serverSring) => {
     keys.forEach((key) => {
@@ -136,8 +136,8 @@ export let checkTemplateRule = (langs: Object, langName: string = '') => {
 }
 
 export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
-  var keys = Object.keys(firstLang)
-  var errorMessages = []
+  let keys = Object.keys(firstLang)
+  let errorMessages = []
 
   keys.forEach(key => {
     // if (firstLang[key].includes(PLZ_CHECK)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${PLZ_CHECK}`)
@@ -149,17 +149,17 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
 }
 
 export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Array<Object> => {
-  var keys = Object.keys(firstLang)
+  let keys = Object.keys(firstLang)
 
-  var longTextWarning = []
-  var longTextSlackData = []
+  let longTextWarning = []
+  let longTextSlackData = []
   keys.forEach(key => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
       if (secondLang[key].includes(PLZ_TRANSLATE)) secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
-      var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
+      let differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.20) {
-        var actIncr = Math.abs(differencePerc)
+        let actIncr = Math.abs(differencePerc)
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
         longTextSlackData.push({lang: firstLangName, title: key, secLang: secondLangName, value: differencePerc, short: true})
       }
@@ -175,10 +175,10 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
 }
 
 export let countTranslationTemplates = (lang: Object, langName: string): Object => {
-  var keys = Object.keys(lang)
+  let keys = Object.keys(lang)
 
-  var countUsesCheck = []
-  var countUsesTranslate = []
+  let countUsesCheck = []
+  let countUsesTranslate = []
   keys.forEach(key => {
     if (lang[key].includes(PLZ_TRANSLATE))
       countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
@@ -190,20 +190,20 @@ export let countTranslationTemplates = (lang: Object, langName: string): Object 
 }
 
 export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Object => {
-  var keys = Object.keys(firstLang)
+  let keys = Object.keys(firstLang)
 
-  var longTextWarning = []
-  var longTextSlackData = []
-  var veryLongText = false
+  let longTextWarning = []
+  let longTextSlackData = []
+  let veryLongText = false
   keys.forEach(key => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
       if (secondLang[key].includes(PLZ_TRANSLATE)) secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
-      var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
+      let differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.25) {
         if (Math.abs(differencePerc) >= 0.80) veryLongText = true
         differencePerc = differencePerc * 100
-        var actIncr = Math.abs(differencePerc) + '%'
+        let actIncr = Math.abs(differencePerc) + '%'
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
         longTextSlackData.push({title: key, value: actIncr, short: true})
       }
@@ -213,11 +213,11 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
 }
 
 export let stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string): Object => {
-  var keys = Object.keys(lang)
-  var numberPlzCheck = 0
-  var numberPlzTransalte = 0
-  var numberAnnaTranslation = 0
-  var numberEmmaStrings = 0
+  let keys = Object.keys(lang)
+  let numberPlzCheck = 0
+  let numberPlzTransalte = 0
+  let numberAnnaTranslation = 0
+  let numberEmmaStrings = 0
   keys.forEach(key => {
     if (languageCode) {
       if (lang[key].includes(PLZ_CHECK)) numberPlzCheck++
@@ -230,9 +230,9 @@ export let stringTranslationTags = (lang: Object, languageCode: string, textStri
 }
 
 export let searchPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {
-  var keys = Object.keys(lang)
-  var arrayPlzTranslate = []
-  var numberPlzTransalte = 0
+  let keys = Object.keys(lang)
+  let arrayPlzTranslate = []
+  let numberPlzTransalte = 0
   keys.forEach(key => {
     if (languageCode)
       if (lang[key].includes(PLZ_TRANSLATE)) {
@@ -244,9 +244,9 @@ export let searchPlzTranslate = (lang: Object, languageCode: string, textStrings
 }
 
 export let searchPlzCopy = (lang: Object, languageCode: string, textStringsType: string): Object => {
-  var keys = Object.keys(lang)
+  let keys = Object.keys(lang)
 
-  var arrayPlzCopy = []
+  let arrayPlzCopy = []
 
   let numberPlzCopy = 0
   keys.forEach(key => {
@@ -259,9 +259,9 @@ export let searchPlzCopy = (lang: Object, languageCode: string, textStringsType:
   return {data: arrayPlzCopy, plzCopy: numberPlzCopy}
 }
 export let checkStringEmptySpace = (lang: Object, languageCode: string, textStringsType: string): Object => {
-  var keys = Object.keys(lang)
+  let keys = Object.keys(lang)
 
-  var arrayEmptySpace = []
+  let arrayEmptySpace = []
 
   let numberEmptySpace = 0
   keys.forEach(key => {
@@ -274,9 +274,9 @@ export let checkStringEmptySpace = (lang: Object, languageCode: string, textStri
   return {data: arrayEmptySpace, countStartsEmptySpace: numberEmptySpace}
 }
 export let searchBreakingSymbols = (lang: Object, languageCode: string, textStringsType: string): Object => {
-  var keys = Object.keys(lang)
-  var arrayBreakingSymbols = []
-  var numberBreakingSymbols = 0
+  let keys = Object.keys(lang)
+  let arrayBreakingSymbols = []
+  let numberBreakingSymbols = 0
   keys.forEach(key => {
     if (languageCode)
       if (lang[key].includes('&#')) {
@@ -287,9 +287,9 @@ export let searchBreakingSymbols = (lang: Object, languageCode: string, textStri
   return {data: arrayBreakingSymbols, count: numberBreakingSymbols}
 }
 export let checkUpperCaseLetters = (lang: Object, languageCode: string, textStringsType: string): Object => {
-  var keys = Object.keys(lang)
-  var arrayUpperCase = []
-  var numberUpperCaseKeys = 0
+  let keys = Object.keys(lang)
+  let arrayUpperCase = []
+  let numberUpperCaseKeys = 0
   keys.forEach(key => {
     if (hasUpperCase(key)) {
       numberUpperCaseKeys++
