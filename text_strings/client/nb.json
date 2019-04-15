@@ -2446,5 +2446,6 @@
   "archive_chore_approved": "PLZ_TRANSLATE Approved",
   "archive_chore_rejected": "PLZ_TRANSLATE Rejected",
   "archive_chore_pending_approval": "PLZ_TRANSLATE Waiting for approval",
-  "archive_chore_not_completed": "PLZ_TRANSLATE Not completed"
+  "archive_chore_not_completed": "PLZ_TRANSLATE Not completed",
+  "kid_card_action_button_request_money": "PLZ_TRANSLATE Request"
 }

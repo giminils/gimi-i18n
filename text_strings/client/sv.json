@@ -2446,5 +2446,6 @@
   "archive_chore_approved": "PLZ_CHECK Approved",
   "archive_chore_rejected": "PLZ_CHECK Rejected",
   "archive_chore_pending_approval": "PLZ_CHECK Waiting for approval",
-  "archive_chore_not_completed": "PLZ_CHECK Not completed"
+  "archive_chore_not_completed": "PLZ_CHECK Not completed",
+  "kid_card_action_button_request_money": "PLZ_CHECK Request"
 }
