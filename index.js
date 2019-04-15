@@ -151,14 +151,14 @@ export let removeTranslationHelpers = (text: string): string => {
   text = text.replace(/\[.*?\]/g, '').trim()
   text = text.replace(new RegExp(translationHelpTemplate, 'g'), '')
   text = text.replace(new RegExp(translationHelperEMMA, 'g'), '')
-  text = text.replace(new RegExp(birgittaTemplate, 'g'), '')
+  text = text.replace(new RegExp(PLZ_CHECK, 'g'), '')
   text = text.replace(new RegExp(liliTemplate, 'g'), '')
   text = text.trim()
   return text
 }
 
 export let translationHelpTemplate = 'PLZ_TRANSLATE'
-export let birgittaTemplate = 'PLZ_CHECK'
+export let PLZ_CHECK = 'PLZ_CHECK'
 export let liliTemplate = 'PLZ_COPY'
 export let translationHelperEMMA = 'EMMA'
 

@@ -9,11 +9,11 @@ export let serverTextStringNames = [
   'goal_group_description', 'goal_template_title',
   'goal_template_description'
 ]
-export let birgittaTemplate = 'PLZ_CHECK'
-export let plzTranslateTemplate = 'PLZ_TRANSLATE'
-export let annaTranslationTag = 'ANNA'
-export let emmaTranslationTag = 'EMMA'
-var ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
+export const PLZ_CHECK = 'PLZ_CHECK'
+export const PLZ_TRANSLATE = 'PLZ_TRANSLATE'
+let annaTranslationTag = 'ANNA'
+let emmaTranslationTag = 'EMMA'
+let ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
 export let compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
   let keys = Object.keys(firstLang)
@@ -109,10 +109,12 @@ export let checkTemplateLenght = (langs: Object, langName: string = '') => {
   var patternTemplates = 'template_title'
   var errorMessages = []
   keys.forEach(key => {
-    if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key))
-      if (langs[key].length > 30) {
+    if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key)) {
+      langs[key] = langs[key].replace(PLZ_TRANSLATE, '').replace(PLZ_CHECK, '')
+
+      if (langs[key].length > 30)
         errorMessages.push(`Lang: '${langName}', String: '${key}' exeeds 30 characters '${langs[key].length}'`)
-      }
+    }
   })
   expect(errorMessages).toEqual([])
 }
@@ -138,9 +140,9 @@ export let checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object
   var errorMessages = []
 
   keys.forEach(key => {
-    // if (firstLang[key].includes(birgittaTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${birgittaTemplate}`)
+    // if (firstLang[key].includes(PLZ_CHECK)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${PLZ_CHECK}`)
     // if (firstLang[key].startsWith(' ')) errorMessages.push(`lang: ${firstLangName} text_id:${key}  starts with a space`)
-    if (firstLangName === 'en' && firstLang[key].includes(plzTranslateTemplate)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${plzTranslateTemplate}`)
+    if (firstLangName === 'en' && firstLang[key].includes(PLZ_TRANSLATE)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${PLZ_TRANSLATE}`)
   })
 
   return errorMessages
@@ -153,7 +155,7 @@ export let checkStringLenght = (firstLang: Object, secondLang: Object, firstLang
   var longTextSlackData = []
   keys.forEach(key => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
-      if (secondLang[key].includes(plzTranslateTemplate)) secondLang[key] = secondLang[key].replace(plzTranslateTemplate, '')
+      if (secondLang[key].includes(PLZ_TRANSLATE)) secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
       var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.20) {
@@ -178,10 +180,10 @@ export let countTranslationTemplates = (lang: Object, langName: string): Object 
   var countUsesCheck = []
   var countUsesTranslate = []
   keys.forEach(key => {
-    if (lang[key].includes(plzTranslateTemplate))
+    if (lang[key].includes(PLZ_TRANSLATE))
       countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
 
-    if (lang[key].includes(birgittaTemplate))
+    if (lang[key].includes(PLZ_CHECK))
       countUsesCheck.push(`Lang: ${langName}, Key: ${key}`)
   })
   return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
@@ -195,7 +197,7 @@ export let stringLenghtStatistic = (firstLang: Object, secondLang: Object, first
   var veryLongText = false
   keys.forEach(key => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
-      if (secondLang[key].includes(plzTranslateTemplate)) secondLang[key] = secondLang[key].replace(plzTranslateTemplate, '')
+      if (secondLang[key].includes(PLZ_TRANSLATE)) secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
       var differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.25) {
@@ -218,8 +220,8 @@ export let stringTranslationTags = (lang: Object, languageCode: string, textStri
   var numberEmmaStrings = 0
   keys.forEach(key => {
     if (languageCode) {
-      if (lang[key].includes(birgittaTemplate)) numberPlzCheck++
-      if (lang[key].includes(plzTranslateTemplate)) numberPlzTransalte++
+      if (lang[key].includes(PLZ_CHECK)) numberPlzCheck++
+      if (lang[key].includes(PLZ_TRANSLATE)) numberPlzTransalte++
       if (lang[key].includes(annaTranslationTag)) numberAnnaTranslation++
       if (lang[key].includes(emmaTranslationTag)) numberEmmaStrings++
     }
@@ -233,7 +235,7 @@ export let searchPlzTranslate = (lang: Object, languageCode: string, textStrings
   var numberPlzTransalte = 0
   keys.forEach(key => {
     if (languageCode)
-      if (lang[key].includes(plzTranslateTemplate)) {
+      if (lang[key].includes(PLZ_TRANSLATE)) {
         numberPlzTransalte++
         arrayPlzTranslate.push({key: key, lang: languageCode, path: textStringsType})
       }
