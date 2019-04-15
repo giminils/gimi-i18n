@@ -2448,5 +2448,6 @@
   "archive_chore_pending_approval": "PLZ_TRANSLATE Waiting for approval",
   "archive_chore_not_completed": "PLZ_TRANSLATE Not completed",
   "kid_card_action_button_request_money": "PLZ_TRANSLATE Request",
-  "kid_settings_card_test_button": "PLZ_TRANSLATE Do the card test"
+  "kid_settings_card_test_button": "PLZ_TRANSLATE Do the card test",
+  "transaction_refund_title": "PLZ_TRANSLATE Refund from %1$d"
 }
