@@ -2253,7 +2253,7 @@
   "testable_component_text_string": "Les tests sont bons!",
   "testable_component_text_string_header": "En-tête testable!",
   "connections_connected_supporters": "supporteurs connectés",
-  "childsetup_confirmation_tinder_card_title": "Bravo! 	Les paramètres pour votre enfant sont enregistrés!",
+  "childsetup_confirmation_tinder_card_title": "Bravo! Les paramètres pour votre enfant sont enregistrés!",
   "childsetup_confirmation_tinder_card_subtitle": "Vous pouvez commencer à apprécier Gimi avec %1$d!",
   "share_earn_education_chapter_title": "Chapitre des revenus terminé!",
   "share_save_education_chapter_title": "Chapitre des économies terminé!",
@@ -2446,5 +2446,6 @@
   "archive_chore_approved": "Approuvé",
   "archive_chore_rejected": "refusé",
   "archive_chore_pending_approval": "En attente d'approbation",
-  "archive_chore_not_completed": "Non achevé"
+  "archive_chore_not_completed": "Non achevé",
+  "kid_card_action_button_request_money": "PLZ_TRANSLATE Request"
 }
