@@ -2450,5 +2450,6 @@
   "kid_card_action_button_request_money": "PLZ_TRANSLATE Request",
   "kid_settings_card_test_button": "PLZ_TRANSLATE Ready for a Gimi card?",
   "transaction_refund_title": "PLZ_TRANSLATE Refund from %1$d",
-  "transaction_deposit_title": "PLZ_TRANSLATE Deposit from %1$d"
+  "transaction_deposit_title": "PLZ_TRANSLATE Deposit from %1$d",
+  "payout_summary_transfer_now": "PLZ_TRANSLATE Transfer now"
 }

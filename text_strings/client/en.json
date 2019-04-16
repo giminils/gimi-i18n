@@ -2450,5 +2450,6 @@
   "kid_card_action_button_request_money": "Request",
   "kid_settings_card_test_button": "Ready for a Gimi card?",
   "transaction_refund_title": "Refund from %1$d",
-  "transaction_deposit_title": "Deposit from %1$d"
+  "transaction_deposit_title": "Deposit from %1$d",
+  "payout_summary_transfer_now": "Transfer now"
 }
