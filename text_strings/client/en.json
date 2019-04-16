@@ -2448,6 +2448,6 @@
   "archive_chore_pending_approval": "Waiting for approval",
   "archive_chore_not_completed": "Not completed",
   "kid_card_action_button_request_money": "Request",
-  "kid_settings_card_test_button": "PLZ_COPY Ready for a Gimi card?",
+  "kid_settings_card_test_button": "Ready for a Gimi card?",
   "transaction_refund_title": "Refund from %1$d"
 }

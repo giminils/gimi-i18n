@@ -2448,6 +2448,6 @@
   "archive_chore_pending_approval": "Väntar på godkännande",
   "archive_chore_not_completed": "Ej klar",
   "kid_card_action_button_request_money": "Be om",
-  "kid_settings_card_test_button": "Redo för ett Gimi-kort?",
+  "kid_settings_card_test_button": "PLZ_CHECK Ready for a Gimi card?",
   "transaction_refund_title": "Återbetalning från %1$d"
 }
