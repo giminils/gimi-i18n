@@ -2454,5 +2454,7 @@
   "payout_summary_transfer_now": "Överför nu",
   "kyc_success_message": "PLZ_CHECK Identity verified",
   "kyc_pending_message": "PLZ_CHECK Pending identity check",
-  "kyc_failed_message": "PLZ_CHECK Identity Could not be verified"
+  "kyc_failed_message": "PLZ_CHECK Identity Could not be verified",
+  "access_card_settings_error_title": "PLZ_CHECK You don’t have access",
+  "access_card_settings_error_desc": "PLZ_CHECK For our users security, only the parent who ordered the card can access card settings."
 }
