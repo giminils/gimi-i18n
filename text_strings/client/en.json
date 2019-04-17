@@ -2451,5 +2451,8 @@
   "kid_settings_card_test_button": "Ready for a Gimi card?",
   "transaction_refund_title": "Refund from %1$d",
   "transaction_deposit_title": "Deposit from %1$d",
-  "payout_summary_transfer_now": "Transfer now"
+  "payout_summary_transfer_now": "Transfer now",
+  "kyc_success_message": "Identity verified",
+  "kyc_pending_message": "Pending identity check",
+  "kyc_failed_message": "Identity Could not be verified"
 }

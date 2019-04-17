@@ -2451,5 +2451,8 @@
   "kid_settings_card_test_button": "PLZ_TRANSLATE Ready for a Gimi card?",
   "transaction_refund_title": "PLZ_TRANSLATE Refund from %1$d",
   "transaction_deposit_title": "PLZ_TRANSLATE Deposit from %1$d",
-  "payout_summary_transfer_now": "PLZ_TRANSLATE Transfer now"
+  "payout_summary_transfer_now": "PLZ_TRANSLATE Transfer now",
+  "kyc_success_message": "PLZ_TRANSLATE Identity verified",
+  "kyc_pending_message": "PLZ_TRANSLATE Pending identity check",
+  "kyc_failed_message": "PLZ_TRANSLATE Identity Could not be verified"
 }

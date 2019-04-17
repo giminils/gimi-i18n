@@ -2451,5 +2451,8 @@
   "kid_settings_card_test_button": "Redo för ett Gimi-kort?",
   "transaction_refund_title": "Återbetalning från %1$d",
   "transaction_deposit_title": "Insättning från %1$d",
-  "payout_summary_transfer_now": "Överför nu"
+  "payout_summary_transfer_now": "Överför nu",
+  "kyc_success_message": "PLZ_CHECK Identity verified",
+  "kyc_pending_message": "PLZ_CHECK Pending identity check",
+  "kyc_failed_message": "PLZ_CHECK Identity Could not be verified"
 }
