@@ -2293,7 +2293,7 @@
   "onfido_verification_error_title": "Vi kunde inte verifiera din identitet",
   "onfido_verification_error_subtitle": "Identitetsverifieringen med ditt ID-kort fungerade inte. Vill du försöka verifiera dig med BankID istället?",
   "general_ok_lets_do_it": "OK, jag testar!",
-  "by_name": "Av %1$d",
+  "by_name": "Aktiverat av %1$d",
   "general_months": "Månader",
   "general_var_per_month": "%1$d/månad",
   "iap_general_error": "Något är fel! Vi lyckades inte hämta våra prenumerationer.",
@@ -2448,8 +2448,8 @@
   "archive_chore_pending_approval": "Väntar på godkännande",
   "archive_chore_not_completed": "Ej klar",
   "kid_card_action_button_request_money": "Be om",
-  "kid_settings_card_test_button": "PLZ_CHECK Ready for a Gimi card?",
+  "kid_settings_card_test_button": "Redo för ett Gimi-kort?",
   "transaction_refund_title": "Återbetalning från %1$d",
-  "transaction_deposit_title": "PLZ_CHECK Deposit from %1$d",
-  "payout_summary_transfer_now": "PLZ_CHECK Transfer now"
+  "transaction_deposit_title": "Insättning från %1$d",
+  "payout_summary_transfer_now": "Överför nu"
 }
