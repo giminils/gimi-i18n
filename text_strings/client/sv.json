@@ -2457,5 +2457,6 @@
   "kyc_failed_message": "PLZ_CHECK Identity Could not be verified",
   "access_card_settings_error_title": "PLZ_CHECK You don’t have access",
   "access_card_settings_error_desc": "PLZ_CHECK For our users security, only the parent who ordered the card can access card settings.",
-  "general_change_kid": "PLZ_CHECK Change child"
+  "general_change_kid": "PLZ_CHECK Change child",
+  "order_card_for_n_title": "PLZ_CHECK Get the Gimi card for %1$d"
 }

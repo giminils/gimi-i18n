@@ -2457,5 +2457,6 @@
   "kyc_failed_message": "Identity Could not be verified",
   "access_card_settings_error_title": "You don’t have access",
   "access_card_settings_error_desc": "For our users security, only the parent who ordered the card can access card settings.",
-  "general_change_kid": "Change child"
+  "general_change_kid": "Change child",
+  "order_card_for_n_title": "Get the Gimi card for %1$d"
 }
