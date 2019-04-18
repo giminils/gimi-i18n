@@ -2458,5 +2458,7 @@
   "access_card_settings_error_title": "PLZ_TRANSLATE You don’t have access",
   "access_card_settings_error_desc": "PLZ_TRANSLATE For our users security, only the parent who ordered the card can access card settings.",
   "general_change_kid": "PLZ_TRANSLATE Change child",
-  "order_card_for_n_title": "PLZ_TRANSLATE Get the Gimi card for %1$d"
+  "order_card_for_n_title": "PLZ_TRANSLATE Get the Gimi card for %1$d",
+  "premium_payday_deposit_confirmation_title": "PLZ_TRANSLATE Deposit was successful!",
+  "premium_payday_deposit_confirmation_desc": "PLZ_TRANSLATE Money is already on the card"
 }
