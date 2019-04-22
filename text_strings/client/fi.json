@@ -2460,5 +2460,8 @@
   "general_change_kid": "Vaihda lasta",
   "order_card_for_n_title": "Tilaa Gimi-kortti käyttäjälle %1$d",
   "premium_payday_deposit_confirmation_title": "Talletus onnistui!",
-  "premium_payday_deposit_confirmation_desc": "Rahat ovat jo kortilla"
+  "premium_payday_deposit_confirmation_desc": "Rahat ovat jo kortilla",
+  "photo_permissions_restricted": "Access to gallery was restricted",
+  "contacts_permissions_restricted": "Access to contacts were restricted",
+  "camera_permissions_restricted": "Access to camera was restricted"
 }

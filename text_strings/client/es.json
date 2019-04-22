@@ -2460,5 +2460,8 @@
   "general_change_kid": "PLZ_TRANSLATE Change child",
   "order_card_for_n_title": "PLZ_TRANSLATE Get the Gimi card for %1$d",
   "premium_payday_deposit_confirmation_title": "PLZ_TRANSLATE Deposit was successful!",
-  "premium_payday_deposit_confirmation_desc": "PLZ_TRANSLATE Money is already on the card"
+  "premium_payday_deposit_confirmation_desc": "PLZ_TRANSLATE Money is already on the card",
+  "photo_permissions_restricted": "Access to gallery was restricted",
+  "contacts_permissions_restricted": "Access to contacts were restricted",
+  "camera_permissions_restricted": "Access to camera was restricted"
 }
