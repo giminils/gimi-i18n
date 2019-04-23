@@ -2459,7 +2459,7 @@
   "access_card_settings_error_desc": "För våra användares säkerhet, kan bara den som beställde kortet komma åt inställningar för kortet.",
   "general_change_kid": "Byt barn",
   "order_card_for_n_title": "Beställ Gimi-kortet till %1$d",
-  "premium_payday_deposit_confirmation_title": "Insättning klar!",
+  "premium_payday_deposit_confirmation_title": "PLZ_CHECK You just transfered %1$d to %2$d",
   "premium_payday_deposit_confirmation_desc": "Pengarna är redan på kortet",
   "photo_permissions_restricted": "Access to gallery was restricted",
   "contacts_permissions_restricted": "Access to contacts were restricted",
