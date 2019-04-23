@@ -2463,5 +2463,6 @@
   "premium_payday_deposit_confirmation_desc": "Money is already on the card",
   "photo_permissions_restricted": "Access to gallery was restricted",
   "contacts_permissions_restricted": "Access to contacts were restricted",
-  "camera_permissions_restricted": "Access to camera was restricted"
+  "camera_permissions_restricted": "Access to camera was restricted",
+  "no_digits_error": "no digits supported in input"
 }
