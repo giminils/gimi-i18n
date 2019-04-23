@@ -2464,5 +2464,5 @@
   "photo_permissions_restricted": "Access to gallery was restricted",
   "contacts_permissions_restricted": "Access to contacts were restricted",
   "camera_permissions_restricted": "Access to camera was restricted",
-  "no_digits_error": "PLZ_CHECK no digits supported in input"
+  "no_digits_error": "Inga siffror i kommentaren..."
 }
