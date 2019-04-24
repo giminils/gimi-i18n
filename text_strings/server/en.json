@@ -116,7 +116,6 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} has completed {assignment.task.title}",
   "event_done_with_chore_child": "You are done with {assignment.task.title}",
   "push_payday_child": "Payday! You got money!",
-  "push_received_first_money": "You got your first payment!",
   "push_suggest_chore_to_parents": "Want to earn more money? Suggest a chore!",
   "push_x_days_until_payday": "{x} days until Payday! Do some chores and earn more money!",
   "push_checkout_balance": "Check your savings and see if your money is growing!",
