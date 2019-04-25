@@ -11,7 +11,7 @@
   "numberInputMax": 99999,
   "numberInputMin": -99999,
   "animationValueMultiplier": 1,
-  "numberOfDecimals": 0,
+  "numberOfDecimals": 2,
   "defaultDataTaskReward": 1,
   "prefix": "",
   "suffix": "kr",

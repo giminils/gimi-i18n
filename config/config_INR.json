@@ -11,7 +11,7 @@
   "numberInputMax": 9999,
   "numberInputMin": -9999,
   "animationValueMultiplier": 0.1,
-  "numberOfDecimals": 0,
+  "numberOfDecimals": 2,
   "defaultDataTaskReward": 1,
   "prefix": "₹",
   "suffix": "",
