@@ -71,6 +71,7 @@ describe('TextStrings', () => {
   })
 
   // Test for including all %1$d, %2$d, %3$d etc..
+  // pretty slow test, takes around 8 seconds at the time it was written
   let enTextStrings = getTextStrings('en')
   Object.keys(enTextStrings).forEach(key => {
     supportedLanguageCodes.forEach(compareLang => {
