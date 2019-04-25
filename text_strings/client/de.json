@@ -600,7 +600,7 @@
   "name_is_under_age": "%1$d ist nicht alt genug!",
   "n_per_year": "%1$d / Jahr",
   "or_n_per_month": "oder %1$d / Monat",
-  "confirm_person_age_title": "Ist es richtig, dass %1$d %1$d Jahre alt ist?",
+  "confirm_person_age_title": "Ist es richtig, dass %1$d %2$d Jahre alt ist?",
   "confirm_person_age_desc": "Sonst ändere das Geburtsdatum, damit es korrekt ist.",
   "set_card_name_title": "Welcher Name soll auf die Karte gedruckt werden?",
   "general_first_name": "Vorname",

@@ -1,6 +1,6 @@
 
 /* eslint no-console:0 */
-import {getTextStrings, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
+import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeys, findDuplicateKeyValues, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
@@ -67,6 +67,24 @@ describe('TextStrings', () => {
         supportedLanguageCodes.forEach(lang2 => {
           if (lang2 === 'en') compareDollarSigns(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2, '$s')
         })
+    })
+  })
+
+  // Test for including all %1$d, %2$d, %3$d etc..
+  let enTextStrings = getTextStrings('en')
+  Object.keys(enTextStrings).forEach(key => {
+    supportedLanguageCodes.forEach(compareLang => {
+      if (compareLang === 'en') return undefined
+      let testingString = getText(key, [], 'capitalize', enTextStrings)
+      let variableMatches = testingString.match(/%\d\$d/gm)
+      if (!variableMatches || variableMatches.length < 1) return undefined
+      let compareString = getText(key, [], 'capitalize', getTextStrings(compareLang))
+      return variableMatches.forEach(match => {
+        it(key + ' in ' + compareLang + '.json is missing ' + match, () => {
+          let includesVariableMatch = compareString.indexOf(match) >= 0
+          expect(includesVariableMatch).toEqual(true)
+        })
+      })
     })
   })
 
