@@ -2469,5 +2469,7 @@
   "chore_active_days:": "Activated",
   "pin_loading_screen_title_parent": "The code to the card...",
   "activate_card_show_pin_title_parent": "the PIN code for the card",
-  "activate_new_card_show_pin_title_parent": "the PIN code for the new card"
+  "activate_new_card_show_pin_title_parent": "the PIN code for the new card",
+  "too_many_premium_deposits_popover_title": "Too many deposits today",
+  "too_many_premium_deposits_popover_text": "There's a limit of 10 deposits per day and person."
 }
