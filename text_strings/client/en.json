@@ -1374,7 +1374,7 @@
   "qr_code_error": "something is broken... please try again later",
   "why_we_ask_for_phone": "Why do we need your number?",
   "explainer_why_phone_title": "Do we really need your phone number?",
-  "explainer_why_phone_desc": "Adults sign up with a phone number, but children without a phone can signup with email. We use your number for logging in and connecting you to your family!",
+  "explainer_why_phone_desc": "PLZ_COPY Adults need a phone number to signup, but children can use an email. We never use your number for marketing, or share it with 3rd parties !",
   "general_okay_nice": "OK, cool!",
   "payday_takeover_title_kid": "Payday!🎉",
   "payday_takeover_subtitle_kid": "You have earned...",
