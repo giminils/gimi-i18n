@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} heeft de spaarrekening verminderd met {transaction.str_value}",
   "push_withdrawal_parent": "{transaction.created_by.name} heeft {transaction.str_value} afgetrokken van {transaction.child.nickname}",
-  "push_assignment_created": "Joepie! Je kreeg een nieuwe klus",
+  "push_assignment_created": "PLZ_TRANSLATE You got new chore! 💪",
   "push_assignment_active_again": "Klus {assignment.task.title} is weer beschikbaar. Kom eens kijken!",
   "push_assignment_done": "{assignment.child.nickname} heeft nu {assignment.task.title} voltooid",
   "push_assignment_done_by_other": "Je was niet snel genoeg! {assignment.task.shared_task_completed_by} voerde {assignment.task.title} al uit",

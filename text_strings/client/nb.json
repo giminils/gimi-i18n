@@ -1866,7 +1866,7 @@
   "control_phone_no_subtitle": "Det ser ut som det er for mange eller for få nummer eller feil landskode",
   "open_bank_id_info": "Åpne BankID-appen hvis den ikke er åpnet allerede!",
   "savings_account_intro_title": "Spart fikk akkurat en oppdatering!",
-  "savings_account_intro_text": "Du kan nå sette inn ekte penger til denne kontoen. %1$d kan spare penger eller fylle på Gimi-kortet.",
+  "savings_account_intro_text": "PLZ_TRANSLATE %1$d can now save real money in this account, or top-up the Gimi card. Remember, you still pay the savings interest. ",
   "phone_verification_sent_to_kid_phone": " Verifiseringskode er sendt til ditt barns nye telefonnummer",
   "education_title": "Økter",
   "education_n_out_of_n_completed": "%1$d/%2$d fullført",

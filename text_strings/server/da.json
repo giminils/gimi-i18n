@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} fratrukket {transaction.str_value} fra opsparing",
   "push_withdrawal_parent": "{transaction.created_by.name} fratrukket {transaction.str_value} fra {transaction.child.nickname}",
-  "push_assignment_created": "Yihaa! Du har fået en ny opgave",
+  "push_assignment_created": "PLZ_TRANSLATE You got new chore! 💪",
   "push_assignment_active_again": "Opgaven {assignment.task.title} er tilgængelig igen. Først til mølle",
   "push_assignment_done": "{assignment.child.nickname} har lige udført {assignment.task.title}",
   "push_assignment_done_by_other": "Du var ikke hurtig nok! {assignment.task.shared_task_completed_by} udførte {assignment.task.title} før dig",

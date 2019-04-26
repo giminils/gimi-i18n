@@ -1866,7 +1866,7 @@
   "control_phone_no_subtitle": "Det lader til, at der er for mange eller for få tal, eller at der er tale om en forkert landekode",
   "open_bank_id_info": "Åben BankID hvis den ikke er åbnet endnu!",
   "savings_account_intro_title": "Opsparingen er lige blevet opgraderet!",
-  "savings_account_intro_text": "Du kan nu indbetale rigtige penge til denne konto. %1$d kan spare disse penge op eller or tanke Gimi-kortet op.",
+  "savings_account_intro_text": "PLZ_TRANSLATE %1$d can now save real money in this account, or top-up the Gimi card. Remember, you still pay the savings interest. ",
   "phone_verification_sent_to_kid_phone": "Verificeringskoden er sendt til dit barns nye telefonnummer",
   "education_title": "Sessioner",
   "education_n_out_of_n_completed": "%1$d/%2$d færdiggjort",

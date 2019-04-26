@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} detratto {transaction.str_value} dai risparmi",
   "push_withdrawal_parent": "{transaction.created_by.name} detratto {transaction.str_value} da {transaction.child.nickname}",
-  "push_assignment_created": "Hai un nuovo compito!Evviva",
+  "push_assignment_created": "PLZ_TRANSLATE You got new chore! 💪",
   "push_assignment_active_again": "Il compito di {assignment.task.title} è ora disponibile. Primo arrivato, primo servito",
   "push_assignment_done": "{assignment.child.nickname} ha eseguito il compito di {assignment.task.title}",
   "push_assignment_done_by_other": "Non sei stato abbastanza veloce! {assignment.task.shared_task_completed_by} ha finito il compito di {assignment.task.title} prima di te",

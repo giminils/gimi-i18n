@@ -1866,7 +1866,7 @@
   "control_phone_no_subtitle": "Sembrano esserci troppi numeri o troppo pochi, o il codice del paese è sbagliato",
   "open_bank_id_info": "Apri l'app BankID se non è ancora stata aperta!",
   "savings_account_intro_title": "I risparmi sono appena stati aggiornati!",
-  "savings_account_intro_text": "Ora puoi depositare soldi veri in questo conto.%1$d puoi risparmiare questi soldi o ricaricare la carta Gimi.",
+  "savings_account_intro_text": "PLZ_TRANSLATE %1$d can now save real money in this account, or top-up the Gimi card. Remember, you still pay the savings interest. ",
   "phone_verification_sent_to_kid_phone": "Il codice di verifica è stato inviato al nuovo numero di cellulare dei tuoi bambini",
   "education_title": "Sessioni",
   "education_n_out_of_n_completed": "%1$d/%2$d completato",

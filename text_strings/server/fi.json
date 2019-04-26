@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} nosti {transaction.str_value} säästöistä",
   "push_withdrawal_parent": "{transaction.created_by.name} nosti {transaction.str_value} lapsen {transaction.child.nickname} säästöistä",
-  "push_assignment_created": "Jihaa! Olet saanut uuden Askareen",
+  "push_assignment_created": "PLZ_TRANSLATE You got new chore! 💪",
   "push_assignment_active_again": "Askare {assignment.task.title} on taas saatavilla. Kuka ehtii ensin?",
   "push_assignment_done": "{assignment.child.nickname} suoritti juuri askareen {assignment.task.title}",
   "push_assignment_done_by_other": "Nyt et ollut tarpeeksi nopea! {assignment.task.shared_task_completed_by} ehti ensin ({assignment.task.title})",

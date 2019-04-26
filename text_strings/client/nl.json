@@ -1866,7 +1866,7 @@
   "control_phone_no_subtitle": "Het zijn teveel of te weinig cijfers of de verkeerde landcode",
   "open_bank_id_info": "Open de BankID app als die nog niet geopend is!",
   "savings_account_intro_title": "Spaargeld heeft net een upgrade gekregen!",
-  "savings_account_intro_text": "Je kunt nu echt geld op deze rekening storten.%1$d kan dit geld sparten of de Gimi-kaart opwaarderen.",
+  "savings_account_intro_text": "PLZ_TRANSLATE %1$d can now save real money in this account, or top-up the Gimi card. Remember, you still pay the savings interest. ",
   "phone_verification_sent_to_kid_phone": "De verificatiecode is verstuurd naar het nieuwe telefoonnummer van je kind",
   "education_title": "Sessies",
   "education_n_out_of_n_completed": "%1$d/%2$d gereed",
