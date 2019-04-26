@@ -2284,7 +2284,7 @@
   "general_timezone": "Timezone",
   "payday_info_supporters_parent": "Supporters",
   "payday_info_supporters_kid": "Supporters",
-  "payday_info_supporters_desc_parent": "How much each supporter %1$d",
+  "payday_info_supporters_desc_parent": "How much each supporter paid %1$d",
   "payday_info_supporters_desc_kid": "Added to payday from each supporter:",
   "order_card_for_name_promotion": "Get the Gimi Card for %1$d!",
   "set_kid_phone_for_card_subtitle": "A verified phone number is required to secure the app and card.",
