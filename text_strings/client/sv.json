@@ -2481,5 +2481,6 @@
   "lysa_setup_autogiro_choose_amount_title": "PLZ_CHECK Choose monthly amount",
   "lysa_setup_autogiro_choose_amount_subtitle": "PLZ_CHECK Minimum amount is 200kr. You can always change this!",
   "lysa_setup_autogiro_successs_title": "PLZ_CHECK Success! Monthly savings OK",
-  "lysa_setup_autogiro_successs_subtitle": "PLZ_CHECK We will let you know when it's all been setup"
+  "lysa_setup_autogiro_successs_subtitle": "PLZ_CHECK We will let you know when it's all been setup",
+  "photo_proof_required": "PLZ_CHECK Photo proof required"
 }
