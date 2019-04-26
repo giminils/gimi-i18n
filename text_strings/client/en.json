@@ -2471,5 +2471,15 @@
   "activate_card_show_pin_title_parent": "the PIN code for the card",
   "activate_new_card_show_pin_title_parent": "the PIN code for the new card",
   "too_many_premium_deposits_popover_title": "Too many deposits today",
-  "too_many_premium_deposits_popover_text": "There's a limit of 10 deposits per day and person."
+  "too_many_premium_deposits_popover_text": "There's a limit of 10 deposits per day and person.",
+  "lysa_setup_autogiro_enter_account_number_title": "Type your account number",
+  "lysa_setup_autogiro_enter_account_number_placeholder": "account number",
+  "general_dont_remember": "Don't remember",
+  "lysa_setup_autogiro_choose_bank_title": "Choose bank",
+  "lysa_setup_autogiro_choose_account_title": "Choose account for monthly saving",
+  "lysa_setup_autogiro_choose_account_subtitle": "You have to choose a checking account",
+  "lysa_setup_autogiro_choose_amount_title": "Choose monthly amount",
+  "lysa_setup_autogiro_choose_amount_subtitle": "Minimum amount is 200kr. You can always change this!",
+  "lysa_setup_autogiro_successs_title": "Success! Monthly savings OK",
+  "lysa_setup_autogiro_successs_subtitle": "We will let you know when it's all been setup"
 }

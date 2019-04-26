@@ -2471,5 +2471,15 @@
   "activate_card_show_pin_title_parent": "Koden till kortet",
   "activate_new_card_show_pin_title_parent": "Koden till nya kortet",
   "too_many_premium_deposits_popover_title": "För många insättningar idag",
-  "too_many_premium_deposits_popover_text": "Vi har en gräns på 10 insättningar per dag och person."
+  "too_many_premium_deposits_popover_text": "Vi har en gräns på 10 insättningar per dag och person.",
+  "lysa_setup_autogiro_enter_account_number_title": "PLZ_CHECK Type your account number",
+  "lysa_setup_autogiro_enter_account_number_placeholder": "PLZ_CHECK account number",
+  "general_dont_remember": "PLZ_CHECK Don't remember",
+  "lysa_setup_autogiro_choose_bank_title": "PLZ_CHECK Choose bank",
+  "lysa_setup_autogiro_choose_account_title": "PLZ_CHECK Choose account for monthly saving",
+  "lysa_setup_autogiro_choose_account_subtitle": "PLZ_CHECK You have to choose a checking account",
+  "lysa_setup_autogiro_choose_amount_title": "PLZ_CHECK Choose monthly amount",
+  "lysa_setup_autogiro_choose_amount_subtitle": "PLZ_CHECK Minimum amount is 200kr. You can always change this!",
+  "lysa_setup_autogiro_successs_title": "PLZ_CHECK Success! Monthly savings OK",
+  "lysa_setup_autogiro_successs_subtitle": "PLZ_CHECK We will let you know when it's all been setup"
 }

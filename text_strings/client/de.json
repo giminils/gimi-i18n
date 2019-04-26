@@ -2471,5 +2471,15 @@
   "activate_card_show_pin_title_parent": "PLZ_TRANSLATE the PIN code for the card",
   "activate_new_card_show_pin_title_parent": "PLZ_TRANSLATE the PIN code for the new card",
   "too_many_premium_deposits_popover_title": "PLZ_TRANSLATE Too many deposits today",
-  "too_many_premium_deposits_popover_text": "PLZ_TRANSLATE There's a limit of 10 deposits per day and person."
+  "too_many_premium_deposits_popover_text": "PLZ_TRANSLATE There's a limit of 10 deposits per day and person.",
+  "lysa_setup_autogiro_enter_account_number_title": "PLZ_TRANSLATE Type your account number",
+  "lysa_setup_autogiro_enter_account_number_placeholder": "PLZ_TRANSLATE account number",
+  "general_dont_remember": "PLZ_TRANSLATE Don't remember",
+  "lysa_setup_autogiro_choose_bank_title": "PLZ_TRANSLATE Choose bank",
+  "lysa_setup_autogiro_choose_account_title": "PLZ_TRANSLATE Choose account for monthly saving",
+  "lysa_setup_autogiro_choose_account_subtitle": "PLZ_TRANSLATE You have to choose a checking account",
+  "lysa_setup_autogiro_choose_amount_title": "PLZ_TRANSLATE Choose monthly amount",
+  "lysa_setup_autogiro_choose_amount_subtitle": "PLZ_TRANSLATE Minimum amount is 200kr. You can always change this!",
+  "lysa_setup_autogiro_successs_title": "PLZ_TRANSLATE Success! Monthly savings OK",
+  "lysa_setup_autogiro_successs_subtitle": "PLZ_TRANSLATE We will let you know when it's all been setup"
 }
