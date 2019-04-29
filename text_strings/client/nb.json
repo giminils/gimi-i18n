@@ -2447,5 +2447,6 @@
   "lysa_setup_autogiro_successs_title": "PLZ_TRANSLATE Success! Monthly savings OK",
   "lysa_setup_autogiro_successs_subtitle": "PLZ_TRANSLATE We will let you know when it's all been setup",
   "photo_proof_required": "PLZ_TRANSLATE Photo proof required",
-  "order_card_read_about_card": "PLZ_TRANSLATE Read about the card"
+  "order_card_read_about_card": "PLZ_TRANSLATE Read about the card",
+  "parent_transaction_reciept_header_no_image": "PLZ_TRANSLATE %1$d did not add an image yet"
 }

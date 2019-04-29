@@ -2447,5 +2447,6 @@
   "lysa_setup_autogiro_successs_title": "Klart! Eller... nästan klart",
   "lysa_setup_autogiro_successs_subtitle": "Nu ska vi bara verifiera dina kontouppgifter, sen är allt klart!",
   "photo_proof_required": "Bildbevis krävs",
-  "order_card_read_about_card": "PLZ_CHECK Read about the card"
+  "order_card_read_about_card": "PLZ_CHECK Read about the card",
+  "parent_transaction_reciept_header_no_image": "PLZ_CHECK %1$d did not add an image yet"
 }
