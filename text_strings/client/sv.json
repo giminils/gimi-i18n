@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Vem är skyldig %1$d",
   "cloud_debt_balance_title": "Sparat",
   "cloud_debt_balance_subtitle": "Innan uppgradering",
-  "cloud_debt_remove_information_page": "PLZ_CHECK When you don't need this info anymore, you can remove this page",
+  "cloud_debt_remove_information_page": "Om du är klar med den här informationen, så kan du ta bort den här sidan",
   "empty_contacts_section_text": "Kan inte visa dina kontakter...",
   "cant_access_card_info_without_passcode_err_title": "Du har inte satt upp din lösenkod än!",
   "cant_access_card_info_without_passcode_err_text": "Du behöver en lösenkod för att göra det här, och många andra funktioner i appen. Sätt upp den nu!",
@@ -2264,7 +2264,7 @@
   "general_talk_to_us": "Chatta med oss",
   "iap_no_products_for_you": "Du har maxat ut alla prenumerationer - vi har inget mer att erbjuda!",
   "parent_auto_approval_feature_custom_notification": "Missa aldrig att godkänna en uppgift, sätt på automatiskt godkännande efter 24h!",
-  "general_scan_me": "Skanna mig",
+  "general_scan_me": "Visa koden för någon med skanner",
   "general_scan_a_code": "Skanna en kod",
   "general_show_code": "Visa kod",
   "one_time_cost": "Engångskostnad",
@@ -2447,6 +2447,6 @@
   "lysa_setup_autogiro_successs_title": "Klart! Eller... nästan klart",
   "lysa_setup_autogiro_successs_subtitle": "Nu ska vi bara verifiera dina kontouppgifter, sen är allt klart!",
   "photo_proof_required": "Bildbevis krävs",
-  "order_card_read_about_card": "PLZ_CHECK Read about the card",
-  "parent_transaction_reciept_header_no_image": "PLZ_CHECK %1$d did not add an image yet"
+  "order_card_read_about_card": "Läs mer om kortet",
+  "parent_transaction_reciept_header_no_image": "%1$d har inte sparat bild här än"
 }
