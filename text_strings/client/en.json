@@ -2448,5 +2448,7 @@
   "lysa_setup_autogiro_successs_subtitle": "We will let you know when it's all been setup",
   "photo_proof_required": "Photo proof required",
   "order_card_read_about_card": "Read about the card",
-  "parent_transaction_reciept_header_no_image": "%1$d did not add an image yet"
+  "parent_transaction_reciept_header_no_image": "%1$d did not add an image yet",
+  "pay_via_swish_option_desc": "Swisha - easiest way to send money!",
+  "swish_set_as_payment_method_confirmation_message": "Swish it is!"
 }
