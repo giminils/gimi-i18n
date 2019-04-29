@@ -2264,7 +2264,7 @@
   "general_talk_to_us": "Talk to us",
   "iap_no_products_for_you": "You've maxed out your subscriptions - we don't have any more to offer you!",
   "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 24h auto-approval!",
-  "general_scan_me": "PLZ_CHECK Show the code to someone with a scanner",
+  "general_scan_me": "PLZ_COPY Show the code to someone with a scanner",
   "general_scan_a_code": "Scan a code",
   "general_show_code": "Show code",
   "one_time_cost": "One time cost",
