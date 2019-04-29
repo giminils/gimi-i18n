@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Chi deve %1$d",
   "cloud_debt_balance_title": "Saldo del conto",
   "cloud_debt_balance_subtitle": "prima dell'aggiornamento a premium",
-  "cloud_debt_remove_information_page": "Quando è stato impostato il debito, puoi rimuovere questa pagina informativa",
+  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Non possiamo mostrarti i tuoi contatti...",
   "cant_access_card_info_without_passcode_err_title": "Non hai imostato un codice di accesso ancora!",
   "cant_access_card_info_without_passcode_err_text": "Ti serve un codice di accesso all'app per farlo, and for lots of other features in the app. Set it up now!",

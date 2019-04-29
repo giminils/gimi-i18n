@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Who owes %1$d",
   "cloud_debt_balance_title": "Account balance",
   "cloud_debt_balance_subtitle": "before Master upgrade",
-  "cloud_debt_remove_information_page": "PLZ_COPY When you don't need this info anymore, you can remove this page",
+  "cloud_debt_remove_information_page": "When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Can't show your contacts...",
   "cant_access_card_info_without_passcode_err_title": "You haven't setup a passcode yet!",
   "cant_access_card_info_without_passcode_err_text": "You need an app passcode to do this, and for lots of other features in the app. Set it up now!",

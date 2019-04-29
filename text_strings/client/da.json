@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Hvem skylder %1$d",
   "cloud_debt_balance_title": "Kontobalance",
   "cloud_debt_balance_subtitle": "før premium opgradering",
-  "cloud_debt_remove_information_page": "Når gælden er betalt, kan du fjerne denne oplysningsside",
+  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Kan ikke vise dine kontakter...",
   "cant_access_card_info_without_passcode_err_title": "Du har ikke sat en kode op endnu!",
   "cant_access_card_info_without_passcode_err_text": "Du har brug for en app kode for at gøre dette, og til mange andre funktioner i appen. Sæt det op nu!",

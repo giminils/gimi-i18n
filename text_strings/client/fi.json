@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Kuka on velkaa lapselle %1$d",
   "cloud_debt_balance_title": "Tilin saldo",
   "cloud_debt_balance_subtitle": "Ennen Premium päivitystä",
-  "cloud_debt_remove_information_page": "Kun velka on maksettu, voit poistaa tämän tiedotussivun",
+  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Emme voi näyttää kontaktejasi...",
   "cant_access_card_info_without_passcode_err_title": "Et ole vielä asettanut salasanaa!",
   "cant_access_card_info_without_passcode_err_text": "Sinun tulee luoda salasana sovellukselle tehdäksesi tämän, sekä käyttääksesi paljon muita sovelluksen ominaisuuksia. Luo se nyt!",

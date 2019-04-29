@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Vem är skyldig %1$d",
   "cloud_debt_balance_title": "Sparat",
   "cloud_debt_balance_subtitle": "Innan uppgradering",
-  "cloud_debt_remove_information_page": "När pengarna har förts över till kontot kan du ta bort den här info-sidan",
+  "cloud_debt_remove_information_page": "PLZ_CHECK When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Kan inte visa dina kontakter...",
   "cant_access_card_info_without_passcode_err_title": "Du har inte satt upp din lösenkod än!",
   "cant_access_card_info_without_passcode_err_text": "Du behöver en lösenkod för att göra det här, och många andra funktioner i appen. Sätt upp den nu!",

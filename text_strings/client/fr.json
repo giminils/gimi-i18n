@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Qui doit %1$d",
   "cloud_debt_balance_title": "Solde du compte",
   "cloud_debt_balance_subtitle": "Avant la promotion au niveau premium",
-  "cloud_debt_remove_information_page": "Une fois la dette réglée, vous pouvez supprimer cette page d'informations",
+  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Impossible d'afficher vos contacts...",
   "cant_access_card_info_without_passcode_err_title": "Vous n'avez pas encore configuré un mot de passe!",
   "cant_access_card_info_without_passcode_err_text": "Vous avez besoin d'un mot de passe pour l'application pour cela, et pour beaucoup d'autres fonctionnalités de l'application. Configurez-le maintenant!",

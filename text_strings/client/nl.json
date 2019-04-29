@@ -2102,7 +2102,7 @@
   "who_owes_name_parent": "Wie moet %1$d betalen",
   "cloud_debt_balance_title": "Saldo rekening",
   "cloud_debt_balance_subtitle": "voor premium upgrade",
-  "cloud_debt_remove_information_page": "Als de schuld vereffend is dan kun je deze pagina met informatie verwijderen.",
+  "cloud_debt_remove_information_page": "PLZ_TRANSLATE When you don't need this info anymore, you can remove this page",
   "empty_contacts_section_text": "Kan je contacten niet tonen...",
   "cant_access_card_info_without_passcode_err_title": "Je hebt nog geen pincode ingesteld!",
   "cant_access_card_info_without_passcode_err_text": "Je hebt een app wachtwoord nodig om dit te doen en voor nog veel meer functies in de app. Stel het nu in!",
