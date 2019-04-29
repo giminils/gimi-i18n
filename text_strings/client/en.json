@@ -2451,5 +2451,6 @@
   "parent_transaction_reciept_header_no_image": "%1$d did not add an image yet",
   "pay_via_swish_option_desc": "Swisha - easiest way to send money!",
   "swish_set_as_payment_method_confirmation_message": "Swish it is!",
-  "default_pfs_transaction": "Transaction"
+  "default_pfs_transaction": "Transaction",
+  "order_card_start_here": "Start here!"
 }
