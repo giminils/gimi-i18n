@@ -2452,5 +2452,6 @@
   "pay_via_swish_option_desc": "PLZ_TRANSLATE Swisha - easiest way to send money!",
   "swish_set_as_payment_method_confirmation_message": "PLZ_TRANSLATE Swish it is!",
   "default_pfs_transaction": "PLZ_TRANSLATE Transaction",
-  "order_card_start_here": "PLZ_TRANSLATE Start here!"
+  "order_card_start_here": "PLZ_TRANSLATE Start here!",
+  "lysa_account_title": "PLZ_TRANSLATE Lysa account"
 }
