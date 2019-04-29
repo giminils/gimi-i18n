@@ -2264,7 +2264,7 @@
   "general_talk_to_us": "Keskustele kanssamme",
   "iap_no_products_for_you": "PLZ_TRANSLATE You've maxed out your subscriptions - we dont't have any more to offer you!",
   "parent_auto_approval_feature_custom_notification": "Älä ikinä enää missaa askareen vahvistamista, laita päälle 24t automaattinen vahvistus!",
-  "general_scan_me": "Skannaa minut",
+  "general_scan_me": "PLZ_TRANSLATE Show the code to someone with a scanner",
   "general_scan_a_code": "Skannaa koodi",
   "general_show_code": "Näytä koodi",
   "one_time_cost": "Kertamaksu",

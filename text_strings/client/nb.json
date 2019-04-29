@@ -2264,7 +2264,7 @@
   "general_talk_to_us": "Snakk med oss",
   "iap_no_products_for_you": "Du har maksimert abonnementene dine - vi har ikke noe mer å tilby deg!",
   "parent_auto_approval_feature_custom_notification": "PLZ_TRANSLATE Never miss approving a chore, turn on the 24h auto-approval!",
-  "general_scan_me": "Skann meg",
+  "general_scan_me": "PLZ_TRANSLATE Show the code to someone with a scanner",
   "general_scan_a_code": "Skann en kode",
   "general_show_code": "Vis kode",
   "one_time_cost": "Engangsutgift",

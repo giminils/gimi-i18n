@@ -2264,7 +2264,7 @@
   "general_talk_to_us": "Háblanos",
   "iap_no_products_for_you": "Has llegado al máximo de tus suscripciones - ¡no tenemos más nada que ofrecerte!",
   "parent_auto_approval_feature_custom_notification": "¡Nunca dejes de aprobar una tarea, activa la aprobación automática de 24h!",
-  "general_scan_me": "Escanearme",
+  "general_scan_me": "PLZ_TRANSLATE Show the code to someone with a scanner",
   "general_scan_a_code": "Escanear un código",
   "general_show_code": "Mostrar código",
   "one_time_cost": "Costo único",

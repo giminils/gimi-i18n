@@ -2264,7 +2264,7 @@
   "general_talk_to_us": "Chatta med oss",
   "iap_no_products_for_you": "Du har maxat ut alla prenumerationer - vi har inget mer att erbjuda!",
   "parent_auto_approval_feature_custom_notification": "Missa aldrig att godkänna en uppgift, sätt på automatiskt godkännande efter 24h!",
-  "general_scan_me": "Visa koden för någon med skanner",
+  "general_scan_me": "PLZ_CHECK Show the code to someone with a scanner",
   "general_scan_a_code": "Skanna en kod",
   "general_show_code": "Visa kod",
   "one_time_cost": "Engångskostnad",
