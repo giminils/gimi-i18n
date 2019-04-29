@@ -2446,5 +2446,6 @@
   "lysa_setup_autogiro_choose_amount_subtitle": "Minsta belopp att månadsspara är 200kr. Du kan ändra beloppet senare!",
   "lysa_setup_autogiro_successs_title": "Klart! Eller... nästan klart",
   "lysa_setup_autogiro_successs_subtitle": "Nu ska vi bara verifiera dina kontouppgifter, sen är allt klart!",
-  "photo_proof_required": "Bildbevis krävs"
+  "photo_proof_required": "Bildbevis krävs",
+  "order_card_read_about_card": "PLZ_CHECK Read about the card"
 }

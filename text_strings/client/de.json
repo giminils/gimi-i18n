@@ -2446,5 +2446,6 @@
   "lysa_setup_autogiro_choose_amount_subtitle": "PLZ_TRANSLATE Minimum amount is 200kr. You can always change this!",
   "lysa_setup_autogiro_successs_title": "PLZ_TRANSLATE Success! Monthly savings OK",
   "lysa_setup_autogiro_successs_subtitle": "PLZ_TRANSLATE We will let you know when it's all been setup",
-  "photo_proof_required": "PLZ_TRANSLATE Photo proof required"
+  "photo_proof_required": "PLZ_TRANSLATE Photo proof required",
+  "order_card_read_about_card": "PLZ_TRANSLATE Read about the card"
 }
