@@ -2450,5 +2450,6 @@
   "order_card_read_about_card": "PLZ_TRANSLATE Read about the card",
   "parent_transaction_reciept_header_no_image": "PLZ_TRANSLATE %1$d did not add an image yet",
   "pay_via_swish_option_desc": "PLZ_TRANSLATE Swisha - easiest way to send money!",
-  "swish_set_as_payment_method_confirmation_message": "PLZ_TRANSLATE Swish it is!"
+  "swish_set_as_payment_method_confirmation_message": "PLZ_TRANSLATE Swish it is!",
+  "default_pfs_transaction": "PLZ_TRANSLATE Transaction"
 }
