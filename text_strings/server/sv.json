@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} drog av {transaction.str_value} från Sparat",
   "push_withdrawal_parent": "{transaction.created_by.name} drog av {transaction.str_value} från {transaction.child.nickname}",
-  "push_assignment_created": "PLZ_CHECK You got new chore! 💪",
+  "push_assignment_created": "Du har en ny uppgift! 💪",
   "push_assignment_active_again": "Uppgiften {assignment.task.title} är tillgänglig igen. Först till kvarn",
   "push_assignment_done": "{assignment.child.nickname} utförde precis {assignment.task.title}",
   "push_assignment_done_by_other": "Nu var du inte snabb nog! {assignment.task.shared_task_completed_by} utförde {assignment.task.title} innan dig",
@@ -337,8 +337,8 @@
   "CHGERE023_push_title": "{assignment.task.title} har godkänts!",
   "ADGERE038_notification_title": "{assignment.task.title}, utförd av {child.nickname}, har godkänts automatiskt!",
   "ADGERE038_push_title": "{assignment.task.title} har godkänts automatiskt!",
-  "CHPRRE019_notification_title": "PLZ_CHECK {pfspayment.parent.nickname} has made a deposit to your card",
-  "CHPRRE019_push_title": "PLZ_CHECK You have received a deposit from {pfspayment.parent.nickname}",
-  "ADGEPU012_notification_title": "PLZ_CHECK Finally, the Gimi card is here! Upgrade you child to Master and get the card!",
-  "ADGEPU012_push_title": "PLZ_CHECK The Gimi card is here! Get it now"
+  "CHPRRE019_notification_title": "Du har fått en insättning från {pfspayment.parent.nickname}!",
+  "CHPRRE019_push_title": "Insättning från {pfspayment.parent.nickname}!",
+  "ADGEPU012_notification_title": "Äntligen är Gimi-kortet här! Uppgradera ditt barn till Gimi Master och skaffa kortet!",
+  "ADGEPU012_push_title": "Gimi-kortet är här! Beställ det nu!"
 }
