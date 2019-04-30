@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} deducted {transaction.str_value} from savings",
   "push_withdrawal_parent": "{transaction.created_by.name} deducted {transaction.str_value} from {transaction.child.nickname}",
-  "push_assignment_created": "You got new chore! 💪",
+  "push_assignment_created": "You got a new chore! 💪",
   "push_assignment_active_again": "The chore {assignment.task.title} is available again. First come, first served",
   "push_assignment_done": "{assignment.child.nickname} completed the chore {assignment.task.title}",
   "push_assignment_done_by_other": "You weren't quick enough! {assignment.task.shared_task_completed_by} finished {assignment.task.title} before you",
@@ -337,8 +337,8 @@
   "CHGERE023_push_title": "{assignment.task.title} has been approved!",
   "ADGERE038_notification_title": "{assignment.task.title} done by {child.nickname} has been auto-approved!",
   "ADGERE038_push_title": "{assignment.task.title} has been auto-approved!",
-  "CHPRRE019_notification_title": "{pfspayment.parent.nickname} has made a deposit to your card",
-  "CHPRRE019_push_title": "You have received a deposit from {pfspayment.parent.nickname}",
+  "CHPRRE019_notification_title": "You got a deposit from {pfspayment.parent.nickname}",
+  "CHPRRE019_push_title": "Deposit from {pfspayment.parent.nickname}!",
   "ADGEPU012_notification_title": "Finally, the Gimi card is here! Upgrade you child to Master and get the card!",
   "ADGEPU012_push_title": "The Gimi card is here! Get it now"
 }
