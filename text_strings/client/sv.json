@@ -2453,5 +2453,6 @@
   "swish_set_as_payment_method_confirmation_message": "PLZ_CHECK Swish it is!",
   "default_pfs_transaction": "PLZ_CHECK Transaction",
   "order_card_start_here": "PLZ_CHECK Start here!",
-  "lysa_account_title": "PLZ_CHECK Lysa account"
+  "lysa_account_title": "PLZ_CHECK Lysa account",
+  "order_card_kyc_failed": "PLZ_CHECK Try again!"
 }

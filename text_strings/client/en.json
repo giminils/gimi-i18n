@@ -2453,5 +2453,6 @@
   "swish_set_as_payment_method_confirmation_message": "Swish it is!",
   "default_pfs_transaction": "Transaction",
   "order_card_start_here": "Start here!",
-  "lysa_account_title": "Lysa account"
+  "lysa_account_title": "Lysa account",
+  "order_card_kyc_failed": "Try again!"
 }
