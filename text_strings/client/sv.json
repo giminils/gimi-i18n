@@ -2454,5 +2454,6 @@
   "default_pfs_transaction": "Transaktion",
   "order_card_start_here": "Börja här!",
   "lysa_account_title": "Lysa-konto",
-  "order_card_kyc_failed": "Försök igen!"
+  "order_card_kyc_failed": "Försök igen!",
+  "expense_empty_state_text_kid": "PLZ_CHECK No expenses"
 }

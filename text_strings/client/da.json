@@ -2454,5 +2454,6 @@
   "default_pfs_transaction": "PLZ_TRANSLATE Transaction",
   "order_card_start_here": "PLZ_TRANSLATE Start here!",
   "lysa_account_title": "PLZ_TRANSLATE Lysa account",
-  "order_card_kyc_failed": "PLZ_TRANSLATE Try again!"
+  "order_card_kyc_failed": "PLZ_TRANSLATE Try again!",
+  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses"
 }
