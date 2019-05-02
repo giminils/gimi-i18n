@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "PLZ_TRANSLATE Payday! {child}'s monthly allowance was added to Savings!",
   "push_monthly_allowance_pre_payout_4": "PLZ_TRANSLATE {child}'s monthly allowance has been added to Savings!",
   "event_withdrawal_child": "PLZ_TRANSLATE {user.nickname} deducted {transaction.str_value} from savings",
-  "push_event_request_money": "PLZ_TRANSLATE {kid_id} is requesting ({amount})!",
+  "push_event_request_money": "PLZ_TRANSLATE {kid_name} is requesting ({amount})!",
   "push_event_request_money_title": "PLZ_TRANSLATE {child_name} er að biðja um peninga!",
   "push_interest_notification": "PLZ_TRANSLATE Nýtt Gimi vextir stig: {interest_rate}",
   "event_connect_for_money": "PLZ_TRANSLATE No supporters, no money. Invite a parent!",

@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Payday! {child}'s månadspeng har lagts till i Sparat!",
   "push_monthly_allowance_pre_payout_4": "{child}'s månadspeng har lagts till i Sparat!",
   "event_withdrawal_child": "{user.nickname} drog av {transaction.str_value} från Sparat",
-  "push_event_request_money": "{kid_id} ber om ({amount})!",
+  "push_event_request_money": "{kid_name} ber om ({amount})!",
   "push_event_request_money_title": "{child_name} frågar om pengar",
   "push_interest_notification": "Gimi-räntan har ändrats till: {interest_rate}",
   "event_connect_for_money": "Inga supporters, inga pengar. Bjud in en förälder!",

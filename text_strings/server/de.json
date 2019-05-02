@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Zahltag! {child}s monatliches Taschengeld wurde zu den Ersparnissen hinzugefügt!",
   "push_monthly_allowance_pre_payout_4": "{child}s monatliches Taschengeld wurde zu den Ersparnissen hinzugefügt!",
   "event_withdrawal_child": "{user.nickname} hat {transaction.str_value} von den Ersparnissen abgebucht",
-  "push_event_request_money": "{kid_id} bittet um ({amount})!",
+  "push_event_request_money": "{kid_name} bittet um ({amount})!",
   "push_event_request_money_title": "{child_name} bittet um Geld!",
   "push_interest_notification": "Neuer Gimi-Zinssatz: {interest_rate}",
   "event_connect_for_money": "Keine Unterstützer, kein Geld. Lade Deine Eltern ein!",
