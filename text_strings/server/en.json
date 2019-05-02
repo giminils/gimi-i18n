@@ -340,5 +340,7 @@
   "CHPRRE019_notification_title": "You got a deposit from {pfspayment.parent.nickname}",
   "CHPRRE019_push_title": "Deposit from {pfspayment.parent.nickname}!",
   "ADGEPU012_notification_title": "Finally, the Gimi card is here! Upgrade you child to Master and get the card!",
-  "ADGEPU012_push_title": "The Gimi card is here! Get it now"
+  "ADGEPU012_push_title": "The Gimi card is here! Get it now",
+  "ADGEPU007_notification_title": "Connect your children with more supporters!",
+  "ADGEPU007_push_title": "Invite more supporters"
 }

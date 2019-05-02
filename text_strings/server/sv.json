@@ -340,5 +340,7 @@
   "CHPRRE019_notification_title": "Du har fått en insättning från {pfspayment.parent.nickname}!",
   "CHPRRE019_push_title": "Insättning från {pfspayment.parent.nickname}!",
   "ADGEPU012_notification_title": "Äntligen är Gimi-kortet här! Uppgradera ditt barn till Gimi Master och skaffa kortet!",
-  "ADGEPU012_push_title": "Gimi-kortet är här! Beställ det nu!"
+  "ADGEPU012_push_title": "Gimi-kortet är här! Beställ det nu!",
+  "ADGEPU007_notification_title": "PLZ_CHECK Connect your children with more supporters!",
+  "ADGEPU007_push_title": "PLZ_CHECK Invite more supporters"
 }
