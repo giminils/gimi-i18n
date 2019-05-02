@@ -2455,5 +2455,6 @@
   "order_card_start_here": "PLZ_TRANSLATE Start here!",
   "lysa_account_title": "PLZ_TRANSLATE Lysa account",
   "order_card_kyc_failed": "PLZ_TRANSLATE Try again!",
-  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses"
+  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses",
+  "locked_until_subscription_is_paid": "PLZ_TRANSLATE %1$d is locked until Master subscription has been paid"
 }
