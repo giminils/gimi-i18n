@@ -2460,5 +2460,8 @@
   "supporters_list_you_owe_money": "PLZ_TRANSLATE Uh oh, you owe money",
   "supporters_list_name_owes_money": "PLZ_TRANSLATE Uh oh, %1$d owes money",
   "lysa_account_emtpy_state": "PLZ_TRANSLATE Du ger ditt barn en bra start i livet!",
-  "lysa_parent_home_ball": "PLZ_TRANSLATE Lysa savings"
+  "lysa_parent_home_ball": "PLZ_TRANSLATE Lysa savings",
+  "lysa_account_autgiro_status_unactive": "PLZ_TRANSLATE Autogiro missing",
+  "lysa_account_autgiro_status_active": "PLZ_TRANSLATE Autogiro activated",
+  "start_lysa_autogiro_button": "PLZ_TRANSLATE Start saving monthly"
 }

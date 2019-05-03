@@ -2460,5 +2460,8 @@
   "supporters_list_you_owe_money": "Uh oh, you owe money",
   "supporters_list_name_owes_money": "Uh oh, %1$d owes money",
   "lysa_account_emtpy_state": "Du ger ditt barn en bra start i livet!",
-  "lysa_parent_home_ball": "Lysa savings"
+  "lysa_parent_home_ball": "Lysa savings",
+  "lysa_account_autgiro_status_unactive": "Autogiro missing",
+  "lysa_account_autgiro_status_active": "Autogiro activated",
+  "start_lysa_autogiro_button": "Start saving monthly"
 }
