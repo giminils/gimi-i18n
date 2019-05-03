@@ -2459,5 +2459,6 @@
   "locked_until_subscription_is_paid": "%1$d är låst tills att Gimi Master har betalats",
   "supporters_list_you_owe_money": "PLZ_CHECK Uh oh, you owe money",
   "supporters_list_name_owes_money": "PLZ_CHECK Uh oh, %1$d owes money",
-  "lysa_account_emtpy_state": "PLZ_CHECK Du ger ditt barn en bra start i livet!"
+  "lysa_account_emtpy_state": "PLZ_CHECK Du ger ditt barn en bra start i livet!",
+  "lysa_parent_home_ball": "PLZ_CHECK Lysa savings"
 }
