@@ -2456,5 +2456,7 @@
   "lysa_account_title": "Lysa-konto",
   "order_card_kyc_failed": "Försök igen!",
   "expense_empty_state_text_kid": "Inga utlägg",
-  "locked_until_subscription_is_paid": "%1$d är låst tills att Gimi Master har betalats"
+  "locked_until_subscription_is_paid": "%1$d är låst tills att Gimi Master har betalats",
+  "supporters_list_you_owe_money": "PLZ_CHECK Uh oh, you owe money",
+  "supporters_list_name_owes_money": "PLZ_CHECK Uh oh, %1$d owes money"
 }
