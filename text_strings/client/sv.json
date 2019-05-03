@@ -2455,6 +2455,6 @@
   "order_card_start_here": "Börja här!",
   "lysa_account_title": "Lysa-konto",
   "order_card_kyc_failed": "Försök igen!",
-  "expense_empty_state_text_kid": "PLZ_CHECK No expenses",
-  "locked_until_subscription_is_paid": "PLZ_CHECK %1$d is locked until Master subscription has been paid"
+  "expense_empty_state_text_kid": "Inga utlägg",
+  "locked_until_subscription_is_paid": "%1$d är låst tills att Gimi Master har betalats"
 }
