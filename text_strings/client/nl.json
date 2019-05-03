@@ -2458,5 +2458,6 @@
   "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses",
   "locked_until_subscription_is_paid": "PLZ_TRANSLATE %1$d is locked until Master subscription has been paid",
   "supporters_list_you_owe_money": "PLZ_TRANSLATE Uh oh, you owe money",
-  "supporters_list_name_owes_money": "PLZ_TRANSLATE Uh oh, %1$d owes money"
+  "supporters_list_name_owes_money": "PLZ_TRANSLATE Uh oh, %1$d owes money",
+  "lysa_account_emtpy_state": "PLZ_TRANSLATE Du ger ditt barn en bra start i livet!"
 }
