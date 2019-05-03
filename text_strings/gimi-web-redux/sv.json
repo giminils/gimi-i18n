@@ -611,5 +611,8 @@
   "pricing.table.earn.row2.col1": "Bjud in hela familjen",
   "pricing.table.earn.row3.col1": "Inspiration för sysslor",
   "pricing.table.earn.row4.col1": "Godkännande på autopilot",
-  "pricing.table.coming_soon": "Kommer snart"
+  "pricing.table.coming_soon": "Kommer snart",
+  "pricing.home.description": "Från 0kr/för alltid",
+  "home.readmore.description": "Vill du veta mer?",
+  "home.readmore.link": "Läs mer här >"
 }

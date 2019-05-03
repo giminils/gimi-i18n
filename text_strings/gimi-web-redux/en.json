@@ -610,5 +610,8 @@
   "pricing.table.earn.row2.col1": "Chores for extended family",
   "pricing.table.earn.row3.col1": "Chore inspiration",
   "pricing.table.earn.row4.col1": "Automated approvals",
-  "pricing.table.coming_soon": "Coming soon"
+  "pricing.table.coming_soon": "Coming soon",
+  "pricing.home.description": "Starting from €0/forever",
+  "home.readmore.description": "Want to know more?",
+  "home.readmore.link": "Read more here >"
 }
