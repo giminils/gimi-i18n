@@ -2248,7 +2248,7 @@
   "general_timezone": "Tidszone",
   "payday_info_supporters_parent": "Tilhængere",
   "payday_info_supporters_kid": "Tilhængere",
-  "payday_info_supporters_desc_parent": "Hvor meget hver tilhænger betaler %1$d",
+  "payday_info_supporters_desc_parent": "Hvor meget hver tilhænger betalte %1$d",
   "payday_info_supporters_desc_kid": "Tilføjet til payday fra hver tilhænger:",
   "order_card_for_name_promotion": "Få Gimikortet til %1$d!",
   "set_kid_phone_for_card_subtitle": "PLZ_TRANSLATE A verified phone number is required to secure the app and card.",
