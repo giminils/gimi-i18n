@@ -381,12 +381,12 @@
   "task_template_description_plant_flowers": "Vamos a sembrar flores primaverales",
   "task_template_title_clean_windows": "Limpiar las ventanas",
   "task_template_description_clean_windows": "Ayudar a limpiar todas las ventanas de la casa",
-  "task_group_name_climate_action": "PLZ_TRANSLATE Be a climate hero!",
-  "task_group_description_climate_action": "PLZ_TRANSLATE ----",
-  "task_template_title_repair_clothes": "PLZ_TRANSLATE Repair clothes",
-  "task_template_description_repair_clothes": "PLZ_TRANSLATE Sew buttons and patch holes!",
-  "task_template_title_leftover_dinner": "PLZ_TRANSLATE Make leftover dinner",
-  "task_template_description_leftover_dinner": "PLZ_TRANSLATE Prepare a meal made of leftovers, no new purchases allowed!",
-  "task_template_title_leftover_lights_off": "PLZ_TRANSLATE Turn off lights",
-  "task_template_description_leftover_lights_off": "PLZ_TRANSLATE Make sure that all lights are turned off before leaving home"
+  "task_group_name_climate_action": "¡Se un héroe del ambiente!",
+  "task_group_description_climate_action": "----",
+  "task_template_title_repair_clothes": "Restaurar la ropa",
+  "task_template_description_repair_clothes": "¡Coser botones y parchar los huecos!",
+  "task_template_title_leftover_dinner": "Hacer la cena con sobrantes",
+  "task_template_description_leftover_dinner": "Preparar una comida hecha con los sobrantes, ¡no se permiten nuevas compras!",
+  "task_template_title_leftover_lights_off": "Apagar las luces",
+  "task_template_description_leftover_lights_off": "Asegurarse de que todas las luces estén apagadas antes de salir de casa"
 }
