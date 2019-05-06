@@ -2465,5 +2465,6 @@
   "lysa_account_autgiro_status_active": "Autogiro activated",
   "start_lysa_autogiro_button": "Start saving monthly",
   "card_on_its_way_transfer_money": "transfer money",
-  "savings_account_intro_subtitle": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card."
+  "savings_account_intro_subtitle": "You can now transfer real money to this account, so that %1$d can spend it with the Gimi card.",
+  "connect_with_non_existing_phone_popover_connect_button": "Connect"
 }
