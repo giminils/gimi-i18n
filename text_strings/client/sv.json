@@ -2463,5 +2463,7 @@
   "lysa_parent_home_ball": "PLZ_CHECK Lysa savings",
   "lysa_account_autgiro_status_unactive": "PLZ_CHECK Autogiro missing",
   "lysa_account_autgiro_status_active": "PLZ_CHECK Autogiro activated",
-  "start_lysa_autogiro_button": "PLZ_CHECK Start saving monthly"
+  "start_lysa_autogiro_button": "PLZ_CHECK Start saving monthly",
+  "card_on_its_way_transfer_money": "PLZ_CHECK transfer money",
+  "savings_account_intro_subtitle": "PLZ_CHECK You can now transfer real money to this account, so that %1$d can spend it with the Gimi card."
 }
