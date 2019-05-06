@@ -2465,6 +2465,6 @@
   "lysa_account_autgiro_status_active": "PLZ_TRANSLATE Autogiro activated",
   "start_lysa_autogiro_button": "PLZ_TRANSLATE Start saving monthly",
   "card_on_its_way_transfer_money": "PLZ_TRANSLATE transfer money",
-  "savings_account_intro_subtitle": "PLZ_TRANSLATE You can now transfer real money to this account, so that %1$d can spend it with the Gimi card.",
+  "savings_account_intro_subtitle": "PLZ_TRANSLATE This account now holds real money! The card is for spending, this account is for savings. You still pay the interest, to encourage %1$d to save money!",
   "connect_with_non_existing_phone_popover_connect_button": "PLZ_TRANSLATE Connect"
 }
