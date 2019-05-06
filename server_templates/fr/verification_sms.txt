@@ -1,1 +1,5 @@
 Entrez le code dans l'application Gimi: {{ verification_token.code }}
+
+{% if add_verification_url %}
+{{ verification_token.verification_url }}
+{% endif %}
