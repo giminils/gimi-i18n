@@ -2472,5 +2472,8 @@
   "sharing_today_is_payday_message": "PLZ_CHECK I get my allowance today!",
   "shareable_card_activated_title": "PLZ_CHECK I have a Gimi card!",
   "sharing_card_activated_title": "PLZ_CHECK I have a Gimi card!",
-  "sharing_card_activated_message": "PLZ_CHECK Now i can spend my own money!"
+  "sharing_card_activated_message": "PLZ_CHECK Now i can spend my own money!",
+  "shareable_upgraded_to_master_title": "PLZ_CHECK Upgraded to Gimi Master",
+  "sharing_upgraded_to_master_title": "PLZ_CHECK I've upgraded to Gimi Master",
+  "sharing_upgraded_to_master_message": "PLZ_CHECK I now use the Gimi app as a master!"
 }
