@@ -2466,5 +2466,8 @@
   "start_lysa_autogiro_button": "Start saving monthly",
   "card_on_its_way_transfer_money": "transfer money",
   "savings_account_intro_subtitle": "This account now holds real money! The card is for spending, this account is for savings. You still pay the interest, to encourage %1$d to save money!",
-  "connect_with_non_existing_phone_popover_connect_button": "Connect"
+  "connect_with_non_existing_phone_popover_connect_button": "Connect",
+  "shareable_today_is_payday_title": "It's Payday!",
+  "sharing_today_is_payday_title": "It's Payday in the Gimi app!",
+  "sharing_today_is_payday_message": "I get my allowance today!"
 }

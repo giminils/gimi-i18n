@@ -2466,5 +2466,8 @@
   "start_lysa_autogiro_button": "Börja spara månadsvis",
   "card_on_its_way_transfer_money": "Gör insättning",
   "savings_account_intro_subtitle": "PLZ_CHECK This account now holds real money! The card is for spending, this account is for savings. You still pay the interest, to encourage %1$d to save money!",
-  "connect_with_non_existing_phone_popover_connect_button": "Koppla ihop"
+  "connect_with_non_existing_phone_popover_connect_button": "Koppla ihop",
+  "shareable_today_is_payday_title": "PLZ_CHECK It's Payday!",
+  "sharing_today_is_payday_title": "PLZ_CHECK It's Payday in the Gimi app!",
+  "sharing_today_is_payday_message": "PLZ_CHECK I get my allowance today!"
 }
