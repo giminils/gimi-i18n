@@ -460,6 +460,8 @@
   "allowance.earn.more.desc": "Download Gimi and ask your parents about chores that you can do for extra money!",
   "calculated.you.should.have": "According to the calculator you should receive ...",
   "calculated.result": "{allowance} SEK as a {age} year old.",
+  "according.to.calculator": "According to the calculator ...",
+  "calculator.oversixteen.result": "its time to discuss what the allowance should cover and adjust accordingly.",
   "allowance.read.more": "Read more about pocket money at www.gimitheapp.com/pocket-money",
   "share.your.result": "Share your result",
   "download.caps": "DOWNLOAD",
