@@ -2469,5 +2469,8 @@
   "connect_with_non_existing_phone_popover_connect_button": "Connect",
   "shareable_today_is_payday_title": "It's Payday!",
   "sharing_today_is_payday_title": "It's Payday in the Gimi app!",
-  "sharing_today_is_payday_message": "I get my allowance today!"
+  "sharing_today_is_payday_message": "I get my allowance today!",
+  "shareable_card_activated_title": "I have a Gimi card!",
+  "sharing_card_activated_title": "I have a Gimi card!",
+  "sharing_card_activated_message": "Now i can spend my own money!"
 }

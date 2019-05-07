@@ -2469,5 +2469,8 @@
   "connect_with_non_existing_phone_popover_connect_button": "PLZ_TRANSLATE Connect",
   "shareable_today_is_payday_title": "PLZ_TRANSLATE It's Payday!",
   "sharing_today_is_payday_title": "PLZ_TRANSLATE It's Payday in the Gimi app!",
-  "sharing_today_is_payday_message": "PLZ_TRANSLATE I get my allowance today!"
+  "sharing_today_is_payday_message": "PLZ_TRANSLATE I get my allowance today!",
+  "shareable_card_activated_title": "PLZ_TRANSLATE I have a Gimi card!",
+  "sharing_card_activated_title": "PLZ_TRANSLATE I have a Gimi card!",
+  "sharing_card_activated_message": "PLZ_TRANSLATE Now i can spend my own money!"
 }
