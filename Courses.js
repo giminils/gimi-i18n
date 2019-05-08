@@ -1,6 +1,6 @@
 // @flow
-let defaultCourse = {}
-let defaultChapter = {
+const defaultCourse = {}
+const defaultChapter = {
   icon: 'iconHeart',
   isPremium: false
 }

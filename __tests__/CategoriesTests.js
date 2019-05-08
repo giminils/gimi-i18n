@@ -1,9 +1,9 @@
 // @flow
-export let CategoryGroups = require('../categories/CategoryGroups.json')
-export let SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
-export let WithdrawCategories = require('../categories/WithdrawCategories.json')
-export let DepositCategories = require('../categories/DepositCategories.json')
-export let TaskCategories = require('../categories/TaskCategories.json')
+export const CategoryGroups = require('../categories/CategoryGroups.json')
+export const SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
+export const WithdrawCategories = require('../categories/WithdrawCategories.json')
+export const DepositCategories = require('../categories/DepositCategories.json')
+export const TaskCategories = require('../categories/TaskCategories.json')
 
 // Make a simple array of colors instead of Colors object for easy compairing
 

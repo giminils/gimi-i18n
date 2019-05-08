@@ -6,8 +6,8 @@
  * DO NOT make changes and updates here just yet. It's only devving until finished design is set.
  */
 
-let defaultCourse = {}
-let defaultChapter = {
+const defaultCourse = {}
+const defaultChapter = {
   icon: 'iconHeart',
   isPremium: false
 }

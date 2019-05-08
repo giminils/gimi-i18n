@@ -10,9 +10,9 @@ describe('JSON files', () => {
     if (!fs.existsSync(dir)) return
     fs.readdirSync(dir).forEach((file) => {
       if (file === '.DS_Store') return
-      let path = `${dir}/${file}`
+      const path = `${dir}/${file}`
       it(`it should have valid JSON for ${path}`, () => {
-        let json = fs.readFileSync(path, {encoding: 'utf8'})
+        const json = fs.readFileSync(path, {encoding: 'utf8'})
         jsonValidator.parse(json, false)
       })
     })

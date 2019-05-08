@@ -24,13 +24,13 @@ describe('TextStrings', () => {
   it('should not allow duplicate keys in JSON', () => {
     gimiWebLanguageCodes.forEach(lang => {
       var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web-redux/${lang}.json`), {encoding: 'utf8'}).split('\n')
-      let errors = findDuplicateJSONKeys(fileText, [])
+      const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
 
     languageCodes.forEach(lang => {
       var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'}).split('\n')
-      let errors = findDuplicateJSONKeys(fileText, [])
+      const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
   })
@@ -40,12 +40,12 @@ describe('TextStrings', () => {
     let allStrings = []
     dirs = dirs.filter((dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux')
     dirs.map(file => {
-      let blaj = fs.readFileSync(path.join(__dirname, `../text_strings/${file}/en.json`), {encoding: 'utf8'}).split('\n')
+      const blaj = fs.readFileSync(path.join(__dirname, `../text_strings/${file}/en.json`), {encoding: 'utf8'}).split('\n')
       allStrings = allStrings.concat(blaj)
     })
-    let ignorePattern = ['', '{', '}']
+    const ignorePattern = ['', '{', '}']
     allStrings = allStrings.filter((text) => ignorePattern.indexOf(text) === -1)
-    let errors = findDuplicateJSONKeys(allStrings, [])
+    const errors = findDuplicateJSONKeys(allStrings, [])
     expect(errors).toEqual([])
   })
 
@@ -72,17 +72,17 @@ describe('TextStrings', () => {
 
   // Test for including all %1$d, %2$d, %3$d etc..
   // pretty slow test, takes around 8 seconds at the time it was written
-  let enTextStrings = getTextStrings('en')
+  const enTextStrings = getTextStrings('en')
   Object.keys(enTextStrings).forEach(key => {
     supportedLanguageCodes.forEach(compareLang => {
       if (compareLang === 'en') return undefined
-      let testingString = getText(key, [], 'capitalize', enTextStrings)
-      let variableMatches = testingString.match(/%\d\$d/gm)
+      const testingString = getText(key, [], 'capitalize', enTextStrings)
+      const variableMatches = testingString.match(/%\d\$d/gm)
       if (!variableMatches || variableMatches.length < 1) return undefined
-      let compareString = getText(key, [], 'capitalize', getTextStrings(compareLang))
+      const compareString = getText(key, [], 'capitalize', getTextStrings(compareLang))
       return variableMatches.forEach(match => {
         it(key + ' in ' + compareLang + '.json is missing ' + match, () => {
-          let includesVariableMatch = compareString.indexOf(match) >= 0
+          const includesVariableMatch = compareString.indexOf(match) >= 0
           expect(includesVariableMatch).toEqual(true)
         })
       })

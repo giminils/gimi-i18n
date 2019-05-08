@@ -15,25 +15,25 @@ import sv from './text_strings/shared/sv.json'
 // import de from './text_strings/shared/de.json'
 // import et from './text_strings/shared/et.json'
 
-export let getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
-  let textStrings = getSharedStrings(lang)
+export const getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
+  const textStrings = getSharedStrings(lang)
   return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
-export let getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
+export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
   if (step !== 1) return undefined
   return [{title: 'insta', valid: true}, {title: 'yt', valid: true}, {title: 'snap', valid: true}, {title: 'musically', valid: true}]
 }
 
-export let getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
-  let textStrings = getSharedStrings(lang)
-  let answers = []
+export const getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
+  const textStrings = getSharedStrings(lang)
+  const answers = []
   for (var i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
   answers.push({title: getText('card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }
 
-let getStringQuestionValues = (step: number, config: Object) => {
+const getStringQuestionValues = (step: number, config: Object) => {
   switch (step) {
     case 2: return [Accounting.formatMoney(249, config.suffix, config.numberOfDecimals, '', ',', '%v %s'), Accounting.formatMoney(239, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
     case 7: return [Accounting.formatMoney(99, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
@@ -41,7 +41,7 @@ let getStringQuestionValues = (step: number, config: Object) => {
   }
 }
 
-let getStringAnswerValues = (step: number, answer: number, config: Object) => {
+const getStringAnswerValues = (step: number, answer: number, config: Object) => {
   answer = answer + 1
   switch (true) {
     case step === 2 && (answer === 2 || answer === 3): return [Accounting.formatMoney(10, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
@@ -50,7 +50,7 @@ let getStringAnswerValues = (step: number, answer: number, config: Object) => {
   }
 }
 
-let getValidCardAnswer = (step: number, answer: number): boolean => {
+const getValidCardAnswer = (step: number, answer: number): boolean => {
   answer = answer + 1
   switch (true) {
     case step === 1 && answer === 1:
@@ -77,7 +77,7 @@ let getValidCardAnswer = (step: number, answer: number): boolean => {
   }
 }
 
-let getSharedStrings = (lang: string) => {
+const getSharedStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'sv' : return sv
     /* case 'da' : return da
@@ -96,7 +96,7 @@ let getSharedStrings = (lang: string) => {
   }
 }
 
-let getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
+const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   if (textStrings === undefined) return ''
   if (!textStrings || !langKey) return ''
   var text = textStrings[langKey]

@@ -2,7 +2,7 @@
 import {getTextStrings, languageCodes, languageCodesForTranslation} from '../index'
 import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 let languageCodesHolder = languageCodes
-let Slack = require('node-slack')
+const Slack = require('node-slack')
 
 jest.disableAutomock()
 
@@ -12,7 +12,7 @@ describe('TextStrings', () => {
 
     languageCodes.forEach(languageCode => {
       stringLengthData = stringLenghtStatistic(getTextStrings('en'), getTextStrings(languageCode), 'en', languageCode)
-      let attachmentPayload = [
+      const attachmentPayload = [
         {
           fallback: 'String lenght data',
           text: 'Link to git "' + languageCode + '"  <https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
@@ -27,14 +27,14 @@ describe('TextStrings', () => {
   })
 
   it('it should show where we have PLZ_TRANSLATE', () => {
-    let stringTagData = []
-    let jsonDataCheck = []
-    let jsonDataTranslate = []
-    let jsonEmmaTag = []
+    const stringTagData = []
+    const jsonDataCheck = []
+    const jsonDataTranslate = []
+    const jsonEmmaTag = []
 
-    let textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'bot'] // 'moonshine'
+    const textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'bot'] // 'moonshine'
 
-    let textStrings = {}
+    const textStrings = {}
     textStringsTypes.forEach(textStringsType => {
       textStrings[textStringsType] = {}
     })
@@ -58,7 +58,7 @@ describe('TextStrings', () => {
 
     // get plz Check
     stringTagData.forEach(data => {
-      let path = data.path ? data.path : 'client'
+      const path = data.path ? data.path : 'client'
       let isAdded = false
       if (data.plzCheck > 0) {
         for (let i = 0; i < jsonDataCheck.length; i++)
@@ -70,7 +70,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          let displayObject: Object = {
+          const displayObject: Object = {
             lang: '',
             path: [],
             count: [],
@@ -86,7 +86,7 @@ describe('TextStrings', () => {
     })
     // get plzTransalte
     stringTagData.forEach(data => {
-      let path = data.path ? data.path : 'client'
+      const path = data.path ? data.path : 'client'
       let isAdded = false
       if (data.plzTrans > 0) {
         for (let i = 0; i < jsonDataTranslate.length; i++)
@@ -98,7 +98,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          let displayObject: Object = {
+          const displayObject: Object = {
             lang: '',
             path: [],
             count: [],
@@ -114,7 +114,7 @@ describe('TextStrings', () => {
     })
     // get plz EMMA
     stringTagData.forEach(data => {
-      let path = data.path ? data.path : 'client'
+      const path = data.path ? data.path : 'client'
       let isAdded = false
       if (data.emmaTag > 0) {
         for (let i = 0; i < jsonEmmaTag.length; i++)
@@ -126,7 +126,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          let displayObject: Object = {
+          const displayObject: Object = {
             lang: '',
             path: [],
             count: [],
@@ -144,7 +144,7 @@ describe('TextStrings', () => {
     ${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
     PLZ_TRANSLATE
     ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
-    let textEmma = `Found Emma ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
+    const textEmma = `Found Emma ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
     // eslint-disable-next-line
 
     text = text.replace(/['"]+/g, '')
@@ -156,8 +156,8 @@ describe('TextStrings', () => {
   })
 })
 
-export let SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string) => {
-  let slack = new Slack('https://hooks.slack.com/services/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')
+export const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string) => {
+  const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
     text: 'i18n Language files with languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
     channel: '#i18n_translation_stat',
@@ -168,8 +168,8 @@ export let SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: s
     link_names: 1
   })
 }
-export let SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
-  let slack = new Slack('https://hooks.slack.com/services/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')
+export const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
+  const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
     text,
     channel: '#i18n_translation_tags',
@@ -181,9 +181,9 @@ export let SendToSlackTagStats = (text: Array<Object>, languageCode: string) => 
   })
 }
 
-export let SendToNonTech = (text: Array<Object>, languageCode: string) => {
-  let slack = new Slack('https://hooks.slack.com/services/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')
-  let attachmentPayload = [
+export const SendToNonTech = (text: Array<Object>, languageCode: string) => {
+  const slack = new Slack('https://hooks.slack.com/services/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')
+  const attachmentPayload = [
     {
       fallback: 'Found EMMA',
       text: text,

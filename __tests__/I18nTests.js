@@ -55,23 +55,23 @@ textStringsTypes.forEach(textStringsType => {
 stringTagData.forEach(data => {
   if (data) {
     if (data.plzTrans > 0) {
-      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonDataTranslate.push(foo)
     }
     if (data.plzCopy > 0) {
-      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonDataCopy.push(foo)
     }
     if (data.count > 0) {
-      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonBreakingSumbols.push(foo)
     }
     if (data.countUpperCase > 0) {
-      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonArrayUpperCase.push(foo)
     }
     if (data.countStartsEmptySpace > 0) {
-      let foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonArrayEmptySpaces.push(foo)
     }
   }

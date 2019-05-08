@@ -75,9 +75,9 @@ export var supportedTimeZonesAndroid =
 
 export var languageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'it', 'es', 'de']
 
-export let languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+export const languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
 
-export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
+export const getSupportedCurrencyInfos = (): Array<{code: string, name: string}> => [
   {code: 'SEK', name: 'Swedish Krona'},
   {code: 'NOK', name: 'Norwegian Krone'},
   {code: 'DKK', name: 'Danish Krone'},
@@ -96,7 +96,7 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
   {code: 'COP', name: 'Colombian Peso'}
 ]
 
-export let getEducationStrings = (lang: string) => {
+export const getEducationStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'sv': return svEducate
     case 'nb':
@@ -112,7 +112,7 @@ export let getEducationStrings = (lang: string) => {
   }
 }
 
-export let getTextStrings = (lang: string) => {
+export const getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'sv': return {..._default, ...sv, ...svBot, ...svEducate} // sweden
     case 'nb':
@@ -128,7 +128,7 @@ export let getTextStrings = (lang: string) => {
   }
 }
 
-export let getCalendarStrings = (lang: string) => {
+export const getCalendarStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'da' : return {...defaultCalendar, ...daCalendar} // danish
     case 'sv' : return {...defaultCalendar, ...svCalendar} // sweden
@@ -147,7 +147,7 @@ export let getCalendarStrings = (lang: string) => {
   }
 }
 
-export let removeTranslationHelpers = (text: string): string => {
+export const removeTranslationHelpers = (text: string): string => {
   text = text.replace(/\[.*?\]/g, '').trim()
   text = text.replace(new RegExp(translationHelpTemplate, 'g'), '')
   text = text.replace(new RegExp(translationHelperEMMA, 'g'), '')
@@ -157,22 +157,22 @@ export let removeTranslationHelpers = (text: string): string => {
   return text
 }
 
-export let translationHelpTemplate = 'PLZ_TRANSLATE'
-export let PLZ_CHECK = 'PLZ_CHECK'
-export let liliTemplate = 'PLZ_COPY'
-export let translationHelperEMMA = 'EMMA'
+export const translationHelpTemplate = 'PLZ_TRANSLATE'
+export const PLZ_CHECK = 'PLZ_CHECK'
+export const liliTemplate = 'PLZ_COPY'
+export const translationHelperEMMA = 'EMMA'
 
-export let getRegions = () => Regions
-export let getCities = () => Cities
-export let getCountries = () => CountryCodes
-export let getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
-export let getPhoneNumberPrefix = (country: string) => parseInt(countryCodes2PhoneNumberPrefixes[country.toUpperCase()])
-export let getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
-export let getTimezones = () => Timezones
-export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
-export let getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
+export const getRegions = () => Regions
+export const getCities = () => Cities
+export const getCountries = () => CountryCodes
+export const getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
+export const getPhoneNumberPrefix = (country: string) => parseInt(countryCodes2PhoneNumberPrefixes[country.toUpperCase()])
+export const getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
+export const getTimezones = () => Timezones
+export const getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
+export const getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
 
-export let getSupportedTimeZones = () => {
+export const getSupportedTimeZones = () => {
   var shortList = []
   Timezones.map((zone, index) => {
     if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1)
@@ -181,19 +181,19 @@ export let getSupportedTimeZones = () => {
   return shortList || Timezones
 }
 
-export let exchangeRates = ExchangeRates
+export const exchangeRates = ExchangeRates
 
-export let getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
+export const getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
 
-export let getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
+export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
 
-export let getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
+export const getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
 
-export let getCourses = () => Courses
+export const getCourses = () => Courses
 
-export let getExperimentalCourses = () => ExperimentalCourses
+export const getExperimentalCourses = () => ExperimentalCourses
 
-export let getChapter = () => Courses
+export const getChapter = () => Courses
 
 export function getText (langKey: *, values?: Array<*>, textTransform?: string = 'capitalize', textStrings: Object): string {
   if (typeof textStrings === 'undefined') return ''
