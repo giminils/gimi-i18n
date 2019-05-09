@@ -66,14 +66,14 @@ import DefaultCurrencies from './DefaultCurrencies'
 import Courses from './Courses'
 import ExperimentalCourses from './Education'
 
-export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
-export var gimiWebLanguageCodes = ['en', 'sv']
-export var supportedTimeZonesAndroid =
+export let supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
+export let gimiWebLanguageCodes = ['en', 'sv']
+export let supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
     'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto',
     'Pacific/Auckland', 'Asia/Calcutta', 'Africa/Cairo']
 
-export var languageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'it', 'es', 'de']
+export let languageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'it', 'es', 'de']
 
 export const languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
 
@@ -173,7 +173,7 @@ export const getLangugageCodes = () => LanguageCodes.filter(languageCode => supp
 export const getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
 
 export const getSupportedTimeZones = () => {
-  var shortList = []
+  let shortList = []
   Timezones.map((zone, index) => {
     if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1)
       shortList.push(zone)
@@ -198,7 +198,7 @@ export const getChapter = () => Courses
 export function getText (langKey: *, values?: Array<*>, textTransform?: string = 'capitalize', textStrings: Object): string {
   if (typeof textStrings === 'undefined') return ''
   if (!textStrings || !langKey) return ''
-  var text = textStrings[langKey]
+  let text = textStrings[langKey]
   if (!text) return ''
   text = removeTranslationHelpers(text)
   text = text.trim()

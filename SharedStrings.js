@@ -28,7 +28,7 @@ export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * 
 export const getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (var i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
+  for (let i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
   answers.push({title: getText('card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }
@@ -99,7 +99,7 @@ const getSharedStrings = (lang: string) => {
 const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   if (textStrings === undefined) return ''
   if (!textStrings || !langKey) return ''
-  var text = textStrings[langKey]
+  let text = textStrings[langKey]
   if (!text) return ''
   else text = removeTranslationHelpers(text)
   text = text.trim()

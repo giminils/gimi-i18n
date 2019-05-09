@@ -3,8 +3,8 @@ jest.disableAutomock()
 
 describe('includes', () => {
   it('can evaluate includes', () => {
-    var str = 'To be, or not to be, that is the question.<b>'
-    var string2 = 'To be, or not to be, that is the question. <b> </b>'
+    let str = 'To be, or not to be, that is the question.<b>'
+    let string2 = 'To be, or not to be, that is the question. <b> </b>'
 
     expect(str.includes('To be')).toBeTruthy() // true
     expect(str.includes('question')).toBeTruthy() // true

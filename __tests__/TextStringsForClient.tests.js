@@ -23,20 +23,20 @@ describe('TextStrings', () => {
 
   it('should not allow duplicate keys in JSON', () => {
     gimiWebLanguageCodes.forEach(lang => {
-      var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web-redux/${lang}.json`), {encoding: 'utf8'}).split('\n')
+      let fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web-redux/${lang}.json`), {encoding: 'utf8'}).split('\n')
       const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
 
     languageCodes.forEach(lang => {
-      var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'}).split('\n')
+      let fileText = fs.readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'}).split('\n')
       const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
   })
 
   it('should not have duplicate keys in textStrings', () => {
-    var dirs = fs.readdirSync(path.join(__dirname, `../text_strings/`))
+    let dirs = fs.readdirSync(path.join(__dirname, `../text_strings/`))
     let allStrings = []
     dirs = dirs.filter((dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux')
     dirs.map(file => {
@@ -98,10 +98,10 @@ describe('TextStrings', () => {
   })
 
   it('should not have any birgitta inconsistencies', () => {
-    var errorMessages = {}
+    let errorMessages = {}
     supportedLanguageCodes.forEach((lang1, i) =>
       supportedLanguageCodes.forEach((lang2, j) => {
-        var errorArray = checkBirgittaInconsistencies(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
+        let errorArray = checkBirgittaInconsistencies(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
         errorArray.forEach(key => {
           errorMessages[key] = ''
         })
@@ -110,11 +110,11 @@ describe('TextStrings', () => {
   })
 
   it('should not have unclosed brackers', () => {
-    var leftSide = 0
-    var rightSide = 0
-    var error = []
+    let leftSide = 0
+    let rightSide = 0
+    let error = []
     supportedLanguageCodes.forEach(languageCode => {
-      var textString = JSON.stringify(getTextStrings(languageCode))
+      let textString = JSON.stringify(getTextStrings(languageCode))
 
       leftSide = textString.split('[').length - 1
       rightSide = textString.split(']').length - 1
@@ -126,12 +126,12 @@ describe('TextStrings', () => {
   })
 
   it('should have valid html tags', () => {
-    var errors = []
+    let errors = []
     supportedLanguageCodes.forEach(languageCode => {
-      var textStrings = getTextStrings(languageCode)
+      let textStrings = getTextStrings(languageCode)
       Object.keys(textStrings).forEach((key) => {
-        var text = textStrings[key]
-        var valid = validateHTMLTag(text)
+        let text = textStrings[key]
+        let valid = validateHTMLTag(text)
 
         if (!valid)
           errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
@@ -154,8 +154,8 @@ it('should be able to validate tag', () => {
   expect(validateHTMLTag('<b>iodfoi</b>')).toEqual(true)
 })
 
-var validateHTMLTag = (testString): boolean => {
-  var htmlTagPairs = [
+let validateHTMLTag = (testString): boolean => {
+  let htmlTagPairs = [
     ['<b>', '</b>'],
     ['<boldGreen>', '</boldGreen>'],
     ['<boldRed>', '</boldRed>'],

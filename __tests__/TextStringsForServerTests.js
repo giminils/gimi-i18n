@@ -2,12 +2,12 @@
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght, checkBirgittaInconsistencies, checkTemplateRule} from '../TestUtil'
 import {languageCodes} from '..'
-var langCodes = languageCodes
+let langCodes = languageCodes
 jest.disableAutomock()
 
-var textStringsTypes = ['server', 'templates', 'share-image-generator']
+let textStringsTypes = ['server', 'templates', 'share-image-generator']
 
-var textStrings = {}
+let textStrings = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
   langCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
@@ -26,9 +26,9 @@ textStringsTypes.forEach(textStringsType => {
       })
 
       it('should not have any birgitta inconsistencies', () => {
-        var errorMessages = {}
+        let errorMessages = {}
         langCodes.forEach((lang2, j) => {
-          var errorArray = checkBirgittaInconsistencies(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2)
+          let errorArray = checkBirgittaInconsistencies(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2)
           errorArray.forEach(key => {
             errorMessages[key] = ''
           })
@@ -36,24 +36,24 @@ textStringsTypes.forEach(textStringsType => {
         if (Object.keys(errorMessages).length > 0) console.warn(JSON.stringify(errorMessages, undefined, 2))
       })
       it('should not have _parent when having _child', () => {
-        var errorArrayParentChild = []
-        var objectKeys = Object.keys(textStrings[textStringsType][lang])
+        let errorArrayParentChild = []
+        let objectKeys = Object.keys(textStrings[textStringsType][lang])
         objectKeys.forEach((key) => {
-          var currentLangKey = key
+          let currentLangKey = key
           if (currentLangKey && currentLangKey.includes('_parent')) {
-            var currentLangKeyReverse = currentLangKey.replace('_parent', '_child')
+            let currentLangKeyReverse = currentLangKey.replace('_parent', '_child')
             if (!objectKeys.includes(currentLangKeyReverse))
               errorArrayParentChild.push({error: `${key} is missing child version`})
           }
         })
       })
       it('should not have _child when having _parent', () => {
-        var errorArrayParentChild = []
-        var objectKeys = Object.keys(textStrings[textStringsType][lang])
+        let errorArrayParentChild = []
+        let objectKeys = Object.keys(textStrings[textStringsType][lang])
         objectKeys.forEach((key) => {
-          var currentLangKey = key
+          let currentLangKey = key
           if (currentLangKey && currentLangKey.includes('_child')) {
-            var currentLangKeyReverse = currentLangKey.replace('_child', '_parent')
+            let currentLangKeyReverse = currentLangKey.replace('_child', '_parent')
             if (!objectKeys.includes(currentLangKeyReverse))
               errorArrayParentChild.push({error: `${key} is missing parent version`})
           }

@@ -1,8 +1,8 @@
 
 import {getCurrencyConfig} from '../lib/CurrencyConfig'
-var fs = require('fs')
-var configs = []
-var allConfigs = []
+let fs = require('fs')
+let configs = []
+let allConfigs = []
 jest.disableAutomock()
 
 expect.extend({

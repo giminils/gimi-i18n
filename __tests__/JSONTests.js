@@ -5,7 +5,7 @@ jest.disableAutomock()
 
 describe('JSON files', () => {
   it('LOL', () => {})
-  var dirs = fs.readdirSync('./text_strings/')
+  let dirs = fs.readdirSync('./text_strings/')
   dirs.forEach((dir) => {
     if (!fs.existsSync(dir)) return
     fs.readdirSync(dir).forEach((file) => {

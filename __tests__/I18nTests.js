@@ -1,22 +1,22 @@
 
 import {languageCodes, languageCodesForTranslation} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace} from '../TestUtil'
-var stringTagData = []
-var jsonDataTranslate = []
-var jsonDataCopy = []
+let stringTagData = []
+let jsonDataTranslate = []
+let jsonDataCopy = []
 
-var jsonBreakingSumbols = []
-var jsonArrayUpperCase = []
-var jsonArrayEmptySpaces = []
+let jsonBreakingSumbols = []
+let jsonArrayUpperCase = []
+let jsonArrayEmptySpaces = []
 
-var textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'gimi-web-redux', 'bot']
+let textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'gimi-web-redux', 'bot']
 
-var textStrings = {}
+let textStrings = {}
 textStringsTypes.forEach(textStringsType => {
   textStrings[textStringsType] = {}
 })
 textStringsTypes.forEach(textStringsType => {
-  var languageCodesHolder = languageCodes
+  let languageCodesHolder = languageCodes
   if (textStringsType === 'client') languageCodesHolder = languageCodes
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
@@ -31,7 +31,7 @@ textStringsTypes.forEach(textStringsType => {
 })
 // server and templates string data
 textStringsTypes.forEach(textStringsType => {
-  var languageCodesHolder = languageCodes
+  let languageCodesHolder = languageCodes
   if (textStringsType === 'client') languageCodesHolder = languageCodes
   if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
   if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']

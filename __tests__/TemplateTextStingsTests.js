@@ -2,14 +2,14 @@
 import svLang from '../text_strings/templates/sv.json'
 jest.disableAutomock()
 
-var name1 = '_name'
-var name2 = '_name_'
-var title1 = '_title'
-var title2 = '_title_'
-var desc1 = '_description'
-var desc2 = '_description_'
+let name1 = '_name'
+let name2 = '_name_'
+let title1 = '_title'
+let title2 = '_title_'
+let desc1 = '_description'
+let desc2 = '_description_'
 
-var checkForPattern = (patternString: string): boolean => {
+let checkForPattern = (patternString: string): boolean => {
   let descKeys = Object.keys(svLang)
   descKeys = descKeys.filter(deskKey => deskKey.includes(patternString) && deskKey.length === patternString.length)
   return descKeys.length === 1
@@ -17,12 +17,12 @@ var checkForPattern = (patternString: string): boolean => {
 
 describe('default', () => {
   it('Should have _description for _name or _title', () => {
-    var errors = []
+    let errors = []
 
-    var langKeys = Object.keys(svLang)
+    let langKeys = Object.keys(svLang)
 
     langKeys.forEach((titleTemplate) => {
-      var descString
+      let descString
 
       switch (true) {
         case (titleTemplate.includes(name1) && !titleTemplate.includes(name2)):
@@ -53,12 +53,12 @@ describe('default', () => {
   })
 
   it('Each description should have name or title', () => {
-    var errors = []
-    var langKeys = Object.keys(svLang)
+    let errors = []
+    let langKeys = Object.keys(svLang)
 
     langKeys.forEach((titleTemplate) => {
-      var descString1
-      var descString2
+      let descString1
+      let descString2
 
       switch (true) {
         case (titleTemplate.includes(desc1) && !titleTemplate.includes(desc2)):

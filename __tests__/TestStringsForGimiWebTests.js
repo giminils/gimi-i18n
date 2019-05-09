@@ -1,16 +1,16 @@
 
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
-var langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv', 'it', 'es', 'de']
+let langCodes = ['da', 'en', 'fi', 'fr', 'nl', 'no', 'sv', 'it', 'es', 'de']
 jest.disableAutomock()
 
-var textStringsTypes = ['gimi-web']
+let textStringsTypes = ['gimi-web']
 
-var textStrings = {}
+let textStrings = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
   langCodes.forEach(lang => {
-    var url = `../text_strings/${textStringsType}/${lang}`
+    let url = `../text_strings/${textStringsType}/${lang}`
     try {
       textStrings[textStringsType][lang] = require(url)
     } catch (e) {
