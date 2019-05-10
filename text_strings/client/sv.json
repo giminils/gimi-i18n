@@ -2475,5 +2475,6 @@
   "sharing_card_activated_message": "PLZ_CHECK Now i can spend my own money!",
   "shareable_upgraded_to_master_title": "PLZ_CHECK Upgraded to Gimi Master",
   "sharing_upgraded_to_master_title": "PLZ_CHECK I've upgraded to Gimi Master",
-  "sharing_upgraded_to_master_message": "PLZ_CHECK I now use the Gimi app as a master!"
+  "sharing_upgraded_to_master_message": "PLZ_CHECK I now use the Gimi app as a master!",
+  "general_subscription_type": "PLZ_CHECK Subscription:"
 }
