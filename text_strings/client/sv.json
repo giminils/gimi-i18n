@@ -2477,5 +2477,6 @@
   "sharing_upgraded_to_master_title": "PLZ_CHECK I've upgraded to Gimi Master",
   "sharing_upgraded_to_master_message": "PLZ_CHECK I now use the Gimi app as a master!",
   "general_subscription_type": "PLZ_CHECK Subscription: %1$d",
-  "general_master_forever": "PLZ_CHECK Master Forever"
+  "general_master_forever": "PLZ_CHECK Master Forever",
+  "subscription_will_expire_in": "PLZ_CHECK Subscription will expire in %1$d days"
 }
