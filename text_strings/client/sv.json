@@ -2479,5 +2479,8 @@
   "general_subscription_type": "PLZ_CHECK Subscription: %1$d",
   "general_master_forever": "PLZ_CHECK Master Forever",
   "subscription_will_expire_in": "PLZ_CHECK Subscription will expire in %1$d days",
-  "general_renew_now": "PLZ_CHECK Renew now!"
+  "general_renew_now": "PLZ_CHECK Renew now!",
+  "card_blocked_status_c_popover_title": "PLZ_CHECK Your card has been blocked",
+  "card_blocked_status_c_popover_desc": "PLZ_CHECK It could be due to several reasons. Please contact us and we will sort this out!",
+  "card_blocked_status_c_intercom_prefill": "PLZ_CHECK Help! My Gimi card has been blocked due to an unknown reason"
 }
