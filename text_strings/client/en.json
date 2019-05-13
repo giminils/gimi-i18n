@@ -2472,5 +2472,8 @@
   "general_renew_now": "Renew now!",
   "card_blocked_status_c_popover_title": "Your card has been blocked",
   "card_blocked_status_c_popover_desc": "It could be due to several reasons. Please contact us and we will sort this out!",
-  "card_blocked_status_c_intercom_prefill": "Help! My Gimi card has been blocked due to an unknown reason"
+  "card_blocked_status_c_intercom_prefill": "Help! My Gimi card has been blocked due to an unknown reason",
+  "pay_via_stripe_option_desc": "Save your card with Gimi, supported by Stripe. No credit cards accepted",
+  "payment_option_swish": "Mobile transfer",
+  "payment_option_stripe": "Card on file"
 }
