@@ -2473,7 +2473,7 @@
   "card_blocked_status_c_popover_title": "Ditt kort har spärrats",
   "card_blocked_status_c_popover_desc": "Det kan bero på flera saker. Kontakta oss så hjälper vi dig!",
   "card_blocked_status_c_intercom_prefill": "Hjälp! Mitt Gimi-kort har spärrats av en okänd anledning",
-  "pay_via_stripe_option_desc": "PLZ_CHECK Save your card with Gimi, supported by Stripe. No credit cards accepted",
-  "payment_option_swish": "PLZ_CHECK Mobile transfer",
-  "payment_option_stripe": "PLZ_CHECK Card on file"
+  "pay_via_stripe_option_desc": "Spara ditt kort i Gimi och gör enkla överföringar med Stripe. Inga kreditkort!",
+  "payment_option_swish": "Swish",
+  "payment_option_stripe": "Sparat kort"
 }
