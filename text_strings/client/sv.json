@@ -2426,7 +2426,7 @@
   "camera_permissions_restricted": "Access to camera was restricted",
   "no_digits_error": "Inga siffror i kommentaren...",
   "chore_description_placeholder": "Ingen beskrivning på den här uppgifter. VIll du lägga till en? Tryck på ändra-knappen här nere!",
-  "chore_active_days:": "Aktiveras",
+  "chore_active_days": "Aktiveras",
   "pin_loading_screen_title_parent": "Koden till kortet...",
   "activate_card_show_pin_title_parent": "Koden till kortet",
   "activate_new_card_show_pin_title_parent": "Koden till nya kortet",

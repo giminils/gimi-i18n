@@ -2426,7 +2426,7 @@
   "camera_permissions_restricted": "Access to camera was restricted",
   "no_digits_error": "PLZ_TRANSLATE no digits supported in input",
   "chore_description_placeholder": "PLZ_TRANSLATE No description for this chore. Want to add one? Click the edit button below!",
-  "chore_active_days:": "PLZ_TRANSLATE Activated",
+  "chore_active_days": "PLZ_TRANSLATE Activated",
   "pin_loading_screen_title_parent": "PLZ_TRANSLATE The code to the card...",
   "activate_card_show_pin_title_parent": "PLZ_TRANSLATE the PIN code for the card",
   "activate_new_card_show_pin_title_parent": "PLZ_TRANSLATE the PIN code for the new card",
