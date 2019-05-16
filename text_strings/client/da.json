@@ -2475,5 +2475,22 @@
   "card_blocked_status_c_intercom_prefill": "PLZ_TRANSLATE Help! My Gimi card has been blocked due to an unknown reason",
   "pay_via_stripe_option_desc": "PLZ_TRANSLATE Save your card with Gimi, supported by Stripe. No credit cards accepted",
   "payment_option_swish": "PLZ_TRANSLATE Mobile transfer",
-  "payment_option_stripe": "PLZ_TRANSLATE Card on file"
+  "payment_option_stripe": "PLZ_TRANSLATE Card on file",
+  "passed_due_yesterday_title": "PLZ_TRANSLATE Late! Was due yesterday",
+  "passed_due_monday_title": "PLZ_TRANSLATE Late! Was due monday",
+  "passed_due_tuesday_title": "PLZ_TRANSLATE Late! Was due tuesday",
+  "passed_due_wednesday_title": "PLZ_TRANSLATE Late! Was due wednesday",
+  "passed_due_thursday_title": "PLZ_TRANSLATE Late! Was due thursday",
+  "passed_due_friday_title": "PLZ_TRANSLATE Late! Was due friday",
+  "passed_due_saturday_title": "PLZ_TRANSLATE Late! Was due saturday",
+  "passed_due_sunday_title": "PLZ_TRANSLATE Late! Was due sunday",
+  "future_due_tomorrow_title": "PLZ_TRANSLATE Due tomorrow",
+  "future_due_monday_title": "PLZ_TRANSLATE Due monday",
+  "future_due_tuesday_title": "PLZ_TRANSLATE Due tuesday",
+  "future_due_wednesday_title": "PLZ_TRANSLATE Due wednesday",
+  "future_due_thursday_title": "PLZ_TRANSLATE Due thursday",
+  "future_due_friday_title": "PLZ_TRANSLATE Due friday",
+  "future_due_saturday_title": "PLZ_TRANSLATE Due saturday",
+  "future_due_sunday_title": "PLZ_TRANSLATE Due sunday",
+  "general_future_due": "PLZ_TRANSLATE Due soon"
 }

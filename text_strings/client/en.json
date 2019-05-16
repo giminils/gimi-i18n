@@ -2475,5 +2475,22 @@
   "card_blocked_status_c_intercom_prefill": "Help! My Gimi card has been blocked due to an unknown reason",
   "pay_via_stripe_option_desc": "Save your card with Gimi, supported by Stripe. No credit cards accepted",
   "payment_option_swish": "Mobile transfer",
-  "payment_option_stripe": "Card on file"
+  "payment_option_stripe": "Card on file",
+  "passed_due_yesterday_title": "Late! Was due yesterday",
+  "passed_due_monday_title": "Late! Was due monday",
+  "passed_due_tuesday_title": "Late! Was due tuesday",
+  "passed_due_wednesday_title": "Late! Was due wednesday",
+  "passed_due_thursday_title": "Late! Was due thursday",
+  "passed_due_friday_title": "Late! Was due friday",
+  "passed_due_saturday_title": "Late! Was due saturday",
+  "passed_due_sunday_title": "Late! Was due sunday",
+  "future_due_tomorrow_title": "Due tomorrow",
+  "future_due_monday_title": "Due monday",
+  "future_due_tuesday_title": "Due tuesday",
+  "future_due_wednesday_title": "Due wednesday",
+  "future_due_thursday_title": "Due thursday",
+  "future_due_friday_title": "Due friday",
+  "future_due_saturday_title": "Due saturday",
+  "future_due_sunday_title": "Due sunday",
+  "general_future_due": "Due soon"
 }
