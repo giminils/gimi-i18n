@@ -2494,5 +2494,8 @@
   "future_due_sunday_title": "PLZ_TRANSLATE Due sunday",
   "general_future_due": "PLZ_TRANSLATE Due soon",
   "passed_due_day_name": "PLZ_TRANSLATE Late! Was due %1$d",
-  "future_due_day_name": "PLZ_TRANSLATE Due %1$d"
+  "future_due_day_name": "PLZ_TRANSLATE Due %1$d",
+  "card_graph_ideas_contact_title": "PLZ_TRANSLATE What would you like to see here?",
+  "card_graph_ideas_contact_button": "PLZ_TRANSLATE Tell us",
+  "card_graph_ideas_contact_prefilled_message": "PLZ_TRANSLATE I have a suggestion about a statistic i want to see on the child card!"
 }
