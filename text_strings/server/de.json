@@ -1,7 +1,7 @@
 {
   "push_withdrawal_child": "{transaction.created_by.name} hat {transaction.str_value} von Ersparnissen abgebucht",
   "push_withdrawal_parent": "{transaction.created_by.name} hat {transaction.str_value} von {transaction.child.nickname} abgebucht",
-  "push_assignment_created": "PLZ_TRANSLATE You got new chore! 💪",
+  "push_assignment_created": "Du hast eine neue Aufgabe! 💪",
   "push_assignment_active_again": "Die Aufgabe {assignment.task.title} ist wieder verfügbar. Wer zuerst kommt, mahlt zuerst",
   "push_assignment_done": "{assignment.child.nickname} hat soeben {assignment.task.title} ausgeführt",
   "push_assignment_done_by_other": "Du warst nicht schnell genug! {assignment.task.shared_task_completed_by} hat {assignment.task.title} vor Dir beendet",
@@ -131,7 +131,7 @@
   "event_payday_parent": "Es ist Zahltag für {child.nickname}",
   "event_premium_payday_child": "Es ist Zahltag!",
   "push_you_got_a_chore_suggestion": "Aufgabenvorschlag von {task.created_by.nickname}",
-  "event_other_parent_asks_for_deposit": "{permission_request.parent_child_relation.parent.nickname} bittet um Erlaubnis für {permission_request.parent_child_relation.child.nickname} etwas einzuzahlen",
+  "event_other_parent_asks_for_deposit": "{permission_request.parent_child_relation.parent.nickname} bittet um Erlaubnis um {permission_request.parent_child_relation.child.nickname} etwas einzuzahlen",
   "event_new_weekly_tasks": "Sieh Dir die Aufgaben dieser Woche an!",
   "event_permissions_to_deposit_granted": "Du hast die Erlaubnis erhalten, {child.nickname} Geld zu schicken",
   "event_suggested_chore_enabled": "{parent.nickname} hat Deinen Aufgabenvorschlag angenommen!",
