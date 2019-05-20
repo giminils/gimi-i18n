@@ -2492,5 +2492,7 @@
   "future_due_friday_title": "Due friday",
   "future_due_saturday_title": "Due saturday",
   "future_due_sunday_title": "Due sunday",
-  "general_future_due": "Due soon"
+  "general_future_due": "Due soon",
+  "passed_due_day_name": "Late! Was due %1$d",
+  "future_due_day_name": "Due %1$d"
 }

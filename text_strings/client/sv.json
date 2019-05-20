@@ -2492,5 +2492,7 @@
   "future_due_friday_title": "Ska göras på fredag",
   "future_due_saturday_title": "Ska göras på lördag",
   "future_due_sunday_title": "Ska göras på söndag",
-  "general_future_due": "PLZ_CHECK Due soon"
+  "general_future_due": "PLZ_CHECK Due soon",
+  "passed_due_day_name": "PLZ_CHECK Late! Was due %1$d",
+  "future_due_day_name": "PLZ_CHECK Due %1$d"
 }

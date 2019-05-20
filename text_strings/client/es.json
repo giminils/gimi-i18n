@@ -2492,5 +2492,7 @@
   "future_due_friday_title": "PLZ_TRANSLATE Due friday",
   "future_due_saturday_title": "PLZ_TRANSLATE Due saturday",
   "future_due_sunday_title": "PLZ_TRANSLATE Due sunday",
-  "general_future_due": "PLZ_TRANSLATE Due soon"
+  "general_future_due": "PLZ_TRANSLATE Due soon",
+  "passed_due_day_name": "PLZ_TRANSLATE Late! Was due %1$d",
+  "future_due_day_name": "PLZ_TRANSLATE Due %1$d"
 }
