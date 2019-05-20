@@ -2238,7 +2238,7 @@
   "premium_slide_desc_4": "...varje gång kortet används",
   "itunes_disclaimer_title": "Recurring billing, cancel anytime. ",
   "itunes_disclaimer": "PLZ_CHECK Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. For more information, please see our terms of service and privacy policy.",
-  "popular_iap_banner": "PLZ_CHECK Early bird!",
+  "popular_iap_banner": "Early bird!",
   "premium_early_bird": "Prova gratis i 1 månad",
   "premium_slide_title_without_kid": "Skaffa Gimi Master!",
   "general_timezone": "Tidszon",
@@ -2482,7 +2482,7 @@
   "passed_due_wednesday_title": "Sen! Skulle gjorts i onsdags",
   "passed_due_thursday_title": "Sen! Skulle gjorts i torsdags",
   "passed_due_friday_title": "Sen! Skulle gjorts i fredags",
-  "passed_due_saturday_title": "PSen! Skulle gjorts i lördags",
+  "passed_due_saturday_title": "Sen! Skulle gjorts i lördags",
   "passed_due_sunday_title": "Sen! Skulle gjorts i söndags",
   "future_due_tomorrow_title": "Ska göras imorrn",
   "future_due_monday_title": "Ska göras på måndag",
@@ -2492,7 +2492,7 @@
   "future_due_friday_title": "Ska göras på fredag",
   "future_due_saturday_title": "Ska göras på lördag",
   "future_due_sunday_title": "Ska göras på söndag",
-  "general_future_due": "PLZ_CHECK Due soon",
-  "passed_due_day_name": "PLZ_CHECK Late! Was due %1$d",
-  "future_due_day_name": "PLZ_CHECK Due %1$d"
+  "general_future_due": "Ska göras snart",
+  "passed_due_day_name": "Sen! Skulle gjorts i %1$ds",
+  "future_due_day_name": "Ska göras på %1$d"
 }
