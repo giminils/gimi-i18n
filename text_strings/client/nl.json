@@ -2499,5 +2499,8 @@
   "card_graph_ideas_contact_button": "PLZ_TRANSLATE Tell us",
   "card_graph_ideas_contact_prefilled_message": "PLZ_TRANSLATE I have a suggestion about a statistic i want to see on the child card!",
   "convert_to_stripe_title": "PLZ_TRANSLATE We've made some updates!",
-  "convert_to_stripe_desc": "PLZ_TRANSLATE To imporove your loading experience, we've changed provider. We just need to ask you to save your card details again, this time with Stripe!"
+  "convert_to_stripe_desc": "PLZ_TRANSLATE To imporove your loading experience, we've changed provider. We just need to ask you to save your card details again, this time with Stripe!",
+  "acquirer_error_title": "PLZ_TRANSLATE Oh no... something went wrong",
+  "card_acquirer_error_subtitle": "PLZ_TRANSLATE We think it's a problem with your saved card. Sure you saved the right card details? Sure you have sufficent funds on the card?",
+  "general_acquirer_error_subtitle": "PLZ_TRANSLATE We're sorry about that! Please try again soon hopefully it's up and working by then!"
 }

@@ -2499,5 +2499,8 @@
   "card_graph_ideas_contact_button": "Berätta!",
   "card_graph_ideas_contact_prefilled_message": "Jag har förslag på statistik som jag vill se på barnets kort!",
   "convert_to_stripe_title": "En liten uppdatering...!",
-  "convert_to_stripe_desc": "För att förbättra överföringar till Gimi-kortet har vi bytt leverantör. Vi måste bara be dig att spara dina kortuppgifter igen, hos Stripe!"
+  "convert_to_stripe_desc": "För att förbättra överföringar till Gimi-kortet har vi bytt leverantör. Vi måste bara be dig att spara dina kortuppgifter igen, hos Stripe!",
+  "acquirer_error_title": "PLZ_CHECK Oh no... something went wrong",
+  "card_acquirer_error_subtitle": "PLZ_CHECK We think it's a problem with your saved card. Sure you saved the right card details? Sure you have sufficent funds on the card?",
+  "general_acquirer_error_subtitle": "PLZ_CHECK We're sorry about that! Please try again soon hopefully it's up and working by then!"
 }
