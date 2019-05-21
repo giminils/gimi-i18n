@@ -2495,9 +2495,9 @@
   "general_future_due": "Ska göras snart",
   "passed_due_day_name": "Sen! Skulle gjorts i %1$ds",
   "future_due_day_name": "Ska göras på %1$d",
-  "card_graph_ideas_contact_title": "PLZ_CHECK What would you like to see here?",
-  "card_graph_ideas_contact_button": "PLZ_CHECK Tell us",
-  "card_graph_ideas_contact_prefilled_message": "PLZ_CHECK I have a suggestion about a statistic i want to see on the child card!",
-  "convert_to_stripe_title": "PLZ_CHECK We've made some updates!",
-  "convert_to_stripe_desc": "PLZ_CHECK To imporove your loading experience, we've changed provider. We just need to ask you to save your card details again, this time with Stripe!"
+  "card_graph_ideas_contact_title": "Vad skulle du vilja se här?",
+  "card_graph_ideas_contact_button": "Berätta!",
+  "card_graph_ideas_contact_prefilled_message": "Jag har förslag på statistik som jag vill se på barnets kort!",
+  "convert_to_stripe_title": "En liten uppdatering...!",
+  "convert_to_stripe_desc": "För att förbättra överföringar till Gimi-kortet har vi bytt leverantör. Vi måste bara be dig att spara dina kortuppgifter igen, hos Stripe!"
 }
