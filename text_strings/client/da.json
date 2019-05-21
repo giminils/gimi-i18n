@@ -2497,5 +2497,7 @@
   "future_due_day_name": "PLZ_TRANSLATE Due %1$d",
   "card_graph_ideas_contact_title": "PLZ_TRANSLATE What would you like to see here?",
   "card_graph_ideas_contact_button": "PLZ_TRANSLATE Tell us",
-  "card_graph_ideas_contact_prefilled_message": "PLZ_TRANSLATE I have a suggestion about a statistic i want to see on the child card!"
+  "card_graph_ideas_contact_prefilled_message": "PLZ_TRANSLATE I have a suggestion about a statistic i want to see on the child card!",
+  "convert_to_stripe_title": "PLZ_TRANSLATE We've made some updates!",
+  "convert_to_stripe_desc": "PLZ_TRANSLATE To imporove your loading experience, we've changed provider. We just need to ask you to save your card details again, this time with Stripe!"
 }
