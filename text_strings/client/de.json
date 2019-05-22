@@ -2244,7 +2244,7 @@
   "general_timezone": "Zeitzone",
   "payday_info_supporters_parent": "Unterstützer",
   "payday_info_supporters_kid": "Unterstützer",
-  "payday_info_supporters_desc_parent": "Soviel hat jeder einzelen Untersützer %1$d bezahlt",
+  "payday_info_supporters_desc_parent": "So viel hat jeder einzelen Unterstützer %1$d bezahlt",
   "payday_info_supporters_desc_kid": "Zahltag für jeden Unterstützer hinzugefügt:",
   "order_card_for_name_promotion": "Besorg die Gimi Card für %1$d!",
   "set_kid_phone_for_card_subtitle": "PLZ_TRANSLATE A verified phone number is required to secure the app and card.",
