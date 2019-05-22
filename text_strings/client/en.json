@@ -2502,5 +2502,7 @@
   "convert_to_stripe_desc": "To imporove your loading experience, we've changed provider. We just need to ask you to save your card details again, this time with Stripe!",
   "acquirer_error_title": "Oh no... something went wrong",
   "card_acquirer_error_subtitle": "We think it's a problem with your saved card. Sure you saved the right card details? Sure you have sufficent funds on the card?",
-  "general_acquirer_error_subtitle": "We're sorry about that! Please try again soon hopefully it's up and working by then!"
+  "general_acquirer_error_subtitle": "We're sorry about that! Please try again soon hopefully it's up and working by then!",
+  "premium_payday_mutliple_deposit_confirmation_title": "You just transfered %1$d to your children",
+  "premium_payday_mutliple_deposit_confirmation_desc": "The payday money will be on the cards soon, give it a few minutes."
 }
