@@ -2509,5 +2509,6 @@
   "payday_overview_earn_section_subtitle": "PLZ_TRANSLATE How money was earned",
   "payday_overview_supporters_section_subtitle": "PLZ_TRANSLATE How much supporters owe",
   "payday_overview_amount_section_subtitle": "PLZ_TRANSLATE Earned so far",
-  "general_payday": "PLZ_TRANSLATE Payday"
+  "general_payday": "PLZ_TRANSLATE Payday",
+  "connection_title": "PLZ_TRANSLATE Connect with someone"
 }
