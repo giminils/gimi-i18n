@@ -2512,5 +2512,8 @@
   "general_payday": "Payday",
   "connection_title": "Connect with someone",
   "not_my_birthday": "It's not my birthday",
-  "ok_thanks": "OK thanks!"
+  "ok_thanks": "OK thanks!",
+  "not_my_birthday_popover_title": "Sorry. Must have the wrong date...",
+  "not_my_birthday_popover_text": "Correct your birth date so we can say congratulations on the right day!",
+  "general_ok_sure": "OK, sure!"
 }

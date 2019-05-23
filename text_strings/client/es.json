@@ -2512,5 +2512,8 @@
   "general_payday": "PLZ_TRANSLATE Payday",
   "connection_title": "PLZ_TRANSLATE Connect with someone",
   "not_my_birthday": "PLZ_TRANSLATE It's not my birthday",
-  "ok_thanks": "PLZ_TRANSLATE OK thanks!"
+  "ok_thanks": "PLZ_TRANSLATE OK thanks!",
+  "not_my_birthday_popover_title": "PLZ_TRANSLATE Sorry. Must have the wrong date...",
+  "not_my_birthday_popover_text": "PLZ_TRANSLATE Correct your birth date so we can say congratulations on the right day!",
+  "general_ok_sure": "PLZ_TRANSLATE OK, sure!"
 }
