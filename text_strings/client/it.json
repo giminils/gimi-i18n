@@ -38,7 +38,7 @@
   "general_payment": "Metodo di pagamento",
   "general_help": "aiuto",
   "general_birthday": "compleanno",
-  "general_happy_birthday": "Buon compleanno",
+  "general_happy_birthday": "PLZ_TRANSLATE Happy birthday 🎉",
   "general_phone": "numero di telefono",
   "general_email": "email",
   "general_push": "notifiche push",
@@ -2510,5 +2510,7 @@
   "payday_overview_supporters_section_subtitle": "PLZ_TRANSLATE How much supporters owe",
   "payday_overview_amount_section_subtitle": "PLZ_TRANSLATE Earned so far",
   "general_payday": "PLZ_TRANSLATE Payday",
-  "connection_title": "PLZ_TRANSLATE Connect with someone"
+  "connection_title": "PLZ_TRANSLATE Connect with someone",
+  "not_my_birthday": "PLZ_TRANSLATE It's not my birthday",
+  "ok_thanks": "PLZ_TRANSLATE OK thanks!"
 }

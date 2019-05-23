@@ -38,7 +38,7 @@
   "general_payment": "Payment method",
   "general_help": "help",
   "general_birthday": "birthday",
-  "general_happy_birthday": "Happy birthday",
+  "general_happy_birthday": "Happy birthday 🎉",
   "general_phone": "Phone number",
   "general_email": "email",
   "general_push": "push notifications",
@@ -2510,5 +2510,7 @@
   "payday_overview_supporters_section_subtitle": "How much supporters owe",
   "payday_overview_amount_section_subtitle": "Earned so far",
   "general_payday": "Payday",
-  "connection_title": "Connect with someone"
+  "connection_title": "Connect with someone",
+  "not_my_birthday": "It's not my birthday",
+  "ok_thanks": "OK thanks!"
 }

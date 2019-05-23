@@ -38,7 +38,7 @@
   "general_payment": "Betalings methode",
   "general_help": "help",
   "general_birthday": "verjaardag",
-  "general_happy_birthday": "Gefeliciteerd met je verjaardag",
+  "general_happy_birthday": "PLZ_TRANSLATE Happy birthday 🎉",
   "general_phone": "telefoonnummer",
   "general_email": "email",
   "general_push": "push notificatie",
@@ -2510,5 +2510,7 @@
   "payday_overview_supporters_section_subtitle": "PLZ_TRANSLATE How much supporters owe",
   "payday_overview_amount_section_subtitle": "PLZ_TRANSLATE Earned so far",
   "general_payday": "PLZ_TRANSLATE Payday",
-  "connection_title": "PLZ_TRANSLATE Connect with someone"
+  "connection_title": "PLZ_TRANSLATE Connect with someone",
+  "not_my_birthday": "PLZ_TRANSLATE It's not my birthday",
+  "ok_thanks": "PLZ_TRANSLATE OK thanks!"
 }
