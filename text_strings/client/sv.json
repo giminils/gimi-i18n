@@ -2508,5 +2508,6 @@
   "limited_offer": "PLZ_CHECK Limited offer",
   "payday_overview_earn_section_subtitle": "PLZ_CHECK How money was earned",
   "payday_overview_supporters_section_subtitle": "PLZ_CHECK How much supporters owe",
-  "payday_overview_amount_section_subtitle": "PLZ_CHECK Earned so far"
+  "payday_overview_amount_section_subtitle": "PLZ_CHECK Earned so far",
+  "general_payday": "PLZ_CHECK Payday"
 }
