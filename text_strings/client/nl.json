@@ -2505,5 +2505,8 @@
   "general_acquirer_error_subtitle": "PLZ_TRANSLATE We're sorry about that! Please try again soon hopefully it's up and working by then!",
   "premium_payday_mutliple_deposit_confirmation_title": "PLZ_TRANSLATE You just transfered %1$d to your children",
   "premium_payday_mutliple_deposit_confirmation_desc": "PLZ_TRANSLATE The payday money will be on the cards soon, give it a few minutes.",
-  "limited_offer": "PLZ_TRANSLATE Limited offer"
+  "limited_offer": "PLZ_TRANSLATE Limited offer",
+  "payday_overview_earn_section_subtitle": "PLZ_TRANSLATE How money was earned",
+  "payday_overview_supporters_section_subtitle": "PLZ_TRANSLATE How much supporters owe",
+  "payday_overview_amount_section_subtitle": "PLZ_TRANSLATE Earned so far"
 }

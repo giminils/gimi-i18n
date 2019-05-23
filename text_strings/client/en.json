@@ -2505,5 +2505,8 @@
   "general_acquirer_error_subtitle": "We're sorry about that! Please try again soon hopefully it's up and working by then!",
   "premium_payday_mutliple_deposit_confirmation_title": "You just transfered %1$d to your children",
   "premium_payday_mutliple_deposit_confirmation_desc": "The payday money will be on the cards soon, give it a few minutes.",
-  "limited_offer": "Limited offer"
+  "limited_offer": "Limited offer",
+  "payday_overview_earn_section_subtitle": "How money was earned",
+  "payday_overview_supporters_section_subtitle": "How much supporters owe",
+  "payday_overview_amount_section_subtitle": "Earned so far"
 }
