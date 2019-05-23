@@ -1078,6 +1078,7 @@
   "nothing_to_see_here": "Leeg hier...",
   "custom_notification_get_money": "Nog geen geld, nodig een volwassene uit om geld te krijgen",
   "custom_notification_create_dream": "begin met sparen voor een droomwens",
+  "custom_notification_can_apple_pay": "PLZ_TRANSLATE Your Gimi card can be used with Apple Pay!Activate it now",
   "kid_onboarding_start": "welkom bij de nieuwe Gimi",
   "delete_connection_sure": "weet je zeker dat je %1$d? wilt verwijderen?",
   "x_have_been_added_to_cloud": "%1$d is toegevoegd aan je Spaargeld.",

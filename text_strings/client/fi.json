@@ -1078,6 +1078,7 @@
   "nothing_to_see_here": "Tyhjää täynnä...",
   "custom_notification_get_money": "Kutsu aikuinen saadaksesi rahaa",
   "custom_notification_create_dream": "Ala säästämään unelmaa varten",
+  "custom_notification_can_apple_pay": "PLZ_TRANSLATE Your Gimi card can be used with Apple Pay!Activate it now",
   "kid_onboarding_start": "tervetuloa uuteen Gimiin",
   "delete_connection_sure": "haluatko varmasti poistaa kontaktin %1$d?",
   "x_have_been_added_to_cloud": "%1$d lisättiin Säästöihin.",

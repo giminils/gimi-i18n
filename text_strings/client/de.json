@@ -1078,6 +1078,7 @@
   "nothing_to_see_here": "Hier gibt es nichts zu sehen",
   "custom_notification_get_money": "PLZ_CHECK kein Geld mehr in der Warteschleife, lade einen Erwachsenen ein",
   "custom_notification_create_dream": "Beginne, für einen Traum zu sparen",
+  "custom_notification_can_apple_pay": "PLZ_TRANSLATE Your Gimi card can be used with Apple Pay!Activate it now",
   "kid_onboarding_start": "Willkommen zum neuen Gimi",
   "delete_connection_sure": "Bist Du sicher, dass Du %1$d löschen möchtest?",
   "x_have_been_added_to_cloud": "%1$d wurde zur Cloud hinzugefügt",

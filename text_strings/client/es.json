@@ -1078,6 +1078,7 @@
   "nothing_to_see_here": "Vaciar aqui...",
   "custom_notification_get_money": "sin dinero, invitar a un adulto",
   "custom_notification_create_dream": "comienza a ahorrar para un sueño",
+  "custom_notification_can_apple_pay": "PLZ_TRANSLATE Your Gimi card can be used with Apple Pay!Activate it now",
   "kid_onboarding_start": "bienvenido al nuevo Gimi",
   "delete_connection_sure": "¿estás seguro que deseas eliminar %1$d?",
   "x_have_been_added_to_cloud": "%1$d ha sido añadido a la nube.",

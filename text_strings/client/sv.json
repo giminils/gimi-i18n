@@ -1078,6 +1078,7 @@
   "nothing_to_see_here": "Tomt här...",
   "custom_notification_get_money": "inga pengar än, bjud in en förälder",
   "custom_notification_create_dream": "börja spara till en dröm",
+  "custom_notification_can_apple_pay": "PLZ_CHECK Your Gimi card can be used with Apple Pay!Activate it now",
   "kid_onboarding_start": "välkommen till nya Gimi",
   "delete_connection_sure": "är du säker på att du vill radera %1$d?",
   "x_have_been_added_to_cloud": "%1$d har sparats.",
