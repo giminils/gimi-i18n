@@ -2265,7 +2265,6 @@
   "general_show_code": "Montrer le code",
   "one_time_cost": "Coût unique",
   "general_forever": "Pour toujours",
-  "save_n_percent": "Sauvegarder %1$d%",
   "lysa_email_title": "D'abord nous avons besoin de votre email...",
   "delete_chore": "Supprimer la tâche",
   "transfer_between_card_loading_title": "Envoyer de l'argent...",
@@ -2504,5 +2503,6 @@
   "card_acquirer_error_subtitle": "PLZ_TRANSLATE We think it's a problem with your saved card. Sure you saved the right card details? Sure you have sufficent funds on the card?",
   "general_acquirer_error_subtitle": "PLZ_TRANSLATE We're sorry about that! Please try again soon hopefully it's up and working by then!",
   "premium_payday_mutliple_deposit_confirmation_title": "PLZ_TRANSLATE You just transfered %1$d to your children",
-  "premium_payday_mutliple_deposit_confirmation_desc": "PLZ_TRANSLATE The payday money will be on the cards soon, give it a few minutes."
+  "premium_payday_mutliple_deposit_confirmation_desc": "PLZ_TRANSLATE The payday money will be on the cards soon, give it a few minutes.",
+  "limited_offer": "PLZ_TRANSLATE Limited offer"
 }
