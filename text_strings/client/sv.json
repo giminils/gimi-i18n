@@ -2515,5 +2515,8 @@
   "ok_thanks": "OK tack!",
   "not_my_birthday_popover_title": "Förlåt. Vi hade fel datum...",
   "not_my_birthday_popover_text": "Ändra din födelsedag så att vi kan gratulera på rätt dag!",
-  "general_ok_sure": "OK, visst!"
+  "general_ok_sure": "OK, visst!",
+  "copy_chore": "PLZ_CHECK Create copy",
+  "parent_copy_chore_action_title": "PLZ_CHECK You just created a copy of a chore!",
+  "parent_copy_chore_action_desc": "PLZ_CHECK %1$d will be notified and reminded!"
 }
