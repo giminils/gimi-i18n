@@ -285,7 +285,7 @@
   "ADGEON005_push_title": "¡Añade una foto de perfil!",
   "CHFRRE001_notification_title": "¡Hoy es Payday! 🤩",
   "ADGERE011_notification_title": "{child.nickname} ha alcanzado un sueño",
-  "CHGERE033_push_title": "¡No olvides que tienes {savings_balance} en los ahorros! ✌️",
+  "CHGERE033_push_title": "¡No olvides que tienes {savings_balance} en los ahorros! ✌️ ",
   "CHGERE028_push_title": "Tú y {ConnectionToken.used_by.nickname} están conectados!",
   "CHGERE028_notification_title": "¡Estás conectado con {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "¡Ahora estás conectado con {child.nickname}!",
