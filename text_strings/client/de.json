@@ -2518,5 +2518,7 @@
   "general_ok_sure": "PLZ_TRANSLATE OK, sure!",
   "copy_chore": "PLZ_TRANSLATE Create copy",
   "parent_copy_chore_action_title": "PLZ_TRANSLATE You just created a copy of a chore!",
-  "parent_copy_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!"
+  "parent_copy_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!",
+  "wrong_ident_popover_title": "PLZ_TRANSLATE Error in phone number",
+  "wrong_ident_popover_desc": "PLZ_TRANSLATE Phone number dosnt seem to be real..."
 }

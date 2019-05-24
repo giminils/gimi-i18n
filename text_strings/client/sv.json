@@ -2518,5 +2518,7 @@
   "general_ok_sure": "OK, visst!",
   "copy_chore": "PLZ_CHECK Create copy",
   "parent_copy_chore_action_title": "PLZ_CHECK You just created a copy of a chore!",
-  "parent_copy_chore_action_desc": "PLZ_CHECK %1$d will be notified and reminded!"
+  "parent_copy_chore_action_desc": "PLZ_CHECK %1$d will be notified and reminded!",
+  "wrong_ident_popover_title": "PLZ_CHECK Error in phone number",
+  "wrong_ident_popover_desc": "PLZ_CHECK Phone number dosnt seem to be real..."
 }

@@ -2518,5 +2518,7 @@
   "general_ok_sure": "OK, sure!",
   "copy_chore": "Create copy",
   "parent_copy_chore_action_title": "You just created a copy of a chore!",
-  "parent_copy_chore_action_desc": "%1$d will be notified and reminded!"
+  "parent_copy_chore_action_desc": "%1$d will be notified and reminded!",
+  "wrong_ident_popover_title": "Error in phone number",
+  "wrong_ident_popover_desc": "Phone number dosnt seem to be real..."
 }
