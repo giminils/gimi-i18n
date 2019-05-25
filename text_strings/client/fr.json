@@ -2522,5 +2522,6 @@
   "wrong_ident_popover_title": "PLZ_TRANSLATE Error in phone number",
   "wrong_ident_popover_desc": "PLZ_TRANSLATE Phone number dosnt seem to be real...",
   "broken_contact_popover_title": "PLZ_TRANSLATE This number is is broken",
-  "broken_contact_popover_desc": "PLZ_TRANSLATE You can update the number here, we will save it to your contacts"
+  "broken_contact_popover_desc": "PLZ_TRANSLATE You can update the number here, we will save it to your contacts",
+  "error_updating_contact": "PLZ_TRANSLATE Contact could not be updated"
 }

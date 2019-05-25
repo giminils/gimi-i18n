@@ -2522,5 +2522,6 @@
   "wrong_ident_popover_title": "Error in phone number",
   "wrong_ident_popover_desc": "Phone number doesn't seem to be real...",
   "broken_contact_popover_title": "This number is is broken",
-  "broken_contact_popover_desc": "You can update the number here, we will save it to your contacts"
+  "broken_contact_popover_desc": "You can update the number here, we will save it to your contacts",
+  "error_updating_contact": "Contact could not be updated"
 }
