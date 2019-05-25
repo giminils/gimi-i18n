@@ -2520,5 +2520,7 @@
   "parent_copy_chore_action_title": "PLZ_TRANSLATE You just created a copy of a chore!",
   "parent_copy_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!",
   "wrong_ident_popover_title": "PLZ_TRANSLATE Error in phone number",
-  "wrong_ident_popover_desc": "PLZ_TRANSLATE Phone number dosnt seem to be real..."
+  "wrong_ident_popover_desc": "PLZ_TRANSLATE Phone number dosnt seem to be real...",
+  "broken_contact_popover_title": "PLZ_TRANSLATE This number is is broken",
+  "broken_contact_popover_desc": "PLZ_TRANSLATE You can update the number here, we will save it to your contacts"
 }

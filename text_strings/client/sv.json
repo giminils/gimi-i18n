@@ -2520,5 +2520,7 @@
   "parent_copy_chore_action_title": "Du skapade en kopia på uppgiften!",
   "parent_copy_chore_action_desc": "Vi informerar och påminner %1$d!",
   "wrong_ident_popover_title": "Fel i telefonnumret",
-  "wrong_ident_popover_desc": "Telefonnumret verkar inte stämma..."
+  "wrong_ident_popover_desc": "Telefonnumret verkar inte stämma...",
+  "broken_contact_popover_title": "PLZ_CHECK This number is is broken",
+  "broken_contact_popover_desc": "PLZ_CHECK You can update the number here, we will save it to your contacts"
 }
