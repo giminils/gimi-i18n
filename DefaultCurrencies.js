@@ -17,7 +17,6 @@ export default {
   'CA': 'CAD',
   'NZ': 'NZD',
   'IN': 'INR',
-  'ZA': 'ZAR',
   'IT': 'EUR', // Italy
   'BE': 'EUR', // Belgium
   'ES': 'EUR', // Spain

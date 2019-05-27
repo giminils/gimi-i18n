@@ -288,7 +288,7 @@
   "CHGERE033_push_title": "N'oublie pas que tu as {savings_balance} d'économies! ✌️",
   "CHGERE028_push_title": "Toi et {ConnectionToken.used_by.nickname} êtes connectés!",
   "CHGERE028_notification_title": "Tu es maintenant connecté avec{ConnectionToken.used_by.nickname}!",
-  "ADGERE021_notification_title": "Vous êtes maintenant connecté avec{ {child.nickname}!",
+  "ADGERE021_notification_title": "Vous êtes maintenant connecté avec {child.nickname}!",
   "ADGERE021_push_title": "Vous et {child.nickname} êtes connectés!",
   "ADGEON005_notification_title": "Ajouter une photo de profil!",
   "event_settle_your_debt": "Régler votre dette à {child.nickname}",
