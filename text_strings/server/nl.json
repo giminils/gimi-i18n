@@ -9,7 +9,7 @@
   "push_assignment_approved": "{assignment.task.title} is goedgekeurd door {assignment.approved_by.nickname}",
   "invite_email_subject": "Uitnodiging tot Gimi",
   "login_email_subject": "Login voor Gimi",
-  "dashboard_goal_completed": "Voltooid {goal.title}",
+  "dashboard_goal_completed": "PLZ_TRANSLATE You have completed {goal.title}",
   "event_complete_card_order": "Een kaart is onderweg! Je krijgt een kaart van Gimi. Ga naar de app voor meer info.",
   "sms_app_download": "Welkom bij Gimi!\n http://onelink.to/gimi_se",
   "push_assignment_approved_parent": "{assignment.approved_by.name} heeft {assignment.task.title} goedgekeurd. ({assignment.str_value})",

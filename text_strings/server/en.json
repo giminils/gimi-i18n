@@ -9,7 +9,7 @@
   "push_assignment_approved": "{assignment.task.title} was approved by {assignment.approved_by.nickname}",
   "invite_email_subject": "Invitation to Gimi",
   "login_email_subject": "Gimi Login",
-  "dashboard_goal_completed": "Completed {goal.title}",
+  "dashboard_goal_completed": "You have completed {goal.title}",
   "event_complete_card_order": "A card is on it's way to you!",
   "sms_app_download": "Welcome to Gimi!\n http://onelink.to/gimi_se",
   "push_assignment_approved_parent": "{assignment.approved_by.name} approved the chore {assignment.task.title}. ({assignment.str_value})",

@@ -9,7 +9,7 @@
   "push_assignment_approved": "PLZ_TRANSLATE {assignment.task.title} kiideti heaks {assignment.approved_by.nickname}",
   "invite_email_subject": "PLZ_TRANSLATE Invitation to Gimi",
   "login_email_subject": "PLZ_TRANSLATE Gimi Login",
-  "dashboard_goal_completed": "PLZ_TRANSLATE Completed {goal.title}",
+  "dashboard_goal_completed": "PLZ_TRANSLATE You have completed {goal.title}",
   "event_complete_card_order": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "sms_app_download": "PLZ_TRANSLATE Welcome to Gimi!\n http://onelink.to/gimi_se",
   "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved task {assignment.task.title}. ({assignment.str_value})",

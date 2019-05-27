@@ -9,7 +9,7 @@
   "push_assignment_approved": "{assignment.approved_by.nickname} hyväksyi askareen {assignment.task.title}",
   "invite_email_subject": "Kutsu Gimi-sovellukseen",
   "login_email_subject": "Kirjaudu sisään Gimi-sovellukseen",
-  "dashboard_goal_completed": "Säästötavoite {goal.title} saavutettu",
+  "dashboard_goal_completed": "PLZ_TRANSLATE You have completed {goal.title}",
   "event_complete_card_order": "Kortti on matkalla! Olet saamassa kortin Gimiltä. Löydät lisätietoja sovelluksesta",
   "sms_app_download": "Tervetuloa Gimi-sovellukseen!\n http://onelink.to/gimi_se",
   "push_assignment_approved_parent": "{assignment.approved_by.name} on hyväksynyt askareen {assignment.task.title} ({assignment.str_value})",

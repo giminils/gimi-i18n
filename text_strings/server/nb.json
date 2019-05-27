@@ -9,7 +9,7 @@
   "push_assignment_approved": "{assignment.task.title} ble godkjent av {assignment.approved_by.nickname}",
   "invite_email_subject": "Invitasjon til Gimi",
   "login_email_subject": "Logg inn på Gimi",
-  "dashboard_goal_completed": "Oppnådde sparemålet {goal.title}",
+  "dashboard_goal_completed": "PLZ_TRANSLATE You have completed {goal.title}",
   "event_complete_card_order": "Et kort er på vei! Du vil motta et kort fra Gimi. Åpne appen for mer informasjon",
   "sms_app_download": "Velkommen til Gimi!\n http://onelink.to/gimi_se",
   "push_assignment_approved_parent": "{assignment.approved_by.name} Godkjent oppgave {assignment.task.title} ({assignment.str_value})",
