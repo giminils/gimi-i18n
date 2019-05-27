@@ -254,7 +254,7 @@
   "ADGEON019_notification_title": "PLZ_TRANSLATE You're on the Gimi Card wait list!",
   "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi in 20 seconds",
   "push_child_spend": "PLZ_TRANSLATE 💳 You just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
-  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {pfstransactionstatement.card.user.nickname} just spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
+  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {pfstransactionstatement.card.user.nickname} spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "PLZ_TRANSLATE You have a new chore waiting to be done!",
   "CHGERE030_notification_title": "PLZ_TRANSLATE {parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "PLZ_TRANSLATE {child.nickname} has no chores yet. We have some chore suggestions!",

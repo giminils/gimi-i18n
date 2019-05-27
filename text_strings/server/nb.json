@@ -254,7 +254,7 @@
   "ADGEON019_notification_title": "Du står på Gimi Card-ventelisten!",
   "event_short_tutorial": "Hvordan å bruke Gimi på 20 sekunder",
   "push_child_spend": "💳 Du brukte akkurat {pfstransactionstatement.str_amount} hos {pfstransactionstatement.merchant_name}",
-  "push_child_spend_to_parent": "💳 {pfstransactionstatement.card.user.nickname} brukte akkurat {pfstransactionstatement.str_amount} hos {pfstransactionstatement.merchant_name}",
+  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {pfstransactionstatement.card.user.nickname} spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "Du har en ny oppgave som venter på deg!",
   "CHGERE030_notification_title": "{parent.nickname} har godtatt oppgaven!",
   "push_add_chores": "{child.nickname} har ingen oppgaver enda. Vi har noen forslag!",

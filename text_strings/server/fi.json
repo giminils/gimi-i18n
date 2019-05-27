@@ -254,7 +254,7 @@
   "ADGEON019_notification_title": "Olet Gimi-kortin odotuslistalla!",
   "event_short_tutorial": "Miten käyttää Gimiä 20 sekunnissa",
   "push_child_spend": "💳 Kulutit juuri {pfstransactionstatement.str_amount} kauppiaalla {pfstransactionstatement.merchant_name}",
-  "push_child_spend_to_parent": "💳 {pfstransactionstatement.card.user.nickname} kulutti juuri {pfstransactionstatement.str_amount} kauppiaalla {pfstransactionstatement.merchant_name}",
+  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {pfstransactionstatement.card.user.nickname} spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "Askare odottaa tekemistä!",
   "CHGERE030_notification_title": "{parent.nickname} hyväksyi askare-ehdotuksesi!",
   "push_add_chores": "Lapsella {child.nickname} ei ole vielä askareita. Meillä on sinulle askare-ehdotuksia!",

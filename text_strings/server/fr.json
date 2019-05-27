@@ -254,7 +254,7 @@
   "ADGEON019_notification_title": "Vous êtes sur la liste d'attente de la carte Gimi!",
   "event_short_tutorial": "Comment utiliser Gimi en 20 secondes",
   "push_child_spend": "💳 Tu viens de dépenser {pfstransactionstatement.str_amount} à {pfstransactionstatement.merchant_name}",
-  "push_child_spend_to_parent": "💳 {pfstransactionstatement.card.user.nickname} viens de dépenser {pfstransactia completéonstatement.str_amount} à {pfstransactionstatement.merchant_name}",
+  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {pfstransactionstatement.card.user.nickname} spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "Vous avez une nouvelle tâche à accomplir!",
   "CHGERE030_notification_title": "{parent.nickname} a accepté votre suggestion de tâche!",
   "push_add_chores": "{child.nickname} n'a pas encore de tâches. Nous avons des suggestions de tâche!",

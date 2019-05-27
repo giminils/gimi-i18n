@@ -254,7 +254,7 @@
   "ADGEON019_notification_title": "Je staat op de wachtlijst voor de Gimi-kaart!",
   "event_short_tutorial": "Hoe Gimi gebruiken binnen 20 seconden",
   "push_child_spend": "💳 Je hebt zojuist {pfstransactionstatement.str_amount} uitgegeven bij {pfstransactionstatement.merchant_name}",
-  "push_child_spend_to_parent": "💳 {pfstransactionstatement.card.user.nickname} heeft net {pfstransactionstatement.str_amount} uitgegeven bij {pfstransactionstatement.merchant_name}",
+  "push_child_spend_to_parent": "PLZ_TRANSLATE 💳 {pfstransactionstatement.card.user.nickname} spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "Er wacht een nieuw klusje op je dat gedaan moet worden!",
   "CHGERE030_notification_title": "{parent.nickname} heeft je klusje suggestie geaccepteerd!",
   "push_add_chores": "{child.nickname} heeft nog geen klusjes. We hebben enkele suggesties voor klusjes!",
