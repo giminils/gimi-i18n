@@ -2521,10 +2521,10 @@
   "parent_copy_chore_action_desc": "PLZ_TRANSLATE %1$d will be notified and reminded!",
   "wrong_ident_popover_title": "PLZ_TRANSLATE Error in phone number",
   "wrong_ident_popover_desc": "PLZ_TRANSLATE Phone number dosnt seem to be real...",
-  "broken_contact_popover_title": "PLZ_TRANSLATE This number is is broken",
-  "broken_contact_popover_desc": "PLZ_TRANSLATE You can update the number here, we will save it to your contacts",
   "error_updating_contact": "PLZ_TRANSLATE Contact could not be updated",
   "general_go_back_expressive": "PLZ_TRANSLATE Go back!",
   "confirm_transfer_money_friend_popover_title": "PLZ_TRANSLATE Sure you want to transfer money to %1$d?",
-  "confirm_transfer_money_friend_popover_desc": "PLZ_TRANSLATE You can't undo this or take the money back!"
+  "confirm_transfer_money_friend_popover_desc": "PLZ_TRANSLATE You can't undo this or take the money back!",
+  "broken_contact_popover_title": "PLZ_TRANSLATE This number is invalid",
+  "broken_contact_popover_desc": "PLZ_TRANSLATE We cannot send an invite because this number is invalid. Do you want to update the number in contacts?"
 }

@@ -2521,10 +2521,10 @@
   "parent_copy_chore_action_desc": "%1$d will be notified and reminded!",
   "wrong_ident_popover_title": "Error in phone number",
   "wrong_ident_popover_desc": "Phone number doesn't seem to be real...",
-  "broken_contact_popover_title": "This number is is broken",
-  "broken_contact_popover_desc": "You can update the number here, we will save it to your contacts",
   "error_updating_contact": "Contact could not be updated",
   "general_go_back_expressive": "Go back!",
   "confirm_transfer_money_friend_popover_title": "Sure you want to transfer money to %1$d?",
-  "confirm_transfer_money_friend_popover_desc": "You can't undo this or take the money back!"
+  "confirm_transfer_money_friend_popover_desc": "You can't undo this or take the money back!",
+  "broken_contact_popover_title": "This number is invalid",
+  "broken_contact_popover_desc": "We cannot send an invite because this number is invalid. Do you want to update the number in contacts?"
 }
