@@ -2523,5 +2523,6 @@
   "wrong_ident_popover_desc": "Telefonnumret verkar inte stämma...",
   "broken_contact_popover_title": "PLZ_CHECK This number is is broken",
   "broken_contact_popover_desc": "PLZ_CHECK You can update the number here, we will save it to your contacts",
-  "error_updating_contact": "PLZ_CHECK Contact could not be updated"
+  "error_updating_contact": "PLZ_CHECK Contact could not be updated",
+  "general_go_back_expressive": "PLZ_CHECK Go back!"
 }
