@@ -2099,7 +2099,7 @@
   "not_authed_transaction_message": "Det här är en preliminär transaktion. Butiken har inte dragit några pengar från kortet än.",
   "local_push_create_account": "Gimi här... väntar på dig! 👋",
   "who_owes_name_parent": "Vem är skyldig %1$d",
-  "cloud_debt_balance_title": "Sparat",
+  "cloud_debt_balance_title": "Saldo i Sparat",
   "cloud_debt_balance_subtitle": "Innan uppgradering",
   "cloud_debt_remove_information_page": "Om du är klar med den här informationen, så kan du ta bort den här sidan",
   "empty_contacts_section_text": "Kan inte visa dina kontakter...",
