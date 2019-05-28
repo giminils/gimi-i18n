@@ -2530,5 +2530,7 @@
   "kid_connections_for_kid_friends_section_title": "PLZ_TRANSLATE Friends",
   "add_friends_row_in_settings": "PLZ_TRANSLATE Add a friend!",
   "chore_approved_takeover_title": "PLZ_TRANSLATE Chore approved!",
-  "general_go_to_chore": "PLZ_TRANSLATE Go to chore"
+  "general_go_to_chore": "PLZ_TRANSLATE Go to chore",
+  "subscription_will_expire_in_n_n": "PLZ_TRANSLATE Subscription will expire in %1$d %2$d",
+  "general_day": "PLZ_TRANSLATE day"
 }

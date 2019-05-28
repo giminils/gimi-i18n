@@ -2530,5 +2530,7 @@
   "kid_connections_for_kid_friends_section_title": "PLZ_CHECK Friends",
   "add_friends_row_in_settings": "PLZ_CHECK Add a friend!",
   "chore_approved_takeover_title": "PLZ_CHECK Chore approved!",
-  "general_go_to_chore": "PLZ_CHECK Go to chore"
+  "general_go_to_chore": "PLZ_CHECK Go to chore",
+  "subscription_will_expire_in_n_n": "PLZ_CHECK Subscription will expire in %1$d %2$d",
+  "general_day": "PLZ_CHECK day"
 }
