@@ -2532,5 +2532,7 @@
   "chore_approved_takeover_title": "PLZ_CHECK Chore approved!",
   "general_go_to_chore": "PLZ_CHECK Go to chore",
   "subscription_will_expire_in_n_n": "PLZ_CHECK Subscription will expire in %1$d %2$d",
-  "general_day": "PLZ_CHECK day"
+  "general_day": "PLZ_CHECK day",
+  "cant_update_currency_too_many_kids_popover_title": "PLZ_CHECK Can't update currency",
+  "cant_update_currency_too_many_kids_popover_text": "PLZ_CHECK Sorry but currently we dont allow to update currency if you have more than 1 child"
 }
