@@ -2521,10 +2521,10 @@
   "parent_copy_chore_action_desc": "Vi informerar och påminner %1$d!",
   "wrong_ident_popover_title": "Fel i telefonnumret",
   "wrong_ident_popover_desc": "Telefonnumret verkar inte stämma...",
-  "error_updating_contact": "PLZ_CHECK Contact could not be updated",
-  "general_go_back_expressive": "PLZ_CHECK Go back!",
-  "confirm_transfer_money_friend_popover_title": "PLZ_CHECK Sure you want to transfer money to %1$d?",
-  "confirm_transfer_money_friend_popover_desc": "PLZ_CHECK You can't undo this or take the money back!",
-  "broken_contact_popover_title": "PLZ_CHECK This number is invalid",
-  "broken_contact_popover_desc": "PLZ_CHECK We cannot send an invite because this number is invalid. Do you want to update the number in contacts?"
+  "error_updating_contact": "Kontakten kunde inte uppdateras",
+  "general_go_back_expressive": "Tillbaka!",
+  "confirm_transfer_money_friend_popover_title": "Säker på att du vill skicka pengar till %1$d?",
+  "confirm_transfer_money_friend_popover_desc": "Du kan inte ångra det här och du kan inte ta tillbaka pengarna!",
+  "broken_contact_popover_title": "Det här numret är ogiltigt",
+  "broken_contact_popover_desc": "Vi kunde inte skicka inbjudan för numret är ogiltigt. Uppdatera numret i kontaktlistan och försök igen!"
 }
