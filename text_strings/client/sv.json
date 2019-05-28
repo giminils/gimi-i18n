@@ -2528,5 +2528,7 @@
   "broken_contact_popover_title": "Det här numret är ogiltigt",
   "broken_contact_popover_desc": "Vi kunde inte skicka inbjudan för numret är ogiltigt. Uppdatera numret i kontaktlistan och försök igen!",
   "kid_connections_for_kid_friends_section_title": "PLZ_CHECK Friends",
-  "add_friends_row_in_settings": "PLZ_CHECK Add a friend!"
+  "add_friends_row_in_settings": "PLZ_CHECK Add a friend!",
+  "chore_approved_takeover_title": "PLZ_CHECK Chore approved!",
+  "general_go_to_chore": "PLZ_CHECK Go to chore"
 }
