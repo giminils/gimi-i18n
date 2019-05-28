@@ -2526,5 +2526,7 @@
   "confirm_transfer_money_friend_popover_title": "Sure you want to transfer money to %1$d?",
   "confirm_transfer_money_friend_popover_desc": "You can't undo this or take the money back!",
   "broken_contact_popover_title": "This number is invalid",
-  "broken_contact_popover_desc": "We cannot send an invite because this number is invalid. Do you want to update the number in contacts?"
+  "broken_contact_popover_desc": "We cannot send an invite because this number is invalid. Do you want to update the number in contacts?",
+  "kid_connections_for_kid_friends_section_title": "Friends",
+  "add_friends_row_in_settings": "Add a friend!"
 }
