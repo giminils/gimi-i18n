@@ -2548,5 +2548,9 @@
   "popular_from_n_years_old": "Popular from %1$d years",
   "popular_up_to_n_years_old": "Popular up to %1$d years",
   "premium_deposit_confirmation_savings_title": "You deposited %1$d to %2$d",
-  "transaction_to_reciever_success_savings_text": "Money will be on the account any second now."
+  "transaction_to_reciever_success_savings_text": "Money will be on the account any second now.",
+  "friend_has_no_subscription_popover_title": "%1$d does not have Gimi Master",
+  "friend_has_no_subscription_popover_desc": "You can only connect with and send money to other children with a Gimi Master subscription",
+  "user_has_no_subscription_popover_title": "You can't connect with %1$d",
+  "user_has_no_subscription_popover_desc": "You need a Gimi Master subscription to connect with friends and send money to them."
 }
