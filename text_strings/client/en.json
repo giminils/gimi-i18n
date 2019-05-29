@@ -2543,5 +2543,6 @@
   "bank_id_on_this_device_question_popover_title": "Do you have BankID on this device?",
   "bank_id_on_this_device_question_popover_text": "If not, we'll show you a QR code to scan with the another device.",
   "bank_id_not_on_this_device_popover_button": "Not this one",
-  "kyc_scan_qr_code_container_title": "Scan this code with your device"
+  "kyc_scan_qr_code_container_title": "Scan this code with your device",
+  "connection_error_desc_popover": "Seems you are offline! Try again when you get online."
 }
