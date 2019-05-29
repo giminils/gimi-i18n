@@ -2526,7 +2526,7 @@
   "confirm_transfer_money_friend_popover_title": "PLZ_TRANSLATE Sure you want to transfer money to %1$d?",
   "confirm_transfer_money_friend_popover_desc": "PLZ_TRANSLATE You can't undo this or take the money back!",
   "broken_contact_popover_title": "PLZ_TRANSLATE This number is invalid",
-  "broken_contact_popover_desc": "PLZ_TRANSLATE We cannot send an invite because this number is invalid. Do you want to update the number in contacts?",
+  "broken_contact_popover_desc": "PLZ_TRANSLATE We cannot send an invite because this number is invalid. Go to your contacts and update the number and try again!",
   "kid_connections_for_kid_friends_section_title": "PLZ_TRANSLATE Friends",
   "add_friends_row_in_settings": "PLZ_TRANSLATE Add a friend!",
   "chore_approved_takeover_title": "PLZ_TRANSLATE Chore approved!",

@@ -2526,7 +2526,7 @@
   "confirm_transfer_money_friend_popover_title": "Weet je zeker dat je geld wilt overmaken naar %1$d?",
   "confirm_transfer_money_friend_popover_desc": "Je kunt dit niet ongedaan maken of het geld terugnemen!",
   "broken_contact_popover_title": "Dit nummer is niet geldig",
-  "broken_contact_popover_desc": "We kunnen geen uitnodiging sturen want dit nummer is niet geldig. Wil je het nummer in je contactpersonen aanpassen?",
+  "broken_contact_popover_desc": "PLZ_TRANSLATE We cannot send an invite because this number is invalid. Go to your contacts and update the number and try again!",
   "kid_connections_for_kid_friends_section_title": "Vrienden",
   "add_friends_row_in_settings": "Vriend toevoegen!",
   "chore_approved_takeover_title": "Klusje goedgekeurd!",

@@ -2526,7 +2526,7 @@
   "confirm_transfer_money_friend_popover_title": "Er du sikker på at du vil overføre penger til %1$d?",
   "confirm_transfer_money_friend_popover_desc": "Du kan ikke angre og overføre pengene tilbake igjen.",
   "broken_contact_popover_title": "Nummeret er ugyldig",
-  "broken_contact_popover_desc": "Vi kan ikke sende en invitasjon fordi nummeret er ugyldig. Vil du oppdatere nummeret i kontakter?",
+  "broken_contact_popover_desc": "PLZ_TRANSLATE We cannot send an invite because this number is invalid. Go to your contacts and update the number and try again!",
   "kid_connections_for_kid_friends_section_title": "PLZ_TRANSLATE Friends",
   "add_friends_row_in_settings": "PLZ_TRANSLATE Add a friend!",
   "chore_approved_takeover_title": "PLZ_TRANSLATE Chore approved!",

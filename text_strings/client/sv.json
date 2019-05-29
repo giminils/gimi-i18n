@@ -2526,7 +2526,7 @@
   "confirm_transfer_money_friend_popover_title": "Säker på att du vill skicka pengar till %1$d?",
   "confirm_transfer_money_friend_popover_desc": "Du kan inte ångra det här och du kan inte ta tillbaka pengarna!",
   "broken_contact_popover_title": "Det här numret är ogiltigt",
-  "broken_contact_popover_desc": "Vi kunde inte skicka inbjudan för numret är ogiltigt. Uppdatera numret i kontaktlistan och försök igen!",
+  "broken_contact_popover_desc": "PLZ_CHECK We cannot send an invite because this number is invalid. Go to your contacts and update the number and try again!",
   "kid_connections_for_kid_friends_section_title": "Vänner",
   "add_friends_row_in_settings": "Lägg till vän!",
   "chore_approved_takeover_title": "Uppgift godkänd!",
