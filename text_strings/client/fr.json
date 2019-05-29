@@ -2531,7 +2531,6 @@
   "add_friends_row_in_settings": "PLZ_TRANSLATE Add a friend!",
   "chore_approved_takeover_title": "PLZ_TRANSLATE Chore approved!",
   "general_go_to_chore": "PLZ_TRANSLATE Go to chore",
-  "subscription_will_expire_in_n_n": "PLZ_TRANSLATE Subscription will expire in %1$d %2$d",
   "general_day": "PLZ_TRANSLATE day",
   "cant_update_currency_too_many_kids_popover_title": "PLZ_TRANSLATE Can't update currency",
   "cant_update_currency_too_many_kids_popover_text": "PLZ_TRANSLATE Sorry but currently we dont allow to update currency if you have more than 1 child",
@@ -2539,5 +2538,6 @@
   "passcode_added_confirmation_title": "PLZ_TRANSLATE Done!",
   "passcode_added_confirmation_desc": "PLZ_TRANSLATE You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
   "updated_passcode_confirmation_title": "PLZ_TRANSLATE New passcode has been saved!",
-  "updated_passcode_confirmation_desc": "PLZ_TRANSLATE Remember it. Don't write it down. If you forget, you can always reset it in the settings."
+  "updated_passcode_confirmation_desc": "PLZ_TRANSLATE Remember it. Don't write it down. If you forget, you can always reset it in the settings.",
+  "subscription_will_expire_in_one_day": "PLZ_TRANSLATE Subscription will expire in 1 day"
 }

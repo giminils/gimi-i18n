@@ -2531,7 +2531,6 @@
   "add_friends_row_in_settings": "Vriend toevoegen!",
   "chore_approved_takeover_title": "Klusje goedgekeurd!",
   "general_go_to_chore": "Ga naar klusje",
-  "subscription_will_expire_in_n_n": "Het abonnement verloopt over %1$d %2$d",
   "general_day": "dag",
   "cant_update_currency_too_many_kids_popover_title": "Kan valuta niet bijwerken",
   "cant_update_currency_too_many_kids_popover_text": "Sorry maar momenteel staan we het niet toe dat je de valuta aanpast als je meer dan 1 kind hebt",
@@ -2539,5 +2538,6 @@
   "passcode_added_confirmation_title": "Done!",
   "passcode_added_confirmation_desc": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
   "updated_passcode_confirmation_title": "New passcode has been saved!",
-  "updated_passcode_confirmation_desc": "Remember it. Don't write it down. If you forget, you can always reset it in the settings."
+  "updated_passcode_confirmation_desc": "Remember it. Don't write it down. If you forget, you can always reset it in the settings.",
+  "subscription_will_expire_in_one_day": "PLZ_TRANSLATE Subscription will expire in 1 day"
 }

@@ -2531,7 +2531,6 @@
   "add_friends_row_in_settings": "Lägg till vän!",
   "chore_approved_takeover_title": "Uppgift godkänd!",
   "general_go_to_chore": "Gå till uppgift",
-  "subscription_will_expire_in_n_n": "Abonnemang går ut om: %1$d %2$d",
   "general_day": "dag",
   "cant_update_currency_too_many_kids_popover_title": "Kan inte uppdatera valutan",
   "cant_update_currency_too_many_kids_popover_text": "PLZ_CHECK Sorry but currently we dont allow to update currency if you have more than 1 child",
@@ -2539,5 +2538,6 @@
   "passcode_added_confirmation_title": "Done!",
   "passcode_added_confirmation_desc": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
   "updated_passcode_confirmation_title": "New passcode has been saved!",
-  "updated_passcode_confirmation_desc": "Remember it. Don't write it down. If you forget, you can always reset it in the settings."
+  "updated_passcode_confirmation_desc": "Remember it. Don't write it down. If you forget, you can always reset it in the settings.",
+  "subscription_will_expire_in_one_day": "PLZ_CHECK Subscription will expire in 1 day"
 }
