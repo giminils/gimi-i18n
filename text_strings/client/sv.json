@@ -2544,5 +2544,7 @@
   "bank_id_on_this_device_question_popover_text": "PLZ_CHECK If not, we'll show you a QR code to scan with the another device.",
   "bank_id_not_on_this_device_popover_button": "PLZ_CHECK Not this one",
   "kyc_scan_qr_code_container_title": "PLZ_CHECK Scan this code with your device",
-  "connection_error_desc_popover": "PLZ_CHECK Seems you are offline! Try again when you get online."
+  "connection_error_desc_popover": "PLZ_CHECK Seems you are offline! Try again when you get online.",
+  "popular_from_n_years_old": "PLZ_CHECK Popular from %1$d years",
+  "popular_up_to_n_years_old": "PLZ_CHECK Popular up to %1$d years"
 }
