@@ -2546,5 +2546,7 @@
   "kyc_scan_qr_code_container_title": "PLZ_CHECK Scan this code with your device",
   "connection_error_desc_popover": "PLZ_CHECK Seems you are offline! Try again when you get online.",
   "popular_from_n_years_old": "PLZ_CHECK Popular from %1$d years",
-  "popular_up_to_n_years_old": "PLZ_CHECK Popular up to %1$d years"
+  "popular_up_to_n_years_old": "PLZ_CHECK Popular up to %1$d years",
+  "premium_deposit_confirmation_savings_title": "PLZ_CHECK You deposited %1$d to %2$d",
+  "transaction_to_reciever_success_savings_text": "PLZ_CHECK Money will be on the account any second now."
 }
