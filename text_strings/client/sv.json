@@ -2539,5 +2539,9 @@
   "passcode_added_confirmation_desc": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
   "updated_passcode_confirmation_title": "New passcode has been saved!",
   "updated_passcode_confirmation_desc": "Remember it. Don't write it down. If you forget, you can always reset it in the settings.",
-  "subscription_will_expire_in_one_day": "PLZ_CHECK Subscription will expire in 1 day"
+  "subscription_will_expire_in_one_day": "PLZ_CHECK Subscription will expire in 1 day",
+  "bank_id_on_this_device_question_popover_title": "PLZ_CHECK Do you have BankID on this device?",
+  "bank_id_on_this_device_question_popover_text": "PLZ_CHECK If not, we'll show you a QR code to scan with the another device.",
+  "bank_id_not_on_this_device_popover_button": "PLZ_CHECK Not this one",
+  "kyc_scan_qr_code_container_title": "PLZ_CHECK Scan this code with your device"
 }
