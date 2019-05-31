@@ -2164,7 +2164,7 @@
   "feature_winter_holiday": "Håll igång under sportlovet",
   "feature_pre_spring": "Gör det innan våren kommer!",
   "feature_easter": "Påskens godbitar",
-  "feature_spring": "PLZ_CHECK Summer finally!",
+  "feature_spring": "Våren är här!",
   "no_gimi_accounts_in_phone_contacts": "Kunde inte hitta Gimi-användare bland dina kontakter 🥺",
   "using_hotmail_outlook_warning": "Hotmail and Outlook? Tråkigt, men de filtrerar bort mejlen som vi skickar till dig.",
   "cloud_withdraw_from_self": "Du drog av",
@@ -2560,5 +2560,5 @@
   "confirm_send_money_to_friend_popover_text": "Du kan inte ångra dig eller ta tillbaka pengarna!",
   "sent_money_to_friend_confirmation_tinder_card_title": "Du har skickat %1$d till %2$d",
   "sent_money_to_friend_confirmation_tinder_card_subtitle": "Pengarna finns på Gimi-kortet när som helst!",
-  "feature_summer": "PLZ_CHECK Summer finally!"
+  "feature_summer": "Äntligen sommar!"
 }
