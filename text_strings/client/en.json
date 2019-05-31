@@ -2560,5 +2560,6 @@
   "confirm_send_money_to_friend_popover_text": "You can't undo this or take the money back!",
   "sent_money_to_friend_confirmation_tinder_card_title": "You sent %1$d to %2$d",
   "sent_money_to_friend_confirmation_tinder_card_subtitle": "The money will be on their card any minute now!",
-  "feature_summer": "Summer! Finally!"
+  "feature_summer": "Summer! Finally!",
+  "card_successfully_updated_confirmation_message": "Card successfully updated!"
 }

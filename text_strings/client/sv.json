@@ -2560,5 +2560,6 @@
   "confirm_send_money_to_friend_popover_text": "Du kan inte ångra dig eller ta tillbaka pengarna!",
   "sent_money_to_friend_confirmation_tinder_card_title": "Du har skickat %1$d till %2$d",
   "sent_money_to_friend_confirmation_tinder_card_subtitle": "Pengarna finns på Gimi-kortet när som helst!",
-  "feature_summer": "Äntligen sommar!"
+  "feature_summer": "Äntligen sommar!",
+  "card_successfully_updated_confirmation_message": "PLZ_CHECK Card successfully updated!"
 }
