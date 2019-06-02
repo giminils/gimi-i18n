@@ -511,6 +511,7 @@
   "cd1605": "PLZ_CHECK You need to wait for your payday.",
   "cd1606": "PLZ_CHECK Maybe earn extra money by doing chores?",
   "cd1607": "PLZ_CHECK Well, let's have a look",
+  "bot_go_to_savings": "PLZ_CHECK Go to savings",
   "bot_no_empty": "PLZ_CHECK No, it's empty",
   "bot_transfer": "PLZ_CHECK Transfer",
   "bot_ok_thanks": "PLZ_CHECK OK thanks!",
