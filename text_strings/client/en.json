@@ -2566,5 +2566,9 @@
   "order_card_error_popover_title": "Purchase not available",
   "order_card_error_popover_text": "This purchase could not be made... Please try again later",
   "playstore_disclaimer_title": "Recurring billing, cancel anytime.",
-  "playstore_disclaimer": "Payment will be charged to your Playstore account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the Playstore after purchase. For more information, please see our terms of service and privacy policy."
+  "playstore_disclaimer": "Payment will be charged to your Playstore account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the Playstore after purchase. For more information, please see our terms of service and privacy policy.",
+  "parent_type_cant_invite_same_type_title": "Can't invite contact",
+  "parent_type_cant_invite_same_type_desc": "Parents cant connect with parents",
+  "kids_type_cant_invite_same_type_title": "Can't invite contact",
+  "kids_type_cant_invite_same_type_desc": "Kids cant connect with kids"
 }
