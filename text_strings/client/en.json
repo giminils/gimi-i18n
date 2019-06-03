@@ -2570,5 +2570,6 @@
   "parent_type_cant_invite_same_type_title": "Can't invite contact",
   "parent_type_cant_invite_same_type_desc": "Parents cant connect with parents",
   "kids_type_cant_invite_same_type_title": "Can't invite contact",
-  "kids_type_cant_invite_same_type_desc": "Kids cant connect with kids"
+  "kids_type_cant_invite_same_type_desc": "Kids cant connect with kids",
+  "kid_custom_note_feature_bot_drawer": "Piggy is finally answering your questions!"
 }
