@@ -143,7 +143,7 @@
   "push_connect_more_children": "Connection request from {child.nickname}",
   "push_child_card_activated": "{child.nickname} activated their Gimi card! 👏",
   "event_card_has_been_activated": "{child.nickname} activated their Gimi card! 👏",
-  "push_declined_purchases_with_insufficient_funds": "🚫Low balance! Top-up your Gimi card to make the purchase at{pfstransactionstatement.merchant_name}.",
+  "push_declined_purchases_with_insufficient_funds": "🚫Low balance! Top-up your Gimi card to make the purchase at {pfstransactionstatement.merchant_name}.",
   "push_declined_purchases_with_blocked_card": "🚫Card is blocked! Purchase at {pfstransactionstatement.merchant_name} was declined.",
   "event_card_sign_up": "Continue with your card sign up",
   "event_child_receive_money_from_other": "Let {child.nickname} receive money from other contacts!",
