@@ -2562,5 +2562,7 @@
   "sent_money_to_friend_confirmation_tinder_card_title": "PLZ_TRANSLATE You sent %1$d to %2$d",
   "sent_money_to_friend_confirmation_tinder_card_subtitle": "PLZ_TRANSLATE The money will be on their card any minute now!",
   "feature_summer": "PLZ_TRANSLATE Summer finally!",
-  "card_successfully_updated_confirmation_message": "PLZ_TRANSLATE Card successfully updated!"
+  "card_successfully_updated_confirmation_message": "PLZ_TRANSLATE Card successfully updated!",
+  "order_card_error_popover_title": "PLZ_TRANSLATE Purchase not available",
+  "order_card_error_popover_text": "PLZ_TRANSLATE This purchase could not be made... Please try again later"
 }
