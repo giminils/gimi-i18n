@@ -2572,5 +2572,6 @@
   "kids_type_cant_invite_same_type_title": "PLZ_TRANSLATE Can't invite contact",
   "kids_type_cant_invite_same_type_desc": "PLZ_TRANSLATE Kids cant connect with kids",
   "kid_custom_note_feature_bot_drawer": "PLZ_TRANSLATE Piggy is finally answering your questions!",
-  "parent_education_feature_custom_notif": "PLZ_TRANSLATE Education stories for money talks in the family!"
+  "parent_education_feature_custom_notif": "PLZ_TRANSLATE Education stories for money talks in the family!",
+  "phone_disclaimer_set_card_name": "PLZ_TRANSLATE I understand my child needs a phone number connected to Gimi"
 }
