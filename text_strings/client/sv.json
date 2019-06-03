@@ -2564,5 +2564,7 @@
   "feature_summer": "Äntligen sommar!",
   "card_successfully_updated_confirmation_message": "Ditt kort har uppdaterats!",
   "order_card_error_popover_title": "PLZ_CHECK Purchase not available",
-  "order_card_error_popover_text": "PLZ_CHECK This purchase could not be made... Please try again later"
+  "order_card_error_popover_text": "PLZ_CHECK This purchase could not be made... Please try again later",
+  "playstore_disclaimer_title": "PLZ_CHECK Recurring billing, cancel anytime.",
+  "playstore_disclaimer": "PLZ_CHECK Payment will be charged to your Playstore account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the Playstore after purchase. For more information, please see our terms of service and privacy policy."
 }
