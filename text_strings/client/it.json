@@ -1884,7 +1884,7 @@
   "card_is_on_its_way_takeover_subtitle": "Ci vuole qualche giorno. Mandiamo un ordine alla fabbrica delle carte, loro stampano il tuo nome sopra e la inviano per posta.",
   "identity_verified_confirmation_message": "Identità verificata",
   "card_terms_accepted_confirmation_message": "Termini dell'utente accettati",
-  "parent_was_upgraded_to_premium_title": "Sei stato aggiornato! ✌️",
+  "parent_was_upgraded_to_premium_title": "PLZ_TRANSLATE %1$d has been upgraded! ✌️",
   "parent_was_upgraded_to_premium_text": "Ora puoi ordinare la carta!",
   "parent_was_upgraded_to_premium_button": "Ottieni la carta!",
   "verify_email_title": "Verifica la tua email",

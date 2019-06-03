@@ -1884,7 +1884,7 @@
   "card_is_on_its_way_takeover_subtitle": "Det tar några dagar. Vi skickar en beställning till kort-fabriken, de trycker ditt namn på kortet, och skickar ett paket med snigel-post.",
   "identity_verified_confirmation_message": "Identitet verifierad!",
   "card_terms_accepted_confirmation_message": "Användarvillkor accepterade",
-  "parent_was_upgraded_to_premium_title": "Du har blivit uppgraderad! ✌️",
+  "parent_was_upgraded_to_premium_title": "PLZ_CHECK %1$d has been upgraded! ✌️",
   "parent_was_upgraded_to_premium_text": "Nu kan du beställa kortet!",
   "parent_was_upgraded_to_premium_button": "Beställ Gimi-kortet!",
   "verify_email_title": "Verifiera din mejladress",
