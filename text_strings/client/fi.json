@@ -1884,6 +1884,7 @@
   "card_is_on_its_way_takeover_subtitle": "Siinä menee pari päivää. Lähetämme tilauksen korttitehtaalle, he tulostavat nimesi kortille ja lähettävät sen postissa.",
   "identity_verified_confirmation_message": "Henkilöllisyys varmistettu",
   "card_terms_accepted_confirmation_message": "Käyttöehdot hyväksytty",
+  "name_was_upgraded_to_premium_title": "PLZ_TRANSLATE %1$d has been upgraded! ✌️",
   "parent_was_upgraded_to_premium_title": "You've been upgraded! ✌️",
   "parent_was_upgraded_to_premium_text": "Now you can order the card!",
   "parent_was_upgraded_to_premium_button": "Get Card!",

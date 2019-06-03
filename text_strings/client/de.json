@@ -1884,6 +1884,7 @@
   "card_is_on_its_way_takeover_subtitle": "Es dauert ein paar Tage. Wir haben eine Bestellung an die Kartenfirma geschickt, Dein Name wird auf die Karte gedruckt und diese dann per Schneckenpost verschickt.",
   "identity_verified_confirmation_message": "Identität verifiziert",
   "card_terms_accepted_confirmation_message": "Benutzerbedingungen aktzeptiert",
+  "name_was_upgraded_to_premium_title": "PLZ_TRANSLATE %1$d has been upgraded! ✌️",
   "parent_was_upgraded_to_premium_title": "Du wurdest upgegradet! ✌️",
   "parent_was_upgraded_to_premium_text": "Du kannst die Karte jetzt bestellen!",
   "parent_was_upgraded_to_premium_button": "Bekomm die Karte!",

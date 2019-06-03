@@ -1884,6 +1884,7 @@
   "card_is_on_its_way_takeover_subtitle": "Det tar noen dager. Vi sender en bestilling til kortfabrikken, de skriver ut navnet ditt på kortet og sender det i posten.",
   "identity_verified_confirmation_message": "Identitet bekreftet",
   "card_terms_accepted_confirmation_message": "Brukervilkår akseptert",
+  "name_was_upgraded_to_premium_title": "PLZ_TRANSLATE %1$d has been upgraded! ✌️",
   "parent_was_upgraded_to_premium_title": "Du er blitt oppgradert! ✌️",
   "parent_was_upgraded_to_premium_text": "Nå kan du bestille kortet!",
   "parent_was_upgraded_to_premium_button": "Få kortet!",
