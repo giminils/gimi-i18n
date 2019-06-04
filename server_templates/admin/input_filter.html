@@ -6,16 +6,34 @@
 <ul>
   <li>
     {% with choices.0 as all_choice %}
-    <form method="GET" action="">
+    <style>
+    h100 {
+      position: relative;
+      left: 170px;
+      top: 0px;
+     }
+    form[id="myForm"] {
+        width:12px;
+        height: 2px;
+    }
+    </style>
+    <form id="myForm" method="GET" action="" >
         {% for k, v in all_choice.query_parts %}
         <input type="hidden" name="{{ k }}" value="{{ v }}" />
         {% endfor %}
-
         <input
             type="text"
             value="{{ spec.value|default_if_none:'' }}"
             name="{{ spec.parameter_name }}"/>
     </form>
+    <form id="result" action="">
+    <h100><button onclick="goBack()">Clear</button></h100>
+    </form>
+    <script>
+        function goBack() {
+          window.history.back();
+        }
+    </script>
     {% endwith %}
   </li>
 </ul>
