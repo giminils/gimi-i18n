@@ -16,7 +16,7 @@
   "prefix": "₹",
   "suffix": "",
   "thousandsSeparator": ".",
-  "decimalMark": ",",
+  "decimalMark": ".",
   "minimumSavingsBonusAmountCents": 50,
   "minimumTransactionAmount": 10,
   "maximumSavingsBonusAmount": 99999,
