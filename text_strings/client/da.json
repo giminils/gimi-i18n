@@ -2597,5 +2597,6 @@
   "ask_for_money": "PLZ_TRANSLATE Ask for money",
   "dream_subtitle_emptystate": "PLZ_TRANSLATE What do you want the most?",
   "dream_emptystate_cravings": "PLZ_TRANSLATE You have no cravings? 🤨",
-  "parent_suggested_chore_summary_go_edit": "PLZ_TRANSLATE Go to chore settings"
+  "parent_suggested_chore_summary_go_edit": "PLZ_TRANSLATE Go to chore settings",
+  "shareable_chore_image_title": "PLZ_TRANSLATE Busy doing chores!"
 }
