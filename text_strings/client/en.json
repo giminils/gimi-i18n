@@ -2596,5 +2596,6 @@
   "chore_summary_recurring_icon_text": "Weekly recurring chore",
   "ask_for_money": "Ask for money",
   "dream_subtitle_emptystate": "What do you want the most?",
-  "dream_emptystate_cravings": "You have no cravings? 🤨"
+  "dream_emptystate_cravings": "You have no cravings? 🤨",
+  "parent_suggested_chore_summary_go_edit": "Go to chore settings"
 }
