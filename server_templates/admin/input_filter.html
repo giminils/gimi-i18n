@@ -22,16 +22,18 @@
         <input type="hidden" name="{{ k }}" value="{{ v }}" />
         {% endfor %}
         <input
-            id="search"
+            id="{{ spec.parameter_name }}"
             type="text"
             value="{{ spec.value|default_if_none:'' }}"
             name="{{ spec.parameter_name }}"/>
     </form>
-    <form id="result" action="">
-    <h100><button onclick="submit()">Clear</button></h100>
+    <form id="result" method="GET" action="">
+    <h100><button type="button" onclick="hej('{{ spec.parameter_name }}')">Clear</button></h100>
     </form>
     <script>
-        function submit() {
+        function hej(elemName) {
+            document.getElementById(elemName).value = "";
+            document.getElementById("myForm").submit();
         }
     </script>
     {% endwith %}
