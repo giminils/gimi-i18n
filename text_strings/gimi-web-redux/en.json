@@ -666,7 +666,5 @@
   "fees.limits.row12.desc": "1 SEK",
   "fees.limits.row13.title": "Initial maximum load",
   "fees.limits.forever.title": "För alltid",
-  "fees.limits.forever.desc": "2399 SEK",
-  "link.fees.limits": "Fees & limits"
-
+  "fees.limits.forever.desc": "2399 SEK"
 }
