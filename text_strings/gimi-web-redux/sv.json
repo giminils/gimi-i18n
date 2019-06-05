@@ -667,5 +667,6 @@
   "fees.limits.row12.desc": "1 kr",
   "fees.limits.row13.title": "Initial maximisumma för laddning",
   "fees.limits.forever.title": "För alltid",
-  "fees.limits.forever.desc": "2399 kr"
+  "fees.limits.forever.desc": "2399 kr",
+  "link.fees.limits": "Kortavgifter"
 }
