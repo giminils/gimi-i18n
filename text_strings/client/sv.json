@@ -2592,5 +2592,10 @@
   "expired_card_error_view_subtitle": "PLZ_CHECK Seems like your card has expired. Update your card details and try again!",
   "expired_card_error_view_button": "PLZ_CHECK Update card",
   "processing_error_view_title": "PLZ_CHECK Oh no… The transaction failed",
-  "processing_error_view_subtitle": "PLZ_CHECK Something went wrong. Please try again in a few minutes"
+  "processing_error_view_subtitle": "PLZ_CHECK Something went wrong. Please try again in a few minutes",
+  "chore_summary_recurring_icon_text": "PLZ_CHECK Weekly recurring chore",
+  "ask_for_money": "PLZ_CHECK Ask for money",
+  "dream_subtitle_emptystate": "PLZ_CHECK What do you want the most?",
+  "dream_emptystate_cravings": "PLZ_CHECK You have no cravings? 🤨",
+  "parent_suggested_chore_summary_go_edit": "PLZ_CHECK Go to chore settings"
 }
