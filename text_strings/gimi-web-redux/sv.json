@@ -649,9 +649,9 @@
   "fees.limits.table.section2": "Kontotjänster",
   "fees.limits.table.section3": "Begränsningar",
   "fees.limits.row1.title": "Månadsavgift",
-  "fees.limits.row1.desc": "69 kr",
+  "fees.limits.row1.desc": "49 kr",
   "fees.limits.row2.title": "Årsavgift",
-  "fees.limits.row2.desc": "759 kr",
+  "fees.limits.row2.desc": "469 kr - Testa gratis i 1 månad",
   "fees.limits.row3.title": "Kortutgivning & aktivering",
   "fees.limits.row4.title": "Internationella transaktionsavgifter",
   "fees.limits.row4.desc": "3%",
@@ -665,5 +665,7 @@
   "fees.limits.row11.title": "Maximalt kortsaldo",
   "fees.limits.row12.title": "Initial minimisumma för laddning",
   "fees.limits.row12.desc": "1 kr",
-  "fees.limits.row13.title": "Initial maximisumma för laddning"
+  "fees.limits.row13.title": "Initial maximisumma för laddning",
+  "fees.limits.forever.title": "För alltid",
+  "fees.limits.forever.desc": "2399 kr"
 }
