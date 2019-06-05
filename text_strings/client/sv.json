@@ -2592,5 +2592,6 @@
   "expired_card_error_view_subtitle": "PLZ_CHECK Seems like your card has expired. Update your card details and try again!",
   "expired_card_error_view_button": "PLZ_CHECK Update card",
   "processing_error_view_title": "PLZ_CHECK Oh no… The transaction failed",
-  "processing_error_view_subtitle": "PLZ_CHECK Something went wrong. Please try again in a few minutes"
+  "processing_error_view_subtitle": "PLZ_CHECK Something went wrong. Please try again in a few minutes",
+  "chore_summary_recurring_icon_text": "PLZ_CHECK Weekly recurring chore"
 }
