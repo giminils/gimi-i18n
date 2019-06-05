@@ -2594,5 +2594,7 @@
   "processing_error_view_title": "PLZ_CHECK Oh no… The transaction failed",
   "processing_error_view_subtitle": "PLZ_CHECK Something went wrong. Please try again in a few minutes",
   "chore_summary_recurring_icon_text": "PLZ_CHECK Weekly recurring chore",
-  "ask_for_money": "PLZ_CHECK Ask for money"
+  "ask_for_money": "PLZ_CHECK Ask for money",
+  "dream_subtitle_emptystate": "PLZ_CHECK What are you dreaming off?",
+  "dream_emptystate_cravings": "PLZ_CHECK You have no cravings? 🤨"
 }
