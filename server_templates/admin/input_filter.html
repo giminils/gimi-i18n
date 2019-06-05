@@ -22,16 +22,16 @@
         <input type="hidden" name="{{ k }}" value="{{ v }}" />
         {% endfor %}
         <input
+            id="search"
             type="text"
             value="{{ spec.value|default_if_none:'' }}"
             name="{{ spec.parameter_name }}"/>
     </form>
     <form id="result" action="">
-    <h100><button onclick="goBack()">Clear</button></h100>
+    <h100><button onclick="submit()">Clear</button></h100>
     </form>
     <script>
-        function goBack() {
-          window.history.back();
+        function submit() {
         }
     </script>
     {% endwith %}
