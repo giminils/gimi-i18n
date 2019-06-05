@@ -2593,5 +2593,6 @@
   "expired_card_error_view_button": "Update card",
   "processing_error_view_title": "Oh no… The transaction failed",
   "processing_error_view_subtitle": "Something went wrong. Please try again in a few minutes",
-  "chore_summary_recurring_icon_text": "Weekly recurring chore"
+  "chore_summary_recurring_icon_text": "Weekly recurring chore",
+  "ask_for_money": "Ask for money"
 }
