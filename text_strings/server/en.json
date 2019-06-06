@@ -348,5 +348,9 @@
   "CHGERE034_notification_title": "It's your birthday!🎉",
   "CHGERE034_push_title": "Happy birthday!🎁 - Piggy",
   "CHPRPU004_notification_title": "{parent.nickname} cancelled your subscription. You have {days_count} days left to spend your money before your card is blocked.",
-  "CHPRPU004_push_title": "Your card has been cancelled ☹️"
+  "CHPRPU004_push_title": "Your card has been cancelled ☹️",
+  "CHPRPU002_notification_title_v2": "Low balance on the card! Top-up your card to make the purchase at {pfstransactionstatement.merchant_name}.",
+  "CHPRPU002_push_title": "🚫Low balance! Top-up your Gimi card to make the purchase at {pfstransactionstatement.merchant_name}.",
+  "CHPRPU003_notification_title": "Purchase at {pfstransactionstatement.merchant_name} was declined, because the card is blocked!",
+  "CHPRPU003_push_title": "🚫Card is blocked! Purchase at {pfstransactionstatement.merchant_name} was declined"
 }
