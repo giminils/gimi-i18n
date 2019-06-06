@@ -346,5 +346,7 @@
   "CHGERE017_push_title": "Invitasjonen din ble avvist. Vil du invitere noen andre?",
   "ADPRON006_notification_title": "PLZ_TRANSLATE The Gimi card is on it's way",
   "CHGERE034_notification_title": "PLZ_TRANSLATE It's your birthday!🎉",
-  "CHGERE034_push_title": "PLZ_TRANSLATE Happy birthday!🎁 - Piggy"
+  "CHGERE034_push_title": "PLZ_TRANSLATE Happy birthday!🎁 - Piggy",
+  "CHPRPU004_notification_title": "PLZ_TRANSLATE {parent.nickname} cancelled your subscription. You have {days_count} days left to spend your money before your card is blocked.",
+  "CHPRPU004_push_title": "PLZ_TRANSLATE Your card has been cancelled ☹️"
 }

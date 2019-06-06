@@ -346,5 +346,7 @@
   "CHGERE017_push_title": "Din inbjudan accepterades inte. Bjud in någon annan?",
   "ADPRON006_notification_title": "Gimi-kortet är på väg!",
   "CHGERE034_notification_title": "Det är din födelsedag!🎉",
-  "CHGERE034_push_title": "Grattis på födelsedagen!🎁 - Piggy"
+  "CHGERE034_push_title": "Grattis på födelsedagen!🎁 - Piggy",
+  "CHPRPU004_notification_title": "PLZ_CHECK {parent.nickname} cancelled your subscription. You have {days_count} days left to spend your money before your card is blocked.",
+  "CHPRPU004_push_title": "PLZ_CHECK Your card has been cancelled ☹️"
 }
