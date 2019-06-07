@@ -359,8 +359,8 @@
   "ADPRRE033_notification_title": "PLZ_CHECK The Master subscription for {child.nickname} will expire in 2 days",
   "ADPRRE033_push_title": "PLZ_CHECK Master subscription will expire in 2 days",
   "ADPRRE034_notification_title": "PLZ_CHECK Master subscription for {child.nickname} has expired, and the account has been reset",
-  "event_wrong_pin": "PLZ_CHECK Your card was blocked because of 3 failed PIN code attempts. Let us help!",
+  "event_wrong_pin": "PLZ_CHECK Your card was blocked because of 3 failed PIN code attempts. Unblock it in card settings.",
   "push_wrong_pin": "PLZ_CHECK Your card has been blocked!",
-  "event_child_wrong_pin": "PLZ_CHECK The Gimi card was blocked because of 3 failed PIN code attempts. Let us help!",
+  "event_child_wrong_pin": "PLZ_CHECK The Gimi card was blocked because of 3 failed PIN code attempts. Unblock it in card settings.",
   "push_child_wrong_pin": "PLZ_CHECK The Gimi card has been blocked!"
 }
