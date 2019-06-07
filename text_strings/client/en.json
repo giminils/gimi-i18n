@@ -2607,5 +2607,6 @@
   "order_card_loading_screen_title": "PLZ_COPY Ordering your Gimi card...",
   "general_show": "Show",
   "hiding_in_timer": "Hiding numbers in...",
-  "click_to_look_again": "Click show to get another peak!"
+  "click_to_look_again": "Click show to get another peak!",
+  "you_cant_transfer_negative_amounts": "You cant transfer negative amounts..."
 }

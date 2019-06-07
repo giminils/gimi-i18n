@@ -2607,5 +2607,6 @@
   "order_card_loading_screen_title": "PLZ_CHECK Ordering your gimi card...",
   "general_show": "PLZ_CHECK Visa",
   "hiding_in_timer": "PLZ_CHECK Hiding numbers in...",
-  "click_to_look_again": "PLZ_CHECK Click show to get another peak!"
+  "click_to_look_again": "PLZ_CHECK Click show to get another peak!",
+  "you_cant_transfer_negative_amounts": "PLZ_CHECK You cant transfer negative amounts..."
 }
