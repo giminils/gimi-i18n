@@ -2286,6 +2286,7 @@
   "kid_earn_no_parents_bot_message_2": "Inviter dem nå!",
   "general_invite_now": "Inviter nå!",
   "notification_waiting_for_you": "Venter på deg",
+  "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting...",
   "premium_internal_transaction_to_savings": "Overfør til oppsparingskonto",
   "error_buying_iap": "Noe gikk galt...",
   "external_survey_title": "Velkommen til vårt undersøkelse!",

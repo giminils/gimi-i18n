@@ -2286,6 +2286,7 @@
   "kid_earn_no_parents_bot_message_2": "Invitez-les maintenant!",
   "general_invite_now": "Inviter maintenant!",
   "notification_waiting_for_you": "Dans votre attente",
+  "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting...",
   "premium_internal_transaction_to_savings": "Virement sur compte d'épargne",
   "error_buying_iap": "Quelque chose n'a pas fonctionné...",
   "external_survey_title": "PLZ_TRANSLATE Välkommen till vår studie!",
