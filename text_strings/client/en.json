@@ -2608,5 +2608,8 @@
   "general_show": "Show",
   "hiding_in_timer": "Hiding numbers in...",
   "click_to_look_again": "Click show to get another peak!",
-  "you_cant_transfer_negative_amounts": "You cant transfer negative amounts..."
+  "you_cant_transfer_negative_amounts": "You cant transfer negative amounts...",
+  "help_row_currency_incorrect": "Currency is not correct!",
+  "help_row_seperated_parents": "What if we are separated?",
+  "help_row_allowance": "How does allowance work?"
 }
