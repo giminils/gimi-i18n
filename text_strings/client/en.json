@@ -2286,7 +2286,6 @@
   "kid_earn_no_parents_bot_message_2": "Invite them now!",
   "general_invite_now": "Invite now!",
   "notification_waiting_for_you": "Waiting for you",
-  "notification_waiting_hour_glass": "Waiting...",
   "premium_internal_transaction_to_savings": "Transfer to account",
   "error_buying_iap": "Something didnt work...",
   "external_survey_title": "Välkommen till vår studie!",
@@ -2600,10 +2599,10 @@
   "dream_emptystate_cravings": "You have no cravings? 🤨",
   "parent_suggested_chore_summary_go_edit": "Go to chore settings",
   "shareable_chore_image_title": "Busy doing chores!",
-  "order_card_loading_screen_description_1": "Loading...",
-  "order_card_loading_screen_description_2": "Fetching data...",
-  "order_card_loading_screen_description_3": "Thinking...",
-  "order_card_loading_screen_description_4": "Computer noises...",
-  "order_card_loading_screen_description_5": "Thank you for your patience",
-  "order_card_loading_screen_title": "Ordering your gimi card..."
+  "order_card_loading_screen_description_1": "PLZ_COPY This will take a moment...",
+  "order_card_loading_screen_description_2": "PLZ_COPY Hold on...",
+  "order_card_loading_screen_description_3": "PLZ_COPY Don't leave just yet...",
+  "order_card_loading_screen_description_4": "PLZ_COPY Sending your data...",
+  "order_card_loading_screen_description_5": "PLZ_COPY Receiving some data...",
+  "order_card_loading_screen_title": "PLZ_COPY Ordering your Gimi card..."
 }
