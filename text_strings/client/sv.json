@@ -2286,7 +2286,6 @@
   "kid_earn_no_parents_bot_message_2": "Bjud in dom nu!",
   "general_invite_now": "Bjud in!",
   "notification_waiting_for_you": "Väntar på dig",
-  "notification_waiting_hour_glass": "PLZ_CHECK Väntar...",
   "premium_internal_transaction_to_savings": "För över till kontot",
   "error_buying_iap": "Något gick fel...",
   "external_survey_title": "Välkommen!",
@@ -2605,5 +2604,6 @@
   "order_card_loading_screen_description_3": "PLZ_CHECK Thinking...",
   "order_card_loading_screen_description_4": "PLZ_CHECK Computer noises...",
   "order_card_loading_screen_description_5": "PLZ_CHECK Thank you for your patience",
-  "order_card_loading_screen_title": "PLZ_CHECK Ordering your gimi card..."
+  "order_card_loading_screen_title": "PLZ_CHECK Ordering your gimi card...",
+  "general_show": "PLZ_CHECK Visa"
 }

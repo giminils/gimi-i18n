@@ -2604,5 +2604,6 @@
   "order_card_loading_screen_description_3": "PLZ_COPY Don't leave just yet...",
   "order_card_loading_screen_description_4": "PLZ_COPY Sending your data...",
   "order_card_loading_screen_description_5": "PLZ_COPY Receiving some data...",
-  "order_card_loading_screen_title": "PLZ_COPY Ordering your Gimi card..."
+  "order_card_loading_screen_title": "PLZ_COPY Ordering your Gimi card...",
+  "general_show": "Visa"
 }

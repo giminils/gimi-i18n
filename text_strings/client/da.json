@@ -2286,7 +2286,6 @@
   "kid_earn_no_parents_bot_message_2": "Inviter dem nu!",
   "general_invite_now": "Inviter nu!",
   "notification_waiting_for_you": "Venter på dig",
-  "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting...",
   "premium_internal_transaction_to_savings": "PLZ_TRANSLATE Transfer to savings account",
   "error_buying_iap": "Noget gik galt...",
   "external_survey_title": "PLZ_TRANSLATE Välkommen till vår studie!",
@@ -2605,5 +2604,6 @@
   "order_card_loading_screen_description_3": "PLZ_TRANSLATE Thinking...",
   "order_card_loading_screen_description_4": "PLZ_TRANSLATE Computer noises...",
   "order_card_loading_screen_description_5": "PLZ_TRANSLATE Thank you for your patience",
-  "order_card_loading_screen_title": "PLZ_TRANSLATE Ordering your gimi card..."
+  "order_card_loading_screen_title": "PLZ_TRANSLATE Ordering your gimi card...",
+  "general_show": "PLZ_TRANSLATE Visa"
 }
