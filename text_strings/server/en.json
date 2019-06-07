@@ -352,5 +352,11 @@
   "CHPRPU002_notification_title_v2": "Low balance on the card! Top-up your card to make the purchase at {pfstransactionstatement.merchant_name}.",
   "CHPRPU002_push_title": "🚫Low balance! Top-up your Gimi card to make the purchase at {pfstransactionstatement.merchant_name}.",
   "CHPRPU003_notification_title": "Purchase at {pfstransactionstatement.merchant_name} was declined, because the card is blocked!",
-  "CHPRPU003_push_title": "🚫Card is blocked! Purchase at {pfstransactionstatement.merchant_name} was declined"
+  "CHPRPU003_push_title": "🚫Card is blocked! Purchase at {pfstransactionstatement.merchant_name} was declined",
+  "ADPRRE031_notification_title": "Master subscription for {child.nickname} has been cancelled, and will expire on {expires_at}",
+  "ADPRRE031_push_title": "Master subscription cancelled",
+  "ADPRRE032_notification_title": "Master subscription for {child.nickname} has been cancelled, and will expire on {expires_at}",
+  "ADPRRE033_notification_title": "The Master subscription for {child.nickname} will expire in 2 days",
+  "ADPRRE033_push_title": "Master subscription will expire in 2 days",
+  "ADPRRE034_notification_title": "Master subscription for {child.nickname} has expired, and the account has been reset"
 }
