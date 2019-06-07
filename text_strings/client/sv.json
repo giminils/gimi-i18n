@@ -2605,5 +2605,7 @@
   "order_card_loading_screen_description_4": "PLZ_CHECK Computer noises...",
   "order_card_loading_screen_description_5": "PLZ_CHECK Thank you for your patience",
   "order_card_loading_screen_title": "PLZ_CHECK Ordering your gimi card...",
-  "general_show": "PLZ_CHECK Visa"
+  "general_show": "PLZ_CHECK Visa",
+  "hiding_in_timer": "PLZ_CHECK Hiding numbers in...",
+  "click_to_look_again": "PLZ_CHECK Click show to get another peak!"
 }

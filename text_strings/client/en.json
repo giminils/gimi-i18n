@@ -2605,5 +2605,7 @@
   "order_card_loading_screen_description_4": "PLZ_COPY Sending your data...",
   "order_card_loading_screen_description_5": "PLZ_COPY Receiving some data...",
   "order_card_loading_screen_title": "PLZ_COPY Ordering your Gimi card...",
-  "general_show": "Show"
+  "general_show": "Show",
+  "hiding_in_timer": "Hiding numbers in...",
+  "click_to_look_again": "Click show to get another peak!"
 }
