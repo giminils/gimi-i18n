@@ -2611,5 +2611,6 @@
   "you_cant_transfer_negative_amounts": "Du kan inte föra över negativa summor...",
   "help_row_currency_incorrect": "PLZ_CHECK Currency is not correct!",
   "help_row_seperated_parents": "PLZ_CHECK What if we are separated?",
-  "help_row_allowance": "PLZ_CHECK How does allowance work?"
+  "help_row_allowance": "PLZ_CHECK How does allowance work?",
+  "help_row_interest": "PLZ_CHECK Why interest?"
 }
