@@ -2612,5 +2612,6 @@
   "help_row_currency_incorrect": "PLZ_TRANSLATE Currency is not correct!",
   "help_row_seperated_parents": "PLZ_TRANSLATE What if we are separated?",
   "help_row_allowance": "PLZ_TRANSLATE How does allowance work?",
-  "help_row_interest": "PLZ_TRANSLATE Why interest?"
+  "help_row_interest": "PLZ_TRANSLATE Why interest?",
+  "set_card_name_help_text": "PLZ_TRANSLATE Write the full name of %1$d, as it will appear on the card."
 }
