@@ -1497,7 +1497,7 @@
   "maybe_try_again": "Försök igen",
   "pfs_temp_trans_text": "Det funkar!",
   "no_phone_no_pin_premium_error": "Du behöver en lösenkod för att att byta telefonnummer",
-  "blocked_card_header": "PLZ_CHECK Your card has been blocked",
+  "blocked_card_header": "Ditt kort har spärrats",
   "blocked_card_desc": "...och kan bara låsas upp av personen som spärrat det. Tills dess kan du inte använda kortet.",
   "general_contact_support": "Kontakta supporten",
   "parent_block_card_title": "Kortet har spärrats",
