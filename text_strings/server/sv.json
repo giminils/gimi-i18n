@@ -362,7 +362,7 @@
   "event_wrong_pin": "Fel PIN-kod skrevs in 3 gånger, så vi spärrade ditt Gimi-kort! Men du kan aktivera det i inställningar.",
   "push_wrong_pin": "Ditt Gimi-kort har spärrats!",
   "event_child_wrong_pin": "Fel PIN-kod skrevs in 3 gånger, så vi spärrade Gimi-kortet! Men du kan aktivera det i inställningar.",
-  "push_child_wrong_pin": "Gimi-kortet har spärrats!"
+  "push_child_wrong_pin": "Gimi-kortet har spärrats!",
   "push_gimi_card_is_here": "PLZ_CHECK The Gimi card is here! Get it now!",
   "event_gimi_card_is_here": "PLZ_CHECK Finally, the Gimi card is here! Upgrade you child to Master and get the card!"
 }
