@@ -602,7 +602,7 @@
   "or_n_per_month": "or %1$d / month",
   "confirm_person_age_title": "Is it correct that %1$d is %2$d years?",
   "confirm_person_age_desc": "Otherwise, update the date of birth so that it's correct.",
-  "set_card_name_title": "Which name should be printed on the card?",
+  "set_card_name_title": "PLZ_COPY Name on the card",
   "general_first_name": "First name",
   "general_last_name": "Surname",
   "question_pay_year_or_month": "Do you want to pay for one year or per month?",
@@ -2614,6 +2614,6 @@
   "help_row_allowance": "How does allowance work?",
   "help_row_interest": "Why interest?",
   "set_card_name_help_text": "Write the full name of %1$d, as it will appear on the card.",
-  "internal_transfer_error_title": "Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?"
+  "internal_transfer_error_title": "PLZ_COPY Oh no... Something is not working",
+  "internal_transfer_error_subtitle": "PLZ_COPY No money was transfered! Give us some time to fix the problem and please try again in a while."
 }
