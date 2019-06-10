@@ -2613,5 +2613,7 @@
   "help_row_seperated_parents": "PLZ_CHECK What if we are separated?",
   "help_row_allowance": "PLZ_CHECK How does allowance work?",
   "help_row_interest": "PLZ_CHECK Why interest?",
-  "set_card_name_help_text": "PLZ_CHECK Write the full name of %1$d, as it will appear on the card."
+  "set_card_name_help_text": "PLZ_CHECK Write the full name of %1$d, as it will appear on the card.",
+  "internal_transfer_error_title": "PLZ_CHECK Oh no... Something went wrong",
+  "internal_transfer_error_subtitle": "PLZ_CHECK The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?"
 }
