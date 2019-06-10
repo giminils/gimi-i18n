@@ -2615,5 +2615,6 @@
   "help_row_interest": "Varför ge ränta?",
   "set_card_name_help_text": "Skriva ut hela namnet på %1$d, så som det ska stå på kortet.",
   "internal_transfer_error_title": "Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "PLZ_CHECK The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?"
+  "internal_transfer_error_subtitle": "PLZ_CHECK The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?",
+  "notification_waiting_hour_glass": "PLZ_CHECK Waiting..."
 }

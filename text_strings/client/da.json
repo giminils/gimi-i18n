@@ -2615,5 +2615,6 @@
   "help_row_interest": "PLZ_TRANSLATE Why interest?",
   "set_card_name_help_text": "PLZ_TRANSLATE Write the full name of %1$d, as it will appear on the card.",
   "internal_transfer_error_title": "PLZ_TRANSLATE Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "PLZ_TRANSLATE The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?"
+  "internal_transfer_error_subtitle": "PLZ_TRANSLATE The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?",
+  "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting..."
 }
