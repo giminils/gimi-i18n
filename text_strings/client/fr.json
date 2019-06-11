@@ -602,7 +602,7 @@
   "or_n_per_month": "ou %1$d / mois",
   "confirm_person_age_title": "Est-il vrai que %1$d a %2$d ans?",
   "confirm_person_age_desc": "Sinon, changez la date de naissance pour qu'elle soit correcte.",
-  "set_card_name_title": "A quel nom la carte doit-elle être établie?",
+  "set_card_name_title": "PLZ_TRANSLATE Name on the card",
   "general_first_name": "Prénom",
   "general_last_name": "Nom de famille",
   "question_pay_year_or_month": "Voulez-vous payer annuellement ou par mois?",
@@ -2614,7 +2614,7 @@
   "help_row_allowance": "PLZ_TRANSLATE How does allowance work?",
   "help_row_interest": "PLZ_TRANSLATE Why interest?",
   "set_card_name_help_text": "PLZ_TRANSLATE Write the full name of %1$d, as it will appear on the card.",
-  "internal_transfer_error_title": "PLZ_TRANSLATE Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "PLZ_TRANSLATE The money transfer you wanted to do didn't really make it. No money was transfered! Wanna try again?",
+  "internal_transfer_error_title": "PLZ_TRANSLATE Oh no... Something is not working",
+  "internal_transfer_error_subtitle": "PLZ_TRANSLATE No money was transfered! Give us some time to fix the problem and please try again in a while.",
   "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting..."
 }
