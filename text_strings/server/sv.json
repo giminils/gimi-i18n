@@ -163,9 +163,9 @@
   "push_name_unblocked_your_card": "Spärren på ditt kort har tagits bort av {parent.nickname}",
   "push_today_pay_day": "Idag är det Payday! 🎉",
   "event_today_pay_day": "Idag är det Payday!",
-  "push_name_deposit_to_account": "PLZ_CHECK You got money from {parent.nickname}!",
-  "event_name_deposit_to_account": "PLZ_CHECK You got money from {parent.nickname}",
-  "event_name_made_deposit_to_account": "PLZ_CHECK You got money from {parent.nickname}",
+  "push_name_deposit_to_account": "Du har fått pengar från {parent.nickname}!",
+  "event_name_deposit_to_account": "Du har fått pengar från {parent.nickname}!",
+  "event_name_made_deposit_to_account": "Du har fått pengar från {parent.nickname}!",
   "push_give_chores_to_children": "Kom ihåg att du kan ge ut uppgifter i Gimi!",
   "push_verify_phone_to_custom_account": "Verifiera ditt telefonnummer",
   "push_chores_waiting": "Du har {x} uppgifter som väntar! Gå och tjäna extra penagr!",
@@ -363,6 +363,6 @@
   "push_wrong_pin": "Ditt Gimi-kort har spärrats!",
   "event_child_wrong_pin": "Fel PIN-kod skrevs in 3 gånger, så vi spärrade Gimi-kortet! Men du kan aktivera det i inställningar.",
   "push_child_wrong_pin": "Gimi-kortet har spärrats!",
-  "push_gimi_card_is_here": "PLZ_CHECK The Gimi card is here! Get it now!",
-  "event_gimi_card_is_here": "PLZ_CHECK Finally, the Gimi card is here! Upgrade you child to Master and get the card!"
+  "push_gimi_card_is_here": "Gimi-kortet är här! Beställ nu!",
+  "event_gimi_card_is_here": "Äntligen är Gimi-kortet här! Uppgradera till Gimi Master och beställ kortet!"
 }
