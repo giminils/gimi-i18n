@@ -2613,7 +2613,7 @@
   "help_row_seperated_parents": "För separerade föräldrar",
   "help_row_allowance": "Hur funkar veckopeng/månadspeng?",
   "help_row_interest": "Varför ge ränta?",
-  "set_card_name_help_text": "Skriva ut hela namnet på %1$d, så som det ska stå på kortet.",
+  "set_card_name_help_text": "Skriv ut hela namnet på %1$d, så som det ska stå på kortet.",
   "internal_transfer_error_title": "Åh nej, något gick fel",
   "internal_transfer_error_subtitle": "Inga pengar har dragits! Ge oss lite tid att reda ut problemet och försök igen lite senare.",
   "notification_waiting_hour_glass": "Väntar..."
