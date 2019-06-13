@@ -602,7 +602,7 @@
   "or_n_per_month": "eller %1$d / månad",
   "confirm_person_age_title": "Stämmer det att %1$d är %2$d år?",
   "confirm_person_age_desc": "Eller uppdatera så att födelsedatumet stämmer.",
-  "set_card_name_title": "PLZ_CHECK Name on the card",
+  "set_card_name_title": "Namnet på kortet",
   "general_first_name": "Förnamn",
   "general_last_name": "Efternamn",
   "question_pay_year_or_month": "Vill du betala för ett år eller per månad?",
@@ -2614,7 +2614,7 @@
   "help_row_allowance": "Hur funkar veckopeng/månadspeng?",
   "help_row_interest": "Varför ge ränta?",
   "set_card_name_help_text": "Skriva ut hela namnet på %1$d, så som det ska stå på kortet.",
-  "internal_transfer_error_title": "PLZ_CHECK Oh no... Something is not working",
-  "internal_transfer_error_subtitle": "PLZ_CHECK No money was transfered! Give us some time to fix the problem and please try again in a while.",
-  "notification_waiting_hour_glass": "PLZ_CHECK Waiting..."
+  "internal_transfer_error_title": "Åh nej, något gick fel",
+  "internal_transfer_error_subtitle": "Inga pengar har dragits! Ge oss lite tid att reda ut problemet och försök igen lite senare.",
+  "notification_waiting_hour_glass": "Väntar..."
 }
