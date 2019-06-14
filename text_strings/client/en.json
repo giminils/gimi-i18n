@@ -2614,7 +2614,7 @@
   "help_row_allowance": "How does allowance work?",
   "help_row_interest": "Why interest?",
   "set_card_name_help_text": "Write the full name of %1$d, as it will appear on the card.",
-  "internal_transfer_error_title": "Oh no... Something is not working",
-  "internal_transfer_error_subtitle": "No money was transfered! Give us some time to fix the problem and please try again in a while.",
-  "notification_waiting_hour_glass": "Waiting..."
+  "notification_waiting_hour_glass": "Waiting...",
+  "internal_transfer_error_title": "Oh no... Something went wrong",
+  "internal_transfer_error_subtitle": "We could not transfer your money. Give us a moment and try again soon!"
 }
