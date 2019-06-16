@@ -364,5 +364,5 @@
   "event_child_wrong_pin": "PLZ_TRANSLATE The Gimi card was blocked because of 3 failed PIN code attempts. Unblock it in card settings.",
   "push_child_wrong_pin": "PLZ_TRANSLATE The Gimi card has been blocked!",
   "push_gimi_card_is_here": "PLZ_TRANSLATE The Gimi card is here! Get it now!",
-  "event_gimi_card_is_here": "PLZ_TRANSLATE Finally, the Gimi card is here! Upgrade you child to Master and get the card!"
+  "event_gimi_card_is_here": "PLZ_TRANSLATE Finally, the Gimi card is here! Upgrade your child to Master and get the card!"
 }

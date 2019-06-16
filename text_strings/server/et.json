@@ -338,7 +338,7 @@
   "ADGERE038_push_title": "PLZ_TRANSLATE {assignment.task.title} had been auto-approved!",
   "CHPRRE019_notification_title": "PLZ_TRANSLATE {pfspayment.parent.nickname} has made a deposit to your card",
   "CHPRRE019_push_title": "PLZ_TRANSLATE You have received a deposit from {pfspayment.parent.nickname}",
-  "ADGEPU012_notification_title": "PLZ_TRANSLATE Finally, the Gimi card is here! Upgrade you child to Master and get the card!",
+  "ADGEPU012_notification_title": "PLZ_TRANSLATE Finally, the Gimi card is here! Upgrade your child to Master and get the card!",
   "ADGEPU012_push_title": "PLZ_TRANSLATE The Gimi card is here! Get it now",
   "ADGEPU007_notification_title": "PLZ_TRANSLATE Connect your children with more supporters!",
   "ADGEPU007_push_title": "PLZ_TRANSLATE Invite more supporters",
@@ -364,5 +364,5 @@
   "event_child_wrong_pin": "PLZ_TRANSLATE The Gimi card was blocked because of 3 failed PIN code attempts. Unblock it in card settings.",
   "push_child_wrong_pin": "PLZ_TRANSLATE The Gimi card has been blocked!",
   "push_gimi_card_is_here": "PLZ_TRANSLATE The Gimi card is here! Get it now!",
-  "event_gimi_card_is_here": "PLZ_TRANSLATE Finally, the Gimi card is here! Upgrade you child to Master and get the card!"
+  "event_gimi_card_is_here": "PLZ_TRANSLATE Finally, the Gimi card is here! Upgrade your child to Master and get the card!"
 }
