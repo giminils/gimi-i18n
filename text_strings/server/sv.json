@@ -364,5 +364,7 @@
   "event_child_wrong_pin": "Fel PIN-kod skrevs in 3 gånger, så vi spärrade Gimi-kortet! Men du kan aktivera det i inställningar.",
   "push_child_wrong_pin": "Gimi-kortet har spärrats!",
   "push_gimi_card_is_here": "Gimi-kortet är här! Beställ nu!",
-  "event_gimi_card_is_here": "Äntligen är Gimi-kortet här! Uppgradera till Gimi Master och beställ kortet!"
+  "event_gimi_card_is_here": "Äntligen är Gimi-kortet här! Uppgradera till Gimi Master och beställ kortet!",
+  "CHGEON028_notification_title": "PLZ_CHECK Tell us your birthday so we can send congratulations when it's time!",
+  "CHGEON028_push_title": "PLZ_CHECK When is your birthday?😍"
 }
