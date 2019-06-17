@@ -2602,5 +2602,6 @@
   "set_card_name_help_text": "PLZ_TRANSLATE Write the full name of %1$d, as it will appear on the card.",
   "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting...",
   "internal_transfer_error_title": "PLZ_TRANSLATE Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "PLZ_TRANSLATE We could not transfer your money. Give us a moment and try again soon!"
+  "internal_transfer_error_subtitle": "PLZ_TRANSLATE We could not transfer your money. Give us a moment and try again soon!",
+  "chore_to_be_suggested_overview_title": "PLZ_TRANSLATE Happy with this?"
 }

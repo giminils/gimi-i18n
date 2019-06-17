@@ -2602,5 +2602,6 @@
   "set_card_name_help_text": "Skriv ut hela namnet på %1$d, så som det ska stå på kortet.",
   "notification_waiting_hour_glass": "Väntar...",
   "internal_transfer_error_title": "PLZ_CHECK Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "PLZ_CHECK We could not transfer your money. Give us a moment and try again soon!"
+  "internal_transfer_error_subtitle": "PLZ_CHECK We could not transfer your money. Give us a moment and try again soon!",
+  "chore_to_be_suggested_overview_title": "PLZ_CHECK Happy with this?"
 }
