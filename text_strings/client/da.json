@@ -2603,5 +2603,7 @@
   "notification_waiting_hour_glass": "PLZ_TRANSLATE Waiting...",
   "internal_transfer_error_title": "PLZ_TRANSLATE Oh no... Something went wrong",
   "internal_transfer_error_subtitle": "PLZ_TRANSLATE We could not transfer your money. Give us a moment and try again soon!",
-  "chore_to_be_suggested_overview_title": "PLZ_TRANSLATE Happy with this?"
+  "chore_to_be_suggested_overview_title": "PLZ_TRANSLATE Happy with this?",
+  "select_kid_for_chore_copy_title": "PLZ_TRANSLATE Choose child",
+  "select_kid_for_chore_copy_subtitle": "PLZ_TRANSLATE Who do you want to assign the copy of this chore to?"
 }

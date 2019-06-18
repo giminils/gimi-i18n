@@ -2603,5 +2603,7 @@
   "notification_waiting_hour_glass": "Väntar...",
   "internal_transfer_error_title": "PLZ_CHECK Oh no... Something went wrong",
   "internal_transfer_error_subtitle": "PLZ_CHECK We could not transfer your money. Give us a moment and try again soon!",
-  "chore_to_be_suggested_overview_title": "PLZ_CHECK Happy with this?"
+  "chore_to_be_suggested_overview_title": "PLZ_CHECK Happy with this?",
+  "select_kid_for_chore_copy_title": "PLZ_CHECK Choose child",
+  "select_kid_for_chore_copy_subtitle": "PLZ_CHECK Who do you want to assign the copy of this chore to?"
 }
