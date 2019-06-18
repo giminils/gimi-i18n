@@ -2606,5 +2606,6 @@
   "chore_to_be_suggested_overview_title": "PLZ_CHECK Happy with this?",
   "select_kid_for_chore_copy_title": "Välj barn att kopiera uppgift till",
   "select_kid_for_chore_copy_subtitle": "Vem vill du skapa en kopia på uppgifter till?",
-  "add_chore_image_proof_to_complete": "PLZ_CHECK Add picture proof to complete!"
+  "add_chore_image_proof_to_complete": "PLZ_CHECK Add picture proof to complete!",
+  "general_save_changes": "PLZ_CHECK Save changes"
 }

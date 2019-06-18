@@ -2606,5 +2606,6 @@
   "chore_to_be_suggested_overview_title": "Happy with this?",
   "select_kid_for_chore_copy_title": "Choose child",
   "select_kid_for_chore_copy_subtitle": "Who do you want to assign the copy of this chore to?",
-  "add_chore_image_proof_to_complete": "Add picture proof to complete!"
+  "add_chore_image_proof_to_complete": "Add picture proof to complete!",
+  "general_save_changes": "Save changes"
 }
