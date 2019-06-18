@@ -367,8 +367,8 @@
   "event_gimi_card_is_here": "Finalmente, la carta Gimi è qui! Aggiorna il tuo bambino a Master e ottieni la carta!",
   "CHGEON028_notification_title": "Dicci il tuo compleanno cosìcché possiamo farti gli auguri quando sarà il momento!",
   "CHGEON028_push_title": "Quando è il tuo compleanno?😍",
-  "CHPRRE020_notification_title": "PLZ_TRANSLATE You didn't earn anything for Payday this time. Better get to work for next Payday!",
-  "CHPRRE020_push_title": "PLZ_TRANSLATE It's Payday! But no money for you this time",
-  "ADPRRE035_notification_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
-  "ADPRRE035_push_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned."
+  "CHPRRE021_notification_title": "PLZ_TRANSLATE You didn't earn anything for Payday this time. Better get to work for next Payday!",
+  "CHPRRE021_push_title": "PLZ_TRANSLATE It's Payday! But no money for you this time",
+  "ADPRRE036_notification_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
+  "ADPRRE036_push_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned."
 }
