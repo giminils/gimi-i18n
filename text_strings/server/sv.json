@@ -365,10 +365,10 @@
   "push_child_wrong_pin": "Gimi-kortet har spärrats!",
   "push_gimi_card_is_here": "Gimi-kortet är här! Beställ nu!",
   "event_gimi_card_is_here": "Äntligen är Gimi-kortet här! Uppgradera till Gimi Master och beställ kortet!",
-  "CHGEON028_notification_title": "PLZ_CHECK Tell us your birthday so we can send congratulations when it's time!",
-  "CHGEON028_push_title": "PLZ_CHECK When is your birthday?😍",
-  "CHPRRE021_notification_title": "PLZ_CHECK You didn't earn anything for Payday this time. Better get to work for next Payday!",
-  "CHPRRE021_push_title": "PLZ_CHECK It's Payday! But no money for you this time",
-  "ADPRRE036_notification_title": "PLZ_CHECK It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
-  "ADPRRE036_push_title": "PLZ_CHECK It's Payday for {child.nickname}, but no money was earned."
+  "CHGEON028_notification_title": "Ge oss din födelsedag, så att vi kan gratta dig när du fyllar år!",
+  "CHGEON028_push_title": "När fyller du år? 😍",
+  "CHPRRE021_notification_title": "Du fick inget på Payday den här gången. Börja jobba inför nästa Payday!",
+  "CHPRRE021_push_title": "Det är Payday, men inga pengar...",
+  "ADPRRE036_notification_title": "Det är Payday för {child.nickname}, men inga pengar har tjänats ihop. Ge ut några uppgifter?",
+  "ADPRRE036_push_title": "Det är Payday för {child.nickname}, men inga pengar den här gången..."
 }
