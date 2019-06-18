@@ -2601,9 +2601,9 @@
   "help_row_interest": "Varför ge ränta?",
   "set_card_name_help_text": "Skriv ut hela namnet på %1$d, så som det ska stå på kortet.",
   "notification_waiting_hour_glass": "Väntar...",
-  "internal_transfer_error_title": "PLZ_CHECK Oh no... Something went wrong",
-  "internal_transfer_error_subtitle": "PLZ_CHECK We could not transfer your money. Give us a moment and try again soon!",
+  "internal_transfer_error_title": "Åh nej, något gick fel",
+  "internal_transfer_error_subtitle": "Vi kunde inte föra över dina pengar. Ge oss några minuter och försök igen!",
   "chore_to_be_suggested_overview_title": "PLZ_CHECK Happy with this?",
-  "select_kid_for_chore_copy_title": "PLZ_CHECK Choose child",
-  "select_kid_for_chore_copy_subtitle": "PLZ_CHECK Who do you want to assign the copy of this chore to?"
+  "select_kid_for_chore_copy_title": "Välj barn att kopiera uppgift till",
+  "select_kid_for_chore_copy_subtitle": "Vem vill du skapa en kopia på uppgifter till?"
 }
