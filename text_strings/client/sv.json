@@ -2605,5 +2605,6 @@
   "internal_transfer_error_subtitle": "Vi kunde inte föra över dina pengar. Ge oss några minuter och försök igen!",
   "chore_to_be_suggested_overview_title": "PLZ_CHECK Happy with this?",
   "select_kid_for_chore_copy_title": "Välj barn att kopiera uppgift till",
-  "select_kid_for_chore_copy_subtitle": "Vem vill du skapa en kopia på uppgifter till?"
+  "select_kid_for_chore_copy_subtitle": "Vem vill du skapa en kopia på uppgifter till?",
+  "add_chore_image_proof_to_complete": "PLZ_CHECK Add picture proof to complete!"
 }
