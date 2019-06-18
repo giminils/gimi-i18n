@@ -366,5 +366,9 @@
   "push_gimi_card_is_here": "Gimi-kortet är här! Beställ nu!",
   "event_gimi_card_is_here": "Äntligen är Gimi-kortet här! Uppgradera till Gimi Master och beställ kortet!",
   "CHGEON028_notification_title": "PLZ_CHECK Tell us your birthday so we can send congratulations when it's time!",
-  "CHGEON028_push_title": "PLZ_CHECK When is your birthday?😍"
+  "CHGEON028_push_title": "PLZ_CHECK When is your birthday?😍",
+  "CHPRRE020_notification_title": "PLZ_CHECK You didn't earn anything for Payday this time. Better get to work for next Payday!",
+  "CHPRRE020_push_title": "PLZ_CHECK It's Payday! But no money for you this time",
+  "ADPRRE035_notification_title": "PLZ_CHECK It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
+  "ADPRRE035_push_title": "PLZ_CHECK It's Payday for {child.nickname}, but no money was earned."
 }
