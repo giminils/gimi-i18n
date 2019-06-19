@@ -2607,5 +2607,7 @@
   "select_kid_for_chore_copy_title": "PLZ_TRANSLATE Choose child",
   "select_kid_for_chore_copy_subtitle": "PLZ_TRANSLATE Who do you want to assign the copy of this chore to?",
   "add_chore_image_proof_to_complete": "PLZ_TRANSLATE Add picture proof to complete!",
-  "general_save_changes": "PLZ_TRANSLATE Save changes"
+  "general_save_changes": "PLZ_TRANSLATE Save changes",
+  "suggested_chore_dont_accept_button": "PLZ_TRANSLATE Don't accept",
+  "suggested_chore_accept_button": "PLZ_TRANSLATE Accept & add to chores"
 }
