@@ -1825,7 +1825,7 @@
   "education_more_chapters_coming_soon": "Lisää tulossa!",
   "spending_categories_item_explainer_kid": "Olet käyttänyt %1$d kohteeseen %2$d tänä vuonna",
   "spending_categories_item_explainer_parent": "%1$d on käyttänyt %2$d kohteeseen %3$d tänä vuonna",
-  "premium_section_setup": "Premium",
+  "premium_section_setup": "PLZ_TRANSLATE Master",
   "child_ready_for_card_confirmation_message": "%1$d on valmis saamaan kortin!",
   "premium_intro_passcode_title": "Pidä se turvassa",
   "premium_intro_passcode_desc_for_kid": "Gimi pitää rahasi turvassa, joten tästä lähtien tarvitset PIN-koodin avataksesi Gimi-sovelluksen. Pidä se salassa!",

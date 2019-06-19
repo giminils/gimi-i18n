@@ -1825,7 +1825,7 @@
   "education_more_chapters_coming_soon": "¡Próximamente más!",
   "spending_categories_item_explainer_kid": "Has gastado %1$d en %2$d este año",
   "spending_categories_item_explainer_parent": "%1$d ha gastado %2$d en %3$d este año",
-  "premium_section_setup": "Premium",
+  "premium_section_setup": "PLZ_TRANSLATE Master",
   "child_ready_for_card_confirmation_message": "¡%1$d está listo para la tarjeta!",
   "premium_intro_passcode_title": "Mantenlo seguro",
   "premium_intro_passcode_desc_for_kid": "Gimi mantiene tu dinero seguro, por lo que de ahora en adelante necesitarás una contraseña para la aplicacióm Gimi. ¡Manténla en secreto!",
