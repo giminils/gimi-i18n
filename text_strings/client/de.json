@@ -2608,5 +2608,6 @@
   "add_chore_image_proof_to_complete": "PLZ_TRANSLATE Add picture proof to complete!",
   "general_save_changes": "PLZ_TRANSLATE Save changes",
   "suggested_chore_dont_accept_button": "PLZ_TRANSLATE Don't accept",
-  "suggested_chore_accept_button": "PLZ_TRANSLATE Accept & add to chores"
+  "suggested_chore_accept_button": "PLZ_TRANSLATE Accept & add to chores",
+  "session_has_expired_error_message": "PLZ_TRANSLATE Session has expired please log in again"
 }

@@ -2608,5 +2608,6 @@
   "add_chore_image_proof_to_complete": "Legg til bildebevis for å fullføre!",
   "general_save_changes": "Lagre endringer",
   "suggested_chore_dont_accept_button": "Ikke godta",
-  "suggested_chore_accept_button": "Godta og legg til og legg til i oppgaver"
+  "suggested_chore_accept_button": "Godta og legg til og legg til i oppgaver",
+  "session_has_expired_error_message": "PLZ_TRANSLATE Session has expired please log in again"
 }
