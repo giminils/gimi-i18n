@@ -2028,7 +2028,7 @@
   "parentrelation_overview_for_parent_subtitle": "Instellingen voor %1$d",
   "name_owes_name": "%1$d moet %2$d betalen",
   "kid_connect_with_qr_instead_button": "Verbind met QR-code",
-  "parent_education_feature_custom_notification": "We hebben Gimi geupdate met opvoeding over geld!",
+  "parent_education_feature_custom_notification": "PLZ_TRANSLATE We've updated Gimi with some money education!",
   "pfs_acquirer_error_title": "Oh nee... er ging iets mis",
   "pfs_acquirer_error_check_card_details": "Weet je zeker dat je de juiste kaartgegevens hebt opgeslagen. Kijk ze even na.",
   "pfs_acquirer_error_check_card_details_action_button": "Instellingen",

@@ -2028,7 +2028,7 @@
   "parentrelation_overview_for_parent_subtitle": "Einstellungen für %1$d",
   "name_owes_name": "%1$d schuldet %2$d",
   "kid_connect_with_qr_instead_button": "Per QR Code verbinden",
-  "parent_education_feature_custom_notification": "Wir haben Gimi mit neuem Wissen über Geld aktualisiert!",
+  "parent_education_feature_custom_notification": "PLZ_TRANSLATE We've updated Gimi with some money education!",
   "pfs_acquirer_error_title": "Oh nein... etwas ist schiefgegangen",
   "pfs_acquirer_error_check_card_details": "PLZ_CHECK Sure you saved the correct card details to make sure they are correct.",
   "pfs_acquirer_error_check_card_details_action_button": "Einstellungen",

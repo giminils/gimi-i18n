@@ -2028,7 +2028,7 @@
   "parentrelation_overview_for_parent_subtitle": "Innstillinger for %1$d",
   "name_owes_name": "%1$d skylder %2$d",
   "kid_connect_with_qr_instead_button": "Koble til med QR-kode",
-  "parent_education_feature_custom_notification": "Lær barna dine å tjene, spare og bruke penger med Gimi!",
+  "parent_education_feature_custom_notification": "PLZ_TRANSLATE We've updated Gimi with some money education!",
   "pfs_acquirer_error_title": "Å nei ... noe gikk galt",
   "pfs_acquirer_error_check_card_details": "Sjekk at du lagret korrekte kortdetaljer for å sikre at de er riktige.",
   "pfs_acquirer_error_check_card_details_action_button": "Innstillinger",

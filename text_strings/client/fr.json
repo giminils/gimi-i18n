@@ -2028,7 +2028,7 @@
   "parentrelation_overview_for_parent_subtitle": " Paramètres pour %1$d",
   "name_owes_name": "%1$d doit %2$d",
   "kid_connect_with_qr_instead_button": "Connecter avec le code QR",
-  "parent_education_feature_custom_notification": "Nous avons mis à jour Gimi avec une éducation financière!",
+  "parent_education_feature_custom_notification": "PLZ_TRANSLATE We've updated Gimi with some money education!",
   "pfs_acquirer_error_title": "Oh non... quelque chose n'a pas marché",
   "pfs_acquirer_error_check_card_details": "Assurez-vous d'avoir enregistré les informations correctes de la carte pour vous assurer qu'elles soient correctes.",
   "pfs_acquirer_error_check_card_details_action_button": "Paramètres",
