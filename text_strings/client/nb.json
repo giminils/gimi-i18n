@@ -602,7 +602,7 @@
   "or_n_per_month": "eller %1$d / måned",
   "confirm_person_age_title": "Stemmer det at %1$d er %2$d år?",
   "confirm_person_age_desc": "Eller oppdatere slik at fødselsdatoen stemmer.",
-  "set_card_name_title": "PLZ_TRANSLATE Name on the card",
+  "set_card_name_title": "Navn på kortet",
   "general_first_name": "Fornavn",
   "general_last_name": "Etternavn",
   "question_pay_year_or_month": "Vil du betale for ett år eller per måned?",
