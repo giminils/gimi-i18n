@@ -2609,5 +2609,6 @@
   "general_save_changes": "Save changes",
   "suggested_chore_dont_accept_button": "Don't accept",
   "suggested_chore_accept_button": "Accept & add to chores",
-  "session_has_expired_error_message": "Session has expired please log in again"
+  "session_has_expired_error_message": "Session has expired please log in again",
+  "shareable_birthday_image_title": "It's my birthday!"
 }
