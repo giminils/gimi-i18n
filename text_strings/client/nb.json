@@ -1302,7 +1302,7 @@
   "month_and_year": "måned / år",
   "get_card_info_error": "Vi kunne ikke hente dine kortdetaljer. Vennligst prøv igjen senere!",
   "payout_summary_title": "Utbetalingsoversikt",
-  "card_info_timer": "PLZ_TRANSLATE You get 8 seconds!",
+  "card_info_timer": "Du har 8 sekunder!",
   "payout_summary_for_name": "Utbetalingsoversikt for %1$d",
   "payout_summary_edit_amount": "Rediger beløp",
   "payout_to_n": "Utbetaling til %1$d",
