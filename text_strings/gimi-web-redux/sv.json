@@ -714,6 +714,8 @@
   "privacy.policy.section.7.subtitle": "Betalningsinformation",
   "privacy.policy.section.7.explainer.1": "Om du betalar Gimi eller överför pengar till ett förbetalt kort kommer Gimi att behandla dina betalningsuppgifter. Gimi använder betrodda tredje parter för genomförandet av betalningen.",
   "privacy.policy.section.7.desc.1": "Om du betalar för tjänsten eller överför pengar till ett förbetalt betalkort behandlar Gimi dina betalningsuppgifter. Detta inkluderar kortinformation, bankkontouppgifter, transaktionsinformation och plats. Denna behandling sker av betrodda och väletablerade tredje parter på Gimis uppdrag i syfte att möjliggöra dina betalningar.",
+  "privacy.policy.section.7.desc.2": "Dessa tredje parter kommer att behandla dina personuppgifter för egna syften. Innan du använder betallösningen från Stripe vänligen läs",
+  "privacy.policy.stripe.link": "https://stripe.com/privacy.",
   "privacy.policy.section.8.title": "Användning, delning och yppande av Användar- och Kontaktinformation",
   "privacy.policy.section.8.explainer.1": "Information som du uppger kommer att användas för att förbättra och anpassa tjänsten, tillhandahålla tjänster till dig och skicka dig viktiga meddelanden.",
   "privacy.policy.section.8.desc.1": "Information relaterat till Användar- och Kontaktinformation kommer användas till att:",

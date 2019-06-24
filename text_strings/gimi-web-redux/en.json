@@ -713,6 +713,8 @@
   "privacy.policy.section.7.subtitle": "Payment information",
   "privacy.policy.section.7.explainer.1": "If you pay for the service or transfer money to a prepaid card Gimi will process your payment information. Gimi uses trusted third parties for this processing.",
   "privacy.policy.section.7.desc.1": "If you pay for the service or transfer money to your prepaid card, Gimi will process your payments information. This includes card information, account information, transaction information and location. This processing is conducted by trusted and well established third parties on Gimis behalf in order to enable the transaction.",
+  "privacy.policy.section.7.desc.2": "The third parties will process your personal information for their own purposes. Before you use the payment solution from Stripe integrated in the app, please read",
+  "privacy.policy.stripe.link": "https://stripe.com/privacy.",
   "privacy.policy.section.8.title": "Use, Sharing and Disclosure of User and Contact Information",
   "privacy.policy.section.8.explainer.1": "The information you provide will be used to improve and customize Gimi as well as to send you important messages.",
   "privacy.policy.section.8.desc.1": "Information related to the User or Contact Information will be used to:",
