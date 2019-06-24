@@ -2610,5 +2610,6 @@
   "suggested_chore_dont_accept_button": "PLZ_TRANSLATE Don't accept",
   "suggested_chore_accept_button": "PLZ_TRANSLATE Accept & add to chores",
   "session_has_expired_error_message": "PLZ_TRANSLATE Your sessions is expired, sign in again!",
-  "shareable_birthday_image_title": "PLZ_TRANSLATE It's my birthday!"
+  "shareable_birthday_image_title": "PLZ_TRANSLATE It's my birthday!",
+  "rejected_chore_header_disable_approval": "PLZ_TRANSLATE Not approved"
 }
