@@ -2608,6 +2608,6 @@
   "general_save_changes": "Lagre endringer",
   "suggested_chore_dont_accept_button": "Ikke godta",
   "suggested_chore_accept_button": "Godta og legg til og legg til i oppgaver",
-  "session_has_expired_error_message": "PLZ_TRANSLATE Your sessions is expired, sign in again!",
+  "session_has_expired_error_message": "Din sesjon er utløpt, vennligst logg inn på nytt!",
   "shareable_birthday_image_title": "Jeg har bursdag!"
 }
