@@ -2611,5 +2611,6 @@
   "suggested_chore_accept_button": "Godta og legg til og legg til i oppgaver",
   "session_has_expired_error_message": "Din sesjon er utløpt, vennligst logg inn på nytt!",
   "shareable_birthday_image_title": "Jeg har bursdag!",
-  "rejected_chore_header_disable_approval": "PLZ_TRANSLATE Not approved"
+  "rejected_chore_header_disable_approval": "PLZ_TRANSLATE Not approved",
+  "card_issuer_terms": "PLZ_TRANSLATE Card issuer terms"
 }

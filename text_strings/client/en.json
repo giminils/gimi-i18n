@@ -2611,5 +2611,6 @@
   "suggested_chore_accept_button": "Accept & add to chores",
   "session_has_expired_error_message": "Your sessions is expired, sign in again!",
   "shareable_birthday_image_title": "It's my birthday!",
-  "rejected_chore_header_disable_approval": "Not approved"
+  "rejected_chore_header_disable_approval": "Not approved",
+  "card_issuer_terms": "Card issuer terms"
 }

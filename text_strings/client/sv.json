@@ -2611,5 +2611,6 @@
   "suggested_chore_accept_button": "PLZ_CHECK Accept & add to chores",
   "session_has_expired_error_message": "PLZ_CHECK Your sessions is expired, sign in again!",
   "shareable_birthday_image_title": "PLZ_CHECK It's my birthday!",
-  "rejected_chore_header_disable_approval": "PLZ_CHECK Not approved"
+  "rejected_chore_header_disable_approval": "PLZ_CHECK Not approved",
+  "card_issuer_terms": "PLZ_CHECK Card issuer terms"
 }
