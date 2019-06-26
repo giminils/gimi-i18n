@@ -1,0 +1,22 @@
+{% extends "admin/submit_receipt.html" %}
+
+{% block form_label %}<h1>Submit a Play Store receipt</h1>{% endblock %}
+
+{% block submit_form %}
+  <div class="form-row">
+    <div>
+      <label class="required" for="id_subscription_id">Subscription</label>
+      <select id="id_subscription_id" name="subscription_id">
+        {% for subscription in subscriptions %}
+          <option value={{ subscription.0 }}>{{ subscription.1 }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+  <div class="form-row">
+    <div>
+      <label class="required" for="id_purchase_token">Purchase Token</label>
+      <textarea id="id_purchase_token" cols="100" rows="6" name="purchase_token"></textarea>
+    </div>
+  </div>
+{% endblock %}
