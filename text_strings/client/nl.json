@@ -2614,5 +2614,11 @@
   "rejected_chore_header_disable_approval": "PLZ_TRANSLATE Not approved",
   "card_issuer_terms": "PLZ_TRANSLATE Card issuer terms",
   "master_user_terms": "PLZ_TRANSLATE Gimi Master user terms",
-  "subscription_terms": "PLZ_TRANSLATE Subscription terms"
+  "subscription_terms": "PLZ_TRANSLATE Subscription terms",
+  "general_return": "PLZ_TRANSLATE Try again",
+  "returned_chore_header": "PLZ_TRANSLATE Not approved. Try again!",
+  "returned_chore_header_disable_approval": "PLZ_TRANSLATE Not approved",
+  "archive_chore_returned": "PLZ_TRANSLATE Not approved",
+  "returned_chore_action_title": "PLZ_TRANSLATE You did not approve %1$d",
+  "returned_chore_action_desc": "PLZ_TRANSLATE %1$d will get another chance to complete it!"
 }
