@@ -2612,5 +2612,7 @@
   "session_has_expired_error_message": "Your sessions is expired, sign in again!",
   "shareable_birthday_image_title": "It's my birthday!",
   "rejected_chore_header_disable_approval": "Not approved",
-  "card_issuer_terms": "Card issuer terms"
+  "card_issuer_terms": "Card issuer terms",
+  "master_user_terms": "Gimi Master user terms",
+  "subscription_terms": "Subscription terms"
 }

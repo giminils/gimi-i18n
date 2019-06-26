@@ -2612,5 +2612,7 @@
   "session_has_expired_error_message": "Din sesjon er utløpt, vennligst logg inn på nytt!",
   "shareable_birthday_image_title": "Jeg har bursdag!",
   "rejected_chore_header_disable_approval": "PLZ_TRANSLATE Not approved",
-  "card_issuer_terms": "PLZ_TRANSLATE Card issuer terms"
+  "card_issuer_terms": "PLZ_TRANSLATE Card issuer terms",
+  "master_user_terms": "PLZ_TRANSLATE Gimi Master user terms",
+  "subscription_terms": "PLZ_TRANSLATE Subscription terms"
 }
