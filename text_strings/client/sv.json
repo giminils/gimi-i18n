@@ -1162,7 +1162,7 @@
   "request_permission_title_photo": "Saknar åtkomst till bilder",
   "revoke_permission_camera": "Är du säker på att du vill ta bort Gimi's åtkomst till kameran?",
   "revoke_permission_photo": "Är du säker på att du vill ta bort Gimi's åtkomst till galleriet?",
-  "revoke_permission_notifications": "Säker på att du inte vill ha pushnotiser? Vi kommer inte att kunna informera din om viktiga händelser!",
+  "revoke_permission_notifications": "Säker på att du inte vill ha pushnotiser? Vi kommer inte att kunna informera dig om viktiga händelser!",
   "invitation_error": "Problem med att koppla ihop...",
   "invitation_error_mesasge": "Vi kunde inte koppla ihop dig med %1$d",
   "my_kids": "Barn",
@@ -2621,5 +2621,5 @@
   "archive_chore_returned": "Ej godkänd",
   "returned_chore_action_title": "Du godkände inte %1$d",
   "returned_chore_action_desc": "%1$d får en till chans att göra om och göra rätt!",
-  "not_enough_payday_hint": "PLZ_CHECK Payday needs to be more than %1$d, else it will be skipped"
+  "not_enough_payday_hint": "Payday måste vara mer än %1$d, annars skippar vi det!"
 }
