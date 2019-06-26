@@ -370,5 +370,6 @@
   "CHPRRE021_notification_title": "You didn't earn anything for Payday this time. Better get to work for next Payday!",
   "CHPRRE021_push_title": "It's Payday! But no money for you this time",
   "ADPRRE036_notification_title": "It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
-  "ADPRRE036_push_title": "It's Payday for {child.nickname}, but no money was earned."
+  "ADPRRE036_push_title": "It's Payday for {child.nickname}, but no money was earned.",
+  "ADPRON004_notification_title": "You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!"
 }

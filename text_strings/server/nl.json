@@ -370,5 +370,6 @@
   "CHPRRE021_notification_title": "Je hebt nu niets voor Payday verdiend. Je kunt beter aan de slag gaan voor de volgende Payday!",
   "CHPRRE021_push_title": "Het is Payday! Maar deze keer is er geen geld voor jou",
   "ADPRRE036_notification_title": "Het is Payday voor {child.nickname}, maar er is geen geld verdiend. Misschien kun je de voor volgende keer wat klusjes geven?",
-  "ADPRRE036_push_title": "Het is Payday voor {child.nickname}, maar er is geen geld verdiend."
+  "ADPRRE036_push_title": "Het is Payday voor {child.nickname}, maar er is geen geld verdiend.",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!"
 }

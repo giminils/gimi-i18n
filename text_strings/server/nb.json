@@ -370,5 +370,6 @@
   "CHPRRE021_notification_title": "Du har ikke tjent noe denne gangen. Sett i gang å jobbe til neste Payday!",
   "CHPRRE021_push_title": "Det er Payday! Men ingen penger til deg denne gangen",
   "ADPRRE036_notification_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent. Kanskje gi ut noen oppgaver til neste gang?",
-  "ADPRRE036_push_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent."
+  "ADPRRE036_push_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent.",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!"
 }
