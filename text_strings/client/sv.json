@@ -2399,7 +2399,7 @@
   "transaction_deposit_title": "Insättning från %1$d",
   "payout_summary_transfer_now": "Överför nu",
   "kyc_success_message": "Identitet verifierad",
-  "kyc_pending_message": "Väntar på ID-verifiering",
+  "kyc_pending_message": "PLZ_CHECK Wait! Verifying identity",
   "kyc_failed_message": "Identiteten kunde inte verifieras",
   "access_card_settings_error_title": "Du har inte access",
   "access_card_settings_error_desc": "För våra användares säkerhet, kan bara den som beställde kortet komma åt inställningar för kortet.",

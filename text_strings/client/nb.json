@@ -2399,7 +2399,7 @@
   "transaction_deposit_title": "Innskudd fra %1$d",
   "payout_summary_transfer_now": "Overfør nå",
   "kyc_success_message": "Identitet verifisert",
-  "kyc_pending_message": "Kontroll av identitet pågår",
+  "kyc_pending_message": "PLZ_TRANSLATE Wait! Verifying identity",
   "kyc_failed_message": "Identitet kunne ikke verifiseres",
   "access_card_settings_error_title": "Du har ikke tilgang",
   "access_card_settings_error_desc": "For våre brukeres sikkerhet er det kun den forelderen som bestilte kortet som har tilgang til kortinnstillingene.",

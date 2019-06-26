@@ -2399,7 +2399,7 @@
   "transaction_deposit_title": "Storting van %1$d",
   "payout_summary_transfer_now": "Maak nu over",
   "kyc_success_message": "Identiteit geverifieerd",
-  "kyc_pending_message": "Wacht op identiteitscontrole",
+  "kyc_pending_message": "PLZ_TRANSLATE Wait! Verifying identity",
   "kyc_failed_message": "Identiteit kon niet geverifieerd worden",
   "access_card_settings_error_title": "Je hebt geen toegang",
   "access_card_settings_error_desc": "Vanwege de veiligheid van onze gebruikers heeft alleen de ouder, die de kaart besteld heeft, toegang tot de instellingen van de kaart.",

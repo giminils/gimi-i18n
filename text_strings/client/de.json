@@ -2399,7 +2399,7 @@
   "transaction_deposit_title": "PLZ_TRANSLATE Deposit from %1$d",
   "payout_summary_transfer_now": "PLZ_TRANSLATE Transfer now",
   "kyc_success_message": "PLZ_TRANSLATE Identity verified",
-  "kyc_pending_message": "PLZ_TRANSLATE Pending identity check",
+  "kyc_pending_message": "PLZ_TRANSLATE Wait! Verifying identity",
   "kyc_failed_message": "PLZ_TRANSLATE Identity Could not be verified",
   "access_card_settings_error_title": "PLZ_TRANSLATE You don’t have access",
   "access_card_settings_error_desc": "PLZ_TRANSLATE For our users security, only the parent who ordered the card can access card settings.",
