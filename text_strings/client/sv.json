@@ -2620,5 +2620,6 @@
   "returned_chore_header_disable_approval": "Ej godkänd",
   "archive_chore_returned": "Ej godkänd",
   "returned_chore_action_title": "Du godkände inte %1$d",
-  "returned_chore_action_desc": "%1$d får en till chans att göra om och göra rätt!"
+  "returned_chore_action_desc": "%1$d får en till chans att göra om och göra rätt!",
+  "not_enough_payday_hint": "PLZ_CHECK Payday needs to be more than %1$d, else it will be skipped"
 }

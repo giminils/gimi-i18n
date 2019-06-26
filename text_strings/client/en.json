@@ -2620,5 +2620,6 @@
   "returned_chore_header_disable_approval": "Not approved",
   "archive_chore_returned": "Not approved",
   "returned_chore_action_title": "You did not approve %1$d",
-  "returned_chore_action_desc": "%1$d will get another chance to complete it!"
+  "returned_chore_action_desc": "%1$d will get another chance to complete it!",
+  "not_enough_payday_hint": "Payday needs to be more than %1$d, else it will be skipped"
 }
