@@ -549,7 +549,7 @@
   "general_permission": "Be om tillåtelse?",
   "missing_permissions": "Saknar tillåtelse",
   "read_good_to_know": "Läs igenom 'Bra att veta'",
-  "payment_method": "Betalningsmetod",
+  "payment_method": "Betalmetod",
   "create_pin": "Välj lösenkod",
   "verify_identity": "Verifiera identitet",
   "email_already_in_use": "Denna e-post är redan registrerad",
