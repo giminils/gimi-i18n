@@ -371,5 +371,7 @@
   "CHPRRE021_push_title": "Det er Payday! Men ingen penger til deg denne gangen",
   "ADPRRE036_notification_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent. Kanskje gi ut noen oppgaver til neste gang?",
   "ADPRRE036_push_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent.",
-  "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!"
+  "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!",
+  "CHGERE035_notification_title": "PLZ_TRANSLATE {parent.nickname} added an expense. You'll get less on payday...",
+  "CHGERE035_push_title": "PLZ_TRANSLATE {parent.nickname} added an expense!"
 }
