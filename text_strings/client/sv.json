@@ -2623,5 +2623,6 @@
   "returned_chore_action_desc": "%1$d får en till chans att göra om och göra rätt!",
   "not_enough_payday_hint": "Payday måste vara mer än %1$d, annars skippar vi det!",
   "master_yearly": "PLZ_CHECK Master yearly",
-  "master_monthly": "PLZ_CHECK Master monthly"
+  "master_monthly": "PLZ_CHECK Master monthly",
+  "need_kid_for_subscription": "PLZ_CHECK You need to connect with a child before you can buy a subscription and order a card!"
 }

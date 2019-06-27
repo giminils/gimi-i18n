@@ -2623,5 +2623,6 @@
   "returned_chore_action_desc": "PLZ_TRANSLATE %1$d will get another chance to complete it!",
   "not_enough_payday_hint": "PLZ_TRANSLATE Payday needs to be more than %1$d, else it will be skipped",
   "master_yearly": "PLZ_TRANSLATE Master yearly",
-  "master_monthly": "PLZ_TRANSLATE Master monthly"
+  "master_monthly": "PLZ_TRANSLATE Master monthly",
+  "need_kid_for_subscription": "PLZ_TRANSLATE You need to connect with a child before you can buy a subscription and order a card!"
 }
