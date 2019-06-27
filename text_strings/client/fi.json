@@ -2621,5 +2621,7 @@
   "archive_chore_returned": "PLZ_TRANSLATE Not approved",
   "returned_chore_action_title": "PLZ_TRANSLATE You did not approve %1$d",
   "returned_chore_action_desc": "PLZ_TRANSLATE %1$d will get another chance to complete it!",
-  "not_enough_payday_hint": "PLZ_TRANSLATE Payday needs to be more than %1$d, else it will be skipped"
+  "not_enough_payday_hint": "PLZ_TRANSLATE Payday needs to be more than %1$d, else it will be skipped",
+  "master_yearly": "PLZ_TRANSLATE Master yearly",
+  "master_monthly": "PLZ_TRANSLATE Master monthly"
 }
