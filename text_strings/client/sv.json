@@ -2626,5 +2626,6 @@
   "master_monthly": "PLZ_CHECK Master monthly",
   "need_kid_for_subscription": "PLZ_CHECK You need to connect with a child before you can buy a subscription and order a card!",
   "general_expired": "PLZ_CHECK Expired",
-  "feature_back_to_school": "PLZ_CHECK Back to school, back to work"
+  "feature_back_to_school": "PLZ_CHECK Back to school, back to work",
+  "invite_family_parent_settings_row": "PLZ_CHECK Invite your family!"
 }
