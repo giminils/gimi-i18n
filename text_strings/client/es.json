@@ -2627,5 +2627,6 @@
   "need_kid_for_subscription": "PLZ_TRANSLATE You need to connect with a child before you can buy a subscription and order a card!",
   "general_expired": "PLZ_TRANSLATE Expired",
   "feature_back_to_school": "PLZ_TRANSLATE Back to school, back to work",
-  "invite_family_parent_settings_row": "PLZ_TRANSLATE Invite your family!"
+  "invite_family_parent_settings_row": "PLZ_TRANSLATE Invite your family!",
+  "order_card_parent_settings_row": "PLZ_TRANSLATE Order the card!"
 }

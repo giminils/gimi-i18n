@@ -2627,5 +2627,6 @@
   "need_kid_for_subscription": "You need to connect with a child before you can buy a subscription and order a card!",
   "general_expired": "Expired",
   "feature_back_to_school": "Back to school, back to work",
-  "invite_family_parent_settings_row": "Invite your family!"
+  "invite_family_parent_settings_row": "Invite your family!",
+  "order_card_parent_settings_row": "Order the card!"
 }
