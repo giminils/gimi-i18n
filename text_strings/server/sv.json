@@ -371,7 +371,7 @@
   "CHPRRE021_push_title": "Det är Payday, men inga pengar...",
   "ADPRRE036_notification_title": "Det är Payday för {child.nickname}, men inga pengar har tjänats ihop. Ge ut några uppgifter?",
   "ADPRRE036_push_title": "Det är Payday för {child.nickname}, men inga pengar den här gången...",
-  "ADPRON004_notification_title": "PLZ_CHECK You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!",
-  "CHGERE035_notification_title": "PLZ_CHECK {parent.nickname} added an expense. You'll get less on payday...",
-  "CHGERE035_push_title": "PLZ_CHECK {parent.nickname} added an expense!"
+  "ADPRON004_notification_title": "Du har uppgraderat {child.nickname} till Gimi Master. Beställ Gimi-kortet nu!",
+  "CHGERE035_notification_title": "{parent.nickname} la till ett utlägg. Det blir avdrag från Payday...",
+  "CHGERE035_push_title": "{parent.nickname} la till ett utlägg!"
 }
