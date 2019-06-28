@@ -155,7 +155,7 @@
   "event_subscription_not_paid_card_will_blocked": "Din prenumeration på Gimi Master har inte betalats, kortet kommer att spärras imorgon!",
   "push_subscription_not_paid_card_will_blocked": "Avgiften för Gimi Master har inte betalats. Gimi-kortet kommer att låsas om 24h.",
   "event_subscription_not_paid_card_blocked": "Gimi-kortet har spärrats och ditt barns app är låst tills du har betalat avgiften för Gimi Master.",
-  "event_card_has_arrived": "Har ditt kort kommit? Aktivera det!",
+  "event_card_has_arrived": "Du kan aktivera ditt Gimi-kort redan nu!",
   "event_transfer_money_to_card": "Du har pengar på ditt konto! Vill du börja spendera? Ladda på pengar på kortet.",
   "event_name_blocked_your_card": "{parent.nickname} spärrade ditt kort",
   "push_name_blocked_your_card": "Ditt kort har spärrats av {parent.nickname}",
