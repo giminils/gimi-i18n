@@ -155,7 +155,7 @@
   "event_subscription_not_paid_card_will_blocked": "Your subscription has not been paid, card will be blocked tomorrow!",
   "push_subscription_not_paid_card_will_blocked": "Your Master subscription has not been paid. The Gimi card will be locked in 24 hours",
   "event_subscription_not_paid_card_blocked": "The Gimi card has been blocked and your child's app is locked until you've paid your Gimi Master subscription.",
-  "event_card_has_arrived": "Has your card arrived yet? Activate it!",
+  "event_card_has_arrived": "You know you can activate your Gimi card now?",
   "event_transfer_money_to_card": "You have money in your accout! Want to spend some? Just transfer it to your card.",
   "event_name_blocked_your_card": "{parent.nickname} blocked your card",
   "push_name_blocked_your_card": "Your card has been blocked by {parent.nickname}",
