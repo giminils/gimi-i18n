@@ -1,7 +1,7 @@
 {
   "task_category_name_cleaning": "Nettoyage",
   "task_category_description_school": "Pour garder frais et propre",
-  "task_category_name_school": "Ecole",
+  "task_category_name_school": "École",
   "task_category_description_cleaning": "Pour la présence à l'école",
   "task_category_name_laundry": "Linge",
   "task_category_description_laundry": "Pour aider à laver le linge",
@@ -36,7 +36,7 @@
   "task_group_name_web": "Internet & Navigation",
   "task_group_description_web": "2 tâches assez sévères  pouvant vous faire récompenser avec 5 kr par semaine",
   "task_group_name_strict": "Il est temps d'être sévère",
-  "task_group_description_strict": "5 tâche pouvant vous faire soustraire 17 kr par semaine ou vous faire récompenser 50 kr au fil du temps",
+  "task_group_description_strict": "5 tâches pouvant vous faire soustraire 17 kr par semaine ou vous faire récompenser 50 kr au fil du temps",
   "task_group_name_signup": "Se connecter",
   "task_group_description_signup": "Au moment de se connecter ",
   "task_group_name_popular": "Populaire",
