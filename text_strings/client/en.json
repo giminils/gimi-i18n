@@ -2632,5 +2632,6 @@
   "lysa_parent_settings_row": "Lysa",
   "chore_to_be_added_overview_title": "Happy with this?",
   "returned_chore_header_disable_approval_kid": "Not approved",
-  "returned_chore_header_kid": "Not approved. Try again!"
+  "returned_chore_header_kid": "Not approved. Try again!",
+  "pfs_issue_card_error_message": "Card factory overload! WE will be taking orders again very soon. Check back later!"
 }

@@ -2632,5 +2632,6 @@
   "lysa_parent_settings_row": "Lysa",
   "chore_to_be_added_overview_title": "Er du fornøyd med dette?",
   "returned_chore_header_disable_approval_kid": "Ikke godkjent",
-  "returned_chore_header_kid": "Ikke godkjent. Prøv igjen!"
+  "returned_chore_header_kid": "Ikke godkjent. Prøv igjen!",
+  "pfs_issue_card_error_message": "PLZ_TRANSLATE Card factory overload! WE will be taking orders again very soon. Check back later!"
 }
