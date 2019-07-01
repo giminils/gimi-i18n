@@ -2616,7 +2616,7 @@
   "master_user_terms": "Gimi Master user terms",
   "subscription_terms": "Subscription terms",
   "general_return": "Try again",
-  "returned_chore_header": "Not approved. Try again!",
+  "returned_chore_header": "PLZ_COPY Not approved",
   "returned_chore_header_disable_approval": "Not approved",
   "archive_chore_returned": "Not approved",
   "returned_chore_action_title": "You did not approve %1$d",
@@ -2632,6 +2632,6 @@
   "lysa_parent_settings_row": "Lysa",
   "chore_to_be_added_overview_title": "Happy with this?",
   "returned_chore_header_disable_approval_kid": "Not approved",
-  "returned_chore_header_kid": "Not approved. Try again!",
-  "pfs_issue_card_error_message": "Card factory overload! WE will be taking orders again very soon. Check back later!"
+  "returned_chore_header_kid": "PLZ_COPY Not approved, try again!",
+  "pfs_issue_card_error_message": "PLZ_COPY Card factory overload! We will be taking orders again soon. Check back later!"
 }
