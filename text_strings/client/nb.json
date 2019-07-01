@@ -2616,7 +2616,7 @@
   "master_user_terms": "Gimi Master bruksvilkår",
   "subscription_terms": "Abonnementsvilkår",
   "general_return": "Prøv igjen",
-  "returned_chore_header": "Ikke godkjent. Prøv igjen!",
+  "returned_chore_header": "PLZ_TRANSLATE Not approved",
   "returned_chore_header_disable_approval": "Ikke godkjent",
   "archive_chore_returned": "Ikke godkjent",
   "returned_chore_action_title": "Du godkjente ikke %1$d",
@@ -2630,10 +2630,10 @@
   "invite_family_parent_settings_row": "Inviter familien din!",
   "order_card_parent_settings_row": "Bestill kortet!",
   "lysa_parent_settings_row": "Lysa",
-  "chore_to_be_added_overview_title": "Er du fornøyd med dette?",
+  "chore_to_be_added_overview_title": "PLZ_TRANSLATE Add a chore!",
   "returned_chore_header_disable_approval_kid": "Ikke godkjent",
-  "returned_chore_header_kid": "Ikke godkjent. Prøv igjen!",
-  "pfs_issue_card_error_message": "PLZ_TRANSLATE Card factory overload! WE will be taking orders again very soon. Check back later!",
+  "returned_chore_header_kid": "PLZ_TRANSLATE Not approved, try again!",
+  "pfs_issue_card_error_message": "PLZ_TRANSLATE Card factory overload! We will be taking orders again soon. Check back later!",
   "cant_connect_existing_contact_title": "PLZ_TRANSLATE Already connected!",
   "cant_connect_existing_contact_desc": "PLZ_TRANSLATE can't connect to already existing contact..."
 }

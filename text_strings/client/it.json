@@ -2616,7 +2616,7 @@
   "master_user_terms": "PLZ_TRANSLATE Gimi Master user terms",
   "subscription_terms": "PLZ_TRANSLATE Subscription terms",
   "general_return": "PLZ_TRANSLATE Try again",
-  "returned_chore_header": "PLZ_TRANSLATE Not approved. Try again!",
+  "returned_chore_header": "PLZ_TRANSLATE Not approved",
   "returned_chore_header_disable_approval": "PLZ_TRANSLATE Not approved",
   "archive_chore_returned": "PLZ_TRANSLATE Not approved",
   "returned_chore_action_title": "PLZ_TRANSLATE You did not approve %1$d",
@@ -2630,10 +2630,10 @@
   "invite_family_parent_settings_row": "PLZ_TRANSLATE Invite your family!",
   "order_card_parent_settings_row": "PLZ_TRANSLATE Order the card!",
   "lysa_parent_settings_row": "PLZ_TRANSLATE Lysa",
-  "chore_to_be_added_overview_title": "PLZ_TRANSLATE Happy with this?",
+  "chore_to_be_added_overview_title": "PLZ_TRANSLATE Add a chore!",
   "returned_chore_header_disable_approval_kid": "PLZ_TRANSLATE Not approved",
-  "returned_chore_header_kid": "PLZ_TRANSLATE Not approved. Try again!",
-  "pfs_issue_card_error_message": "PLZ_TRANSLATE Card factory overload! WE will be taking orders again very soon. Check back later!",
+  "returned_chore_header_kid": "PLZ_TRANSLATE Not approved, try again!",
+  "pfs_issue_card_error_message": "PLZ_TRANSLATE Card factory overload! We will be taking orders again soon. Check back later!",
   "cant_connect_existing_contact_title": "PLZ_TRANSLATE Already connected!",
   "cant_connect_existing_contact_desc": "PLZ_TRANSLATE can't connect to already existing contact..."
 }
