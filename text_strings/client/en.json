@@ -2630,7 +2630,7 @@
   "invite_family_parent_settings_row": "Invite your family!",
   "order_card_parent_settings_row": "Order the card!",
   "lysa_parent_settings_row": "Lysa",
-  "chore_to_be_added_overview_title": "Happy with this?",
+  "chore_to_be_added_overview_title": "PLZ_COPY Add a chore!",
   "returned_chore_header_disable_approval_kid": "Not approved",
   "returned_chore_header_kid": "PLZ_COPY Not approved, try again!",
   "pfs_issue_card_error_message": "PLZ_COPY Card factory overload! We will be taking orders again soon. Check back later!"
