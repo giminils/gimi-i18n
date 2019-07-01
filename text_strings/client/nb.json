@@ -2602,7 +2602,7 @@
   "notification_waiting_hour_glass": "Venter...",
   "internal_transfer_error_title": "Å nei, noe gikk galt",
   "internal_transfer_error_subtitle": "Vi kunne ikke overføre pengene. Gi oss et øyeblikk og prøv igjen senere!",
-  "chore_to_be_suggested_overview_title": "Er du førnøyd slik?",
+  "chore_to_be_suggested_overview_title": "PLZ_TRANSLATE Suggest a chore!",
   "select_kid_for_chore_copy_title": "Velg barn",
   "select_kid_for_chore_copy_subtitle": "Hvem vil du tilordne kopien av denne oppgaven til?",
   "add_chore_image_proof_to_complete": "Legg til bildebevis for å fullføre!",

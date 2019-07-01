@@ -2602,7 +2602,7 @@
   "notification_waiting_hour_glass": "Väntar...",
   "internal_transfer_error_title": "Åh nej, något gick fel",
   "internal_transfer_error_subtitle": "Vi kunde inte föra över dina pengar. Ge oss några minuter och försök igen!",
-  "chore_to_be_suggested_overview_title": "Föreslå uppgift!",
+  "chore_to_be_suggested_overview_title": "PLZ_CHECK Suggest a chore!",
   "select_kid_for_chore_copy_title": "Välj barn att kopiera uppgift till",
   "select_kid_for_chore_copy_subtitle": "Vem vill du skapa en kopia på uppgifter till?",
   "add_chore_image_proof_to_complete": "Lägg till bildbevis för att bli klar!",
