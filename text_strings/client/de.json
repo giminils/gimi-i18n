@@ -2637,5 +2637,8 @@
   "cant_connect_existing_contact_title": "PLZ_TRANSLATE Already connected!",
   "cant_connect_existing_contact_desc": "PLZ_TRANSLATE can't connect to already existing contact...",
   "cant_buy_sub_to_kid_with_sub_title": "PLZ_TRANSLATE %1$d already has a subscription",
-  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_TRANSLATE You cant buy another subscription to 1$d. Select another kid instead"
+  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_TRANSLATE You cant buy another subscription to 1$d. Select another kid instead",
+  "app_settings_parent_settings_row": "PLZ_TRANSLATE Currency, language, timezone",
+  "about_me_parent_settings_row": "PLZ_TRANSLATE Name, email, phone number",
+  "help_parent_settings_row": "PLZ_TRANSLATE Questions & answers"
 }
