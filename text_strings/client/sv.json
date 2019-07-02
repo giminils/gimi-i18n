@@ -2635,5 +2635,7 @@
   "returned_chore_header_kid": "Ej godkänd, försök igen!",
   "pfs_issue_card_error_message": "Kortfabriken överbelastad! Vi tar beställningar snart igen, kom tillbaka om ett tag!",
   "cant_connect_existing_contact_title": "Redan ihopkopplad!",
-  "cant_connect_existing_contact_desc": "Du kan inte koppla ihop med någon du redan är ihopkopplad med."
+  "cant_connect_existing_contact_desc": "Du kan inte koppla ihop med någon du redan är ihopkopplad med.",
+  "cant_buy_sub_to_kid_with_sub_title": "PLZ_CHECK %1$d already has a subscription",
+  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_CHECK You cant buy another subscription to 1$d. Select another kid instead"
 }

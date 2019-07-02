@@ -2635,5 +2635,7 @@
   "returned_chore_header_kid": "PLZ_TRANSLATE Not approved, try again!",
   "pfs_issue_card_error_message": "PLZ_TRANSLATE Card factory overload! We will be taking orders again soon. Check back later!",
   "cant_connect_existing_contact_title": "PLZ_TRANSLATE Already connected!",
-  "cant_connect_existing_contact_desc": "PLZ_TRANSLATE can't connect to already existing contact..."
+  "cant_connect_existing_contact_desc": "PLZ_TRANSLATE can't connect to already existing contact...",
+  "cant_buy_sub_to_kid_with_sub_title": "PLZ_TRANSLATE %1$d already has a subscription",
+  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_TRANSLATE You cant buy another subscription to 1$d. Select another kid instead"
 }
