@@ -2637,7 +2637,7 @@
   "cant_connect_existing_contact_title": "Already connected!",
   "cant_connect_existing_contact_desc": "can't connect to already existing contact...",
   "cant_buy_sub_to_kid_with_sub_title": "%1$d already has a subscription",
-  "cant_buy_sub_to_kid_with_sub_desc": "You cant buy another subscription to 1$d. Select another kid instead",
+  "cant_buy_sub_to_kid_with_sub_desc": "You cant buy another subscription to %1$d. Select another kid instead",
   "app_settings_parent_settings_row": "Currency, language, timezone",
   "about_me_parent_settings_row": "Name, email, phone number",
   "help_parent_settings_row": "Questions & answers"

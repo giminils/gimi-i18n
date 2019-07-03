@@ -2637,7 +2637,7 @@
   "cant_connect_existing_contact_title": "Redan ihopkopplad!",
   "cant_connect_existing_contact_desc": "Du kan inte koppla ihop med någon du redan är ihopkopplad med.",
   "cant_buy_sub_to_kid_with_sub_title": "PLZ_CHECK %1$d already has a subscription",
-  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_CHECK You cant buy another subscription to 1$d. Select another kid instead",
+  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_CHECK You cant buy another subscription to %1$d. Select another kid instead",
   "app_settings_parent_settings_row": "PLZ_CHECK Currency, language, timezone",
   "about_me_parent_settings_row": "PLZ_CHECK Name, email, phone number",
   "help_parent_settings_row": "PLZ_CHECK Questions & answers"

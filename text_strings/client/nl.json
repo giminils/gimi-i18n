@@ -2637,7 +2637,7 @@
   "cant_connect_existing_contact_title": "Al verboden!",
   "cant_connect_existing_contact_desc": "Kan niet verbinden met een bestaande contactpersoon...",
   "cant_buy_sub_to_kid_with_sub_title": "%1$d heeft al een abonnement",
-  "cant_buy_sub_to_kid_with_sub_desc": "Je kunt geen ander abonnement voor 1$d kopen. Kies een ander kind",
+  "cant_buy_sub_to_kid_with_sub_desc": "PLZ_TRANSLATE You cant buy another subscription to %1$d. Select another kid instead",
   "app_settings_parent_settings_row": "Munteenheid, taal, tijdzone",
   "about_me_parent_settings_row": "Naam, e-mail, telefoonnummer",
   "help_parent_settings_row": "Vragen en antwoorden"
