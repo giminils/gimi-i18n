@@ -2640,5 +2640,6 @@
   "cant_buy_sub_to_kid_with_sub_desc": "PLZ_CHECK You cant buy another subscription to %1$d. Select another kid instead",
   "app_settings_parent_settings_row": "PLZ_CHECK Currency, language, timezone",
   "about_me_parent_settings_row": "PLZ_CHECK Name, email, phone number",
-  "help_parent_settings_row": "PLZ_CHECK Questions & answers"
+  "help_parent_settings_row": "PLZ_CHECK Questions & answers",
+  "settings_app": "PLZ_CHECK App settings"
 }
