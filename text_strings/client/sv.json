@@ -2641,5 +2641,7 @@
   "app_settings_parent_settings_row": "PLZ_CHECK Currency, language, timezone",
   "about_me_parent_settings_row": "PLZ_CHECK Name, email, phone number",
   "help_parent_settings_row": "PLZ_CHECK Questions & answers",
-  "settings_app": "PLZ_CHECK App settings"
+  "settings_app": "PLZ_CHECK App settings",
+  "card_cant_change_status_error_title": "PLZ_CHECK Cant activate card...",
+  "card_cant_change_status_error_desc": "PLZ_CHECK Contact the support and we will help you sort this out!"
 }

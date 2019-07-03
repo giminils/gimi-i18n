@@ -2641,5 +2641,7 @@
   "app_settings_parent_settings_row": "Currency, language, timezone",
   "about_me_parent_settings_row": "Name, email, phone number",
   "help_parent_settings_row": "Questions & answers",
-  "settings_app": "App settings"
+  "settings_app": "App settings",
+  "card_cant_change_status_error_title": "Cant activate card...",
+  "card_cant_change_status_error_desc": "Contact the support and we will help you sort this out!"
 }
