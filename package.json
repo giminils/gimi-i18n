@@ -59,7 +59,6 @@
     "jest": "24.8.0",
     "json-dup-key-validator": "1.0.2",
     "json-loader": "0.5.7",
-    "moment": "2.24.1",
     "node-slack": "0.0.7",
     "pre-push": "0.1.1"
   },
