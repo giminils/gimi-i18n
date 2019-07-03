@@ -1,7 +1,6 @@
 
 import SuggestedAllowance from '../SuggestedAllowance'
 // import ExchangeRates from '../ExchangeRates'
-import 'babel-polyfill'
 
 jest.disableAutomock()
 

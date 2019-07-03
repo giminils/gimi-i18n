@@ -2,7 +2,6 @@
 import {getSupportedCurrencyInfos, getDefaultCurrencyCode} from '../index'
 import DefaultCurrencies from '../DefaultCurrencies'
 import ExchangeRates from '../ExchangeRates'
-import 'babel-polyfill'
 import Decimal from 'decimal.js-light'
 
 jest.disableAutomock()
