@@ -2642,6 +2642,6 @@
   "about_me_parent_settings_row": "PLZ_TRANSLATE Name, email, phone number",
   "help_parent_settings_row": "PLZ_TRANSLATE Questions & answers",
   "settings_app": "PLZ_TRANSLATE App settings",
-  "card_cant_change_status_error_title": "PLZ_TRANSLATE Cant activate card...",
-  "card_cant_change_status_error_desc": "PLZ_TRANSLATE Contact the support and we will help you sort this out!"
+  "card_cant_change_status_error_title": "PLZ_TRANSLATE Can't activate card...",
+  "card_cant_change_status_error_desc": "PLZ_TRANSLATE Contact support and we will help you sort this out!"
 }
