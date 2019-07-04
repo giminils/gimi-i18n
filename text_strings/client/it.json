@@ -2643,5 +2643,6 @@
   "help_parent_settings_row": "Domande & risposte",
   "settings_app": "Impostazioni App",
   "card_cant_change_status_error_title": "Non è possibile attivare la carta...",
-  "card_cant_change_status_error_desc": "Contatta il supporto e ti aiuteremo a risolverlo!"
+  "card_cant_change_status_error_desc": "Contatta il supporto e ti aiuteremo a risolverlo!",
+  "where_is_the_card_hint": "PLZ_TRANSLATE Looking for the Gimi card? Invite a child first!"
 }
