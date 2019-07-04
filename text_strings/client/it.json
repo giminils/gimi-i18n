@@ -2620,7 +2620,7 @@
   "returned_chore_header_disable_approval": "Non approvato",
   "archive_chore_returned": "Non approvato",
   "returned_chore_action_title": "Non hai approvato %1$d",
-  "returned_chore_action_desc": "%1$d avrà un'altra possibilità per completarlo!",
+  "returned_chore_action_desc": "%1$d avrà un'altra possibilità per completarla!",
   "not_enough_payday_hint": "Il Giorno di paga dev'essere più di %1$d, altrimenti verrà saltato",
   "master_yearly": "Master annuale",
   "master_monthly": "Master mensile",
