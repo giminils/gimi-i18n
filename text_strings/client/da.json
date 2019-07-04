@@ -586,7 +586,7 @@
   "card_good_to_know_prepaid_title": "Tanker op",
   "card_good_to_know_prepaid_desc": "Forældre gemmer deres kort i Gimi-appen, sikkert med Stripe. Dette tillader øjeblikkelige pengeoverførsler. Vi har ikke support for tilbagebetalinger.",
   "card_good_to_know_use_where_title": "Hvorfor skal jeg betale?",
-  "card_good_to_know_use_where_desc": "Gimikortet er forbundet til Gimi-appen, et uddannende værktøj, designet til at lære børn finansielle færdigheder. Vi arbejder hårdt på det, og vi sælger ikke din data eller reklamerer i appen. Hvis du kan lide Gimi, så støt os ved at betale.",
+  "card_good_to_know_use_where_desc": "PLZ_TRANSLATE The Gimi card is connected to the Gimi app, an educational tool designed to teach children financial literacy. We don't sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
   "card_terms_and_conditions_title": "læs vores brugerbetingelser",
   "card_terms_and_conditions_text": "læs kortvilkårene",
   "new_gimi_for_everyone": "Den nye Gimi er landet!",
