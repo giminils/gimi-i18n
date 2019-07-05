@@ -309,7 +309,6 @@
   "ADPRON018_push_title": "¡Culminada la verificación del ID!",
   "event_pfs_payday_deposit_to_savings": "Recibiste un depósito de {pfs_payment_target.payment.parent.nickname}",
   "push_pfs_payday_deposit_to_savings": "Recibiste un depósito de {pfs_payment_target.payment.parent.nickname}",
-  "active_email_subject": "Activar {wallet_provider}",
   "ADPRPU001_notification_title": "💳 {child.nickname} acaba de gastar {pfstransactionstatement.str_amount} en {pfstransactionstatement.merchant_name}",
   "ADGEON013_push_title": "¡Conéctate con tus hijos para darles super habilidades financieras!",
   "ADGEON013_notification_title": "¡Conéctate con alguien para darle super habilidades financieras!",
@@ -373,5 +372,6 @@
   "ADPRRE036_push_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned.",
   "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!",
   "CHGERE035_notification_title": "PLZ_TRANSLATE {parent.nickname} added an expense. You'll get less on payday...",
-  "CHGERE035_push_title": "PLZ_TRANSLATE {parent.nickname} added an expense!"
+  "CHGERE035_push_title": "PLZ_TRANSLATE {parent.nickname} added an expense!",
+  "active_email_subject": "PLZ_TRANSLATE Complete setting up your card with {wallet_provider}"
 }
