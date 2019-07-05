@@ -83,7 +83,7 @@
   "event_chore_was_auto_approved": "{chore.title} fue aprobada automáticamente",
   "event_you_got_a_chore_suggestion": "Tienes una sugerencia de tarea de {child.nickname}",
   "event_next_payment_is_added_to_cloud": "El próximo pago es añadido a la nube",
-  "event_child_could_not_be_connected": "No se ha pidodo conectar al niño(a)",
+  "event_child_could_not_be_connected": "No se ha podido conectar al niño(a)",
   "event_chore_was_not_approved": "{rejected_by.nickname} rechazó {chore.title}",
   "event_reminder_of_chore": "Recordatorio de {chore.title}",
   "event_chore_is_deleted": "{chore.title} es eliminado",
