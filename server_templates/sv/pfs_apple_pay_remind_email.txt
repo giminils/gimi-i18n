@@ -1,5 +1,4 @@
-Ditt Gimi-kort {{ last_four_card_number }} kan nu aktiveras för {{ wallet_provider }}.
-Gör såhär: Öppna Wallet-appen, tryck på Gimi-kortet, välj 'Skriv kod' och skriv in koden {{ activation_code }}.
-Koden är giltig i 30 min (och gäller för kortet som slutar med {{ last_four_card_number }}).
-
-Var det inte du som påbörjade den här aktiveringen? Kontakta oss på +460877700550. 
+För att slutföra aktiveringen av Apple Pay på ditt kort med slutsiffrorna {{ last_four_card_number }}, begär en ny verifieringskod.
+1. Öppna Wallet
+2. Tryck på ditt kort
+3. Tryck på Välj ett annat verifieringsalternativ
