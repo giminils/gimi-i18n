@@ -194,7 +194,7 @@
   "card_test.button.start": "Starta",
   "card_test_done.hero.title": "Du klarade det! 🎉",
   "card_test_done.hero.result": "Ditt resultat : {count} / 10",
-  "card_test_done.hero.subtitle": "Du är redo att få ditt egna kort! Skriv upp dig på väntelistan 👇",
+  "card_test_done.hero.subtitle": "Du är officiellt redo för ett eget kort!",
   "card_test_fail.hero.title": "Det gick sådär… 😐",
   "card_test_fail.hero.subtitle": "Du behöver nog lära dig lite mer om pengar innan du kan få ditt eget kort. Se dina resultat nedan!",
   "card_test.button.waitlist": "Väntelista",

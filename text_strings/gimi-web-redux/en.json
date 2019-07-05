@@ -194,7 +194,7 @@
   "card_test.button.start": "Lets go",
   "card_test_done.hero.title": "You made it! 🎉",
   "card_test_done.hero.result": "Your score: {count} / 10",
-  "card_test_done.hero.subtitle": "You are ready to get your own card! Sign up on the waiting list 👇",
+  "card_test_done.hero.subtitle": "You are officially ready to get your own card!",
   "card_test_fail.hero.title": "Better luck next time… 😐",
   "card_test_fail.hero.subtitle": "It seems like you need to learn more about money before you can get your own card. View your results below!",
   "card_test.button.waitlist": "Waitlist",
