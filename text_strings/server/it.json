@@ -373,5 +373,6 @@
   "ADPRON004_notification_title": "Hai aggiornato {child.nickname} a Gimi Master. Ora ottieni la carta Gimi!",
   "CHGERE035_notification_title": "{parent.nickname} ha aggiunto una spesa. Riceverai meno il giorno di paga...",
   "CHGERE035_push_title": "{parent.nickname} ha aggiunto una spesa!",
-  "active_email_subject": "Completa la configurazione della tua carta con {wallet_provider}"
+  "active_email_subject": "Completa la configurazione della tua carta con {wallet_provider}",
+  "ADGERE021_notification_title_v2": "PLZ_TRANSLATE Set weekly or monthly allowance for {child.nickname}"
 }
