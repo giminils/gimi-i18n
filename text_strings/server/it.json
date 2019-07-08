@@ -366,12 +366,12 @@
   "event_gimi_card_is_here": "Finalmente, la carta Gimi è qui! Aggiorna il tuo bambino a Master e ottieni la carta!",
   "CHGEON028_notification_title": "Dicci il tuo compleanno cosìcché possiamo farti gli auguri quando sarà il momento!",
   "CHGEON028_push_title": "Quando è il tuo compleanno?😍",
-  "CHPRRE021_notification_title": "PLZ_TRANSLATE You didn't earn anything for Payday this time. Better get to work for next Payday!",
-  "CHPRRE021_push_title": "PLZ_TRANSLATE It's Payday! But no money for you this time",
-  "ADPRRE036_notification_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
-  "ADPRRE036_push_title": "PLZ_TRANSLATE It's Payday for {child.nickname}, but no money was earned.",
-  "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!",
-  "CHGERE035_notification_title": "PLZ_TRANSLATE {parent.nickname} added an expense. You'll get less on payday...",
-  "CHGERE035_push_title": "PLZ_TRANSLATE {parent.nickname} added an expense!",
-  "active_email_subject": "PLZ_TRANSLATE Complete setting up your card with {wallet_provider}"
+  "CHPRRE021_notification_title": "Non hai guadagnato nulla per il Giorno di paga stavolta. Meglio mettersi al lavoro per il prossimo Giorno di paga!",
+  "CHPRRE021_push_title": "È il giorno di paga! Ma non ci sono soldi per te stavolta",
+  "ADPRRE036_notification_title": "È il giorno di paga per {child.nickname}, ma non ha guadagnato soldi. Magari proponigli delle faccende la prossima volta?",
+  "ADPRRE036_push_title": "È il giorno di paga per {child.nickname}, bma non ha guadagnato soldi.",
+  "ADPRON004_notification_title": "Hai aggiornato {child.nickname} a Gimi Master. Ora ottieni la carta Gimi!",
+  "CHGERE035_notification_title": "{parent.nickname} ha aggiunto una spesa. Riceverai meno il giorno di paga...",
+  "CHGERE035_push_title": "{parent.nickname} ha aggiunto una spesa!",
+  "active_email_subject": "Completa la configurazione della tua carta con {wallet_provider}"
 }
