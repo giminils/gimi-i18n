@@ -2646,5 +2646,13 @@
   "card_cant_change_status_error_desc": "PLZ_TRANSLATE Contact support and we will help you sort this out!",
   "where_is_the_card_hint": "PLZ_TRANSLATE Looking for the Gimi card? Invite a child first!",
   "invite_custom_phone_no_name": "PLZ_TRANSLATE Custom number",
-  "search_name_or_number": "PLZ_TRANSLATE Search name or number"
+  "search_name_or_number": "PLZ_TRANSLATE Search name or number",
+  "card_promo_title": "PLZ_TRANSLATE card_promo_title",
+  "card_promo_headline_1": "PLZ_TRANSLATE card_promo_headline_1",
+  "card_promo_desc_1": "PLZ_TRANSLATE card_promo_desc_1",
+  "card_promo_headline_2": "PLZ_TRANSLATE card_promo_headline_2",
+  "card_promo_desc_2": "PLZ_TRANSLATE card_promo_desc_2",
+  "card_promo_headline_3": "PLZ_TRANSLATE card_promo_headline_3",
+  "card_promo_desc_3": "PLZ_TRANSLATE card_promo_desc_3",
+  "upgrade_and_order": "PLZ_TRANSLATE Upgrade & order card!"
 }
