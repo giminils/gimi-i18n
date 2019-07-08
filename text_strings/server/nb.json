@@ -206,7 +206,7 @@
   "push_upgraded_to_premium": "Gimi-kortet er på vei! Se i appen for mer informasjon!",
   "event_not_paid_card_locked": "Du har ikke betaltl abonnementsavgiften for {child.nickname}, kontoen er blokkert inntil du betaler.",
   "event_influence_use_gimi": "Se hvordan influencere bruker Gimi! ",
-  "event_allowance_is_set_for_you": "{parent.nickname} har angitt nivået for lommepenger",
+  "event_allowance_is_set_for_you": "PLZ_CHECK {parent.nickname} har angitt nivået for lommepenger",
   "event_got_x_new_chores": "{parent.nickname} har sendt deg nye oppgaver",
   "event_ready_for_apple_pay": "Gimi-kortet ditt er klargjort for Apple Pay! Du kan bruke det når du ser dette merket for kontaktløs betaling",
   "push_ready_for_apple_pay": "Gimi-kortet ditt er klargjort for Apple Pay! ",
