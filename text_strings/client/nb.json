@@ -913,7 +913,7 @@
   "app_question_title_for_parent_7": "Hvordan endrer jeg valuta?",
   "app_question_answer_for_parent_7": "Støttespillere kan endre valuta hvis de kun har ett barn og hvis dette barnet ikke har andre forbindelser. Gå til: Innstillinger -> Brukerinnstillinger -> Valuta.",
   "app_question_title_for_parent_8": "PLZ_CHECK Hvor mye bør jeg gi i lommepenger?",
-  "app_question_answer_for_parent_8": "Du bestemmer selv hvor mange penger ditt barn kan håndtere, men når du oppretter en betaling av lommepenger i Gimi-appen får du automatisk en anbefaling basert på barnets alder.",
+  "app_question_answer_for_parent_8": "PLZ_CHECK Du bestemmer selv hvor mange penger ditt barn kan håndtere, men når du oppretter en betaling av lommepenger i Gimi-appen får du automatisk en anbefaling basert på barnets alder.",
   "app_question_title_for_parent_9": "PLZ_CHECK Lommepenger annen hver uke",
   "app_question_answer_for_parent_9": "PLZ_CHECK Barn lærer bedre hvis lommepengene kommer løpende og med jevne mellomrom. Separerte foreldre anbefales å betale deres halvdel hver uke.",
   "app_question_title_for_parent_10": "Hvordan slår jeg av/på notifikasjoner?",
