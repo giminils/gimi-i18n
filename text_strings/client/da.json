@@ -2654,5 +2654,6 @@
   "card_promo_desc_2": "PLZ_TRANSLATE card_promo_desc_2",
   "card_promo_headline_3": "PLZ_TRANSLATE card_promo_headline_3",
   "card_promo_desc_3": "PLZ_TRANSLATE card_promo_desc_3",
-  "upgrade_and_order": "PLZ_TRANSLATE Upgrade & order card!"
+  "upgrade_and_order": "PLZ_TRANSLATE Upgrade & order card!",
+  "edit_payout_min_amount_warning": "PLZ_TRANSLATE Amount must be greater than %1$d"
 }
