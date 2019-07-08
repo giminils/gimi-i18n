@@ -42,7 +42,7 @@
   "event_withdrawal_child": "{user.nickname} hat {transaction.str_value} von den Ersparnissen abgebucht",
   "push_event_request_money": "{kid_name} bittet um ({amount})!",
   "push_event_request_money_title": "{child_name} bittet um Geld!",
-  "push_interest_notification": "Neuer Gimi-Zinssatz: {interest_rate}",
+  "push_interest_notification": "Neue Gimi-Zinshöhe: {interest_rate}",
   "event_connect_for_money": "Keine Unterstützer, kein Geld. Lade Deine Eltern ein!",
   "event_secure_account": "Sichere Deinen Account",
   "event_allowance_tips": "Wissenswertes über Taschengeld",
