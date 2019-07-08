@@ -2644,5 +2644,7 @@
   "settings_app": "Configuración de la aplicación",
   "card_cant_change_status_error_title": "No se puede activar la tarjeta...",
   "card_cant_change_status_error_desc": "¡Contacta a soporte y te ayudaremos a resolverlo!",
-  "where_is_the_card_hint": "¿Buscando la tarjeta Gimi? ¡Primero invita a un niño!"
+  "where_is_the_card_hint": "¿Buscando la tarjeta Gimi? ¡Primero invita a un niño!",
+  "invite_custom_phone_no_name": "PLZ_TRANSLATE Custom number",
+  "search_name_or_number": "PLZ_TRANSLATE Search name or number"
 }
