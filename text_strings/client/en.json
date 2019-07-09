@@ -2656,5 +2656,7 @@
   "card_promo_desc_3": "card_promo_desc_3",
   "upgrade_and_order": "Upgrade & order card!",
   "edit_payout_min_amount_warning": "Amount must be greater than %1$d",
-  "you_cant_transfer_less_than_n": "You cant transfer less than %1$d..."
+  "you_cant_transfer_less_than_n": "You cant transfer less than %1$d...",
+  "card_settings_subscription_without_card_disclaimer": "%1$d doesn't have a card yet!",
+  "card_settings_sub_without_card_button": "Order the card!"
 }
