@@ -370,9 +370,9 @@
   "CHPRRE021_push_title": "Det er Payday! Men ingen penger til deg denne gangen",
   "ADPRRE036_notification_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent. Kanskje gi ut noen oppgaver til neste gang?",
   "ADPRRE036_push_title": "Det er Payday for {child.nickname}, men ingen penger ble opptjent.",
-  "ADPRON004_notification_title": "PLZ_TRANSLATE You've upgraded {child.nickname} to Gimi Master. Now get the Gimi card!",
-  "CHGERE035_notification_title": "PLZ_TRANSLATE {parent.nickname} added an expense. You'll get less on payday...",
-  "CHGERE035_push_title": "PLZ_TRANSLATE {parent.nickname} added an expense!",
-  "active_email_subject": "PLZ_TRANSLATE Complete setting up your card with {wallet_provider}",
-  "ADGERE021_notification_title_v2": "PLZ_TRANSLATE Set weekly or monthly allowance for {child.nickname}"
+  "ADPRON004_notification_title": "Du har oppgradert {child.nickname} til Gimi Master. Få Gimi-kortet nå!",
+  "CHGERE035_notification_title": "{parent.nickname} har lagt til en utgift. Du får mindre på payday ...",
+  "CHGERE035_push_title": "{parent.nickname} har lagt til en utgift!",
+  "active_email_subject": "Fullfør oppsett av kortet ditt med {wallet_provider}",
+  "ADGERE021_notification_title_v2": "Legg til ukentlig eller månedlig godtgjørelse for {child.nickname}"
 }
