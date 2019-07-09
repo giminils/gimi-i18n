@@ -2658,5 +2658,6 @@
   "edit_payout_min_amount_warning": "Amount must be greater than %1$d",
   "you_cant_transfer_less_than_n": "You cant transfer less than %1$d...",
   "card_settings_subscription_without_card_disclaimer": "%1$d doesn't have a card yet!",
-  "card_settings_sub_without_card_button": "Order the card!"
+  "card_settings_sub_without_card_button": "Order the card!",
+  "you_accept_the_terms": "By continuing, you accept"
 }
