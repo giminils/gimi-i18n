@@ -5,8 +5,14 @@
 {% block submit_form %}
   <div class="form-row">
     <div>
-      <label class="required" for="id_raw_receipt">Receipt Data</label>
-      <textarea id="id_raw_receipt" cols="100" rows="6" name="raw_receipt"></textarea>
+      <label class="required" for="id_transaction_id">Transaction ID</label>
+      <textarea id="id_transaction_id" cols="100" rows="1" name="transaction_id"></textarea>
+    </div>
+  </div>
+  <div class="form-row">
+    <div>
+      <label class="required" for="id_transaction_receipt">Transaction Receipt</label>
+      <textarea id="id_transaction_receipt" cols="100" rows="6" name="transaction_receipt"></textarea>
     </div>
   </div>
 {% endblock %}
