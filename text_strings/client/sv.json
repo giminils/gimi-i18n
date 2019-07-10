@@ -2659,5 +2659,7 @@
   "you_cant_transfer_less_than_n": "Du kan inte föra över mindre än %1$d...",
   "card_settings_subscription_without_card_disclaimer": "%1$d har inget Gimi-kort än!",
   "card_settings_sub_without_card_button": "Beställ kortet!",
-  "you_accept_the_terms": "Genom att fortsätta accepterar du"
+  "you_accept_the_terms": "Genom att fortsätta accepterar du",
+  "choose_kid_card_title": "PLZ_CHECK Vem är redo för Gimi-kortet?",
+  "choose_kid_card_subtitle": "PLZ_CHECK Uppgradera till Gimi Master:"
 }

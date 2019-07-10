@@ -2659,5 +2659,7 @@
   "you_cant_transfer_less_than_n": "PLZ_TRANSLATE You cant transfer less than %1$d...",
   "card_settings_subscription_without_card_disclaimer": "PLZ_TRANSLATE %1$d doesn't have a card yet!",
   "card_settings_sub_without_card_button": "PLZ_TRANSLATE Order the card!",
-  "you_accept_the_terms": "PLZ_TRANSLATE By continuing, you accept"
+  "you_accept_the_terms": "PLZ_TRANSLATE By continuing, you accept",
+  "choose_kid_card_title": "PLZ_TRANSLATE Vem är redo för Gimi-kortet?",
+  "choose_kid_card_subtitle": "PLZ_TRANSLATE Uppgradera till Gimi Master:"
 }
