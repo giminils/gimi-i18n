@@ -1994,7 +1994,7 @@
   "slow_code_message": "Håll ut... denna fördröjning kan ta upp till 5 minuter!",
   "add_to_kid_allowance_monthly": "%1$d har redan månadspeng, vill du vara med och sätta en egen månadspeng?",
   "add_to_kid_allowance_weekly": "%1$d har redan veckopeng, vill du vara med och sätta en egen veckopeng?",
-  "name_has_existing_connection_popover_title": "%1$d är redan ihopkopplad med den här användaren",
+  "name_has_existing_connection_popover_title": "Du är redan ihopkopplad med den här användaren",
   "no_convert_currency_popover_title": "Vi omvandlar inte valutor",
   "no_convert_currency_popover_desc": "Vi kommer bara att ändra valutan, inte själva summan!",
   "weekly_payout_week_x": "Payday vecka %1$d",
