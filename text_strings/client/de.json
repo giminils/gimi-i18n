@@ -1994,7 +1994,7 @@
   "slow_code_message": "Warte... die Verzögerung kann bis zu 5 Minuten dauern!",
   "add_to_kid_allowance_monthly": "%1$d bekommt bereits Taschengeld. Möchtest Du mit anpacken und es erhöhen?",
   "add_to_kid_allowance_weekly": "%1$d bekommt bereits Taschengeld. Möchtest Du mit anpacken und es erhöhen?",
-  "name_has_existing_connection_popover_title": "%1$d ist bereits mit diesem Nutzer verbunden",
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE You're already connected to this user",
   "no_convert_currency_popover_title": "Wir rechnen keine Währungen um",
   "no_convert_currency_popover_desc": "Wir ändern lediglich die Währung, der Betrag bleibt unverändert.",
   "weekly_payout_week_x": "Zahltag Woche %1$d",

@@ -1994,7 +1994,7 @@
   "slow_code_message": "Attendez... le délai peut aller jusqu'à 5 minutes!",
   "add_to_kid_allowance_monthly": "%1$d a déjà une allocation, voulez-vous participer et l'augmenter?",
   "add_to_kid_allowance_weekly": "%1$d a déjà une allocation, voulez-vous participer et l'augmenter?",
-  "name_has_existing_connection_popover_title": "%1$d est déjà connecté à cet utilisateur",
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE You're already connected to this user",
   "no_convert_currency_popover_title": "Nous ne convertissons pas les devise monétaire",
   "no_convert_currency_popover_desc": "Nous allons juste changer la devise monétaire, mais les montants resteront les mêmes.",
   "weekly_payout_week_x": "Payday de la semaine %1$d",

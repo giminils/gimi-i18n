@@ -1994,7 +1994,7 @@
   "slow_code_message": "Espera... ¡el retraso puede ser de 5 minutos!",
   "add_to_kid_allowance_monthly": "%1$d ya tiene una recompensa, ¿deseas contribuir y aumentarla?",
   "add_to_kid_allowance_weekly": "%1$d ya tiene una recompensa, ¿deseas contribuir y aumentarla?",
-  "name_has_existing_connection_popover_title": "%1$d ya está conectado con este usuario",
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE You're already connected to this user",
   "no_convert_currency_popover_title": "No hacemos conversión de monedas",
   "no_convert_currency_popover_desc": "Solamente cambiaremos la moneda, pero los montos permanecerán igual.",
   "weekly_payout_week_x": "Payday semana %1$d",

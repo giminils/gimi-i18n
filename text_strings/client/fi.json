@@ -1994,7 +1994,7 @@
   "slow_code_message": "Odottele rauhassa... viive voi olla jopa 5 minuuttia!",
   "add_to_kid_allowance_monthly": "Lapsella %1$d on jo kuukausiraha, haluatko lisätä siihen oman osuutesi?",
   "add_to_kid_allowance_weekly": "Lapsella %1$d on jo kuukausiraha, haluatko lisätä siihen oman osuutesi?",
-  "name_has_existing_connection_popover_title": "%1$d on jo yhdistetty tähän käyttäjään",
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE You're already connected to this user",
   "no_convert_currency_popover_title": "Emme konvertoi valuuttoja",
   "no_convert_currency_popover_desc": "Vaihdamme vain valuutan, mutta määrät pysyvät samoina.",
   "weekly_payout_week_x": "Tilipäivä viikolle %1$d",

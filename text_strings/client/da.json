@@ -1994,7 +1994,7 @@
   "slow_code_message": "Vent... forsinkelsen kan være op til 5 minutter!",
   "add_to_kid_allowance_monthly": "%1$d får allerede lommepenge, vil du være en del af det og øge det??",
   "add_to_kid_allowance_weekly": "%1$d får allerede lommepenge, vil du være en del af det og øge det?",
-  "name_has_existing_connection_popover_title": "%1$d er allerede forbundet til denne bruger",
+  "name_has_existing_connection_popover_title": "PLZ_TRANSLATE You're already connected to this user",
   "no_convert_currency_popover_title": "Vi konverterer ikke valutaer",
   "no_convert_currency_popover_desc": "Vi ændrer bare valutaen, men beløbet vil forblive det samme.",
   "weekly_payout_week_x": "Payday uge %1$d",
