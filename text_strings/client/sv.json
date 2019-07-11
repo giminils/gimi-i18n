@@ -2660,6 +2660,6 @@
   "card_settings_subscription_without_card_disclaimer": "%1$d har inget Gimi-kort än!",
   "card_settings_sub_without_card_button": "Beställ kortet!",
   "you_accept_the_terms": "Genom att fortsätta accepterar du",
-  "choose_kid_card_title": "Vem är redo för Gimi-kortet?",
-  "choose_kid_card_subtitle": "Välj ett barn nu, du kan beställa fler kort sen!"
+  "choose_kid_card_title": "PLZ_CHECK Who's getting the Gimi card?",
+  "choose_kid_card_subtitle": "PLZ_CHECK Choose one child, you can get more cards later!"
 }
