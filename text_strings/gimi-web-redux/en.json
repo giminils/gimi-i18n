@@ -788,5 +788,6 @@
   "privacy.policy.section.16.explainer.2": "Please have a look now and then. If the changes are big, we’ll tell you.",
   "privacy.policy.section.16.desc.1": "Gimi may at any time with or without a separate notice change this Privacy Policy, and you are encouraged to review this Policy from time to time on the website www.gimitheapp.com. In case of substantial changes, Gimi notifies the Users by in-app message or via notice on the Gimi website.",
   "get.the.gimi.card": "Get the Gimi card",
-  "terms.card.issuer": "Card issuer terms"
+  "terms.card.issuer": "Card issuer terms",
+  "disclaimer.footer": "Gimi AB is a registered payment service provider for account information services with the Swedish Financial Supervisory Authority, and is under its supervision. The Gimi Prepaid Mastercard is issued by Prepaid Financial Services Limited pursuant to a license from Mastercard International Incorporated. Prepaid Financial Services Limited is regulated and authorised by the Financial Conduct Authority, as an Electronic Money Institution, registration number 900036. Registered Office: Fifth Floor, Langham House, 302-308 Regent Street, London, W1B 3AT. Company Registration number: 06337638. Gimi AB is an agent of Prepaid Financial Services Limited (registration number 902136)."
 }
