@@ -374,5 +374,7 @@
   "CHGERE035_notification_title": "¡{parent.nickname}  añadió un gasto. Obtendrás menos en el Payday...",
   "CHGERE035_push_title": "¡{parent.nickname} añadió un gasto!",
   "active_email_subject": "Completa la configuración de tu tarjeta con {wallet_provider}",
-  "ADGERE021_notification_title_v2": "PLZ_TRANSLATE Set weekly or monthly allowance for {child.nickname}"
+  "ADGERE021_notification_title_v2": "PLZ_TRANSLATE Set weekly or monthly allowance for {child.nickname}",
+  "ADGERE039_push_title": "PLZ_TRANSLATE You have a new chore suggestion from {tasksuggestion.child.nickname}",
+  "ADGERE039_notification_title": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}"
 }
