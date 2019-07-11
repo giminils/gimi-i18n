@@ -37,7 +37,7 @@ import itBotSurvey from './text_strings/bot-survey/it.json'
 import esBotSurvey from './text_strings/bot-survey/es.json'
 import deBotSurvey from './text_strings/bot-survey/de.json'
 
-// Bot
+// Education
 import svEducate from './text_strings/education/sv.json'
 import enEducate from './text_strings/education/en.json'
 import noEducate from './text_strings/education/nb.json'
@@ -64,6 +64,18 @@ import itCalendar from './text_strings/calendar/it.json'
 import esCalendar from './text_strings/calendar/es.json'
 import deCalendar from './text_strings/calendar/de.json'
 import etCalendar from './text_strings/calendar/et.json'
+
+// FAQ
+import svFAQ from './text_strings/faq/sv.json'
+import enFAQ from './text_strings/faq/en.json'
+import noFAQ from './text_strings/faq/nb.json'
+import daFAQ from './text_strings/faq/da.json'
+import frFAQ from './text_strings/faq/fr.json'
+import nlFAQ from './text_strings/faq/nl.json'
+import fiFAQ from './text_strings/faq/fi.json'
+import itFAQ from './text_strings/faq/it.json'
+import esFAQ from './text_strings/faq/es.json'
+import deFAQ from './text_strings/faq/de.json'
 
 import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
@@ -126,17 +138,17 @@ export const getEducationStrings = (lang: string) => {
 
 export const getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv': return {..._default, ...sv, ...svBot, ...svBotSurvey, ...svEducate} // sweden
+    case 'sv': return {..._default, ...sv, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ} // sweden
     case 'nb':
-    case 'nn': return {..._default, ...no, ...noBot, ...noBotSurvey, ...noEducate} // norway
-    case 'da': return {..._default, ...da, ...daBot, ...daBotSurvey, ...daEducate} // danish
-    case 'fr': return {..._default, ...fr, ...frBot, ...frBotSurvey, ...frEducate} // france
-    case 'nl': return {..._default, ...nl, ...nlBot, ...nlBotSurvey, ...nlEducate} // Netherlands
-    case 'fi': return {..._default, ...fi, ...fiBot, ...fiBotSurvey, ...fiEducate} // finish
-    case 'it': return {..._default, ...it, ...itBot, ...itBotSurvey, ...itEducate} // italian
-    case 'es': return {..._default, ...es, ...esBot, ...esBotSurvey, ...esEducate} // spanish
-    case 'de': return {..._default, ...de, ...deBot, ...deBotSurvey, ...deEducate} // german
-    default: return {..._default, ...en, ...enBot, ...enBotSurvey, ...enEducate}
+    case 'nn': return {..._default, ...no, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ} // norway
+    case 'da': return {..._default, ...da, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ} // danish
+    case 'fr': return {..._default, ...fr, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ} // france
+    case 'nl': return {..._default, ...nl, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // Netherlands
+    case 'fi': return {..._default, ...fi, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ} // finish
+    case 'it': return {..._default, ...it, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ} // italian
+    case 'es': return {..._default, ...es, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ} // spanish
+    case 'de': return {..._default, ...de, ...deBot, ...deBotSurvey, ...deEducate, ...deFAQ} // german
+    default: return {..._default, ...en, ...enBot, ...enBotSurvey, ...enEducate, ...enFAQ}
   }
 }
 
@@ -156,6 +168,22 @@ export const getCalendarStrings = (lang: string) => {
     case 'is' : return {...defaultCalendar, ...isCalendar} // island
     case 'et' : return {...defaultCalendar, ...etCalendar} // Estonia
     default : return {...defaultCalendar, ...enCalendar}
+  }
+}
+
+export const getFAQStrings = (lang: string): Object => {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return svFAQ // sweden
+    case 'nb':
+    case 'nn': return noFAQ // norway
+    case 'da': return daFAQ // danish
+    case 'fr': return frFAQ // france
+    case 'nl': return nlFAQ // Netherlands
+    case 'fi': return fiFAQ // finish
+    case 'it': return itFAQ // italian
+    case 'es': return esFAQ // spanish
+    case 'de': return deFAQ // german
+    default: return enFAQ
   }
 }
 
