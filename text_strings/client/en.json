@@ -2651,15 +2651,15 @@
   "card_promo_headline_1": "Become a Gimi Master! ✌️",
   "card_promo_desc_1": "Upgrade Gimi for children that are ready for real money!",
   "card_promo_headline_2": "Unlock the Gimi card 💳",
-  "card_promo_desc_2": "Get it instantly in the app! App & plastic cards can be used in stores, online or abroad.",
-  "card_promo_headline_3": "Parents Stay in Control 👀",
-  "card_promo_desc_3": "Transfer money instantly, block/unblock the card, get notified each time it’s used.",
+  "card_promo_desc_2": "The card is always in the app and can be used online. The plastic card can be used in stores, and works abroad.",
+  "card_promo_headline_3": "Parents stay in control 👀",
+  "card_promo_desc_3": "Transfer money instantly, block/unblock the card, and get notified each time it’s used.",
   "upgrade_and_order": "Upgrade & order card!",
   "edit_payout_min_amount_warning": "Amount must be greater than %1$d",
   "you_cant_transfer_less_than_n": "You can't transfer less than %1$d...",
   "card_settings_subscription_without_card_disclaimer": "%1$d doesn't have a card yet!",
   "card_settings_sub_without_card_button": "Order the card!",
   "you_accept_the_terms": "By continuing, you accept",
-  "choose_kid_card_title": "Vem är redo för Gimi-kortet?",
-  "choose_kid_card_subtitle": "Uppgradera till Gimi Master:"
+  "choose_kid_card_title": "PLZ_COPY Who's getting the Gimi card?",
+  "choose_kid_card_subtitle": "PLZ_COPY Choose one child, you can get more cards later!"
 }
