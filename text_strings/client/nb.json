@@ -2661,5 +2661,6 @@
   "card_settings_sub_without_card_button": "Bestill kortet!",
   "you_accept_the_terms": "Ved å fortsette aksepterer du",
   "choose_kid_card_title": "PLZ_TRANSLATE Who's getting the Gimi card?",
-  "choose_kid_card_subtitle": "PLZ_TRANSLATE Choose one child, you can get more cards later!"
+  "choose_kid_card_subtitle": "PLZ_TRANSLATE Choose one child, you can get more cards later!",
+  "discounted_monthly_disclaimer": "PLZ_TRANSLATE 50% off the first month!"
 }
