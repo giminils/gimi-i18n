@@ -2662,5 +2662,6 @@
   "you_accept_the_terms": "Genom att fortsätta accepterar du",
   "choose_kid_card_title": "PLZ_CHECK Who's getting the Gimi card?",
   "choose_kid_card_subtitle": "PLZ_CHECK Choose one child, you can get more cards later!",
-  "discounted_monthly_disclaimer": "PLZ_CHECK 50% off the first month!"
+  "discounted_monthly_disclaimer": "PLZ_CHECK 50% off the first month!",
+  "where_is_the_card_hint_has_kids": "PLZ_CHECK Looking for the Gimi card? Finish setup first!"
 }
