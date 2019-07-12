@@ -22,7 +22,7 @@ export const getCardQuestion = (step: number, lang: string = 'en', currencyConfi
 
 export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
   if (step !== 1) return undefined
-  return [{title: 'insta', valid: true}, {title: 'yt', valid: true}, {title: 'snap', valid: true}, {title: 'musically', valid: true}]
+  return [{title: 'Instagram', valid: true}, {title: 'Youtube', valid: true}, {title: 'Snapchat', valid: true}, {title: 'Musically', valid: true}]
 }
 
 export const getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
