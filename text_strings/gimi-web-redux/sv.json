@@ -790,5 +790,10 @@
   "privacy.policy.section.16.desc.1": "Gimi kan när som helst, med eller utan ett separat meddelande, ändra denna Integritetspolicy, och du är uppmuntrad att granska denna Policy då och då på hemsidan www.gimitheapp.com. I fall av väsentliga ändringar, kommer Gimi att meddela användare genom in-app meddelande.",
   "get.the.gimi.card": "Skaffa Gimi-kortet",
   "terms.card.issuer": "Villkor från kortutgivaren",
-  "disclaimer.footer": "Gimi AB är en registrerad betaltjänstleverantör för kontoinformationstjänster hos Finansinspektionen och står under dess tillsyn. Gimi prepaid Mastercard är utgivet av Prepaid Financial Services Authority i enlighet med licens från Mastercard International Incorporated. Prepaid Financial Services Limited är reglerat och auktoriserat av Financial Conduct Authority, som ett epengainstitut, registreringsnummer 900036. Registrerad kontor: Fifth Floor, Langham House, 302-308 Regent Street, London, W1B 3AT. Company Registration number: 06337638. Gimi AB är ett ombud för Prepaid Financial Services och tillhandahåller betaltjänster så som ombud (registreringsnummer 902136)."
+  "disclaimer.footer": "Gimi AB är en registrerad betaltjänstleverantör för kontoinformationstjänster hos Finansinspektionen och står under dess tillsyn. Gimi prepaid Mastercard är utgivet av Prepaid Financial Services Authority i enlighet med licens från Mastercard International Incorporated. Prepaid Financial Services Limited är reglerat och auktoriserat av Financial Conduct Authority, som ett epengainstitut, registreringsnummer 900036. Registrerad kontor: Fifth Floor, Langham House, 302-308 Regent Street, London, W1B 3AT. Company Registration number: 06337638. Gimi AB är ett ombud för Prepaid Financial Services och tillhandahåller betaltjänster så som ombud (registreringsnummer 902136).",
+  "influencers.member.exists.error.title": "Du har redan skrivit upp dig!",
+  "influencers.member.exists.error.body": "Vi har tagit emot din ansökan. Vi återkommer till dig!",
+  "influencers.general.error.title": "Någonting blev fel!",
+  "influencers.general.error.body": "Försök igen. Om det forfarande inte fungerar, försök igen lite senare!",
+  "influencers.invalid.resource.error.body": "Var noga med att fylla i alla fällt."
 }
