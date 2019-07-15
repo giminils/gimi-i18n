@@ -2663,5 +2663,8 @@
   "choose_kid_card_title": "Who's getting the Gimi card?",
   "choose_kid_card_subtitle": "Choose one child, you can get more cards later!",
   "discounted_monthly_disclaimer": "50% off the first month!",
-  "where_is_the_card_hint_has_kids": "Looking for the Gimi card? Finish setup first!"
+  "where_is_the_card_hint_has_kids": "Looking for the Gimi card? Finish setup first!",
+  "overview_skip_payday_button": "Skip payday",
+  "payout_summary_single_kid_subtitle": "Deposit the money to %1$d",
+  "payout_summary_single_kid_negative_amount_subtitle": "Seems like %1$d didn't earn any money this period..."
 }
