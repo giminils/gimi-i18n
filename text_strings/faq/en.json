@@ -44,8 +44,10 @@
   "parent_faq_section_3_category_2_answer_4": "You decide how much your child is ready to manage, but when you set up the allowance in the Gimi app, we'll give you a recommendation based on the child's age. ",
   "kid_faq_section_2": "Money",
   "kid_faq_section_2_category_1": "Money in Gimi",
-  "kid_faq_section_2_category_1_question_1": "How do I get the money? ",
-  "kid_faq_section_2_category_1_answer_1": "Ask your supporters, they hold the money! They will then make a deduction from your savings if they give you money or pay for something.",
+  "kid_faq_section_2_category_1_question_1": "Is it real money?",
+  "kid_faq_section_2_category_1_answer_1": "Gimi is not connected to any bank, so the money is never moved from supporters' accounts. Gimi is a way to keep track of how much supporters owe their children!",
+  "kid_faq_section_2_category_1_question_2": "How do I get the money? ",
+  "kid_faq_section_2_category_1_answer_2": "Ask your supporters, they hold the money! They will then make a deduction from your savings if they give you money or pay for something.",
   "kid_faq_section_2_category_2": "Payday & allowance",
   "kid_faq_section_2_category_2_question_1": "What is Payday?",
   "kid_faq_section_2_category_2_answer_1": "Payday is the day when the allowance is paid out! Money earned from chores, and savings interest is also added to savings, and a new countdown starts!",
@@ -53,8 +55,8 @@
   "parent_faq_section_4_category_1": "Chores",
   "parent_faq_section_4_category_1_question_1": "How do I change or delete a chore?",
   "parent_faq_section_4_category_1_answer_1": "Only supporters can delete or change a chore that has not already been approved. Approved chores can not be changed - you can make a deduct from the child's savings",
-  "parent_faq_section_4_category_1_question_2": "What happens to completed chores?"
-  "parent_faq_section_4_category_1_answer_2": "The money you earn for doing chores are paid out on Payday, together with your weekly or monthly allowance."
+  "parent_faq_section_4_category_1_question_2": "PLZ_COPY What happens to completed chores?",
+  "parent_faq_section_4_category_1_answer_2": "PLZ_COPY The money you earn for doing chores are paid out on Payday, together with your weekly or monthly allowance.",
   "parent_faq_section_4_category_2": "Notifications",
   "parent_faq_section_4_category_2_question_1": "How do I turn on/off notifications?",
   "parent_faq_section_4_category_2_answer_1": "Push notifications will remind you about important events. Just go to Settings -> User settings to switch them on/off",
