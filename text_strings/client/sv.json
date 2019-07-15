@@ -1994,7 +1994,7 @@
   "slow_code_message": "Håll ut... denna fördröjning kan ta upp till 5 minuter!",
   "add_to_kid_allowance_monthly": "%1$d har redan månadspeng, vill du vara med och sätta en egen månadspeng?",
   "add_to_kid_allowance_weekly": "%1$d har redan veckopeng, vill du vara med och sätta en egen veckopeng?",
-  "name_has_existing_connection_popover_title": "PLZ_CHECK You're already connected to this user",
+  "name_has_existing_connection_popover_title": "Du är redan ihopkopplad med den här användaren",
   "no_convert_currency_popover_title": "Vi omvandlar inte valutor",
   "no_convert_currency_popover_desc": "Vi kommer bara att ändra valutan, inte själva summan!",
   "weekly_payout_week_x": "Payday vecka %1$d",
@@ -2660,8 +2660,8 @@
   "card_settings_subscription_without_card_disclaimer": "%1$d har inget Gimi-kort än!",
   "card_settings_sub_without_card_button": "Beställ kortet!",
   "you_accept_the_terms": "Genom att fortsätta accepterar du",
-  "choose_kid_card_title": "PLZ_CHECK Who's getting the Gimi card?",
-  "choose_kid_card_subtitle": "PLZ_CHECK Choose one child, you can get more cards later!",
-  "discounted_monthly_disclaimer": "PLZ_CHECK 50% off the first month!",
-  "where_is_the_card_hint_has_kids": "PLZ_CHECK Looking for the Gimi card? Finish setup first!"
+  "choose_kid_card_title": "Vem är redo för Gimi-kortet?",
+  "choose_kid_card_subtitle": "Välj ett barn, du kan beställa fler kort sen",
+  "discounted_monthly_disclaimer": "Halva priset första månaden!",
+  "where_is_the_card_hint_has_kids": "Letar du efter Gimi-kortet? Ställ in veckopeng först!"
 }
