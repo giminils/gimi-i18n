@@ -795,5 +795,6 @@
   "influencers.member.exists.error.body": "Vi har tagit emot din ansökan. Vi återkommer till dig!",
   "influencers.general.error.title": "Någonting blev fel!",
   "influencers.general.error.body": "Försök igen. Om det forfarande inte fungerar, försök igen lite senare!",
-  "influencers.invalid.resource.error.body": "Var noga med att fylla i alla fällt."
+  "influencers.invalid.resource.error.body": "Var noga med att fylla i alla fällt.",
+  "general.try.again": "Försök igen"
 }
