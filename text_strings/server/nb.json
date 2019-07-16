@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Nye uke- eller månedspenger er blitt bestemt! Sjekk dem i appen!",
   "push_payday_parent": "Utbetalingsdag for {child.nickname}. Sjekk hvor mye penger som ble lagt på sparegrisen!",
   "push_child_has_reached_a_dream": "{child.nickname} har oppfylt en drøm",
-  "event_add_email": "Legg til din e-post",
+  "event_add_email": "PLZ_TRANSLATE One step left, add your email address!",
   "event_chore_title_or_amount_changed": "{parent.nickname} oppdaterte {chore.title}",
   "event_welcome_back": "Velkommen tilbake! Vil du begynne på nytt?",
   "event_tell_that_your_back": "La familien din få vite at du er tilbake!",
