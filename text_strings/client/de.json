@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Sicher, dass Du die automatische Genehmigung verwenden möchtest?",
   "auto_approve_chore_popover_text": "Die Aufgabe wird 24h nach Erledigung automatisch genehmigt. Du kannst einmal genehmigte Aufgaben nicht mehr zurückweisen.",
   "cant_change_premium_currency_popover_title": "Du kannst die Währung nicht ändern",
-  "cant_change_premium_currency_popover_text": "Weil Du mindestens einen Kontakt mit echtem Geld und echtem Konto hast, der die Währung nicht ändern kann.",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Schreib Dich auf die Warteliste der Gimi Card!",
   "waitlist_container_title": "Die Gimi Card ist bald da!",
   "waitlist_container_subtitle": "Eine Karte, designt für Kinder und ihre Familien. Schreib Dich auf die Warteliste, um einer der Ersten zu sein, die eine bekommen!",

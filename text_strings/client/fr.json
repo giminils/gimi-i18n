@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "PLZ_TRANSLATE Sure you want to auto-approve?",
   "auto_approve_chore_popover_text": "Cette tâche sera automatiquement approuvée 24 heures après son achèvement. Vous ne pouvez pas annuler des tâches approuvées.",
   "cant_change_premium_currency_popover_title": "Vous ne pouvez pas changer de devise monétaire",
-  "cant_change_premium_currency_popover_text": "Parce que vous avez au moins une connexion avec un compte réel et de l'argent réel, qui ne peut pas changer de devise monétaire.",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Inscrivez-vous sur la liste d'attente pour la carte Gimi",
   "waitlist_container_title": " La carte Gimi va arriver bientôt!",
   "waitlist_container_subtitle": "Une carte conçue pour les enfants et leurs familles. Inscrivez-vous sur la liste d'attente pour être le premier à y avoir accès!",

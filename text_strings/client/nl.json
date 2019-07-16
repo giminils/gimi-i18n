@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Weet je zeker dat je het automatisch wilt goedkeuren?",
   "auto_approve_chore_popover_text": "Dit klusje wordt, nadat het is voltooid, automatisch na 24 uur goedgekeurd. Goedgekeurde klusjes kun je niet ongedaan maken.",
   "cant_change_premium_currency_popover_title": "Je kunt de munteenheid niet wijzigen",
-  "cant_change_premium_currency_popover_text": "Omdat je minstens een verbinding hebt met een echte rekening en echt geld kan de munteenheid niet aangepast worden.",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Zet jezelf op de wachtwlijst voor de Gimi-kaart",
   "waitlist_container_title": "De Gimi-kaart komt gauw!",
   "waitlist_container_subtitle": "Een kaart ontworpen voor kinderen en hun gezin. Zet jezelf op de wachtlijst om als eerste toegang te krijgen!",

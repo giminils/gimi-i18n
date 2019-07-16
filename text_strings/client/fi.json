@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Haluatko varmasti vahvistaa automaattisesti?",
   "auto_approve_chore_popover_text": "Tämä askare vahvistetaan automaattisesti 24 tunnin päästä sen suorittamisesta. Et voi perua vahvistettuja askareita.",
   "cant_change_premium_currency_popover_title": "Et voi vaihtaa valuuttaasi",
-  "cant_change_premium_currency_popover_text": "Koska sinulla on ainakin yksi kontakti jolla on oikealla rahalla toimiva tili, et voi vaihtaa valuuttaa.",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Siirry Gimi-kortin odotuslistalle",
   "waitlist_container_title": "Gimi-kortti tulee pian!",
   "waitlist_container_subtitle": "Kortti on suunniteltu lapsille ja heidän perheilleen. Siirry odotuslistalle saadaksesi sen käyttöön!",

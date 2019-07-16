@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Sei sicuro di volerlo auto-approvare??",
   "auto_approve_chore_popover_text": "Questa faccenda verrà automaticamente approvata 24 ore dopo il completamento. Non puoi annullare le faccende approvate.",
   "cant_change_premium_currency_popover_title": "Non puoi cambiare la valuta",
-  "cant_change_premium_currency_popover_text": "Perché hai almeno una connessione con un conto reale e denaro reale, per cui non può modificare la valuta, .",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Unisciti alla lista di attesa per la carta Gimi",
   "waitlist_container_title": "La carta Gimi sta arrivando!",
   "waitlist_container_subtitle": "Una carta realizzata per i bambini e le loro famiglie. Unisciti alla lista di attesa per essere il primo a ottenere l'accesso!",

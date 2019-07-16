@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Sikker på at du vil godkjenne automatisk?",
   "auto_approve_chore_popover_text": "Denne oppgaven godkjennes automatisk 24 timer etter at den er fullført. Du kan ikke endre i godkjente oppgaver.",
   "cant_change_premium_currency_popover_title": "Du kan ikke endre valutaen",
-  "cant_change_premium_currency_popover_text": "Fordi du har minst en forbindelse med en ekte konto og ekte penger, som ikke kan endre valuta",
+  "cant_change_premium_currency_popover_text": "PLZ_TRANSLATE You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Kom på ventelisten for Gimi-kortet",
   "waitlist_container_title": "Gimi-kortet kommer snart!",
   "waitlist_container_subtitle": "Et kort designet for barn og deres familier. Kom på ventelisten for å være den første til å få tilgang!",

@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Sure you want to auto-approve?",
   "auto_approve_chore_popover_text": "This chore will be automatically approved 24 hours after completion. You can’t undo approved chores.",
   "cant_change_premium_currency_popover_title": "You can’t change the currency",
-  "cant_change_premium_currency_popover_text": "PLZ_COPY You cannot change currency when one of your connections has a Master account with real money.",
+  "cant_change_premium_currency_popover_text": "You cannot change currency when one of your connections has a Master account with real money.",
   "get_on_waitlist_removable_button_parent_settings": "Get on the waitlist for the Gimi card",
   "waitlist_container_title": "The Gimi card is coming soon!",
   "waitlist_container_subtitle": "A card designed for children and their families. Get on the waitlist to be the first one to get access!",
