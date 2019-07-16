@@ -2664,7 +2664,7 @@
   "choose_kid_card_subtitle": "Välj ett barn, du kan beställa fler kort sen",
   "discounted_monthly_disclaimer": "Halva priset första månaden!",
   "where_is_the_card_hint_has_kids": "Letar du efter Gimi-kortet? Ställ in veckopeng först!",
-  "overview_skip_payday_button": "PLZ_CHECK Skip payday",
-  "payout_summary_single_kid_subtitle": "PLZ_CHECK Deposit the money to %1$d",
-  "payout_summary_single_kid_negative_amount_subtitle": "PLZ_CHECK Seems like %1$d didn't earn any money this period..."
+  "overview_skip_payday_button": "Hoppa över payday",
+  "payout_summary_single_kid_subtitle": "Överför pengarna till %1$d",
+  "payout_summary_single_kid_negative_amount_subtitle": "Det verkar som att %1$d inte tjänade några pengar inför denna payday..."
 }
