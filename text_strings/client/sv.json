@@ -2670,5 +2670,7 @@
   "general_error_missing_phone_number": "Ditt telefonnummer saknas!",
   "chore_edit_every_day": "PLZ_CHECK Every day",
   "chore_edit_weekdays": "PLZ_CHECK Weekdays",
-  "chore_edit_weekends": "PLZ_CHECK Weekends"
+  "chore_edit_weekends": "PLZ_CHECK Weekends",
+  "internal_transaction_to_blocked_card_popover_title": "PLZ_CHECK Blocked card = no transfers",
+  "internal_transaction_to_blocked_card_popover_text": "PLZ_CHECK Unblock your card to transfer money. If a supporter blocked the card, they must unblock it for you."
 }

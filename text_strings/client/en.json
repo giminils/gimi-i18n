@@ -2670,5 +2670,7 @@
   "general_error_missing_phone_number": "Your phone number is missing!",
   "chore_edit_every_day": "Every day",
   "chore_edit_weekdays": "Weekdays",
-  "chore_edit_weekends": "Weekends"
+  "chore_edit_weekends": "Weekends",
+  "internal_transaction_to_blocked_card_popover_title": "Blocked card = no transfers",
+  "internal_transaction_to_blocked_card_popover_text": "Unblock your card to transfer money. If a supporter blocked the card, they must unblock it for you."
 }
