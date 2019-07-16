@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Du kommer att få en vecko- eller månadspeng. Kolla in hur mycket i appen!",
   "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i Sparat.",
   "push_child_has_reached_a_dream": "{child.nickname} har sparat ihop till en dröm",
-  "event_add_email": "PLZ_CHECK One step left, add your email address!",
+  "event_add_email": "Snart klar, glöm inte att lägga till din mejl!",
   "event_chore_title_or_amount_changed": "{parent.nickname} uppdaterade {chore.title}",
   "event_welcome_back": "Väkommen tillbaka! Vill du börja om från början?",
   "event_tell_that_your_back": "Låt din familj veta att du är tillbaka!",
@@ -373,8 +373,8 @@
   "ADPRON004_notification_title": "Du har uppgraderat {child.nickname} till Gimi Master. Beställ Gimi-kortet nu!",
   "CHGERE035_notification_title": "{parent.nickname} la till ett utlägg. Det blir avdrag från Payday...",
   "CHGERE035_push_title": "{parent.nickname} la till ett utlägg!",
-  "active_email_subject": "PLZ_CHECK Complete setting up your card with {wallet_provider}",
-  "ADGERE021_notification_title_v2": "PLZ_CHECK Set weekly or monthly allowance for {child.nickname}",
-  "ADGERE039_push_title": "PLZ_CHECK You have a new chore suggestion from {tasksuggestion.child.nickname}",
-  "ADGERE039_notification_title": "PLZ_CHECK You got a chore suggestion from {child.nickname}"
+  "active_email_subject": "Fortsätt att ställa in ditt kort med {wallet_provider}",
+  "ADGERE021_notification_title_v2": "Lägg till vecko- eller månadspeng för {child.nickname}",
+  "ADGERE039_push_title": "Du har ett nytt förslag på uppgift från {tasksuggestion.child.nickname}",
+  "ADGERE039_notification_title": "{child.nickname} har föreslagit en uppgift"
 }
