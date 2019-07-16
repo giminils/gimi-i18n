@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Dein Taschengeld wurde eingerichtet! Guck mal in die App!",
   "push_payday_parent": "Zahltag für {child.nickname}. Schau nach, wieviel Geld zu den Ersparnissen hinzugefügt wurde!",
   "push_child_has_reached_a_dream": "{child.nickname} hat einen Traum erreicht",
-  "event_add_email": "Füge Email-Adresse für Status und Sicherheit hinzu",
+  "event_add_email": "PLZ_TRANSLATE One step left, add your email address!",
   "event_chore_title_or_amount_changed": "{parent.nickname} hat {chore.title} aktualisiert",
   "event_welcome_back": "Willkommen zurück! Möchtest Du von vorne anfangen?",
   "event_tell_that_your_back": "Lass Deine Familie wissen, dass Du zurück bist!",

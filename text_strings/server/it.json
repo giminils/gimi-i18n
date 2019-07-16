@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "La tua paghetta è pronta per te! Controllala nell'app!",
   "push_payday_parent": "Giorno di paga per {child.nickname}. Controlla quanti soldi sono stati aggiunti ai Risparmi!",
   "push_child_has_reached_a_dream": "{child.nickname} ha raggiunto un sogno",
-  "event_add_email": "Aggiungi email per stato e per sicurezza",
+  "event_add_email": "PLZ_TRANSLATE One step left, add your email address!",
   "event_chore_title_or_amount_changed": "{parent.nickname} aggiornato {chore.title}",
   "event_welcome_back": "Bentornato! Vuoi riniziare?",
   "event_tell_that_your_back": "Fai sapere alla tua famiglia che sei tornato!",

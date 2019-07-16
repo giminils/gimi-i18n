@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Zakgeld is ingesteld voor jou! Controleer het in de app!",
   "push_payday_parent": "Payday voor {child.nickname}. Controleer hoeveel geld erop de spaarrekening is toegevoegd!",
   "push_child_has_reached_a_dream": "{child.nickname} heeft een droomwens bereikt",
-  "event_add_email": "Voeg email toe voor status & veiligheid",
+  "event_add_email": "PLZ_TRANSLATE One step left, add your email address!",
   "event_chore_title_or_amount_changed": "{parent.nickname} heeft {chore.title} gewijzigd",
   "event_welcome_back": "Welkom terug! Wil je opnieuw beginnen?",
   "event_tell_that_your_back": "Vertel je gezin dat je terug bent!",
