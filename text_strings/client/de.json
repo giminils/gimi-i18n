@@ -2666,5 +2666,6 @@
   "where_is_the_card_hint_has_kids": "PLZ_TRANSLATE Looking for the Gimi card? Finish setup first!",
   "overview_skip_payday_button": "PLZ_TRANSLATE Skip payday",
   "payout_summary_single_kid_subtitle": "PLZ_TRANSLATE Deposit the money to %1$d",
-  "payout_summary_single_kid_negative_amount_subtitle": "PLZ_TRANSLATE Seems like %1$d didn't earn any money this period..."
+  "payout_summary_single_kid_negative_amount_subtitle": "PLZ_TRANSLATE Seems like %1$d didn't earn any money this period...",
+  "general_error_missing_phone_number": "PLZ_TRANSLATE Your phone number is missing!"
 }
