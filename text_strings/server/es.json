@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "¡La recompensa es configurada para ti. ¡Verifícalo en la aplicación!",
   "push_payday_parent": "Payday para {child.nickname}. ¡Verifica cuánto dinero fue añadido a tus ahorros!",
   "push_child_has_reached_a_dream": "{child.nickname} ha alcanzado un sueño",
-  "event_add_email": "PLZ_TRANSLATE One step left, add your email address!",
+  "event_add_email": "Añadir un correo electrónico para estatus y seguridad",
   "event_chore_title_or_amount_changed": "{parent.nickname} actualizó {chore.title}",
   "event_welcome_back": "¡Bienvenido nuevamente! ¿Deseas volver a empezar?",
   "event_tell_that_your_back": "¡Permite que tu familia sepa que regresaste!",

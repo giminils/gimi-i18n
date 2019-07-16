@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "PLZ_TRANSLATE Allowance is set for you! Check it out in the app!",
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",
   "push_child_has_reached_a_dream": "PLZ_TRANSLATE {child.nickname} has reached a dream",
-  "event_add_email": "PLZ_TRANSLATE One step left, add your email address!",
+  "event_add_email": "PLZ_TRANSLATE Add email for status & security",
   "event_chore_title_or_amount_changed": "PLZ_TRANSLATE {parent.nickname} updated {chore.title}",
   "event_welcome_back": "PLZ_TRANSLATE Welcome back! Do you want to start over?",
   "event_tell_that_your_back": "PLZ_TRANSLATE Let your family know you're back!",
