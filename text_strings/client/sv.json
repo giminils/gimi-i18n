@@ -2667,5 +2667,8 @@
   "overview_skip_payday_button": "Hoppa över payday",
   "payout_summary_single_kid_subtitle": "Överför pengarna till %1$d",
   "payout_summary_single_kid_negative_amount_subtitle": "Det verkar som att %1$d inte tjänade några pengar inför denna payday...",
-  "general_error_missing_phone_number": "Ditt telefonnummer saknas!"
+  "general_error_missing_phone_number": "Ditt telefonnummer saknas!",
+  "chore_edit_every_day": "PLZ_CHECK Every day",
+  "chore_edit_weekdays": "PLZ_CHECK Weekdays",
+  "chore_edit_weekends": "PLZ_CHECK Weekends"
 }

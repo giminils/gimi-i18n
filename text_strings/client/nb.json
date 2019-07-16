@@ -2667,5 +2667,8 @@
   "overview_skip_payday_button": "PLZ_TRANSLATE Skip payday",
   "payout_summary_single_kid_subtitle": "PLZ_TRANSLATE Deposit the money to %1$d",
   "payout_summary_single_kid_negative_amount_subtitle": "PLZ_TRANSLATE Seems like %1$d didn't earn any money this period...",
-  "general_error_missing_phone_number": "PLZ_TRANSLATE Your phone number is missing!"
+  "general_error_missing_phone_number": "PLZ_TRANSLATE Your phone number is missing!",
+  "chore_edit_every_day": "PLZ_TRANSLATE Every day",
+  "chore_edit_weekdays": "PLZ_TRANSLATE Weekdays",
+  "chore_edit_weekends": "PLZ_TRANSLATE Weekends"
 }

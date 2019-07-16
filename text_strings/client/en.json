@@ -2667,5 +2667,8 @@
   "overview_skip_payday_button": "Skip payday",
   "payout_summary_single_kid_subtitle": "Deposit the money to %1$d",
   "payout_summary_single_kid_negative_amount_subtitle": "Seems like %1$d didn't earn any money this period...",
-  "general_error_missing_phone_number": "Your phone number is missing!"
+  "general_error_missing_phone_number": "Your phone number is missing!",
+  "chore_edit_every_day": "Every day",
+  "chore_edit_weekdays": "Weekdays",
+  "chore_edit_weekends": "Weekends"
 }
