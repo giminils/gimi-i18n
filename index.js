@@ -66,6 +66,7 @@ import deCalendar from './text_strings/calendar/de.json'
 import etCalendar from './text_strings/calendar/et.json'
 
 // FAQ
+import defaultNativeErrorMessages from './text_strings/faq/default.json'
 import svFAQ from './text_strings/faq/sv.json'
 import enFAQ from './text_strings/faq/en.json'
 import noFAQ from './text_strings/faq/nb.json'
@@ -76,6 +77,18 @@ import fiFAQ from './text_strings/faq/fi.json'
 import itFAQ from './text_strings/faq/it.json'
 import esFAQ from './text_strings/faq/es.json'
 import deFAQ from './text_strings/faq/de.json'
+
+// native error messages
+import svNativeErrorMessages from './native/error-messages/sv.json'
+import enNativeErrorMessages from './native/error-messages/en.json'
+import noNativeErrorMessages from './native/error-messages/nb.json'
+import daNativeErrorMessages from './native/error-messages/da.json'
+import frNativeErrorMessages from './native/error-messages/fr.json'
+import nlNativeErrorMessages from './native/error-messages/nl.json'
+import fiNativeErrorMessages from './native/error-messages/fi.json'
+import itNativeErrorMessages from './native/error-messages/it.json'
+import esNativeErrorMessages from './native/error-messages/es.json'
+import deNativeErrorMessages from './native/error-messages/de.json'
 
 import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
@@ -184,6 +197,21 @@ export const getFAQStrings = (lang: string): Object => {
     case 'es': return esFAQ // spanish
     case 'de': return deFAQ // german
     default: return enFAQ
+  }
+}
+
+export const getNativeErrorMessageStrings = (lang: string): Object => {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return {...defaultNativeErrorMessages, ...svNativeErrorMessages} // sweden
+    case 'nb': return {...defaultNativeErrorMessages, ...noNativeErrorMessages} // norway
+    case 'da': return {...defaultNativeErrorMessages, ...daNativeErrorMessages} // danish
+    case 'fr': return {...defaultNativeErrorMessages, ...frNativeErrorMessages} // france
+    case 'nl': return {...defaultNativeErrorMessages, ...nlNativeErrorMessages} // Netherlands
+    case 'fi': return {...defaultNativeErrorMessages, ...fiNativeErrorMessages} // finish
+    case 'it': return {...defaultNativeErrorMessages, ...itNativeErrorMessages} // italian
+    case 'es': return {...defaultNativeErrorMessages, ...esNativeErrorMessages} // spanish
+    case 'de': return {...defaultNativeErrorMessages, ...deNativeErrorMessages} // german
+    default: return {...defaultNativeErrorMessages, ...enNativeErrorMessages}
   }
 }
 

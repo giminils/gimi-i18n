@@ -1,7 +1,7 @@
 
 /* eslint no-console:0 */
 import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
-import {compareKeys, findDuplicateKeyValues, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
+import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
 
@@ -13,12 +13,7 @@ describe('TextStrings', () => {
   })
 
   it('all textstrings should have a equivalent string in all other languages', () => {
-    supportedLanguageCodes.forEach(lang1 => {
-      supportedLanguageCodes.forEach(lang2 => {
-        compareKeys(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
-        if (!languageCodes.includes(lang1)) findDuplicateKeyValues(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
-      })
-    })
+    compareKeysForLanguages(supportedLanguageCodes, getTextStrings, languageCodes)
   })
 
   it('should not allow duplicate keys in JSON', () => {
@@ -36,17 +31,10 @@ describe('TextStrings', () => {
   })
 
   it('should not have duplicate keys in textStrings', () => {
-    let dirs = fs.readdirSync(path.join(__dirname, `../text_strings/`))
-    let allStrings = []
-    dirs = dirs.filter((dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux')
-    dirs.map(file => {
-      const blaj = fs.readFileSync(path.join(__dirname, `../text_strings/${file}/en.json`), {encoding: 'utf8'}).split('\n')
-      allStrings = allStrings.concat(blaj)
-    })
-    const ignorePattern = ['', '{', '}']
-    allStrings = allStrings.filter((text) => ignorePattern.indexOf(text) === -1)
-    const errors = findDuplicateJSONKeys(allStrings, [])
-    expect(errors).toEqual([])
+    findDuplicateJSONKeysInFolders(
+      `./text_strings/`,
+      (dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux'
+    )
   })
 
   it('all textstrings should have right amount of $d and $c and $s signs signs', () => {

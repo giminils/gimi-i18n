@@ -2,6 +2,8 @@
 import IgnoredTextStrings from './IgnoredTextStrings.json'
 import {supportedLanguageCodes} from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
+import fs from 'fs'
+import * as path from 'path'
 
 export const serverTextStringNames = [
   'task_group_name', 'task_group_description',
@@ -296,6 +298,29 @@ export const checkUpperCaseLetters = (lang: Object, languageCode: string, textSt
     }
   })
   return {data: arrayUpperCase, countUpperCase: numberUpperCaseKeys}
+}
+
+export const compareKeysForLanguages = (languages, getStrings, languageCodes) => {
+  languages.forEach(lang1 => {
+    languages.forEach(lang2 => {
+      compareKeys(getStrings(lang1), getStrings(lang2), lang1, lang2)
+      if (!languageCodes.includes(lang1)) findDuplicateKeyValues(getStrings(lang1), getStrings(lang2), lang1, lang2)
+    })
+  })
+}
+
+export const findDuplicateJSONKeysInFolders = (dirPath, filterDirectories) => {
+  let dirs = fs.readdirSync(path.join(__dirname, dirPath))
+  let allStrings = []
+  dirs = dirs.filter(filterDirectories)
+  dirs.map(file => {
+    const blaj = fs.readFileSync(path.join(__dirname, `${dirPath}/${file}/en.json`), {encoding: 'utf8'}).split('\n')
+    allStrings = allStrings.concat(blaj)
+  })
+  const ignorePattern = ['', '{', '}']
+  allStrings = allStrings.filter((text) => ignorePattern.indexOf(text) === -1)
+  const errors = findDuplicateJSONKeys(allStrings, [])
+  expect(errors).toEqual([])
 }
 
 const hasUpperCase = (str: string) => {
