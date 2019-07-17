@@ -300,7 +300,7 @@ export const checkUpperCaseLetters = (lang: Object, languageCode: string, textSt
   return {data: arrayUpperCase, countUpperCase: numberUpperCaseKeys}
 }
 
-export const compareKeysForLanguages = (languages, getStrings, languageCodes) => {
+export const compareKeysForLanguages = (languages: Array<string>, getStrings: (string)=>Object, languageCodes: Array<string>) => {
   languages.forEach(lang1 => {
     languages.forEach(lang2 => {
       compareKeys(getStrings(lang1), getStrings(lang2), lang1, lang2)
@@ -309,7 +309,7 @@ export const compareKeysForLanguages = (languages, getStrings, languageCodes) =>
   })
 }
 
-export const findDuplicateJSONKeysInFolders = (dirPath, filterDirectories) => {
+export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectories: (string)=>boolean) => {
   let dirs = fs.readdirSync(path.join(__dirname, dirPath))
   let allStrings = []
   dirs = dirs.filter(filterDirectories)
