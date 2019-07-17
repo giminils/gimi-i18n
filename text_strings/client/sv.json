@@ -2069,7 +2069,7 @@
   "auto_approve_chore_popover_title": "Säker på att du vill godkänna automatiskt?",
   "auto_approve_chore_popover_text": "Den här uppgiften blir automatiskt godkänd 24 timmar efter slutförande. Du kan inte ångra godkända uppgifter.",
   "cant_change_premium_currency_popover_title": "Du kan inte ändra valuta",
-  "cant_change_premium_currency_popover_text": "PLZ_CHECK You cannot change currency when one of your connections has a Master account with real money.",
+  "cant_change_premium_currency_popover_text": "Du kan inte ändra valuta när en av dina kontakter har ett Master konto med riktiga pengar. ",
   "get_on_waitlist_removable_button_parent_settings": "Väntelista till Gimi-kortet!",
   "waitlist_container_title": "Gimi-kortet kommer snart!",
   "waitlist_container_subtitle": "Ett kort skapat för barn och deras familjer. Registrera dig på väntelistan för att vara först med Gimi-kortet!",
