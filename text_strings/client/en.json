@@ -2673,5 +2673,7 @@
   "chore_edit_weekends": "Weekends",
   "internal_transaction_to_blocked_card_popover_title": "Blocked card = no transfers",
   "internal_transaction_to_blocked_card_popover_text": "Unblock your card to transfer money. If a supporter blocked the card, they must unblock it for you.",
-  "upgraded_to_master_success_box": "You've been upgraded!"
+  "upgraded_to_master_success_box": "You've been upgraded!",
+  "missing_phone_order_card_popover_title": "Add your phone number",
+  "missing_phone_order_card_popover_desc": "We use two-factor authentication, go to settings and add a phone number to complete your purchase."
 }

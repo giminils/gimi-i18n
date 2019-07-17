@@ -2673,5 +2673,7 @@
   "chore_edit_weekends": "PLZ_TRANSLATE Weekends",
   "internal_transaction_to_blocked_card_popover_title": "PLZ_TRANSLATE Blocked card = no transfers",
   "internal_transaction_to_blocked_card_popover_text": "PLZ_TRANSLATE Unblock your card to transfer money. If a supporter blocked the card, they must unblock it for you.",
-  "upgraded_to_master_success_box": "PLZ_TRANSLATE You've been upgraded!"
+  "upgraded_to_master_success_box": "PLZ_TRANSLATE You've been upgraded!",
+  "missing_phone_order_card_popover_title": "PLZ_TRANSLATE Add your phone number",
+  "missing_phone_order_card_popover_desc": "PLZ_TRANSLATE We use two-factor authentication, go to settings and add a phone number to complete your purchase."
 }
