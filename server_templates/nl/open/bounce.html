@@ -38,12 +38,20 @@
 				android = navigator.userAgent.match(/android/i),
 				timeStamp = Date.now();
 		if (iOS) {
-			window.location = '{{ ios_url }}';
-			setTimeout(function () {
-				if (Date.now() - timeStamp < 500) {
+			var didShow = false;
+			window.onfocus = function () {
+				console.log('onfocus')
+				if (didShow) {
+					return;
+				}
+				didShow = true;
+				var didConfirm = window.confirm("Download Gimi from the App Store!")
+				if (didConfirm) {
 					window.location = '{{ app_store_url }}';
 				}
-			}, 50);
+			}
+
+			window.location = '{{ ios_url }}'
 		} else if (android) {
 			window.location = '{{ android_url }}';
 		}
