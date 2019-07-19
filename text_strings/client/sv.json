@@ -2668,12 +2668,12 @@
   "payout_summary_single_kid_subtitle": "Överför pengarna till %1$d",
   "payout_summary_single_kid_negative_amount_subtitle": "Det verkar som att %1$d inte tjänade några pengar inför denna payday...",
   "general_error_missing_phone_number": "Ditt telefonnummer saknas!",
-  "chore_edit_every_day": "PLZ_CHECK Every day",
-  "chore_edit_weekdays": "PLZ_CHECK Weekdays",
-  "chore_edit_weekends": "PLZ_CHECK Weekends",
-  "internal_transaction_to_blocked_card_popover_title": "PLZ_CHECK Blocked card = no transfers",
-  "internal_transaction_to_blocked_card_popover_text": "PLZ_CHECK Unblock your card to transfer money. If a supporter blocked the card, they must unblock it for you.",
-  "upgraded_to_master_success_box": "PLZ_CHECK You've been upgraded!",
+  "chore_edit_every_day": "Varje dag",
+  "chore_edit_weekdays": "Vardagar",
+  "chore_edit_weekends": "Helger",
+  "internal_transaction_to_blocked_card_popover_title": "Spärrat Kort = Ingen Överföring",
+  "internal_transaction_to_blocked_card_popover_text": "Lås upp ditt kort för att föra över pengar. Om en supporter har spärrat kortet måste de aktivera det åt dig.",
+  "upgraded_to_master_success_box": "Du har blivit uppgraderad!",
   "missing_phone_order_card_popover_title": "Lägg till ditt telefonnummer",
   "missing_phone_order_card_popover_desc": "Vi använder tvåfaktorsautentisering, lägg till ett telefonnummer i dina inställningar för att slutföra beställningen."
 }
