@@ -2225,7 +2225,7 @@
   "premium_slide_desc_4": "...every time the card is used",
   "itunes_disclaimer_title": "Recurring billing, cancel anytime. ",
   "itunes_disclaimer": "Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. For more information, please see our terms of service and privacy policy.",
-  "popular_iap_banner": "Early bird!",
+  "popular_iap_banner": "Popular!",
   "premium_early_bird": "Try first month for free",
   "premium_slide_title_without_kid": "Get Gimi Master!",
   "general_timezone": "Timezone",
@@ -2272,7 +2272,7 @@
   "general_invite_now": "Invite now!",
   "notification_waiting_for_you": "Waiting for you",
   "premium_internal_transaction_to_savings": "Transfer to account",
-  "error_buying_iap": "Something didnt work...",
+  "error_buying_iap": "Something didn't work...",
   "external_survey_title": "Välkommen till vår studie!",
   "external_survey_section_1": "Vi genomför en vetenskaplig studie tillsammans med ett forskningsteam från Handelshögskolan i Stockholm, Babson College och Dartmouth College.",
   "external_survey_section_2": "Vårt mål är att öka förståelsen för hur barn lär sig hantera pengar i en digital värld - och för att kunna genomföra denna studie behöver vi din hjälp!",
@@ -2675,6 +2675,6 @@
   "internal_transaction_to_blocked_card_popover_text": "Unblock your card to transfer money. If a supporter blocked the card, they must unblock it for you.",
   "upgraded_to_master_success_box": "You've been upgraded!",
   "missing_phone_order_card_popover_title": "Add your phone number",
-  "missing_phone_order_card_popover_desc": "We use two-factor authentication, go to settings and add a phone number to complete your purchase.",
-  "disabled_order_card_button": "Finish the steps above to order!"
+  "missing_phone_order_card_popover_desc": "We use 2-factor authentication, go to settings and add a phone number to complete your purchase.",
+  "disabled_order_card_button": "Finish all steps to order!"
 }
