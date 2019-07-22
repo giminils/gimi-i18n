@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Tilipäivä! Lapsen {child} kuukausiraha talletettiin Säästöihin!",
   "push_monthly_allowance_pre_payout_4": "Lapsen {child} kuukausiraha talletettiin Säästöihin!",
   "event_withdrawal_child": "{user.nickname} nosti {transaction.str_value} Säästöistä",
-  "push_event_request_money": "{kid_name} pyytää ({amount})!",
+  "push_event_request_money": "{kid_name} pyytää {amount}!",
   "push_event_request_money_title": "{child_name} pyytää rahaa!",
   "push_interest_notification": "Uusi Gimin korkotaso: {interest_rate}",
   "event_connect_for_money": "Ei tukijoita, ei rahaa. Kutsu aikuinen!",
