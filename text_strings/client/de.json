@@ -2679,5 +2679,6 @@
   "disabled_order_card_button": "PLZ_TRANSLATE Finish the steps above to order!",
   "blocked_card_intercom_message": "PLZ_TRANSLATE The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!",
   "connection_title_inv_supporter_to_multiple_kids": "PLZ_TRANSLATE Invite supporter to kids!",
-  "connection_subtitle_inv_supporter_to_multiple_kids": "PLZ_TRANSLATE Inviting for %1$d"
+  "connection_subtitle_inv_supporter_to_multiple_kids": "PLZ_TRANSLATE Inviting for %1$d",
+  "multiple_invite_want_to_connect_with_more_family": "PLZ_TRANSLATE Want to connect your children with more family members? Invite them here!"
 }
