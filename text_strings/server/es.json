@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "¡Payday! ¡La recompensa mensual de {child} se añadió a los Ahorros!",
   "push_monthly_allowance_pre_payout_4": "¡La recompensa mensual de {child} ha sido añadida a los Ahorros!",
   "event_withdrawal_child": "{user.nickname} descontó {transaction.str_value} de los ahorros",
-  "push_event_request_money": "¡{kid_name} está solicitando ({amount})!",
+  "push_event_request_money": "¡{kid_name} está solicitando {amount}!",
   "push_event_request_money_title": "¡{child_name} está pidiendo dinero!",
   "push_interest_notification": "Nuevo nivel de interés de Gimi: {interest_rate}",
   "event_connect_for_money": "Sin colaboradores no hay dinero. ¡Invita a uno de tus padres!",
