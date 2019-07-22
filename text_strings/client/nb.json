@@ -2677,5 +2677,7 @@
   "missing_phone_order_card_popover_title": "PLZ_TRANSLATE Add your phone number",
   "missing_phone_order_card_popover_desc": "PLZ_TRANSLATE We use two-factor authentication, go to settings and add a phone number to complete your purchase.",
   "disabled_order_card_button": "PLZ_TRANSLATE Finish the steps above to order!",
-  "blocked_card_intercom_message": "PLZ_TRANSLATE The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!"
+  "blocked_card_intercom_message": "PLZ_TRANSLATE The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!",
+  "connection_title_inv_supporter_to_multiple_kids": "PLZ_TRANSLATE Invite supporter to kids!",
+  "connection_subtitle_inv_supporter_to_multiple_kids": "PLZ_TRANSLATE Inviting for %1$d"
 }

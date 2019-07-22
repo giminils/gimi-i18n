@@ -2677,5 +2677,7 @@
   "missing_phone_order_card_popover_title": "Add your phone number",
   "missing_phone_order_card_popover_desc": "We use 2-factor authentication, go to settings and add a phone number to complete your purchase.",
   "disabled_order_card_button": "Finish all steps to order!",
-  "blocked_card_intercom_message": "The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!"
+  "blocked_card_intercom_message": "The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!",
+  "connection_title_inv_supporter_to_multiple_kids": "Invite supporter to kids!",
+  "connection_subtitle_inv_supporter_to_multiple_kids": "Inviting for %1$d"
 }
