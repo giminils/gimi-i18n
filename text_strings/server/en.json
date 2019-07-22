@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Payday! {child}'s monthly allowance was added to Savings!",
   "push_monthly_allowance_pre_payout_4": "{child}'s monthly allowance has been added to Savings!",
   "event_withdrawal_child": "{user.nickname} deducted {transaction.str_value} from savings",
-  "push_event_request_money": "{kid_name} is requesting ({amount})!",
+  "push_event_request_money": "{kid_name} is requesting {amount}!",
   "push_event_request_money_title": "{child_name} is requesting money",
   "push_interest_notification": "New Gimi Interest Level: {interest_rate}",
   "event_connect_for_money": "No supporters, no money. Invite a parent!",
