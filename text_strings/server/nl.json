@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Payday! Het maandelijkse zakgeld van {child} is op de spaarrekening gezet!",
   "push_monthly_allowance_pre_payout_4": "Het maandelijkse zakgeld van {child}  is op de spaarrekening gezet!",
   "event_withdrawal_child": "{user.nickname} heeft {transaction.str_value} opgenomen van de spaarrekening",
-  "push_event_request_money": "{kid_name} vraagt om ({amount})!",
+  "push_event_request_money": "{kid_name} vraagt om {amount}!",
   "push_event_request_money_title": "{child_name} vraagt om geld!",
   "push_interest_notification": "Nieuw Gimi-rentepercentage: {interest_rate}",
   "event_connect_for_money": "Geen supporters, geen geld. Nodig een ouder uit!",
