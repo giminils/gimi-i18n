@@ -34,6 +34,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'earn_chapter_1_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_1_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -75,6 +76,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'earn_chapter_2_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_2_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -118,6 +120,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'earn_chapter_3_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_3_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -153,6 +156,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'earn_chapter_4_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_4_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -188,6 +192,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'earn_chapter_5_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_5_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -231,6 +236,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'save_chapter_1_age_adaption',
           learningOutcomesLangKey: 'save_chapter_1_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -266,6 +272,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'save_chapter_2_age_adaption',
           learningOutcomesLangKey: 'save_chapter_2_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -301,6 +308,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'save_chapter_3_age_adaption',
           learningOutcomesLangKey: 'save_chapter_3_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -344,6 +352,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'save_chapter_4_age_adaption',
           learningOutcomesLangKey: 'save_chapter_4_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -387,6 +396,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'save_chapter_5_age_adaption',
           learningOutcomesLangKey: 'save_chapter_5_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -438,6 +448,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'spend_chapter_1_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_1_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -477,6 +488,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'spend_chapter_2_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_2_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -516,6 +528,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'spend_chapter_3_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_3_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -555,6 +568,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'spend_chapter_4_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_4_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -595,6 +609,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'spend_chapter_5_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_5_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -635,6 +650,7 @@ export default [
           forAgesLangKey: '7_to_11_year_olds',
           ageAdaptionLangKey: 'spend_chapter_6_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_6_learning_outcome',
+          extras: {},
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
