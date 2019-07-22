@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Payday! L'allocation mensuelle de {child} a été ajoutée à l'épargne!",
   "push_monthly_allowance_pre_payout_4": "L'allocation mensuelle de {child} a été ajoutée à l'épargne!",
   "event_withdrawal_child": "{user.nickname} a déduit {transaction.str_value} de l'épargne",
-  "push_event_request_money": "{kid_name} demande ({amount})!",
+  "push_event_request_money": "{kid_name} demande {amount}!",
   "push_event_request_money_title": "{child_name} demande de l`argent!",
   "push_interest_notification": "Nouveau taux d'intérêt de Gimi: {interest_rate}",
   "event_connect_for_money": "Pas de supporters, pas d'argent. Invitez un parent!",
