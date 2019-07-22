@@ -376,5 +376,9 @@
   "active_email_subject": "Fortsätt att ställa in ditt kort med {wallet_provider}",
   "ADGERE021_notification_title_v2": "Lägg till vecko- eller månadspeng för {child.nickname}",
   "ADGERE039_push_title": "Du har ett nytt förslag på uppgift från {tasksuggestion.child.nickname}",
-  "ADGERE039_notification_title": "{child.nickname} har föreslagit en uppgift"
+  "ADGERE039_notification_title": "{child.nickname} har föreslagit en uppgift",
+  "CHGERE036_notification_title": "PLZ_CHECK {parent.nickname} denied your chore suggestion: {task.title}. Suggest new one?",
+  "CHGERE036_push_title": "PLZ_CHECK Chore suggestion denied!",
+  "CHGERE037_push_title": "PLZ_CHECK You have a new chore waiting to be done!",
+  "CHGERE037_notification_title": "PLZ_CHECK {parent.nickname} has accepted your chore suggestion!"
 }
