@@ -44,7 +44,8 @@ export default [
             {
               image: EDUCATION_STATIC_PATH + 'earn/earnChapter1Image0.png', // NEW, doesnt have to be set. Will try to default to correct static if not set
               titleLangKey: 'earn_chapter_1_step_1_title',
-              descLangKey: 'earn_chapter_1_step_1_desc'
+              descLangKey: 'earn_chapter_1_step_1_desc',
+              extraInfoLangKey: 'earn_chapter_1_step_1_extra'
             },
             {
               titleLangKey: 'earn_chapter_1_step_2_title',
