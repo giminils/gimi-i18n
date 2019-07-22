@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Giorno di paga! L'indennità mensile di {child} è stata aggiunta a Risparmi!",
   "push_monthly_allowance_pre_payout_4": " L'indennità mensile di {child} è stata aggiunta a Risparmi!",
   "event_withdrawal_child": " {user.nickname} detratto {transaction.str_value} dai risparmi",
-  "push_event_request_money": "{kid_name} sta richiedendo ({amount})!",
+  "push_event_request_money": "{kid_name} sta richiedendo {amount}!",
   "push_event_request_money_title": "{child_name} chiede denaro!",
   "push_interest_notification": "Nuovo livello di interessi di Gimi: {interest_rate}",
   "event_connect_for_money": "Nessun sostenitore, nessun guadagno. Invita un genitore!",
