@@ -271,15 +271,24 @@ export function getText (langKey: *, values?: Array<*>, textTransform?: string =
   text = removeTranslationHelpers(text)
   text = text.trim()
 
+  text = applyValues(text, values)
+  text = applyTransform(text, textTransform)
+  return text
+}
+
+export const applyValues = (text: string, values?: Array<*>): string => {
   if (!!values && Array.isArray(values)) values.forEach((item, index) => {
     text = text.split(`%${index + 1}$d`).join(item)
   })
-  if (textTransform)
-    switch (textTransform) {
-      case 'uppercase': return text.toUpperCase()
-      case 'capitalize': return text.charAt(0).toUpperCase() + text.slice(1)
-      case 'lowercase': return text.toLowerCase()
-      default: return text
-    }
   return text
+}
+
+export const applyTransform = (text: string, textTransform?: string = 'capitalize'): string => {
+  if (!textTransform) return text
+  switch (textTransform) {
+    case 'uppercase': return text.toUpperCase()
+    case 'capitalize': return text.charAt(0).toUpperCase() + text.slice(1)
+    case 'lowercase': return text.toLowerCase()
+    default: return text
+  }
 }
