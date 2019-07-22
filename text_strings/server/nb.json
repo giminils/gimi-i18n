@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Utbetalingsdag! {child} sine månedspenger har blitt lagt i sparegrisen!",
   "push_monthly_allowance_pre_payout_4": "{child} sine månedspenger har blitt lagt i sparegrisen!",
   "event_withdrawal_child": "{user.nickname} tok ut {transaction.str_value} fra spart",
-  "push_event_request_money": "{kid_name} ber om ({amount})!",
+  "push_event_request_money": "{kid_name} ber om {amount}!",
   "push_event_request_money_title": "{child_name} ber om penger!",
   "push_interest_notification": "Gimi-renten har blitt endret til: {interest_rate}",
   "event_connect_for_money": "Ingen støttespillere, ingen penger. Inviter en forelder!",
