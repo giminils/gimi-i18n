@@ -40,7 +40,7 @@
   "push_monthly_allowance_pre_payout_3": "Payday! {child}s månedlige lommepenge er blevet tilføjet til Opsparing!",
   "push_monthly_allowance_pre_payout_4": "{child}a månedlige lommepenge er blevet tilføjet til Opsparing!",
   "event_withdrawal_child": "{user.nickname} fratrukket {transaction.str_value} fra opsparing",
-  "push_event_request_money": "{kid_name} anmoder ({amount})!",
+  "push_event_request_money": "{kid_name} anmoder {amount}!",
   "push_event_request_money_title": "{child_name} beder om penge!",
   "push_interest_notification": "Ny Gimi Rentesats: {interest_rate}",
   "event_connect_for_money": "Ingen tilhængere, ingen penge. Inviter en forælder!",
