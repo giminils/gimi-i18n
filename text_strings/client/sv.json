@@ -2676,5 +2676,6 @@
   "upgraded_to_master_success_box": "Du har blivit uppgraderad!",
   "missing_phone_order_card_popover_title": "Lägg till ditt telefonnummer",
   "missing_phone_order_card_popover_desc": "Vi använder 2-faktorsautentisering, lägg till ett telefonnummer i dina inställningar för att slutföra beställningen.",
-  "disabled_order_card_button": "PLZ_CHECK Finish all steps to order!"
+  "disabled_order_card_button": "PLZ_CHECK Finish all steps to order!",
+  "blocked_card_intercom_message": "PLZ_CHECK Gimi-kortet har blivit låst efter 3 misslyckade PIN-försök. Hjälp mig låsa upp det!"
 }

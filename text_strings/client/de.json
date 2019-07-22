@@ -2676,5 +2676,6 @@
   "upgraded_to_master_success_box": "PLZ_TRANSLATE You've been upgraded!",
   "missing_phone_order_card_popover_title": "PLZ_TRANSLATE Add your phone number",
   "missing_phone_order_card_popover_desc": "PLZ_TRANSLATE We use two-factor authentication, go to settings and add a phone number to complete your purchase.",
-  "disabled_order_card_button": "PLZ_TRANSLATE Finish the steps above to order!"
+  "disabled_order_card_button": "PLZ_TRANSLATE Finish the steps above to order!",
+  "blocked_card_intercom_message": "PLZ_TRANSLATE The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!"
 }
