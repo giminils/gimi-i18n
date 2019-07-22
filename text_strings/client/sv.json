@@ -2680,5 +2680,8 @@
   "blocked_card_intercom_message": "PLZ_CHECK Gimi-kortet har blivit låst efter 3 misslyckade PIN-försök. Hjälp mig låsa upp det!",
   "connection_title_inv_supporter_to_multiple_kids": "PLZ_CHECK Invite supporter to kids!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "PLZ_CHECK Inviting for %1$d",
-  "multiple_invite_want_to_connect_with_more_family": "PLZ_CHECK Want to connect your children with more family members? Invite them here!"
+  "multiple_invite_want_to_connect_with_more_family": "PLZ_CHECK Want to connect your children with more family members? Invite them here!",
+  "education_for_ages_title": "PLZ_CHECK For ages",
+  "education_age_adaption_title": "PLZ_CHECK Age adaption",
+  "education_learning_outcomes_title": "PLZ_CHECK Learning outcomes"
 }
