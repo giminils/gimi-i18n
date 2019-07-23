@@ -1878,7 +1878,7 @@
   "allow_all_relations_to_transfer_desc": "%1$d necesita tu autorización para recibir dinero.",
   "cant_update_same_code_error": "No puedes utilizar el mismo código",
   "order_card_enter_email_title": "Introduce tu dirección de correo electrónico",
-  "order_card_enter_email_subtitle": "Necesitamos esto para proteger tu cuenta.",
+  "order_card_enter_email_subtitle": "PLZ_TRANSLATE All important information about the Gimi Card is sent to your email",
   "kid_chores_explainer_button": "¡Sugiere una tarea!",
   "kid_chores_explainer_title": "¡Las tareas te permiten ganar más dinero!",
   "kid_chores_explainer_text": "Puedes sugerir tareas tú mismo o pedir a un adulto que te la asigne. Pero siempre necesitas un adulto para aprobar y pagar tus tareas. ¡Mientras más tareas hagas, más dinero recibes!",

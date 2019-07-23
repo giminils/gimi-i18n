@@ -1878,7 +1878,7 @@
   "allow_all_relations_to_transfer_desc": "%1$d braucht Deine Erlaubnis, um Geld erhalten zu können.",
   "cant_update_same_code_error": "Du kannst nicht denselben Code verwenden",
   "order_card_enter_email_title": "Gib Deine E-Mail Adresse ein",
-  "order_card_enter_email_subtitle": "Wir brauchen sie, um Dein Konto zu schützen.",
+  "order_card_enter_email_subtitle": "PLZ_TRANSLATE All important information about the Gimi Card is sent to your email",
   "kid_chores_explainer_button": "Aufgabe vorschlagen!",
   "kid_chores_explainer_title": "Mit Aufgaben kannst Du mehr Geld verdienen!",
   "kid_chores_explainer_text": "Du kannst selbst Aufgaben vorschlagen oder bitte einen Erwachsenen, Dir welche zu stellen. Auf alle Fälle brauchst Du einen Erwachsenen, um die Aufgabe zu genehmigen und zu bezahlen. Je mehr Aufgaben Du erledigst, umso mehr Geld verdienst Du!",

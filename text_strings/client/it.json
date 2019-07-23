@@ -1878,7 +1878,7 @@
   "allow_all_relations_to_transfer_desc": "%1$d serve la tua approvazione per ricevere denaro.",
   "cant_update_same_code_error": "Non puoi usare lo stesso codice",
   "order_card_enter_email_title": "Scrivi il tuo indirizzo email",
-  "order_card_enter_email_subtitle": "Ci serve per rendere sicuro il tuo account.",
+  "order_card_enter_email_subtitle": "PLZ_TRANSLATE All important information about the Gimi Card is sent to your email",
   "kid_chores_explainer_button": "Suggerisci una faccenda!",
   "kid_chores_explainer_title": "Le faccende ti permettono di guadagnare denaro!",
   "kid_chores_explainer_text": "Puoi suggerire faccende tu stesso, o chiedere a un adulto di assegnartele. Ma ti servirà sempre un adulto per approvare e pagare le tue faccende. Più faccende svolgi, più soldi guadagni!",

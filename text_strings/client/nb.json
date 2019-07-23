@@ -1878,7 +1878,7 @@
   "allow_all_relations_to_transfer_desc": "%1$d trenger din godkjenning for å motta penger.",
   "cant_update_same_code_error": "Du kan ikke bruke samme kode",
   "order_card_enter_email_title": "Skriv inn din e-postadresse",
-  "order_card_enter_email_subtitle": "Vi trenger den for å sikre kontoen din.",
+  "order_card_enter_email_subtitle": "PLZ_TRANSLATE All important information about the Gimi Card is sent to your email",
   "kid_chores_explainer_button": "Foreslå en oppgave!",
   "kid_chores_explainer_title": "Oppgaver lar deg tjene mer penger!",
   "kid_chores_explainer_text": "Du kan foreslå oppgaver selv, eller be en voksen om å tildele dem til deg. Men du trenger alltid en voksen for å godkjenne og betale oppgavene dine. Jo flere oppgaver du gjør, desto mer penger tjener du!",
