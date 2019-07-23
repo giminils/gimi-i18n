@@ -1878,7 +1878,7 @@
   "allow_all_relations_to_transfer_desc": "%1$d behöver din tillåtelse att ta emot insättningar.",
   "cant_update_same_code_error": "Du kan inte använda samma kod",
   "order_card_enter_email_title": "Skriv in din mejladress",
-  "order_card_enter_email_subtitle": "PLZ_CHECK All important information about the Gimi Card is sent to your email",
+  "order_card_enter_email_subtitle": "All viktig information om Gimi-kortet skickas till din mejl",
   "kid_chores_explainer_button": "Föreslå en uppgift!",
   "kid_chores_explainer_title": "Tjäna mer pengar genom att göra uppgifter!",
   "kid_chores_explainer_text": "Du kan föreslå uppgifter själv, eller be en supporter att ge dig några. Du behöver alltid en supporter som godkänner uppgiften! Ju fler uppgifter du gör, desto mer pengar tjänar du!",
