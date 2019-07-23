@@ -221,5 +221,20 @@
   "spend_chapter_6_step_4_desc": "Fyll i kortuppgifterna. Förklara att de är hemliga och inte får delas med någon annan.",
   "spend_chapter_6_step_5_title": "Utvärdera",
   "spend_chapter_6_step_5_desc": "Fråga barnet om köpet var en succé eller ett misstag några dagar efter ni fått leveransen. Har hen lärt sig något?",
-  "7_to_11_year_olds": "PLZ_CHECK 7 - 11 year olds"
+  "earn_chapter_1_age": "PLZ_CHECK 7 - 11 year olds",
+  "earn_chapter_2_age": "PLZ_CHECK 7 - 11 year olds",
+  "earn_chapter_3_age": "PLZ_CHECK 7 - 11 year olds",
+  "earn_chapter_4_age": "PLZ_CHECK 7 - 11 year olds",
+  "earn_chapter_5_age": "PLZ_CHECK 7 - 11 year olds",
+  "save_chapter_1_age": "PLZ_CHECK 7 - 11 year olds",
+  "save_chapter_2_age": "PLZ_CHECK 7 - 11 year olds",
+  "save_chapter_3_age": "PLZ_CHECK 7 - 11 year olds",
+  "save_chapter_4_age": "PLZ_CHECK 7 - 11 year olds",
+  "save_chapter_5_age": "PLZ_CHECK 7 - 11 year olds",
+  "spend_chapter_1_age": "PLZ_CHECK 7 - 11 year olds",
+  "spend_chapter_2_age": "PLZ_CHECK 7 - 11 year olds",
+  "spend_chapter_3_age": "PLZ_CHECK 7 - 11 year olds",
+  "spend_chapter_4_age": "PLZ_CHECK 7 - 11 year olds",
+  "spend_chapter_5_age": "PLZ_CHECK 7 - 11 year olds",
+  "spend_chapter_6_age": "PLZ_CHECK 7 - 11 year olds"
 }

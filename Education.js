@@ -31,7 +31,7 @@ export default [
           chapterIntroLangKey: 'earn_chapter_1_intro',
           chapterSessionDescLangKey: 'earn_chapter_1_desc',
           image: EDUCATION_STATIC_PATH + 'earn/earnChapter1Image0.png', // NEW, doesnt have to be set. Will try to default to correct static if not set
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'earn_chapter_1_age',
           ageAdaptionLangKey: 'earn_chapter_1_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_1_learning_outcome',
           extras: {},
@@ -73,7 +73,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_2_intro',
           chapterSessionDescLangKey: 'earn_chapter_2_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'earn_chapter_2_age',
           ageAdaptionLangKey: 'earn_chapter_2_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_2_learning_outcome',
           extras: {},
@@ -117,7 +117,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_3_intro',
           chapterSessionDescLangKey: 'earn_chapter_3_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'earn_chapter_3_age',
           ageAdaptionLangKey: 'earn_chapter_3_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_3_learning_outcome',
           extras: {},
@@ -153,7 +153,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_4_intro',
           chapterSessionDescLangKey: 'earn_chapter_4_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'earn_chapter_4_age',
           ageAdaptionLangKey: 'earn_chapter_4_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_4_learning_outcome',
           extras: {},
@@ -189,7 +189,7 @@ export default [
         content: {
           chapterIntroLangKey: 'earn_chapter_5_intro',
           chapterSessionDescLangKey: 'earn_chapter_5_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'earn_chapter_5_age',
           ageAdaptionLangKey: 'earn_chapter_5_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_5_learning_outcome',
           extras: {},
@@ -233,7 +233,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_1_intro',
           chapterSessionDescLangKey: 'save_chapter_1_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'save_chapter_1_age',
           ageAdaptionLangKey: 'save_chapter_1_age_adaption',
           learningOutcomesLangKey: 'save_chapter_1_learning_outcome',
           extras: {},
@@ -269,7 +269,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_2_intro',
           chapterSessionDescLangKey: 'save_chapter_2_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'save_chapter_2_age',
           ageAdaptionLangKey: 'save_chapter_2_age_adaption',
           learningOutcomesLangKey: 'save_chapter_2_learning_outcome',
           extras: {},
@@ -305,7 +305,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_3_intro',
           chapterSessionDescLangKey: 'save_chapter_3_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'save_chapter_3_age',
           ageAdaptionLangKey: 'save_chapter_3_age_adaption',
           learningOutcomesLangKey: 'save_chapter_3_learning_outcome',
           extras: {},
@@ -349,7 +349,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_4_intro',
           chapterSessionDescLangKey: 'save_chapter_4_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'save_chapter_4_age',
           ageAdaptionLangKey: 'save_chapter_4_age_adaption',
           learningOutcomesLangKey: 'save_chapter_4_learning_outcome',
           extras: {},
@@ -393,7 +393,7 @@ export default [
         content: {
           chapterIntroLangKey: 'save_chapter_5_intro',
           chapterSessionDescLangKey: 'save_chapter_5_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'save_chapter_5_age',
           ageAdaptionLangKey: 'save_chapter_5_age_adaption',
           learningOutcomesLangKey: 'save_chapter_5_learning_outcome',
           extras: {},
@@ -445,7 +445,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_1_intro',
           chapterSessionDescLangKey: 'spend_chapter_1_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'spend_chapter_1_age',
           ageAdaptionLangKey: 'spend_chapter_1_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_1_learning_outcome',
           extras: {},
@@ -485,7 +485,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_2_intro',
           chapterSessionDescLangKey: 'spend_chapter_2_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'spend_chapter_2_age',
           ageAdaptionLangKey: 'spend_chapter_2_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_2_learning_outcome',
           extras: {},
@@ -525,7 +525,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_3_intro',
           chapterSessionDescLangKey: 'spend_chapter_3_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'spend_chapter_3_age',
           ageAdaptionLangKey: 'spend_chapter_3_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_3_learning_outcome',
           extras: {},
@@ -565,7 +565,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_4_intro',
           chapterSessionDescLangKey: 'spend_chapter_4_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'spend_chapter_4_age',
           ageAdaptionLangKey: 'spend_chapter_4_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_4_learning_outcome',
           extras: {},
@@ -606,7 +606,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_5_intro',
           chapterSessionDescLangKey: 'spend_chapter_5_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'spend_chapter_5_age',
           ageAdaptionLangKey: 'spend_chapter_5_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_5_learning_outcome',
           extras: {},
@@ -647,7 +647,7 @@ export default [
         content: {
           chapterIntroLangKey: 'spend_chapter_6_intro',
           chapterSessionDescLangKey: 'spend_chapter_6_desc',
-          forAgesLangKey: '7_to_11_year_olds',
+          forAgesLangKey: 'spend_chapter_6_age',
           ageAdaptionLangKey: 'spend_chapter_6_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_6_learning_outcome',
           extras: {},

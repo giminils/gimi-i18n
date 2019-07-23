@@ -221,5 +221,20 @@
   "spend_chapter_6_step_4_desc": "Valitse kortti maksuvaihtoehdoksi ja täytä vaaditut kentät",
   "spend_chapter_6_step_5_title": "Arvioikaa",
   "spend_chapter_6_step_5_desc": "Odota pari päivää tilauksen saavuttua. Kysy lapselta oliko ostos onnistunut vai pettymys.",
-  "7_to_11_year_olds": "PLZ_TRANSLATE 7 - 11 year olds"
+  "earn_chapter_1_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "earn_chapter_2_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "earn_chapter_3_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "earn_chapter_4_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "earn_chapter_5_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "save_chapter_1_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "save_chapter_2_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "save_chapter_3_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "save_chapter_4_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "save_chapter_5_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "spend_chapter_1_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "spend_chapter_2_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "spend_chapter_3_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "spend_chapter_4_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "spend_chapter_5_age": "PLZ_TRANSLATE 7 - 11 year olds",
+  "spend_chapter_6_age": "PLZ_TRANSLATE 7 - 11 year olds"
 }
