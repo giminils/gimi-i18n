@@ -1,16 +1,16 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-var fs = require('fs')
+let fs = require('fs')
 let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq']
 
 let RunSara = (filePath): * => {
   let getPath = (file) => `${filePath}/${file}`
-  var defaultPath = getPath('default.json')
-  var _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
+  let defaultPath = getPath('default.json')
+  let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
   _default = JSON.parse(_default)
 
-  var langPath = getPath('en.json') // Edit here for what language to use
-  var lang = fs.readFileSync(langPath, {encoding: 'utf8'})
+  let langPath = getPath('en.json') // Edit here for what language to use
+  let lang = fs.readFileSync(langPath, {encoding: 'utf8'})
   lang = JSON.parse(lang)
 
   let syncTextStrings = (file) => {
@@ -22,9 +22,9 @@ let RunSara = (filePath): * => {
     if (file === 'lang.json')
       return
 
-    var path = getPath(file)
+    let path = getPath(file)
 
-    var TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
+    let TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
     TextStrings = JSON.parse(TextStrings)
 
     // Delete Support
@@ -46,9 +46,9 @@ let RunSara = (filePath): * => {
 
     NewTextStrings = {...NewTextStrings, ...TextStrings}
     Object.keys(_default).forEach(key => delete NewTextStrings[key])
-    var NewTextStringsLength = Object.keys(NewTextStrings).length
-    var TextStringsLength = Object.keys(TextStrings).length
-    var delta = NewTextStringsLength - TextStringsLength
+    let NewTextStringsLength = Object.keys(NewTextStrings).length
+    let TextStringsLength = Object.keys(TextStrings).length
+    let delta = NewTextStringsLength - TextStringsLength
 
     if (delta > 0)
       console.log(`Updated ${delta} textstrings in ${file}`)

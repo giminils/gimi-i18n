@@ -1,6 +1,6 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-var keysToIgnore = [
+let keysToIgnore = [
   'child_about_data_tracking_title',
   'child_about_data_tracking_content',
   'parent_about_data_tracking_title',
@@ -70,20 +70,20 @@ var keysToIgnore = [
   'category_name_48'
 ]
 
-var keysToDelete = []
-var fs = require('fs')
-var rootDir = '..'
-var dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers']
+let keysToDelete = []
+let fs = require('fs')
+let rootDir = '..'
+let dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers']
 let textStringsSvFilePath = './text_strings/client/sv.json'
-var TextStrings = fs.readFileSync(textStringsSvFilePath, {encoding: 'utf8'})
+let TextStrings = fs.readFileSync(textStringsSvFilePath, {encoding: 'utf8'})
 TextStrings = JSON.parse(TextStrings)
-var foundKeys = 0
-var ignoredKeys = 0
+let foundKeys = 0
+let ignoredKeys = 0
 
 let checkFile = (file, key) => {
-  var fileContents = fs.readFileSync(file, {encoding: 'utf8'})
+  let fileContents = fs.readFileSync(file, {encoding: 'utf8'})
 
-  var isOk = false
+  let isOk = false
 
   if (fileContents.indexOf(key) !== -1) isOk = true
 
@@ -96,10 +96,10 @@ let checkFile = (file, key) => {
   return isOk
 }
 let checkIfTextStringIsObsolete = (key) => {
-  var isOk = false
+  let isOk = false
   dirsToCheck.forEach((dirName) => {
-    var dir = `${rootDir}/${dirName}/`
-    var files = fs.readdirSync(dir)
+    let dir = `${rootDir}/${dirName}/`
+    let files = fs.readdirSync(dir)
     files.forEach((file) => {
       try {
         file = `${dir}/${file}`
