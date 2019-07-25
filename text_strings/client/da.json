@@ -2459,9 +2459,9 @@
   "card_blocked_status_c_popover_title": "Dit kort er blevet blokeret",
   "card_blocked_status_c_popover_desc": "Det kunne være på grund af forskellige grunde. Kontakt os venligst og vi finder ud af det!",
   "card_blocked_status_c_intercom_prefill": "Hjælp! Mit Gimikort er blevet blokeret på grund af en ukendt grund",
-  "pay_via_stripe_option_desc": "Gem dit kort med Gimi, støttet af Stripe. Ingen kreditkort accepteret",
+  "pay_via_stripe_option_desc": "PLZ_TRANSLATE Add the bank card you want to transfer money from. No credit cards!",
   "payment_option_swish": "Mobil overførsel",
-  "payment_option_stripe": "Kort på fil",
+  "payment_option_stripe": "PLZ_TRANSLATE Saved card",
   "passed_due_yesterday_title": "For sent! Udløb i går",
   "passed_due_monday_title": "For sent! Udløb i mandags",
   "passed_due_tuesday_title": "For sent! Udløb i tirsdags",
@@ -2685,5 +2685,5 @@
   "education_age_adaption_title": "PLZ_TRANSLATE Age adaption",
   "education_learning_outcomes_title": "PLZ_TRANSLATE Learning outcomes",
   "general_read_more": "PLZ_TRANSLATE Read more",
-  "kid_custom_note_feature_bot_share": "PLZ_TRANSLATE Share piggy!"
+  "kid_custom_note_feature_bot_share": "PLZ_TRANSLATE Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎"
 }

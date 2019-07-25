@@ -2459,9 +2459,9 @@
   "card_blocked_status_c_popover_title": "La tua carta è stata bloccata",
   "card_blocked_status_c_popover_desc": "Potrebbe essere dovuto a diverse ragioni. Per favore, contattaci e lo risolveremo!",
   "card_blocked_status_c_intercom_prefill": "Aiuto! La mia carta Gimi è stata bloccata per ragioni sconosciute",
-  "pay_via_stripe_option_desc": "Salva la tua carta su Gimi, supportata da Stripe. Non sono accettate le carte di credito",
+  "pay_via_stripe_option_desc": "PLZ_TRANSLATE Add the bank card you want to transfer money from. No credit cards!",
   "payment_option_swish": "Trasferimento mobile",
-  "payment_option_stripe": "Carta su file",
+  "payment_option_stripe": "PLZ_TRANSLATE Saved card",
   "passed_due_yesterday_title": "Tardi! Era dovuto ieri",
   "passed_due_monday_title": "Tardi! Era dovuto lunedì",
   "passed_due_tuesday_title": "Tardi! Era dovuto martedì",
@@ -2685,5 +2685,5 @@
   "education_age_adaption_title": "PLZ_TRANSLATE Age adaption",
   "education_learning_outcomes_title": "PLZ_TRANSLATE Learning outcomes",
   "general_read_more": "PLZ_TRANSLATE Read more",
-  "kid_custom_note_feature_bot_share": "PLZ_TRANSLATE Share piggy!"
+  "kid_custom_note_feature_bot_share": "PLZ_TRANSLATE Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎"
 }

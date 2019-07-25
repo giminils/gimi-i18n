@@ -2459,9 +2459,9 @@
   "card_blocked_status_c_popover_title": "Ditt kort har spärrats",
   "card_blocked_status_c_popover_desc": "Det kan bero på flera saker. Kontakta oss så hjälper vi dig!",
   "card_blocked_status_c_intercom_prefill": "Hjälp! Mitt Gimi-kort har spärrats av en okänd anledning",
-  "pay_via_stripe_option_desc": "Spara ditt kort i Gimi och gör enkla överföringar med Stripe. Inga kreditkort!",
+  "pay_via_stripe_option_desc": "PLZ_CHECK Add the bank card you want to transfer money from. No credit cards!",
   "payment_option_swish": "Swish",
-  "payment_option_stripe": "Sparat kort",
+  "payment_option_stripe": "PLZ_CHECK Saved card",
   "passed_due_yesterday_title": "Sen! Skulle gjorts igår",
   "passed_due_monday_title": "Sen! Skulle gjorts i måndags",
   "passed_due_tuesday_title": "Sen! Skulle gjorts i tisdags",
@@ -2685,5 +2685,5 @@
   "education_age_adaption_title": "PLZ_CHECK Age adaption",
   "education_learning_outcomes_title": "PLZ_CHECK Learning outcomes",
   "general_read_more": "PLZ_CHECK Read more",
-  "kid_custom_note_feature_bot_share": "PLZ_CHECK Share piggy!"
+  "kid_custom_note_feature_bot_share": "PLZ_CHECK Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎"
 }

@@ -2459,9 +2459,9 @@
   "card_blocked_status_c_popover_title": "Your card has been blocked",
   "card_blocked_status_c_popover_desc": "It could be due to several reasons. Please contact us and we will sort this out!",
   "card_blocked_status_c_intercom_prefill": "Help! My Gimi card has been blocked due to an unknown reason",
-  "pay_via_stripe_option_desc": "PLZ_COPY Add the bank card you want to transfer money from. No credit cards!",
+  "pay_via_stripe_option_desc": "Add the bank card you want to transfer money from. No credit cards!",
   "payment_option_swish": "Mobile transfer",
-  "payment_option_stripe": "PLZ_COPY Saved card",
+  "payment_option_stripe": "Saved card",
   "passed_due_yesterday_title": "Late! Was due yesterday",
   "passed_due_monday_title": "Late! Was due monday",
   "passed_due_tuesday_title": "Late! Was due tuesday",
@@ -2685,5 +2685,5 @@
   "education_age_adaption_title": "Age adaption",
   "education_learning_outcomes_title": "Learning outcomes",
   "general_read_more": "Read more",
-  "kid_custom_note_feature_bot_share": "PLZ_COPY Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎"
+  "kid_custom_note_feature_bot_share": "Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎"
 }
