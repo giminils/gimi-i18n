@@ -16,6 +16,8 @@
     "ErrorUtils" : false
   },
     "rules": {
+      "prefer-const": 0,
+      "quote-props": 0,
       "header/header": "off",
       "import/first": 0,
       "import/no-webpack-loader-syntax": 0,
