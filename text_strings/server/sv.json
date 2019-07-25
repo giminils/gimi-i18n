@@ -203,7 +203,7 @@
   "push_withdrawal_made_from_your_cloud": "{parent.nickname} drog av från Sparat.",
   "push_deposit_made_to_your_cloud": "Sparat har fyllts på!",
   "event_upgraded_to_premium": "Du har uppgraderats till Master",
-  "push_upgraded_to_premium": "Gimi-kortet är påväg!",
+  "push_upgraded_to_premium": "Gimi-kortet är på väg!",
   "event_not_paid_card_locked": "Du har inte betalat prenumerationen för {child.nickname}, kontot är avstängt tills du betalar. ",
   "event_influence_use_gimi": "Kolla hur youtubers använder Gimi! ",
   "event_allowance_is_set_for_you": "Du får nu veckopeng från {parent.nickname}",
