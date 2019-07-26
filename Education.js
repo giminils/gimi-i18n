@@ -1,9 +1,7 @@
 // @flow
 
 /**
- * If you're reading this in confusion,
- * this is an updated take on education courses and will be replacing courses.js later.
- * DO NOT make changes and updates here just yet. It's only devving until finished design is set.
+ * This is an updated take on education courses and has replaced courses.js!
  */
 
 const defaultCourse = {}
@@ -34,7 +32,8 @@ export default [
           forAgesLangKey: 'earn_chapter_1_age',
           ageAdaptionLangKey: 'earn_chapter_1_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_1_learning_outcome',
-          extras: {},
+          onCompletion: 'earn_chapter_1_on_completion',
+          extras: 'earn_chapter_1_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -76,7 +75,8 @@ export default [
           forAgesLangKey: 'earn_chapter_2_age',
           ageAdaptionLangKey: 'earn_chapter_2_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_2_learning_outcome',
-          extras: {},
+          onCompletion: 'earn_chapter_2_on_completion',
+          extras: 'earn_chapter_2_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -120,7 +120,8 @@ export default [
           forAgesLangKey: 'earn_chapter_3_age',
           ageAdaptionLangKey: 'earn_chapter_3_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_3_learning_outcome',
-          extras: {},
+          onCompletion: 'earn_chapter_3_on_completion',
+          extras: 'earn_chapter_3_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -156,7 +157,8 @@ export default [
           forAgesLangKey: 'earn_chapter_4_age',
           ageAdaptionLangKey: 'earn_chapter_4_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_4_learning_outcome',
-          extras: {},
+          onCompletion: 'earn_chapter_4_on_completion',
+          extras: 'earn_chapter_4_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -192,7 +194,8 @@ export default [
           forAgesLangKey: 'earn_chapter_5_age',
           ageAdaptionLangKey: 'earn_chapter_5_age_adaption',
           learningOutcomesLangKey: 'earn_chapter_5_learning_outcome',
-          extras: {},
+          onCompletion: 'earn_chapter_5_on_completion',
+          extras: 'earn_chapter_5_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -236,7 +239,8 @@ export default [
           forAgesLangKey: 'save_chapter_1_age',
           ageAdaptionLangKey: 'save_chapter_1_age_adaption',
           learningOutcomesLangKey: 'save_chapter_1_learning_outcome',
-          extras: {},
+          onCompletion: 'save_chapter_1_on_completion',
+          extras: 'save_chapter_1_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -272,7 +276,8 @@ export default [
           forAgesLangKey: 'save_chapter_2_age',
           ageAdaptionLangKey: 'save_chapter_2_age_adaption',
           learningOutcomesLangKey: 'save_chapter_2_learning_outcome',
-          extras: {},
+          onCompletion: 'save_chapter_2_on_completion',
+          extras: 'save_chapter_2_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -308,7 +313,8 @@ export default [
           forAgesLangKey: 'save_chapter_3_age',
           ageAdaptionLangKey: 'save_chapter_3_age_adaption',
           learningOutcomesLangKey: 'save_chapter_3_learning_outcome',
-          extras: {},
+          onCompletion: 'save_chapter_3_on_completion',
+          extras: 'save_chapter_3_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -352,7 +358,8 @@ export default [
           forAgesLangKey: 'save_chapter_4_age',
           ageAdaptionLangKey: 'save_chapter_4_age_adaption',
           learningOutcomesLangKey: 'save_chapter_4_learning_outcome',
-          extras: {},
+          onCompletion: 'save_chapter_4_on_completion',
+          extras: 'save_chapter_4_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -396,7 +403,8 @@ export default [
           forAgesLangKey: 'save_chapter_5_age',
           ageAdaptionLangKey: 'save_chapter_5_age_adaption',
           learningOutcomesLangKey: 'save_chapter_5_learning_outcome',
-          extras: {},
+          onCompletion: 'save_chapter_5_on_completion',
+          extras: 'save_chapter_5_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -448,7 +456,8 @@ export default [
           forAgesLangKey: 'spend_chapter_1_age',
           ageAdaptionLangKey: 'spend_chapter_1_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_1_learning_outcome',
-          extras: {},
+          onCompletion: 'spend_chapter_1_on_completion',
+          extras: 'spend_chapter_1_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -488,7 +497,8 @@ export default [
           forAgesLangKey: 'spend_chapter_2_age',
           ageAdaptionLangKey: 'spend_chapter_2_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_2_learning_outcome',
-          extras: {},
+          onCompletion: 'spend_chapter_2_on_completion',
+          extras: 'spend_chapter_2_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -528,7 +538,8 @@ export default [
           forAgesLangKey: 'spend_chapter_3_age',
           ageAdaptionLangKey: 'spend_chapter_3_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_3_learning_outcome',
-          extras: {},
+          onCompletion: 'spend_chapter_3_on_completion',
+          extras: 'spend_chapter_3_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -568,7 +579,8 @@ export default [
           forAgesLangKey: 'spend_chapter_4_age',
           ageAdaptionLangKey: 'spend_chapter_4_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_4_learning_outcome',
-          extras: {},
+          onCompletion: 'spend_chapter_4_on_completion',
+          extras: 'spend_chapter_4_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -609,7 +621,8 @@ export default [
           forAgesLangKey: 'spend_chapter_5_age',
           ageAdaptionLangKey: 'spend_chapter_5_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_5_learning_outcome',
-          extras: {},
+          onCompletion: 'spend_chapter_5_on_completion',
+          extras: 'spend_chapter_5_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
@@ -650,7 +663,8 @@ export default [
           forAgesLangKey: 'spend_chapter_6_age',
           ageAdaptionLangKey: 'spend_chapter_6_age_adaption',
           learningOutcomesLangKey: 'spend_chapter_6_learning_outcome',
-          extras: {},
+          onCompletion: 'spend_chapter_6_on_completion',
+          extras: 'spend_chapter_6_extra',
           relatedLinks: [ // NEW
             // {
             //   displayLangKey: 'general_name',
