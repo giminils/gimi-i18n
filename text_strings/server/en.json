@@ -380,5 +380,9 @@
   "CHGERE037_push_title": "You have a new chore waiting to be done!",
   "CHGERE037_notification_title": "{parent.nickname} has accepted your chore suggestion!",
   "CHGERE036_notification_title": "{parent.nickname} denied your chore suggestion: {tasksuggestion.title}. Suggest new one?",
-  "CHGERE036_push_title": "Chore suggestion denied!"
+  "CHGERE036_push_title": "Chore suggestion denied!",
+  "CHGEPU038_push_title": "Uh-oh! Update Gimi in the App Store now!",
+  "CHGEPU039_push_title": "Uh-oh! Update Gimi in the Play Store now!",
+  "ADGEPU013_push_title": "Uh-oh! Update Gimi in the App Store now!",
+  "ADGEPU014_push_title": "Uh-oh! Update Gimi in the Play Store now!"
 }
