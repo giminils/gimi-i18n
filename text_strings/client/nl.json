@@ -2689,5 +2689,7 @@
   "education_learning_outcomes_title": "PLZ_TRANSLATE Learning outcomes",
   "general_read_more": "PLZ_TRANSLATE Read more",
   "kid_custom_note_feature_721": "PLZ_TRANSLATE Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎",
-  "stripe_trying_to_add_gimi_card_error": "PLZ_TRANSLATE Wrong card! Add your own to make transfers from."
+  "stripe_trying_to_add_gimi_card_error": "PLZ_TRANSLATE Wrong card! Add your own to make transfers from.",
+  "cant_connect_to_yourself_popover_title": "PLZ_TRANSLATE You can't connect with yourself!",
+  "cant_connect_to_yourself_popover_text": "PLZ_TRANSLATE This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app."
 }

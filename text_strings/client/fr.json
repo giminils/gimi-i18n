@@ -2689,5 +2689,7 @@
   "education_learning_outcomes_title": "Résultats d'apprentissage",
   "general_read_more": "Lire plus",
   "kid_custom_note_feature_721": "Partagez Piggy avec un ami pour lui dire comment vous vous sentez aujourd'hui! 😁😍😎",
-  "stripe_trying_to_add_gimi_card_error": "Mauvaise carte! Ajoutez votre propre carte pour faire des transferts."
+  "stripe_trying_to_add_gimi_card_error": "Mauvaise carte! Ajoutez votre propre carte pour faire des transferts.",
+  "cant_connect_to_yourself_popover_title": "PLZ_TRANSLATE You can't connect with yourself!",
+  "cant_connect_to_yourself_popover_text": "PLZ_TRANSLATE This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app."
 }

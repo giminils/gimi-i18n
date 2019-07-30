@@ -2689,5 +2689,7 @@
   "education_learning_outcomes_title": "Lernergebnisse",
   "general_read_more": "Mehr lesen",
   "kid_custom_note_feature_721": "Teile Schweinchen mit einem Freund, um ihn wissen zu lassen wie es Dir heute geht! 😁😍😎",
-  "stripe_trying_to_add_gimi_card_error": "Falsche Karte! Füge Deine Eigene hinzu, um Überweisungen zu tätigen."
+  "stripe_trying_to_add_gimi_card_error": "Falsche Karte! Füge Deine Eigene hinzu, um Überweisungen zu tätigen.",
+  "cant_connect_to_yourself_popover_title": "PLZ_TRANSLATE You can't connect with yourself!",
+  "cant_connect_to_yourself_popover_text": "PLZ_TRANSLATE This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app."
 }
