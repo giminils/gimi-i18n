@@ -179,7 +179,7 @@
   "push_exceed_weekly_limit": "{child.nickname} heeft zojuist de wekelijkse uitgaven limiet overschreden!",
   "event_exceed_monthly_limit": "{child.nickname} heeft zojuist de maandelijkse uitgaven limiet overschreden!",
   "push_exceed_monthly_limit": "{child.nickname} heeft zojuist de maandelijkse uitgaven limiet overschreden!",
-  "event_pfs_payday": "Het is payday voor {child.nickname}! ",
+  "event_pfs_payday": "Het is Payday voor {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "De Gimi-kaart is vergrendeld. Betaal het abonnement voor {child.nickname} om ze te ontgrendelen.",
   "verify_email_subject": "Bevestig je e-mail adres",
   "event_you_are_connected": "Je bent nu verbonden met {child.nickname}!",
