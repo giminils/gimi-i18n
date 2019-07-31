@@ -179,7 +179,7 @@
   "push_exceed_weekly_limit": "{child.nickname} overskred den ukentlige utgiftsgrensen!",
   "event_exceed_monthly_limit": "{child.nickname} overskred den månedlige utgiftsgrensen!",
   "push_exceed_monthly_limit": "{child.nickname} overskred den månedlige utgiftsgrensen!",
-  "event_pfs_payday": "Det er utbetalingsdag for {child.nickname}! ",
+  "event_pfs_payday": "Det er Payday for {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "Gimi-kortet er blokkert. Betal abonnementsavgiften for {child.nickname} for å fjerne blokkeringen.",
   "verify_email_subject": "Bekreft e-postadressen din",
   "event_you_are_connected": "Du er nå koblet opp mot {child.nickname}!",
