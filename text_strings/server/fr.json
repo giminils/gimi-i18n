@@ -179,7 +179,7 @@
   "push_exceed_weekly_limit": "{child.nickname} vient de dépasser la limite de dépense hebdomadaire!",
   "event_exceed_monthly_limit": "{child.nickname} vient de dépasser la limite de dépense mensuel!",
   "push_exceed_monthly_limit": "{child.nickname} vient de dépasser la limite de dépense mensuel!",
-  "event_pfs_payday": "C'est payday pour {child.nickname}! ",
+  "event_pfs_payday": "C'est Payday pour {child.nickname}! ",
   "push_subscription_not_paid_card_blocked": "La carte Gimi est verrouillée. Payer les frais d'abonnement pour {child.nickname} pour la débloquer.",
   "verify_email_subject": "Confirmez votre addresse email",
   "event_you_are_connected": "Vous êtes maintenant connecté avec {child.nickname}!",
