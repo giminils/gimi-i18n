@@ -2691,5 +2691,10 @@
   "kid_custom_note_feature_721": "PLZ_TRANSLATE Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎",
   "stripe_trying_to_add_gimi_card_error": "PLZ_TRANSLATE Wrong card! Add your own to make transfers from.",
   "cant_connect_to_yourself_popover_title": "PLZ_TRANSLATE You can't connect with yourself!",
-  "cant_connect_to_yourself_popover_text": "PLZ_TRANSLATE This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app."
+  "cant_connect_to_yourself_popover_text": "PLZ_TRANSLATE This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app.",
+  "lysa_settings_title": "PLZ_TRANSLATE Lysa settings",
+  "lysa_settings_for_name": "PLZ_TRANSLATE Lysa for %1$d",
+  "lysa_settings_activated_autogiro": "PLZ_TRANSLATE Autogiro activated",
+  "lysa_settings_start_saving_button": "PLZ_TRANSLATE Start saving monthly",
+  "lysa_settings_open_account": "PLZ_TRANSLATE Open account"
 }

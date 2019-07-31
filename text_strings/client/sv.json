@@ -2691,5 +2691,10 @@
   "kid_custom_note_feature_721": "Dela Piggy med en kompis för att berätta hur du mår idag! 😁😍😎 ",
   "stripe_trying_to_add_gimi_card_error": "PLZ_CHECK Wrong card! Add your own to make transfers from.",
   "cant_connect_to_yourself_popover_title": "PLZ_CHECK You can't connect with yourself!",
-  "cant_connect_to_yourself_popover_text": "PLZ_CHECK This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app."
+  "cant_connect_to_yourself_popover_text": "PLZ_CHECK This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app.",
+  "lysa_settings_title": "PLZ_CHECK Lysa settings",
+  "lysa_settings_for_name": "PLZ_CHECK Lysa for %1$d",
+  "lysa_settings_activated_autogiro": "PLZ_CHECK Autogiro activated",
+  "lysa_settings_start_saving_button": "PLZ_CHECK Start saving monthly",
+  "lysa_settings_open_account": "PLZ_CHECK Open account"
 }
