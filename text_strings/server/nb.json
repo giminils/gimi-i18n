@@ -374,7 +374,7 @@
   "CHGERE035_notification_title": "{parent.nickname} la til en utgift. Du får mindre på lønningsdagen...",
   "CHGERE035_push_title": "{parent.nickname} la til en utgift!",
   "active_email_subject": "Fullfør oppsett av kortet ditt med {wallet_provider}",
-  "ADGERE021_notification_title_v2": "Bestem ukentlig eller månedlig godtgjørelse for {child.nickname}",
+  "ADGERE021_notification_title_v2": "Legg til uke- eller månedspenger for {child.nickname}",
   "ADGERE039_push_title": "Du har et nytt oppgaveforslag fra {tasksuggestion.child.nickname}",
   "ADGERE039_notification_title": "Du fikk et oppgaveforslag {child.nickname}",
   "CHGERE037_push_title": "Du har en ny oppgave som venter på å bli gjort!",
