@@ -1295,7 +1295,7 @@
   "premium_intro_card_desc": "Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters!",
   "premium_intro_read_more_about_card": "Read more about the card",
   "premium_intro_get_premium_button": "Get Master",
-  "activate_new_card": "Activate your new card",
+  "activate_new_card": "PLZ_COPY Activate your new card",
   "card_was_lost_info": "Card was lost, but a new card is on it's way!",
   "you_have_been_disconnected_title": "You have been disconnected",
   "you_have_been_disconnected_desc": "%1$d deleted your connection. The money that %1$d owed you have been removed from your Savings and you are no longer connected.",
