@@ -379,7 +379,7 @@
   "ADGERE039_notification_title": "Du fikk et oppgaveforslag {child.nickname}",
   "CHGERE037_push_title": "Du har en ny oppgave som venter på å bli gjort!",
   "CHGERE037_notification_title": "{parent.nickname} har akseptert forslaget ditt!",
-  "CHGERE036_notification_title": "{parent.nickname} avslo forslaget ditt: {Tasksuggestion.title}. Foreslå ny oppgave?",
+  "CHGERE036_notification_title": "{parent.nickname} avslo forslaget ditt: {tasksuggestion.title}. Foreslå ny oppgave?",
   "CHGERE036_push_title": "Oppgaveforslag avslått!",
   "CHGEPU038_push_title": "Å nei! Oppdater Gimi i App Store nå!",
   "CHGEPU039_push_title": "Å nei! Oppdater Gimi i Play Store nå!",
