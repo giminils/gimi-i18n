@@ -256,7 +256,7 @@
   "push_child_spend": "💳 Du spenderade precis {pfstransactionstatement.str_amount} på {pfstransactionstatement.merchant_name}",
   "push_child_spend_to_parent": "💳 {pfstransactionstatement.card.user.nickname} spenderade {pfstransactionstatement.str_amount} på {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "Du har en ny uppgift som väntar på dig!",
-  "CHGERE030_notification_title": "{parent.nickname} har godkänt ditt förslag på uppgift!",
+  "CHGERE030_notification_title": "{parent.nickname} har godkänt ditt förslag!",
   "push_add_chores": "{child.nickname} har inga uppgifter än. Inspireras av våra uppgifter!",
   "CHGERE031_notification_title": "Du har en uppgift att göra idag!",
   "event_send_invite_reminder": "Din inbjudan har inte accepterats. Skicka en påminnelse!",
