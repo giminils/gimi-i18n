@@ -2698,5 +2698,6 @@
   "lysa_settings_start_saving_button": "Inizia a risparmiare mensilmente",
   "lysa_settings_open_account": "Apri conto",
   "not_main_parent_cant_buy_card_for_kid_popover_title": "PLZ_TRANSLATE You can't order card",
-  "not_main_parent_cant_buy_card_for_kid_popover_text": "PLZ_TRANSLATE Only the supporter who paid for the subscription can order the card for %1$d."
+  "not_main_parent_cant_buy_card_for_kid_popover_text": "PLZ_TRANSLATE Only the supporter who paid for the subscription can order the card for %1$d.",
+  "kid_with_sub_without_card_promotion": "PLZ_TRANSLATE Don't forget to order the Gimi card!"
 }
