@@ -2696,5 +2696,7 @@
   "lysa_settings_for_name": "PLZ_TRANSLATE Lysa for %1$d",
   "lysa_settings_activated_autogiro": "PLZ_TRANSLATE Autogiro activated",
   "lysa_settings_start_saving_button": "PLZ_TRANSLATE Start saving monthly",
-  "lysa_settings_open_account": "PLZ_TRANSLATE Open account"
+  "lysa_settings_open_account": "PLZ_TRANSLATE Open account",
+  "not_main_parent_cant_buy_card_for_kid_popover_title": "PLZ_TRANSLATE You can't order card",
+  "not_main_parent_cant_buy_card_for_kid_popover_text": "PLZ_TRANSLATE Only the supporter who paid for the subscription can order the card for %1$d."
 }
