@@ -234,6 +234,56 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: false,
+        chapterID: 'earn_chapter_6',
+        icon: 'iconMedalFirst',
+        chapterName: 'Top that job',
+        titleLangKey: 'earn_chapter_6',
+        content: {
+          chapterIntroLangKey: 'earn_chapter_6_intro',
+          chapterSessionDescLangKey: 'earn_chapter_6_desc',
+          forAgesLangKey: 'earn_chapter_6_age',
+          ageAdaptionLangKey: 'earn_chapter_6_age_adaption',
+          learningOutcomesLangKey: 'earn_chapter_6_learning_outcome',
+          onCompletion: 'earn_chapter_6_on_completion',
+          extras: 'earn_chapter_6_extra',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'earn_chapter_6_step_1_title',
+              descLangKey: 'earn_chapter_6_step_1_desc',
+              ideaLangKey: 'earn_chapter_6_step_1_idea'
+            },
+            {
+              titleLangKey: 'earn_chapter_6_step_2_title',
+              descLangKey: 'earn_chapter_6_step_2_desc',
+              ideaLangKey: 'earn_chapter_6_step_2_idea'
+            },
+            {
+              titleLangKey: 'earn_chapter_6_step_3_title',
+              descLangKey: 'earn_chapter_6_step_3_desc',
+              ideaLangKey: 'earn_chapter_6_step_3_idea'
+            },
+            {
+              titleLangKey: 'earn_chapter_6_step_4_title',
+              descLangKey: 'earn_chapter_6_step_4_desc',
+              ideaLangKey: 'earn_chapter_6_step3_4_idea'
+            },
+            {
+              titleLangKey: 'earn_chapter_6_step_5_title',
+              descLangKey: 'earn_chapter_6_step_5_desc',
+              ideaLangKey: 'earn_chapter_6_step_5_idea'
+            }
+          ]
+        }
       }
     ]
   },
