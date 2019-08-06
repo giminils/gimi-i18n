@@ -526,6 +526,7 @@ export default [
       {
         ...defaultChapter,
         available: true,
+        onlyAvailableInCountries: ['UK', 'GB'],
         chapterID: 'save_chapter_6',
         icon: 'iconMagicWand',
         chapterName: 'Track my cash',
