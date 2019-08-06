@@ -45,19 +45,22 @@ export default [
               image: EDUCATION_STATIC_PATH + 'earn/earnChapter1Image0.png', // NEW, doesnt have to be set. Will try to default to correct static if not set
               titleLangKey: 'earn_chapter_1_step_1_title',
               descLangKey: 'earn_chapter_1_step_1_desc',
-              extraInfoLangKey: 'earn_chapter_1_step_1_extra'
+              ideaLangKey: 'earn_chapter_1_step_1_idea'
             },
             {
               titleLangKey: 'earn_chapter_1_step_2_title',
-              descLangKey: 'earn_chapter_1_step_2_desc'
+              descLangKey: 'earn_chapter_1_step_2_desc',
+              ideaLangKey: 'earn_chapter_1_step_2_idea'
             },
             {
               titleLangKey: 'earn_chapter_1_step_3_title',
-              descLangKey: 'earn_chapter_1_step_3_desc'
+              descLangKey: 'earn_chapter_1_step_3_desc',
+              ideaLangKey: 'earn_chapter_1_step_3_idea'
             },
             {
               titleLangKey: 'earn_chapter_1_step_4_title',
-              descLangKey: 'earn_chapter_1_step_4_desc'
+              descLangKey: 'earn_chapter_1_step_4_desc',
+              ideaLangKey: 'earn_chapter_1_step_4_idea'
             }
           ]
         }
@@ -86,23 +89,28 @@ export default [
           slideContent: [
             {
               titleLangKey: 'earn_chapter_2_step_1_title',
-              descLangKey: 'earn_chapter_2_step_1_desc'
+              descLangKey: 'earn_chapter_2_step_1_desc',
+              ideaLangKey: 'earn_chapter_2_step_1_idea'
             },
             {
               titleLangKey: 'earn_chapter_2_step_2_title',
-              descLangKey: 'earn_chapter_2_step_2_desc'
+              descLangKey: 'earn_chapter_2_step_2_desc',
+              ideaLangKey: 'earn_chapter_2_step_2_idea'
             },
             {
               titleLangKey: 'earn_chapter_2_step_3_title',
-              descLangKey: 'earn_chapter_2_step_3_desc'
+              descLangKey: 'earn_chapter_2_step_3_desc',
+              ideaLangKey: 'earn_chapter_2_step_3_idea'
             },
             {
               titleLangKey: 'earn_chapter_2_step_4_title',
-              descLangKey: 'earn_chapter_2_step_4_desc'
+              descLangKey: 'earn_chapter_2_step_4_desc',
+              ideaLangKey: 'earn_chapter_2_step_4_idea'
             },
             {
               titleLangKey: 'earn_chapter_2_step_5_title',
-              descLangKey: 'earn_chapter_2_step_5_desc'
+              descLangKey: 'earn_chapter_2_step_5_desc',
+              ideaLangKey: 'earn_chapter_2_step_5_idea'
             }
           ]
         }
@@ -131,15 +139,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'earn_chapter_3_step_1_title',
-              descLangKey: 'earn_chapter_3_step_1_desc'
+              descLangKey: 'earn_chapter_3_step_1_desc',
+              ideaLangKey: 'earn_chapter_3_step_1_idea'
             },
             {
               titleLangKey: 'earn_chapter_3_step_2_title',
-              descLangKey: 'earn_chapter_3_step_2_desc'
+              descLangKey: 'earn_chapter_3_step_2_desc',
+              ideaLangKey: 'earn_chapter_3_step_2_idea'
             },
             {
               titleLangKey: 'earn_chapter_3_step_3_title',
-              descLangKey: 'earn_chapter_3_step_3_desc'
+              descLangKey: 'earn_chapter_3_step_3_desc',
+              ideaLangKey: 'earn_chapter_3_step_3_idea'
             }
           ]
         }
@@ -168,15 +179,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'earn_chapter_4_step_1_title',
-              descLangKey: 'earn_chapter_4_step_1_desc'
+              descLangKey: 'earn_chapter_4_step_1_desc',
+              ideaLangKey: 'earn_chapter_4_step_1_idea'
             },
             {
               titleLangKey: 'earn_chapter_4_step_2_title',
-              descLangKey: 'earn_chapter_4_step_2_desc'
+              descLangKey: 'earn_chapter_4_step_2_desc',
+              ideaLangKey: 'earn_chapter_4_step_2_idea'
             },
             {
               titleLangKey: 'earn_chapter_4_step_3_title',
-              descLangKey: 'earn_chapter_4_step_3_desc'
+              descLangKey: 'earn_chapter_4_step_3_desc',
+              ideaLangKey: 'earn_chapter_4_step_3_idea'
             }
           ]
         }
@@ -205,15 +219,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'earn_chapter_5_step_1_title',
-              descLangKey: 'earn_chapter_5_step_1_desc'
+              descLangKey: 'earn_chapter_5_step_1_desc',
+              ideaLangKey: 'earn_chapter_5_step_1_idea'
             },
             {
               titleLangKey: 'earn_chapter_5_step_2_title',
-              descLangKey: 'earn_chapter_5_step_2_desc'
+              descLangKey: 'earn_chapter_5_step_2_desc',
+              ideaLangKey: 'earn_chapter_5_step_2_idea'
             },
             {
               titleLangKey: 'earn_chapter_5_step_3_title',
-              descLangKey: 'earn_chapter_5_step_3_desc'
+              descLangKey: 'earn_chapter_5_step_3_desc',
+              ideaLangKey: 'earn_chapter_5_step_3_idea'
             }
           ]
         }
@@ -250,15 +267,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_1_step_1_title',
-              descLangKey: 'save_chapter_1_step_1_desc'
+              descLangKey: 'save_chapter_1_step_1_desc',
+              ideaLangKey: 'save_chapter_1_step_1_idea'
             },
             {
               titleLangKey: 'save_chapter_1_step_2_title',
-              descLangKey: 'save_chapter_1_step_2_desc'
+              descLangKey: 'save_chapter_1_step_2_desc',
+              ideaLangKey: 'save_chapter_1_step_2_idea'
             },
             {
               titleLangKey: 'save_chapter_1_step_3_title',
-              descLangKey: 'save_chapter_1_step_3_desc'
+              descLangKey: 'save_chapter_1_step_3_desc',
+              ideaLangKey: 'save_chapter_1_step_3_idea'
             }
           ]
         }
@@ -287,15 +307,18 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_2_step_1_title',
-              descLangKey: 'save_chapter_2_step_1_desc'
+              descLangKey: 'save_chapter_2_step_1_desc',
+              ideaLangKey: 'save_chapter_2_step_1_idea'
             },
             {
               titleLangKey: 'save_chapter_2_step_2_title',
-              descLangKey: 'save_chapter_2_step_2_desc'
+              descLangKey: 'save_chapter_2_step_2_desc',
+              ideaLangKey: 'save_chapter_2_step_2_idea'
             },
             {
               titleLangKey: 'save_chapter_2_step_3_title',
-              descLangKey: 'save_chapter_2_step_3_desc'
+              descLangKey: 'save_chapter_2_step_3_desc',
+              ideaLangKey: 'save_chapter_2_step_3_idea'
             }
           ]
         }
@@ -324,23 +347,28 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_3_step_1_title',
-              descLangKey: 'save_chapter_3_step_1_desc'
+              descLangKey: 'save_chapter_3_step_1_desc',
+              ideaLangKey: 'save_chapter_3_step_1_idea'
             },
             {
               titleLangKey: 'save_chapter_3_step_2_title',
-              descLangKey: 'save_chapter_3_step_2_desc'
+              descLangKey: 'save_chapter_3_step_2_desc',
+              ideaLangKey: 'save_chapter_3_step_2_idea'
             },
             {
               titleLangKey: 'save_chapter_3_step_3_title',
-              descLangKey: 'save_chapter_3_step_3_desc'
+              descLangKey: 'save_chapter_3_step_3_desc',
+              ideaLangKey: 'save_chapter_3_step_3_idea'
             },
             {
               titleLangKey: 'save_chapter_3_step_4_title',
-              descLangKey: 'save_chapter_3_step_4_desc'
+              descLangKey: 'save_chapter_3_step_4_desc',
+              ideaLangKey: 'save_chapter_3_step_4_idea'
             },
             {
               titleLangKey: 'save_chapter_3_step_5_title',
-              descLangKey: 'save_chapter_3_step_5_desc'
+              descLangKey: 'save_chapter_3_step_5_desc',
+              ideaLangKey: 'save_chapter_3_step_5_idea'
             }
           ]
         }
@@ -369,23 +397,28 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_4_step_1_title',
-              descLangKey: 'save_chapter_4_step_1_desc'
+              descLangKey: 'save_chapter_4_step_1_desc',
+              ideaLangKey: 'save_chapter_4_step_1_idea'
             },
             {
               titleLangKey: 'save_chapter_4_step_2_title',
-              descLangKey: 'save_chapter_4_step_2_desc'
+              descLangKey: 'save_chapter_4_step_2_desc',
+              ideaLangKey: 'save_chapter_4_step_2_idea'
             },
             {
               titleLangKey: 'save_chapter_4_step_3_title',
-              descLangKey: 'save_chapter_4_step_3_desc'
+              descLangKey: 'save_chapter_4_step_3_desc',
+              ideaLangKey: 'save_chapter_4_step_3_idea'
             },
             {
               titleLangKey: 'save_chapter_4_step_4_title',
-              descLangKey: 'save_chapter_4_step_4_desc'
+              descLangKey: 'save_chapter_4_step_4_desc',
+              ideaLangKey: 'save_chapter_4_step_4_idea'
             },
             {
               titleLangKey: 'save_chapter_4_step_5_title',
-              descLangKey: 'save_chapter_4_step_5_desc'
+              descLangKey: 'save_chapter_4_step_5_desc',
+              ideaLangKey: 'save_chapter_4_step_5_idea'
             }
           ]
         }
@@ -414,23 +447,28 @@ export default [
           slideContent: [
             {
               titleLangKey: 'save_chapter_5_step_1_title',
-              descLangKey: 'save_chapter_5_step_1_desc'
+              descLangKey: 'save_chapter_5_step_1_desc',
+              ideaLangKey: 'save_chapter_5_step_1_idea'
             },
             {
               titleLangKey: 'save_chapter_5_step_2_title',
-              descLangKey: 'save_chapter_5_step_2_desc'
+              descLangKey: 'save_chapter_5_step_2_desc',
+              ideaLangKey: 'save_chapter_5_step_2_idea'
             },
             {
               titleLangKey: 'save_chapter_5_step_3_title',
-              descLangKey: 'save_chapter_5_step_3_desc'
+              descLangKey: 'save_chapter_5_step_3_desc',
+              ideaLangKey: 'save_chapter_5_step_3_idea'
             },
             {
               titleLangKey: 'save_chapter_5_step_4_title',
-              descLangKey: 'save_chapter_5_step_4_desc'
+              descLangKey: 'save_chapter_5_step_4_desc',
+              ideaLangKey: 'save_chapter_5_step_4_idea'
             },
             {
               titleLangKey: 'save_chapter_5_step_5_title',
-              descLangKey: 'save_chapter_5_step_5_desc'
+              descLangKey: 'save_chapter_5_step_5_desc',
+              ideaLangKey: 'save_chapter_5_step_5_idea'
             }
           ]
         }
@@ -467,19 +505,23 @@ export default [
           slideContent: [
             {
               titleLangKey: 'spend_chapter_1_step_1_title',
-              descLangKey: 'spend_chapter_1_step_1_desc'
+              descLangKey: 'spend_chapter_1_step_1_desc',
+              ideaLangKey: 'spend_chapter_1_step_1_idea'
             },
             {
               titleLangKey: 'spend_chapter_1_step_2_title',
-              descLangKey: 'spend_chapter_1_step_2_desc'
+              descLangKey: 'spend_chapter_1_step_2_desc',
+              ideaLangKey: 'spend_chapter_1_step_2_idea'
             },
             {
               titleLangKey: 'spend_chapter_1_step_3_title',
-              descLangKey: 'spend_chapter_1_step_3_desc'
+              descLangKey: 'spend_chapter_1_step_3_desc',
+              ideaLangKey: 'spend_chapter_1_step_3_idea'
             },
             {
               titleLangKey: 'spend_chapter_1_step_4_title',
-              descLangKey: 'spend_chapter_1_step_4_desc'
+              descLangKey: 'spend_chapter_1_step_4_desc',
+              ideaLangKey: 'spend_chapter_1_step_4_idea'
             }
           ]
         }
@@ -508,19 +550,23 @@ export default [
           slideContent: [
             {
               titleLangKey: 'spend_chapter_2_step_1_title',
-              descLangKey: 'spend_chapter_2_step_1_desc'
+              descLangKey: 'spend_chapter_2_step_1_desc',
+              ideaLangKey: 'spend_chapter_2_step_1_idea'
             },
             {
               titleLangKey: 'spend_chapter_2_step_2_title',
-              descLangKey: 'spend_chapter_2_step_2_desc'
+              descLangKey: 'spend_chapter_2_step_2_desc',
+              ideaLangKey: 'spend_chapter_2_step_2_idea'
             },
             {
               titleLangKey: 'spend_chapter_2_step_3_title',
-              descLangKey: 'spend_chapter_2_step_3_desc'
+              descLangKey: 'spend_chapter_2_step_3_desc',
+              ideaLangKey: 'spend_chapter_2_step_3_idea'
             },
             {
               titleLangKey: 'spend_chapter_2_step_4_title',
-              descLangKey: 'spend_chapter_2_step_4_desc'
+              descLangKey: 'spend_chapter_2_step_4_desc',
+              ideaLangKey: 'spend_chapter_2_step_4_idea'
             }
           ]
         }
@@ -549,19 +595,23 @@ export default [
           slideContent: [
             {
               titleLangKey: 'spend_chapter_3_step_1_title',
-              descLangKey: 'spend_chapter_3_step_1_desc'
+              descLangKey: 'spend_chapter_3_step_1_desc',
+              ideaLangKey: 'spend_chapter_3_step_1_idea'
             },
             {
               titleLangKey: 'spend_chapter_3_step_2_title',
-              descLangKey: 'spend_chapter_3_step_2_desc'
+              descLangKey: 'spend_chapter_3_step_2_desc',
+              ideaLangKey: 'spend_chapter_3_step_2_idea'
             },
             {
               titleLangKey: 'spend_chapter_3_step_3_title',
-              descLangKey: 'spend_chapter_3_step_3_desc'
+              descLangKey: 'spend_chapter_3_step_3_desc',
+              ideaLangKey: 'spend_chapter_3_step_3_idea'
             },
             {
               titleLangKey: 'spend_chapter_3_step_4_title',
-              descLangKey: 'spend_chapter_3_step_4_desc'
+              descLangKey: 'spend_chapter_3_step_4_desc',
+              ideaLangKey: 'spend_chapter_3_step_4_idea'
             }
           ]
         }
@@ -590,19 +640,23 @@ export default [
           slideContent: [
             {
               titleLangKey: 'spend_chapter_4_step_1_title',
-              descLangKey: 'spend_chapter_4_step_1_desc'
+              descLangKey: 'spend_chapter_4_step_1_desc',
+              ideaLangKey: 'spend_chapter_4_step_1_idea'
             },
             {
               titleLangKey: 'spend_chapter_4_step_2_title',
-              descLangKey: 'spend_chapter_4_step_2_desc'
+              descLangKey: 'spend_chapter_4_step_2_desc',
+              ideaLangKey: 'spend_chapter_4_step_2_idea'
             },
             {
               titleLangKey: 'spend_chapter_4_step_3_title',
-              descLangKey: 'spend_chapter_4_step_3_desc'
+              descLangKey: 'spend_chapter_4_step_3_desc',
+              ideaLangKey: 'spend_chapter_4_step_3_idea'
             },
             {
               titleLangKey: 'spend_chapter_4_step_4_title',
-              descLangKey: 'spend_chapter_4_step_4_desc'
+              descLangKey: 'spend_chapter_4_step_4_desc',
+              ideaLangKey: 'spend_chapter_4_step_4_idea'
             }
           ]
         }
@@ -632,19 +686,23 @@ export default [
           slideContent: [
             {
               titleLangKey: 'spend_chapter_5_step_1_title',
-              descLangKey: 'spend_chapter_5_step_1_desc'
+              descLangKey: 'spend_chapter_5_step_1_desc',
+              ideaLangKey: 'spend_chapter_5_step_1_idea'
             },
             {
               titleLangKey: 'spend_chapter_5_step_2_title',
-              descLangKey: 'spend_chapter_5_step_2_desc'
+              descLangKey: 'spend_chapter_5_step_2_desc',
+              ideaLangKey: 'spend_chapter_5_step_2_idea'
             },
             {
               titleLangKey: 'spend_chapter_5_step_3_title',
-              descLangKey: 'spend_chapter_5_step_3_desc'
+              descLangKey: 'spend_chapter_5_step_3_desc',
+              ideaLangKey: 'spend_chapter_5_step_3_idea'
             },
             {
               titleLangKey: 'spend_chapter_5_step_4_title',
-              descLangKey: 'spend_chapter_5_step_4_desc'
+              descLangKey: 'spend_chapter_5_step_4_desc',
+              ideaLangKey: 'spend_chapter_5_step_4_idea'
             }
           ]
         }
@@ -674,23 +732,28 @@ export default [
           slideContent: [
             {
               titleLangKey: 'spend_chapter_6_step_1_title',
-              descLangKey: 'spend_chapter_6_step_1_desc'
+              descLangKey: 'spend_chapter_6_step_1_desc',
+              ideaLangKey: 'spend_chapter_6_step_1_idea'
             },
             {
               titleLangKey: 'spend_chapter_6_step_2_title',
-              descLangKey: 'spend_chapter_6_step_2_desc'
+              descLangKey: 'spend_chapter_6_step_2_desc',
+              ideaLangKey: 'spend_chapter_6_step_2_idea'
             },
             {
               titleLangKey: 'spend_chapter_6_step_3_title',
-              descLangKey: 'spend_chapter_6_step_3_desc'
+              descLangKey: 'spend_chapter_6_step_3_desc',
+              ideaLangKey: 'spend_chapter_6_step_3_idea'
             },
             {
               titleLangKey: 'spend_chapter_6_step_4_title',
-              descLangKey: 'spend_chapter_6_step_4_desc'
+              descLangKey: 'spend_chapter_6_step_4_desc',
+              ideaLangKey: 'spend_chapter_6_step_4_idea'
             },
             {
               titleLangKey: 'spend_chapter_6_step_5_title',
-              descLangKey: 'spend_chapter_6_step_5_desc'
+              descLangKey: 'spend_chapter_6_step_5_desc',
+              ideaLangKey: 'spend_chapter_6_step_5_idea'
             }
           ]
         }
