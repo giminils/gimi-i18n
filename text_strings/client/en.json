@@ -2699,5 +2699,12 @@
   "lysa_settings_open_account": "Open account",
   "not_main_parent_cant_buy_card_for_kid_popover_title": "You can't order card",
   "not_main_parent_cant_buy_card_for_kid_popover_text": "Only the supporter who paid for the subscription can order the card for %1$d.",
-  "kid_with_sub_without_card_promotion": "Don't forget to order the Gimi card!"
+  "kid_with_sub_without_card_promotion": "Don't forget to order the Gimi card!",
+  "card_waitlist_title": "",
+  "card_waitlist_headline_1": "",
+  "card_waitlist_desc_1": "",
+  "card_waitlist_headline_2": "",
+  "card_waitlist_desc_2": "",
+  "card_waitlist_headline_3": "",
+  "card_waitlist_desc_3": ""
 }

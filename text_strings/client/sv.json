@@ -2699,5 +2699,12 @@
   "lysa_settings_open_account": "PLZ_CHECK Open account",
   "not_main_parent_cant_buy_card_for_kid_popover_title": "PLZ_CHECK You can't order card",
   "not_main_parent_cant_buy_card_for_kid_popover_text": "PLZ_CHECK Only the supporter who paid for the subscription can order the card for %1$d.",
-  "kid_with_sub_without_card_promotion": "PLZ_CHECK Don't forget to order the Gimi card!"
+  "kid_with_sub_without_card_promotion": "PLZ_CHECK Don't forget to order the Gimi card!",
+  "card_waitlist_title": "PLZ_CHECK ",
+  "card_waitlist_headline_1": "PLZ_CHECK ",
+  "card_waitlist_desc_1": "PLZ_CHECK ",
+  "card_waitlist_headline_2": "PLZ_CHECK ",
+  "card_waitlist_desc_2": "PLZ_CHECK ",
+  "card_waitlist_headline_3": "PLZ_CHECK ",
+  "card_waitlist_desc_3": "PLZ_CHECK "
 }
