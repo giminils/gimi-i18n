@@ -522,6 +522,51 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: true,
+        chapterID: 'save_chapter_6',
+        icon: 'iconMagicWand',
+        chapterName: 'Track my cash',
+        titleLangKey: 'save_chapter_6',
+        content: {
+          chapterIntroLangKey: 'save_chapter_6_intro',
+          chapterSessionDescLangKey: 'save_chapter_6_desc',
+          forAgesLangKey: 'save_chapter_6_age',
+          ageAdaptionLangKey: 'save_chapter_6_age_adaption',
+          learningOutcomesLangKey: 'save_chapter_6_learning_outcome',
+          onCompletion: 'save_chapter_6_on_completion',
+          extras: 'save_chapter_6_extra',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'save_chapter_6_step_1_title',
+              descLangKey: 'save_chapter_6_step_1_desc',
+              ideaLangKey: 'save_chapter_6_step_1_idea'
+            },
+            {
+              titleLangKey: 'save_chapter_6_step_2_title',
+              descLangKey: 'save_chapter_6_step_2_desc',
+              ideaLangKey: 'save_chapter_6_step_2_idea'
+            },
+            {
+              titleLangKey: 'save_chapter_6_step_3_title',
+              descLangKey: 'save_chapter_6_step_3_desc',
+              ideaLangKey: 'save_chapter_6_step_3_idea'
+            },
+            {
+              titleLangKey: 'save_chapter_6_step_4_title',
+              descLangKey: 'save_chapter_6_step_4_desc',
+              ideaLangKey: 'save_chapter_6_step_4_idea'
+            }
+          ]
+        }
       }
     ]
   },
