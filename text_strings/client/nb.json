@@ -2700,11 +2700,11 @@
   "not_main_parent_cant_buy_card_for_kid_popover_title": "PLZ_TRANSLATE You can't order card",
   "not_main_parent_cant_buy_card_for_kid_popover_text": "PLZ_TRANSLATE Only the supporter who paid for the subscription can order the card for %1$d.",
   "kid_with_sub_without_card_promotion": "PLZ_TRANSLATE Don't forget to order the Gimi card!",
-  "card_waitlist_title": "PLZ_TRANSLATE ",
-  "card_waitlist_headline_1": "PLZ_TRANSLATE ",
-  "card_waitlist_desc_1": "PLZ_TRANSLATE ",
-  "card_waitlist_headline_2": "PLZ_TRANSLATE ",
-  "card_waitlist_desc_2": "PLZ_TRANSLATE ",
-  "card_waitlist_headline_3": "PLZ_TRANSLATE ",
-  "card_waitlist_desc_3": "PLZ_TRANSLATE "
+  "card_waitlist_title": "PLZ_TRANSLATE Lorem ipsum",
+  "card_waitlist_headline_1": "PLZ_TRANSLATE Lorem ipsum",
+  "card_waitlist_desc_1": "PLZ_TRANSLATE Lorem ipsum",
+  "card_waitlist_headline_2": "PLZ_TRANSLATE Lorem ipsum",
+  "card_waitlist_desc_2": "PLZ_TRANSLATE Lorem ipsum",
+  "card_waitlist_headline_3": "PLZ_TRANSLATE Lorem ipsum",
+  "card_waitlist_desc_3": "PLZ_TRANSLATE Lorem ipsum"
 }
