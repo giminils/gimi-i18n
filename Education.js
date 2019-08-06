@@ -237,7 +237,8 @@ export default [
       },
       {
         ...defaultChapter,
-        available: false,
+        available: true,
+        onlyAvailableInCountries: ['UK', 'GB'],
         chapterID: 'earn_chapter_6',
         icon: 'iconMedalFirst',
         chapterName: 'Top that job',
