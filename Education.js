@@ -853,6 +853,53 @@ export default [
             }
           ]
         }
+      },
+      {
+        ...defaultChapter,
+        available: true,
+        onlyAvailableInCountries: ['UK', 'GB'],
+        isPremium: true,
+        chapterID: 'spend_chapter_7',
+        icon: 'iconCashier',
+        chapterName: 'Coin checker challenge',
+        titleLangKey: 'spend_chapter_7',
+        content: {
+          chapterIntroLangKey: 'spend_chapter_7_intro',
+          chapterSessionDescLangKey: 'spend_chapter_7_desc',
+          forAgesLangKey: 'spend_chapter_7_age',
+          ageAdaptionLangKey: 'spend_chapter_7_age_adaption',
+          learningOutcomesLangKey: 'spend_chapter_7_learning_outcome',
+          onCompletion: 'spend_chapter_7_on_completion',
+          extras: 'spend_chapter_7_extra',
+          relatedLinks: [ // NEW
+            // {
+            //   displayLangKey: 'general_name',
+            //   url: 'https://matzielab.com'
+            // }
+          ],
+          slideContent: [
+            {
+              titleLangKey: 'spend_chapter_7_step_1_title',
+              descLangKey: 'spend_chapter_7_step_1_desc',
+              ideaLangKey: 'spend_chapter_7_step_1_idea'
+            },
+            {
+              titleLangKey: 'spend_chapter_7_step_2_title',
+              descLangKey: 'spend_chapter_7_step_2_desc',
+              ideaLangKey: 'spend_chapter_7_step_2_idea'
+            },
+            {
+              titleLangKey: 'spend_chapter_7_step_3_title',
+              descLangKey: 'spend_chapter_7_step_3_desc',
+              ideaLangKey: 'spend_chapter_7_step_3_idea'
+            },
+            {
+              titleLangKey: 'spend_chapter_7_step_4_title',
+              descLangKey: 'spend_chapter_7_step_4_desc',
+              ideaLangKey: 'spend_chapter_7_step_4_idea'
+            }
+          ]
+        }
       }
     ]
   }
