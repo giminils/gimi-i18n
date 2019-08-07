@@ -2706,5 +2706,7 @@
   "card_waitlist_headline_2": "PLZ_CHECK Lorem ipsum",
   "card_waitlist_desc_2": "PLZ_CHECK Lorem ipsum",
   "card_waitlist_headline_3": "PLZ_CHECK Lorem ipsum",
-  "card_waitlist_desc_3": "PLZ_CHECK Lorem ipsum"
+  "card_waitlist_desc_3": "PLZ_CHECK Lorem ipsum",
+  "education_on_completion_title": "PLZ_CHECK Nicely done!",
+  "education_end_extras_title": "PLZ_CHECK Looking for more?"
 }
