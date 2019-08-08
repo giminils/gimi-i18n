@@ -858,7 +858,6 @@ export default [
         ...defaultChapter,
         available: true,
         onlyAvailableInCountries: ['UK', 'GB'],
-        isPremium: true,
         chapterID: 'spend_chapter_7',
         icon: 'iconCashier',
         chapterName: 'Coin checker challenge',
