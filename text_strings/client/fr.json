@@ -2718,5 +2718,6 @@
   "parent_custom_note_feature_723": "PLZ_TRANSLATE Lorem ipsum",
   "shareable_card_waitlist_title": "PLZ_TRANSLATE On the waitlist for the Gimi Card!",
   "parent_subscription_settings_empty_non_setupped_kid": "PLZ_TRANSLATE You need to finish setup for %1$d before you can buy a subscription and order the Gimi card!",
-  "parent_subscription_settings_empty_non_setupped_kid_button": "PLZ_TRANSLATE Finish setup"
+  "parent_subscription_settings_empty_non_setupped_kid_button": "PLZ_TRANSLATE Finish setup",
+  "shareable_order_card_done_title": "PLZ_TRANSLATE Just ordered the Gimi card"
 }
