@@ -275,7 +275,7 @@ export default [
             {
               titleLangKey: 'earn_chapter_6_step_4_title',
               descLangKey: 'earn_chapter_6_step_4_desc',
-              ideaLangKey: 'earn_chapter_6_step3_4_idea'
+              ideaLangKey: 'earn_chapter_6_step_4_idea'
             },
             {
               titleLangKey: 'earn_chapter_6_step_5_title',
