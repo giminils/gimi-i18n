@@ -291,7 +291,7 @@
   "ADGERE021_notification_title": "Du har blivit ihopkopplad med {child.nickname}!",
   "ADGERE021_push_title": "Du har blivit ihopkopplad med {child.nickname}!",
   "ADGEON005_notification_title": "Lägg till en profilbild!",
-  "event_settle_your_debt": "{child.nickname} har blivit uppgraderad till Master!",
+  "event_settle_your_debt": "{child.nickname} har uppgraderats till Master, för över riktiga pengar i appen för att betala din skuld!",
   "ADPRON012_notification_title": "Skapa en lösenkod",
   "ADPRON013_notification_title": "Verifiera din mejladress",
   "CHGEON026_notification_title": "{parent.nickname} vill koppla ihop sig med dig!",
