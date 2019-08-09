@@ -291,7 +291,7 @@
   "ADGERE021_notification_title": "You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "You and {child.nickname} are connected!",
   "ADGEON005_notification_title": "Add a profile pic!",
-  "event_settle_your_debt": "{child.nickname} has been upgraded to Master!",
+  "event_settle_your_debt": "{child.nickname} has been upgraded to Master, transfer real money in the app to settle your debt!",
   "ADPRON012_notification_title": "Setup an app passcode",
   "ADPRON013_notification_title": "Verify your email address",
   "CHGEON026_notification_title": "You've got an invitation from {parent.nickname}!",
