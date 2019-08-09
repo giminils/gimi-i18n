@@ -2660,6 +2660,7 @@
   "card_promo_desc_2": "Obtenez-le instantanément dans l'app! L'app et les cartes de plastique peuvent être utilisées dans les magasins, en ligne ou à l'étranger.",
   "card_promo_headline_3": "Les parents gardent le contrôle 👀",
   "card_promo_desc_3": "Transférez de l'argent instantanément, bloquez / débloquez la carte, recevez une notification à chaque fois qu'elle est utilisée.",
+  "card_promo_read_more": "PLZ_TRANSLATE Read more",
   "upgrade_and_order": "Mise à niveau et commande de carte!",
   "edit_payout_min_amount_warning": "Le montant doit être supérieur à%1$d",
   "you_cant_transfer_less_than_n": "PVous ne pouvez pas transférer moins de %1$d...",

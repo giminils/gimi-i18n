@@ -2660,6 +2660,7 @@
   "card_promo_desc_2": "PLZ_TRANSLATE Get it instantly in the app! App & plastic cards can be used in stores, online or abroad.",
   "card_promo_headline_3": "PLZ_TRANSLATE Parents Stay in Control 👀",
   "card_promo_desc_3": "PLZ_TRANSLATE Transfer money instantly, block/unblock the card, get notified each time it’s used.",
+  "card_promo_read_more": "PLZ_TRANSLATE Read more",
   "upgrade_and_order": "PLZ_TRANSLATE Upgrade & order card!",
   "edit_payout_min_amount_warning": "PLZ_TRANSLATE Amount must be greater than %1$d",
   "you_cant_transfer_less_than_n": "PLZ_TRANSLATE You cant transfer less than %1$d...",

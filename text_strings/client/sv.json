@@ -2660,6 +2660,7 @@
   "card_promo_desc_2": "Kortet finns alltid i appen och funkar online. Plastkortet funkar i butik och utomlands. Du beställer det direkt i appen!",
   "card_promo_headline_3": "Föräldrar har kontroll 👀",
   "card_promo_desc_3": "Upptäck nya funktioner, utan dolda avgifter! För över pengar direkt, spärra/öppna kortet och få köpnotiser varje gång det används.",
+  "card_promo_read_more": "Read more",
   "upgrade_and_order": "Uppgradera & beställ kortet!",
   "edit_payout_min_amount_warning": "Summan måste vara större än %1$d",
   "you_cant_transfer_less_than_n": "Du kan inte föra över mindre än %1$d...",
