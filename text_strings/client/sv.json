@@ -1538,7 +1538,7 @@
   "seperated_parents_header": "Hur ska skilda föräldrar betala?",
   "seperated_parents_desc": "Vi föreslår att ni betalar hälften var av den rekommenderade summan. På så sätt får barnet en kontinuerlig och stabil vecko-/månadspeng.",
   "where_money_goes_header": "Vart tar pengarna vägen?",
-  "where_money_goes_desc": "Gimi är inte kopplad till en bank, vilket betyder att pengarna i Gimi inte är riktiga pengar. De representerar summan du är skyldig ditt barn.",
+  "where_money_goes_desc": "Gimi är inte kopplad till en bank, summan i appen är bara siffror som representerar hur mycket riktiga pengar du är skyldig ditt barn.",
   "set_phone_for_kid": "Telefonnummer till %1$d",
   "share_cardtest_score_popover_title": "Vill du dela ditt resultat?",
   "share_cardtest_score_popover_desc": "Du kan dela det med dina föräldrar, eller kanske en kompis?",
@@ -2718,9 +2718,9 @@
   "kid_custom_note_feature_723": "PLZ_CHECK Lorem ipsum",
   "parent_custom_note_feature_723": "PLZ_CHECK Lorem ipsum",
   "shareable_card_waitlist_title": "Jag är på väntelistan för Gimi-kortet!",
-  "parent_subscription_settings_empty_non_setupped_kid": "PLZ_CHECK You need to finish setup for %1$d before you can buy a subscription and order the Gimi card!",
-  "parent_subscription_settings_empty_non_setupped_kid_button": "PLZ_CHECK Finish setup",
+  "parent_subscription_settings_empty_non_setupped_kid": "Lägg in mer information om %1$d  för att köpa en prenumeration och beställa Gimi-kortet!",
+  "parent_subscription_settings_empty_non_setupped_kid_button": "Lägg till info",
   "shareable_order_card_done_title": "Jag har beställt Gimi-kortet!",
   "piggy_space_game_url": "PLZ_CHECK https://gimi-org.github.io/PiggySpaceAdventure/index.html",
-  "card_enabled_savings_to_card": "PLZ_CHECK placeholder"
+  "card_enabled_savings_to_card": "Lås konto"
 }

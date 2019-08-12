@@ -1538,7 +1538,7 @@
   "seperated_parents_header": "Miten erillään asuvat vanhemmat maksavat? ",
   "seperated_parents_desc": "Me suosittelemme, että maksatte puolet sovitusta rahasta joka viikko tai kuukausi. Näin lapsenne saa jatkuvaa ja vakaata viikko- tai kuukausirahaa",
   "where_money_goes_header": "Where does the money go? header",
-  "where_money_goes_desc": "Where does the money go? desc",
+  "where_money_goes_desc": "PLZ_TRANSLATE Gimi is not connected to a bank, the amount in the app are just numbers that represent how much real money you ow your child.",
   "set_phone_for_kid": "Aseta puhelinnumero lapselle %1$d",
   "share_cardtest_score_popover_title": "Haluatko jakaa tuloksesi?",
   "share_cardtest_score_popover_desc": "Voit jakaa sen vanhemmillesi tai vaikka kavereillesi.",
@@ -2722,5 +2722,5 @@
   "parent_subscription_settings_empty_non_setupped_kid_button": "PLZ_TRANSLATE Finish setup",
   "shareable_order_card_done_title": "PLZ_TRANSLATE I just ordered the Gimi Card!",
   "piggy_space_game_url": "PLZ_TRANSLATE https://gimi-org.github.io/PiggySpaceAdventure/index.html",
-  "card_enabled_savings_to_card": "PLZ_TRANSLATE placeholder"
+  "card_enabled_savings_to_card": "PLZ_TRANSLATE Lock account"
 }
