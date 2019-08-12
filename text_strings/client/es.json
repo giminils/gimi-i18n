@@ -1538,7 +1538,7 @@
   "seperated_parents_header": "¿Cómo deberían pagar los padres separados?",
   "seperated_parents_desc": "Sugerimos que pagues la mitad del monto de recompensa recomendado cada semana o mes. De esta forma su hijo obtiene una recompensa continúa y estable.",
   "where_money_goes_header": "Where does the money go? header",
-  "where_money_goes_desc": "Where does the money go? desc",
+  "where_money_goes_desc": "PLZ_TRANSLATE Gimi is not connected to a bank, the amount in the app are just numbers that represent how much real money you ow your child.",
   "set_phone_for_kid": "Establecer el número telefónico para %1$d",
   "share_cardtest_score_popover_title": "¿Quieres compartir tu resultado?",
   "share_cardtest_score_popover_desc": "¿Quieres compartir esto con tus padres o quizás un amigo?",
@@ -2722,5 +2722,5 @@
   "parent_subscription_settings_empty_non_setupped_kid_button": "PLZ_TRANSLATE Finish setup",
   "shareable_order_card_done_title": "PLZ_TRANSLATE I just ordered the Gimi Card!",
   "piggy_space_game_url": "PLZ_TRANSLATE https://gimi-org.github.io/PiggySpaceAdventure/index.html",
-  "card_enabled_savings_to_card": "PLZ_TRANSLATE placeholder"
+  "card_enabled_savings_to_card": "PLZ_TRANSLATE Lock account"
 }
