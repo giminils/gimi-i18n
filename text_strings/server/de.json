@@ -385,5 +385,5 @@
   "CHGEPU039_push_title": "Oh-ho! Update Gimi jetzt im Play Store!",
   "ADGEPU013_push_title": "Oh-ho! Update Gimi jetzt im App Store!",
   "ADGEPU014_push_title": "Oh-ho! Update Gimi jetzt im Play Store!!",
-  "event_connected_to_parent": "PLZ_TRANSLATE You're now connected with {parent.name}!"
+  "event_connected_to_parent": "PLZ_TRANSLATE You're now connected with {parent.nickname}!"
 }
