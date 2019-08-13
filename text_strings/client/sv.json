@@ -2081,7 +2081,7 @@
   "waitlist_already_on_button": "Du är på väntelistan till Gimi-kortet!",
   "updated_pfs_transaction": "Transaktion uppdaterad!",
   "need_to_change_currency_for_premium_popover_title": "Du måste byta valuta…",
-  "need_to_change_currency_for_premium_popover_text": "Du kan inte uppgradera till Gimi Master på grund av dni valuta. Gimi Master har för tillfället bara stöd för SEK.",
+  "need_to_change_currency_for_premium_popover_text": "Du kan inte uppgradera till Gimi Master på grund av din valuta. Gimi Master har för tillfället bara stöd för SEK.",
   "need_to_change_currency_for_premium_popover_change_button": "Ändra",
   "pfs_transaction_error": "Bara ett tillfälligt problem med att visa dina transaktioner. Kolla in här snart igen!",
   "not_authed_transaction_message": "Det här är en preliminär transaktion. Butiken har inte dragit några pengar från kortet än.",
