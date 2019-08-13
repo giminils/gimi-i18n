@@ -2722,5 +2722,6 @@
   "parent_subscription_settings_empty_non_setupped_kid_button": "Lägg till info",
   "shareable_order_card_done_title": "Jag har beställt Gimi-kortet!",
   "piggy_space_game_url": "PLZ_CHECK https://gimi-org.github.io/PiggySpaceAdventure/index.html",
-  "card_enabled_savings_to_card": "Lås konto"
+  "card_enabled_savings_to_card": "Lås konto",
+  "beta_subscription": "PLZ_CHECK Free Forever"
 }
