@@ -191,6 +191,11 @@ export default [
               titleLangKey: 'earn_chapter_4_step_3_title',
               descLangKey: 'earn_chapter_4_step_3_desc',
               ideaLangKey: 'earn_chapter_4_step_3_idea'
+            },
+            {
+              titleLangKey: 'earn_chapter_4_step_4_title',
+              descLangKey: 'earn_chapter_4_step_4_desc',
+              ideaLangKey: 'earn_chapter_4_step_4_idea'
             }
           ]
         }
@@ -329,6 +334,11 @@ export default [
               titleLangKey: 'save_chapter_1_step_3_title',
               descLangKey: 'save_chapter_1_step_3_desc',
               ideaLangKey: 'save_chapter_1_step_3_idea'
+            },
+            {
+              titleLangKey: 'save_chapter_1_step_4_title',
+              descLangKey: 'save_chapter_1_step_4_desc',
+              ideaLangKey: 'save_chapter_1_step_4_idea'
             }
           ]
         }
@@ -369,6 +379,11 @@ export default [
               titleLangKey: 'save_chapter_2_step_3_title',
               descLangKey: 'save_chapter_2_step_3_desc',
               ideaLangKey: 'save_chapter_2_step_3_idea'
+            },
+            {
+              titleLangKey: 'save_chapter_2_step_4_title',
+              descLangKey: 'save_chapter_2_step_4_desc',
+              ideaLangKey: 'save_chapter_2_step_4_idea'
             }
           ]
         }
