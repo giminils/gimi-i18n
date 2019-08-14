@@ -2724,5 +2724,7 @@
   "shareable_order_card_done_title": "I just ordered the Gimi Card!",
   "piggy_space_game_url": "https://gimi-org.github.io/PiggySpaceAdventure/index.html",
   "card_enabled_savings_to_card": "Lock account",
-  "beta_subscription": "Free Forever"
+  "beta_subscription": "Free Forever",
+  "pfs_savings_transaction_to_blocked_card_popover_title": "Account transactions blocked",
+  "pfs_savings_transaction_to_blocked_card_popover_text": "Transfering to accoutn is blocked. If a supporter blocked the account, they must unblock it for you."
 }
