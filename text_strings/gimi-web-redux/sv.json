@@ -798,5 +798,6 @@
   "influencers.general.error.body": "Försök igen. Om det forfarande inte fungerar, försök igen lite senare!",
   "influencers.invalid.resource.error.body": "Var noga med att fylla i alla fällt.",
   "general.try.again": "Försök igen",
-  "your.own.card": "Ditt eget kort"
+  "your.own.card": "Ditt eget kort",
+  "about.the.gimi.card": "Om Gimi-kortet"
 }

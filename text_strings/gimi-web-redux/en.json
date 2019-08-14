@@ -797,5 +797,6 @@
   "influencers.general.error.body": "Please try again. If it's still not working, try again later!",
   "influencers.invalid.resource.error.body": "Make sure you fill in all the fields.",
   "general.try.again": "Try again",
-  "your.own.card": "Your own card"
+  "your.own.card": "Your own card",
+  "about.the.gimi.card": "About the Gimi card"
 }
