@@ -180,7 +180,7 @@
   "event_exceed_monthly_limit": "{child.nickname} vient de dépasser la limite de dépense mensuel!",
   "push_exceed_monthly_limit": "{child.nickname} vient de dépasser la limite de dépense mensuel!",
   "event_pfs_payday": "C'est Payday pour {child.nickname}! ",
-  "push_subscription_not_paid_card_blocked": "La carte Gimi est verrouillée. Payer les frais d'abonnement pour {child.nickname} pour la débloquer.",
+  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The Gimi card has been locked. Pay the Master subscription to unlock it.",
   "verify_email_subject": "Confirmez votre addresse email",
   "event_you_are_connected": "Vous êtes maintenant connecté avec {child.nickname}!",
   "event_how_premium_work": "Comment fonctionne le Premium",

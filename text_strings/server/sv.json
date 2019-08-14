@@ -180,7 +180,7 @@
   "event_exceed_monthly_limit": "{child.nickname} gick precis över köpgränsen för den här månaden!",
   "push_exceed_monthly_limit": "{child.nickname} gick precis över köpgränsen för den här månaden!",
   "event_pfs_payday": "Det är Payday för {child.nickname}! ",
-  "push_subscription_not_paid_card_blocked": "Gimi-kortet är låst. Betala avgiften för Gimi Master för {child.nickname} för att låsa upp det.",
+  "push_subscription_not_paid_card_blocked": "PLZ_CHECK The Gimi card has been locked. Pay the Master subscription to unlock it.",
   "verify_email_subject": "Verifiera din e-post",
   "event_you_are_connected": "Du är nu ihopkopplad med {child.nickname}!",
   "event_how_premium_work": "Såhär fungerar Gimi Master",

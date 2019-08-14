@@ -180,7 +180,7 @@
   "event_exceed_monthly_limit": "PLZ_TRANSLATE {child.nickname} just exceeded the monthly spending limit!",
   "push_exceed_monthly_limit": "PLZ_TRANSLATE {child.nickname} just exceeded the monthly spending limit!",
   "event_pfs_payday": "PLZ_TRANSLATE It's payday for {child.nickname}! ",
-  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The Gimi card is on lock down. Pay subscription fee for {child.nickname} to unlock it.",
+  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The Gimi card has been locked. Pay the Master subscription to unlock it.",
   "verify_email_subject": "PLZ_TRANSLATE Confirm your email address",
   "event_you_are_connected": "PLZ_TRANSLATE You're now connected with {child.nickname}!",
   "event_how_premium_work": "PLZ_TRANSLATE How Premium works",

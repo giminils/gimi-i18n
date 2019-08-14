@@ -180,7 +180,7 @@
   "event_exceed_monthly_limit": "{child.nickname} exceeded their monthly spending limit!",
   "push_exceed_monthly_limit": "{child.nickname} exceeded their monthly spending limit!",
   "event_pfs_payday": "It's Payday for {child.nickname}! ",
-  "push_subscription_not_paid_card_blocked": "The Gimi card has been locked. Pay the Master subscription for {child.nickname} to unlock it.",
+  "push_subscription_not_paid_card_blocked": "The Gimi card has been locked. Pay the Master subscription to unlock it.",
   "verify_email_subject": "Confirm your email address",
   "event_you_are_connected": "You're now connected with {child.nickname}!",
   "event_how_premium_work": "How Gimi Master works",
