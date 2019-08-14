@@ -2685,6 +2685,7 @@
   "missing_phone_order_card_popover_desc": "Usiamo l'autenticazione a due fattori, vai nelle impostazioni e aggiungi un numero di telefono per completare il tuo acquisto.",
   "disabled_order_card_button": "Quasi fatto!",
   "blocked_card_intercom_message": "La carta Gimi è stata bloccata a causa di 3 tentativi falliti di inserimento PIN. Aiutami a sbloccarla!",
+  "blocked_card_intercom_message_holder": "PLZ_TRANSLATE The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!",
   "connection_title_inv_supporter_to_multiple_kids": "Invita un sostenitore per i bambini!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Invito per %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Vuoi connettere il tuo bambino con più membri della famiglia? Invitali qui!",

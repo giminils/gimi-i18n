@@ -2685,6 +2685,7 @@
   "missing_phone_order_card_popover_desc": "Vi använder 2-faktorsautentisering, lägg till ett telefonnummer i dina inställningar för att slutföra beställningen.",
   "disabled_order_card_button": "Nästan färdig!",
   "blocked_card_intercom_message": "Gimi-kortet har blivit låst efter 3 misslyckade PIN-försök. Hjälp mig låsa upp det!",
+  "blocked_card_intercom_message_holder": "PLZ_CHECK The Gimi card has been blocked because of 3 failed PIN code attempts. Help me unblock it!",
   "connection_title_inv_supporter_to_multiple_kids": "Bjud in en supporter till barnen!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Bjuder in åt %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Vill du koppla ihop dina barn med fler familjemedlemmar? Bjud in dem här!",
