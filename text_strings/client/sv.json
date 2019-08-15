@@ -2727,5 +2727,11 @@
   "beta_subscription": "Gratis för alltid",
   "pfs_savings_transaction_to_blocked_card_popover_title": "Överföringar har spärrats",
   "pfs_savings_transaction_to_blocked_card_popover_text": "Kontot är spärrat för överföringar. Supportern som spärrat kontot måste låsa upp det åt dig.",
-  "invalid_email_error": "Lägg till en giltig e-post"
+  "invalid_email_error": "Lägg till en giltig e-post",
+  "enter_stripe_card_details_title": "PLZ_CHECK Save your card",
+  "enter_stripe_card_details_subtitle": "PLZ_CHECK This card will be used for payday payouts!",
+  "enter_stripe_card_details_full_name_label": "PLZ_CHECK Name on card",
+  "enter_stripe_card_details_card_number_label": "PLZ_CHECK Card number",
+  "enter_stripe_card_details_expiry_label": "PLZ_CHECK Expiry",
+  "enter_stripe_card_details_cvv_label": "PLZ_CHECK CVV"
 }

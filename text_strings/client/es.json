@@ -2727,5 +2727,11 @@
   "beta_subscription": "PLZ_TRANSLATE Free Forever",
   "pfs_savings_transaction_to_blocked_card_popover_title": "PLZ_TRANSLATE Account transactions blocked",
   "pfs_savings_transaction_to_blocked_card_popover_text": "PLZ_TRANSLATE Transfering to account is blocked. The supporter who blocked the account must unblock it for you.",
-  "invalid_email_error": "PLZ_TRANSLATE Enter a valid email address"
+  "invalid_email_error": "PLZ_TRANSLATE Enter a valid email address",
+  "enter_stripe_card_details_title": "PLZ_TRANSLATE Save your card",
+  "enter_stripe_card_details_subtitle": "PLZ_TRANSLATE This card will be used for payday payouts!",
+  "enter_stripe_card_details_full_name_label": "PLZ_TRANSLATE Name on card",
+  "enter_stripe_card_details_card_number_label": "PLZ_TRANSLATE Card number",
+  "enter_stripe_card_details_expiry_label": "PLZ_TRANSLATE Expiry",
+  "enter_stripe_card_details_cvv_label": "PLZ_TRANSLATE CVV"
 }

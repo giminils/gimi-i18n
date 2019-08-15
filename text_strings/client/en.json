@@ -2727,5 +2727,11 @@
   "beta_subscription": "Free Forever",
   "pfs_savings_transaction_to_blocked_card_popover_title": "Account transactions blocked",
   "pfs_savings_transaction_to_blocked_card_popover_text": "Transfering to account is blocked. The supporter who blocked the account must unblock it for you.",
-  "invalid_email_error": "Enter a valid email address"
+  "invalid_email_error": "Enter a valid email address",
+  "enter_stripe_card_details_title": "Save your card",
+  "enter_stripe_card_details_subtitle": "This card will be used for payday payouts!",
+  "enter_stripe_card_details_full_name_label": "Name on card",
+  "enter_stripe_card_details_card_number_label": "Card number",
+  "enter_stripe_card_details_expiry_label": "Expiry",
+  "enter_stripe_card_details_cvv_label": "CVV"
 }
