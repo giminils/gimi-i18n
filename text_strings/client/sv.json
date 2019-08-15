@@ -2726,5 +2726,6 @@
   "card_enabled_savings_to_card": "Lås konto",
   "beta_subscription": "PLZ_CHECK Free Forever",
   "pfs_savings_transaction_to_blocked_card_popover_title": "PLZ_CHECK Account transactions blocked",
-  "pfs_savings_transaction_to_blocked_card_popover_text": "PLZ_CHECK Transfering to accoutn is blocked. If a supporter blocked the account, they must unblock it for you."
+  "pfs_savings_transaction_to_blocked_card_popover_text": "PLZ_CHECK Transfering to accoutn is blocked. If a supporter blocked the account, they must unblock it for you.",
+  "invalid_email_error": "PLZ_CHECK Enter a valid email address"
 }
