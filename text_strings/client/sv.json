@@ -2055,7 +2055,7 @@
   "intercom_stolen_card_initial_message": "Hjälp! Mitt kort har blivit stulet!",
   "intercom_lost_card_initial_message": "Hjälp! Jag har tappat bort mitt kort!",
   "parent_intercom_stolen_card_initial_message": "Hjälp! %1$d har blivit av med sitt Gimi-kort!",
-  "parent_intercom_lost_card_initial_message": "Hjälp! %1$d har tappar bort sitt Gimi-kort!",
+  "parent_intercom_lost_card_initial_message": "Hjälp! %1$d har tappat bort sitt Gimi-kort!",
   "setup_kid_upgrade_premium_title": "Vilken nivå är %1$d på?",
   "setup_kid_upgrade_premium_subtitle": "Du kan alltid uppgradera sen",
   "price_sku": " %1$d/%2$d",
