@@ -2734,5 +2734,6 @@
   "enter_stripe_card_details_full_name_label": "Namn på kortet",
   "enter_stripe_card_details_card_number_label": "Kortnummer",
   "enter_stripe_card_details_expiry_label": "Utgångsdatum",
-  "enter_stripe_card_details_cvv_label": "CVV"
+  "enter_stripe_card_details_cvv_label": "CVV",
+  "enter_custom_phone_number": "PLZ_CHECK Type phone number instead"
 }

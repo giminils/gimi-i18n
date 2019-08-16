@@ -2734,5 +2734,6 @@
   "enter_stripe_card_details_full_name_label": "PLZ_TRANSLATE Name on card",
   "enter_stripe_card_details_card_number_label": "PLZ_TRANSLATE Card number",
   "enter_stripe_card_details_expiry_label": "PLZ_TRANSLATE Expiry",
-  "enter_stripe_card_details_cvv_label": "PLZ_TRANSLATE CVV"
+  "enter_stripe_card_details_cvv_label": "PLZ_TRANSLATE CVV",
+  "enter_custom_phone_number": "PLZ_TRANSLATE Type phone number instead"
 }
