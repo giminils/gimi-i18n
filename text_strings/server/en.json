@@ -370,7 +370,7 @@
   "CHPRRE021_push_title": "It's Payday! But no money for you this time",
   "ADPRRE036_notification_title": "It's Payday for {child.nickname}, but no money was earned. Maybe hand out some chores next time?",
   "ADPRRE036_push_title": "It's Payday for {child.nickname}, but no money was earned.",
-  "ADPRON004_notification_title": "Order the Gimi Card for {child.nickname}, the account has been upgraded!",
+  "ADPRON004_notification_title": "Don’t forget to order the Gimi Card now that {child.nickname} is a Gimi Master!",
   "CHGERE035_notification_title": "{parent.nickname} added an expense. You'll get less on payday...",
   "CHGERE035_push_title": "{parent.nickname} added an expense!",
   "active_email_subject": "Complete setting up your card with {wallet_provider}",
