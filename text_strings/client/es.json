@@ -814,6 +814,7 @@
   "approve_payouts": "Autorizar pagos",
   "enter_your_address": "Ingresa tu dirección",
   "we_only_ship_to_sweden": "Solamente emitimos tarjetas en Suecia, así que asegúrate de haber indicado una dirección sueca.",
+  "we_only_ship_to_country": "PLZ_TRANSLATE We only ship to %1$d",
   "activate_card_start_title": "PLZ_TRANSLATE Have you activated your card yet?",
   "activate_card_start_description": "PLZ_TRANSLATE Activate your card now to use it online! Your plastic card will arrive in a few days, use that one in stores.",
   "replace_card_start_title": "¿has obtenido tu nueva tarjeta?",

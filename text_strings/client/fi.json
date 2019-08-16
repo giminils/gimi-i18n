@@ -814,6 +814,7 @@
   "approve_payouts": "Hyväksy nostot",
   "enter_your_address": "Syötä sähköpostiosoitteesi",
   "we_only_ship_to_sweden": "Lähetämme kortteja vain Ruotsiin, joten varmista, että osoitteesi on Ruotsissa.",
+  "we_only_ship_to_country": "PLZ_TRANSLATE We only ship to %1$d",
   "activate_card_start_title": "Oletko vielä aktivoinut korttia?",
   "activate_card_start_description": "Aktivoi korttisi nyt käyttääksesi sitä netissä! Muovikorttisi saapuu parissa päivässä, voit käyttää sitä kaupoissa.",
   "replace_card_start_title": "oletko jo saanut uuden korttisi?",

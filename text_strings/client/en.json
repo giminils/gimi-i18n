@@ -814,6 +814,7 @@
   "approve_payouts": "Approve deposit",
   "enter_your_address": "Enter your address",
   "we_only_ship_to_sweden": "We only issue cards in Sweden, so make sure you've stated a swedish address.",
+  "we_only_ship_to_country": "We only ship to %1$d",
   "activate_card_start_title": "Have you activated your card yet?",
   "activate_card_start_description": "Activate your card now to use it online! Your plastic card will arrive in a few days, use that one in stores.",
   "replace_card_start_title": "have you got your new card yet?",

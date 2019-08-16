@@ -814,6 +814,7 @@
   "approve_payouts": "Godkjenn utbetalinger",
   "enter_your_address": "Skriv inn din adresse",
   "we_only_ship_to_sweden": "Vi utsteder bare kort i Sverige, så sørg for at du har oppgitt en svensk adresse.",
+  "we_only_ship_to_country": "PLZ_TRANSLATE We only ship to %1$d",
   "activate_card_start_title": "Har du aktivert kortet ditt?",
   "activate_card_start_description": "Aktiver kortet ditt nå for å bruke det på nettet! Plastkortet ditt kommer om noen dager, bruk det i butikkene.",
   "replace_card_start_title": "har du fått ditt nye kort?",
