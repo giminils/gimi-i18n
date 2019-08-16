@@ -180,7 +180,7 @@
   "event_exceed_monthly_limit": "{child.nickname} ha appena superato il suo limite di spesa mensile!",
   "push_exceed_monthly_limit": "{child.nickname} ha appena superato il suo limite di spesa mensile!",
   "event_pfs_payday": "È il Giorno di paga per {child.nickname}! ",
-  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The Gimi card has been locked. Pay the Master subscription to unlock it.",
+  "push_subscription_not_paid_card_blocked": "La carta Gimi è stata bloccata. Devi pagare l'abbonamento Master per sbloccarla.",
   "verify_email_subject": "Conferma il tuo indirizzo email",
   "event_you_are_connected": "Sei ora connesso con {child.nickname}!",
   "event_how_premium_work": "Come funziona Premium",
@@ -385,5 +385,5 @@
   "CHGEPU039_push_title": "Oh-oh! Aggiorna Gimi nel Play Store ora!",
   "ADGEPU013_push_title": "Oh-oh! Aggiorna Gimi nell'App Store ora!",
   "ADGEPU014_push_title": "Oh-oh! Aggiorna Gimi nel Play Store ora!",
-  "event_connected_to_parent": "PLZ_TRANSLATE You're now connected with {parent.nickname}!"
+  "event_connected_to_parent": "Ora sei connesso con {parent.nickname}!"
 }
