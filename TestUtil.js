@@ -51,7 +51,7 @@ export const findDuplicateKeyValues = (firstLang: Object, secondLang: Object, fi
   expect(errorMessages).toEqual([])
 }
 
-export const findDuplicateJSONKeys = (fileText: Array <*>, errors: Array < * >) => {
+export const findDuplicateJSONKeys = (fileText: Array <string>, errors: Array < * >) => {
   const keys = fileText.map(line => line.split(':')[0]).sort()
   for (let i = 0; i < keys.length - 1; i++)
     if (keys[i + 1] === keys[i]) errors.push(keys[i])
