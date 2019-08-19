@@ -98,7 +98,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Du kommer att få en vecko- eller månadspeng. Kolla in hur mycket i appen!",
   "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i Sparat.",
   "push_child_has_reached_a_dream": "{child.nickname} har sparat ihop till en dröm",
-  "event_add_email": "Snart klar, glöm inte att lägga till din mejl!",
+  "event_add_email": "Vill du få viktig information på mejlen?",
   "event_chore_title_or_amount_changed": "{parent.nickname} uppdaterade {chore.title}",
   "event_welcome_back": "Väkommen tillbaka! Vill du börja om från början?",
   "event_tell_that_your_back": "Låt din familj veta att du är tillbaka!",
