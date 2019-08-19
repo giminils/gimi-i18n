@@ -180,7 +180,7 @@
   "event_exceed_monthly_limit": "{child.nickname} har lige overskredet den månedlige udgiftsgrænse!",
   "push_exceed_monthly_limit": "{child.nickname} har lige overskredet den månedlige udgiftsgrænse!",
   "event_pfs_payday": "Det er Payday for {child.nickname}! ",
-  "push_subscription_not_paid_card_blocked": "PLZ_TRANSLATE The Gimi card has been locked. Pay the Master subscription to unlock it.",
+  "push_subscription_not_paid_card_blocked": "Gimikortet er blevet låst. Betal Master abonnementet for at åbne det op.",
   "verify_email_subject": "Bekræft din e-mail adresse",
   "event_you_are_connected": "Du er nu forbundet med {child.nickname}!",
   "event_how_premium_work": "Hvordan Premium virker",
@@ -385,5 +385,5 @@
   "CHGEPU039_push_title": "Oh nej! Opdater Gimi i Play Store nu!",
   "ADGEPU013_push_title": "Oh nej! Opdater Gimi i App Store nu!",
   "ADGEPU014_push_title": "Oh nej! Opdater Gimi i Play Store nu!",
-  "event_connected_to_parent": "PLZ_TRANSLATE You're now connected with {parent.nickname}!"
+  "event_connected_to_parent": "Du er nu forbundet med {parent.nickname}!"
 }
