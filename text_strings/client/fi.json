@@ -1863,6 +1863,7 @@
   "buy_premium_included_account_text": "Voit saada rahaa perheenjäseniltä\nSiirrä kortille käyttääksesi rahaa\nLorem ipsum",
   "buy_premium_intro_price_title": "Tämän verran maksat",
   "buy_premium_intro_next_button": "Päivitä Premiumiin!",
+  "buy_premium_promo": "PLZ_TRANSLATE I have a promo code!",
   "custom_notification_old_client_warning": "Puhelimellasi on vanha ohjelmistoversio, joten Gimi lakkaa pian toimimasta",
   "premium_payday_transfer_warning": "Et voi muuttaa summaa painettuasi Siirrä-painiketta",
   "gimi_beta_active_custom_note": "Tervetuloa Gimi Betaan! Tilaa kortti nyt",

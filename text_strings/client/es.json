@@ -1863,6 +1863,7 @@
   "buy_premium_included_account_text": "Recibe dinero de los miembros de la familia\nTransfiere a la tarjeta para gastar\nLorem ipsum",
   "buy_premium_intro_price_title": "Esto es lo que tú pagas",
   "buy_premium_intro_next_button": "¡Actualizar!",
+  "buy_premium_promo": "PLZ_TRANSLATE I have a promo code!",
   "custom_notification_old_client_warning": "Tu teléfono está ejecutando la aplicación anterior, por lo que Gimi pronto dejará de funcionar para ti.",
   "premium_payday_transfer_warning": "No puedes modificar la cantidad una vez que hayas hecho clic en el botón Transferir",
   "gimi_beta_active_custom_note": "¡Bienvenido a Gimi Beta! Solicita una tarjeta ahora",
