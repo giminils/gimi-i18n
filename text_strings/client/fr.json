@@ -2738,5 +2738,8 @@
   "enter_stripe_card_details_cvv_label": "Code CVV",
   "enter_custom_phone_number": "Tapez le numéro de téléphone à la place.",
   "update_stripe_card_confirmation_popover_title": "PLZ_TRANSLATE Sure you want to change card?",
-  "update_stripe_card_confirmation_popover_text": "PLZ_TRANSLATE You already have a card on file. Saving a new one will erase your current one!"
+  "update_stripe_card_confirmation_popover_text": "PLZ_TRANSLATE You already have a card on file. Saving a new one will erase your current one!",
+  "save_education_videos_title": "PLZ_TRANSLATE Save videos",
+  "earn_education_videos_title": "PLZ_TRANSLATE Earn videos",
+  "spend_education_videos_title": "PLZ_TRANSLATE Card instruction films"
 }

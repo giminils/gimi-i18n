@@ -2738,5 +2738,8 @@
   "enter_stripe_card_details_cvv_label": "CVV",
   "enter_custom_phone_number": "Type phone number instead",
   "update_stripe_card_confirmation_popover_title": "Sure you want to change card?",
-  "update_stripe_card_confirmation_popover_text": "You already have a card on file. Saving a new one will erase your current one!"
+  "update_stripe_card_confirmation_popover_text": "You already have a card on file. Saving a new one will erase your current one!",
+  "save_education_videos_title": "Save videos",
+  "earn_education_videos_title": "Earn videos",
+  "spend_education_videos_title": "Card instruction films"
 }
