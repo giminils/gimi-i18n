@@ -338,7 +338,7 @@
   "CHPRRE019_notification_title": "{pfspayment.parent.nickname} teki talletuksen kortillesi",
   "CHPRRE019_push_title": "Olet saanut talletuksen tukijalta {pfspayment.parent.nickname}",
   "ADGEPU012_notification_title": "Gimi-kortti on vihdoin täällä! Päivitä lapsesi Master-tiliin ja saat kortin!",
-  "ADGEPU012_push_title": "Gimi-kortti on täällä! Hanki se nyt",
+  "ADGEPU012_push_title": "PLZ_TRANSLATE News! 📣 Manage real money in the new Gimi Master!",
   "ADGEPU007_notification_title": "Yhdistä lapsesi useampiin tukijoihin!",
   "ADGEPU007_push_title": "Kutsu lisää tukijoita",
   "ADGERE016_push_title": "Kutsusi hylättiin... 🙁",
