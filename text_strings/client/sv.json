@@ -2754,5 +2754,6 @@
   "type_promo_code_title": "PLZ_CHECK Type your promo code",
   "promo_free_card_unlocked": "PLZ_CHECK Free card unlocked!",
   "promo_prices_unlocked": "PLZ_CHECK Promo prices unlocked!",
-  "promo_code_error": "PLZ_CHECK This code seems to be invalid!"
+  "promo_code_error": "PLZ_CHECK This code seems to be invalid!",
+  "enter_code": "PLZ_CHECK Enter code"
 }
