@@ -1871,6 +1871,8 @@
   "kid_custom_note_feature_bot": "Salut! Tu veux discuter?",
   "card_is_on_its_way_takeover_title": "La carte est en route!",
   "card_is_on_its_way_takeover_subtitle": "Cela prend quelques jours. Nous envoyons une commande à l’usine de cartes, qui y inscrit votre nom et l’envoie avec un courrier postal escargot.",
+  "card_is_on_its_way_takeover_alternative_title": "PLZ_TRANSLATE Card is on its way alternative title",
+  "card_is_on_its_way_takeover_alternative_subtitle": "PLZ_TRANSLATE Card is on its way alternative subtitle",
   "identity_verified_confirmation_message": "Identité vérifiée",
   "card_terms_accepted_confirmation_message": "Termes d'utilisateur acceptés",
   "name_was_upgraded_to_premium_title": "%1$d a été surclassé! ✌️",

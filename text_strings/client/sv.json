@@ -1871,6 +1871,8 @@
   "kid_custom_note_feature_bot": "Hitta mig i appen för att chatta!",
   "card_is_on_its_way_takeover_title": "Gimi-kortet är på väg!",
   "card_is_on_its_way_takeover_subtitle": "Det tar några dagar. Vi skickar en beställning till kort-fabriken, de trycker ditt namn på kortet, och skickar ett paket med snigel-post.",
+  "card_is_on_its_way_takeover_alternative_title": "Card is on its way alternative title",
+  "card_is_on_its_way_takeover_alternative_subtitle": "Card is on its way alternative subtitle",
   "identity_verified_confirmation_message": "Identitet verifierad!",
   "card_terms_accepted_confirmation_message": "Användarvillkor accepterade",
   "name_was_upgraded_to_premium_title": "%1$d har uppgraderats! ✌️",

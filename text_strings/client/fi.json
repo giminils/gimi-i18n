@@ -1871,6 +1871,8 @@
   "kid_custom_note_feature_bot": "Hei! Haluatko jutella?",
   "card_is_on_its_way_takeover_title": "Kortti on matkalla!",
   "card_is_on_its_way_takeover_subtitle": "Siinä menee pari päivää. Lähetämme tilauksen korttitehtaalle, he tulostavat nimesi kortille ja lähettävät sen postissa.",
+  "card_is_on_its_way_takeover_alternative_title": "PLZ_TRANSLATE Card is on its way alternative title",
+  "card_is_on_its_way_takeover_alternative_subtitle": "PLZ_TRANSLATE Card is on its way alternative subtitle",
   "identity_verified_confirmation_message": "Henkilöllisyys varmistettu",
   "card_terms_accepted_confirmation_message": "Käyttöehdot hyväksytty",
   "name_was_upgraded_to_premium_title": "%1$d sai Gimi Masterin! ✌️",
