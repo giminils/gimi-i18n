@@ -2745,5 +2745,8 @@
   "earn_education_videos_title": "PLZ_CHECK Earn videos",
   "spend_education_videos_title": "PLZ_CHECK Card instruction films",
   "touch_id_settings_switch": "PLZ_CHECK Touch ID for passcode",
-  "face_id_settings_switch": "PLZ_CHECK Face ID for passcode"
+  "face_id_settings_switch": "PLZ_CHECK Face ID for passcode",
+  "default_biometrics_auth_message": "PLZ_CHECK Authenticate yourself",
+  "biometrics_fail_error_message": "PLZ_CHECK Authentication failed",
+  "biometrics_initalization_message": "PLZ_CHECK Authenticate yourself to enable Touch/Face ID"
 }
