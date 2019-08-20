@@ -2080,6 +2080,8 @@
   "waitlist_add_me_button": "Setz mich auf die Warteliste!",
   "waitlist_confirmation_title": "Du bist auf der Warteliste für die Gimi Card!",
   "waitlist_confirmation_subtitle": "Du wirst zuerst Bescheid wissen, wenn die Karte erscheint. Deine Wartelistennummer:",
+  "waitlist_confirmation_alternative_title": "PLZ_TRANSLATE waitlist confirm alternative title",
+  "waitlist_confirmation_alternative_subtitle": "PLZ_TRANSLATE waitlist confirm alternative subtitle",
   "waitlist_already_on_button": "Du bist auf der Warteliste der Gimi Card!",
   "updated_pfs_transaction": "Juhu! Überweisung aktualisiert",
   "need_to_change_currency_for_premium_popover_title": "Du wirst die Währung ändern müssen…",

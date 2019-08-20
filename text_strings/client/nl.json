@@ -2080,6 +2080,8 @@
   "waitlist_add_me_button": "Zet me op de wachtlijst!",
   "waitlist_confirmation_title": "Je staat op de wachtlijst voor de Gimi-kaart!",
   "waitlist_confirmation_subtitle": "Je bent de eerste die het hoort als we van start gaan. Je nummer op de wachtlijst:",
+  "waitlist_confirmation_alternative_title": "PLZ_TRANSLATE waitlist confirm alternative title",
+  "waitlist_confirmation_alternative_subtitle": "PLZ_TRANSLATE waitlist confirm alternative subtitle",
   "waitlist_already_on_button": "Je staat op de wachtlijst voor de Gimi-kaart!",
   "updated_pfs_transaction": "Jee! Transactie bijgewerkt",
   "need_to_change_currency_for_premium_popover_title": "Je moet de munteenheid aanpassen…",

@@ -2080,6 +2080,8 @@
   "waitlist_add_me_button": "Lisää minut odotuslistalle!",
   "waitlist_confirmation_title": "Olet Gimi-kortin odotuslistalla!",
   "waitlist_confirmation_subtitle": "Saat ensimmäisenä tiedon, kun lanseeraamme kortin. Sijasi odotuslistalla:",
+  "waitlist_confirmation_alternative_title": "PLZ_TRANSLATE waitlist confirm alternative title",
+  "waitlist_confirmation_alternative_subtitle": "PLZ_TRANSLATE waitlist confirm alternative subtitle",
   "waitlist_already_on_button": "Olet Gimi-kortin odotuslistalla!",
   "updated_pfs_transaction": "Jee! Siirto päivitetty",
   "need_to_change_currency_for_premium_popover_title": "Sinun täytyy muuttaa valuuttaasi…",

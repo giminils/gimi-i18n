@@ -2080,6 +2080,8 @@
   "waitlist_add_me_button": "Legg meg til på ventelisten!",
   "waitlist_confirmation_title": "Du er på ventelisten for Gimi-kortet!",
   "waitlist_confirmation_subtitle": "Du blir den første som vet når vi starter. Ditt nummer på ventelisten:",
+  "waitlist_confirmation_alternative_title": "PLZ_TRANSLATE waitlist confirm alternative title",
+  "waitlist_confirmation_alternative_subtitle": "PLZ_TRANSLATE waitlist confirm alternative subtitle",
   "waitlist_already_on_button": "Du er på Gimi-kort-ventelisten!",
   "updated_pfs_transaction": "Jippi! Transaksjon oppdatert",
   "need_to_change_currency_for_premium_popover_title": "Du må endre valuta…",
