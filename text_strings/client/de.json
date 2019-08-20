@@ -2743,5 +2743,7 @@
   "update_stripe_card_confirmation_popover_text": "PLZ_TRANSLATE You already have a card on file. Saving a new one will erase your current one!",
   "save_education_videos_title": "PLZ_TRANSLATE Save videos",
   "earn_education_videos_title": "PLZ_TRANSLATE Earn videos",
-  "spend_education_videos_title": "PLZ_TRANSLATE Card instruction films"
+  "spend_education_videos_title": "PLZ_TRANSLATE Card instruction films",
+  "touch_id_settings_switch": "PLZ_TRANSLATE Touch ID for passcode",
+  "face_id_settings_switch": "PLZ_TRANSLATE Face ID for passcode"
 }

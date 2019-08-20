@@ -2743,5 +2743,7 @@
   "update_stripe_card_confirmation_popover_text": "You already have a card on file. Saving a new one will erase your current one!",
   "save_education_videos_title": "Save videos",
   "earn_education_videos_title": "Earn videos",
-  "spend_education_videos_title": "Card instruction films"
+  "spend_education_videos_title": "Card instruction films",
+  "touch_id_settings_switch": "Touch ID for passcode",
+  "face_id_settings_switch": "Face ID for passcode"
 }
