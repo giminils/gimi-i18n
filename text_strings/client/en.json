@@ -2753,5 +2753,6 @@
   "biometrics_initalization_message": "Authenticate yourself to enable Touch/Face ID",
   "type_promo_code_title": "Type your promo code",
   "promo_free_card_unlocked": "Free card unlocked!",
-  "promo_prices_unlocked": "Promo prices unlocked!"
+  "promo_prices_unlocked": "Promo prices unlocked!",
+  "promo_code_error": "This code seems to be invalid!"
 }

@@ -2753,5 +2753,6 @@
   "biometrics_initalization_message": "PLZ_TRANSLATE Authenticate yourself to enable Touch/Face ID",
   "type_promo_code_title": "PLZ_TRANSLATE Type your promo code",
   "promo_free_card_unlocked": "PLZ_TRANSLATE Free card unlocked!",
-  "promo_prices_unlocked": "PLZ_TRANSLATE Promo prices unlocked!"
+  "promo_prices_unlocked": "PLZ_TRANSLATE Promo prices unlocked!",
+  "promo_code_error": "PLZ_TRANSLATE This code seems to be invalid!"
 }
