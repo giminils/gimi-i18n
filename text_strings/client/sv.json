@@ -2750,5 +2750,8 @@
   "face_id_settings_switch": "PLZ_CHECK Face ID for passcode",
   "default_biometrics_auth_message": "PLZ_CHECK Authenticate yourself",
   "biometrics_fail_error_message": "PLZ_CHECK Authentication failed",
-  "biometrics_initalization_message": "PLZ_CHECK Authenticate yourself to enable Touch/Face ID"
+  "biometrics_initalization_message": "PLZ_CHECK Authenticate yourself to enable Touch/Face ID",
+  "type_promo_code_title": "PLZ_CHECK Type your promo code",
+  "promo_free_card_unlocked": "PLZ_CHECK Free card unlocked!",
+  "promo_prices_unlocked": "PLZ_CHECK Promo prices unlocked!"
 }
