@@ -2759,5 +2759,6 @@
   "not_interested_in_premium_title": "PLZ_TRANSLATE Not interested? Tell us why!",
   "not_interested_in_premium_option_1": "PLZ_TRANSLATE It's too expensive",
   "not_interested_in_premium_option_2": "PLZ_TRANSLATE I need more info",
-  "not_interested_in_premium_option_3": "PLZ_TRANSLATE I'll do it later"
+  "not_interested_in_premium_option_3": "PLZ_TRANSLATE I'll do it later",
+  "about_card_link": "PLZ_TRANSLATE https://gimitheapp.se/nyheter/gimi-kortet"
 }
