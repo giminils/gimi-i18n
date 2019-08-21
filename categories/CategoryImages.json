@@ -33,7 +33,6 @@
   "transport": "/static/categories/symbol_transport.png",
   "videogame": "/static/categories/symbol_tvspel.png",
   "yardwork": "/static/categories/tradgard.png",
-  "ownCategory": "/static/categories/uppgift_egen.png",
   "extraHelp": "/static/categories/uppgift_extrahjalpforaldrarna.png",
   "pet": "/static/categories/uppgift_husdjur.png",
   "kitchen": "/static/categories/uppgift_kok.png",
@@ -48,6 +47,5 @@
   "interest": "/static/categories/symbol_sparranta.png",
   "allowance": "/static/categories/symbol_veckomanadaspeng.png",
   "goalHelp": "/static/categories/symbol_sparmalshjalp.png",
-  "trustly": "/static/categories/card_payment.png",
-  "reverted": "/static/categories/uppgift_egen.png"
+  "trustly": "/static/categories/card_payment.png"
 }
