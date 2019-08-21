@@ -385,5 +385,6 @@
   "CHGEPU039_push_title": "Oh-oh! Aggiorna Gimi nel Play Store ora!",
   "ADGEPU013_push_title": "Oh-oh! Aggiorna Gimi nell'App Store ora!",
   "ADGEPU014_push_title": "Oh-oh! Aggiorna Gimi nel Play Store ora!",
-  "event_connected_to_parent": "Ora sei connesso con {parent.nickname}!"
+  "event_connected_to_parent": "Ora sei connesso con {parent.nickname}!",
+  "ADGEPU015_push_title": "PLZ_TRANSLATE News! 📣 Manage real money in the new Gimi Master!"
 }

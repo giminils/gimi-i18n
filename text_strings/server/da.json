@@ -385,5 +385,6 @@
   "CHGEPU039_push_title": "Oh nej! Opdater Gimi i Play Store nu!",
   "ADGEPU013_push_title": "Oh nej! Opdater Gimi i App Store nu!",
   "ADGEPU014_push_title": "Oh nej! Opdater Gimi i Play Store nu!",
-  "event_connected_to_parent": "Du er nu forbundet med {parent.nickname}!"
+  "event_connected_to_parent": "Du er nu forbundet med {parent.nickname}!",
+  "ADGEPU015_push_title": "PLZ_TRANSLATE News! 📣 Manage real money in the new Gimi Master!"
 }
