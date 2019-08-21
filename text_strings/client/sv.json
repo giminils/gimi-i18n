@@ -2760,5 +2760,9 @@
   "not_interested_in_premium_option_1": "PLZ_CHECK It's too expensive",
   "not_interested_in_premium_option_2": "PLZ_CHECK I need more info",
   "not_interested_in_premium_option_3": "PLZ_CHECK I'll do it later",
-  "about_card_link": "PLZ_CHECK https://gimitheapp.se/nyheter/gimi-kortet"
+  "about_card_link": "PLZ_CHECK https://gimitheapp.se/nyheter/gimi-kortet",
+  "philip_ceo_title": "PLZ_CHECK Philip Haglund, Founder & CEO",
+  "why_premium_costs_money_title": "PLZ_CHECK Thanks for the feedback! Here's an explanation",
+  "why_premium_costs_money_subtitle": "PLZ_CHECK Gimi is made possible by the users who pay. By paying, you are supporting our mission is to teach children financial literacy.",
+  "why_premium_costs_money_buy_button": "PLZ_CHECK Buy subscription"
 }
