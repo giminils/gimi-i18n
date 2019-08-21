@@ -2755,5 +2755,9 @@
   "promo_free_card_unlocked": "PLZ_TRANSLATE Free card unlocked!",
   "promo_prices_unlocked": "PLZ_TRANSLATE Promo prices unlocked!",
   "promo_code_error": "PLZ_TRANSLATE This code seems to be invalid!",
-  "enter_code": "PLZ_TRANSLATE Enter code"
+  "enter_code": "PLZ_TRANSLATE Enter code",
+  "not_interested_in_premium_title": "PLZ_TRANSLATE Not interested? Tell us why!",
+  "not_interested_in_premium_option_1": "PLZ_TRANSLATE It's too expensive",
+  "not_interested_in_premium_option_2": "PLZ_TRANSLATE I need more info",
+  "not_interested_in_premium_option_3": "PLZ_TRANSLATE I'll do it later"
 }

@@ -2755,5 +2755,9 @@
   "promo_free_card_unlocked": "Free card unlocked!",
   "promo_prices_unlocked": "Promo prices unlocked!",
   "promo_code_error": "This code seems to be invalid!",
-  "enter_code": "Enter code"
+  "enter_code": "Enter code",
+  "not_interested_in_premium_title": "Not interested? Tell us why!",
+  "not_interested_in_premium_option_1": "It's too expensive",
+  "not_interested_in_premium_option_2": "I need more info",
+  "not_interested_in_premium_option_3": "I'll do it later"
 }
