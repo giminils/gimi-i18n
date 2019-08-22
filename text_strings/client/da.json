@@ -1871,8 +1871,6 @@
   "kid_custom_note_feature_bot": "Hejsa! Vil du chatte?",
   "card_is_on_its_way_takeover_title": "Kortet er på vej!",
   "card_is_on_its_way_takeover_subtitle": "Det tager et par dage. Vi sender en ordre til kortfabrikken, de udskriver dit navn på det og sender det med snail mail.",
-  "card_is_on_its_way_takeover_alternative_title": "PLZ_TRANSLATE Card is on its way alternative title",
-  "card_is_on_its_way_takeover_alternative_subtitle": "PLZ_TRANSLATE Card is on its way alternative subtitle",
   "identity_verified_confirmation_message": "Identitet verificeret",
   "card_terms_accepted_confirmation_message": "Brugervilkår accepteret",
   "name_was_upgraded_to_premium_title": "%1$d er blevet opgraderet! ✌️",

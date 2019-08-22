@@ -1871,8 +1871,6 @@
   "kid_custom_note_feature_bot": "Just find me in the app if you wanna chat 🙃",
   "card_is_on_its_way_takeover_title": "The card is on its way!",
   "card_is_on_its_way_takeover_subtitle": "It takes a few days. We sent an order to the card factory, they print your name on it and send it with snail mail.",
-  "card_is_on_its_way_takeover_alternative_title": "Card is on its way alternative title",
-  "card_is_on_its_way_takeover_alternative_subtitle": "Card is on its way alternative subtitle",
   "identity_verified_confirmation_message": "Identity verified",
   "card_terms_accepted_confirmation_message": "User terms accepted",
   "name_was_upgraded_to_premium_title": "%1$d has been upgraded! ✌️",
