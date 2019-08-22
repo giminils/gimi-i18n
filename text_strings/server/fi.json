@@ -386,5 +386,7 @@
   "ADGEPU013_push_title": "Oho! Päivitä Gimi App Storessa!",
   "ADGEPU014_push_title": "Oho! Päivitä Gimi Play Storessa!",
   "event_connected_to_parent": "PLZ_TRANSLATE You're now connected with {parent.nickname}!",
-  "ADGEPU015_push_title": "PLZ_TRANSLATE News! 📣 Manage real money in the new Gimi Master!"
+  "ADGEPU015_push_title": "PLZ_TRANSLATE News! 📣 Manage real money in the new Gimi Master!",
+  "ADGERE008_notification_title": "PLZ_TRANSLATE 👋Reminder to order a Gimi card! Someone will be very happy to get theirs...",
+  "ADGERE008_push_title": "PLZ_TRANSLATE 👋Reminder to order a Gimi card!"
 }
