@@ -2738,6 +2738,7 @@
   "enter_stripe_card_details_card_number_label": "Numéro de carte",
   "enter_stripe_card_details_expiry_label": "Expiration",
   "enter_stripe_card_details_cvv_label": "Code CVV",
+  "enter_stripe_card_scan_card": "PLZ_TRANSLATE Scan credit card",
   "enter_custom_phone_number": "Tapez le numéro de téléphone à la place.",
   "update_stripe_card_confirmation_popover_title": "PLZ_TRANSLATE Sure you want to change card?",
   "update_stripe_card_confirmation_popover_text": "PLZ_TRANSLATE You already have a card on file. Saving a new one will erase your current one!",
