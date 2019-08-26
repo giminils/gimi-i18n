@@ -2764,5 +2764,6 @@
   "why_premium_costs_money_title": "¡Gracias por el comentario! Aquí hay una explicación",
   "why_premium_costs_money_subtitle": "Gimi se hace posible por los usuarios que pagan. Al pagar, estas apoyabdo nuestra misión que es enseñar a los niños cultura financiera.",
   "why_premium_costs_money_buy_button": "Comprar suscripción",
-  "has_sub_but_no_card_hint": "¡No olvides solicitar tu tarjeta Gimi!"
+  "has_sub_but_no_card_hint": "¡No olvides solicitar tu tarjeta Gimi!",
+  "internal_error_correction_transaction": "PLZ_TRANSLATE Correction, and apology from Gimi, for a mistake in your balance or transaction history"
 }
