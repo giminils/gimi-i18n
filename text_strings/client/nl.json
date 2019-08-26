@@ -1871,6 +1871,8 @@
   "kid_custom_note_feature_bot": "He daar! Wil je chatten?",
   "card_is_on_its_way_takeover_title": "De kaart is onderweg!",
   "card_is_on_its_way_takeover_subtitle": "Het duurt een paar dagen. We sturen een bestelling naar de kaart-fabriek, ze drukken jouw naam erop en versturen het met de slakkenpost.",
+  "order_card_done_alternative_title": "PLZ_TRANSLATE card order done alternative title",
+  "order_card_done_alternative_subtitle": "PLZ_TRANSLATE card order done alternative subtitle",
   "identity_verified_confirmation_message": "Identiteit vastgesteld",
   "card_terms_accepted_confirmation_message": "Gebruikersvoorwaarden geaccepteerd",
   "name_was_upgraded_to_premium_title": "%1$d is geüpgraded! ✌️",
