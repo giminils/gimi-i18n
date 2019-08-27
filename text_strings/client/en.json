@@ -2767,5 +2767,6 @@
   "why_premium_costs_money_subtitle": "Gimi is made possible by the users who pay. By paying, you are supporting our mission is to teach children financial literacy.",
   "why_premium_costs_money_buy_button": "Buy subscription",
   "has_sub_but_no_card_hint": "Don't forget to order your Gimi card!",
-  "internal_error_correction_transaction": "Correction for a mistake in your transactions"
+  "internal_error_correction_transaction": "Correction for a mistake in your transactions",
+  "discounted_iap_promo_text": "Limitied time discount"
 }
