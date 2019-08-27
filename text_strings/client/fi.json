@@ -2740,7 +2740,7 @@
   "enter_stripe_card_details_card_number_label": "Kortin numero",
   "enter_stripe_card_details_expiry_label": "Voimassa",
   "enter_stripe_card_details_cvv_label": "CVV",
-  "enter_stripe_card_scan_card": "PLZ_TRANSLATE Scan credit card",
+  "enter_stripe_card_scan_card": "PLZ_TRANSLATE Scan your card",
   "enter_custom_phone_number": "Syötä puhelinnumero",
   "update_stripe_card_confirmation_popover_title": "Oletko varma, että haluat vaihtaa kortin?",
   "update_stripe_card_confirmation_popover_text": "Sinulla on jo kortti. Uuden tallentaminen poistaa vanhan!",

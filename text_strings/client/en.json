@@ -2740,7 +2740,7 @@
   "enter_stripe_card_details_card_number_label": "Card number",
   "enter_stripe_card_details_expiry_label": "Expiry",
   "enter_stripe_card_details_cvv_label": "CVV",
-  "enter_stripe_card_scan_card": "Scan credit card",
+  "enter_stripe_card_scan_card": "Scan your card",
   "enter_custom_phone_number": "Type phone number instead",
   "update_stripe_card_confirmation_popover_title": "Sure you want to change card?",
   "update_stripe_card_confirmation_popover_text": "You already have a card on file. Saving a new one will erase your current one!",
