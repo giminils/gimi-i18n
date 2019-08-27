@@ -61,8 +61,6 @@
         var command_index = document.getElementById("id_command").selectedIndex;
         var command_json_select = document.getElementById("id_command_params_json");
         var command_hint_select = document.getElementById("id_command_params_hint");
-        //command_json_select.selectedIndex = command_index;
-        //command_hint_select.selectedIndex = command_index;
         document.getElementById("id_args").value = command_json_select.options[command_index].innerText;
         document.getElementById("id_args_hint").innerText = command_hint_select.options[command_index].innerText;
     }
