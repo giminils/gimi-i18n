@@ -2752,5 +2752,6 @@
   "why_premium_costs_money_buy_button": "Comprar suscripción",
   "has_sub_but_no_card_hint": "¡No olvides solicitar tu tarjeta Gimi!",
   "internal_error_correction_transaction": "PLZ_TRANSLATE Correction for a mistake in your transactions",
-  "discounted_iap_promo_text": "PLZ_TRANSLATE Limitied time discount"
+  "discounted_iap_promo_text": "PLZ_TRANSLATE Limitied time discount",
+  "premium_unlimit_promo_text": "PLZ_TRANSLATE Lifetime Gimi subscription"
 }
