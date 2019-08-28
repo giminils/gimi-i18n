@@ -2753,5 +2753,7 @@
   "has_sub_but_no_card_hint": "¡No olvides solicitar tu tarjeta Gimi!",
   "internal_error_correction_transaction": "PLZ_TRANSLATE Correction for a mistake in your transactions",
   "discounted_iap_promo_text": "PLZ_TRANSLATE Limitied time discount",
-  "premium_unlimit_promo_text": "PLZ_TRANSLATE Lifetime Gimi subscription"
+  "premium_unlimit_promo_text": "PLZ_TRANSLATE Lifetime Gimi subscription",
+  "email_already_taken_by_kid_title": "PLZ_TRANSLATE This email is already taken",
+  "email_already_taken_by_kid_desc": "PLZ_TRANSLATE The email is registered on your child. To connect it to your account, you need to go to settings and save a phone number on your child's account, and delete the email."
 }
