@@ -389,5 +389,17 @@
   "ADGEPU015_push_title": "Uutisia! 📣 Käsittele oikeaa rahaa Gimi Masterissa!",
   "ADGERE008_notification_title": "👋 Muista tilata Gimi-kortti! Joku varmasti ilahtuisi siitä...",
   "ADGERE008_push_title": "👋 Muista tilata Gimi-kortti!",
-  "pin_code_mail_subject": "PLZ_TRANSLATE Verification code for Gimi"
+  "pin_code_mail_subject": "PLZ_TRANSLATE Verification code for Gimi",
+  "CHGERE038_notification_title": "PLZ_TRANSLATE You have a friend request from {friend.nickname}",
+  "CHGERE038_push_title": "PLZ_TRANSLATE Friend request from {friend.nickname}!",
+  "CHGERE039_notification_title": "PLZ_TRANSLATE {friend.nickname} accepted your friend request!",
+  "CHGERE039_push_title": "PLZ_TRANSLATE {friend.nickname} accepted your friend request!",
+  "CHGERE040_notification_title": "PLZ_TRANSLATE You received money from {friend.nickname}",
+  "CHGERE040_push_title": "PLZ_TRANSLATE {friend.nickname} sent you money!",
+  "ADGERE040_notification_title": "PLZ_TRANSLATE {child.nickname} connected with {friend.nickname}",
+  "ADGERE040_push_title": "PLZ_TRANSLATE {child.nickname} connected with {friend.nickname}",
+  "ADGERE041_notification_title": "PLZ_TRANSLATE {child.nickname} sent {amount} to {friend.nickname}",
+  "ADGERE041_push_title": "PLZ_TRANSLATE {child.nickname} sent money to a friend",
+  "ADGERE042_notification_title": "PLZ_TRANSLATE {child.nickname} received {amount} from {friend.nickname}",
+  "ADGERE042_push_title": "PLZ_TRANSLATE {child.nickname} received money from a friend"
 }
