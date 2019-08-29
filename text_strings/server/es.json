@@ -388,5 +388,6 @@
   "event_connected_to_parent": "¡Ahora estás conectado con {parent.nickname}!",
   "ADGEPU015_push_title": "¡Novedades! 📣 ¡Administrar dinero real en la nueva Gimi Máster!",
   "ADGERE008_notification_title": "👋 ¡Recordatorio para solicitar una tarjeta Gimi! Alguien estará muy feliz de conseguir la suya...",
-  "ADGERE008_push_title": "👋 ¡Recordatorio para solicitar una tarjeta Gimi!"
+  "ADGERE008_push_title": "👋 ¡Recordatorio para solicitar una tarjeta Gimi!",
+  "pin_code_mail_subject": "PLZ_TRANSLATE Verification code for Gimi"
 }

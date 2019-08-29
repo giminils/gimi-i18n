@@ -388,5 +388,6 @@
   "event_connected_to_parent": "{parent.nickname} lisättiin kontakteihisi!",
   "ADGEPU015_push_title": "Uutisia! 📣 Käsittele oikeaa rahaa Gimi Masterissa!",
   "ADGERE008_notification_title": "👋 Muista tilata Gimi-kortti! Joku varmasti ilahtuisi siitä...",
-  "ADGERE008_push_title": "👋 Muista tilata Gimi-kortti!"
+  "ADGERE008_push_title": "👋 Muista tilata Gimi-kortti!",
+  "pin_code_mail_subject": "PLZ_TRANSLATE Verification code for Gimi"
 }
