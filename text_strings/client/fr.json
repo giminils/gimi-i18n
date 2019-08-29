@@ -2755,5 +2755,12 @@
   "discounted_iap_promo_text": "PLZ_TRANSLATE Limitied time discount",
   "premium_unlimit_promo_text": "PLZ_TRANSLATE Lifetime Gimi subscription",
   "email_already_taken_by_kid_title": "PLZ_TRANSLATE This email is already taken",
-  "email_already_taken_by_kid_desc": "PLZ_TRANSLATE The email is registered on your child. To connect it to your account, you need to go to settings and save a phone number on your child's account, and delete the email."
+  "email_already_taken_by_kid_desc": "PLZ_TRANSLATE The email is registered on your child. To connect it to your account, you need to go to settings and save a phone number on your child's account, and delete the email.",
+  "spend_video_title_activate_card": "PLZ_TRANSLATE Activate card",
+  "spend_video_title_charge_card": "PLZ_TRANSLATE Top-up card",
+  "spend_video_title_view_pin": "PLZ_TRANSLATE View card pin",
+  "spend_video_title_use_card_pin": "PLZ_TRANSLATE Use card with pin",
+  "spend_video_title_use_card_blipp": "PLZ_TRANSLATE Use card with blipp",
+  "spend_video_title_evaluate_purchase": "PLZ_TRANSLATE Evaluate purchase",
+  "spend_video_title_online_purchase": "PLZ_TRANSLATE Online purchase"
 }
