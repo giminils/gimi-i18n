@@ -1207,7 +1207,7 @@
   "chore_transaction_help_header_parent": "Chores, what is that?",
   "chore_transaction_help_desc_parent": "The figure you see here shows how much a child has earned from chores during the week or month.",
   "future_interest_help_header_parent": "Savings bonus, what is that?",
-  "future_interest_help_desc_parent": "The figure you see here shows an estimate of the savings bonus added to Savings on Payday, which is calculated on the savings bonus and the amount in Savings.",
+  "future_interest_help_desc_parent": "The figure you see here shows an estimate of the savings bonus added to Savings on Payday, which is based on the amount in Savings.",
   "chore_reward": "Reward",
   "email_invite_description": "Check your email for the code. Sometimes emails can be slow, and this one often ends up in junk!",
   "monthly_allowance_amount_explainer": "Your child’s allowance will be paid out unconditionally, encouraging them to watch their savings grow over time. The amount we recommend is the average of what other children the same age receive.",
