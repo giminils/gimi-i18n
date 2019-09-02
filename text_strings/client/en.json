@@ -1221,7 +1221,7 @@
   "general_yes_delete": "Yes, delete",
   "general_no_go_back": "No, go back!",
   "delete_connection_warning_for_parent": "The money that you owe %1$d will disappear from Savings. Are you sure you want to delete %1$d?",
-  "get_premium": "Get Gimi Master",
+  "get_premium": "Upgrade now",
   "premium_with_price": "Gimi Master %1$d/month",
   "no_active_subscription": "No active subscription",
   "general_edit": "Edit",
