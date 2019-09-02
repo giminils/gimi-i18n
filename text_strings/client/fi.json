@@ -2763,5 +2763,6 @@
   "spend_video_title_use_card_blipp": "Käytä korttia lähimaksulla",
   "spend_video_title_evaluate_purchase": "PLZ_CHECK Arvioi ostos",
   "spend_video_title_online_purchase": "Nettiostos",
-  "new_friend_connection_text": "Sinut on yhdistetty kaveriisi!"
+  "new_friend_connection_text": "Sinut on yhdistetty kaveriisi!",
+  "new_friend_connection_infoview_title_kid": "PLZ_TRANSLATE You have a new friend!"
 }
