@@ -398,8 +398,8 @@
   "CHGERE040_push_title": "{friend.nickname} sent you money!",
   "ADGERE040_notification_title": "{child.nickname} connected with {friend.nickname}",
   "ADGERE040_push_title": "{child.nickname} connected with {friend.nickname}",
-  "ADGERE041_notification_title": "{child.nickname} sent {amount} to {friend.nickname}",
-  "ADGERE041_push_title": "{child.nickname} sent money to a friend",
-  "ADGERE042_notification_title": "{child.nickname} received {amount} from {friend.nickname}",
-  "ADGERE042_push_title": "{child.nickname} received money from a friend"
+  "ADPRRE041_notification_title": "{child.nickname} sent {amount} to {friend.nickname}",
+  "ADPRRE041_push_title": "{child.nickname} sent money to a friend",
+  "ADPRRE042_notification_title": "{child.nickname} received {amount} from {friend.nickname}",
+  "ADPRRE042_push_title": "{child.nickname} received money from a friend"
 }
