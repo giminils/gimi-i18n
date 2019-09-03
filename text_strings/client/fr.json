@@ -2764,5 +2764,6 @@
   "spend_video_title_evaluate_purchase": "PLZ_TRANSLATE Evaluate purchase",
   "spend_video_title_online_purchase": "PLZ_TRANSLATE Online purchase",
   "new_friend_connection_text": "PLZ_TRANSLATE You're now connected to your friend!",
-  "new_friend_connection_infoview_title_kid": "PLZ_TRANSLATE You have a new friend!"
+  "new_friend_connection_infoview_title_kid": "PLZ_TRANSLATE You have a new friend!",
+  "kyc_klarna_title": "PLZ_TRANSLATE Verify with Klarna"
 }
