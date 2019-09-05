@@ -2767,6 +2767,8 @@
   "new_friend_connection_infoview_title_kid": "PLZ_TRANSLATE You have a new friend!",
   "kyc_klarna_title": "PLZ_TRANSLATE Verify with Klarna",
   "onfido_fail_intercom_prefilled_message": "PLZ_TRANSLATE The ID verification didn't work. Help me!",
-  "onfido_verify_name_edit": "PLZ_TRANSLATE Verify your name",
-  "onfido_verify_name_edit_help": "PLZ_TRANSLATE Name has to be exact as your ID-card you will scan"
+  "onfido_verify_name_edit_firstname": "PLZ_TRANSLATE Verify your first name",
+  "onfido_verify_name_edit_help_firstname": "PLZ_TRANSLATE Name has to be exact as your ID-card you will scan",
+  "onfido_verify_name_edit_lastname": "PLZ_TRANSLATE Verify your lastname",
+  "onfido_verify_name_edit_help_lastname": "PLZ_TRANSLATE Name has to be exact as your ID-card you will scan"
 }
