@@ -2765,5 +2765,6 @@
   "spend_video_title_online_purchase": "Internetköp",
   "new_friend_connection_text": "Du är nu ihopkopplad med din kompis!",
   "new_friend_connection_infoview_title_kid": "Du har en ny kompis!",
-  "kyc_klarna_title": "PLZ_CHECK Verify with Klarna"
+  "kyc_klarna_title": "PLZ_CHECK Verify with Klarna",
+  "onfido_fail_intercom_prefilled_message": "PLZ_CHECK The ID verification didn't work. Help me!"
 }

@@ -2765,5 +2765,6 @@
   "spend_video_title_online_purchase": "Nettiostos",
   "new_friend_connection_text": "Sinut on yhdistetty kaveriisi!",
   "new_friend_connection_infoview_title_kid": "PLZ_TRANSLATE You have a new friend!",
-  "kyc_klarna_title": "PLZ_TRANSLATE Verify with Klarna"
+  "kyc_klarna_title": "PLZ_TRANSLATE Verify with Klarna",
+  "onfido_fail_intercom_prefilled_message": "PLZ_TRANSLATE The ID verification didn't work. Help me!"
 }
