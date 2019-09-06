@@ -2772,5 +2772,5 @@
   "onfido_verify_name_edit_lastname": "PLZ_TRANSLATE Verify your lastname",
   "onfido_verify_name_edit_help_lastname": "PLZ_TRANSLATE Name has to be exact as your ID-card you will scan",
   "pfs_down_hint_text": "PLZ_TRANSLATE Temporary connection problem",
-  "i_decline_instantors_integrity_policy": "PLZ_TRANSLATE No thanks"
+  "i_decline_instantors_integrity_policy": "PLZ_TRANSLATE Other options"
 }

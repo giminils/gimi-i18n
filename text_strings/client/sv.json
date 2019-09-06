@@ -2772,5 +2772,5 @@
   "onfido_verify_name_edit_lastname": "Skriv in ditt fullständiga efternamn",
   "onfido_verify_name_edit_help_lastname": "Efternamn måste stavas exakt enligt ditt ID-kort/pass",
   "pfs_down_hint_text": "PLZ_CHECK Temporary connection problem",
-  "i_decline_instantors_integrity_policy": "Andra alternativ"
+  "i_decline_instantors_integrity_policy": "PLZ_CHECK Other options"
 }
