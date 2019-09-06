@@ -501,7 +501,7 @@
   "general_month": "month",
   "question_delete": "do you want to delete %1$d?",
   "question_have_account": "We can't find your user account!",
-  "signin_code_not_found": "you wrote %1$d. Check that it's correct and try again.",
+  "signin_code_not_found": "PLZ_COPY You entered an unknown phone number, please try again.",
   "verification_failed": "Verification failed.",
   "verification_failed_text": "The verification of your phone number or email failed. Check your Internet connection.",
   "question_code_correct": "is the code correct?",
