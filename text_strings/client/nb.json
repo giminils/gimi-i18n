@@ -501,7 +501,7 @@
   "general_month": "måned",
   "question_delete": "vil du slette %1$d?",
   "question_have_account": "Vi kan ikke finne din brukerkonto!",
-  "signin_code_not_found": "du skrev inn %1$d. Kontroller at du har skrevet inn korrekt og forsøk igjen.",
+  "signin_code_not_found": "PLZ_TRANSLATE You entered an unknown phone number, please try again.",
   "verification_failed": "Verifieringen mislykkes.",
   "verification_failed_text": "Verifieringen av ditt telefonnummer eller e-post mislykkes. Venlig kontroller din oppkobling.",
   "question_code_correct": "er det rett kode?",

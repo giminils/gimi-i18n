@@ -501,7 +501,7 @@
   "general_month": "kuukausi",
   "question_delete": "haluatko varmasti poistaa kohteen %1$d?",
   "question_have_account": "Tiliäsi ei löytynyt!",
-  "signin_code_not_found": "kirjoitit %1$d. Tarkista oikeinkirjoitus ja yritä uudestaan.",
+  "signin_code_not_found": "PLZ_TRANSLATE You entered an unknown phone number, please try again.",
   "verification_failed": "Vahvistus epäonnistui.",
   "verification_failed_text": "Puhelinnumerosi tai sähköpostiosoitteesi vahvistus epäonnistui. Tarkista internet-yhteytesi.",
   "question_code_correct": "Onko koodi oikein?",

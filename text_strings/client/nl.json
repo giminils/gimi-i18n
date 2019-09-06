@@ -501,7 +501,7 @@
   "general_month": "maand",
   "question_delete": "wil je %1$d? verwijderen?",
   "question_have_account": "We kunnen je gebruikers account niet vinden!",
-  "signin_code_not_found": "je schreef %1$d. Controleer of het correct is en probeer het opnieuw.",
+  "signin_code_not_found": "PLZ_TRANSLATE You entered an unknown phone number, please try again.",
   "verification_failed": "Verificatie mislukt.",
   "verification_failed_text": "De verificatie van je telefoonnummer of email is mislukt. Controleer je internetverbinding.",
   "question_code_correct": "is de code correct?",

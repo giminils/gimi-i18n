@@ -501,7 +501,7 @@
   "general_month": "mois",
   "question_delete": "voulez-vous supprimer %1$d?",
   "question_have_account": "Nous ne trouvons pas votre compte!",
-  "signin_code_not_found": "vous avez écrit %1$d. Vérifiez que c'est correct, et essayez à nouveau.",
+  "signin_code_not_found": "PLZ_TRANSLATE You entered an unknown phone number, please try again.",
   "verification_failed": "La confirmation a échouée.",
   "verification_failed_text": "La confirmation de votre numéro de téléphone ou mail a échouée. Vérifiez votre connexion.",
   "question_code_correct": "est-ce que le code est correct?",

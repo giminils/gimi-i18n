@@ -501,7 +501,7 @@
   "general_month": "Monat",
   "question_delete": "Möchstest Du %1$d löschen?",
   "question_have_account": "Wir können Dein Konto nicht finden!",
-  "signin_code_not_found": "Du hast %1$d geschrieben. Überprüfe, ob das richtig ist und versuche es noch einmal.",
+  "signin_code_not_found": "PLZ_TRANSLATE You entered an unknown phone number, please try again.",
   "verification_failed": "Verifizierung fehlgeschlagen.",
   "verification_failed_text": "Die Verifizierung Deiner Telefonnummer oder E-Mail-Adresse ist fehlgeschlagen. Überprüfe Deine Internetverbindung.",
   "question_code_correct": "Ist der Code richtig?",

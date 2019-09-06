@@ -501,7 +501,7 @@
   "general_month": "måned",
   "question_delete": "vil du slette %1$d?",
   "question_have_account": "Vi kan ikke finde din brugerkonto!",
-  "signin_code_not_found": "du skrev %1$d. Tjek om det er korrekt og prøv igen.",
+  "signin_code_not_found": "PLZ_TRANSLATE You entered an unknown phone number, please try again.",
   "verification_failed": "Verificationen mislykkedes.",
   "verification_failed_text": "Verificationen af dit telefonnummer eller email mislykkedes. Tjek din Internet forbindelse.",
   "question_code_correct": "er koden korrekt?",
