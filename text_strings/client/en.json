@@ -2771,5 +2771,6 @@
   "onfido_verify_name_edit_help_firstname": "First name must match your ID/passport exactly",
   "onfido_verify_name_edit_lastname": "Write your last name correctly",
   "onfido_verify_name_edit_help_lastname": "Last name must match your ID/passport exactly",
-  "pfs_down_hint_text": "Temporary connection problem"
+  "pfs_down_hint_text": "Temporary connection problem",
+  "i_decline_instantors_integrity_policy": "No thanks"
 }
