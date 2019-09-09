@@ -2774,5 +2774,6 @@
   "pfs_down_hint_text": "PLZ_CHECK Temporary connection problem",
   "i_decline_instantors_integrity_policy": "PLZ_CHECK Other options",
   "kid_phone_signup_use_email_instead": "PLZ_CHECK Use email instead!",
-  "kid_phone_signup_parent_doing_flow_disclaimer": "PLZ_CHECK Supporter creating account for a child? Use email instead!"
+  "kid_phone_signup_parent_doing_flow_disclaimer": "PLZ_CHECK Supporter creating account for a child? Use email instead!",
+  "custom_notification_update_to_use": "PLZ_CHECK ✨Upgrade to use Gimi with real money! The Gimi card is included"
 }
