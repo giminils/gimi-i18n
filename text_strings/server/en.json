@@ -414,5 +414,6 @@
   "push_promo_month_9_parent": "How are your children's money skills?",
   "push_promo_month_10_parent": "Remember to deduct money for sweets!",
   "push_promo_month_11_parent": "Let's talk about money today!",
-  "push_promo_month_12_parent": "Any more expenses from your kids recently?"
+  "push_promo_month_12_parent": "Any more expenses from your kids recently?",
+  "ADPRRE043_notification_title": "Updated [Play/App] store IAP from {subscription.original_sku} to {subscription.sku}"
 }

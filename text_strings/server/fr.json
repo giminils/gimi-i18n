@@ -414,5 +414,6 @@
   "push_promo_month_9_parent": "PLZ_TRANSLATE How are your children's money skills?",
   "push_promo_month_10_parent": "PLZ_TRANSLATE Remember to deduct money for sweets!",
   "push_promo_month_11_parent": "PLZ_TRANSLATE Let's talk about money today!",
-  "push_promo_month_12_parent": "PLZ_TRANSLATE Any more expenses from your kids recently?"
+  "push_promo_month_12_parent": "PLZ_TRANSLATE Any more expenses from your kids recently?",
+  "ADPRRE043_notification_title": "PLZ_TRANSLATE Updated [Play/App] store IAP from {subscription.original_sku} to {subscription.sku}"
 }
