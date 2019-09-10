@@ -403,5 +403,16 @@
   "ADPRRE041_notification_title": "{child.nickname} sent {amount} to {friend.nickname}",
   "ADPRRE041_push_title": "{child.nickname} sent money to a friend",
   "ADPRRE042_notification_title": "{child.nickname} received {amount} from {friend.nickname}",
-  "ADPRRE042_push_title": "{child.nickname} received money from a friend"
+  "ADPRRE042_push_title": "{child.nickname} received money from a friend",
+  "push_promo_month_1_parent": "Your children are learning about money!",
+  "push_promo_month_3_parent": "Bought anything for your kids lately? ✨",
+  "push_promo_month_4_parent": "Saturdays are the best days ☀️",
+  "push_promo_month_5_parent": "Today is going to be a great day 💕",
+  "push_promo_month_6_parent": "How much are your kids saving?",
+  "push_promo_month_7_parent": "Happy Saturday! 🥳",
+  "push_promo_month_8_parent": "Are your kids spending too much?",
+  "push_promo_month_9_parent": "How are your children's money skills?",
+  "push_promo_month_10_parent": "Remember to deduct money for sweets!",
+  "push_promo_month_11_parent": "Let's talk about money today!",
+  "push_promo_month_12_parent": "Any more expenses from your kids recently?"
 }

@@ -403,5 +403,16 @@
   "ADPRRE041_notification_title": "{child.nickname} skickade {amount} till {friend.nickname}",
   "ADPRRE041_push_title": "{child.nickname} skickade pengar till en kompis",
   "ADPRRE042_notification_title": "{child.nickname} fick {amount} från {friend.nickname}",
-  "ADPRRE042_push_title": "{child.nickname} fick pengar från en kompis"
+  "ADPRRE042_push_title": "{child.nickname} fick pengar från en kompis",
+  "push_promo_month_1_parent": "PLZ_CHECK Your children are learning about money!",
+  "push_promo_month_3_parent": "PLZ_CHECK Bought anything for your kids lately? ✨",
+  "push_promo_month_4_parent": "PLZ_CHECK Saturdays are the best days ☀️",
+  "push_promo_month_5_parent": "PLZ_CHECK Today is going to be a great day 💕",
+  "push_promo_month_6_parent": "PLZ_CHECK How much are your kids saving?",
+  "push_promo_month_7_parent": "PLZ_CHECK Happy Saturday! 🥳",
+  "push_promo_month_8_parent": "PLZ_CHECK Are your kids spending too much?",
+  "push_promo_month_9_parent": "PLZ_CHECK How are your children's money skills?",
+  "push_promo_month_10_parent": "PLZ_CHECK Remember to deduct money for sweets!",
+  "push_promo_month_11_parent": "PLZ_CHECK Let's talk about money today!",
+  "push_promo_month_12_parent": "PLZ_CHECK Any more expenses from your kids recently?"
 }
