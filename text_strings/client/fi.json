@@ -2775,5 +2775,21 @@
   "i_decline_instantors_integrity_policy": "PLZ_TRANSLATE Other options",
   "kid_phone_signup_use_email_instead": "PLZ_TRANSLATE Use email instead!",
   "kid_phone_signup_parent_doing_flow_disclaimer": "PLZ_TRANSLATE Supporter creating account for a child? Use email instead!",
-  "custom_notification_update_to_use_real_money": "PLZ_TRANSLATE ✨Upgrade to use Gimi with real money! The Gimi card is included"
+  "custom_notification_update_to_use_real_money": "PLZ_TRANSLATE ✨Upgrade to use Gimi with real money! The Gimi card is included",
+  "onfido_fail_code_general": "PLZ_TRANSLATE We could not read your document!",
+  "onfido_fail_code_general_desc": "PLZ_TRANSLATE The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
+  "onfido_fail_code_document_expiration": "PLZ_TRANSLATE Your document was expired!",
+  "onfido_fail_code_document_expiration_desc": "PLZ_TRANSLATE So we could not verify your identity. Try again with new document!",
+  "onfido_fail_code_supported_document": "PLZ_TRANSLATE Your document type is not supported...",
+  "onfido_fail_code_supported_document_desc": "PLZ_TRANSLATE So we could not verify your identity. Try again with new document!",
+  "onfido_fail_code_last_name": "PLZ_TRANSLATE Your last name does not match...",
+  "onfido_fail_code_last_name_desc": "PLZ_TRANSLATE Your last name does not match your document. Please try again and make sure it matches your document.",
+  "onfido_fail_code_first_name": "PLZ_TRANSLATE Your first name does not match...",
+  "onfido_fail_code_first_name_desc": "PLZ_TRANSLATE Your first name does not match your document. Please try again and make sure it matches your document.",
+  "onfido_fail_code_face_detection": "PLZ_TRANSLATE Your face could not be recognized!",
+  "onfido_fail_code_face_detection_desc": "PLZ_TRANSLATE The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
+  "onfido_fail_code_image_quality": "PLZ_TRANSLATE Image quality was not crisp enough...",
+  "onfido_fail_code_image_quality_desc": "PLZ_TRANSLATE The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
+  "onfido_fail_code_date_of_birth": "PLZ_TRANSLATE Could not verify your date of birth...",
+  "onfido_fail_code_date_of_birth_desc": "PLZ_TRANSLATE Your personal number does not match with your document. Make sure you are using your document and that its good image quality"
 }

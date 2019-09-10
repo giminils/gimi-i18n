@@ -2775,5 +2775,21 @@
   "i_decline_instantors_integrity_policy": "Andra alternativ",
   "kid_phone_signup_use_email_instead": "Använd e-post istället!",
   "kid_phone_signup_parent_doing_flow_disclaimer": "Supporter som skapar konto till ett barn? Använd e-post istället!",
-  "custom_notification_update_to_use_real_money": "✨Uppgradera och hantera riktiga pengar i Gimi! Gimi-kortet ingår"
+  "custom_notification_update_to_use_real_money": "✨Uppgradera och hantera riktiga pengar i Gimi! Gimi-kortet ingår",
+  "onfido_fail_code_general": "PLZ_CHECK We could not read your document!",
+  "onfido_fail_code_general_desc": "PLZ_CHECK The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
+  "onfido_fail_code_document_expiration": "PLZ_CHECK Your document was expired!",
+  "onfido_fail_code_document_expiration_desc": "PLZ_CHECK So we could not verify your identity. Try again with new document!",
+  "onfido_fail_code_supported_document": "PLZ_CHECK Your document type is not supported...",
+  "onfido_fail_code_supported_document_desc": "PLZ_CHECK So we could not verify your identity. Try again with new document!",
+  "onfido_fail_code_last_name": "PLZ_CHECK Your last name does not match...",
+  "onfido_fail_code_last_name_desc": "PLZ_CHECK Your last name does not match your document. Please try again and make sure it matches your document.",
+  "onfido_fail_code_first_name": "PLZ_CHECK Your first name does not match...",
+  "onfido_fail_code_first_name_desc": "PLZ_CHECK Your first name does not match your document. Please try again and make sure it matches your document.",
+  "onfido_fail_code_face_detection": "PLZ_CHECK Your face could not be recognized!",
+  "onfido_fail_code_face_detection_desc": "PLZ_CHECK The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
+  "onfido_fail_code_image_quality": "PLZ_CHECK Image quality was not crisp enough...",
+  "onfido_fail_code_image_quality_desc": "PLZ_CHECK The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
+  "onfido_fail_code_date_of_birth": "PLZ_CHECK Could not verify your date of birth...",
+  "onfido_fail_code_date_of_birth_desc": "PLZ_CHECK Your personal number does not match with your document. Make sure you are using your document and that its good image quality"
 }
