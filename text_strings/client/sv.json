@@ -501,7 +501,7 @@
   "general_month": "månad",
   "question_delete": "vill du radera %1$d?",
   "question_have_account": "Vi hittar inte ditt användarkonto!",
-  "signin_code_not_found": "PLZ_CHECK You entered an unknown phone number, please try again.",
+  "signin_code_not_found": "Du skrev in ett okänt telefonnummer, var vänlig försök igen.",
   "verification_failed": "Verifieringen misslyckades.",
   "verification_failed_text": "Verifieringen av ditt telefonnummer eller e-post misslyckades. Vänligen kontrollera din uppkoppling.",
   "question_code_correct": "är det rätt kod?",
@@ -2771,9 +2771,9 @@
   "onfido_verify_name_edit_help_firstname": "Förnamn måste stavas exakt enligt ditt ID-kort/pass",
   "onfido_verify_name_edit_lastname": "Skriv in ditt fullständiga efternamn",
   "onfido_verify_name_edit_help_lastname": "Efternamn måste stavas exakt enligt ditt ID-kort/pass",
-  "pfs_down_hint_text": "PLZ_CHECK Temporary connection problem",
-  "i_decline_instantors_integrity_policy": "PLZ_CHECK Other options",
-  "kid_phone_signup_use_email_instead": "PLZ_CHECK Use email instead!",
-  "kid_phone_signup_parent_doing_flow_disclaimer": "PLZ_CHECK Supporter creating account for a child? Use email instead!",
+  "pfs_down_hint_text": "Tillfällig driftstörning",
+  "i_decline_instantors_integrity_policy": "Andra alternativ",
+  "kid_phone_signup_use_email_instead": "Använd e-post istället!",
+  "kid_phone_signup_parent_doing_flow_disclaimer": "Supporter som skapar konto till ett barn? Använd e-post istället!",
   "custom_notification_update_to_use_real_money": "✨Uppgradera och hantera riktiga pengar i Gimi! Gimi-kortet ingår"
 }
