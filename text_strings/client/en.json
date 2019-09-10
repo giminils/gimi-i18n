@@ -2779,7 +2779,7 @@
   "onfido_fail_code_general": "We could not read your document!",
   "onfido_fail_code_general_desc": "The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
   "onfido_fail_code_document_expiration": "Your document was expired!",
-  "onfido_fail_code_document_expiration_desc": "So we could not verify your identity. Try again with new document!",
+  "onfido_fail_code_document_expiration_desc": "So we could not verify your identity. Try again with a new document!",
   "onfido_fail_code_supported_document": "Your document type is not supported...",
   "onfido_fail_code_supported_document_desc": "So we could not verify your identity. Try again with new document!",
   "onfido_fail_code_last_name": "Your last name does not match...",
