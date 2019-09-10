@@ -2791,5 +2791,7 @@
   "onfido_fail_code_image_quality": "Image quality was not crisp enough...",
   "onfido_fail_code_image_quality_desc": "The photo was bad quality, blurry or parts of the document were not visible. Try again with a better photo!",
   "onfido_fail_code_date_of_birth": "Could not verify your date of birth...",
-  "onfido_fail_code_date_of_birth_desc": "Your personal number does not match with your document. Make sure you are using your document and that its good image quality"
+  "onfido_fail_code_date_of_birth_desc": "Your personal number does not match with your document. Make sure you are using your document and that its good image quality",
+  "onfido_fail_unknown_title": "Something went wrong with identification...",
+  "onfido_fail_unknown_sub": "Please try verifying your id again!"
 }
