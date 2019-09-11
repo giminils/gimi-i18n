@@ -10,7 +10,7 @@
   "invite_email_subject": "Invitation to Gimi",
   "login_email_subject": "Gimi Login",
   "dashboard_goal_completed": "You have completed {goal.title}",
-  "event_complete_card_order": "A card is on it's way to you!",
+  "event_complete_card_order": "A card is on its way to you!",
   "sms_app_download": "Welcome to Gimi!\n http://onelink.to/gimi_se",
   "push_assignment_approved_parent": "{assignment.approved_by.name} approved the chore {assignment.task.title}. ({assignment.str_value})",
   "push_weekly_allowance_pre_payout_parent_0": "Time for {child}'s weekly allowance",
