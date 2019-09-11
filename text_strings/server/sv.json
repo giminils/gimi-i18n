@@ -415,5 +415,9 @@
   "push_promo_month_10_parent": "Ett nytt ungdomskort med evig familjefrid på köpet. För bra för att vara sant? Nä, det är bara Gimieffekten 💳🍰🦄🌈😌🎉🎀🎈",
   "push_promo_month_11_parent": "💁🎈🛍️ 💯💖 När dina barn städar, bäddar och diskar utan att bli påminda. Den känslan, det är Gimieffekten!",
   "push_promo_month_12_parent": "✨ Glada barn, bäddade sängar, rastade hundar och ren disk! Vad är det för utopi?🦄 Det är Gimieffekten! 🎈💖🤩",
-  "ADPRRE043_notification_title": "Uppdaterat [Play/App] store IAP från {subscription.original_sku} till {subscription.sku}"
+  "ADPRRE043_notification_title": "Uppdaterat [Play/App] store IAP från {subscription.original_sku} till {subscription.sku}",
+  "ADPRRE044_notification_title": "PLZ_CHECK 🚫Purchase at {pfstransactionstatement.merchant_name} was declined because you disabled online spending. Go to card settings to enable it",
+  "ADPRRE044_push_title": "PLZ_CHECK 🚫Purchase declined, online spending is disabled!",
+  "CHPRRE022_notification_title": "PLZ_CHECK 🚫Purchase at {pfstransactionstatement.merchant_name} was declined. A supporter has disabled online spending for you ☹️",
+  "CHPRRE022_push_title": "PLZ_CHECK 🚫Purchase declined, online spending is disabled!"
 }

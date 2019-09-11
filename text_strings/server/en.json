@@ -415,5 +415,9 @@
   "push_promo_month_10_parent": "Smiling kids doing their chores. Too good to be true? Nope, just the Gimi Effect! 💳🍰🦄🌈😌🎉🎀🎈",
   "push_promo_month_11_parent": "💁🎈🛍️ 💯💖 When your kids do their chores without a reminder, that feeling is the Gimi Effect!",
   "push_promo_month_12_parent": "✨ Happy children, made beds, walked dogs and clean dishes! What is this utopia?🦄 It’s the Gimi Effect! 🎈💖🤩?",
-  "ADPRRE043_notification_title": "Updated [Play/App] store IAP from {subscription.original_sku} to {subscription.sku}"
+  "ADPRRE043_notification_title": "Updated [Play/App] store IAP from {subscription.original_sku} to {subscription.sku}",
+  "ADPRRE044_notification_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined because you disabled online spending. Go to card settings to enable it",
+  "ADPRRE044_push_title": "🚫Purchase declined, online spending is disabled!",
+  "CHPRRE022_notification_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined. A supporter has disabled online spending for you ☹️",
+  "CHPRRE022_push_title": "🚫Purchase declined, online spending is disabled!"
 }
