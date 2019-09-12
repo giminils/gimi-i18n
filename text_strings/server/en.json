@@ -419,5 +419,6 @@
   "ADPRRE044_notification_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined because you disabled online spending. Go to card settings to enable it",
   "ADPRRE044_push_title": "🚫Purchase declined, online spending is disabled!",
   "CHPRRE022_notification_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined. A supporter has disabled online spending for you ☹️",
-  "CHPRRE022_push_title": "🚫Purchase declined, online spending is disabled!"
+  "CHPRRE022_push_title": "🚫Purchase declined, online spending is disabled!",
+  "CHGERE018_notification_title": "{parent.nickname} updated {chore_title}"
 }

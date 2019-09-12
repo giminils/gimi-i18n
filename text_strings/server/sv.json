@@ -419,5 +419,6 @@
   "ADPRRE044_notification_title": "🚫Ditt köp hos {pfstransactionstatement.merchant_name} nekades för du har stängt av onlineköp. Slå på onlineköp i kortets inställningar.",
   "ADPRRE044_push_title": "🚫Köpet nekades, onlineköp har avaktiverats!",
   "CHPRRE022_notification_title": "🚫Köpet hos  {pfstransactionstatement.merchant_name} nekades. En supporter har avaktiverat onlineköp ☹️",
-  "CHPRRE022_push_title": "🚫Köp nekades, onlineköp har avaktiverats!"
+  "CHPRRE022_push_title": "🚫Köp nekades, onlineköp har avaktiverats!",
+  "CHGERE018_notification_title": "PLZ_CHECK {parent.nickname} updated {chore_title}"
 }
