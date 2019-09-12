@@ -135,7 +135,7 @@
   "event_new_weekly_tasks": "Kolla in den här veckans uppgifter och se hur mycket du kan tjäna!",
   "event_permissions_to_deposit_granted": "Du har fått tillstånd att skicka pengar till {child.nickname}",
   "event_suggested_chore_enabled": "{parent.nickname} har accepterat ditt uppgiftsförslag!",
-  "push_new_pfs_transaction_statement_child": "💳 Du spenderade precis {pfstransactionstatement.str_amount} hos {pfstransactionstatement.merchant_name}",
+  "push_new_pfs_transaction_statement_child": "😍 Nöjd med ditt köp hos{pfstransactionstatement.merchant_name}? 😵",
   "push_new_pfs_transaction_statement_parent": "💳 {statement.card.user.nickname} har spenderat {statement.str_amount} hos {statement.merchant_name}",
   "push_you_have_reached_a_dream": "Grattis! Du har precis uppnått din dröm! 🚀",
   "push_new_weekly_tasks": "Kolla in veckans uppgifter!",
