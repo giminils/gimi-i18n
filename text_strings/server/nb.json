@@ -135,7 +135,7 @@
   "event_new_weekly_tasks": "Sjekk ut denne ukens oppgaver!",
   "event_permissions_to_deposit_granted": "Du har tillatelse til å sende penger til {child.nickname}",
   "event_suggested_chore_enabled": "{parent.nickname} har godkjent ditt oppgaveforslag!",
-  "push_new_pfs_transaction_statement_child": "💳 Du brukte nettopp {pfstransactionstatement.str_amount} på {pfstransactionstatement.merchant_name}",
+  "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE 😍 Happy with your purchase at {pfstransactionstatement.merchant_name}? 😵",
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} brukte nettopp {statement.str_amount} på {statement.merchant_name}",
   "push_you_have_reached_a_dream": "Gratulerer, du har akkurat oppnådd drømmen din! 🚀",
   "push_new_weekly_tasks": "See denne ukens oppgaver!",
