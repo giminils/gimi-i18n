@@ -2793,5 +2793,6 @@
   "onfido_fail_code_date_of_birth": "Kunde inte verifiera födelsedatum...",
   "onfido_fail_code_date_of_birth_desc": "Ditt personnummer matchar inte dokumentet. Stäm av att du använder ditt eget dokument och att bilden är högupplöst.",
   "onfido_fail_unknown_title": "Det uppstod ett problem med din identifiering...",
-  "onfido_fail_unknown_sub": "Var vänlig försök verifiera ditt ID igen! "
+  "onfido_fail_unknown_sub": "Var vänlig försök verifiera ditt ID igen! ",
+  "restore_purchase": "PLZ_CHECK Restore purchase"
 }

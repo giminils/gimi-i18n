@@ -2793,5 +2793,6 @@
   "onfido_fail_code_date_of_birth": "PLZ_TRANSLATE Could not verify your date of birth...",
   "onfido_fail_code_date_of_birth_desc": "PLZ_TRANSLATE Your personal number does not match with your document. Make sure you are using your document and that its good image quality",
   "onfido_fail_unknown_title": "PLZ_TRANSLATE Something went wrong with identification...",
-  "onfido_fail_unknown_sub": "PLZ_TRANSLATE Please try verifying your id again!"
+  "onfido_fail_unknown_sub": "PLZ_TRANSLATE Please try verifying your id again!",
+  "restore_purchase": "PLZ_TRANSLATE Restore purchase"
 }
