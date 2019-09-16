@@ -2073,7 +2073,7 @@
   "need_to_change_currency_for_premium_popover_title": "Du måste byta valuta…",
   "need_to_change_currency_for_premium_popover_text": "Du kan inte uppgradera till Gimi Master på grund av din valuta. Gimi Master har för tillfället bara stöd för SEK.",
   "need_to_change_currency_for_premium_popover_change_button": "Ändra",
-  "pfs_transaction_error": "Bara ett tillfälligt problem med att visa dina transaktioner. Kolla in här snart igen!",
+  "pfs_transaction_error": "Bara ett tillfälligt problem med uppkopplingen till dina pengar! Kolla igen om en stund!",
   "not_authed_transaction_message": "Det här är en preliminär transaktion. Butiken har inte dragit några pengar från kortet än.",
   "local_push_create_account": "Gimi här... väntar på dig! 👋",
   "who_owes_name_parent": "Vem är skyldig %1$d",
