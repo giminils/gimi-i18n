@@ -420,5 +420,7 @@
   "ADPRRE044_push_title": "🚫Purchase declined, online spending is disabled!",
   "CHPRRE022_notification_title": "🚫Purchase at {pfstransactionstatement.merchant_name} was declined. A supporter has disabled online spending for you ☹️",
   "CHPRRE022_push_title": "🚫Purchase declined, online spending is disabled!",
-  "CHGERE018_notification_title": "{parent.nickname} updated {chore_title}"
+  "CHGERE018_notification_title": "{parent.nickname} updated {chore_title}",
+  "CHPRON014_notification_title": "Youtube playlist for you: How to be smart with your new Gimi card",
+  "CHPRON014_push_title": "Check out the Gimi card youtube playlist!"
 }

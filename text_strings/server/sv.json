@@ -420,5 +420,7 @@
   "ADPRRE044_push_title": "🚫Köpet nekades, onlineköp har avaktiverats!",
   "CHPRRE022_notification_title": "🚫Köpet hos  {pfstransactionstatement.merchant_name} nekades. En supporter har avaktiverat onlineköp ☹️",
   "CHPRRE022_push_title": "🚫Köp nekades, onlineköp har avaktiverats!",
-  "CHGERE018_notification_title": "{parent.nickname} uppdaterade {chore_title}"
+  "CHGERE018_notification_title": "{parent.nickname} uppdaterade {chore_title}",
+  "CHPRON014_notification_title": "PLZ_CHECK Youtube playlist for you: How to be smart with your new Gimi card",
+  "CHPRON014_push_title": "PLZ_CHECK Check out the Gimi card youtube playlist!"
 }
