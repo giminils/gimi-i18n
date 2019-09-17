@@ -2794,7 +2794,7 @@
   "onfido_fail_code_date_of_birth_desc": "Ditt personnummer matchar inte dokumentet. Stäm av att du använder ditt eget dokument och att bilden är högupplöst.",
   "onfido_fail_unknown_title": "Det uppstod ett problem med din identifiering...",
   "onfido_fail_unknown_sub": "Var vänlig försök verifiera ditt ID igen! ",
-  "restore_purchase": "PLZ_CHECK Restore purchase",
-  "custom_notification_snapchat_premium": "PLZ_CHECK Congratz! Here's a Snapchat filter, exclusively for Master users 😎",
-  "restore_purchase_info": "PLZ_CHECK Your subscription not showing up here? Click here to connect to App Store"
+  "restore_purchase": "Återställ köp",
+  "custom_notification_snapchat_premium": "Grattiz! Här är ett Snapchat filter, exklusivt för Master-användare 😎",
+  "restore_purchase_info": "Dyker inte din prenumeration upp här? Klicka för att koppla upp App Store!"
 }
