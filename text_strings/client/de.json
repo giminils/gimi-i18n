@@ -2795,5 +2795,6 @@
   "onfido_fail_unknown_title": "PLZ_TRANSLATE Something went wrong with identification...",
   "onfido_fail_unknown_sub": "PLZ_TRANSLATE Please try verifying your id again!",
   "restore_purchase": "PLZ_TRANSLATE Restore purchase",
-  "custom_notification_snapchat_premium": "PLZ_TRANSLATE Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
+  "custom_notification_snapchat_premium": "PLZ_TRANSLATE Congratz! Here's a Snapchat filter, exclusively for Master users 😎",
+  "restore_purchase_info": "PLZ_TRANSLATE Your subscription not showing up here? Click here to connect to App Store"
 }

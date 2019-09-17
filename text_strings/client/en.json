@@ -2795,5 +2795,6 @@
   "onfido_fail_unknown_title": "Something went wrong with identification...",
   "onfido_fail_unknown_sub": "Please try verifying your id again!",
   "restore_purchase": "Restore purchase",
-  "custom_notification_snapchat_premium": "Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
+  "custom_notification_snapchat_premium": "Congratz! Here's a Snapchat filter, exclusively for Master users 😎",
+  "restore_purchase_info": "Your subscription not showing up here? Click here to connect to App Store"
 }
