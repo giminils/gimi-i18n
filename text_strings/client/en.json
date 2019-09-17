@@ -2794,5 +2794,6 @@
   "onfido_fail_code_date_of_birth_desc": "Your personal number does not match with your document. Make sure you are using your document and that its good image quality",
   "onfido_fail_unknown_title": "Something went wrong with identification...",
   "onfido_fail_unknown_sub": "Please try verifying your id again!",
-  "restore_purchase": "Restore purchase"
+  "restore_purchase": "Restore purchase",
+  "custom_notification_CHPRON012": "Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
 }
