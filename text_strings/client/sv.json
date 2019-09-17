@@ -2795,5 +2795,5 @@
   "onfido_fail_unknown_title": "Det uppstod ett problem med din identifiering...",
   "onfido_fail_unknown_sub": "Var vänlig försök verifiera ditt ID igen! ",
   "restore_purchase": "PLZ_CHECK Restore purchase",
-  "custom_notification_CHPRON012": "PLZ_CHECK Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
+  "custom_notification_snapchat_premium": "PLZ_CHECK Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
 }

@@ -2795,5 +2795,5 @@
   "onfido_fail_unknown_title": "PLZ_TRANSLATE Something went wrong with identification...",
   "onfido_fail_unknown_sub": "PLZ_TRANSLATE Please try verifying your id again!",
   "restore_purchase": "PLZ_TRANSLATE Restore purchase",
-  "custom_notification_CHPRON012": "PLZ_TRANSLATE Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
+  "custom_notification_snapchat_premium": "PLZ_TRANSLATE Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
 }
