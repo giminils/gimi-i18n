@@ -216,5 +216,9 @@
   "kid_faq_section_6_category_1_question_2": "How can I delete my personal data?",
   "kid_faq_section_6_category_1_answer_2": "If you delete your user account all of your personal data will be deleted. Please note that it's not enough to uninstall the app, you need to delete the account from inside the app.",
   "kid_faq_section_6_category_98": "User terms Gimi",
-  "kid_faq_section_6_category_99": "User terms Gimi Master"
+  "kid_faq_section_6_category_99": "User terms Gimi Master",
+  "kid_faq_section_4_category_1_question_4": "PLZ_COPY Can I change my card PIN?",
+  "kid_faq_section_4_category_1_answer_4": "PLZ_COPY You cannot change your PIN, but you can always check what it is in the app!",
+  "parent_faq_section_5_category_1_question_5": "PLZ_COPY Can my child change his/her card PIN?",
+  "parent_faq_section_5_category_1_answer_5": "PLZ_COPY Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
 }
