@@ -460,5 +460,12 @@
   "push_promo_week_17_child": "Where are my sunglasses? 🤔 -Piggy",
   "push_promo_week_18_child": "Let’s draw something!🖍️ -Piggy",
   "push_promo_week_19_child": "You are the coolest!🦄 -Piggy",
-  "event_snapchat_filter": "Congratz! Here's a Snapchat filter, exclusively for Master users 😎"
+  "event_snapchat_filter": "Congratz! Here's a Snapchat filter, exclusively for Master users 😎",
+  "CHPRRE023_notification_title": "Something was wrong, so your card was blocked just to be safe. Contact us and we will unblock it!",
+  "CHPRRE023_push_title": "Your card has been blocked!",
+  "ADPRRE037_notification_title": "Something was wrong, so the card was blocked just to be safe. Contact us and we will unblock it!",
+  "ADPRRE037_push_title": "The Gimi card has been blocked for {child.nickname}",
+  "CHPRRE015_notification_title": "You entered the wrong PIN code. You only get 3 attempts before we block the card. Need a PIN reminder?",
+  "CHPRRE015_push_title": "Wrong PIN! 2 more attempts before we block the card. Check PIN in the app.",
+  "ADPRRE038_notification_title": "{child.nickname} entered the wrong PIN code to the Gimi card. We will block the card after 3 attempts. Need a PIN reminder?"
 }
