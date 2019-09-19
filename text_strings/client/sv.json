@@ -2801,5 +2801,6 @@
   "bind_sub_subtitle": "PLZ_CHECK Select the kid that will get upgraded to Gimi-Master",
   "no_subs_to_bind": "PLZ_CHECK No avilable purchases to bind",
   "successfull_bind_of_sub": "PLZ_CHECK Successfully bound sub to %1$d",
-  "successfully_klarna_kyc": "PLZ_CHECK Your identity is verifyed 😎"
+  "successfully_klarna_kyc": "PLZ_CHECK Your identity is verifyed 😎",
+  "klarna_kyc_info_loading": "PLZ_CHECK Wait for the authentication to start"
 }
