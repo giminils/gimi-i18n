@@ -2798,5 +2798,7 @@
   "custom_notification_snapchat_premium": "PLZ_TRANSLATE Congratz! Here's a Snapchat filter, exclusively for Master users 😎",
   "restore_purchase_info": "PLZ_TRANSLATE Your subscription not showing up here? Click here to connect to App Store",
   "bind_sub_title": "PLZ_TRANSLATE Choose kid to attach subscription to",
-  "bind_sub_subtitle": "PLZ_TRANSLATE Select the kid that will get upgraded to Gimi-Master"
+  "bind_sub_subtitle": "PLZ_TRANSLATE Select the kid that will get upgraded to Gimi-Master",
+  "no_subs_to_bind": "PLZ_TRANSLATE No avilable purchases to bind",
+  "successfull_bind_of_sub": "PLZ_TRANSLATE Successfully bound sub to %1$d"
 }

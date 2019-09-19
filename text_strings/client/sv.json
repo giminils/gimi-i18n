@@ -2798,5 +2798,7 @@
   "custom_notification_snapchat_premium": "Grattiz! Här är ett Snapchat filter, exklusivt för Master-användare 😎",
   "restore_purchase_info": "Dyker inte din prenumeration upp här? Klicka för att ansluta till App Store!",
   "bind_sub_title": "PLZ_CHECK Choose kid to attach subscription to",
-  "bind_sub_subtitle": "PLZ_CHECK Select the kid that will get upgraded to Gimi-Master"
+  "bind_sub_subtitle": "PLZ_CHECK Select the kid that will get upgraded to Gimi-Master",
+  "no_subs_to_bind": "PLZ_CHECK No avilable purchases to bind",
+  "successfull_bind_of_sub": "PLZ_CHECK Successfully bound sub to %1$d"
 }
