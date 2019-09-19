@@ -216,5 +216,9 @@
   "kid_faq_section_6_category_1_question_2": "Wie kann ich meine persönlichen Daten löschen?",
   "kid_faq_section_6_category_1_answer_2": "Wenn Du Deinen Nutzeraccount löschst, werden all Deine persönlichen Daten gelöscht. Bitte denk daran, dass es nicht reicht, die App einfach zu löschen, Du musst den Account in der App löschen.",
   "kid_faq_section_6_category_98": "Nutzungsbedingungen Gimi",
-  "kid_faq_section_6_category_99": "Nutzungsbedingungen Gimi Master"
+  "kid_faq_section_6_category_99": "Nutzungsbedingungen Gimi Master",
+  "kid_faq_section_4_category_1_question_4": "PLZ_TRANSLATE Can I change my card PIN?",
+  "kid_faq_section_4_category_1_answer_4": "PLZ_TRANSLATE You cannot change your PIN, but you can always check what it is in the app!",
+  "parent_faq_section_5_category_1_question_5": "PLZ_TRANSLATE Can my child change his/her card PIN?",
+  "parent_faq_section_5_category_1_answer_5": "PLZ_TRANSLATE Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
 }

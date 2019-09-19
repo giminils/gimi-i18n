@@ -216,5 +216,9 @@
   "kid_faq_section_6_category_1_question_2": "Hoe kan ik mijn persoonlijke gegevens verwijderen?",
   "kid_faq_section_6_category_1_answer_2": "Als jij je gebruikersaccount verwijderd dan worden al je persoonlijke gegevens verwijderd. Let op het is niet genoeg om de app te deïnstalleren, je moet je account vanuit de app verwijderen.",
   "kid_faq_section_6_category_98": "Gebruiksvoorwaarden Gimi",
-  "kid_faq_section_6_category_99": "Gebruiksvoorwaarden Gimi Master"
+  "kid_faq_section_6_category_99": "Gebruiksvoorwaarden Gimi Master",
+  "kid_faq_section_4_category_1_question_4": "PLZ_TRANSLATE Can I change my card PIN?",
+  "kid_faq_section_4_category_1_answer_4": "PLZ_TRANSLATE You cannot change your PIN, but you can always check what it is in the app!",
+  "parent_faq_section_5_category_1_question_5": "PLZ_TRANSLATE Can my child change his/her card PIN?",
+  "parent_faq_section_5_category_1_answer_5": "PLZ_TRANSLATE Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
 }

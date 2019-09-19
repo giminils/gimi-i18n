@@ -216,5 +216,9 @@
   "kid_faq_section_6_category_1_question_2": "Hur raderar jag mina personuppgifter?",
   "kid_faq_section_6_category_1_answer_2": "Om du raderar ditt användarkonto raderas alla dina personuppgifter. Det räcker inte med att avinstallera appen, du måste radera användarkontot inuti appen.",
   "kid_faq_section_6_category_98": "Användarvillkor Gimi",
-  "kid_faq_section_6_category_99": "Användarvillkor Gimi Master"
+  "kid_faq_section_6_category_99": "Användarvillkor Gimi Master",
+  "kid_faq_section_4_category_1_question_4": "PLZ_CHECK Can I change my card PIN?",
+  "kid_faq_section_4_category_1_answer_4": "PLZ_CHECK You cannot change your PIN, but you can always check what it is in the app!",
+  "parent_faq_section_5_category_1_question_5": "PLZ_CHECK Can my child change his/her card PIN?",
+  "parent_faq_section_5_category_1_answer_5": "PLZ_CHECK Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
 }

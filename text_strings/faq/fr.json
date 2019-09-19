@@ -216,5 +216,9 @@
   "kid_faq_section_6_category_1_question_2": "Comment puis-je supprimer mes données personnelles?",
   "kid_faq_section_6_category_1_answer_2": "Si vous supprimez votre compte d'utilisateur, toutes vos données personnelles seront supprimées. S'il vous plaît ce n'est pas suffisant de désinstaller l'application, vous devez supprimer le compte sur l'application.",
   "kid_faq_section_6_category_98": "Termes de l'utilisateur sur Gimi",
-  "kid_faq_section_6_category_99": "Termes de l'utilisateur sur Gimi Master"
+  "kid_faq_section_6_category_99": "Termes de l'utilisateur sur Gimi Master",
+  "kid_faq_section_4_category_1_question_4": "PLZ_TRANSLATE Can I change my card PIN?",
+  "kid_faq_section_4_category_1_answer_4": "PLZ_TRANSLATE You cannot change your PIN, but you can always check what it is in the app!",
+  "parent_faq_section_5_category_1_question_5": "PLZ_TRANSLATE Can my child change his/her card PIN?",
+  "parent_faq_section_5_category_1_answer_5": "PLZ_TRANSLATE Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
 }

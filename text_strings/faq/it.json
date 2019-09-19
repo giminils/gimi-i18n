@@ -216,5 +216,9 @@
   "kid_faq_section_6_category_1_question_2": "Come posso cancellare i miei dati personali",
   "kid_faq_section_6_category_1_answer_2": "Se cancelli il tuo account utente, tutti i tuoi dati personali verranno cancellati. Per favore tieni presente che non è sufficiente disinstallare l'applicazione, devi eliminare l'account dall'interno dell'app..",
   "kid_faq_section_6_category_98": "Termini dell'utente Gimi",
-  "kid_faq_section_6_category_99": "Termini dell'utente Gimi Master"
+  "kid_faq_section_6_category_99": "Termini dell'utente Gimi Master",
+  "kid_faq_section_4_category_1_question_4": "PLZ_TRANSLATE Can I change my card PIN?",
+  "kid_faq_section_4_category_1_answer_4": "PLZ_TRANSLATE You cannot change your PIN, but you can always check what it is in the app!",
+  "parent_faq_section_5_category_1_question_5": "PLZ_TRANSLATE Can my child change his/her card PIN?",
+  "parent_faq_section_5_category_1_answer_5": "PLZ_TRANSLATE Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
 }
