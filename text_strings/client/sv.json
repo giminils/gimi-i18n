@@ -2629,7 +2629,7 @@
   "chore_to_be_added_overview_title": "Nästan klar!",
   "returned_chore_header_disable_approval_kid": "Ej godkänd",
   "returned_chore_header_kid": "Ej godkänd, försök igen!",
-  "pfs_issue_card_error_message": "Kortfabriken överbelastad! Vi tar beställningar snart igen, kom tillbaka om ett tag!",
+  "pfs_issue_card_error_message": "Kortfabriken överbelastad! Vi tar nya beställningar snart, kom tillbaka om ett tag!",
   "cant_connect_existing_contact_title": "Redan ihopkopplad!",
   "cant_connect_existing_contact_desc": "Du kan inte koppla ihop med någon du redan är ihopkopplad med.",
   "cant_buy_sub_to_kid_with_sub_title": "%1$d har redan en prenumeration",
