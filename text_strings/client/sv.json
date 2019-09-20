@@ -2797,10 +2797,10 @@
   "restore_purchase": "Återställ köp",
   "custom_notification_snapchat_premium": "Grattiz! Här är ett Snapchat filter, exklusivt för Master-användare 😎",
   "restore_purchase_info": "Dyker inte din prenumeration upp här? Klicka för att ansluta till App Store!",
-  "bind_sub_title": "PLZ_CHECK Choose kid to attach subscription to",
-  "bind_sub_subtitle": "PLZ_CHECK Select the kid that will get upgraded to Gimi-Master",
-  "no_subs_to_bind": "PLZ_CHECK No avilable purchases to bind",
-  "successfull_bind_of_sub": "PLZ_CHECK Successfully bound sub to %1$d",
-  "successfully_klarna_kyc": "PLZ_CHECK Your identity is verifyed 😎",
-  "klarna_kyc_info_loading": "PLZ_CHECK Wait for the authentication to start"
+  "bind_sub_title": "Välj vilket barn som ska knytas till prenumerationen",
+  "bind_sub_subtitle": "Välj vilket barn som ska uppgraderas till Gimi Master",
+  "no_subs_to_bind": "Det finns inga tillgängliga köp",
+  "successfull_bind_of_sub": "Prenumeration är nu knuten till %1$d",
+  "successfully_klarna_kyc": "Din identitet har verifierats 😎",
+  "klarna_kyc_info_loading": "Vänta tills autentiseringen kommer igång"
 }
