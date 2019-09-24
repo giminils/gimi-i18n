@@ -2802,5 +2802,14 @@
   "no_subs_to_bind": "Det finns inga tillgängliga köp",
   "successfull_bind_of_sub": "Prenumeration är nu knuten till %1$d",
   "successfully_klarna_kyc": "Din identitet har verifierats 😎",
-  "klarna_kyc_info_loading": "Vänta tills autentiseringen kommer igång"
+  "klarna_kyc_info_loading": "Vänta tills autentiseringen kommer igång",
+  "klarna_verify_identity_description_1": "PLZ_CHECK Accept Klarna's terms & conditions to continue.",
+  "klarna_verify_identity_description_2": "PLZ_CHECK Klarna uses BankID to verify your identity, so be ready to sign!",
+  "klarna_verify_identity_approve_desc": "PLZ_CHECK I approve Klarna's terms and privacy policy",
+  "onfido_verify_identity_description_1": "PLZ_CHECK ",
+  "onfido_verify_identity_description_2": "PLZ_CHECK ",
+  "onfido_verify_identity_approve_desc": "PLZ_CHECK Klarna uses BankID to verify your identity, so be ready to sign!",
+  "accept_terms_title": "PLZ_CHECK Accept user terms",
+  "kyc_user_terms_link_title": "PLZ_CHECK User terms",
+  "kyc_privacy_terms_link_title": "PLZ_CHECK Privacy policy"
 }
