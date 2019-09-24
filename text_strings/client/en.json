@@ -2813,5 +2813,6 @@
   "onfido_verify_identity_approve_desc": "I approve Onfido's user terms and privacy policy",
   "accept_terms_title": "Accept user terms",
   "kyc_user_terms_link_title": "User terms",
-  "kyc_privacy_terms_link_title": "Privacy policy"
+  "kyc_privacy_terms_link_title": "Privacy policy",
+  "general_other_options": "Other options"
 }

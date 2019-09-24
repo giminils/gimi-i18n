@@ -2813,5 +2813,6 @@
   "onfido_verify_identity_approve_desc": "PLZ_TRANSLATE I approve Onfido's user terms and privacy policy",
   "accept_terms_title": "PLZ_TRANSLATE Accept user terms",
   "kyc_user_terms_link_title": "PLZ_TRANSLATE User terms",
-  "kyc_privacy_terms_link_title": "PLZ_TRANSLATE Privacy policy"
+  "kyc_privacy_terms_link_title": "PLZ_TRANSLATE Privacy policy",
+  "general_other_options": "PLZ_TRANSLATE Other options"
 }
