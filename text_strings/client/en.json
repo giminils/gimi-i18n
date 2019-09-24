@@ -2811,7 +2811,7 @@
   "onfido_verify_identity_description_2": "🇬🇧 Onfido is a ID verification service widely used in UK (where they don't have BankID)",
   "onfido_verify_identity_description_3": "📇 Onfido scans you ID card or passport, Gimi never stores it.",
   "onfido_verify_identity_approve_desc": "I approve Onfido's user terms and privacy policy",
-  "accept_terms_title": "Accept user terms",
+  "accept_terms_title": "Accept terms",
   "kyc_user_terms_link_title": "User terms",
   "kyc_privacy_terms_link_title": "Privacy policy",
   "general_other_options": "Other options",
