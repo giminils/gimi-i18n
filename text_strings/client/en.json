@@ -2814,5 +2814,7 @@
   "accept_terms_title": "Accept user terms",
   "kyc_user_terms_link_title": "User terms",
   "kyc_privacy_terms_link_title": "Privacy policy",
-  "general_other_options": "Other options"
+  "general_other_options": "Other options",
+  "bad_jwt_title": "Security boost",
+  "bad_jwt_desc": "You need to log out and log back in to get the latest security update from Gimi! Do it now?"
 }

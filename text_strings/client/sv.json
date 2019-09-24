@@ -2814,5 +2814,7 @@
   "accept_terms_title": "PLZ_CHECK Accept user terms",
   "kyc_user_terms_link_title": "PLZ_CHECK User terms",
   "kyc_privacy_terms_link_title": "PLZ_CHECK Privacy policy",
-  "general_other_options": "PLZ_CHECK Other options"
+  "general_other_options": "PLZ_CHECK Other options",
+  "bad_jwt_title": "PLZ_CHECK Security boost",
+  "bad_jwt_desc": "PLZ_CHECK You need to log out and log back in to get the latest security update from Gimi! Do it now?"
 }
