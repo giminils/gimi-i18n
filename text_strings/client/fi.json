@@ -2676,6 +2676,7 @@
   "disabled_order_card_button": "Melkein valmista!",
   "blocked_card_intercom_message": "Gimi-kortti estettiin 3 väärin syötetyn PIN-koodin takia. Auta minua avaamaan se!",
   "blocked_card_intercom_message_holder": "Gimi-kortti estettiin 3 väärin syötetyn PIN-koodin takia. Auta minua avaamaan se!",
+  "blocked_card_intercom_message_security_measure": "Help! My card was blocked as a security measure.",
   "connection_title_inv_supporter_to_multiple_kids": "Kutsu lapsille tukija!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Kutsutaan lapsille %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Haluatko yhdistää lapsesi muihin perheenjäseniin? Kutsu heidät täältä!",

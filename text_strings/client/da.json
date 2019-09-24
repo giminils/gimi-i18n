@@ -2676,6 +2676,7 @@
   "disabled_order_card_button": "Næsten færdig!",
   "blocked_card_intercom_message": "Gimikortet er blevet blokeret, på grund af 3 fejlforsøg med PIN-koden. Hjælp mig med at fjerne blokeringen!",
   "blocked_card_intercom_message_holder": "Gimikortet er blevet blokeret, på grund af 3 fejlførsøg med PIN-koden. Hjælp mig med at fjerne blokeringen!",
+  "blocked_card_intercom_message_security_measure": "Help! My card was blocked as a security measure.",
   "connection_title_inv_supporter_to_multiple_kids": "Inviter tilfænger til børn!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Inviterer for %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Vil du forbinde dine børn til flere familiemedlemmer? Inviter dem her!",

@@ -2676,6 +2676,7 @@
   "disabled_order_card_button": "Almost done!",
   "blocked_card_intercom_message": "Help! My child entered the wrong PIN 3 times and their Gimi Card is blocked!",
   "blocked_card_intercom_message_holder": "Help! I entered the wrong PIN 3 times and my Gimi Card is blocked!",
+  "blocked_card_intercom_message_security_measure": "Help! My card was blocked as a security measure.",
   "connection_title_inv_supporter_to_multiple_kids": "Invite supporter to kids!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Inviting for %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Want to connect your children with more family members? Invite them here!",

@@ -2676,6 +2676,7 @@
   "disabled_order_card_button": "Nästan färdig!",
   "blocked_card_intercom_message": "Hjälp! Mitt barn skrev in fel PIN 3 gånger och nu är Gimi-kortet spärrat!",
   "blocked_card_intercom_message_holder": "Hjälp! Jag skrev in fel PIN 3 gånger och nu är mitt Gimi-kort spärrat!",
+  "blocked_card_intercom_message_security_measure": "Help! My card was blocked as a security measure.",
   "connection_title_inv_supporter_to_multiple_kids": "Bjud in en supporter till barnen!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Bjuder in åt %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Vill du koppla ihop dina barn med fler familjemedlemmar? Bjud in dem här!",

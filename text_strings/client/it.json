@@ -2676,6 +2676,7 @@
   "disabled_order_card_button": "Quasi fatto!",
   "blocked_card_intercom_message": "La carta Gimi è stata bloccata a causa di 3 tentativi falliti di inserimento PIN. Aiutami a sbloccarla!",
   "blocked_card_intercom_message_holder": "La carta Gimi è stata bloccata a causa del tentativo di inserimento di 3 codici PIN sbagliati. Aiutami a sbloccarla!",
+  "blocked_card_intercom_message_security_measure": "Help! My card was blocked as a security measure.",
   "connection_title_inv_supporter_to_multiple_kids": "Invita un sostenitore per i bambini!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Invito per %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Vuoi connettere il tuo bambino con più membri della famiglia? Invitali qui!",

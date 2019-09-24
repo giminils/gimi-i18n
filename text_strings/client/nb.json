@@ -2676,6 +2676,7 @@
   "disabled_order_card_button": "Nesten ferdig!",
   "blocked_card_intercom_message": "Gimi-kortet er blokkert på grunn av tre mislykkede PIN-kodeforsøk. Hjelp meg med å fjerne blokkeringen!",
   "blocked_card_intercom_message_holder": "Gimi-kortet er blokkert på grunn av tre mislykkede PIN-kodeforsøk. Hjelp meg med å fjerne blokkeringen!",
+  "blocked_card_intercom_message_security_measure": "Help! My card was blocked as a security measure.",
   "connection_title_inv_supporter_to_multiple_kids": "Inviter støttespiller til barn!",
   "connection_subtitle_inv_supporter_to_multiple_kids": "Inviterer til %1$d",
   "multiple_invite_want_to_connect_with_more_family": "Vil du koble barna dine til flere familiemedlemmer? Inviter dem hit!",
