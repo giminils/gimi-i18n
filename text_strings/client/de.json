@@ -2816,5 +2816,17 @@
   "kyc_privacy_terms_link_title": "PLZ_TRANSLATE Privacy policy",
   "general_other_options": "PLZ_TRANSLATE Other options",
   "bad_jwt_title": "PLZ_TRANSLATE Security boost",
-  "bad_jwt_desc": "PLZ_TRANSLATE You need to log out and log back in to get the latest security update from Gimi! Do it now?"
+  "bad_jwt_desc": "PLZ_TRANSLATE You need to log out and log back in to get the latest security update from Gimi! Do it now?",
+  "klarna_error_code_title_unattainable": "PLZ_TRANSLATE Can’t connect to BankID!",
+  "klarna_error_code_desc_unattainable": "PLZ_TRANSLATE Make sure your device is online and try again.",
+  "klarna_error_code_title_too_many_attempts": "PLZ_TRANSLATE BankID temporarily blocked, try again soon!",
+  "klarna_error_code_desc_too_many_attempts": "PLZ_TRANSLATE Too many failed attempts to log in, wait a bit and come back.",
+  "klarna_error_code_title_session_timeout": "PLZ_TRANSLATE Session expired, try again!",
+  "klarna_error_code_desc_session_timeout": "PLZ_TRANSLATE You were signed out due to inactivity, go back and sign in again.",
+  "klarna_error_code_title_user_interaction": "PLZ_TRANSLATE Please try again!",
+  "klarna_error_code_desc_user_interaction": "PLZ_TRANSLATE Did you enter the correct information? Contact us if the problem remains.",
+  "klarna_error_code_title_user_not_trusted": "PLZ_TRANSLATE Issue with BankID, try again!",
+  "klarna_error_code_desc_user_not_trusted": "PLZ_TRANSLATE Did you enter the correct information? Contact us if the problem remains.",
+  "klarna_error_code_title_general": "PLZ_TRANSLATE Something went wrong, try again!",
+  "klarna_error_code_desc_general": "PLZ_TRANSLATE Go back and try again, contact us if the problem remains."
 }

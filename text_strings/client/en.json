@@ -2816,5 +2816,17 @@
   "kyc_privacy_terms_link_title": "Privacy policy",
   "general_other_options": "Other options",
   "bad_jwt_title": "Security boost",
-  "bad_jwt_desc": "You need to log out and log back in to get the latest security update from Gimi! Do it now?"
+  "bad_jwt_desc": "You need to log out and log back in to get the latest security update from Gimi! Do it now?",
+  "klarna_error_code_title_unattainable": "Can’t connect to BankID!",
+  "klarna_error_code_desc_unattainable": "Make sure your device is online and try again.",
+  "klarna_error_code_title_too_many_attempts": "BankID temporarily blocked, try again soon!",
+  "klarna_error_code_desc_too_many_attempts": "Too many failed attempts to log in, wait a bit and come back.",
+  "klarna_error_code_title_session_timeout": "Session expired, try again!",
+  "klarna_error_code_desc_session_timeout": "You were signed out due to inactivity, go back and sign in again.",
+  "klarna_error_code_title_user_interaction": "Please try again!",
+  "klarna_error_code_desc_user_interaction": "Did you enter the correct information? Contact us if the problem remains.",
+  "klarna_error_code_title_user_not_trusted": "Issue with BankID, try again!",
+  "klarna_error_code_desc_user_not_trusted": "Did you enter the correct information? Contact us if the problem remains.",
+  "klarna_error_code_title_general": "Something went wrong, try again!",
+  "klarna_error_code_desc_general": "Go back and try again, contact us if the problem remains."
 }
