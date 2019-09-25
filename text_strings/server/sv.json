@@ -469,5 +469,7 @@
   "CHPRRE015_push_title": "Fel PIN-kod! Du har 2 försök kvar innan Gimi-kortet blockeras. Du hittar PIN-koden i appen.",
   "ADPRRE038_notification_title": "{child.nickname} skrev in fel PIN-kod till Gimi-kortet. Kortet blockeras efter 3 försök. Behövs en PIN-påminnelse?",
   "ADGEON022_notification_title": "Visste du att du kan använda Gimi med riktiga pengar? Gimi-kortet ingår. Uppgradera nu 👉",
-  "ADGEON022_push_title": "✨Uppgradera för att använda Gimi med riktiga pengar! Gimi-kortet ingår."
+  "ADGEON022_push_title": "✨Uppgradera för att använda Gimi med riktiga pengar! Gimi-kortet ingår.",
+  "ADGEPU001_notification_title": "PLZ_CHECK The Gimi card is coming to Norway! Get on the waitlist now👉",
+  "ADGEPU001_push_title": "PLZ_CHECK ⚡️The Gimi card is coming to Norway!"
 }

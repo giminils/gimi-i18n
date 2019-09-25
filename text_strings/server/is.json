@@ -469,5 +469,7 @@
   "CHPRRE015_push_title": "PLZ_TRANSLATE Wrong PIN! 2 more attempts before we block the card. Check PIN in the app.",
   "ADPRRE038_notification_title": "PLZ_TRANSLATE {child.nickname} entered the wrong PIN code to the Gimi card. We will block the card after 3 attempts. Need a PIN reminder?",
   "ADGEON022_notification_title": "PLZ_TRANSLATE Did you know you can use Gimi with real money? The Gimi card is included. Upgrade now 👉",
-  "ADGEON022_push_title": "PLZ_TRANSLATE ✨Upgrade to use Gimi with real money! The Gimi card is included"
+  "ADGEON022_push_title": "PLZ_TRANSLATE ✨Upgrade to use Gimi with real money! The Gimi card is included",
+  "ADGEPU001_notification_title": "PLZ_TRANSLATE The Gimi card is coming to Norway! Get on the waitlist now👉",
+  "ADGEPU001_push_title": "PLZ_TRANSLATE ⚡️The Gimi card is coming to Norway!"
 }
