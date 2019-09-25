@@ -2831,5 +2831,9 @@
   "klarna_error_code_desc_general": "Gå tillbaka och försök igen, kontakta oss om problemet uppstår.",
   "sign_in_no_code_popover_title": "Om du inte fått en kod.",
   "sign_in_no_code_popover_text": "🔍 Kontrollera att du skrivit rätt e-post/telefonnummer\n\n📱 Använd samma enhet som tar emot mejlet/sms\n\n🗑 Kolla din skräppost om du använder e-post\n\n🚫 Hotmail eller Outlook? Våra mejl har kanske blockats. Testa med ett telefonnummer eller en annan e-post.",
-  "question_still_no_code": "Fortfarande ingen kod?"
+  "question_still_no_code": "Fortfarande ingen kod?",
+  "settings_kyc_status": "PLZ_CHECK KYC status",
+  "kyc_status_failed": "PLZ_CHECK failed",
+  "kyc_status_pending": "PLZ_CHECK pending",
+  "kyc_status_success": "PLZ_CHECK success"
 }
