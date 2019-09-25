@@ -2828,5 +2828,8 @@
   "klarna_error_code_title_user_not_trusted": "Issue with BankID, try again!",
   "klarna_error_code_desc_user_not_trusted": "Did you enter the correct information? Contact us if the problem remains.",
   "klarna_error_code_title_general": "Something went wrong, try again!",
-  "klarna_error_code_desc_general": "Go back and try again, contact us if the problem remains."
+  "klarna_error_code_desc_general": "Go back and try again, contact us if the problem remains.",
+  "sign_in_no_code_popover_title": "If you're not receiving a code",
+  "sign_in_no_code_popover_text": "🔍 Go back and make sure you typed the correct email/phone number\n\n📱 Make sure you're on the device that will receive the email/sms\n\n🗑 Check your junk inbox if you're using email\n\n🚫 Hotmail or Outlook? Our emails might get blocked. Try with phone number or different email.",
+  "question_still_no_code": "Still no code?"
 }
