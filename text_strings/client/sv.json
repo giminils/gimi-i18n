@@ -2829,7 +2829,7 @@
   "klarna_error_code_desc_user_not_trusted": "Skrev du in rätt information? Kontakta oss om problemet uppstår.",
   "klarna_error_code_title_general": "Något gick snett, försök igen!",
   "klarna_error_code_desc_general": "Gå tillbaka och försök igen, kontakta oss om problemet uppstår.",
-  "sign_in_no_code_popover_title": "PLZ_CHECK If you're not receiving a code",
-  "sign_in_no_code_popover_text": "PLZ_CHECK 🔍 Go back and make sure you typed the correct email/phone number\n\n📱 Make sure you're on the device that will receive the email/sms\n\n🗑 Check your junk inbox if you're using email\n\n🚫 Hotmail or Outlook? Our emails might get blocked. Try with phone number or different email.",
-  "question_still_no_code": "PLZ_CHECK Still no code?"
+  "sign_in_no_code_popover_title": "Om du inte fått en kod.",
+  "sign_in_no_code_popover_text": "🔍 Kontrollera att du skrivit rätt e-post/telefonnummer\n\n📱 Använd samma enhet som tar emot mejlet/sms\n\n🗑 Kolla din skräppost om du använder e-post\n\n🚫 Hotmail eller Outlook? Våra mejl har kanske blockats. Testa med ett telefonnummer eller en annan e-post.",
+  "question_still_no_code": "Fortfarande ingen kod?"
 }
