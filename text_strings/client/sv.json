@@ -2832,12 +2832,12 @@
   "sign_in_no_code_popover_title": "Om du inte fått en kod.",
   "sign_in_no_code_popover_text": "🔍 Kontrollera att du skrivit rätt e-post/telefonnummer\n\n📱 Använd samma enhet som tar emot mejlet/sms\n\n🗑 Kolla din skräppost om du använder e-post\n\n🚫 Hotmail eller Outlook? Våra mejl har kanske blockats. Testa med ett telefonnummer eller en annan e-post.",
   "question_still_no_code": "Fortfarande ingen kod?",
-  "settings_kyc_status": "PLZ_CHECK KYC status",
-  "kyc_status_failed": "PLZ_CHECK failed",
-  "kyc_status_pending": "PLZ_CHECK pending",
-  "kyc_status_success": "PLZ_CHECK success",
-  "kid_earn_suggestedchore_empty": "PLZ_CHECK Empty...",
-  "need_for_kyc_title": "PLZ_CHECK We need to verify your identity...",
-  "need_for_kyc_subtitle": "PLZ_CHECK Before you can send money to %1$d. EU regulations force us to verify users who send money.",
-  "general_do_it_now": "PLZ_CHECK Do it now"
+  "settings_kyc_status": "KYC status",
+  "kyc_status_failed": "Misslyckades",
+  "kyc_status_pending": "Väntar",
+  "kyc_status_success": "Lyckades",
+  "kid_earn_suggestedchore_empty": "Föreslå egna uppgifter! Hitta inspiration hemma eller i kategorierna ☝️",
+  "need_for_kyc_title": "Vi måste verifiera din identitet...",
+  "need_for_kyc_subtitle": " Innan du kan skicka pengar till %1$d. Enligt EU:s reglering måse vi verifiera användare som skickar pengar.",
+  "general_do_it_now": "Gör det nu"
 }
