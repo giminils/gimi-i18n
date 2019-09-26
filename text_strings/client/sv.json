@@ -2836,5 +2836,7 @@
   "kyc_status_failed": "PLZ_CHECK failed",
   "kyc_status_pending": "PLZ_CHECK pending",
   "kyc_status_success": "PLZ_CHECK success",
-  "kid_earn_suggestedchore_empty": "PLZ_CHECK Empty..."
+  "kid_earn_suggestedchore_empty": "PLZ_CHECK Empty...",
+  "need_for_kyc_title": "PLZ_CHECK We need to verify your identity...",
+  "need_for_kyc_subtitle": "PLZ_CHECK Before you can send money to %1$d. EU regulations force us to verify users who send money."
 }
