@@ -2838,5 +2838,6 @@
   "kyc_status_success": "success",
   "kid_earn_suggestedchore_empty": "PLZ_COPY Suggest your own chore! Look around or get inspired by the categories! ☝️",
   "need_for_kyc_title": "We need to verify your identity...",
-  "need_for_kyc_subtitle": "Before you can send money to %1$d. EU regulations force us to verify users who send money."
+  "need_for_kyc_subtitle": "Before you can send money to %1$d. EU regulations force us to verify users who send money.",
+  "general_do_it_now": "Do it now"
 }
