@@ -2835,5 +2835,6 @@
   "settings_kyc_status": "PLZ_TRANSLATE KYC status",
   "kyc_status_failed": "PLZ_TRANSLATE failed",
   "kyc_status_pending": "PLZ_TRANSLATE pending",
-  "kyc_status_success": "PLZ_TRANSLATE success"
+  "kyc_status_success": "PLZ_TRANSLATE success",
+  "kid_earn_suggestedchore_empty": "PLZ_TRANSLATE Empty..."
 }

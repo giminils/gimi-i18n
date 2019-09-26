@@ -2835,5 +2835,6 @@
   "settings_kyc_status": "PLZ_CHECK KYC status",
   "kyc_status_failed": "PLZ_CHECK failed",
   "kyc_status_pending": "PLZ_CHECK pending",
-  "kyc_status_success": "PLZ_CHECK success"
+  "kyc_status_success": "PLZ_CHECK success",
+  "kid_earn_suggestedchore_empty": "PLZ_CHECK Empty..."
 }

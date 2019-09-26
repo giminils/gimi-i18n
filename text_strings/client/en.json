@@ -2835,5 +2835,6 @@
   "settings_kyc_status": "KYC status",
   "kyc_status_failed": "failed",
   "kyc_status_pending": "pending",
-  "kyc_status_success": "success"
+  "kyc_status_success": "success",
+  "kid_earn_suggestedchore_empty": "Empty..."
 }
