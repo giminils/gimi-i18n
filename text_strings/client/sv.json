@@ -2836,7 +2836,7 @@
   "kyc_status_failed": "Misslyckades",
   "kyc_status_pending": "Väntar",
   "kyc_status_success": "Lyckades",
-  "kid_earn_suggestedchore_empty": "Föreslå egna uppgifter! Hitta inspiration hemma eller i kategorierna ☝️",
+  "kid_earn_suggestedchore_empty": "PLZ_CHECK Suggest your own chore! Look around or get inspired by the categories! ☝️",
   "need_for_kyc_title": "Vi måste verifiera din identitet...",
   "need_for_kyc_subtitle": " Innan du kan skicka pengar till %1$d. Enligt EU:s reglering måse vi verifiera användare som skickar pengar.",
   "general_do_it_now": "Gör det nu",
