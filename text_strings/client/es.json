@@ -43,6 +43,7 @@
   "general_email": "correo electrónico",
   "general_push": "notificaciones automáticas",
   "general_sound": "sonido",
+  "general_haptic": "PLZ_TRANSLATE haptic",
   "general_other": "otro",
   "general_sign_out": "cerrar sesión",
   "general_connections": "mis contactos",

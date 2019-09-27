@@ -43,6 +43,7 @@
   "general_email": "e-post",
   "general_push": "Push-varsler",
   "general_sound": "lyd",
+  "general_haptic": "PLZ_TRANSLATE haptic",
   "general_other": "annen",
   "general_sign_out": "logg ut",
   "general_connections": "mine kontakter",

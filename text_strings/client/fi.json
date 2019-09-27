@@ -43,6 +43,7 @@
   "general_email": "sähköposti",
   "general_push": "ilmoitukset",
   "general_sound": "äänet",
+  "general_haptic": "PLZ_TRANSLATE haptic",
   "general_other": "muut",
   "general_sign_out": "kirjaudu ulos",
   "general_connections": "kontaktit",

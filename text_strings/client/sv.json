@@ -43,6 +43,7 @@
   "general_email": "e-post",
   "general_push": "pushnotiser",
   "general_sound": "ljud",
+  "general_haptic": "haptic",
   "general_other": "annan",
   "general_sign_out": "logga ut",
   "general_connections": "mina kontakter",

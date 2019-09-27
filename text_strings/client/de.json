@@ -43,6 +43,7 @@
   "general_email": "E-Mail",
   "general_push": "Push-Benachrichtigung",
   "general_sound": "Klang",
+  "general_haptic": "PLZ_TRANSLATE haptic",
   "general_other": "andere",
   "general_sign_out": "ausloggen",
   "general_connections": "Meine Kontakte",
