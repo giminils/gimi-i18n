@@ -216,7 +216,7 @@
   "push_spend_more_money_than_have": "Oops... du har brukt for myet ☹️",
   "event_child_spend_more_money": "{child.nickname} har brukt mer penger enn det som var på kortet. Ta kontakt dersom du trenger hjelp!",
   "event_payday_transfer_money": "Det er utbetalingsdag for {child.nickname}! ",
-  "push_payday_transfer_money": "Det er payday for {child.nickname}! 💫 Overfør penger nå",
+  "push_payday_transfer_money": "Det er payday for {child.nickname}! 💫 Overfør penger nå.",
   "event_premium_payday_parent": "Det er payday! 💫 Overfør penger til barna dine",
   "push_promo_week_20_child": "Gi noen et kompliment i dag! 🤘- Piggy",
   "push_promo_week_21_child": "Ha en god dag 🌈 - Piggy",
