@@ -2847,5 +2847,11 @@
   "payday_target_account": "PLZ_TRANSLATE Account",
   "payday_target_to_card": "PLZ_TRANSLATE To card",
   "payday_target_to_account": "PLZ_TRANSLATE To account",
-  "payday_target_account_settings": "PLZ_TRANSLATE Payday target account"
+  "payday_target_account_settings": "PLZ_TRANSLATE Payday target account",
+  "kyc_identity_verification_success_title": "PLZ_TRANSLATE Your identity has been verified!",
+  "kyc_identity_verification_success_subtitle": "PLZ_TRANSLATE You can send money to your children ✌️",
+  "kyc_identity_verification_success_button": "PLZ_TRANSLATE Transfer now",
+  "kyc_identity_not_verified_title": "PLZ_TRANSLATE Your identity has not been verified yet...",
+  "kyc_identity_not_verified_subtitle": "PLZ_TRANSLATE Verify yourself so you can send money to your children 💸",
+  "kyc_identity_not_verified_button": "PLZ_TRANSLATE Do it now!"
 }
