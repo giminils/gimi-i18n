@@ -2841,5 +2841,8 @@
   "need_for_kyc_title": "Vi måste verifiera din identitet...",
   "need_for_kyc_subtitle": " Innan du kan skicka pengar till %1$d. Enligt EU:s reglering måse vi verifiera användare som skickar pengar.",
   "general_do_it_now": "Gör det nu",
-  "money_from_n": "%1$d skickade pengar! 🤩"
+  "money_from_n": "%1$d skickade pengar! 🤩",
+  "card_settings_payday_target_account": "PLZ_CHECK Payday target account",
+  "payday_target_card": "PLZ_CHECK Card",
+  "payday_target_account": "PLZ_CHECK Account"
 }

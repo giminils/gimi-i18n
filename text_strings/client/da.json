@@ -2841,5 +2841,8 @@
   "need_for_kyc_title": "Vi skal verificere din identitet...",
   "need_for_kyc_subtitle": "Før du kan sende penge til %1$d. EU regler kræver at vi verificere brugere der sender penge.",
   "general_do_it_now": "GØr det nu",
-  "money_from_n": "Penge fra %1$d"
+  "money_from_n": "Penge fra %1$d",
+  "card_settings_payday_target_account": "PLZ_TRANSLATE Payday target account",
+  "payday_target_card": "PLZ_TRANSLATE Card",
+  "payday_target_account": "PLZ_TRANSLATE Account"
 }

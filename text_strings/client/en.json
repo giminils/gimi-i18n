@@ -2841,5 +2841,8 @@
   "need_for_kyc_title": "We need to verify your identity...",
   "need_for_kyc_subtitle": "Before you can send money to %1$d. EU regulations force us to verify users who send money.",
   "general_do_it_now": "Do it now",
-  "money_from_n": "%1$d sent money! 🤩"
+  "money_from_n": "%1$d sent money! 🤩",
+  "card_settings_payday_target_account": "Payday target account",
+  "payday_target_card": "Card",
+  "payday_target_account": "Account"
 }
