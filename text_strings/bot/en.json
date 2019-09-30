@@ -562,6 +562,11 @@
   "cd1607": "Well, let's have a look",
   "cd1701_label": "Does my Gimi card work online?",
   "cd1701": "Sure it does! Why wouldn't it?",
+  "cd1801_label": "How do I get a Gimi Card?",
+  "cd1801": "Supporters order the Gimi Card for you!",
+  "cd1802": "I think you're cool!",
+  "cd1803": "It's a decision only adults can make!",
+  "cd1804": "Tell someone else that they're cool!",
   "bot_how_does_it_work": "How does it work?",
   "bot_correct_star": "Correct! ⭐",
   "bot_go_to_savings": "Go to savings",
@@ -974,5 +979,10 @@
   "bot_cant_pick_just_one": "I can't pick just one!",
   "red_heart_arrow_phone_emojis": "❤️📲",
   "bot_both_of_us": "Both of us!",
-  "bot_thanks_piggy_excl": "Thanks Piggy!"
+  "bot_thanks_piggy_excl": "Thanks Piggy!",
+  "bot_order_card_myself": "Why can't I order it myself?",
+  "bot_youre_cool_too": "You're cool too!",
+  "bot_yeah_true": "Yeah, true.",
+  "bot_smart_thinking_emoji": "Smart 🤔",
+  "bot_yeah_cool": "Yeah!! 😎"
 }

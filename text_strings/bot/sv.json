@@ -379,7 +379,7 @@
   "cg6007": "Vem kan stå på huvudet längst? ⏱️",
   "cg6008": "Vem vann?!",
   "cg6009": "Bra jobbat!! Det var kul! 🏆🎉",
-  "cg6102": "Klicka på  \”Skicka Piggy\” och skicka en bild på mig till en kompis 😍",
+  "cg6102": "Klicka på  \"Skicka Piggy\" och skicka en bild på mig till en kompis 😍",
   "cg6103": "Kul!! Hej Kompis!! 👋",
   "cg6104": "Hoppas att dom gillade bilden! ",
   "cg6105": "OK, dags för en utmaning! 🏅",
@@ -562,6 +562,11 @@
   "cd1607": "Då ska vi se!",
   "cd1701_label": "Funkar mitt Gimi-kort online?",
   "cd1701": "Klart det gör! Varför skulle det inte göra det?",
+  "cd1801_label": "PLZ_CHECK How do I get a Gimi Card?",
+  "cd1801": "PLZ_CHECK Supporters order the Gimi Card for you!",
+  "cd1802": "PLZ_CHECK I think you're cool!",
+  "cd1803": "PLZ_CHECK It's a decision only adults can make!",
+  "cd1804": "PLZ_CHECK Tell someone else that they're cool!",
   "bot_how_does_it_work": "Hur funkar det?",
   "bot_correct_star": "Rätt! ⭐",
   "bot_go_to_savings": "Gå in på ditt konto.",
@@ -974,5 +979,10 @@
   "bot_cant_pick_just_one": "Jag kan inte välja bara en!",
   "red_heart_arrow_phone_emojis": "❤️📲",
   "bot_both_of_us": "Båda två!",
-  "bot_thanks_piggy_excl": "Tack Piggy!"
+  "bot_thanks_piggy_excl": "Tack Piggy!",
+  "bot_order_card_myself": "PLZ_CHECK Why can't I order it myself?",
+  "bot_youre_cool_too": "PLZ_CHECK You're cool too!",
+  "bot_yeah_true": "PLZ_CHECK Yeah, true.",
+  "bot_smart_thinking_emoji": "PLZ_CHECK Smart 🤔",
+  "bot_yeah_cool": "PLZ_CHECK Yeah!! 😎"
 }

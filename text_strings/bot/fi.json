@@ -562,6 +562,11 @@
   "cd1607": "PLZ_TRANSLATE Well, let's have a look",
   "cd1701_label": "PLZ_TRANSLATE Does my Gimi card work online?",
   "cd1701": "PLZ_TRANSLATE Sure it does! Why wouldn't it?",
+  "cd1801_label": "PLZ_TRANSLATE How do I get a Gimi Card?",
+  "cd1801": "PLZ_TRANSLATE Supporters order the Gimi Card for you!",
+  "cd1802": "PLZ_TRANSLATE I think you're cool!",
+  "cd1803": "PLZ_TRANSLATE It's a decision only adults can make!",
+  "cd1804": "PLZ_TRANSLATE Tell someone else that they're cool!",
   "bot_how_does_it_work": "PLZ_TRANSLATE How does it work?",
   "bot_correct_star": "PLZ_TRANSLATE Correct! ⭐",
   "bot_go_to_savings": "PLZ_TRANSLATE Go to savings",
@@ -974,5 +979,10 @@
   "bot_cant_pick_just_one": "PLZ_TRANSLATE I can't pick just one!",
   "red_heart_arrow_phone_emojis": "PLZ_TRANSLATE ❤️📲",
   "bot_both_of_us": "PLZ_TRANSLATE Both of us!",
-  "bot_thanks_piggy_excl": "PLZ_TRANSLATE Thanks Piggy!"
+  "bot_thanks_piggy_excl": "PLZ_TRANSLATE Thanks Piggy!",
+  "bot_order_card_myself": "PLZ_TRANSLATE Why can't I order it myself?",
+  "bot_youre_cool_too": "PLZ_TRANSLATE You're cool too!",
+  "bot_yeah_true": "PLZ_TRANSLATE Yeah, true.",
+  "bot_smart_thinking_emoji": "PLZ_TRANSLATE Smart 🤔",
+  "bot_yeah_cool": "PLZ_TRANSLATE Yeah!! 😎"
 }
