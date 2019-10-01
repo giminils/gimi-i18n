@@ -32,7 +32,7 @@ describe('TextStrings', () => {
     const jsonDataTranslate = []
     const jsonEmmaTag = []
 
-    const textStringsTypes = ['server', 'templates', 'client', 'gimi-web', 'share-image-generator', 'bot'] // 'moonshine'
+    const textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot'] // 'moonshine'
 
     const textStrings = {}
     textStringsTypes.forEach(textStringsType => {
