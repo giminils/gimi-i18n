@@ -8,13 +8,20 @@ describe('JSON files', () => {
   let dirs = fs.readdirSync('./text_strings/')
   dirs.forEach((dir) => {
     if (!fs.existsSync(dir)) return
-    fs.readdirSync(dir).forEach((file) => {
-      if (file === '.DS_Store') return
-      const path = `${dir}/${file}`
-      it(`it should have valid JSON for ${path}`, () => {
-        const json = fs.readFileSync(path, {encoding: 'utf8'})
-        jsonValidator.parse(json, false)
+    try {
+      if (dir === '.DS_Store') return
+      fs.readdirSync(dir).forEach((file) => {
+        if (file === '.DS_Store') return
+        const path = `${dir}/${file}`
+        it(`it should have valid JSON for ${path}`, () => {
+          const json = fs.readFileSync(path, {
+            encoding: 'utf8'
+          })
+          jsonValidator.parse(json, false)
+        })
       })
-    })
+    } catch (e) {
+      console.warn(e, 'error')
+    }
   })
 })
