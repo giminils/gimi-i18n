@@ -18,7 +18,7 @@ describe('TextStrings', () => {
 
   it('should not allow duplicate keys in JSON', () => {
     gimiWebLanguageCodes.forEach(lang => {
-      let fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web-redux/${lang}.json`), {encoding: 'utf8'}).split('\n')
+      let fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web/${lang}.json`), {encoding: 'utf8'}).split('\n')
       const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })

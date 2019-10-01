@@ -1,5 +1,5 @@
 
-import {languageCodes, languageCodesForTranslation} from '../index'
+import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace} from '../TestUtil'
 let stringTagData = []
 let jsonDataTranslate = []
@@ -9,7 +9,7 @@ let jsonBreakingSumbols = []
 let jsonArrayUpperCase = []
 let jsonArrayEmptySpaces = []
 
-let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'gimi-web-redux', 'bot', 'gimi-web']
+let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
 
 let textStrings = {}
 textStringsTypes.forEach(textStringsType => {
@@ -18,10 +18,8 @@ textStringsTypes.forEach(textStringsType => {
 textStringsTypes.forEach(textStringsType => {
   let languageCodesHolder = languageCodes
   if (textStringsType === 'client') languageCodesHolder = languageCodes
-  if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
-  if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux' &&
-  textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
+  if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach(lang => {
     try {
@@ -33,11 +31,8 @@ textStringsTypes.forEach(textStringsType => {
 textStringsTypes.forEach(textStringsType => {
   let languageCodesHolder = languageCodes
   if (textStringsType === 'client') languageCodesHolder = languageCodes
-  if (textStringsType === 'gimi-web-redux') languageCodesHolder = ['sv', 'en']
-  if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
-  if (textStringsType !== 'gimi-web' &&
-    textStringsType !== 'gimi-web-redux' &&
-    textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
+  if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach(languageCode => {
     if (languageCode === 'sv' || languageCode === 'en')
@@ -46,7 +41,7 @@ textStringsTypes.forEach(textStringsType => {
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(checkStringEmptySpace(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
-    if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'gimi-web-redux' && textStringsType !== 'server')
+    if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })

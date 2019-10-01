@@ -1,5 +1,5 @@
 
-import {getTextStrings, languageCodes, languageCodesForTranslation} from '../index'
+import {getTextStrings, languageCodes, gimiWebLanguageCodes, languageCodesForTranslation} from '../index'
 import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 let languageCodesHolder = languageCodes
 const Slack = require('node-slack')
@@ -39,7 +39,7 @@ describe('TextStrings', () => {
       textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+      if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
       if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
       languageCodesHolder.forEach(lang => {
         try {
@@ -49,7 +49,7 @@ describe('TextStrings', () => {
     })
     // server and templates string data
     textStringsTypes.forEach(textStringsType => {
-      if (textStringsType === 'gimi-web') languageCodesHolder = ['no', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+      if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
       if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
       languageCodesHolder.forEach(languageCode => {
         stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
