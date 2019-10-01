@@ -20,8 +20,8 @@ describe('JSON files', () => {
           jsonValidator.parse(json, false)
         })
       })
-    } catch (e) {
-      console.warn(e, 'error')
+    } catch (error) {
+      throw new Error(`Cant parse: ${error}`)
     }
   })
 })
