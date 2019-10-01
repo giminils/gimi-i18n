@@ -1559,6 +1559,7 @@
   "updated_card_details_success_text": "Je nieuwe kaartdetails zijn veilig opgeslagen zodat je op elk moment dat jij dat wilt geld kunt overmaken.",
   "payout_in_cash_popover_title": "Weet je zeker dat je contact wilt uitbetalen?",
   "payout_in_cash_popover_text": "Het geld is al aan de spaarrekening toegevoegd. Als je contant betaald wordt het geld op de spaarrekening in mindering gebracht.",
+  "payout_in_cash_to_card_popover_text": "PLZ_TRANSLATE The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Klusjes van vandaag",
   "this_weeks_chores": "Klusjes van deze week",
   "create_new": "Maak nieuwe",

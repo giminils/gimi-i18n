@@ -1559,6 +1559,7 @@
   "updated_card_details_success_text": "Your new card details are safely stored so that you can transfer money at any time you want.",
   "payout_in_cash_popover_title": "Sure you want to payout in cash?",
   "payout_in_cash_popover_text": "The money has already been added to savings. By doing a cash payout, the money is deducted from savings.",
+  "payout_in_cash_to_card_popover_text": "The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Today's chores",
   "this_weeks_chores": "This week's chores",
   "create_new": "Create new",

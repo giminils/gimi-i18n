@@ -1559,6 +1559,7 @@
   "updated_card_details_success_text": "Dina nya kortuppgifter är säkert lagrade så att du kan föra över pengar när du vill.",
   "payout_in_cash_popover_title": "Säker på att du vill betala ut kontant?",
   "payout_in_cash_popover_text": "Pengarna har fyllt på sparandet. Om du väljer kontant utbetalning så dras pengarna av från sparandet igen.",
+  "payout_in_cash_to_card_popover_text": "PLZ_CHECK The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Dagens uppgifter",
   "this_weeks_chores": "Denna veckas uppgifter",
   "create_new": "Skapa ny",

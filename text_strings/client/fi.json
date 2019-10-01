@@ -1559,6 +1559,7 @@
   "updated_card_details_success_text": "Uudet korttitietosi säilytetään turvallisesti, jotta voit siirtää rahaa milloin vain haluat.",
   "payout_in_cash_popover_title": "Haluatko varmasti maksun käteisenä?",
   "payout_in_cash_popover_text": "Rahat on jo lisätty säästöihin. Tekemällä käteisnoston, rahat vähennetään säästöistä.",
+  "payout_in_cash_to_card_popover_text": "PLZ_TRANSLATE The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Päivän askareet",
   "this_weeks_chores": "Viikon askareet",
   "create_new": "Luo uusi",
