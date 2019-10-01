@@ -22,7 +22,7 @@ export const compareKeys = (firstLang: Object, secondLang: Object, firstLangName
   const errorMessages = []
 
   keys.forEach(key => {
-    if (secondLang[key] === undefined || secondLang[key] === '') {
+    if ((secondLang[key] === undefined || secondLang[key] === '') && !IgnoredTextStrings.includes(key)) {
       errorMessages.push(`Lang: '${secondLangName}', Missing key: '${key}'`)
       return true
     }

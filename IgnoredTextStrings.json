@@ -1,5 +1,15 @@
 [
   "lockdown_reminder_push_message_to_parents",
   "cg4204",
-  "cg4206"
+  "cg4206",
+  "ui.components.quote.block1.text",
+  "ui.components.quote.block1.user",
+  "ui.components.quote.block2.text",
+  "ui.components.quote.block2.user",
+  "ui.components.quote.block12.text",
+  "ui.components.quote.block12.user",
+  "ui.components.quote.block14.text",
+  "ui.components.quote.block14.user",
+  "ui.components.quote.block15.text",
+  "ui.components.quote.block15.user"
 ]
