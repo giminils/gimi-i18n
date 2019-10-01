@@ -314,6 +314,7 @@ export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectorie
   let allStrings = []
   dirs = dirs.filter(filterDirectories)
   dirs.map(file => {
+    if (file === '.DS_Store') return
     const blaj = fs.readFileSync(path.join(__dirname, `${dirPath}/${file}/en.json`), {encoding: 'utf8'}).split('\n')
     allStrings = allStrings.concat(blaj)
   })
