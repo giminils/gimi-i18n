@@ -9,7 +9,7 @@ let jsonBreakingSumbols = []
 let jsonArrayUpperCase = []
 let jsonArrayEmptySpaces = []
 
-let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'gimi-web-redux', 'bot'] //  'gimi-web',
+let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'gimi-web-redux', 'bot', 'gimi-web']
 
 let textStrings = {}
 textStringsTypes.forEach(textStringsType => {
