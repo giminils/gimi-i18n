@@ -515,5 +515,14 @@
   "ui.menu.under18.about": "Om Gimi",
   "ui.menu.under18.app": "Gimi-appen",
   "ui.menu.under18.card": "Gimi-kortet",
-  "ui.menu.under18.label": "Gimi under 18"
+  "ui.menu.under18.label": "Gimi under 18",
+  "pages.waitlist.meta.title": "PLZ_CHECK Waitlist",
+  "pages.waitlist.meta.description": "PLZ_CHECK Waitlist for the Gimi-card!",
+  "pages.waitlist.input.email": "PLZ_CHECK Email",
+  "pages.waitlist.intro.title": "PLZ_CHECK Sign up on the waitlist!",
+  "pages.waitlist.intro.body": "PLZ_CHECK Hurry up and get on the waitlist! This will assure you to be one of the first to get the Gimi-card and all of the freedom that comes with it!",
+  "pages.waitlist.intro.submit": "PLZ_CHECK Sign me up!",
+  "pages.waitlist.intro.invalid.email": "PLZ_CHECK Please enter a valid email!",
+  "pages.waitlist.success.title": "PLZ_CHECK You're on the waitlist!",
+  "pages.waitlist.success.body": "PLZ_CHECK Thank you for signing up on the waitlist! We will contact you as soon as the Gimi-card is ready for you to order!"
 }
