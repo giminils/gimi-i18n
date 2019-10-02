@@ -217,8 +217,8 @@
   "kid_faq_section_6_category_1_answer_2": "Si eliminas tu cuenta de usuario, todos tus datos personales serán eliminados. No es suficiente con desintalar la aplicación, es necesario eliminar la cuenta desde la aplicación.",
   "kid_faq_section_6_category_98": "Términos de uso de Gimi",
   "kid_faq_section_6_category_99": "Términos de uso de Gimi Máster",
-  "kid_faq_section_4_category_1_question_4": "PLZ_TRANSLATE Can I change my card PIN?",
-  "kid_faq_section_4_category_1_answer_4": "PLZ_TRANSLATE You cannot change your PIN, but you can always check what it is in the app!",
-  "parent_faq_section_5_category_1_question_5": "PLZ_TRANSLATE Can my child change his/her card PIN?",
-  "parent_faq_section_5_category_1_answer_5": "PLZ_TRANSLATE Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
+  "kid_faq_section_4_category_1_question_4": "¿Puedo cambiar el PIN de mi tarjeta?",
+  "kid_faq_section_4_category_1_answer_4": "No puedes cambiar tu PIN, ¡pero siempre podrás verlo en la app!",
+  "parent_faq_section_5_category_1_question_5": "¿Mi niño(a) puede cambiar el PIN de su tarjeta?",
+  "parent_faq_section_5_category_1_answer_5": "Tu niño(a) no puede cambiar su PIN. Si lo ha olvidado, pueden chequear su PIN en la app."
 }
