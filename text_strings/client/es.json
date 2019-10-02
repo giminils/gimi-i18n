@@ -1559,7 +1559,6 @@
   "updated_card_details_success_text": "Los datos de tu nueva tarjeta están almacenados de forma segura para que puedas transferir dinero en el momento que quieras.",
   "payout_in_cash_popover_title": "¿Seguro que deseas pagar en efectivo?",
   "payout_in_cash_popover_text": "El dinero ha sido añadido a los ahorros. Al hacer un pago en efectivo, el dinero se descuenta de los ahorros.",
-  "payout_in_cash_to_card_popover_text": "PLZ_TRANSLATE The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Las tareas de hoy",
   "this_weeks_chores": "Las tareas de esta semana",
   "create_new": "Crear nuevo",

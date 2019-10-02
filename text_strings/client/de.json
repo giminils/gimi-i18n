@@ -1559,7 +1559,6 @@
   "updated_card_details_success_text": "Deine neuen Karteninformationen sind gesichert,sodass Du jederzeit Geld überweisen kannst.",
   "payout_in_cash_popover_title": "Bist Du sicher, dass Du in bar auszahlen willst?",
   "payout_in_cash_popover_text": "Das Geld wurde bereits zu den Ersparnissen hinzugefügt. Wenn Du Bargeld auszahlst, wird Geld von den Ersparnissen abgebucht.",
-  "payout_in_cash_to_card_popover_text": "PLZ_TRANSLATE The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Heutige Aufgaben",
   "this_weeks_chores": "Aufgaben dieser Woche",
   "create_new": "Neu erstellen",

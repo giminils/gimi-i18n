@@ -1559,7 +1559,6 @@
   "updated_card_details_success_text": "Dine nye kortinformationer er blevet gemt sikkert, så du kan overføre penge når du ønsker.",
   "payout_in_cash_popover_title": "Sikker på du vil udbetale i kontanter?",
   "payout_in_cash_popover_text": "Pengene er allerede blevet tilføjet til opsparingen. Ved at foretage kontante udbetalinger, vil pengene blive trukket fra opsparingen.",
-  "payout_in_cash_to_card_popover_text": "PLZ_TRANSLATE The money has already been added to the card. By doing a cash payout, the money is deducted from the card.",
   "todays_chores": "Dagens opgaver",
   "this_weeks_chores": "Denne uges opgaver",
   "create_new": "Opret ny",
