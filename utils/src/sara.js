@@ -32,7 +32,8 @@ let RunSara = (filePath): * => {
       .filter((key) => lang[key] === undefined)
       .forEach((key) => {
         delete TextStrings[key]
-        console.log(`Deleting key: '${key}' from ${file}`)
+        let folderName = filePath.match(/\/[^\s\/]*$/g) ? filePath.match(/\/[^\s\/]*$/g)[0] + '/' : ''
+        console.log(`Deleting key: '${key}' from ${folderName}${file}`)
       })
 
     // Craete Support
@@ -50,8 +51,10 @@ let RunSara = (filePath): * => {
     let TextStringsLength = Object.keys(TextStrings).length
     let delta = NewTextStringsLength - TextStringsLength
 
-    if (delta > 0)
-      console.log(`Updated ${delta} textstrings in ${file}`)
+    if (delta > 0) {
+      let folderName = filePath.match(/\/[^\s\/]*$/g) ? filePath.match(/\/[^\s\/]*$/g)[0] + '/' : ''
+      console.log(`Updated ${delta} textstrings in ${folderName}${file}`)
+    }
 
     // No update support atm :(
 
