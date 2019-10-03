@@ -243,7 +243,7 @@
   "pages.over18.card.test.body": "Är du redo för ett eget kort?",
   "pages.over18.card.test.button": "Starta",
   "pages.over18.card.test.correctanswer": "Rätt svar:",
-  "pages.over18.card.test.current": "Fråga {num} av {total, plural, =0 {questions} one {# question} other {# questions}}",
+  "pages.over18.card.test.current": "Fråga {num} av {total}",
   "pages.over18.card.test.failbody": "Du behöver nog lära dig lite mer om pengar innan du kan få ditt eget kort. Se dina resultat nedan!",
   "pages.over18.card.test.failtitle": "Det gick sådär… 😐",
   "pages.over18.card.test.meta.description": "Ta vårt korttest för att se om du eller dina barn är redo för ett eget kort",

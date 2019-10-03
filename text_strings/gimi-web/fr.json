@@ -243,7 +243,7 @@
   "pages.over18.card.test.body": "Are you ready for your own card?",
   "pages.over18.card.test.button": "Lets go",
   "pages.over18.card.test.correctanswer": "Correct answer:",
-  "pages.over18.card.test.current": "Question {num} of {total, plural, =0 {questions} one {# question} other {# questions}}",
+  "pages.over18.card.test.current": "Question {num} of {total}",
   "pages.over18.card.test.failbody": "It seems like you need to learn more about money before you can get your own card. View your results below!",
   "pages.over18.card.test.failtitle": "Better luck next time… 😐",
   "pages.over18.card.test.meta.description": "Take the Gimi Card Test to see if you, or your children, are ready for their own card.",
