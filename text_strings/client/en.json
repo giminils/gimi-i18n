@@ -2854,5 +2854,6 @@
   "kyc_identity_verification_success_button": "Transfer now",
   "kyc_identity_not_verified_title": "Your identity has not been verified yet...",
   "kyc_identity_not_verified_subtitle": "Verify yourself so you can send money to your children 💸",
-  "kyc_identity_not_verified_button": "Do it now!"
+  "kyc_identity_not_verified_button": "Do it now!",
+  "general_more_information": "More information"
 }

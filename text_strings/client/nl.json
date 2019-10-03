@@ -2854,5 +2854,6 @@
   "kyc_identity_verification_success_button": "Maak nu over",
   "kyc_identity_not_verified_title": "Je identiteit is nog niet geverifieerd...",
   "kyc_identity_not_verified_subtitle": "Verifieer jezelf zodat je geld naar je kinderen kunt sturen 💸",
-  "kyc_identity_not_verified_button": "Doe het nu!"
+  "kyc_identity_not_verified_button": "Doe het nu!",
+  "general_more_information": "PLZ_TRANSLATE More information"
 }

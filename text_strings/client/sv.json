@@ -2854,5 +2854,6 @@
   "kyc_identity_verification_success_button": "För över nu",
   "kyc_identity_not_verified_title": "Din identitet har inte verifierats än...",
   "kyc_identity_not_verified_subtitle": "Verifiera din identitet så du kan skicka pengar till dina barn 💸",
-  "kyc_identity_not_verified_button": "Gör det nu!"
+  "kyc_identity_not_verified_button": "Gör det nu!",
+  "general_more_information": "Mer information"
 }
