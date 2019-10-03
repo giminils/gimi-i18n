@@ -516,13 +516,13 @@
   "ui.menu.under18.app": "Gimi-appen",
   "ui.menu.under18.card": "Gimi-kortet",
   "ui.menu.under18.label": "Gimi under 18",
-  "pages.waitlist.meta.title": "PLZ_TRANSLATE Waitlist",
-  "pages.waitlist.meta.description": "PLZ_TRANSLATE Waitlist for the Gimi-card!",
-  "pages.waitlist.input.email": "PLZ_TRANSLATE Email",
-  "pages.waitlist.intro.title": "PLZ_TRANSLATE Sign up on the waitlist!",
-  "pages.waitlist.intro.body": "PLZ_TRANSLATE Hurry up and get on the waitlist! This will assure you to be one of the first to get the Gimi-card and all of the freedom that comes with it!",
-  "pages.waitlist.intro.submit": "PLZ_TRANSLATE Sign me up!",
-  "pages.waitlist.intro.invalid.email": "PLZ_TRANSLATE Please enter a valid email!",
-  "pages.waitlist.success.title": "PLZ_TRANSLATE You're on the waitlist!",
-  "pages.waitlist.success.body": "PLZ_TRANSLATE Thank you for signing up on the waitlist! We will contact you as soon as the Gimi-card is ready for you to order!"
+  "pages.waitlist.meta.title": "Waitlist",
+  "pages.waitlist.meta.description": "Waitlist for the Gimi-card!",
+  "pages.waitlist.input.email": "Email",
+  "pages.waitlist.intro.title": "Sign up on the waitlist!",
+  "pages.waitlist.intro.body": "Hurry up and get on the waitlist! This will assure you to be one of the first to get the Gimi-card and all of the freedom that comes with it!",
+  "pages.waitlist.intro.submit": "Sign me up!",
+  "pages.waitlist.intro.invalid.email": "Please enter a valid email!",
+  "pages.waitlist.success.title": "You're on the waitlist!",
+  "pages.waitlist.success.body": "Thank you for signing up on the waitlist! We will contact you as soon as the Gimi-card is ready for you to order!"
 }
