@@ -128,7 +128,7 @@
   "push_pfs_card_blocked_by_parent": "Ditt kort har spärrats av {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}",
   "event_payday_child": "Payday",
-  "event_payday_parent": "Ka-ching! Payday för {child.nickname}! 💸",
+  "event_payday_parent": "🥁 Hurra! Payday för {child.nickname}!",
   "event_premium_payday_child": "Payday!",
   "push_you_got_a_chore_suggestion": "{task.created_by.nickname} har föreslagit en uppgift!",
   "event_other_parent_asks_for_deposit": "{permission_request.parent_child_relation.parent.nickname} ber om tillstånd att göra insättningar till {permission_request.parent_child_relation.child.nickname}",
