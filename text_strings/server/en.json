@@ -128,7 +128,7 @@
   "push_pfs_card_blocked_by_parent": "Your card has been blocked by {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Your card has been unblocked by {pfs_card.updated_by.nickname}",
   "event_payday_child": "Payday",
-  "event_payday_parent": "Ka-ching! Payday for {child.nickname}! 💸",
+  "event_payday_parent": "🥁 Hooray! Payday for {child.nickname}!",
   "event_premium_payday_child": "Payday",
   "push_you_got_a_chore_suggestion": "Chore suggestion from {task.created_by.nickname}",
   "event_other_parent_asks_for_deposit": "{permission_request.parent_child_relation.parent.nickname} is requesting permission to send money to {permission_request.parent_child_relation.child.nickname}",
