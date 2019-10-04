@@ -2325,7 +2325,7 @@
   "general_passed_due": "Passed due date!",
   "transaction_cash_payout_from": "Cash payout by %1$d",
   "add_contact_row_in_settings": "Add contact!",
-  "bank_not_responding_use_onfido_desc": "We cant connect to your bank right now. But no worries, we have another way of verifying you!",
+  "bank_not_responding_use_onfido_desc": "But it’s OK, we have a plan B! You can scan your ID card instead ✌️",
   "general_photo_loading_failed": "Could not load this image",
   "lysa_start_container_title": "Start and connect a Lysa saving account",
   "lysa_start_container_subtitle": "Gimi collaborates with Lysa, to offer parents what we believe is the best and simplest automated investment account for long term saving.",
