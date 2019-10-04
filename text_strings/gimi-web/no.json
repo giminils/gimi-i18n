@@ -525,5 +525,8 @@
   "pages.waitlist.intro.submit": "Sign me up!",
   "pages.waitlist.intro.invalid.email": "Please enter a valid email!",
   "pages.waitlist.success.title": "You're on the waitlist!",
-  "pages.waitlist.success.body": "Thank you for signing up on the waitlist! We will contact you as soon as the Gimi-card is ready for you to order!"
+  "pages.waitlist.success.body": "Thank you for signing up on the waitlist! We will contact you as soon as the Gimi-card is ready for you to order!",
+  "cardnotavailable.title": "The card is currently not available in this region",
+  "cardnotavailable.linkbefore": "Please go to the",
+  "cardnotavailable.linklabel": "swedish website."
 }
