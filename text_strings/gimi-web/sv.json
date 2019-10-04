@@ -528,5 +528,21 @@
   "pages.waitlist.success.body": "Thank you for signing up on the waitlist! We will contact you as soon as the Gimi-card is ready for you to order!",
   "cardnotavailable.title": "The card is currently not available in this region",
   "cardnotavailable.linkbefore": "Please go to the",
-  "cardnotavailable.linklabel": "swedish website."
+  "cardnotavailable.linklabel": "swedish website.",
+  "ui.footer.block1.label": "Om Gimi",
+  "ui.footer.block1.label1": "Jobba hos oss",
+  "ui.footer.block1.label2": "Chatta med oss",
+  "ui.footer.block1.label3": "Vanliga frågor",
+  "ui.footer.block2.label": "Gimi under 18",
+  "ui.footer.block2.label1": "Gimi Beginner",
+  "ui.footer.block2.label2": "Sparkalkylator",
+  "ui.footer.block2.label3": "Korttest",
+  "ui.footer.block3.label": "Gimi över 18",
+  "ui.footer.block3.label1": "Gimi Beginner",
+  "ui.footer.block3.label2": "Gimi Master",
+  "ui.footer.block3.label3": "Guider & artiklar",
+  "ui.footer.block4.label": "Community",
+  "ui.footer.block4.label1": "Samarbeta med oss",
+  "ui.footer.block4.label2": "Fan art",
+  "ui.footer.block4.label3": "Nyheter"
 }
