@@ -217,8 +217,8 @@
   "kid_faq_section_6_category_1_answer_2": "Hvis du sletter brukerkontoen din slettes alle dine personlige opplysninger samtidig. Vær oppmerksom på at det ikke er nok å avinstallere appen, men at du også må slette kontoen fra appen.",
   "kid_faq_section_6_category_98": "Vilkår for bruk, Gimi",
   "kid_faq_section_6_category_99": "Gimi Master vilkår for bruk",
-  "kid_faq_section_4_category_1_question_4": "PLZ_TRANSLATE Can I change my card PIN?",
-  "kid_faq_section_4_category_1_answer_4": "PLZ_TRANSLATE You cannot change your PIN, but you can always check what it is in the app!",
-  "parent_faq_section_5_category_1_question_5": "PLZ_TRANSLATE Can my child change his/her card PIN?",
-  "parent_faq_section_5_category_1_answer_5": "PLZ_TRANSLATE Your child cannot change their PIN. If they have forgotten it, they can check their PIN in the app."
+  "kid_faq_section_4_category_1_question_4": "Kan jeg endre kort-PIN-koden min?",
+  "kid_faq_section_4_category_1_answer_4": "Du kan ikke endre PIN-koden din, men du kan alltid sjekke hva den er i appen!",
+  "parent_faq_section_5_category_1_question_5": "Kan barnet mitt endre PIN-koden?",
+  "parent_faq_section_5_category_1_answer_5": "Barnet ditt kan ikke endre PIN-koden. Hvis de har glemt den, kan de sjekke PIN-koden sin i appen."
 }
