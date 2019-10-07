@@ -2799,7 +2799,7 @@
   "onfido_fail_unknown_sub": "Var vänlig försök verifiera ditt ID igen! ",
   "restore_purchase": "Återställ köp",
   "custom_notification_snapchat_premium": "Grattiz! Här är ett Snapchat filter, exklusivt för Master-användare 😎",
-  "restore_purchase_info": "Dyker inte din prenumeration upp här? Klicka för att ansluta till App Store!",
+  "restore_purchase_info": "Har du redan en prenumeration? Klicka för att hämta den!",
   "bind_sub_title": "Välj vilket barn som ska knytas till prenumerationen",
   "bind_sub_subtitle": "Välj vilket barn som ska uppgraderas till Gimi Master",
   "no_subs_to_bind": "Det finns inga tillgängliga köp",
