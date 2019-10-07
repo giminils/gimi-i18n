@@ -166,7 +166,7 @@
   "pages.limits.table.section2.row2.col1": "Ersättning av kort",
   "pages.limits.table.section2.row2.col2": "Ingår",
   "pages.limits.table.section2.row3.col1": "Obegränsade transaktioner",
-  "pages.limits.table.section2.row3.col2": "Ingår",
+  "pages.limits.table.section2.row3.col2": "*Ingår",
   "pages.limits.table.section2.row3.disclaimer": "*På transaktioner utomlands tillkommer valutaväxlingspåslag på 3%",
   "pages.limits.table.section2.title": "Inga dolda kostnader!",
   "pages.limits.table.section3.row1.col1": "Max antal överföringar per dag",
