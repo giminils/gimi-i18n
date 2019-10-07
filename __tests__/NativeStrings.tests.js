@@ -10,6 +10,6 @@ describe('Native', () => {
   })
 
   it('should not have duplicate keys', () => {
-    findDuplicateJSONKeysInFolders(`./native/`, () => true)
+    findDuplicateJSONKeysInFolders('./native/', () => true)
   })
 })
