@@ -2857,7 +2857,5 @@
   "kyc_identity_not_verified_title": "Je identiteit is nog niet geverifieerd...",
   "kyc_identity_not_verified_subtitle": "Verifieer jezelf zodat je geld naar je kinderen kunt sturen 💸",
   "kyc_identity_not_verified_button": "Doe het nu!",
-  "general_more_information": "PLZ_TRANSLATE More information",
-  "notification_failed_payment": "PLZ_TRANSLATE Failed",
-  "notification_failed_ignored": "PLZ_TRANSLATE Ignored"
+  "general_more_information": "PLZ_TRANSLATE More information"
 }

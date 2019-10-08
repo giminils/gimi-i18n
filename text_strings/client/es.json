@@ -2857,7 +2857,5 @@
   "kyc_identity_not_verified_title": "Tu identidad no se ha verificado aún…...",
   "kyc_identity_not_verified_subtitle": "Verifica por ti mismo de manera de que puedas enviar dinero a tu niño 💸",
   "kyc_identity_not_verified_button": "¡Hazlo ahora!",
-  "general_more_information": "PLZ_TRANSLATE More information",
-  "notification_failed_payment": "PLZ_TRANSLATE Failed",
-  "notification_failed_ignored": "PLZ_TRANSLATE Ignored"
+  "general_more_information": "PLZ_TRANSLATE More information"
 }
