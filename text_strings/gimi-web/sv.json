@@ -547,5 +547,8 @@
   "ui.menu.under18.about": "Vad är Gimi?",
   "ui.menu.under18.app": "Allt om appen",
   "ui.menu.under18.card": "Gimikortet",
-  "ui.menu.under18.label": "Gimi for children"
+  "ui.menu.under18.label": "Gimi for children",
+  "ui.menu.faq.label": "FAQ",
+  "ui.menu.faq.over18": "Over 18",
+  "ui.menu.faq.under18": "Under 18"
 }
