@@ -2598,6 +2598,8 @@
   "help_row_interest": "Varför ge en bonus?",
   "set_card_name_help_text": "Skriv ut hela namnet på %1$d, så som det ska stå på kortet.",
   "notification_waiting_hour_glass": "Väntar...",
+  "notification_failed_payment": "PLZ_CHECK Failed",
+  "notification_failed_ignored": "PLZ_CHECK Ignored",
   "internal_transfer_error_title": "Åh nej, något gick fel",
   "internal_transfer_error_subtitle": "Vi kunde inte föra över dina pengar. Ge oss några minuter och försök igen!",
   "chore_to_be_suggested_overview_title": "Föreslå en uppgift!",

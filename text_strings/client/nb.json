@@ -2598,6 +2598,8 @@
   "help_row_interest": "Hvorfor renter?",
   "set_card_name_help_text": "Skriv hele navnet på %1$d, som det vil vises på kortet.",
   "notification_waiting_hour_glass": "Venter...",
+  "notification_failed_payment": "PLZ_TRANSLATE Failed",
+  "notification_failed_ignored": "PLZ_TRANSLATE Ignored",
   "internal_transfer_error_title": "Å nei, noe gikk galt",
   "internal_transfer_error_subtitle": "Vi kunne ikke overføre pengene. Gi oss et øyeblikk og prøv igjen senere!",
   "chore_to_be_suggested_overview_title": "Foreslå en oppgave!",

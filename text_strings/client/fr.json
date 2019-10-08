@@ -2598,6 +2598,8 @@
   "help_row_interest": "Pourquoi l'intérêt?",
   "set_card_name_help_text": "Écrivez le nom complet de %1$d, comme il apparaîtra sur la carte.",
   "notification_waiting_hour_glass": "En attente...",
+  "notification_failed_payment": "PLZ_TRANSLATE Failed",
+  "notification_failed_ignored": "PLZ_TRANSLATE Ignored",
   "internal_transfer_error_title": "Oh non... Une erreur s'est produite",
   "internal_transfer_error_subtitle": "Nous n'avons pas pu transférer votre argent. Donnez-nous un moment et réessayez bientôt!",
   "chore_to_be_suggested_overview_title": "Proposer une tâche!",

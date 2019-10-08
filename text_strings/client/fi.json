@@ -2598,6 +2598,8 @@
   "help_row_interest": "Miksi korkoa?",
   "set_card_name_help_text": "Kirjoita käyttäjän %1$d koko nimi, sellaisena kuin sen tulisi näkyä kortilla.",
   "notification_waiting_hour_glass": "Odottaa...",
+  "notification_failed_payment": "PLZ_TRANSLATE Failed",
+  "notification_failed_ignored": "PLZ_TRANSLATE Ignored",
   "internal_transfer_error_title": "Voi ei... jotain meni pieleen",
   "internal_transfer_error_subtitle": "Emme voineet siirtää rahaa. Odota hetki ja yritä uudelleen!",
   "chore_to_be_suggested_overview_title": "Ehdota askaretta!",
