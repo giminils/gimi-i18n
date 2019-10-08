@@ -1292,7 +1292,7 @@
   "get_card_info_error": "Vi kunde inte hämta dina kortuppgifter. Försök igen om en stund!",
   "payout_summary_title": "Utbetalning",
   "card_info_timer": "Du får 8 sekunder!",
-  "payout_summary_for_name": "Payday! Skicka pengar till Monika %1$d 💸",
+  "payout_summary_for_name": "Payday! Skicka pengar till %1$d 💸",
   "payout_summary_edit_amount": "Ändra belopp",
   "payout_to_n": "Utbetalning till %1$d",
   "snooze_payout_singluar_title": "Säker på att du inte vill betala %1$d?",
