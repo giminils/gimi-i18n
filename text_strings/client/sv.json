@@ -2598,8 +2598,8 @@
   "help_row_interest": "Varför ge en bonus?",
   "set_card_name_help_text": "Skriv ut hela namnet på %1$d, så som det ska stå på kortet.",
   "notification_waiting_hour_glass": "Väntar...",
-  "notification_failed_payment": "PLZ_CHECK Failed",
-  "notification_failed_ignored": "PLZ_CHECK Ignored",
+  "notification_payment_failed": "PLZ_TRANSLATE Failed",
+  "notification_payment_ignored": "PLZ_TRANSLATE Ignored",
   "internal_transfer_error_title": "Åh nej, något gick fel",
   "internal_transfer_error_subtitle": "Vi kunde inte föra över dina pengar. Ge oss några minuter och försök igen!",
   "chore_to_be_suggested_overview_title": "Föreslå en uppgift!",
@@ -2857,5 +2857,7 @@
   "kyc_identity_not_verified_title": "Din identitet har inte verifierats än...",
   "kyc_identity_not_verified_subtitle": "Verifiera din identitet så du kan skicka pengar till dina barn 💸",
   "kyc_identity_not_verified_button": "Gör det nu!",
-  "general_more_information": "Mer information"
+  "general_more_information": "Mer information",
+  "notification_failed_payment": "PLZ_CHECK Failed",
+  "notification_failed_ignored": "PLZ_CHECK Ignored"
 }

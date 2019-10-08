@@ -2598,8 +2598,8 @@
   "help_row_interest": "Waarom rente?",
   "set_card_name_help_text": "Schrijf de volledige naam van %1$d, deze komt op de kaart.",
   "notification_waiting_hour_glass": "Wachten...",
-  "notification_failed_payment": "PLZ_TRANSLATE Failed",
-  "notification_failed_ignored": "PLZ_TRANSLATE Ignored",
+  "notification_payment_failed": "PLZ_TRANSLATE Failed",
+  "notification_payment_ignored": "PLZ_TRANSLATE Ignored",
   "internal_transfer_error_title": "Oh nee... er ging iets mis",
   "internal_transfer_error_subtitle": "We konden je geld niet overmaken. Geef ons even en probeer het snel opnieuw!",
   "chore_to_be_suggested_overview_title": "Stel een klusje voor!",
@@ -2857,5 +2857,7 @@
   "kyc_identity_not_verified_title": "Je identiteit is nog niet geverifieerd...",
   "kyc_identity_not_verified_subtitle": "Verifieer jezelf zodat je geld naar je kinderen kunt sturen 💸",
   "kyc_identity_not_verified_button": "Doe het nu!",
-  "general_more_information": "PLZ_TRANSLATE More information"
+  "general_more_information": "PLZ_TRANSLATE More information",
+  "notification_failed_payment": "PLZ_TRANSLATE Failed",
+  "notification_failed_ignored": "PLZ_TRANSLATE Ignored"
 }

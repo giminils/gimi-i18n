@@ -2598,8 +2598,8 @@
   "help_row_interest": "¿Por qué el interés?",
   "set_card_name_help_text": "Escribe el nombre completo de %1$d, tal como aparecerá en la tarjeta.",
   "notification_waiting_hour_glass": "Esperando...",
-  "notification_failed_payment": "PLZ_TRANSLATE Failed",
-  "notification_failed_ignored": "PLZ_TRANSLATE Ignored",
+  "notification_payment_failed": "PLZ_TRANSLATE Failed",
+  "notification_payment_ignored": "PLZ_TRANSLATE Ignored",
   "internal_transfer_error_title": "Oh no... Algo salió mal",
   "internal_transfer_error_subtitle": "¡No pudimos transferir tu dinero. Favor danos un momento e intenta pronto!",
   "chore_to_be_suggested_overview_title": "¡Sugiere una tarea!",
@@ -2857,5 +2857,7 @@
   "kyc_identity_not_verified_title": "Tu identidad no se ha verificado aún…...",
   "kyc_identity_not_verified_subtitle": "Verifica por ti mismo de manera de que puedas enviar dinero a tu niño 💸",
   "kyc_identity_not_verified_button": "¡Hazlo ahora!",
-  "general_more_information": "PLZ_TRANSLATE More information"
+  "general_more_information": "PLZ_TRANSLATE More information",
+  "notification_failed_payment": "PLZ_TRANSLATE Failed",
+  "notification_failed_ignored": "PLZ_TRANSLATE Ignored"
 }
