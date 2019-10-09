@@ -2724,7 +2724,7 @@
   "pfs_savings_transaction_to_blocked_card_popover_text": "Kontot är spärrat för överföringar. Supportern som spärrat kontot måste låsa upp det åt dig.",
   "invalid_email_error": "Lägg till en giltig e-post",
   "enter_stripe_card_details_title": "Spara ditt kort",
-  "enter_stripe_card_details_subtitle": "Det här kortet används för Payday utbetalningar!",
+  "enter_stripe_card_details_subtitle": "Det här kortet används för Payday-utbetalningar!",
   "enter_stripe_card_details_full_name_label": "Namn på kortet",
   "enter_stripe_card_details_card_number_label": "Kortnummer",
   "enter_stripe_card_details_expiry_label": "Utgångsdatum",
