@@ -552,5 +552,11 @@
   "ui.menu.faq.over18": "Over 18",
   "ui.menu.faq.under18": "Under 18",
   "ui.links.cardcostquestion": "Vad kostar Gimi Master och Gimi-kortet?",
-  "ui.links.priceandlimits": "Avgifter & Begränsningar"
+  "ui.links.priceandlimits": "Avgifter & Begränsningar",
+  "pages.cookies": "Cookies",
+  "pages.cookies.title": "Information om kakor",
+  "pages.cookies.title1": "Vad är cookies?",
+  "pages.cookies.block1": "Cookies är små textfiler med information som lagras på din dator när du besöker en webbplats (även surfplattor med internetuppkoppling och telefoner omfattas). Cookies används för att få webbsidor att fungera mer effektivt men även för att ge viss information till ägaren till en hemsida. Cookies gör det möjligt att hålla isär olika användare från varandra, vilket i sig kan ge respektive användare en mer positiv upplevelse av webbplatsen.",
+  "pages.cookies.title2": "Lista av cookies på Gimis domäner",
+  "pages.cookies.block2": "De flesta webbläsare har en standardinställning som accepterar användningen av cookies. Du kan ändra dessa inställningar så att du som användare varnas så fort en cookie skickas till din dator eller skapa en huvudregel som innebär att cookies blockeras. Du kan också välja att radera alla de cookies som finns lagrade på datorn. Hur du tar bort lagrade cookies eller ändrar inställningarna för cookies anges i instruktionerna till webbläsaren eller i den hjälpfunktion som de flesta webbläsare är utrustade med. Om du väljer att blockera de cookies som används på vår webbplats kan detta påverka din upplevelse av vår hemsida, t.ex. kan vissa funktioner sluta att fungera.Ditt samtycke till användningen av cookies gäller för domänerna: www.veckopengen.se och www.gimitheapp.com.Om du har ytterligare frågor, var vänlig skicka email info@gimitheapp.com eller följ länkarna nedan för ytterligare information om cookies. http://www.pts.se/sv/privat/internet/integritet/kakor-cookies/ http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm"
 }
