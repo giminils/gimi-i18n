@@ -40,7 +40,6 @@ let RunSara = (filePath): * => {
     let NewTextStrings = {...lang}
 
     switch (true) {
-      case folderName.includes('gimi-web'): Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = lang[key])); break
       case file.includes('sv.json'):
       case file.includes('en.json'): Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_CHECK ${lang[key]}`)); break
       default: Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
