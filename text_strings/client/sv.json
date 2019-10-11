@@ -2732,7 +2732,7 @@
   "enter_stripe_card_scan_card": "Scan your card",
   "enter_custom_phone_number": "Skriv in telefonnummer istället",
   "update_stripe_card_confirmation_popover_title": "Säker att du vill byta kort?",
-  "update_stripe_card_confirmation_popover_text": "Du har redan ett sparat kort. Om du sparar ett nyt raderas ditt nuvarande!",
+  "update_stripe_card_confirmation_popover_text": "Du har redan ett sparat kort. Om du sparar ett nytt raderas ditt nuvarande!",
   "save_education_videos_title": "Spara filmer",
   "earn_education_videos_title": "Tjäna filmer",
   "spend_education_videos_title": "Instruktionsfilmer för kortet",
