@@ -2857,5 +2857,7 @@
   "kyc_identity_not_verified_title": "Votre identité n'a pas encore été vérifiée...",
   "kyc_identity_not_verified_subtitle": "Vérifiez-vous pour pouvoir envoyer de l'argent à vos enfants 💸",
   "kyc_identity_not_verified_button": "Faites-le maintenant!",
-  "general_more_information": "Plus d'informations"
+  "general_more_information": "Plus d'informations",
+  "parent_create_recurring_chore_action_title": "PLZ_TRANSLATE You just created a chore!",
+  "parent_create_recurring_chore_action_desc": "PLZ_TRANSLATE ✌️"
 }

@@ -2857,5 +2857,7 @@
   "kyc_identity_not_verified_title": "Din identitet har inte verifierats än...",
   "kyc_identity_not_verified_subtitle": "Verifiera din identitet så du kan skicka pengar till dina barn 💸",
   "kyc_identity_not_verified_button": "Gör det nu!",
-  "general_more_information": "Mer information"
+  "general_more_information": "Mer information",
+  "parent_create_recurring_chore_action_title": "PLZ_CHECK You just created a chore!",
+  "parent_create_recurring_chore_action_desc": "PLZ_CHECK ✌️"
 }
