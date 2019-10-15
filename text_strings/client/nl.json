@@ -2859,5 +2859,10 @@
   "kyc_identity_not_verified_button": "Doe het nu!",
   "general_more_information": "PLZ_TRANSLATE More information",
   "parent_create_recurring_chore_action_title": "PLZ_TRANSLATE You just created a chore!",
-  "parent_create_recurring_chore_action_desc": "PLZ_TRANSLATE ✌️"
+  "parent_create_recurring_chore_action_desc": "PLZ_TRANSLATE ✌️",
+  "invalid_phone_login_popover_title": "PLZ_TRANSLATE This number is not registered",
+  "invalid_phone_login_popover_text": "PLZ_TRANSLATE Go back, check the number, and try again. Or maybe create a new account?",
+  "invalid_email_login_popover_title": "PLZ_TRANSLATE This email is not registered",
+  "invalid_email_login_popover_text": "PLZ_TRANSLATE Go back, check the email, and try again. Or maybe create a new account?",
+  "popover_action_button_create_new_account": "PLZ_TRANSLATE Create new"
 }
