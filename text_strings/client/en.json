@@ -2858,6 +2858,6 @@
   "kyc_identity_not_verified_subtitle": "Verify yourself so you can send money to your children 💸",
   "kyc_identity_not_verified_button": "Do it now!",
   "general_more_information": "More information",
-  "parent_create_recurring_chore_action_title": "You just created a chore!",
-  "parent_create_recurring_chore_action_desc": "✌️"
+  "parent_create_recurring_chore_action_title": "PLZ_COPY You created a recurring chore!",
+  "parent_create_recurring_chore_action_desc": "PLZ_COPY It will appear in the chore list when it updates each Monday."
 }
