@@ -2866,5 +2866,6 @@
   "invalid_email_login_popover_text": "Gå tillbaka, kolla e-postadressen och försök igen. Eller skapa ett nytt konto?",
   "popover_action_button_create_new_account": "Skapa ny",
   "qr_code_used_popover_title": "Kod har använts",
-  "qr_code_used_popover_text": "En QR-kod kan användas för 1 ihopkoppling. Be din kontakt att generera en ny"
+  "qr_code_used_popover_text": "En QR-kod kan användas för 1 ihopkoppling. Be din kontakt att generera en ny",
+  "chore_overview_completed_at": "PLZ_CHECK Completed on: %1$d"
 }
