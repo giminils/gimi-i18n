@@ -2867,5 +2867,6 @@
   "popover_action_button_create_new_account": "PLZ_TRANSLATE Create new",
   "qr_code_used_popover_title": "PLZ_TRANSLATE Code is used",
   "qr_code_used_popover_text": "PLZ_TRANSLATE A QR code is only available for 1 connection. Ask your contact to generate a new one",
-  "chore_overview_completed_at": "PLZ_TRANSLATE Completed on: %1$d"
+  "chore_overview_completed_at": "PLZ_TRANSLATE Completed on: %1$d",
+  "amount_too_high_error": "PLZ_TRANSLATE Amount is too high! 😑"
 }
