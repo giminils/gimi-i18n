@@ -2864,5 +2864,7 @@
   "invalid_phone_login_popover_text": "Go back, check the number, and try again. Or maybe create a new account?",
   "invalid_email_login_popover_title": "This email is not registered",
   "invalid_email_login_popover_text": "Go back, check the email, and try again. Or maybe create a new account?",
-  "popover_action_button_create_new_account": "Create new"
+  "popover_action_button_create_new_account": "Create new",
+  "qr_code_used_popover_title": "Code is used",
+  "qr_code_used_popover_text": "A QR code is only available for 1 connection. Ask your contact to generate a new one"
 }
