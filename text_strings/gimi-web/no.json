@@ -23,7 +23,7 @@
   "pages.community.block1.title": "Bli en influencer",
   "pages.community.block2.body": "<p>Vil du ha unike bakgrunnsbilder, GIF-er eller kanskje snapchat-filtre? Da er dette stedet for deg!</p>\n\n<p>Fan art-sonen er full av morsomme ting du kan laste ned til mobilen din.</p>",
   "pages.community.block2.title": "Fan art",
-  "pages.community.block3.body": "PLZ_TRANSLATE <p>The newest addition to Cyberspace, Gimi Games. Here you'll find games featuring our favorite mascot, Piggy</p>",
+  "pages.community.block3.body": "PLZ_TRANSLATE <p>The newest addition to Cyberspace, Gimi Games. Here you'll find games featuring our favorite mascot, Piggy.</p>",
   "pages.community.block3.title": "PLZ_TRANSLATE Gimi Games",
   "pages.community.meta.description": "Do you want to access our fan art or apply to the ambassador programme?",
   "pages.community.meta.title": "Community",
@@ -612,5 +612,7 @@
   "ui.menu.under18.about": "Hva er Gimi?",
   "ui.menu.under18.app": "Alt om appen",
   "ui.menu.under18.card": "Gimi card",
-  "ui.menu.under18.label": "Gimi for children"
+  "ui.menu.under18.label": "Gimi for children",
+  "pages.games.meta.title": "PLZ_TRANSLATE Games",
+  "pages.games.content.body": "PLZ_TRANSLATE <p>Angry Cat has stolen Piggy's allowance! Take back the money, avenge Piggy and smash asteroids in \"Piggy Cyberspace Adventure\"!</p><p>Guide Piggy by pressing on the screen in the direction you want to fly. To activate superboost pull further away from Piggy. With superboost you fly faster and will be able to fly straight through Angry Cat. Piggy's allowance is in your hands!</p>"
 }
