@@ -2113,7 +2113,7 @@
   "bank_not_working": "Virker ikke :(",
   "skandia_broken_bank_popover_title": "BankID med Skandia virker ikke…",
   "skandia_broken_bank_popover_text": "Skandia krever at du skanner en QR-kode på deres nettside for å kunne godkjenne med BankID. Dessverre virker dette ikke i en app, så du vil ikke kunne bekrefte identifikasjonen din :(",
-  "you_have_a_card_on_file": "Du har et kort registrert",
+  "you_have_a_card_on_file": "✅ Du har et kort registrert",
   "general_suggested": "Foreslått",
   "chore_waiting_for_enable": "Foreslått",
   "chore_waiting_for_approval": "Venter på godkjenning",
