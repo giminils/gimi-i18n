@@ -2709,8 +2709,8 @@
   "card_waitlist_desc_3": "Hantera allt från din egen app. Följ all aktivitet, ta emot notiser och blockera kortet om det behövs. ",
   "education_on_completion_title": "Bra jobbat! 🎉",
   "education_end_extras_title": "Vill du fortsätta?",
-  "kid_custom_note_feature_722": "PLZ_CHECK Woohoo! Now you can share more pics than ever! 🥳💌🐷",
-  "parent_custom_note_feature_722": "PLZ_CHECK Check out all the new Education content! 😍📚🎒🎓",
+  "kid_custom_note_feature_722": "Woohoo! Nu kan du dela ännu fler bilder! 🥳💌🐷",
+  "parent_custom_note_feature_722": "Vi har lagt till fortsättningar till alla stories i Utbilda! 😍📚🎒🎓",
   "kid_custom_note_feature_723": "Lorem ipsum",
   "parent_custom_note_feature_723": "Lorem ipsum",
   "shareable_card_waitlist_title": "Jag är på väntelistan för Gimi-kortet!",
@@ -2867,6 +2867,6 @@
   "popover_action_button_create_new_account": "Skapa ny",
   "qr_code_used_popover_title": "Kod har använts",
   "qr_code_used_popover_text": "En QR-kod kan användas för 1 ihopkoppling. Be din kontakt att generera en ny",
-  "chore_overview_completed_at": "PLZ_CHECK Completed on: %1$d",
-  "amount_too_high_error": "PLZ_CHECK Amount is too high! 😑"
+  "chore_overview_completed_at": "Färdig: %1$d",
+  "amount_too_high_error": "Belopp är för högt!  😑"
 }
