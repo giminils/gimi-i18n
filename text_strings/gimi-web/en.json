@@ -614,5 +614,6 @@
   "ui.menu.under18.card": "Gimi card",
   "ui.menu.under18.label": "Gimi for children",
   "pages.games.meta.title": "Games",
-  "pages.games.content.body": "<p>Angry Cat has stolen Piggy's allowance! Take back the money, avenge Piggy and smash asteroids in \"Piggy Cyberspace Adventure\"!</p><p>Guide Piggy by pressing on the screen in the direction you want to fly. To activate superboost pull further away from Piggy. With superboost you fly faster and will be able to fly straight through Angry Cat. Piggy's allowance is in your hands!</p>"
+  "pages.games.content.body": "<p>Angry Cat has stolen Piggy's pocket money! Reclaim your pocket money, deal with Angry Cat, and smash the asteroids into space dust in \"Piggy Cyberspace Adventure\"!</p><p>Navigate cyberspace by pressing the screen in the direction where you want to fly. Press closed to the edge of the screen to get Super Boost! With super boost you fly faster, and you can fly right through Angry Cat.</p><p>Piggy’s pocket money is in your hands!</p>",
+  "pages.games.cyberspaceadventure.meta.title": "Piggy Cyberspace Adventure"
 }

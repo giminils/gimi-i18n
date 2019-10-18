@@ -614,5 +614,6 @@
   "ui.menu.under18.card": "Gimikortet",
   "ui.menu.under18.label": "Gimi for children",
   "pages.games.meta.title": "Spel",
-  "pages.games.content.body": "<p>Angry Cat har stulit Piggys veckopeng! Ta tillbaka pengarna, hämnas på Angry Cat och krossa asteroider i \"Piggy Cyberspace Adventure\"!</p><p>Styr Piggy genom att trycka på skärmen i den riktning du vill flyga. Dra kängre ut i kanterna för superboost! Med superboost flyger du snabbare, och kan flyga rakt igenom Angry Cat. Piggys veckopeng ligger i dina händer!</p>"
+  "pages.games.content.body": "<p>Angry Cat har stulit Piggys veckopeng! Ta tillbaka pengarna, hämnas på Angry Cat, och krossa asteroider i \"Piggy Cyberspace Adventure\"!</p><p>Styr Piggy genom att trycka på skärmen i den riktning du vill flyga. Dra längre ut i kanterna för superboost! Med superboost flyger du snabbare, och kan flyga rakt igenom Angry Cat.</p><p>Piggys veckopeng ligger i dina händer!</p>",
+  "pages.games.cyberspaceadventure.meta.title": "PLZ_CHECK Piggy Cyberspace Adventure"
 }
