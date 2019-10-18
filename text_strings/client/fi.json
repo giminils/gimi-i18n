@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Aseta viikko- tai kuukausiraha",
   "custom_notification_set_allowance_for_kid": "Aseta viikko- tai kuukausiraha lapselle %1$d",
   "custom_notification_rate_gimi": "Arvioi Gimi",
-  "nothing_to_see_here": "Tyhjää täynnä...",
+  "nothing_to_see_here": "PLZ_TRANSLATE 🦄",
   "custom_notification_get_money": "Kutsu aikuinen saadaksesi rahaa",
   "custom_notification_create_dream": "Ala säästämään unelmaa varten",
   "custom_notification_can_apple_pay": "Gimi-korttiasi voi käyttää Apple Payn kanssa! Aktivoi se nyt",

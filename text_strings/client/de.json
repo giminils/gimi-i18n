@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Taschengeld ansetzen",
   "custom_notification_set_allowance_for_kid": "Wöchentliches oder Monatliches Taschengeld für %1$d einrichten",
   "custom_notification_rate_gimi": "Bewerte Gimi",
-  "nothing_to_see_here": "Hier gibt es nichts zu sehen",
+  "nothing_to_see_here": "PLZ_TRANSLATE 🦄",
   "custom_notification_get_money": "PLZ_CHECK kein Geld mehr in der Warteschleife, lade einen Erwachsenen ein",
   "custom_notification_create_dream": "Beginne, für einen Traum zu sparen",
   "custom_notification_can_apple_pay": "Deine Gimi Card ist kompartibel mit Apple Pay! Aktiviere es jetzt!",
