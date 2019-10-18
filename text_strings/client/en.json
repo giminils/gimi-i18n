@@ -2113,7 +2113,7 @@
   "bank_not_working": "Not working 😑",
   "skandia_broken_bank_popover_title": "BankID with Skandia is not working…",
   "skandia_broken_bank_popover_text": "Skandia requires you to scan a QR code on their website in order to authenticate with BankID. Unfortunately this doesn’t work in in an app, so you will not be able to verify your identify 😥",
-  "you_have_a_card_on_file": "You have a card on file",
+  "you_have_a_card_on_file": "✅ You have a card on file",
   "general_suggested": "Suggested",
   "chore_waiting_for_enable": "Suggested",
   "chore_waiting_for_approval": "Waiting for approval",
