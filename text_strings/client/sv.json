@@ -246,7 +246,7 @@
   "transfer_savings": "överför från konto",
   "suggest_chore": "ny uppgift",
   "question_name": "vad heter du?",
-  "question_age": "PLZ_CHECK Hi! Who are you?",
+  "question_age": "Hej! Vem är du?",
   "under_18": "under 18",
   "over_18": "över 18",
   "terms_conditions": "Genom att fortsätta accepterar du våra Användarvillkor och Integritetspolicy",
@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Sätt vecko-/månadspeng",
   "custom_notification_set_allowance_for_kid": "Sätt Vecko eller Månadspengen för %1$d",
   "custom_notification_rate_gimi": "Sätt ditt betyg på Gimi",
-  "nothing_to_see_here": "PLZ_CHECK 🦄",
+  "nothing_to_see_here": "🦄",
   "custom_notification_get_money": "inga pengar än, bjud in en förälder",
   "custom_notification_create_dream": "börja spara till en dröm",
   "custom_notification_can_apple_pay": "Ditt Gimi-kort kan användas med Apple Pay! Aktivera det nu",
@@ -2341,7 +2341,7 @@
   "dream_reached_parent_home": "Uppnådd!",
   "order_card_from_parent_home": "Beställ",
   "beta_order_card_from_parent_home": "Beta",
-  "kid_not_premium_order_card_from_parent_home": "PLZ_CHECK Read more",
+  "kid_not_premium_order_card_from_parent_home": "Läs mer",
   "kid_on_waitlist_order_card_from_parent_home": "Beställ kortet!",
   "waitlist_from_parent_home": "Kortet Väntelistan!",
   "kid_on_waitlist_from_parent_home": "Väntelistan",
@@ -2869,5 +2869,5 @@
   "qr_code_used_popover_text": "En QR-kod kan användas för 1 ihopkoppling. Be din kontakt att generera en ny",
   "chore_overview_completed_at": "Färdig: %1$d",
   "amount_too_high_error": "Belopp är för högt!  😑",
-  "overview_un_skip_payday_button": "PLZ_CHECK re-activate payday"
+  "overview_un_skip_payday_button": "Återaktivera Payday"
 }
