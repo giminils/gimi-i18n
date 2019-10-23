@@ -2802,7 +2802,7 @@
   "restore_purchase": "Återställ köp",
   "custom_notification_snapchat_premium": "Grattiz! Här är ett Snapchat filter, exklusivt för Master-användare 😎",
   "restore_purchase_info": "Har du redan en prenumeration? Klicka för att hämta den!",
-  "bind_sub_title": "Välj vilket barn som ska knytas till prenumerationen",
+  "bind_sub_title": "Vem ska uppgraderas?",
   "bind_sub_subtitle": "Välj vilket barn som ska uppgraderas till Gimi Master",
   "no_subs_to_bind": "Det finns inga tillgängliga köp",
   "successfull_bind_of_sub": "Prenumeration är nu knuten till %1$d",
