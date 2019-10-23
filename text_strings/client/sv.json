@@ -2869,7 +2869,5 @@
   "qr_code_used_popover_text": "En QR-kod kan användas för 1 ihopkoppling. Be din kontakt att generera en ny",
   "chore_overview_completed_at": "Färdig: %1$d",
   "amount_too_high_error": "Belopp är för högt!  😑",
-  "overview_un_skip_payday_button": "Återaktivera Payday",
-  "general_number": "PLZ_CHECK Number",
-  "general_letter": "PLZ_CHECK Letter"
+  "overview_un_skip_payday_button": "Återaktivera Payday"
 }
