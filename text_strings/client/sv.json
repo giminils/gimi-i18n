@@ -2825,7 +2825,7 @@
   "klarna_error_code_desc_unattainable": "Kontrollera att din enhet är online och försök igen. ",
   "klarna_error_code_title_too_many_attempts": "BankID är tillfälligt låst, försök igen om en stund!",
   "klarna_error_code_desc_too_many_attempts": "För många inloggningsförsök, vänta en stund och kom tillbaka.",
-  "klarna_error_code_title_session_timeout": "Överskriden tidsgräns, försök igen!",
+  "klarna_error_code_title_session_timeout": "Det tog för lång tid, försök igen!",
   "klarna_error_code_desc_session_timeout": "Du har loggats ut på grund av inaktivitet, gå tillbaka och logga in igen.",
   "klarna_error_code_title_user_interaction": "Var vänlig försök igen!",
   "klarna_error_code_desc_user_interaction": "Skrev du in rätt information? Kontakta oss om problemet uppstår.",
