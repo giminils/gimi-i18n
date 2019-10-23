@@ -2860,7 +2860,7 @@
   "general_more_information": "Mer information",
   "parent_create_recurring_chore_action_title": "Du skapade en återkommande uppgift!",
   "parent_create_recurring_chore_action_desc": "Den dyker upp i uppgiftslistan som uppdateras varje måndag.",
-  "invalid_phone_login_popover_title": "Nummer är inte registrerad",
+  "invalid_phone_login_popover_title": "Numret är inte registrerat",
   "invalid_phone_login_popover_text": "Gå tillbaka, kolla numret och försök igen. Eller skapa ett nytt konto?",
   "invalid_email_login_popover_title": "E-post är inte registrerad",
   "invalid_email_login_popover_text": "Gå tillbaka, kolla e-postadressen och försök igen. Eller skapa ett nytt konto?",
