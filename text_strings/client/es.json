@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Configura el dinero de bolsillo",
   "custom_notification_set_allowance_for_kid": "Establece la recompensa semanal o mensual para %1$d",
   "custom_notification_rate_gimi": "Califica a Gimi",
-  "nothing_to_see_here": "PLZ_TRANSLATE 🦄",
+  "nothing_to_see_here": "PLZ_TRANSLATE empty here...",
   "custom_notification_get_money": "sin dinero, invitar a un adulto",
   "custom_notification_create_dream": "comienza a ahorrar para un sueño",
   "custom_notification_can_apple_pay": "¡Tu tarjeta Gimi puede ser usada con Apple Pay! Actívala ahora",

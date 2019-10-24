@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Sätt vecko-/månadspeng",
   "custom_notification_set_allowance_for_kid": "Sätt Vecko eller Månadspengen för %1$d",
   "custom_notification_rate_gimi": "Sätt ditt betyg på Gimi",
-  "nothing_to_see_here": "🦄",
+  "nothing_to_see_here": "PLZ_CHECK empty here...",
   "custom_notification_get_money": "inga pengar än, bjud in en förälder",
   "custom_notification_create_dream": "börja spara till en dröm",
   "custom_notification_can_apple_pay": "Ditt Gimi-kort kan användas med Apple Pay! Aktivera det nu",

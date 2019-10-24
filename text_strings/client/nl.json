@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Stel zakgeld in",
   "custom_notification_set_allowance_for_kid": "Stel wekelijks of maandelijks zakgeld in voor %1$d",
   "custom_notification_rate_gimi": "Beoordeel Gimi",
-  "nothing_to_see_here": "PLZ_TRANSLATE 🦄",
+  "nothing_to_see_here": "PLZ_TRANSLATE empty here...",
   "custom_notification_get_money": "Nog geen geld, nodig een volwassene uit om geld te krijgen",
   "custom_notification_create_dream": "begin met sparen voor een droomwens",
   "custom_notification_can_apple_pay": "Je Gimi-kaart kan gebruikt worden met Apple Pay. Activeer dat nu.",

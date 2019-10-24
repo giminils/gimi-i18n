@@ -1060,7 +1060,7 @@
   "custom_notification_set_allowance": "Opret lommepenge",
   "custom_notification_set_allowance_for_kid": "Opret ugentlige og månedlige lommepenge for %1$d",
   "custom_notification_rate_gimi": "Bedøm Gimi",
-  "nothing_to_see_here": "PLZ_TRANSLATE 🦄",
+  "nothing_to_see_here": "PLZ_TRANSLATE empty here...",
   "custom_notification_get_money": "Ingen penge endnu, inviter en forældre for at få penge",
   "custom_notification_create_dream": "start med at spare op til en drøm",
   "custom_notification_can_apple_pay": "Dit Gimikort kan blive brugt med Apple Pay! Aktiver det nu",
