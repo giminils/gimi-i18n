@@ -2872,5 +2872,7 @@
   "overview_un_skip_payday_button": "PLZ_TRANSLATE re-activate payday",
   "street_number_letter": "PLZ_TRANSLATE Street, number, letter",
   "parent_cloud_floating_image_card_promotion_title": "PLZ_TRANSLATE Is %1$d ready for real money?",
-  "parent_cloud_floating_image_card_promotion_text": "PLZ_TRANSLATE Upgrade Gimi to real money, a Gimi card is included."
+  "parent_cloud_floating_image_card_promotion_text": "PLZ_TRANSLATE Upgrade Gimi to real money, a Gimi card is included.",
+  "cloud_debt_swipable_card_title": "PLZ_TRANSLATE Where is the money?",
+  "cloud_debt_swipable_card_text": "PLZ_TRANSLATE Supporters owe %1$d %2$d. Make sure to deposit this into the new account"
 }
