@@ -2878,5 +2878,9 @@
   "buy_premium_overlay_help": "PLZ_TRANSLATE 💳 Before you can order the card, you need a subscription 👇",
   "purchase_done_redirecting": "PLZ_TRANSLATE Now let’s order the card",
   "iap_scroll_to_read_terms": "PLZ_TRANSLATE By continuing, you accept the user terms",
-  "finish_order_card_hint": "PLZ_TRANSLATE Finalize your card order!"
+  "finish_order_card_hint": "PLZ_TRANSLATE Finalize your card order!",
+  "push_notification_header_child": "PLZ_TRANSLATE Want only the important notifications?",
+  "push_notification_desc_child": "PLZ_TRANSLATE Make sure to not miss any chores or Payday money!",
+  "push_notification_header_parent": "PLZ_TRANSLATE Want only the important notifications?",
+  "push_notification_desc_parent": "PLZ_TRANSLATE Make sure to not miss any chores or Payday money!"
 }

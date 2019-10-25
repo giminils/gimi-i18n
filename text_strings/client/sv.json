@@ -2878,5 +2878,9 @@
   "buy_premium_overlay_help": "💳 Innan du kan beställa kortet behöver du en prenumeration 👇",
   "purchase_done_redirecting": "Nu beställer vi kortet",
   "iap_scroll_to_read_terms": "Genom att fortsätta, accepterar du användarvillkoren",
-  "finish_order_card_hint": "Avsluta din kortbeställning!"
+  "finish_order_card_hint": "Avsluta din kortbeställning!",
+  "push_notification_header_child": "PLZ_CHECK Want only the important notifications?",
+  "push_notification_desc_child": "PLZ_CHECK Make sure to not miss any chores or Payday money!",
+  "push_notification_header_parent": "PLZ_CHECK Want only the important notifications?",
+  "push_notification_desc_parent": "PLZ_CHECK Make sure to not miss any chores or Payday money!"
 }
