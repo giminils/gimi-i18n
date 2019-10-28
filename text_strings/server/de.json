@@ -135,7 +135,7 @@
   "event_new_weekly_tasks": "Sieh Dir die Aufgaben dieser Woche an!",
   "event_permissions_to_deposit_granted": "Du hast die Erlaubnis erhalten, {child.nickname} Geld zu schicken",
   "event_suggested_chore_enabled": "{parent.nickname} hat Deinen Aufgabenvorschlag angenommen!",
-  "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE 😍 Happy with your purchase at {pfstransactionstatement.merchant_name}? 😵",
+  "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE How was the purchase? 👍 or 👎",
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} hat soeben {statement.str_amount} bei {statement.merchant_name} ausgegeben",
   "push_you_have_reached_a_dream": "Herzlichen Glückwunsch! Du hast gerade Deinen Traum erreicht! 🚀",
   "push_new_weekly_tasks": "Guck Dir die Aufgaben dieser Woche an!",

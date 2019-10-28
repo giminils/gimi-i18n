@@ -135,7 +135,7 @@
   "event_new_weekly_tasks": "Bekijk de klusjes van deze week!",
   "event_permissions_to_deposit_granted": "Je hebt toestemming om geld naar {child.nickname} te sturen",
   "event_suggested_chore_enabled": "{parent.nickname} heeft je voorgestelde klusje geaccepteerd!",
-  "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE 😍 Happy with your purchase at {pfstransactionstatement.merchant_name}? 😵",
+  "push_new_pfs_transaction_statement_child": "PLZ_TRANSLATE How was the purchase? 👍 or 👎",
   "push_new_pfs_transaction_statement_parent": "{statement.card.user.nickname} heeft net {statement.str_amount} uitgegeven bij {statement.merchant_name}",
   "push_you_have_reached_a_dream": "Gefeliciteerd! Je hebt net je droomwens bereikt! 🚀",
   "push_new_weekly_tasks": "Kijk naar de klusjes van deze week!",
