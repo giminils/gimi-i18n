@@ -2879,8 +2879,8 @@
   "purchase_done_redirecting": "Now let’s order the card",
   "iap_scroll_to_read_terms": "By continuing, you accept the user terms",
   "finish_order_card_hint": "Finalize your card order!",
-  "push_notification_header_child": "Want only the important notifications?",
-  "push_notification_desc_child": "Make sure to not miss any chores or Payday money!",
-  "push_notification_header_parent": "Want only the important notifications?",
-  "push_notification_desc_parent": "Make sure to not miss any chores or Payday money!"
+  "push_notification_header_child": "PLZ_COPY Want notifications about:",
+  "push_notification_desc_child": "PLZ_COPY 💸Payday \n🧽 New chores \n😍 Friend requests",
+  "push_notification_header_parent": "PLZ_COPY Allow notifications that keep you updated!",
+  "push_notification_desc_parent": "PLZ_COPY 🧺 Completed chores \n💭 Achieved dreams  \n💸 Payday"
 }
