@@ -2882,5 +2882,7 @@
   "push_notification_header_child": "PLZ_COPY Want notifications about:",
   "push_notification_desc_child": "PLZ_COPY 💸Payday \n🧽 New chores \n😍 Friend requests",
   "push_notification_header_parent": "PLZ_COPY Allow notifications that keep you updated!",
-  "push_notification_desc_parent": "PLZ_COPY 🧺 Completed chores \n💭 Achieved dreams  \n💸 Payday"
+  "push_notification_desc_parent": "PLZ_COPY 🧺 Completed chores \n💭 Achieved dreams  \n💸 Payday",
+  "parent_feature_custom_note": "custom note feature",
+  "kid_feature_custom_note": "custom note feature"
 }

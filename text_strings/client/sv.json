@@ -2882,5 +2882,7 @@
   "push_notification_header_child": "PLZ_CHECK Want only the important notifications?",
   "push_notification_desc_child": "PLZ_CHECK Make sure to not miss any chores or Payday money!",
   "push_notification_header_parent": "PLZ_CHECK Want only the important notifications?",
-  "push_notification_desc_parent": "PLZ_CHECK Make sure to not miss any chores or Payday money!"
+  "push_notification_desc_parent": "PLZ_CHECK Make sure to not miss any chores or Payday money!",
+  "parent_feature_custom_note": "PLZ_CHECK custom note feature",
+  "kid_feature_custom_note": "PLZ_CHECK custom note feature"
 }
