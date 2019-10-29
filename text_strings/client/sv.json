@@ -2869,7 +2869,7 @@
   "qr_code_used_popover_text": "Ladda om QR-koden varje gång du kopplar ihop med någon.",
   "chore_overview_completed_at": "Färdig: %1$d",
   "amount_too_high_error": "Belopp är för högt!  😑",
-  "overview_un_skip_payday_button": "Återaktivera Payday",
+  "overview_un_skip_payday_button": "Återaktivera",
   "street_number_letter": "Gata, nummer, bokstav",
   "parent_cloud_floating_image_card_promotion_title": "Är %1$d redo för riktiga pengar?",
   "parent_cloud_floating_image_card_promotion_text": "Uppgradera Gimi till riktiga pengar, få Gimi-kortet på köpet.",
