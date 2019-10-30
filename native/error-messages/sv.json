@@ -1,7 +1,7 @@
 {
-  "onfido_error": "Någonting gick fel, vi kunde inte starta ID-verifieringen.",
-  "onfido_error_camera_permission": "Någonting gick fel, vi kunde inte starta ID-verifieringen.",
-  "onfido_error_write_to_disk": "Någonting gick fel, vi kunde inte starta ID-verifieringen.",
-  "onfido_error_mic_permission": "Någonting gick fel, vi kunde inte starta ID-verifieringen.",
-  "onfido_error_upload_error": "Någonting gick fel, vi kunde inte starta ID-verifieringen."
+  "onfido_error": "PLZ_TRANSLATE Something went wrong, try again!",
+  "onfido_error_camera_permission": "PLZ_TRANSLATE Turn on camera permission and try again!",
+  "onfido_error_write_to_disk": "PLZ_TRANSLATE Device memory full, free up space and try again!",
+  "onfido_error_mic_permission": "PLZ_TRANSLATE Turn on microphone permission and try again!",
+  "onfido_error_upload_error": "PLZ_TRANSLATE Image wasn’t uploaded, try again!"
 }

@@ -1,7 +1,7 @@
 {
-  "onfido_error": "Something went wrong, we couldn't start ID verification.",
-  "onfido_error_camera_permission": "Something went wrong, we couldn't start ID verification.",
-  "onfido_error_write_to_disk": "Something went wrong, we couldn't start ID verification.",
-  "onfido_error_mic_permission": "Something went wrong, we couldn't start ID verification.",
-  "onfido_error_upload_error": "Something went wrong, we couldn't start ID verification."
+  "onfido_error": "Something went wrong, try again!",
+  "onfido_error_camera_permission": "Turn on camera permission and try again!",
+  "onfido_error_write_to_disk": "Device memory full, free up space and try again!",
+  "onfido_error_mic_permission": "Turn on microphone permission and try again!",
+  "onfido_error_upload_error": "Image wasn’t uploaded, try again!"
 }
