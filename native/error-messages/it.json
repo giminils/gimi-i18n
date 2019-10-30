@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Qualcosa è andato storto, non abbiamo potuto iniziare la verifica dell'identità"
+  "onfido_error": "Qualcosa è andato storto, non abbiamo potuto iniziare la verifica dell'identità",
+  "onfido_error_camera_permission": "Qualcosa è andato storto, non abbiamo potuto iniziare la verifica dell'identità",
+  "onfido_error_write_to_disk": "Qualcosa è andato storto, non abbiamo potuto iniziare la verifica dell'identità",
+  "onfido_error_mic_permission": "Qualcosa è andato storto, non abbiamo potuto iniziare la verifica dell'identità",
+  "onfido_error_upload_error": "Qualcosa è andato storto, non abbiamo potuto iniziare la verifica dell'identità"
 }

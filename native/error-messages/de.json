@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Etwas ist schiefgegangen, leider konnten wir nicht mit der Verifizierung des Personalausweises beginnen."
+  "onfido_error": "Etwas ist schiefgegangen, leider konnten wir nicht mit der Verifizierung des Personalausweises beginnen.",
+  "onfido_error_camera_permission": "Etwas ist schiefgegangen, leider konnten wir nicht mit der Verifizierung des Personalausweises beginnen.",
+  "onfido_error_write_to_disk": "Etwas ist schiefgegangen, leider konnten wir nicht mit der Verifizierung des Personalausweises beginnen.",
+  "onfido_error_mic_permission": "Etwas ist schiefgegangen, leider konnten wir nicht mit der Verifizierung des Personalausweises beginnen.",
+  "onfido_error_upload_error": "Etwas ist schiefgegangen, leider konnten wir nicht mit der Verifizierung des Personalausweises beginnen."
 }

@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Jotain meni pieleen, emmekä voineet vahvistaa henkilöllisyyttäsi."
+  "onfido_error": "Jotain meni pieleen, emmekä voineet vahvistaa henkilöllisyyttäsi.",
+  "onfido_error_camera_permission": "Jotain meni pieleen, emmekä voineet vahvistaa henkilöllisyyttäsi.",
+  "onfido_error_write_to_disk": "Jotain meni pieleen, emmekä voineet vahvistaa henkilöllisyyttäsi.",
+  "onfido_error_mic_permission": "Jotain meni pieleen, emmekä voineet vahvistaa henkilöllisyyttäsi.",
+  "onfido_error_upload_error": "Jotain meni pieleen, emmekä voineet vahvistaa henkilöllisyyttäsi."
 }

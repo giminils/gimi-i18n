@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Er ging iets fout, we konden de ID verificatie niet starten."
+  "onfido_error": "Er ging iets fout, we konden de ID verificatie niet starten.",
+  "onfido_error_camera_permission": "Er ging iets fout, we konden de ID verificatie niet starten.",
+  "onfido_error_write_to_disk": "Er ging iets fout, we konden de ID verificatie niet starten.",
+  "onfido_error_mic_permission": "Er ging iets fout, we konden de ID verificatie niet starten.",
+  "onfido_error_upload_error": "Er ging iets fout, we konden de ID verificatie niet starten."
 }

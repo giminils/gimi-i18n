@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Algo ha salido mal, no hemos podido iniciar la verificación del ID"
+  "onfido_error": "Algo ha salido mal, no hemos podido iniciar la verificación del ID",
+  "onfido_error_camera_permission": "Algo ha salido mal, no hemos podido iniciar la verificación del ID",
+  "onfido_error_write_to_disk": "Algo ha salido mal, no hemos podido iniciar la verificación del ID",
+  "onfido_error_mic_permission": "Algo ha salido mal, no hemos podido iniciar la verificación del ID",
+  "onfido_error_upload_error": "Algo ha salido mal, no hemos podido iniciar la verificación del ID"
 }

@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Noget gik galt, vi kunne ikke starte ID verifikation."
+  "onfido_error": "Noget gik galt, vi kunne ikke starte ID verifikation.",
+  "onfido_error_camera_permission": "Noget gik galt, vi kunne ikke starte ID verifikation.",
+  "onfido_error_write_to_disk": "Noget gik galt, vi kunne ikke starte ID verifikation.",
+  "onfido_error_mic_permission": "Noget gik galt, vi kunne ikke starte ID verifikation.",
+  "onfido_error_upload_error": "Noget gik galt, vi kunne ikke starte ID verifikation."
 }

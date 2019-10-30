@@ -1,3 +1,7 @@
 {
-  "onfido_error": "Noe gikk galt. Vi kunne ikke starte ID-verfisering."
+  "onfido_error": "Noe gikk galt. Vi kunne ikke starte ID-verfisering.",
+  "onfido_error_camera_permission": "Noe gikk galt. Vi kunne ikke starte ID-verfisering.",
+  "onfido_error_write_to_disk": "Noe gikk galt. Vi kunne ikke starte ID-verfisering.",
+  "onfido_error_mic_permission": "Noe gikk galt. Vi kunne ikke starte ID-verfisering.",
+  "onfido_error_upload_error": "Noe gikk galt. Vi kunne ikke starte ID-verfisering."
 }
