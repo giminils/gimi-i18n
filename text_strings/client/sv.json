@@ -2593,7 +2593,7 @@
   "you_cant_transfer_negative_amounts": "Du kan inte föra över negativa summor...",
   "help_row_currency_incorrect": "Fel valuta!",
   "help_row_seperated_parents": "För separerade föräldrar",
-  "help_row_where_money_goes": "PLZ_CHECK Where does the money go?",
+  "help_row_where_money_goes": "Vart tar pengarna vägen?",
   "help_row_allowance": "Hur funkar veckopeng/månadspeng?",
   "help_row_interest": "Varför ge en bonus?",
   "set_card_name_help_text": "Skriv ut hela namnet på %1$d, så som det ska stå på kortet.",
@@ -2901,6 +2901,6 @@
   "premium_testimonials_4": "PLZ_CHECK Gimikortet är bra för att det ger våra barn större frihet, ansvar och inflytande över sin ekonomi.",
   "premium_testimonials_5": "PLZ_CHECK Superbra att jag kan ha koll på var mitt barn handlar och för hur mycket! Massa positivt om detta kort",
   "premium_testimonials_6": "PLZ_CHECK Det är bra att se vart barnet har handlat. Och att de får lära sig att det inte finns obegränsat med pengar.",
-  "user_type_child_disclaimer": "PLZ_CHECK Children only!",
-  "user_type_supporter_disclaimer": "PLZ_CHECK For adults!"
+  "user_type_child_disclaimer": "Bara för barn!",
+  "user_type_supporter_disclaimer": "Bara för vuxna!"
 }
