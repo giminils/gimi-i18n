@@ -2903,5 +2903,6 @@
   "premium_testimonials_6": "Det är bra att se vart barnet har handlat. Och att de får lära sig att det inte finns obegränsat med pengar.",
   "user_type_child_disclaimer": "Bara för barn!",
   "user_type_supporter_disclaimer": "Bara för vuxna!",
-  "waiting_to_be_added_kid_title": "Väntar på att läggas till"
+  "waiting_to_be_added_kid_title": "Väntar på att läggas till",
+  "weekly_task_error": "PLZ_CHECK Need days on recurring chores"
 }

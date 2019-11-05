@@ -2903,5 +2903,6 @@
   "premium_testimonials_6": "PLZ_TRANSLATE Det är bra att se vart barnet har handlat. Och att de får lära sig att det inte finns obegränsat med pengar.",
   "user_type_child_disclaimer": "PLZ_TRANSLATE Children only!",
   "user_type_supporter_disclaimer": "PLZ_TRANSLATE For adults!",
-  "waiting_to_be_added_kid_title": "PLZ_TRANSLATE Waiting to be added"
+  "waiting_to_be_added_kid_title": "PLZ_TRANSLATE Waiting to be added",
+  "weekly_task_error": "PLZ_TRANSLATE Need days on recurring chores"
 }
