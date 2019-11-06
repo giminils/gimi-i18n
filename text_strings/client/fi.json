@@ -1671,6 +1671,8 @@
   "cant_change_currency_for_kid_w_multiple_parents_text": "Lapsella %1$d on muita yhteyksiä, joihin se vaikuttaisi.",
   "card_was_online_payment_unblocked_confirmation_message": "Kortin nettimaksut on aktivoitu",
   "card_was_online_payment_blocked_confirmation_message": "Kortin nettimaksut on estetty",
+  "card_was_atm_unblocked_confirmation_message": "PLZ_TRANSLATE Card ATM use unblocked",
+  "card_was_atm_blocked_confirmation_message": "PLZ_TRANSLATE Card atm ATM blocked",
   "general_complete": "Suoritettu",
   "rejected_chore_action_title": "Hylkäsit askareen %1$d",
   "rejected_chore_action_desc": "Lapsella %1$d on mahdollisuus yrittää suorittaa se uudelleen!",

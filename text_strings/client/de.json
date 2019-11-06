@@ -1671,6 +1671,8 @@
   "cant_change_currency_for_kid_w_multiple_parents_text": "%1$d hat noch weitere Verbindungen, die davon betroffen wären.",
   "card_was_online_payment_unblocked_confirmation_message": "Online Zahlungen mit Karte entsperrt",
   "card_was_online_payment_blocked_confirmation_message": "Online Zahlungen mit Karte gesperrt",
+  "card_was_atm_unblocked_confirmation_message": "PLZ_TRANSLATE Card ATM use unblocked",
+  "card_was_atm_blocked_confirmation_message": "PLZ_TRANSLATE Card atm ATM blocked",
   "general_complete": "Erledigt",
   "rejected_chore_action_title": "Du hast %1$d abgelehnt",
   "rejected_chore_action_desc": "%1$d wird eine neue Chance erhalten, um die Aufgabe zu vervollständigen!",
