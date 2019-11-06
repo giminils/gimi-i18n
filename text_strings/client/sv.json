@@ -2910,5 +2910,6 @@
   "weekly_task_error": "PLZ_CHECK Need days on recurring chores",
   "card_news_link": "https://www.gimitheapp.com/sv/news/gimi-kortet",
   "kid_profile_tab": "PLZ_CHECK Profile",
-  "payday_allowance_section": "PLZ_CHECK Includes"
+  "payday_allowance_section": "PLZ_CHECK Includes",
+  "help_row_title": "PLZ_CHECK Common questions"
 }
