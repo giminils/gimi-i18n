@@ -2907,5 +2907,6 @@
   "user_type_child_disclaimer": "Children only!",
   "user_type_supporter_disclaimer": "For adults!",
   "waiting_to_be_added_kid_title": "Waiting to be added",
-  "weekly_task_error": "Need days on recurring chores"
+  "weekly_task_error": "Need days on recurring chores",
+  "card_news_link": "https://www.gimitheapp.com/en/news/gimi-card"
 }
