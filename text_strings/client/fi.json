@@ -1240,6 +1240,7 @@
   "kid_card_settings_for_parent_title": "Toiminnot",
   "card_settings_active": "Kortti on aktiivinen",
   "card_settings_online_payments": "Salli nettimaksut",
+  "card_settings_atm_withdraws": "PLZ_TRANSLATE Allow ATM withdraws",
   "card_settings_pin_reminder": "PIN-muistutus",
   "card_settings_lost": "Kortti hukassa",
   "card_settings_stolen": "Kortti varastettu",

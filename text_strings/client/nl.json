@@ -1240,6 +1240,7 @@
   "kid_card_settings_for_parent_title": "functionaliteit",
   "card_settings_active": "Kaart is actief",
   "card_settings_online_payments": "Sta online betalingen toe",
+  "card_settings_atm_withdraws": "PLZ_TRANSLATE Allow ATM withdraws",
   "card_settings_pin_reminder": "Pincode geheugensteuntje",
   "card_settings_lost": "Kaart kwijt",
   "card_settings_stolen": "Kaart gestolen",

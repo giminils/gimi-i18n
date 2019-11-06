@@ -1240,6 +1240,7 @@
   "kid_card_settings_for_parent_title": "funktionalitet",
   "card_settings_active": "Kortet är aktiverat",
   "card_settings_online_payments": "Tillåt onlineköp",
+  "card_settings_atm_withdraws": "PLZ_CHECK Allow ATM withdraws",
   "card_settings_pin_reminder": "Visa PIN-kod",
   "card_settings_lost": "Tappat kort",
   "card_settings_stolen": "Stulet kort",

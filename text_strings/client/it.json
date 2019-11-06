@@ -1240,6 +1240,7 @@
   "kid_card_settings_for_parent_title": "functionalità",
   "card_settings_active": "La carta è attiva",
   "card_settings_online_payments": "Permetti i pagamenti online ",
+  "card_settings_atm_withdraws": "PLZ_TRANSLATE Allow ATM withdraws",
   "card_settings_pin_reminder": "Promemoria PIN ",
   "card_settings_lost": "Carta smarrita",
   "card_settings_stolen": "Carta rubata",

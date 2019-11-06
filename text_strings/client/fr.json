@@ -1240,6 +1240,7 @@
   "kid_card_settings_for_parent_title": "Fonctions",
   "card_settings_active": "La carte est active",
   "card_settings_online_payments": "Autorisez les paiements digitaux",
+  "card_settings_atm_withdraws": "PLZ_TRANSLATE Allow ATM withdraws",
   "card_settings_pin_reminder": "Rappel du mot de passe",
   "card_settings_lost": "Carte perdue",
   "card_settings_stolen": "Carte volée",

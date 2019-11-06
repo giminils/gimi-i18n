@@ -1240,6 +1240,7 @@
   "kid_card_settings_for_parent_title": "funksjonalitet",
   "card_settings_active": "Kortet er aktivt",
   "card_settings_online_payments": "Tillat online betaling",
+  "card_settings_atm_withdraws": "PLZ_TRANSLATE Allow ATM withdraws",
   "card_settings_pin_reminder": "PIN-påminnelse",
   "card_settings_lost": "Kort mistet",
   "card_settings_stolen": "Kort stjålet",
