@@ -2760,7 +2760,7 @@
   "why_premium_costs_money_buy_button": "Köp prenumeration",
   "has_sub_but_no_card_hint": "Glöm inte att beställa ditt Gimi-kort! ",
   "internal_error_correction_transaction": "Rättelse för ett misstag i dina transaktioner ",
-  "discounted_iap_promo_text": "Tillfällig rabatt",
+  "discounted_iap_promo_text": "PLZ_CHECK Your specal offer!",
   "premium_unlimit_promo_text": "Engångskostnad, slipp förnya!",
   "email_already_taken_by_kid_title": "E-postadressen är upptagen",
   "email_already_taken_by_kid_desc": "E-postadressen är kopplat till ditt barns konto. För att koppla den till ditt konto, ersätt den med ett telefonnummer till ditt barn i Inställningar.",

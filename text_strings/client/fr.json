@@ -2760,7 +2760,7 @@
   "why_premium_costs_money_buy_button": "Acheter un abonnement",
   "has_sub_but_no_card_hint": "N'oubliez pas de commander votre carte Gimi!",
   "internal_error_correction_transaction": "Correction pour une erreur dans vos transactions",
-  "discounted_iap_promo_text": "Réduction pour un temps limité",
+  "discounted_iap_promo_text": "PLZ_TRANSLATE Your specal offer!",
   "premium_unlimit_promo_text": "Abonnement à vie à Gimi",
   "email_already_taken_by_kid_title": "Cet e-mail est déjà pris",
   "email_already_taken_by_kid_desc": "L'email est enregistré sur le compte de votre enfant. Pour le connecter à votre compte, vous devez accéder aux paramètres, enregistrer un numéro de téléphone sur le compte de votre enfant et supprimer le courrier électronique.",
