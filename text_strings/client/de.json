@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "Du hast zu häufig einen falschen Sicherheitscode eingegeben, deshalb haben wir Deine App gesperrt. Die Sperre läuft in einer Stunde ab.",
   "passcode_lockdown_contact_button": "Kontaktiere uns",
   "order_card_done_section_row": "Schon geschehen!",
-  "chore_inspiration": "Aufgabeninspirationen",
+  "chore_inspiration": "PLZ_TRANSLATE Create chore",
   "general_chore_inspo": "Inspiration",
   "no_new_notifications": "PLZ_TRANSLATE You read everything! 🥳",
   "dream_shared_confirmation": "Traum geteilt!",

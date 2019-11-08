@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "Escribiste mal tu contraseña muchas veces en la aplicación, por lo que te hemos bloqueado. Se desbloqueará nuevamente en una hora.",
   "passcode_lockdown_contact_button": "Contáctanos",
   "order_card_done_section_row": "¡Listo!",
-  "chore_inspiration": "Tareas de inspiración",
+  "chore_inspiration": "PLZ_TRANSLATE Create chore",
   "general_chore_inspo": "Inspiración",
   "no_new_notifications": "¡Has leído todo! 🥳",
   "dream_shared_confirmation": "¡Sueño compartido!",

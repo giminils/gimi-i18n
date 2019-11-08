@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "Hai digitato il passcode sbagliato troppe volte, per cui abbiamo dovuto bloccarti fuori. Si sbloccherà nuovamente in un'ora.",
   "passcode_lockdown_contact_button": "Contattaci",
   "order_card_done_section_row": "Già fatto!",
-  "chore_inspiration": "Ispirazione faccende",
+  "chore_inspiration": "PLZ_TRANSLATE Create chore",
   "general_chore_inspo": "Ispirazione",
   "no_new_notifications": "Hai letto tutto! 🥳",
   "dream_shared_confirmation": "Sogno condiviso!",

@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "You typed the wrong app passcode too many times, so we had to lock you out. It will unlock again in one hour.",
   "passcode_lockdown_contact_button": "Contact us",
   "order_card_done_section_row": "Already done!",
-  "chore_inspiration": "Chore inspiration",
+  "chore_inspiration": "Create chore",
   "general_chore_inspo": "Inspiration",
   "no_new_notifications": "You read everything! 🥳",
   "dream_shared_confirmation": "Dream shared!",

@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "Du har indtastet den forkerte app adgangskode for mange gange, så vi måtte låse dig ud. Du vil blive låst op igen om 1 time.",
   "passcode_lockdown_contact_button": "Kontakt os",
   "order_card_done_section_row": "Er allerede gjort!",
-  "chore_inspiration": "Opgave inspiration",
+  "chore_inspiration": "PLZ_TRANSLATE Create chore",
   "general_chore_inspo": "Inspiration",
   "no_new_notifications": "Du har læst alt! 🥳",
   "dream_shared_confirmation": "Drøm delt!",

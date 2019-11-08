@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "Kirjoitit salasanan väärin liian monta kertaa, joten jouduimme lukitsemaan sovelluksen. Se avautuu tunnin päästä, jolloin voit yrittää uudelleen.",
   "passcode_lockdown_contact_button": "Ota meihin yhteyttä",
   "order_card_done_section_row": "Valmista!",
-  "chore_inspiration": "Askareinspiraatio",
+  "chore_inspiration": "PLZ_TRANSLATE Create chore",
   "general_chore_inspo": "Inspiraatio",
   "no_new_notifications": "PLZ_TRANSLATE You read everything! 🥳",
   "dream_shared_confirmation": "Unelma jaettu!",

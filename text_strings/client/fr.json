@@ -1908,7 +1908,7 @@
   "passcode_lockdown_text": "Vous avez entré trop souvent le mauvais mot de passe de l'application, nous avons donc dû vous verrouillé. Ce sera déverrouillé à nouveau dans une heure.",
   "passcode_lockdown_contact_button": "Contactez nous",
   "order_card_done_section_row": "Déjà fait!",
-  "chore_inspiration": "Inspiration de tâches",
+  "chore_inspiration": "PLZ_TRANSLATE Create chore",
   "general_chore_inspo": "Inspiration",
   "no_new_notifications": "Vous avez tout lu! 🥳",
   "dream_shared_confirmation": "Rêve partagé!",
