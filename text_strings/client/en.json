@@ -2944,5 +2944,6 @@
   "premium_info_faq_question_4": "I my child ready?",
   "premium_info_faq_answer_4": "Lorem ipsum",
   "premium_info_faq_question_5": "What's the difference...",
-  "premium_info_faq_answer_5": "The Gimi-card is connected to your app. That gives you the possibility to see your balance on your account without a BankID. You see statistics of your purchases, and you can shop online."
+  "premium_info_faq_answer_5": "The Gimi-card is connected to your app. That gives you the possibility to see your balance on your account without a BankID. You see statistics of your purchases, and you can shop online.",
+  "settings_enable_cloud": "Enable cloud account"
 }
