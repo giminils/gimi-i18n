@@ -2945,5 +2945,9 @@
   "premium_info_faq_answer_4": "PLZ_CHECK Lorem ipsum",
   "premium_info_faq_question_5": "PLZ_CHECK What's the difference...",
   "premium_info_faq_answer_5": "PLZ_CHECK The Gimi-card is connected to your app. That gives you the possibility to see your balance on your account without a BankID. You see statistics of your purchases, and you can shop online.",
-  "settings_enable_cloud": "PLZ_CHECK Enable cloud account"
+  "settings_enable_cloud": "PLZ_CHECK Enable cloud account",
+  "parent_help_card_master_title": "PLZ_CHECK Is your child ready for real money?",
+  "parent_help_card_master_text": "PLZ_CHECK Upgrade and get the Gimi card!",
+  "parent_help_card_invite_title": "PLZ_CHECK Invite your family",
+  "parent_help_card_invite_text": "PLZ_CHECK Invite children and add supporters!"
 }

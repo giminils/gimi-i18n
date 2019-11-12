@@ -2945,5 +2945,9 @@
   "premium_info_faq_answer_4": "PLZ_TRANSLATE Lorem ipsum",
   "premium_info_faq_question_5": "Hva er forskjellen ...",
   "premium_info_faq_answer_5": "Gimi-kortet er koblet til appen din. Det gir deg muligheten til å se saldoen på kontoen din uten en BankID. Du ser statistikk over kjøpene dine, og du kan handle på nettet.",
-  "settings_enable_cloud": "PLZ_TRANSLATE Enable cloud account"
+  "settings_enable_cloud": "PLZ_TRANSLATE Enable cloud account",
+  "parent_help_card_master_title": "PLZ_TRANSLATE Is your child ready for real money?",
+  "parent_help_card_master_text": "PLZ_TRANSLATE Upgrade and get the Gimi card!",
+  "parent_help_card_invite_title": "PLZ_TRANSLATE Invite your family",
+  "parent_help_card_invite_text": "PLZ_TRANSLATE Invite children and add supporters!"
 }
