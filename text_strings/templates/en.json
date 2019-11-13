@@ -444,5 +444,21 @@
   "task_template_group_title_trending_chores": "Trending chores right now",
   "task_template_group_description_trending_chores": "--",
   "task_template_group_title_perhour": "Per hour",
-  "task_template_group_description_perhour": "Fun tasks you get paid hourly for"
+  "task_template_group_description_perhour": "Fun tasks you get paid hourly for",
+  "goal_group_name_electronics": "Eletronics",
+  "goal_group_description_electronics": " ",
+  "goal_group_name_pets": "Pet",
+  "goal_group_description_pets": " ",
+  "goal_template_title_gimi_card": "Gimi Card",
+  "goal_template_description_gimi_card": " ",
+  "goal_template_title_bike": "Bike",
+  "goal_template_description_bike": " ",
+  "goal_template_title_computer": "Computer",
+  "goal_template_description_computer": " ",
+  "goal_template_title_dog": "Dog",
+  "goal_template_description_dog": " ",
+  "goal_template_title_horse": "Horse",
+  "goal_template_description_horse": " ",
+  "goal_template_title_cat": "Cat",
+  "goal_template_description_cat": " "
 }
