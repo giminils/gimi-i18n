@@ -2956,5 +2956,6 @@
   "kid_profile_counter_connections": "PLZ_CHECK Connections",
   "kid_profile_counter_chores": "PLZ_CHECK Chores",
   "kid_profile_empty_state_dreams": "PLZ_CHECK You have no dream! Ready to dream big? 🌈",
-  "kid_profile_empty_state_connections": "PLZ_CHECK Uh-uh. You don’t have connections 😢"
+  "kid_profile_empty_state_connections": "PLZ_CHECK Uh-uh. You don’t have connections 😢",
+  "kid_friend_profile_empty_state_dreams": "PLZ_CHECK %1$d has no dream now!🐽"
 }

@@ -2956,5 +2956,6 @@
   "kid_profile_counter_connections": "Connections",
   "kid_profile_counter_chores": "Chores",
   "kid_profile_empty_state_dreams": "You have no dream! Ready to dream big? 🌈",
-  "kid_profile_empty_state_connections": "Uh-uh. You don’t have connections 😢"
+  "kid_profile_empty_state_connections": "Uh-uh. You don’t have connections 😢",
+  "kid_friend_profile_empty_state_dreams": "%1$d has no dream now!🐽"
 }
