@@ -2957,5 +2957,12 @@
   "kid_profile_counter_chores": "Chores",
   "kid_profile_empty_state_dreams": "You have no dream! Ready to dream big? 🌈",
   "kid_profile_empty_state_connections": "Uh-uh. You don’t have connections 😢",
-  "kid_friend_profile_empty_state_dreams": "%1$d has no dream now!🐽"
+  "kid_friend_profile_empty_state_dreams": "%1$d has no dream now!🐽",
+  "kid_home_piggy_cool": "Yo",
+  "kid_home_piggy_curious": "Hello",
+  "kid_home_piggy_cute": "Hi",
+  "kid_home_piggy_kiss": "Heey",
+  "kid_home_piggy_shining": "Hi",
+  "kid_home_piggy_shocked": "Wow",
+  "kid_home_piggy_party": "Happy birthday!"
 }

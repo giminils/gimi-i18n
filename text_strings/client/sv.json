@@ -2957,5 +2957,12 @@
   "kid_profile_counter_chores": "PLZ_CHECK Chores",
   "kid_profile_empty_state_dreams": "PLZ_CHECK You have no dream! Ready to dream big? 🌈",
   "kid_profile_empty_state_connections": "PLZ_CHECK Uh-uh. You don’t have connections 😢",
-  "kid_friend_profile_empty_state_dreams": "PLZ_CHECK %1$d has no dream now!🐽"
+  "kid_friend_profile_empty_state_dreams": "PLZ_CHECK %1$d has no dream now!🐽",
+  "kid_home_piggy_cool": "PLZ_CHECK Yo",
+  "kid_home_piggy_curious": "PLZ_CHECK Hello",
+  "kid_home_piggy_cute": "PLZ_CHECK Hi",
+  "kid_home_piggy_kiss": "PLZ_CHECK Heey",
+  "kid_home_piggy_shining": "PLZ_CHECK Hi",
+  "kid_home_piggy_shocked": "PLZ_CHECK Wow",
+  "kid_home_piggy_party": "PLZ_CHECK Happy birthday!"
 }
