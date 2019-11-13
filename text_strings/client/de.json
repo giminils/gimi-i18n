@@ -2949,5 +2949,12 @@
   "parent_help_card_master_title": "PLZ_TRANSLATE Is your child ready for real money?",
   "parent_help_card_master_text": "PLZ_TRANSLATE Upgrade and get the Gimi card!",
   "parent_help_card_invite_title": "PLZ_TRANSLATE Invite your family",
-  "parent_help_card_invite_text": "PLZ_TRANSLATE Invite children and add supporters!"
+  "parent_help_card_invite_text": "PLZ_TRANSLATE Invite children and add supporters!",
+  "kid_profile_dreams_section_title": "PLZ_TRANSLATE Dreams",
+  "kid_profile_connections_section_title": "PLZ_TRANSLATE Connections",
+  "kid_profile_counter_dreams": "PLZ_TRANSLATE Dreams",
+  "kid_profile_counter_connections": "PLZ_TRANSLATE Connections",
+  "kid_profile_counter_chores": "PLZ_TRANSLATE Chores",
+  "kid_profile_empty_state_dreams": "PLZ_TRANSLATE You have no dream! Ready to dream big? 🌈",
+  "kid_profile_empty_state_connections": "PLZ_TRANSLATE Uh-uh. You don’t have connections 😢"
 }

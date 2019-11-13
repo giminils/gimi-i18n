@@ -2949,5 +2949,12 @@
   "parent_help_card_master_title": "Is your child ready for real money?",
   "parent_help_card_master_text": "Upgrade and get the Gimi card!",
   "parent_help_card_invite_title": "Invite your family",
-  "parent_help_card_invite_text": "Invite children and add supporters!"
+  "parent_help_card_invite_text": "Invite children and add supporters!",
+  "kid_profile_dreams_section_title": "Dreams",
+  "kid_profile_connections_section_title": "Connections",
+  "kid_profile_counter_dreams": "Dreams",
+  "kid_profile_counter_connections": "Connections",
+  "kid_profile_counter_chores": "Chores",
+  "kid_profile_empty_state_dreams": "You have no dream! Ready to dream big? 🌈",
+  "kid_profile_empty_state_connections": "Uh-uh. You don’t have connections 😢"
 }
