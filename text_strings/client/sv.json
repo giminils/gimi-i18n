@@ -2968,5 +2968,6 @@
   "disconnect_friend_popover_title": "PLZ_CHECK Sure you want to disconnect with %1$d?",
   "disconnect_friend_popover_text": "PLZ_CHECK You won't be able to see their profile anymore.",
   "disconnect_friend_popover_button": "PLZ_CHECK Unfollow",
-  "dont_disconnect_friend_popover_button": "PLZ_CHECK Keep friend"
+  "dont_disconnect_friend_popover_button": "PLZ_CHECK Keep friend",
+  "friend_disconnected_confirmation": "PLZ_CHECK You are disconnected with %1$d"
 }

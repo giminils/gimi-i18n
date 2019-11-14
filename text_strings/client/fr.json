@@ -2968,5 +2968,6 @@
   "disconnect_friend_popover_title": "PLZ_TRANSLATE Sure you want to disconnect with %1$d?",
   "disconnect_friend_popover_text": "PLZ_TRANSLATE You won't be able to see their profile anymore.",
   "disconnect_friend_popover_button": "PLZ_TRANSLATE Unfollow",
-  "dont_disconnect_friend_popover_button": "PLZ_TRANSLATE Keep friend"
+  "dont_disconnect_friend_popover_button": "PLZ_TRANSLATE Keep friend",
+  "friend_disconnected_confirmation": "PLZ_TRANSLATE You are disconnected with %1$d"
 }

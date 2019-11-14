@@ -2968,5 +2968,6 @@
   "disconnect_friend_popover_title": "Sure you want to disconnect with %1$d?",
   "disconnect_friend_popover_text": "You won't be able to see their profile anymore.",
   "disconnect_friend_popover_button": "Unfollow",
-  "dont_disconnect_friend_popover_button": "Keep friend"
+  "dont_disconnect_friend_popover_button": "Keep friend",
+  "friend_disconnected_confirmation": "You are disconnected with %1$d"
 }
