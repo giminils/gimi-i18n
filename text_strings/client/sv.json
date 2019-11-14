@@ -2964,5 +2964,9 @@
   "kid_home_piggy_kiss": "PLZ_CHECK Heey",
   "kid_home_piggy_shining": "PLZ_CHECK Hi",
   "kid_home_piggy_shocked": "PLZ_CHECK Wow",
-  "kid_home_piggy_party": "PLZ_CHECK Happy birthday!"
+  "kid_home_piggy_party": "PLZ_CHECK Happy birthday!",
+  "disconnect_friend_popover_title": "PLZ_CHECK Sure you want to disconnect with %1$d?",
+  "disconnect_friend_popover_text": "PLZ_CHECK You won't be able to see their profile anymore.",
+  "disconnect_friend_popover_button": "PLZ_CHECK Unfollow",
+  "dont_disconnect_friend_popover_button": "PLZ_CHECK Keep friend"
 }

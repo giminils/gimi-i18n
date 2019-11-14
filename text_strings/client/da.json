@@ -2964,5 +2964,9 @@
   "kid_home_piggy_kiss": "PLZ_TRANSLATE Heey",
   "kid_home_piggy_shining": "PLZ_TRANSLATE Hi",
   "kid_home_piggy_shocked": "PLZ_TRANSLATE Wow",
-  "kid_home_piggy_party": "PLZ_TRANSLATE Happy birthday!"
+  "kid_home_piggy_party": "PLZ_TRANSLATE Happy birthday!",
+  "disconnect_friend_popover_title": "PLZ_TRANSLATE Sure you want to disconnect with %1$d?",
+  "disconnect_friend_popover_text": "PLZ_TRANSLATE You won't be able to see their profile anymore.",
+  "disconnect_friend_popover_button": "PLZ_TRANSLATE Unfollow",
+  "dont_disconnect_friend_popover_button": "PLZ_TRANSLATE Keep friend"
 }
