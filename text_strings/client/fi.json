@@ -2969,5 +2969,7 @@
   "disconnect_friend_popover_text": "PLZ_TRANSLATE You won't be able to see their profile anymore.",
   "disconnect_friend_popover_button": "PLZ_TRANSLATE Unfollow",
   "dont_disconnect_friend_popover_button": "PLZ_TRANSLATE Keep friend",
-  "friend_disconnected_confirmation": "PLZ_TRANSLATE You are disconnected with %1$d"
+  "friend_disconnected_confirmation": "PLZ_TRANSLATE You are disconnected with %1$d",
+  "order_card_set_pin": "PLZ_TRANSLATE Choose the card PIN",
+  "order_card_set_pin_desc": "PLZ_TRANSLATE We recommend you ask your child, but they will always be able to find a PIN reminder in the app."
 }
