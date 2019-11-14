@@ -460,5 +460,7 @@
   "goal_template_title_horse": "Horse",
   "goal_template_description_horse": " ",
   "goal_template_title_cat": "Cat",
-  "goal_template_description_cat": " "
+  "goal_template_description_cat": " ",
+  "goal_template_title_airpods": "AirPods",
+  "goal_template_description_airpods": " "
 }
