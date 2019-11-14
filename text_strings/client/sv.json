@@ -2971,5 +2971,6 @@
   "dont_disconnect_friend_popover_button": "PLZ_CHECK Keep friend",
   "friend_disconnected_confirmation": "PLZ_CHECK You are disconnected with %1$d",
   "order_card_set_pin": "PLZ_CHECK Choose the card PIN",
-  "order_card_set_pin_desc": "PLZ_CHECK We recommend you ask your child, but they will always be able to find a PIN reminder in the app."
+  "order_card_set_pin_desc": "PLZ_CHECK We recommend you ask your child, but they will always be able to find a PIN reminder in the app.",
+  "generate_card_pin": "PLZ_CHECK Generate a random PIN"
 }
