@@ -2977,5 +2977,6 @@
   "add_goal_electronic_section_title": "PLZ_TRANSLATE Electronics",
   "add_goal_pet_section_title": "PLZ_TRANSLATE Pets",
   "auto_generate_pin_title": "PLZ_TRANSLATE Sure you don’t want a custom PIN?",
-  "auto_generate_pin_desc": "PLZ_TRANSLATE We will genereate a radom PIN, and you wull only be able to change it as an ATM."
+  "auto_generate_pin_desc": "PLZ_TRANSLATE We will genereate a radom PIN, and you wull only be able to change it as an ATM.",
+  "add_dream_header_title": "PLZ_TRANSLATE What do you want to save up for?"
 }
