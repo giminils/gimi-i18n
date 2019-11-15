@@ -372,7 +372,7 @@
   "CHPRRE021_push_title": "Es ist Zahltag! Aber wir haben für Dich dieses Mal kein Geld",
   "ADPRRE036_notification_title": "Es ist Payday für {child.nickname}, aber es wurde kein Geld verdient. Vielleicht magst Du für's nächste Mal ein paar Aufgaben stellen?",
   "ADPRRE036_push_title": "Es ist Payday für {child.nickname}, aber es wurde kein Geld verdient.",
-  "ADPRON004_notification_title": "Bestelle die Gimi Card für {child.nickname}, der Account wurde upgegradet!",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE Don’t forget to order the Gimi Card for {child.nickname}, it’s included in your subscription!",
   "CHGERE035_notification_title": "{parent.nickname} hat eine Ausgabe hinzugefügt! Du erhälst weniger am Payday...",
   "CHGERE035_push_title": "{parent.nickname} hat eine Ausgabe hinzugefügt!",
   "active_email_subject": "Beende das Einricten der Karte mit {wallet_provider}",

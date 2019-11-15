@@ -372,7 +372,7 @@
   "CHPRRE021_push_title": "Det er Payday! Men der er ingen penge til dig denne gang",
   "ADPRRE036_notification_title": "Det er Payday for {child.nickname}, men ingen penge er blevet tjent. Måske der skal uddeles nogle opgaver til næste gang?",
   "ADPRRE036_push_title": "Det er Payday for {child.nickname}, men ingen penge blev tjent.",
-  "ADPRON004_notification_title": "Bestil Gimikortet for {child.nickname}, kontoen er blevet opgraderet!",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE Don’t forget to order the Gimi Card for {child.nickname}, it’s included in your subscription!",
   "CHGERE035_notification_title": "{parent.nickname} tilføjede en udgift. Du får mindre på payday...",
   "CHGERE035_push_title": "{parent.nickname} tilføjede en udgift!",
   "active_email_subject": "Færdiggør opsætningen af dit kort med {wallet_provider}",

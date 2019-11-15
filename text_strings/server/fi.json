@@ -372,7 +372,7 @@
   "CHPRRE021_push_title": "Tänään on Tilipäivä! Mutta et saanut rahaa tällä kertaa",
   "ADPRRE036_notification_title": "Tänään on lapsen {child.nickname} Tilipäivä, mutta hän ei ansainnut rahaa. Ehkä voit antaa hänelle askareita ennen seuraavaa Tilipäivää?",
   "ADPRRE036_push_title": "Tänään on lapsen {child.nickname} Tilipäivä, mutta hän ei ansainnut rahaa.",
-  "ADPRON004_notification_title": "Tilaa lapselle {child.nickname} Gimi-kortti, tili on päivitetty!",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE Don’t forget to order the Gimi Card for {child.nickname}, it’s included in your subscription!",
   "CHGERE035_notification_title": "{parent.nickname} lisäsi menon. Saat vähemmän rahaa Tilipäivänä...",
   "CHGERE035_push_title": "{parent.nickname} lisäsi menon!",
   "active_email_subject": "Aseta korttisi valmiiksi {wallet_provider}",

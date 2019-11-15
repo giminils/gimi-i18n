@@ -372,7 +372,7 @@
   "CHPRRE021_push_title": "È il giorno di paga! Ma non ci sono soldi per te stavolta",
   "ADPRRE036_notification_title": "È il giorno di paga per {child.nickname}, ma non ha guadagnato soldi. Magari proponigli delle faccende la prossima volta?",
   "ADPRRE036_push_title": "È il giorno di paga per {child.nickname}, bma non ha guadagnato soldi.",
-  "ADPRON004_notification_title": "Ordins la carta Gimi per {child.nickname}, l'account è stato aggiornato!",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE Don’t forget to order the Gimi Card for {child.nickname}, it’s included in your subscription!",
   "CHGERE035_notification_title": "{parent.nickname} ha aggiunto una spesa. Riceverai meno il giorno di paga...",
   "CHGERE035_push_title": "{parent.nickname} ha aggiunto una spesa!",
   "active_email_subject": "Completa la configurazione della tua carta con {wallet_provider}",

@@ -372,7 +372,7 @@
   "CHPRRE021_push_title": "Het is Payday! Maar deze keer is er geen geld voor jou",
   "ADPRRE036_notification_title": "Het is Payday voor {child.nickname}, maar er is geen geld verdiend. Misschien kun je de voor volgende keer wat klusjes geven?",
   "ADPRRE036_push_title": "Het is Payday voor {child.nickname}, maar er is geen geld verdiend.",
-  "ADPRON004_notification_title": "PLZ_TRANSLATE Order the Gimi Card for {child.nickname}, the account has been upgraded!",
+  "ADPRON004_notification_title": "PLZ_TRANSLATE Don’t forget to order the Gimi Card for {child.nickname}, it’s included in your subscription!",
   "CHGERE035_notification_title": "PLZ_TRANSLATE {parent.nickname} added an expense. You'll get less on payday...",
   "CHGERE035_push_title": "PLZ_TRANSLATE {parent.nickname} added an expense!",
   "active_email_subject": "PLZ_TRANSLATE Complete setting up your card with {wallet_provider}",
