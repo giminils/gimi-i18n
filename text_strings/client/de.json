@@ -2978,5 +2978,10 @@
   "add_goal_pet_section_title": "PLZ_TRANSLATE Pets",
   "auto_generate_pin_title": "PLZ_TRANSLATE Sure you don’t want a custom PIN?",
   "auto_generate_pin_desc": "PLZ_TRANSLATE We will genereate a radom PIN, and you wull only be able to change it as an ATM.",
-  "add_dream_header_title": "PLZ_TRANSLATE What do you want to save up for?"
+  "add_dream_header_title": "PLZ_TRANSLATE What do you want to save up for?",
+  "kid_card_swish_action_button": "PLZ_TRANSLATE Swish",
+  "swish_qr_code_explainer_popover_title": "PLZ_TRANSLATE Show the code and get money!",
+  "swish_qr_code_explainer_popover_subtitle": "PLZ_TRANSLATE bla bla bla bla",
+  "swish_qr_code_piggy_speech": "PLZ_TRANSLATE Show the code to someone with swish",
+  "swish_qr_code_how_does_it_work": "PLZ_TRANSLATE How does it work?"
 }
