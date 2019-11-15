@@ -2975,5 +2975,7 @@
   "generate_card_pin": "Generate a random PIN",
   "add_goal_popular_section_title": "Trending",
   "add_goal_electronic_section_title": "Electronics",
-  "add_goal_pet_section_title": "Pets"
+  "add_goal_pet_section_title": "Pets",
+  "auto_generate_pin_title": "Sure you don’t want a custom PIN?",
+  "auto_generate_pin_desc": "We will genereate a radom PIN, and you wull only be able to change it as an ATM."
 }

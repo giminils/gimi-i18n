@@ -2975,5 +2975,7 @@
   "generate_card_pin": "Skapa en slumpvis vald PIN-kod",
   "add_goal_popular_section_title": "Trendar",
   "add_goal_electronic_section_title": "Elprylar",
-  "add_goal_pet_section_title": "Husdjur"
+  "add_goal_pet_section_title": "Husdjur",
+  "auto_generate_pin_title": "PLZ_CHECK Sure you don’t want a custom PIN?",
+  "auto_generate_pin_desc": "PLZ_CHECK We will genereate a radom PIN, and you wull only be able to change it as an ATM."
 }
