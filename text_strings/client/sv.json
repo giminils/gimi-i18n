@@ -2972,5 +2972,8 @@
   "friend_disconnected_confirmation": "PLZ_CHECK You are disconnected with %1$d",
   "order_card_set_pin": "PLZ_CHECK Choose the card PIN",
   "order_card_set_pin_desc": "PLZ_CHECK We recommend you ask your child, but they will always be able to find a PIN reminder in the app.",
-  "generate_card_pin": "PLZ_CHECK Generate a random PIN"
+  "generate_card_pin": "PLZ_CHECK Generate a random PIN",
+  "add_goal_popular_section_title": "PLZ_CHECK Trending",
+  "add_goal_electronic_section_title": "PLZ_CHECK Electronics",
+  "add_goal_pet_section_title": "PLZ_CHECK Pets"
 }

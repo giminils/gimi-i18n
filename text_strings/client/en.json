@@ -2972,5 +2972,8 @@
   "friend_disconnected_confirmation": "You are disconnected with %1$d",
   "order_card_set_pin": "Choose the card PIN",
   "order_card_set_pin_desc": "We recommend you ask your child, but they will always be able to find a PIN reminder in the app.",
-  "generate_card_pin": "Generate a random PIN"
+  "generate_card_pin": "Generate a random PIN",
+  "add_goal_popular_section_title": "Trending",
+  "add_goal_electronic_section_title": "Electronics",
+  "add_goal_pet_section_title": "Pets"
 }
