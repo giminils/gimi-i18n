@@ -2983,5 +2983,6 @@
   "swish_qr_code_explainer_popover_title": "PLZ_CHECK Show the code and get money!",
   "swish_qr_code_explainer_popover_subtitle": "PLZ_CHECK bla bla bla bla",
   "swish_qr_code_piggy_speech": "PLZ_CHECK Show the code to someone with swish",
-  "swish_qr_code_how_does_it_work": "PLZ_CHECK How does it work?"
+  "swish_qr_code_how_does_it_work": "PLZ_CHECK How does it work?",
+  "settings_card_and_account_row": "PLZ_CHECK Card & Account"
 }
