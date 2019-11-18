@@ -2977,7 +2977,7 @@
   "add_goal_electronic_section_title": "Electronics",
   "add_goal_pet_section_title": "Pets",
   "auto_generate_pin_title": "Sure you don’t want a custom PIN?",
-  "auto_generate_pin_desc": "We will genereate a radom PIN, and you wull only be able to change it as an ATM.",
+  "auto_generate_pin_desc": "PLZ_COPY Otherwise we will generate a random PIN, you can change it in an ATM.",
   "add_dream_header_title": "What do you want to save up for?",
   "kid_card_swish_action_button": "Swish",
   "swish_qr_code_explainer_popover_title": "Show the code and get money!",
