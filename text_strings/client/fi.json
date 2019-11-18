@@ -2984,5 +2984,7 @@
   "swish_qr_code_explainer_popover_subtitle": "PLZ_TRANSLATE bla bla bla bla",
   "swish_qr_code_piggy_speech": "PLZ_TRANSLATE Show the code to someone with swish",
   "swish_qr_code_how_does_it_work": "PLZ_TRANSLATE How does it work?",
-  "settings_card_and_account_row": "PLZ_TRANSLATE Card & Account"
+  "settings_card_and_account_row": "PLZ_TRANSLATE Card & Account",
+  "card_settings_card_section_title": "PLZ_TRANSLATE Card settings",
+  "card_settings_account_section_title": "PLZ_TRANSLATE Account settings"
 }

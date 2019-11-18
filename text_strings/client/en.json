@@ -2984,5 +2984,7 @@
   "swish_qr_code_explainer_popover_subtitle": "bla bla bla bla",
   "swish_qr_code_piggy_speech": "Show the code to someone with swish",
   "swish_qr_code_how_does_it_work": "How does it work?",
-  "settings_card_and_account_row": "Card & Account"
+  "settings_card_and_account_row": "Card & Account",
+  "card_settings_card_section_title": "Card settings",
+  "card_settings_account_section_title": "Account settings"
 }
