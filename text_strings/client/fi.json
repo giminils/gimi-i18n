@@ -2986,5 +2986,9 @@
   "swish_qr_code_how_does_it_work": "PLZ_TRANSLATE How does it work?",
   "settings_card_and_account_row": "PLZ_TRANSLATE Card & Account",
   "card_settings_card_section_title": "PLZ_TRANSLATE Card settings",
-  "card_settings_account_section_title": "PLZ_TRANSLATE Account settings"
+  "card_settings_account_section_title": "PLZ_TRANSLATE Account settings",
+  "setup_kid_upgrade_to_master_title": "PLZ_TRANSLATE Subscribe to use Gimi with real money",
+  "setup_kid_upgrade_to_master_disclaimer": "PLZ_TRANSLATE Try first month free! Cancel anytime.",
+  "setup_kid_upgrade_to_master_subscribe_button": "PLZ_TRANSLATE Subscribe now",
+  "setup_kid_upgrade_to_master_skip_button": "PLZ_TRANSLATE Skip, use free version without real money"
 }
