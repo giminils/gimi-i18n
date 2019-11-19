@@ -648,7 +648,7 @@
   "payment_option_swish_soon": "Swish: coming soon!",
   "payment_option_apple_pay_soon": "Apple Pay: coming soon!",
   "your_personal_id_number": "Add your personal ID number",
-  "reason_to_ask_for_personal_id": "So that we can access your information",
+  "reason_to_ask_for_personal_id": "PLZ_COPY So we can verify your identity",
   "why_do_we_ask_for_this": "Why are we asking about this? 🤔",
   "open_the_app": "1. Open the Gimi app",
   "qr_code_parent_connect_instruction": "2. Go to Profile, choose My contacts and then Invite. Choose Scan QR.",
