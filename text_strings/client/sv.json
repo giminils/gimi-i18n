@@ -2987,8 +2987,8 @@
   "settings_card_and_account_row": "Kort & Konto",
   "card_settings_card_section_title": "Kortinställningar",
   "card_settings_account_section_title": "Kontoinställningar",
-  "setup_kid_upgrade_to_master_title": "PLZ_CHECK Subscribe to use Gimi with real money",
-  "setup_kid_upgrade_to_master_disclaimer": "PLZ_CHECK Try first month free! Cancel anytime.",
-  "setup_kid_upgrade_to_master_subscribe_button": "PLZ_CHECK Subscribe now",
-  "setup_kid_upgrade_to_master_skip_button": "PLZ_CHECK Skip, use free version without real money"
+  "setup_kid_upgrade_to_master_title": "Prenumerera för att använda Gimi med riktiga pengar",
+  "setup_kid_upgrade_to_master_disclaimer": "Prova första månaden gratis! Avbryt när som helst.",
+  "setup_kid_upgrade_to_master_subscribe_button": "Prenumerera nu",
+  "setup_kid_upgrade_to_master_skip_button": "Hoppa över, använd gratisversionen utan riktiga pengar"
 }
