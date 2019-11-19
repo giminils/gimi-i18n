@@ -2993,5 +2993,6 @@
   "setup_kid_upgrade_to_master_skip_button": "Skip, use free version without real money",
   "kid_internal_transfer_title": "Deposit",
   "kid_internal_transfer_button_text": "Deposit now",
-  "show_wishlist_to_supporters_switch": "Show wishlist to supporters"
+  "show_wishlist_to_supporters_switch": "Show wishlist to supporters",
+  "activate_apple_pay": "Activate Apple Pay!"
 }
