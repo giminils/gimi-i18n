@@ -462,5 +462,9 @@
   "goal_template_title_cat": "Kat",
   "goal_template_description_cat": " ",
   "goal_template_title_airpods": "AirPods",
-  "goal_template_description_airpods": " "
+  "goal_template_description_airpods": " ",
+  "goal_group_name_transport": "Transport",
+  "goal_group_description_transport": " ",
+  "goal_group_name_gaming": "Spel",
+  "goal_group_description_gaming": " "
 }
