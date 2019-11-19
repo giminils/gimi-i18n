@@ -2990,5 +2990,7 @@
   "setup_kid_upgrade_to_master_title": "PLZ_TRANSLATE Subscribe to use Gimi with real money",
   "setup_kid_upgrade_to_master_disclaimer": "PLZ_TRANSLATE Try first month free! Cancel anytime.",
   "setup_kid_upgrade_to_master_subscribe_button": "PLZ_TRANSLATE Subscribe now",
-  "setup_kid_upgrade_to_master_skip_button": "PLZ_TRANSLATE Skip, use free version without real money"
+  "setup_kid_upgrade_to_master_skip_button": "PLZ_TRANSLATE Skip, use free version without real money",
+  "kid_internal_transfer_title": "PLZ_TRANSLATE Deposit",
+  "kid_internal_transfer_button_text": "PLZ_TRANSLATE Deposit now"
 }
