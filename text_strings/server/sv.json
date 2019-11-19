@@ -372,7 +372,7 @@
   "CHPRRE021_push_title": "Det är Payday, men inga pengar...",
   "ADPRRE036_notification_title": "Det är Payday för {child.nickname}, men inga pengar har tjänats ihop. Ge ut några uppgifter?",
   "ADPRRE036_push_title": "Det är Payday för {child.nickname}, men inga pengar den här gången...",
-  "ADPRON004_notification_title": "PLZ_CHECK Don’t forget to order the Gimi Card for {child.nickname}, it’s included in your subscription!",
+  "ADPRON004_notification_title": "Glöm inte att beställa Gimi-kortet till {child.nickname}, det ingår i din prenumeration!",
   "CHGERE035_notification_title": "{parent.nickname} la till ett utlägg. Det blir avdrag från Payday...",
   "CHGERE035_push_title": "{parent.nickname} la till ett utlägg!",
   "active_email_subject": "Fortsätt att ställa in ditt kort med {wallet_provider}",
