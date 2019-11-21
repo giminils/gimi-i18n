@@ -2991,8 +2991,8 @@
   "setup_kid_upgrade_to_master_disclaimer": "Prova första månaden gratis! Avbryt när som helst.",
   "setup_kid_upgrade_to_master_subscribe_button": "Prenumerera nu",
   "setup_kid_upgrade_to_master_skip_button": "Hoppa över, använd gratisversionen utan riktiga pengar",
-  "kid_internal_transfer_title": "PLZ_CHECK Deposit",
-  "kid_internal_transfer_button_text": "PLZ_CHECK Deposit now",
+  "kid_internal_transfer_title": "För över",
+  "kid_internal_transfer_button_text": "För över nu",
   "show_wishlist_to_supporters_switch": "PLZ_CHECK Show wishlist to supporters",
   "activate_apple_pay": "Activate Apple Pay!"
 }
