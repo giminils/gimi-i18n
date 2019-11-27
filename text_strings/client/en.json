@@ -435,7 +435,7 @@
   "type_pin": "type your passcode",
   "phone_success_changed": "phone number has successfully been changed",
   "general_the_card_test": "The card test",
-  "question_ready_for_card": "are you ready for your own card?",
+  "question_ready_for_card": "PLZ_COPY Ready for the Gimi Card? Prove it! ✌️",
   "general_start": "start",
   "add_dream_question": "what's the name of your dream?",
   "add_dream_placeholader": "title",
@@ -3026,5 +3026,5 @@
   "kid_help_card_do_card_test": "Do the card test! >",
   "completed_chore_acievement_title": "Way to go!!👏",
   "completed_chore_acievement_desc": "%1$d approved your chore! You'll get the money on Payday💰",
-  "card_test_start_subtitle": "Do the Card test!"
+  "card_test_start_subtitle": "PLZ_COPY Take the card test! Show off your skills! Tell the world! 💫"
 }
