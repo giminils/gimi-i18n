@@ -3025,5 +3025,6 @@
   "kid_help_card_master_curious_title": "¿Interesado en la tarjeta Gimi?",
   "kid_help_card_do_card_test": "¡Realiza la prueba de la tarjeta! >",
   "completed_chore_acievement_title": "¡¡ Forma de hacerlo !!👏",
-  "completed_chore_acievement_desc": "%1$d aprobó tu tarea! Obtendrás dinero en el Payday💰"
+  "completed_chore_acievement_desc": "%1$d aprobó tu tarea! Obtendrás dinero en el Payday💰",
+  "card_test_start_subtitle": "PLZ_TRANSLATE Do the Card test!"
 }

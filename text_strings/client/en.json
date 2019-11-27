@@ -3025,5 +3025,6 @@
   "kid_help_card_master_curious_title": "Curious about the Gimi card?",
   "kid_help_card_do_card_test": "Do the card test! >",
   "completed_chore_acievement_title": "Way to go!!👏",
-  "completed_chore_acievement_desc": "%1$d approved your chore! You'll get the money on Payday💰"
+  "completed_chore_acievement_desc": "%1$d approved your chore! You'll get the money on Payday💰",
+  "card_test_start_subtitle": "Do the Card test!"
 }

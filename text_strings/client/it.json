@@ -3025,5 +3025,6 @@
   "kid_help_card_master_curious_title": "PLZ_TRANSLATE Curious about the Gimi card?",
   "kid_help_card_do_card_test": "PLZ_TRANSLATE Do the card test! >",
   "completed_chore_acievement_title": "PLZ_TRANSLATE Way to go!!👏",
-  "completed_chore_acievement_desc": "PLZ_TRANSLATE %1$d approved your chore! You'll get the money on Payday💰"
+  "completed_chore_acievement_desc": "PLZ_TRANSLATE %1$d approved your chore! You'll get the money on Payday💰",
+  "card_test_start_subtitle": "PLZ_TRANSLATE Do the Card test!"
 }
