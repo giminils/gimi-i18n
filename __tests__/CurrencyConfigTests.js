@@ -1,9 +1,6 @@
 
 import {getCurrencyConfig} from '../lib/CurrencyConfig'
-let fs = require('fs')
-let configs = []
 let allConfigs = []
-jest.disableAutomock()
 
 expect.extend({
   toHaveSameLength (received: *, argument: *, location: *): * {
@@ -21,24 +18,12 @@ expect.extend({
   }
 })
 
-const getAllConfigFiles = (): Array<Object> => {
-  configs = fs.existsSync('./config/') ? fs.readdirSync('./config/') : fs.readdirSync('./src/i18n/config/')
-  configs.forEach(file => {
-    file = file.split('config_')[1]
-    if (file && file.indexOf('.json') !== -1) {
-      file = file.split('.json')[0]
-      allConfigs.push(file)
-    }
-  })
-  return allConfigs
-}
-
 describe('Config', () => {
-  it('it should be able to get config ', () => {
+  test('it should be able to get config ', () => {
     allConfigs.forEach((currencyCode) => expect(getCurrencyConfig(currencyCode)).toBeDefined())
   })
 
-  it('all supported configs should have same number of keys', () => {
+  test('all supported configs should have same number of keys', () => {
     allConfigs.forEach((x) =>
       allConfigs.forEach(y =>
         Object.keys(getCurrencyConfig(x)).forEach(xKey =>
@@ -48,8 +33,7 @@ describe('Config', () => {
     )
   })
 
-  it('all configs should have same number of keys', () => {
-    getAllConfigFiles()
+  test('all configs should have same number of keys', () => {
     allConfigs.forEach((x) => {
       allConfigs.forEach((y) => {
         expect(Object.keys(getCurrencyConfig(x)).length).toHaveSameLength(Object.keys(getCurrencyConfig(y)).length, {x, y})
