@@ -3027,6 +3027,8 @@
   "completed_chore_acievement_title": "Snyggt!! 👏",
   "completed_chore_acievement_desc": "%1$d godkände din uppgift! Du får pengarna på Payday 💰",
   "card_test_start_subtitle": "Ta korttestet! Visa dina skills! Berätta för hela världen! 💫",
-  "cloud_savings_is_back_title": "PLZ_CHECK The good old Savings is back!",
-  "cloud_savings_is_back_subtitle": "PLZ_CHECK Many have asked for it, so we put it back! Use it when you don’t want to transfer real money, turn it off in settings, if you don’t need it any more."
+  "parent_cloud_savings_is_back_title": "PLZ_CHECK The good old Savings is back!",
+  "parent_cloud_savings_is_back_subtitle": "PLZ_CHECK Many have asked for it, so we put it back! Use it when you don’t want to transfer real money, turn it off in settings, if you don’t need it any more.",
+  "kid_cloud_savings_is_back_title": "PLZ_CHECK The good old Savings is back!",
+  "kid_cloud_savings_is_back_subtitle": "PLZ_CHECK Your supporters will be able to add money that they owe you here, just like before!"
 }
