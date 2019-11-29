@@ -3030,5 +3030,7 @@
   "parent_cloud_savings_is_back_title": "The good old Savings is back!",
   "parent_cloud_savings_is_back_subtitle": "Many have asked for it, so we put it back! Use it when you don’t want to transfer real money, turn it off in settings, if you don’t need it any more.",
   "kid_cloud_savings_is_back_title": "The good old Savings is back!",
-  "kid_cloud_savings_is_back_subtitle": "Your supporters will be able to add money that they owe you here, just like before!"
+  "kid_cloud_savings_is_back_subtitle": "Your supporters will be able to add money that they owe you here, just like before!",
+  "parent_custom_notification_old_savings_is_back": "The old Savings is back, as requested by our users! 👉",
+  "kid_custom_notification_old_savings_is_back": "You got your old Savings back! 😇"
 }
