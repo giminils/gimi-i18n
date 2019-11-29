@@ -3032,5 +3032,15 @@
   "kid_cloud_savings_is_back_title": "PLZ_CHECK The good old Savings is back!",
   "kid_cloud_savings_is_back_subtitle": "PLZ_CHECK Your supporters will be able to add money that they owe you here, just like before!",
   "parent_custom_notification_old_savings_is_back": "PLZ_CHECK The old Savings is back, as requested by our users! 👉",
-  "kid_custom_notification_old_savings_is_back": "PLZ_CHECK You got your old Savings back! 😇"
+  "kid_custom_notification_old_savings_is_back": "PLZ_CHECK You got your old Savings back! 😇",
+  "premium_info_alt_title": "PLZ_CHECK Try Gimi with real money for free",
+  "premium_info_sellings_point_1_alt_title": "PLZ_CHECK A Gimi card is included",
+  "premium_info_sellings_point_1_alt_text": "PLZ_CHECK A card tailored for children",
+  "premium_info_sellings_point_2_alt_title": "PLZ_CHECK Independent children",
+  "premium_info_sellings_point_2_alt_text": "PLZ_CHECK The card works online and in stores",
+  "premium_info_sellings_point_3_alt_title": "PLZ_CHECK Keep control",
+  "premium_info_sellings_point_3_alt_text": "PLZ_CHECK See all card activities. Block it if needed",
+  "premium_info_alt_disclaimer": "PLZ_CHECK First month for free. Cancel anytime.",
+  "premium_info_alt_subscribe_button": "PLZ_CHECK Start your free trial",
+  "premium_info_alt_skip_button": "PLZ_CHECK Skip, use without real money"
 }
