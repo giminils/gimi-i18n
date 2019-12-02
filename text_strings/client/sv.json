@@ -3043,5 +3043,7 @@
   "premium_info_alt_disclaimer": "Första månaden gratis. Avsluta när du vill.",
   "premium_info_alt_subscribe_button": "Prova gratis i en månad",
   "premium_info_alt_skip_button": "Hoppa över, använd utan riktiga pengar",
-  "promo_iap_banner": "PLZ_CHECK Discount"
+  "promo_iap_banner": "PLZ_CHECK Discount",
+  "kid_cloud_debt_swipable_card_title": "PLZ_CHECK Where is the money?",
+  "kid_cloud_debt_swipable_card_text": "PLZ_CHECK Your supporters owed you %1$d, but this is you new account, with real money."
 }

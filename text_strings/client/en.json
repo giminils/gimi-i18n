@@ -3043,5 +3043,7 @@
   "premium_info_alt_disclaimer": "First month for free. Cancel anytime.",
   "premium_info_alt_subscribe_button": "Try first month for free",
   "premium_info_alt_skip_button": "Skip, use without real money",
-  "promo_iap_banner": "Discount"
+  "promo_iap_banner": "Discount",
+  "kid_cloud_debt_swipable_card_title": "Where is the money?",
+  "kid_cloud_debt_swipable_card_text": "Your supporters owed you %1$d, but this is you new account, with real money."
 }

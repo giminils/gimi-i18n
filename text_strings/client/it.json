@@ -3043,5 +3043,7 @@
   "premium_info_alt_disclaimer": "PLZ_TRANSLATE First month for free. Cancel anytime.",
   "premium_info_alt_subscribe_button": "PLZ_TRANSLATE Start your free trial",
   "premium_info_alt_skip_button": "PLZ_TRANSLATE Skip, use without real money",
-  "promo_iap_banner": "PLZ_TRANSLATE Discount"
+  "promo_iap_banner": "PLZ_TRANSLATE Discount",
+  "kid_cloud_debt_swipable_card_title": "PLZ_TRANSLATE Where is the money?",
+  "kid_cloud_debt_swipable_card_text": "PLZ_TRANSLATE Your supporters owed you %1$d, but this is you new account, with real money."
 }
