@@ -1772,7 +1772,7 @@
   "change_push_permission_title": "Tilladelse til notifikationer",
   "change_push_permission_desc": "This app needs access to push notifications, so you don't miss out on anything",
   "name_length_error": "Navnet er for kort eller for langt",
-  "add_craving_title": "Tilføj craving",
+  "add_craving_title": "PLZ_TRANSLATE Add gift ",
   "price_of_craving": "Hvor meget koster gavekortet? ",
   "add_craving_image_title": "Tilføj et billede af gaven! ",
   "craving_overview": "Min ønskeliste",

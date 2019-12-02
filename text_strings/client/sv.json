@@ -1772,7 +1772,7 @@
   "change_push_permission_title": "Tillåt pushnotiser",
   "change_push_permission_desc": "Appen behöver din tillåtelse att skicka pushnotiser, så att du inte missar någonting viktigt",
   "name_length_error": "Namnet är för kort eller för långt",
-  "add_craving_title": "Lägg till craving",
+  "add_craving_title": "PLZ_CHECK Add gift ",
   "price_of_craving": "Vad kostar ditt önskemål?",
   "add_craving_image_title": "Lägg till en bild på ditt önskemål!",
   "craving_overview": "Min önskelista",

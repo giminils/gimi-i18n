@@ -1772,7 +1772,7 @@
   "change_push_permission_title": "Erlaubnis für Push-Benachrichtigungen",
   "change_push_permission_desc": "Diese App benötigt Zugriff auf Push-Benachrichtigungen, damit Du nichts verpasst",
   "name_length_error": "Der Name ist zu kurz oder zu lang",
-  "add_craving_title": "Wunsch hinzufügen",
+  "add_craving_title": "PLZ_TRANSLATE Add gift ",
   "price_of_craving": "PLZ_TRANSLATE How much does the gift cost? ",
   "add_craving_image_title": "PLZ_TRANSLATE Add an image of the gift! ",
   "craving_overview": "PLZ_TRANSLATE My wishlist",
