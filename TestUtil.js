@@ -13,6 +13,8 @@ export const serverTextStringNames = [
 ]
 export const PLZ_CHECK = 'PLZ_CHECK'
 export const PLZ_TRANSLATE = 'PLZ_TRANSLATE'
+export const PLZ_COPY = 'PLZ_COPY'
+
 const annaTranslationTag = 'ANNA'
 const emmaTranslationTag = 'EMMA'
 const ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
@@ -252,13 +254,67 @@ export const searchPlzCopy = (lang: Object, languageCode: string, textStringsTyp
   let numberPlzCopy = 0
   keys.forEach(key => {
     if (languageCode)
-      if (lang[key].includes('PLZ_COPY')) {
+      if (lang[key].includes(PLZ_COPY)) {
         numberPlzCopy++
         arrayPlzCopy.push({key: key, lang: languageCode, path: textStringsType})
       }
   })
   return {data: arrayPlzCopy, plzCopy: numberPlzCopy}
 }
+export const searchBrokenPlzCopy = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  const keys = Object.keys(lang)
+
+  const arrayPlzCopy = []
+
+  let numberBrokenPlzCopy = 0
+  keys.forEach(key => {
+    if (languageCode)
+      if ((lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('COPY') !== -1) && (lang[key].indexOf('TRANSLATE') === -1 && lang[key].indexOf('CHECK') === -1)) {
+        if (!lang[key].includes(PLZ_COPY)) {
+          numberBrokenPlzCopy++
+          arrayPlzCopy.push({key: key, lang: languageCode, path: textStringsType})
+        }
+      }
+  })
+  return {data: arrayPlzCopy, brokenPLZCopy: numberBrokenPlzCopy}
+}
+
+export const searchBrokenPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  const keys = Object.keys(lang)
+
+  const arrayPlzTranslate = []
+
+  let numberBrokenPlzTranslate = 0
+  keys.forEach(key => {
+    if (languageCode)
+      if ((lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('TRANSLATE') !== -1) && (lang[key].indexOf('COPY') === -1 && lang[key].indexOf('CHECK') === -1)) {
+        if (!lang[key].includes(PLZ_TRANSLATE)) {
+          numberBrokenPlzTranslate++
+          arrayPlzTranslate.push({key: key, lang: languageCode, path: textStringsType})
+        }
+      }
+  })
+  return {data: arrayPlzTranslate, brokenPLZTranslate: numberBrokenPlzTranslate}
+}
+
+export const searchBrokenPlzCheck = (lang: Object, languageCode: string, textStringsType: string): Object => {
+  const keys = Object.keys(lang)
+
+  const arrayPlzCheck = []
+
+  let numberBrokenPlzCheck = 0
+  keys.forEach(key => {
+    if (languageCode)
+      if ((lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('CHECK') !== -1) && (lang[key].indexOf('COPY') === -1 && lang[key].indexOf('TRANSLATE') === -1)) {
+        if (!lang[key].includes(PLZ_CHECK)) {
+          numberBrokenPlzCheck++
+          arrayPlzCheck.push({key: key, lang: languageCode, path: textStringsType})
+        }
+      }
+  })
+  return {data: arrayPlzCheck, brokenPLZCheck: numberBrokenPlzCheck}
+}
+
 export const checkStringEmptySpace = (lang: Object, languageCode: string, textStringsType: string): Object => {
   const keys = Object.keys(lang)
 

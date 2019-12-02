@@ -1,9 +1,12 @@
 
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
-import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace} from '../TestUtil'
+import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck} from '../TestUtil'
 let stringTagData = []
 let jsonDataTranslate = []
 let jsonDataCopy = []
+let jsonDataBrokenCopy = []
+let jsonDataBrokenTranslate = []
+let jsonDataBrokenCheck = []
 
 let jsonBreakingSumbols = []
 let jsonArrayUpperCase = []
@@ -40,6 +43,9 @@ textStringsTypes.forEach(textStringsType => {
     stringTagData.push(searchPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(checkStringEmptySpace(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+    stringTagData.push(searchBrokenPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+    stringTagData.push(searchBrokenPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+    stringTagData.push(searchBrokenPlzCheck(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
@@ -69,22 +75,46 @@ stringTagData.forEach(data => {
       const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonArrayEmptySpaces.push(foo)
     }
+    if (data.brokenPLZCopy > 0) {
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      jsonDataBrokenCopy.push(foo)
+    }
+    if (data.brokenPLZTranslate > 0) {
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      jsonDataBrokenTranslate.push(foo)
+    }
+    if (data.brokenPLZCheck > 0) {
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      jsonDataBrokenCheck.push(foo)
+    }
   }
 })
 
-it('it should not have breaking sumbols', () => {
+test('it should not have breaking sumbols', () => {
   expect(jsonBreakingSumbols).toEqual([])
 })
 
-it('it should not have PLZ_COPY', () => {
+test('it should not have PLZ_COPY', () => {
   expect(jsonDataCopy).toEqual([])
 })
 
-it('it should not have PLZ_TRANSLATE in sv and en', () => {
+test('it should not have broken PLZ_COPY', () => {
+  expect(jsonDataBrokenCopy).toEqual([])
+})
+
+test('it should not have broken PLZ_CHECK', () => {
+  expect(jsonDataBrokenCheck).toEqual([])
+})
+
+test('it should not have broken PLZ_TRANSLATE', () => {
+  expect(jsonDataBrokenTranslate).toEqual([])
+})
+
+test('it should not have PLZ_TRANSLATE in sv and en', () => {
   expect(jsonDataTranslate).toEqual([])
 })
 
-it('it should not have uppercase in string keys', () => {
+test('it should not have uppercase in string keys', () => {
   expect(jsonArrayUpperCase).toEqual([])
 })
 
