@@ -3045,5 +3045,6 @@
   "premium_info_alt_skip_button": "Passer, utiliser sans argent réel",
   "promo_iap_banner": "Remise",
   "kid_cloud_debt_swipable_card_title": "Où est l'argent?",
-  "kid_cloud_debt_swipable_card_text": "PVos partisans vous doivent %1$d, mais c'est votre nouveau compte, avec de l'argent réel."
+  "kid_cloud_debt_swipable_card_text": "PVos partisans vous doivent %1$d, mais c'est votre nouveau compte, avec de l'argent réel.",
+  "general_view_all": "PLZ_TRANSLATE View all"
 }

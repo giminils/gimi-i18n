@@ -3045,5 +3045,6 @@
   "premium_info_alt_skip_button": "Hoppa över, använd utan riktiga pengar",
   "promo_iap_banner": "PLZ_CHECK Discount",
   "kid_cloud_debt_swipable_card_title": "PLZ_CHECK Where is the money?",
-  "kid_cloud_debt_swipable_card_text": "PLZ_CHECK Your supporters owed you %1$d, but this is you new account, with real money."
+  "kid_cloud_debt_swipable_card_text": "PLZ_CHECK Your supporters owed you %1$d, but this is you new account, with real money.",
+  "general_view_all": "PLZ_CHECK View all"
 }
