@@ -3047,5 +3047,6 @@
   "kid_cloud_debt_swipable_card_title": "PLZ_TRANSLATE Where is the money?",
   "kid_cloud_debt_swipable_card_text": "PLZ_TRANSLATE Your supporters owed you %1$d, but this is you new account, with real money.",
   "general_view_all": "PLZ_TRANSLATE View all",
-  "stripe_set_as_payment_method_confirmation_message": "PLZ_TRANSLATE Stripe it is"
+  "stripe_set_as_payment_method_confirmation_message": "PLZ_TRANSLATE Stripe it is",
+  "kid_profile_connection_supporter": "PLZ_TRANSLATE Supporter"
 }
