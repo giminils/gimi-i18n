@@ -1772,7 +1772,7 @@
   "change_push_permission_title": "Tillåt pushnotiser",
   "change_push_permission_desc": "Appen behöver din tillåtelse att skicka pushnotiser, så att du inte missar någonting viktigt",
   "name_length_error": "Namnet är för kort eller för långt",
-  "add_craving_title": "PLZ_CHECK Add gift ",
+  "add_craving_title": "Lägg till julklapp",
   "price_of_craving": "Vad kostar ditt önskemål?",
   "add_craving_image_title": "Lägg till en bild på ditt önskemål!",
   "craving_overview": "Min önskelista",
@@ -3043,8 +3043,8 @@
   "premium_info_alt_disclaimer": "Första månaden gratis. Avsluta när du vill.",
   "premium_info_alt_subscribe_button": "Prova gratis i en månad",
   "premium_info_alt_skip_button": "Hoppa över, använd utan riktiga pengar",
-  "promo_iap_banner": "PLZ_CHECK Discount",
-  "kid_cloud_debt_swipable_card_title": "PLZ_CHECK Where is the money?",
-  "kid_cloud_debt_swipable_card_text": "PLZ_CHECK Your supporters owed you %1$d, but this is you new account, with real money.",
-  "general_view_all": "PLZ_CHECK View all"
+  "promo_iap_banner": "Rabatt",
+  "kid_cloud_debt_swipable_card_title": "Var är pengarna?",
+  "kid_cloud_debt_swipable_card_text": "Dina supporters var skyldiga dig %1$d, men det här är ditt nya konto med riktiga pengar.",
+  "general_view_all": "Se allt"
 }
