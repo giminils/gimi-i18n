@@ -3046,5 +3046,6 @@
   "promo_iap_banner": "Rabatt",
   "kid_cloud_debt_swipable_card_title": "Var är pengarna?",
   "kid_cloud_debt_swipable_card_text": "Dina supporters var skyldiga dig %1$d, men det här är ditt nya konto med riktiga pengar.",
-  "general_view_all": "Se allt"
+  "general_view_all": "Se allt",
+  "stripe_set_as_payment_method_confirmation_message": "PLZ_CHECK Stripe it is"
 }
