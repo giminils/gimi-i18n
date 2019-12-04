@@ -3048,5 +3048,7 @@
   "kid_cloud_debt_swipable_card_text": "Dina supporters var skyldiga dig %1$d, men det här är ditt nya konto med riktiga pengar.",
   "general_view_all": "Se allt",
   "stripe_set_as_payment_method_confirmation_message": "PLZ_CHECK Stripe it is",
-  "kid_profile_connection_supporter": "PLZ_CHECK Supporter"
+  "kid_profile_connection_supporter": "PLZ_CHECK Supporter",
+  "share_promocode_message": "🎁Promo code! Prova på Gimi-kortet gratis i 3 månader. Skriv in koden i Gimi-appen: $1$d",
+  "parentsettings_promocode_label": "Dela promo code"
 }

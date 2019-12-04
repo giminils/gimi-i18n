@@ -3048,5 +3048,7 @@
   "kid_cloud_debt_swipable_card_text": "Your supporters owed you %1$d, but this is you new account, with real money.",
   "general_view_all": "View all",
   "stripe_set_as_payment_method_confirmation_message": "Stripe it is",
-  "kid_profile_connection_supporter": "Supporter"
+  "kid_profile_connection_supporter": "Supporter",
+  "share_promocode_message": "🎁Promo code! Get 3 months free trial with the Gimi-card. Type in this code in the Gimi-app: $1$d",
+  "parentsettings_promocode_label": "Share promo code"
 }
