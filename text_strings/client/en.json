@@ -3052,5 +3052,6 @@
   "share_promocode_message": "🎁Promo code! Get 3 months free trial with the Gimi-card. Type in this code in the Gimi-app: $1$d",
   "parentsettings_promocode_label": "Share promo code",
   "parent_tutorial_upgrade_headline": "Upgrade to real money",
-  "parent_tutorial_upgrade_desc": "When your child is ready, you can get a Gimi card. The perfect way to start managing real money!"
+  "parent_tutorial_upgrade_desc": "When your child is ready, you can get a Gimi card. The perfect way to start managing real money!",
+  "general_skip_invite": "Skip inviting"
 }

@@ -3052,5 +3052,6 @@
   "share_promocode_message": "🎁Promo code! Prova på Gimi-kortet gratis i 3 månader. Skriv in koden i Gimi-appen: $1$d",
   "parentsettings_promocode_label": "Dela promo code",
   "parent_tutorial_upgrade_headline": "PLZ_CHECK Upgrade to real money",
-  "parent_tutorial_upgrade_desc": "PLZ_CHECK When your child is ready, you can get a Gimi card. The perfect way to start managing real money!"
+  "parent_tutorial_upgrade_desc": "PLZ_CHECK When your child is ready, you can get a Gimi card. The perfect way to start managing real money!",
+  "general_skip_invite": "PLZ_CHECK Skip inviting"
 }
