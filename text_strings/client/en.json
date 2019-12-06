@@ -3058,5 +3058,10 @@
   "goal_show_button": "Show on profile",
   "kid_profile_goal_hidden": "Hidden",
   "dream_is_hidden_confirmation_message": "Your dream has been hidden from your profile!",
-  "dream_is_shown_confirmation_message": "Your dream is visible on your profile!"
+  "dream_is_shown_confirmation_message": "Your dream is visible on your profile!",
+  "invite_alternative_option_scan_code": "Scan QR code",
+  "invite_alternative_option_email": "Send Email",
+  "invite_alternative_option_show_code": "Show code",
+  "invite_alternative_option_sound": "Play Sound",
+  "invite_alternative_option_type_number": "Type number"
 }

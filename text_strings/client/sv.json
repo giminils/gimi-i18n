@@ -3058,5 +3058,10 @@
   "goal_show_button": "PLZ_CHECK Show on profile",
   "kid_profile_goal_hidden": "PLZ_CHECK Hidden",
   "dream_is_hidden_confirmation_message": "PLZ_CHECK Your dream has been hidden from your profile!",
-  "dream_is_shown_confirmation_message": "PLZ_CHECK Your dream is visible on your profile!"
+  "dream_is_shown_confirmation_message": "PLZ_CHECK Your dream is visible on your profile!",
+  "invite_alternative_option_scan_code": "PLZ_CHECK Scan QR code",
+  "invite_alternative_option_email": "PLZ_CHECK Send Email",
+  "invite_alternative_option_show_code": "PLZ_CHECK Show code",
+  "invite_alternative_option_sound": "PLZ_CHECK Play Sound",
+  "invite_alternative_option_type_number": "PLZ_CHECK Type number"
 }
