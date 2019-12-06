@@ -3050,5 +3050,7 @@
   "stripe_set_as_payment_method_confirmation_message": "PLZ_TRANSLATE Stripe it is",
   "kid_profile_connection_supporter": "PLZ_TRANSLATE Supporter",
   "share_promocode_message": "PLZ_TRANSLATE 🎁Promo code! Get 3 months free trial with the Gimi-card. Type in this code in the Gimi-app: $1$d",
-  "parentsettings_promocode_label": "Promo Code teilen"
+  "parentsettings_promocode_label": "Promo Code teilen",
+  "parent_tutorial_upgrade_headline": "PLZ_TRANSLATE Upgrade to real money",
+  "parent_tutorial_upgrade_desc": "PLZ_TRANSLATE When your child is ready, you can get a Gimi card. The perfect way to start managing real money!"
 }
