@@ -3053,5 +3053,10 @@
   "parentsettings_promocode_label": "PLZ_TRANSLATE Share promo code",
   "parent_tutorial_upgrade_headline": "PLZ_TRANSLATE Upgrade to real money",
   "parent_tutorial_upgrade_desc": "PLZ_TRANSLATE When your child is ready, you can get a Gimi card. The perfect way to start managing real money!",
-  "general_skip_invite": "PLZ_TRANSLATE Skip inviting"
+  "general_skip_invite": "PLZ_TRANSLATE Skip inviting",
+  "goal_hide_button": "PLZ_TRANSLATE Hide from profile",
+  "goal_show_button": "PLZ_TRANSLATE Show on profile",
+  "kid_profile_goal_hidden": "PLZ_TRANSLATE Hidden",
+  "dream_is_hidden_confirmation_message": "PLZ_TRANSLATE Your dream has been hidden from your profile!",
+  "dream_is_shown_confirmation_message": "PLZ_TRANSLATE Your dream is visible on your profile!"
 }

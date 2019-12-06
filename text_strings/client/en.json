@@ -3053,5 +3053,10 @@
   "parentsettings_promocode_label": "Share promo code",
   "parent_tutorial_upgrade_headline": "Upgrade to real money",
   "parent_tutorial_upgrade_desc": "When your child is ready, you can get a Gimi card. The perfect way to start managing real money!",
-  "general_skip_invite": "Skip inviting"
+  "general_skip_invite": "Skip inviting",
+  "goal_hide_button": "Hide from profile",
+  "goal_show_button": "Show on profile",
+  "kid_profile_goal_hidden": "Hidden",
+  "dream_is_hidden_confirmation_message": "Your dream has been hidden from your profile!",
+  "dream_is_shown_confirmation_message": "Your dream is visible on your profile!"
 }
