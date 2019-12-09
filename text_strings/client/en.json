@@ -2694,7 +2694,7 @@
   "kid_custom_note_feature_721": "Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎",
   "stripe_trying_to_add_gimi_card_error": "Wrong card! Add your own to make transfers from.",
   "cant_connect_to_yourself_popover_title": "You can't connect with yourself!",
-  "cant_connect_to_yourself_popover_text": "This invitation was sent by you. Surely it was intended for someone else! They need to accept the invitation in their app.",
+  "cant_connect_to_yourself_popover_text": "PLZ_COPY Try inviting someone else 😉",
   "lysa_settings_title": "Lysa settings",
   "lysa_settings_for_name": "Lysa for %1$d",
   "lysa_settings_activated_autogiro": "Autogiro activated",
