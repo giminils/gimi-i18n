@@ -2694,7 +2694,7 @@
   "kid_custom_note_feature_721": "Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎",
   "stripe_trying_to_add_gimi_card_error": "Wrong card! Add your own to make transfers from.",
   "cant_connect_to_yourself_popover_title": "You can't connect with yourself!",
-  "cant_connect_to_yourself_popover_text": "PLZ_COPY Try inviting someone else 😉",
+  "cant_connect_to_yourself_popover_text": "Try inviting someone else 😉",
   "lysa_settings_title": "Lysa settings",
   "lysa_settings_for_name": "Lysa for %1$d",
   "lysa_settings_activated_autogiro": "Autogiro activated",
@@ -2944,7 +2944,7 @@
   "premium_info_faq_question_4": "Is my child ready for a card?",
   "premium_info_faq_answer_4": "The Gimi Card is designed to give children the support from parents and the app at all times. Only parents can decide when their child is ready, the Gimi Card is most popular from the age of 9. ",
   "premium_info_faq_question_5": "How is this card different?",
-  "premium_info_faq_answer_5": "PLZ_COPY The Gimi Card is more than a card, it also teaches your children smart money habits. The card is connected to both your child’s educational Gimi App and your parent app. We don’t sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
+  "premium_info_faq_answer_5": "The Gimi Card is more than a card, it also teaches your children smart money habits. The card is connected to both your child’s educational Gimi App and your parent app. We don’t sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
   "settings_enable_cloud": "Show Savings",
   "parent_help_card_master_title": "Is your child ready for real money?",
   "parent_help_card_master_text": "Start your free month!",
@@ -3064,7 +3064,7 @@
   "invite_alternative_option_show_code": "Show code",
   "invite_alternative_option_sound": "Play Sound",
   "invite_alternative_option_type_number": "Type number",
-  "kid_settings_supporters": "PLZ_COPY My Contacts",
+  "kid_settings_supporters": "My Contacts",
   "get_contacts_section_text": "Want to send a text message? Allow us to get your contacts",
   "get_contacts_section_button": "Get contacts"
 }
