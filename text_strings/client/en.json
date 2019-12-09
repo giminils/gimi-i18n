@@ -1673,7 +1673,7 @@
   "card_was_online_payment_unblocked_confirmation_message": "Card online payments unblocked",
   "card_was_online_payment_blocked_confirmation_message": "Card online payments blocked",
   "card_was_atm_unblocked_confirmation_message": "Card ATM use unblocked",
-  "card_was_atm_blocked_confirmation_message": "Card atm ATM blocked",
+  "card_was_atm_blocked_confirmation_message": "Card ATM use blocked",
   "general_complete": "Complete",
   "rejected_chore_action_title": "You rejected %1$d",
   "rejected_chore_action_desc": "%1$d will get another chance to complete it!",
