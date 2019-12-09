@@ -2945,6 +2945,8 @@
   "premium_info_faq_answer_4": "Die Gimi Card wurde entworfen um Kindern die Unterstützung von Eltern und der App zu aller Zeit zur Verfügung zu stellen. Nur Eltern können entscheiden, wann ein Kind bereit ist, die Gimi Card wird häufig ab 9 Jahren verwendet. ",
   "premium_info_faq_question_5": "Was ist das besondere an dieser Karte?",
   "premium_info_faq_answer_5": "PLZ_TRANSLATE The Gimi Card is more than a card, it also teaches your children smart money habits. The card is connected to both your child’s educational Gimi App and your parent app. We don’t sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
+  "premium_info_faq_question_6": "PLZ_TRANSLATE Is it secure?",
+  "premium_info_faq_answer_6": "PLZ_TRANSLATE Gimi uses 2-factor authentication to keep your money safe. We use a phone number instead of BankID. With the phone number, your child will set up an app passcode.",
   "settings_enable_cloud": "Zeige Ersparnisse an",
   "parent_help_card_master_title": "Ist Dein Kind bereit für echtes Geld?",
   "parent_help_card_master_text": "Beginne den gratis Probemonat!",

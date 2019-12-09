@@ -2945,6 +2945,8 @@
   "premium_info_faq_answer_4": "Gimi-kortet är designat för att ge barn ständigt stöd från både sina föräldrar och appen. Det är bara föräldrar som kan bedöma när deras barn är redo, Gimi-kortet är populärast från 9 år.",
   "premium_info_faq_question_5": "Hur skiljer sig kortet från andra?",
   "premium_info_faq_answer_5": "PLZ_CHECK The Gimi Card is more than a card, it also teaches your children smart money habits. The card is connected to both your child’s educational Gimi App and your parent app. We don’t sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
+  "premium_info_faq_question_6": "PLZ_CHECK Is it secure?",
+  "premium_info_faq_answer_6": "PLZ_CHECK Gimi uses 2-factor authentication to keep your money safe. We use a phone number instead of BankID. With the phone number, your child will set up an app passcode.",
   "settings_enable_cloud": "Visa Sparat",
   "parent_help_card_master_title": "Är ditt barn redo för riktiga pengar?",
   "parent_help_card_master_text": "Påbörja din gratismånad!",

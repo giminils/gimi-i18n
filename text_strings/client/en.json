@@ -2945,6 +2945,8 @@
   "premium_info_faq_answer_4": "The Gimi Card is designed to give children the support from parents and the app at all times. Only parents can decide when their child is ready, the Gimi Card is most popular from the age of 9. ",
   "premium_info_faq_question_5": "How is this card different?",
   "premium_info_faq_answer_5": "The Gimi Card is more than a card, it also teaches your children smart money habits. The card is connected to both your child’s educational Gimi App and your parent app. We don’t sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
+  "premium_info_faq_question_6": "Is it secure?",
+  "premium_info_faq_answer_6": "Gimi uses 2-factor authentication to keep your money safe. We use a phone number instead of BankID. With the phone number, your child will set up an app passcode.",
   "settings_enable_cloud": "Show Savings",
   "parent_help_card_master_title": "Is your child ready for real money?",
   "parent_help_card_master_text": "Start your free month!",
