@@ -2694,7 +2694,7 @@
   "kid_custom_note_feature_721": "Dela Piggy med en kompis för att berätta hur du mår idag! 😁😍😎 ",
   "stripe_trying_to_add_gimi_card_error": "Fel kort! Lägg till ditt eget kort för att föra över pengar.",
   "cant_connect_to_yourself_popover_title": "Du kan inte koppla ihop med dig själv!",
-  "cant_connect_to_yourself_popover_text": "PLZ_CHECK Try inviting someone else 😉",
+  "cant_connect_to_yourself_popover_text": "Prova att bjuda in någon annan 😉",
   "lysa_settings_title": "Lysa-inställningar",
   "lysa_settings_for_name": "Lysa för %1$d",
   "lysa_settings_activated_autogiro": "Autogiro är aktiverat",
@@ -2944,7 +2944,7 @@
   "premium_info_faq_question_4": "Är mitt barn redo för ett kort?",
   "premium_info_faq_answer_4": "Gimi-kortet är designat för att ge barn ständigt stöd från både sina föräldrar och appen. Det är bara föräldrar som kan bedöma när deras barn är redo, Gimi-kortet är populärast från 9 år.",
   "premium_info_faq_question_5": "Hur skiljer sig kortet från andra?",
-  "premium_info_faq_answer_5": "PLZ_CHECK The Gimi Card is more than a card, it also teaches your children smart money habits. The card is connected to both your child’s educational Gimi App and your parent app. We don’t sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
+  "premium_info_faq_answer_5": "Gimi-kortet är mer än ett kort, det lär dina barn hur man hanterar pengar. Kortet är kopplat till både ditt barns utbildande Gimi-app samt din egen app. Vi säljer aldrig din data eller visar reklam i appen, vilket är anledningen till att vi erbjuder en premiumtjänst till användare som vill stötta vår mission.",
   "premium_info_faq_question_6": "PLZ_CHECK Is it secure?",
   "premium_info_faq_answer_6": "PLZ_CHECK Gimi uses 2-factor authentication to keep your money safe. We use a phone number instead of BankID. With the phone number, your child will set up an app passcode.",
   "settings_enable_cloud": "Visa Sparat",
@@ -3066,7 +3066,7 @@
   "invite_alternative_option_show_code": "Visa kod",
   "invite_alternative_option_sound": "Spela upp ljud",
   "invite_alternative_option_type_number": "Skriv nummer",
-  "kid_settings_supporters": "PLZ_CHECK My Contacts",
-  "get_contacts_section_text": "PLZ_CHECK Want to send a text message? Allow us to get your contacts",
-  "get_contacts_section_button": "PLZ_CHECK Get contacts"
+  "kid_settings_supporters": "Mina kontakter",
+  "get_contacts_section_text": "Vill du skicka ett sms? Ge oss tillgång till dina kontakter",
+  "get_contacts_section_button": "Skaffa kontakter"
 }
