@@ -2880,7 +2880,7 @@
   "cloud_debt_swipable_card_text": "Supporters zijn %1$d %2$d verschuldigd. Zorg ervoor dat dit op de nieuwe rekening gestort wordt",
   "buy_premium_overlay_help": "💳 Voordat je de kaart kunt bestellen moet je een abonnement hebben 👇",
   "purchase_done_redirecting": "Nu bestellen we de kaart",
-  "iap_scroll_to_read_terms": "Als je doorgaat accepteer je de gebruiksvoorwaarden",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE Scroll down for promo codes and user terms!",
   "finish_order_card_hint": "De bestelling van je kaart afronden!",
   "push_notification_header_child": "Wil je meldingen over:",
   "push_notification_desc_child": "💸Payday \n🧽 Nieuwe klusjes \n✨ Nieuwe functies",
@@ -3064,5 +3064,5 @@
   "invite_alternative_option_show_code": "PLZ_TRANSLATE Show code",
   "invite_alternative_option_sound": "PLZ_TRANSLATE Play Sound",
   "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number",
-  "kid_settings_supporters": "PLZ_TRANSLATE Contacts"
+  "kid_settings_supporters": "PLZ_TRANSLATE My Contacts"
 }

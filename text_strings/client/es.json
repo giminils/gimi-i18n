@@ -2880,7 +2880,7 @@
   "cloud_debt_swipable_card_text": "Los colaboradores le deben a %1$d %2$d. Asegúrate de depositar esto en la nueva cuenta",
   "buy_premium_overlay_help": "💳 Antes de que puedas solicitar la tarjeta, necesitas una suscripción👇",
   "purchase_done_redirecting": "Ahora vamos a solicitar la tarjeta",
-  "iap_scroll_to_read_terms": "Al continuar, tu aceptas los términos de usuario",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE Scroll down for promo codes and user terms!",
   "finish_order_card_hint": "¡Finaliza tu solicitud de la tarjeta!",
   "push_notification_header_child": "Desear notificación al respecto:",
   "push_notification_desc_child": "💸Payday \n🧽 Nuevas Tareas \n✨ Nuevas Características",
@@ -3064,5 +3064,5 @@
   "invite_alternative_option_show_code": "PLZ_TRANSLATE Show code",
   "invite_alternative_option_sound": "PLZ_TRANSLATE Play Sound",
   "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number",
-  "kid_settings_supporters": "PLZ_TRANSLATE Contacts"
+  "kid_settings_supporters": "PLZ_TRANSLATE My Contacts"
 }

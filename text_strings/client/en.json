@@ -2880,7 +2880,7 @@
   "cloud_debt_swipable_card_text": "Supporters owe %1$d %2$d. Make sure to deposit this into the new account",
   "buy_premium_overlay_help": "💳 Before you can order the card, you need a subscription 👇",
   "purchase_done_redirecting": "Now let’s order the card",
-  "iap_scroll_to_read_terms": "PLZ_COPY Scroll down for promo codes and user terms!",
+  "iap_scroll_to_read_terms": "Scroll down for promo codes and user terms!",
   "finish_order_card_hint": "Finalize your card order!",
   "push_notification_header_child": "Want notifications about:",
   "push_notification_desc_child": "💸Payday \n🧽 New chores \n✨ New features",
@@ -3064,5 +3064,5 @@
   "invite_alternative_option_show_code": "Show code",
   "invite_alternative_option_sound": "Play Sound",
   "invite_alternative_option_type_number": "Type number",
-  "kid_settings_supporters": "PLZ_COPY My Contacts"
+  "kid_settings_supporters": "My Contacts"
 }

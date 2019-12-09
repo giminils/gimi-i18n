@@ -2880,7 +2880,7 @@
   "cloud_debt_swipable_card_text": "Støttespillere skylder %1$d %2$d. Sørg for å sette inn dette på den nye kontoen",
   "buy_premium_overlay_help": "💳 Før du kan bestille kortet, trenger du et abonnement 👇",
   "purchase_done_redirecting": "La oss bestille kortet",
-  "iap_scroll_to_read_terms": "Ved å fortsette godtar du brukerbetingelsene",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE Scroll down for promo codes and user terms!",
   "finish_order_card_hint": "Fullfør kortbestillingen din!",
   "push_notification_header_child": "Ønsker varsler om:",
   "push_notification_desc_child": "💸Payday \n🧽 Nye oppgaver \n✨ Nye funksjoner",
@@ -3064,5 +3064,5 @@
   "invite_alternative_option_show_code": "PLZ_TRANSLATE Show code",
   "invite_alternative_option_sound": "PLZ_TRANSLATE Play Sound",
   "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number",
-  "kid_settings_supporters": "PLZ_TRANSLATE Contacts"
+  "kid_settings_supporters": "PLZ_TRANSLATE My Contacts"
 }

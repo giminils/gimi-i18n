@@ -2880,7 +2880,7 @@
   "cloud_debt_swipable_card_text": "Supporters är skyldiga %1$d %2$d. Glöm inte att föra över pengarna till nya kontot",
   "buy_premium_overlay_help": "💳 Innan du kan beställa kortet behöver du en prenumeration 👇",
   "purchase_done_redirecting": "Nu beställer vi kortet",
-  "iap_scroll_to_read_terms": "Genom att fortsätta, accepterar du användarvillkoren",
+  "iap_scroll_to_read_terms": "PLZ_CHECK Scroll down for promo codes and user terms!",
   "finish_order_card_hint": "Avsluta din kortbeställning!",
   "push_notification_header_child": "Vill du ha notiser om:",
   "push_notification_desc_child": "💸Payday \n🧽 Nya uppgifter \n✨ Nya uppdateringar ",
@@ -3064,5 +3064,5 @@
   "invite_alternative_option_show_code": "PLZ_CHECK Show code",
   "invite_alternative_option_sound": "PLZ_CHECK Play Sound",
   "invite_alternative_option_type_number": "PLZ_CHECK Type number",
-  "kid_settings_supporters": "PLZ_CHECK Contacts"
+  "kid_settings_supporters": "PLZ_CHECK My Contacts"
 }
