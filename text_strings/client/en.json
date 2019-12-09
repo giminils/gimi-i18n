@@ -3063,5 +3063,6 @@
   "invite_alternative_option_email": "Send Email",
   "invite_alternative_option_show_code": "Show code",
   "invite_alternative_option_sound": "Play Sound",
-  "invite_alternative_option_type_number": "Type number"
+  "invite_alternative_option_type_number": "Type number",
+  "kid_settings_supporters": "Contacts"
 }

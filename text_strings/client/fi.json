@@ -3063,5 +3063,6 @@
   "invite_alternative_option_email": "Lähetä sähköposti",
   "invite_alternative_option_show_code": "Näytä koodi",
   "invite_alternative_option_sound": "Toista ääni",
-  "invite_alternative_option_type_number": "Syötä numero"
+  "invite_alternative_option_type_number": "Syötä numero",
+  "kid_settings_supporters": "PLZ_TRANSLATE Contacts"
 }

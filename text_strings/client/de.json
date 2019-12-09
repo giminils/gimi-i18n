@@ -3063,5 +3063,6 @@
   "invite_alternative_option_email": "E-Mail senden",
   "invite_alternative_option_show_code": "Code anzeigen",
   "invite_alternative_option_sound": "Geräusch abgeben",
-  "invite_alternative_option_type_number": "Nummer eingeben"
+  "invite_alternative_option_type_number": "Nummer eingeben",
+  "kid_settings_supporters": "PLZ_TRANSLATE Contacts"
 }

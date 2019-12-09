@@ -3063,5 +3063,6 @@
   "invite_alternative_option_email": "PLZ_TRANSLATE Send Email",
   "invite_alternative_option_show_code": "PLZ_TRANSLATE Show code",
   "invite_alternative_option_sound": "PLZ_TRANSLATE Play Sound",
-  "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number"
+  "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number",
+  "kid_settings_supporters": "PLZ_TRANSLATE Contacts"
 }
