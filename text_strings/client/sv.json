@@ -3064,5 +3064,7 @@
   "invite_alternative_option_show_code": "PLZ_CHECK Show code",
   "invite_alternative_option_sound": "PLZ_CHECK Play Sound",
   "invite_alternative_option_type_number": "PLZ_CHECK Type number",
-  "kid_settings_supporters": "PLZ_CHECK My Contacts"
+  "kid_settings_supporters": "PLZ_CHECK My Contacts",
+  "get_contacts_section_text": "PLZ_CHECK Want to send a text message? Allow us to get your contacts",
+  "get_contacts_section_button": "PLZ_CHECK Get contacts"
 }

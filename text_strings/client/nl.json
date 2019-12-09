@@ -3064,5 +3064,7 @@
   "invite_alternative_option_show_code": "PLZ_TRANSLATE Show code",
   "invite_alternative_option_sound": "PLZ_TRANSLATE Play Sound",
   "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number",
-  "kid_settings_supporters": "PLZ_TRANSLATE My Contacts"
+  "kid_settings_supporters": "PLZ_TRANSLATE My Contacts",
+  "get_contacts_section_text": "PLZ_TRANSLATE Want to send a text message? Allow us to get your contacts",
+  "get_contacts_section_button": "PLZ_TRANSLATE Get contacts"
 }
