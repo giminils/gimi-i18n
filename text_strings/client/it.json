@@ -3068,5 +3068,6 @@
   "invite_alternative_option_type_number": "PLZ_TRANSLATE Type number",
   "kid_settings_supporters": "PLZ_TRANSLATE My Contacts",
   "get_contacts_section_text": "PLZ_TRANSLATE Want to send a text message? Allow us to get your contacts",
-  "get_contacts_section_button": "PLZ_TRANSLATE Get contacts"
+  "get_contacts_section_button": "PLZ_TRANSLATE Get contacts",
+  "switch_to_yearly": "PLZ_TRANSLATE Switch to yearly"
 }

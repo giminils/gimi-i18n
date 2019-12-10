@@ -3068,5 +3068,6 @@
   "invite_alternative_option_type_number": "Type number",
   "kid_settings_supporters": "My Contacts",
   "get_contacts_section_text": "Want to send a text message? Allow us to get your contacts",
-  "get_contacts_section_button": "Get contacts"
+  "get_contacts_section_button": "Get contacts",
+  "switch_to_yearly": "Switch to yearly"
 }
