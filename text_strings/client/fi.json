@@ -3070,5 +3070,6 @@
   "get_contacts_section_text": "PLZ_TRANSLATE Want to send a text message? Allow us to get your contacts",
   "get_contacts_section_button": "PLZ_TRANSLATE Get contacts",
   "switch_to_yearly": "PLZ_TRANSLATE Switch to yearly",
-  "select_kid_buy_premium_empty_state": "PLZ_TRANSLATE You don’t have a child yet!\nInvite someone and come back."
+  "select_kid_buy_premium_empty_state": "PLZ_TRANSLATE You don’t have a child yet!\nInvite someone and come back.",
+  "add_dream_searchbar_placeholder": "PLZ_TRANSLATE A dog? Headphones?"
 }
