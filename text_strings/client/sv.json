@@ -3070,8 +3070,8 @@
   "get_contacts_section_text": "Vill du skicka ett sms? Ge oss tillgång till dina kontakter",
   "get_contacts_section_button": "Skaffa kontakter",
   "switch_to_yearly": "Byt till årlig",
-  "select_kid_buy_premium_empty_state": "PLZ_CHECK You don’t have a child yet!\nInvite someone and come back.",
-  "add_dream_searchbar_placeholder": "PLZ_CHECK A dog? Headphones?",
-  "add_manual_dream_button": "PLZ_CHECK Create your own: %1$d",
-  "switch_to_yearly_desc": "PLZ_CHECK Did you know you save money by switching to a yearly subscription?"
+  "select_kid_buy_premium_empty_state": "Du har inget barn än!\nBjud in någon och kom tillbaka. ",
+  "add_dream_searchbar_placeholder": "En hund? Hörlurar?",
+  "add_manual_dream_button": "Skapa din egen: %1$d",
+  "switch_to_yearly_desc": "Visste du att du sparar pengar om du byter till en årlig prenumeration?"
 }
