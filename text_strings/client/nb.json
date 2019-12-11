@@ -3072,5 +3072,6 @@
   "switch_to_yearly": "Bytt til årlig",
   "select_kid_buy_premium_empty_state": "Du har ikke et barn ennå!\nInviter noen og kom tilbake.",
   "add_dream_searchbar_placeholder": "En hund? Hodetelefoner?",
-  "add_manual_dream_button": "Lag din egen: %1$d"
+  "add_manual_dream_button": "Lag din egen: %1$d",
+  "switch_to_yearly_desc": "PLZ_TRANSLATE Did you know you save money by switching to a yearly subscription?"
 }
