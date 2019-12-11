@@ -3071,5 +3071,7 @@
   "get_contacts_section_button": "Ottieni contatti",
   "switch_to_yearly": "Passa ad annuale",
   "select_kid_buy_premium_empty_state": "Non hai ancora u n bambino!\nInvita qualcuno e torna.",
-  "add_dream_searchbar_placeholder": "UN cane? Delle cuffie?"
+  "add_dream_searchbar_placeholder": "UN cane? Delle cuffie?",
+  "add_manual_dream_button": "PLZ_TRANSLATE Create your own: %1$d",
+  "switch_to_yearly_desc": "PLZ_TRANSLATE Did you know you save money by switching to a yearly subscription?"
 }
