@@ -396,6 +396,8 @@
   "cg6208": "PLZ_TRANSLATE Good point! Send lots of compliments!!",
   "cg6209": "PLZ_TRANSLATE Well?! Who could do it?",
   "cg6210": "PLZ_TRANSLATE Hooray!! Hope you had fun!",
+  "cg6301": "PLZ_TRANSLATE There’s a chore waiting for you!",
+  "cg6303": "PLZ_TRANSLATE Good luck 🍀",
   "cr0101": "Geen profielfoto? Wil je er een toevoegen?",
   "cr0201": "Je spaart niet voor een droomwens. Wil je er een toevoegen?",
   "cr0301": "Je hebt %1$d!",
@@ -1030,5 +1032,7 @@
   "bot_hmm": "PLZ_TRANSLATE Hmmm...",
   "bot_i_wanna_know": "PLZ_TRANSLATE I wanna know!",
   "bot_sure_thing": "PLZ_TRANSLATE Sure thing!",
-  "bot_it_was_cool": "PLZ_TRANSLATE It was cool!"
+  "bot_it_was_cool": "PLZ_TRANSLATE It was cool!",
+  "bot_ill_do_it_later": "PLZ_TRANSLATE I'll do it later.",
+  "bot_do_chore": "PLZ_TRANSLATE Do chore"
 }
