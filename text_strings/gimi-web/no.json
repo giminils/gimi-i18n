@@ -743,5 +743,9 @@
   "ui.explainer2.title": "PLZ_TRANSLATE Step 2",
   "ui.explainer2.subtitle": "PLZ_TRANSLATE Connect",
   "ui.explainer3.title": "PLZ_TRANSLATE Step 3",
-  "ui.explainer3.subtitle": "PLZ_TRANSLATE Order card"
+  "ui.explainer3.subtitle": "PLZ_TRANSLATE Order card",
+  "pages.apiStatus.meta.title": "PLZ_TRANSLATE Status",
+  "pages.apiStatus.meta.description": "PLZ_TRANSLATE Api statuses",
+  "pages.apiStatus.title": "PLZ_TRANSLATE API Statuses",
+  "pages.apiStatus.subtitle": "PLZ_TRANSLATE Current statuses"
 }
