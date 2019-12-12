@@ -3077,5 +3077,6 @@
   "swish_invalid_number_title": "Dit telefoonnummer is niet aangemeld bij Swish",
   "swish_invalid_number_subtitle": "Je moet Swish activeren om deze dienst te kunnen gebruiken",
   "swish_default_error_title": "Er ging iets mis bij het contact opnemen met Swish...",
-  "swish_default_error_subtitle": "Probeer het later opnieuw, of probeer een andere betalingsmethode."
+  "swish_default_error_subtitle": "Probeer het later opnieuw, of probeer een andere betalingsmethode.",
+  "reminder_sent_confirmation_message": "PLZ_TRANSLATE Reminder sent!"
 }
