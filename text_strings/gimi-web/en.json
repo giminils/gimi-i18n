@@ -735,5 +735,13 @@
   "pages.cookies.tabledata.block16.label2": "Creator MyIntelligence, User Gimi",
   "pages.cookies.tabledata.block16.label3": "HTTP, First party and third party",
   "pages.cookies.tabledata.block16.label4": "Functionality cookie",
-  "pages.cookies.tabledata.block16.label5": "1 year"
+  "pages.cookies.tabledata.block16.label5": "1 year",
+  "ui.downloadwithinfo.title": "Get The Gimi Card",
+  "ui.downloadwithinfo.subtitle": "This is how it works",
+  "ui.explainer1.title": "Step 1",
+  "ui.explainer1.subtitle": "Download app",
+  "ui.explainer2.title": "Step 2",
+  "ui.explainer2.subtitle": "Connect",
+  "ui.explainer3.title": "Step 3",
+  "ui.explainer3.subtitle": "Order card"
 }

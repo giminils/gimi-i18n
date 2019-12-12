@@ -735,5 +735,13 @@
   "pages.cookies.tabledata.block16.label2": "PLZ_TRANSLATE Creator MyIntelligence, User Gimi",
   "pages.cookies.tabledata.block16.label3": "PLZ_TRANSLATE HTTP, First party and third party",
   "pages.cookies.tabledata.block16.label4": "PLZ_TRANSLATE Functionality cookie",
-  "pages.cookies.tabledata.block16.label5": "PLZ_TRANSLATE 1 year"
+  "pages.cookies.tabledata.block16.label5": "PLZ_TRANSLATE 1 year",
+  "ui.downloadwithinfo.title": "PLZ_TRANSLATE Get The Gimi Card",
+  "ui.downloadwithinfo.subtitle": "PLZ_TRANSLATE This is how it works",
+  "ui.explainer1.title": "PLZ_TRANSLATE Step 1",
+  "ui.explainer1.subtitle": "PLZ_TRANSLATE Download app",
+  "ui.explainer2.title": "PLZ_TRANSLATE Step 2",
+  "ui.explainer2.subtitle": "PLZ_TRANSLATE Connect",
+  "ui.explainer3.title": "PLZ_TRANSLATE Step 3",
+  "ui.explainer3.subtitle": "PLZ_TRANSLATE Order card"
 }
