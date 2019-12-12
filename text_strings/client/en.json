@@ -3075,5 +3075,7 @@
   "add_manual_dream_button": "Create your own: %1$d",
   "switch_to_yearly_desc": "Did you know you save money by switching to a yearly subscription?",
   "swish_invalid_number_title": "This phone number is not enrolled to Swish",
-  "swish_invalid_number_subtitle": "You need to activate Swish to be able to use the service"
+  "swish_invalid_number_subtitle": "You need to activate Swish to be able to use the service",
+  "swish_default_error_title": "Something went wrong contacting Swish...",
+  "swish_default_error_subtitle": "Please try again later, or try switching payment method."
 }

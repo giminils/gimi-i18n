@@ -3075,5 +3075,7 @@
   "add_manual_dream_button": "Skapa din egen: %1$d",
   "switch_to_yearly_desc": "Visste du att du sparar pengar om du byter till en årlig prenumeration?",
   "swish_invalid_number_title": "PLZ_CHECK This phone number is not enrolled to Swish",
-  "swish_invalid_number_subtitle": "PLZ_CHECK You need to activate Swish to be able to use the service"
+  "swish_invalid_number_subtitle": "PLZ_CHECK You need to activate Swish to be able to use the service",
+  "swish_default_error_title": "PLZ_CHECK Something went wrong contacting Swish...",
+  "swish_default_error_subtitle": "PLZ_CHECK Please try again later, or try switching payment method."
 }

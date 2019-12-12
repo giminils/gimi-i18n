@@ -3075,5 +3075,7 @@
   "add_manual_dream_button": "Lag din egen: %1$d",
   "switch_to_yearly_desc": "PLZ_TRANSLATE Did you know you save money by switching to a yearly subscription?",
   "swish_invalid_number_title": "PLZ_TRANSLATE This phone number is not enrolled to Swish",
-  "swish_invalid_number_subtitle": "PLZ_TRANSLATE You need to activate Swish to be able to use the service"
+  "swish_invalid_number_subtitle": "PLZ_TRANSLATE You need to activate Swish to be able to use the service",
+  "swish_default_error_title": "PLZ_TRANSLATE Something went wrong contacting Swish...",
+  "swish_default_error_subtitle": "PLZ_TRANSLATE Please try again later, or try switching payment method."
 }
