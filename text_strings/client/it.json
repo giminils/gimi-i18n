@@ -3073,5 +3073,7 @@
   "select_kid_buy_premium_empty_state": "Non hai ancora u n bambino!\nInvita qualcuno e torna.",
   "add_dream_searchbar_placeholder": "UN cane? Delle cuffie?",
   "add_manual_dream_button": "PLZ_TRANSLATE Create your own: %1$d",
-  "switch_to_yearly_desc": "PLZ_TRANSLATE Did you know you save money by switching to a yearly subscription?"
+  "switch_to_yearly_desc": "PLZ_TRANSLATE Did you know you save money by switching to a yearly subscription?",
+  "swish_invalid_number_title": "PLZ_TRANSLATE This phone number is not enrolled to Swish",
+  "swish_invalid_number_subtitle": "PLZ_TRANSLATE You need to activate Swish to be able to use the service"
 }

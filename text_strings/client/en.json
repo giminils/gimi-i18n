@@ -3073,5 +3073,7 @@
   "select_kid_buy_premium_empty_state": "You don’t have a child yet!\nInvite someone and come back.",
   "add_dream_searchbar_placeholder": "A dog? Headphones?",
   "add_manual_dream_button": "Create your own: %1$d",
-  "switch_to_yearly_desc": "Did you know you save money by switching to a yearly subscription?"
+  "switch_to_yearly_desc": "Did you know you save money by switching to a yearly subscription?",
+  "swish_invalid_number_title": "This phone number is not enrolled to Swish",
+  "swish_invalid_number_subtitle": "You need to activate Swish to be able to use the service"
 }
