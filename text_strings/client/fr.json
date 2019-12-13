@@ -3079,5 +3079,6 @@
   "swish_default_error_title": "PLZ_TRANSLATE Something went wrong contacting Swish...",
   "swish_default_error_subtitle": "PLZ_TRANSLATE Please try again later, or try switching payment method.",
   "reminder_sent_confirmation_message": "PLZ_TRANSLATE Reminder sent!",
-  "pfs_atm_withdrawal_transaction": "PLZ_TRANSLATE ATM withdrawal\n%1$d"
+  "pfs_atm_withdrawal_transaction": "PLZ_TRANSLATE ATM withdrawal\n%1$d",
+  "category_atm": "PLZ_TRANSLATE ATM"
 }
