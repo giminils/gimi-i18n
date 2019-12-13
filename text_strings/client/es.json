@@ -3079,5 +3079,5 @@
   "swish_default_error_title": "Algo ha salido mal al contactar a Swish...",
   "swish_default_error_subtitle": "Por favor, intente de nuevo mas tarde, o intenta cambiando el método de pago",
   "reminder_sent_confirmation_message": "Recordatorio enviado!",
-  "pfs_atm_withdrawal_transaction": "PLZ_TRANSLATE ATM withdrawal %1$d"
+  "pfs_atm_withdrawal_transaction": "PLZ_TRANSLATE ATM withdrawal\n%1$d"
 }
