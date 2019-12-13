@@ -3078,5 +3078,6 @@
   "swish_invalid_number_subtitle": "Du måste aktivera Swish för att använda tjänsten",
   "swish_default_error_title": "Det gick inte att få kontakt med Swish...",
   "swish_default_error_subtitle": "Försök igen senare, eller testa att byta betalningsmetod.",
-  "reminder_sent_confirmation_message": "Påminnelse skickad!"
+  "reminder_sent_confirmation_message": "Påminnelse skickad!",
+  "pfs_atm_withdrawal_transaction": "PLZ_CHECK ATM withdrawal %1$d"
 }
