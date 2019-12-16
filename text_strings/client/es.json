@@ -3080,5 +3080,7 @@
   "swish_default_error_subtitle": "Por favor, intente de nuevo mas tarde, o intenta cambiando el método de pago",
   "reminder_sent_confirmation_message": "Recordatorio enviado!",
   "pfs_atm_withdrawal_transaction": "PLZ_TRANSLATE ATM withdrawal\n%1$d",
-  "category_atm": "PLZ_TRANSLATE ATM"
+  "category_atm": "PLZ_TRANSLATE ATM",
+  "parent_help_card_curious_master_title": "PLZ_TRANSLATE Curios about the Gimi card?",
+  "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >"
 }

@@ -3080,5 +3080,7 @@
   "swish_default_error_subtitle": "Yritä myöhemmin uudelleen tai vaihda maksupalvelua.",
   "reminder_sent_confirmation_message": "Muistutus lähetetty!",
   "pfs_atm_withdrawal_transaction": "Nosto automaatilta\n%1$d",
-  "category_atm": "automaatti"
+  "category_atm": "automaatti",
+  "parent_help_card_curious_master_title": "PLZ_TRANSLATE Curios about the Gimi card?",
+  "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >"
 }

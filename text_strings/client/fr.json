@@ -3080,5 +3080,7 @@
   "swish_default_error_subtitle": "Veuillez réessayer plus tard, ou essayez de changer de mode de paiement.",
   "reminder_sent_confirmation_message": "Rappel envoyé!",
   "pfs_atm_withdrawal_transaction": "Retrait de guichet automatique\n%1$d",
-  "category_atm": "Guichet automatique"
+  "category_atm": "Guichet automatique",
+  "parent_help_card_curious_master_title": "PLZ_TRANSLATE Curios about the Gimi card?",
+  "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >"
 }

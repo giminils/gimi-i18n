@@ -3080,5 +3080,7 @@
   "swish_default_error_subtitle": "Prøv venligst igen senere, eller prøv at skifte betalingsmetode.",
   "reminder_sent_confirmation_message": "Påmindelse sendt!",
   "pfs_atm_withdrawal_transaction": "Pengeautomat hævning\n%1$d",
-  "category_atm": "Pengeautomat"
+  "category_atm": "Pengeautomat",
+  "parent_help_card_curious_master_title": "PLZ_TRANSLATE Curios about the Gimi card?",
+  "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >"
 }
