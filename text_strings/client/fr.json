@@ -3070,7 +3070,7 @@
   "get_contacts_section_text": "Vous souhaitez envoyer un SMS? Permettez-nous d'accéder à vos contacts",
   "get_contacts_section_button": "Accéder à vos contacts",
   "switch_to_yearly": "Passer en annuel",
-  "select_kid_buy_premium_empty_state": "Vous n'avez pas encore d'enfant! \ Invitez quelqu'un et revenez.",
+  "select_kid_buy_premium_empty_state": "Vous n'avez pas encore d'enfant! \n Invitez quelqu'un et revenez.",
   "add_dream_searchbar_placeholder": "Un chien? Des écouteurs?",
   "add_manual_dream_button": "Créez le votre: %1$d",
   "switch_to_yearly_desc": "Savez-vous que vous économisez de l'argent en passant à un abonnement annuel?",
