@@ -3079,6 +3079,6 @@
   "swish_default_error_title": "Det gick inte att få kontakt med Swish...",
   "swish_default_error_subtitle": "Försök igen senare, eller testa att byta betalningsmetod.",
   "reminder_sent_confirmation_message": "Påminnelse skickad!",
-  "pfs_atm_withdrawal_transaction": "PLZ_CHECK ATM withdrawal\n%1$d",
-  "category_atm": "PLZ_CHECK ATM"
+  "pfs_atm_withdrawal_transaction": "Bankomatuttag\n%1$d",
+  "category_atm": "Bankomat"
 }
