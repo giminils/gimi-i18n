@@ -2143,7 +2143,7 @@
   "onfido_explainer_popover_title": "Vérification de votre identité avec votre carte d'identité",
   "onfido_explainer_popover_desc": "Lorsque BankID ne fonctionne pas, nous utilisons un service de vérification d’identité basé au Royaume-Uni, qui s'appelle Onfido. Ils scannent votre carte d'identité, pour s'assurer qu'elle soit réelle, et qu'elle corresponde aux données fournies par SPAR en fonction de votre numéro personnel.",
   "feature_winter": "Inspiration de l'hiver",
-  "feature_winter_holiday": "Occupez-vous durant les vacances de mi-trimestre",
+  "feature_winter_holiday": "Occupez-vous durant les vacances d'hiver",
   "feature_pre_spring": "Faites-le avant le printemps",
   "feature_easter": "Oeufs de Pâques et lapins",
   "feature_spring": "Le printemps est là!",
