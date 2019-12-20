@@ -473,5 +473,6 @@
   "ADGEPU001_notification_title": "PLZ_TRANSLATE The Gimi card is coming to Norway! Get on the waitlist now👉",
   "ADGEPU001_push_title": "PLZ_TRANSLATE ⚡️The Gimi card is coming to Norway!",
   "ADGEON006_notification_title": "PLZ_TRANSLATE Ready to start using Gimi with real money? Upgrade and get the Gimi card! ✌️",
-  "ADGEON006_push_title": "PLZ_TRANSLATE Upgrade Gimi to real money 💳"
+  "ADGEON006_push_title": "PLZ_TRANSLATE Upgrade Gimi to real money 💳",
+  "login_email_subject_with_code": "{token.code} is your Gimi login code!"
 }

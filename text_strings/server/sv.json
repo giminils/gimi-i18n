@@ -473,5 +473,6 @@
   "ADGEPU001_notification_title": "Gimi-kortet kommer snart till Norge! Anmäl dig till väntelistan nu 👉",
   "ADGEPU001_push_title": "⚡️ Gimi-kortet kommer till Norge! ",
   "ADGEON006_notification_title": "Redo att börja hantera riktiga pengar i Gimi? Uppgradera nu och få Gimi-kortet ✌️",
-  "ADGEON006_push_title": "Uppgradera Gimi till riktiga pengar 💳"
+  "ADGEON006_push_title": "Uppgradera Gimi till riktiga pengar 💳",
+  "login_email_subject_with_code": "{token.code} is your Gimi login code!"
 }

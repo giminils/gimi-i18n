@@ -473,5 +473,6 @@
   "ADGEPU001_notification_title": "De Gimi-kaart komt beschikbaar in Noorwegen! Zet jezelf nu op de wachtlijst👉",
   "ADGEPU001_push_title": "⚡️De Gimi-kaart komt naar Noorwegen!",
   "ADGEON006_notification_title": "Klaar om Gimi met echt geld te gaan gebruiken? Upgrade en gebruik de Gimi-kaart! ✌️",
-  "ADGEON006_push_title": "Upgrade Gimi naar echt geld 💳"
+  "ADGEON006_push_title": "Upgrade Gimi naar echt geld 💳",
+  "login_email_subject_with_code": "{token.code} is your Gimi login code!"
 }

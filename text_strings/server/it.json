@@ -473,5 +473,6 @@
   "ADGEPU001_notification_title": "La carta Gimi sta arrivando in Norvegia! Mettiti in lista d'attesa ora👉",
   "ADGEPU001_push_title": "⚡️La carta Gimi sta arrivando in Norvegia!",
   "ADGEON006_notification_title": "Sei pronto a usare Gimi con soldi veri? Aggiorna e ottieni la carta Gimi! ✌️",
-  "ADGEON006_push_title": "Aggiorna Gimi a soldi veri 💳"
+  "ADGEON006_push_title": "Aggiorna Gimi a soldi veri 💳",
+  "login_email_subject_with_code": "{token.code} is your Gimi login code!"
 }

@@ -473,5 +473,6 @@
   "ADGEPU001_notification_title": "Gimikortet er på vej til Danmark! Kom på vetelisten nu👉",
   "ADGEPU001_push_title": "⚡️Gimikortet er på vej til Danmark!",
   "ADGEON006_notification_title": "Er du klar til at bruge Gimi med rigtige penge? Opgrader og få Gimikortet! ✌️",
-  "ADGEON006_push_title": "Opgrader Gimi til rigtige penge 💳"
+  "ADGEON006_push_title": "Opgrader Gimi til rigtige penge 💳",
+  "login_email_subject_with_code": "{token.code} is your Gimi login code!"
 }
