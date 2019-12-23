@@ -3083,5 +3083,6 @@
   "category_atm": "Pengeautomat",
   "parent_help_card_curious_master_title": "PLZ_TRANSLATE Curios about the Gimi card?",
   "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >",
-  "when_birthday_question": "PLZ_TRANSLATE When is your birthday?"
+  "when_birthday_question": "PLZ_TRANSLATE When is your birthday?",
+  "cloud_empty_state": "PLZ_TRANSLATE No transactions yet. You can add or deduct as you wish!"
 }
