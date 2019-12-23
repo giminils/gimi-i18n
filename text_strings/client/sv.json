@@ -3082,5 +3082,6 @@
   "pfs_atm_withdrawal_transaction": "Bankomatuttag\n%1$d",
   "category_atm": "Bankomat",
   "parent_help_card_curious_master_title": "Nyfiken på Gimi-kortet?",
-  "general_read_all_about_it_arrow": "Läs mer här >"
+  "general_read_all_about_it_arrow": "Läs mer här >",
+  "when_birthday_question": "PLZ_CHECK When is your birthday?"
 }

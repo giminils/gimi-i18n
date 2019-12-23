@@ -3082,5 +3082,6 @@
   "pfs_atm_withdrawal_transaction": "Retrait de guichet automatique\n%1$d",
   "category_atm": "Guichet automatique",
   "parent_help_card_curious_master_title": "PLZ_TRANSLATE Curios about the Gimi card?",
-  "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >"
+  "general_read_all_about_it_arrow": "PLZ_TRANSLATE Read all about it >",
+  "when_birthday_question": "PLZ_TRANSLATE When is your birthday?"
 }
