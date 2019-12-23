@@ -669,6 +669,7 @@
   "ui.menu.under18.app": "Allt om appen",
   "ui.menu.under18.card": "Gimikortet",
   "ui.menu.under18.label": "Gimi för barn",
+  "ui.menu.card.label": "Gimikortet",
   "pages.cookies.tabledata.title1": "PLZ_CHECK Name",
   "pages.cookies.tabledata.title2": "PLZ_CHECK Creator/user of the cookie",
   "pages.cookies.tabledata.title3": "PLZ_CHECK Type",

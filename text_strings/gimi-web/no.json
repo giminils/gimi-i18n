@@ -669,6 +669,7 @@
   "ui.menu.under18.app": "Alt om appen",
   "ui.menu.under18.card": "Gimi card",
   "ui.menu.under18.label": "Gimi for barn",
+  "ui.menu.card.label": "PLZ_TRANSLATE Gimi card",
   "pages.cookies.tabledata.title1": "PLZ_TRANSLATE Name",
   "pages.cookies.tabledata.title2": "PLZ_TRANSLATE Creator/user of the cookie",
   "pages.cookies.tabledata.title3": "PLZ_TRANSLATE Type",
