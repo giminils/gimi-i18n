@@ -3091,5 +3091,7 @@
   "3d_secure_loading_texts_4": "PLZ_TRANSLATE redirecting to bank...",
   "3d_secure_loading_texts_5": "PLZ_TRANSLATE redirecting to bank...",
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
-  "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️"
+  "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
+  "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
 }
