@@ -2943,5 +2943,6 @@
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
   "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
   "permissions_camera": "PLZ_TRANSLATE access to camera",
-  "permissions_photo": "PLZ_TRANSLATE access to gallery"
+  "permissions_photo": "PLZ_TRANSLATE access to gallery",
+  "kid_profile_connection_friend": "PLZ_TRANSLATE Friend"
 }

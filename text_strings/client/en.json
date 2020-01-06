@@ -2943,5 +2943,6 @@
   "parent_chores_to_do_hint": "New chores!",
   "parent_chores_all_done_hint": "All done",
   "permissions_camera": "access to camera",
-  "permissions_photo": "access to gallery"
+  "permissions_photo": "access to gallery",
+  "kid_profile_connection_friend": "Friend"
 }

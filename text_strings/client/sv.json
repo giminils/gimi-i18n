@@ -2943,5 +2943,6 @@
   "parent_chores_to_do_hint": "Nya uppgifter!",
   "parent_chores_all_done_hint": "Allt klart",
   "permissions_camera": "tillgång till kamera",
-  "permissions_photo": "tillgång till galleri"
+  "permissions_photo": "tillgång till galleri",
+  "kid_profile_connection_friend": "PLZ_CHECK Friend"
 }
