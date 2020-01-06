@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Depositi illimitati",
   "premium_intro_savings_desc": "Giorno di paga e altri depositi sono semplici e istantanei, assicurati soltanto di aggiungere la carta con cui vuuoi pagare nelle impostazioni.",
   "premium_intro_card_title": "Salda il tuo debito",
-  "premium_intro_card_desc": "%1$d ha soldi nei risparmi? Trasformali in soldi reali con un deposito, e non dimenticarti di ricordarlo anche agli altri sostenitori!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Leggi di più sulla carta",
   "premium_intro_get_premium_button": "Ottieni Premium",
   "activate_new_card": "Attiva la tua nuova carta",
@@ -1209,7 +1209,7 @@
   "completion_date": "Data di completamento",
   "activate_task_again": "Riattiva",
   "premium_intro_main_desc_for_kid": "La tua carta Gimi ti aspetta nell'app.",
-  "premium_intro_savings_desc_for_kid": "Usa la tua Carta Gimi online e la tua carta in plastica nei negozi. Trasferisci i soldi che vuoi risparmiare sul tuo Conto!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Finalmente hai ottenuto un conto dei risparmi con soldi veri! Chiedi ai tuoi sostenitori di trasferire ciò che ti devono!",
   "you_need_to_set_pin": "Ti serve un codice di accesso",
   "more_than_allowance": "Più di una paghetta",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
   "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
-  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
+  "permissions_camera": "PLZ_TRANSLATE access to camera",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery"
 }

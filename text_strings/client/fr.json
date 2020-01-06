@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Dépôts illimités",
   "premium_intro_savings_desc": "Payday et les autres dépôts sont simples et instantanés, assurez-vous simplement d'ajouter la carte avec laquelle vous souhaitez payer dans les paramètres.",
   "premium_intro_card_title": "Régler votre dette",
-  "premium_intro_card_desc": "Est-ce que %1$d a de l'argent dans ses économies? Convertissez-le en argent réel avec un dépôt, et n'oubliez pas de le rappeler aux autres supporters!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "En savoir plus à propos de la carte",
   "premium_intro_get_premium_button": "Passez en Premium",
   "activate_new_card": "Activer votre nouvelle carte",
@@ -1209,7 +1209,7 @@
   "completion_date": "Date d'achèvement",
   "activate_task_again": "Réactiver",
   "premium_intro_main_desc_for_kid": "Votre carte Gimi vous attend dans l'application.",
-  "premium_intro_savings_desc_for_kid": "Utilisez votre carte Gimi en ligne et votre carte plastique en magasin. Transférer de l'argent que vous souhaitez épargner sur votre compte!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Enfin, vous avez un compte d'épargne avec de l'argent réel! Demandez à vos supporters de transférer ce qu'ils vous doivent!",
   "you_need_to_set_pin": "Vous avez besoin d'un mot de passe",
   "more_than_allowance": "C'est plus que de l'argent de poche",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
   "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
-  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
+  "permissions_camera": "PLZ_TRANSLATE access to camera",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery"
 }

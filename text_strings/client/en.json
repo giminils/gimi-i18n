@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Add your card",
   "premium_intro_savings_desc": "Payday and other deposits are simple and instant, make sure to add your own card for real money transfers in Settings. ",
   "premium_intro_card_title": "Settle your debt",
-  "premium_intro_card_desc": "PLZ_COPY Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
+  "premium_intro_card_desc": "Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Read more about the card",
   "premium_intro_get_premium_button": "Get Master",
   "activate_new_card": "Activate your new card",
@@ -1209,7 +1209,7 @@
   "completion_date": "Completion date",
   "activate_task_again": "Reactivate",
   "premium_intro_main_desc_for_kid": "Your Gimi Card is already in the app!",
-  "premium_intro_savings_desc_for_kid": "PLZ_COPY Use the account for saving, and the card for spending.",
+  "premium_intro_savings_desc_for_kid": "Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "The Gimi Card works online! A plastic Gimi Card is on its way, use that one in stores.",
   "you_need_to_set_pin": "You need a passcode",
   "more_than_allowance": "More than just an allowance",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "Return to Gimi",
   "kid_profile_feature_custom_note": "Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "New chores!",
-  "parent_chores_all_done_hint": "All done"
+  "parent_chores_all_done_hint": "All done",
+  "permissions_camera": "access to camera",
+  "permissions_photo": "access to gallery"
 }

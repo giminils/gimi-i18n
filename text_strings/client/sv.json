@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": " Fria insättningar",
   "premium_intro_savings_desc": "Payday och insättningar är enkla, och direkta, lägg bara till ett betalkort i inställningar.",
   "premium_intro_card_title": "För över det du är skyldig",
-  "premium_intro_card_desc": "Hade %1$d pengar i Sparat? Gör en insättning på motsvarande summa, och glöm inte att påminna alla andra supporters!",
+  "premium_intro_card_desc": "PLZ_CHECK Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Läs mer om kortet",
   "premium_intro_get_premium_button": "Skaffa Gimi Master",
   "activate_new_card": "Aktivera ditt nya kort",
@@ -1209,7 +1209,7 @@
   "completion_date": "Datum för utförande",
   "activate_task_again": "Återaktivera",
   "premium_intro_main_desc_for_kid": "Ditt Gimi-kort väntar på dig i appen.",
-  "premium_intro_savings_desc_for_kid": "Använd ditt Gimi-kort online och ditt plastkort i butiker. För över pengar som du vill spara till ditt konto!",
+  "premium_intro_savings_desc_for_kid": "PLZ_CHECK Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Äntligen får du ett konto med riktiga pengar! Be dina supporters skicka pengar som de är skyldiga dig.",
   "you_need_to_set_pin": "Du behöver en lösenkod",
   "more_than_allowance": "Mer än bara Veckopeng",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "Tillbaka till Gimi",
   "kid_profile_feature_custom_note": "Kolla in din profil, och koppla ihop med kompisar! 👯‍♂️",
   "parent_chores_to_do_hint": "Nya uppgifter!",
-  "parent_chores_all_done_hint": "Allt klart"
+  "parent_chores_all_done_hint": "Allt klart",
+  "permissions_camera": "tillgång till kamera",
+  "permissions_photo": "tillgång till galleri"
 }

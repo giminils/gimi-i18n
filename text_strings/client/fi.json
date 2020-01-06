@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Rajoittamattomat talletukset",
   "premium_intro_savings_desc": "Tilipäivä ja muut talletukset ovat yksinkertaisia ja välittömiä. Muista vain lisätä asetuksista kortti, jolla haluat maksaa.",
   "premium_intro_card_title": "Maksa velkasi",
-  "premium_intro_card_desc": "Onko lapsella %1$d rahaa säästöissään? Muunna se oikeaksi rahaksi talletuksella, äläkä unohda ilmoittaa muille tukijoille!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Lue lisää kortista",
   "premium_intro_get_premium_button": "Hanki Premium",
   "activate_new_card": "Aktivoi uusi korttisi",
@@ -1209,7 +1209,7 @@
   "completion_date": "Valmistumispäivä",
   "activate_task_again": "Aktivoi uudelleen",
   "premium_intro_main_desc_for_kid": "Gimi-korttisi odottaa sovelluksessa.",
-  "premium_intro_savings_desc_for_kid": "Käytä Gimi-korttiasi netissä ja muovista korttia kaupoissa. Siirrä säästämäsi rahat tilillesi!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Vihdoin saat säästötilin joka toimii oikealla rahalla! Pyydä tukijoitasi siirtämään tilillesi rahat, joita he ovat sinulle velkaa!",
   "you_need_to_set_pin": "Tarvitset salasanan",
   "more_than_allowance": "Enemmän kuin vain viikko-/kuukausirahaa",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
   "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
-  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
+  "permissions_camera": "PLZ_TRANSLATE access to camera",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery"
 }

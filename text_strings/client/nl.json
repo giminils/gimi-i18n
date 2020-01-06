@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Onbeperkt aantal stortingen",
   "premium_intro_savings_desc": "Payday en andere stortingen zijn eenvoudig en direct, zorg er alleen maar voor dat je de kaart waarmee je wilt betalen bij de instellingen toevoegt.",
   "premium_intro_card_title": "Voldoe je schuld",
-  "premium_intro_card_desc": "Had %1$d geld op de spaarrekening staan? Zet het om naar echt geld met een storting, en vergeet niet om het de andere supporters te vertellen!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Lees meer over de kaart",
   "premium_intro_get_premium_button": "Neem Premium",
   "activate_new_card": "Activeer je nieuwe kaart",
@@ -1209,7 +1209,7 @@
   "completion_date": "Datum klaar",
   "activate_task_again": "Heractiveren",
   "premium_intro_main_desc_for_kid": "Je Gimi-kaart wacht op je in de app.",
-  "premium_intro_savings_desc_for_kid": "Gebruik je Gimi-kaart online en je plastic kaart in winkels. Maak het geld dat je wilt sparen over naar je rekening!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Uiteindelijk heb je een spaarrekening met echt geld! Vraag je supporters om het geld dat ze je schuldig zijn over te maken!",
   "you_need_to_set_pin": "Je hebt een wachtwoord nodig",
   "more_than_allowance": "Meer dan alleen zakgeld",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
   "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
-  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
+  "permissions_camera": "PLZ_TRANSLATE access to camera",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery"
 }

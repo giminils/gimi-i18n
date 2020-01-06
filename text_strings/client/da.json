@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Ubegrænsede udbetalinger",
   "premium_intro_savings_desc": "Payday og andre indbetalinger er enkle og øjeblikkelige, bare sørg for at tilføje det kort, du vil betale med i indstillingerne.",
   "premium_intro_card_title": "Afvikl din gæld",
-  "premium_intro_card_desc": "Havde %1$d penge i opsparingen? Konverter det hele til rigtige penge med en udbetaling, og glem ikke at påminde de andre tilhængere!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Læs mere om kortet",
   "premium_intro_get_premium_button": "Få Premium",
   "activate_new_card": "Aktiver dit nye kort",
@@ -1209,7 +1209,7 @@
   "completion_date": "Udfyldelsesdato",
   "activate_task_again": "Genaktiver",
   "premium_intro_main_desc_for_kid": "Dit Gimikort venter på dig i appen.",
-  "premium_intro_savings_desc_for_kid": "Brug dit Gimikort online og dit plastikkort i butikker. Overfør penge som du vil gemme på din Konto!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Endelig får du en opsparingskonto med rigtige penge! Spørg dine tilhængere om at overføre hvad de skylder dig!",
   "you_need_to_set_pin": "Du skal bruge en kode",
   "more_than_allowance": "Mere end bare lommepenge",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
   "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
-  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
+  "permissions_camera": "PLZ_TRANSLATE access to camera",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery"
 }

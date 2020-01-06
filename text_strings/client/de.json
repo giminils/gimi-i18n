@@ -1128,7 +1128,7 @@
   "premium_intro_savings_title": "Unlimitierte Einzahlungen",
   "premium_intro_savings_desc": "Payday und andere Einzahlungen funktionieren einfach und augenblicklich, füge die Karte, mit der Du bezahlen möchtest, in den Einstellungen hinzu.",
   "premium_intro_card_title": "Rechne Deine Schulden dirket ab",
-  "premium_intro_card_desc": "Hatte %1$d Geld in den Ersparnissen? Mache es mithilfe einer Einzahlung zu echtem Geld und vergiss nicht den anderen Unterstützern Bescheid zu sagen!",
+  "premium_intro_card_desc": "PLZ_TRANSLATE Does %1$d have money in Savings? Convert it to real money! Make a desposit and deduct it from Savings.",
   "premium_intro_read_more_about_card": "Lese mehr über die Karte",
   "premium_intro_get_premium_button": "Werde Premium",
   "activate_new_card": "Aktiviere Deine neue Karte",
@@ -1209,7 +1209,7 @@
   "completion_date": "Beendigungsdatum",
   "activate_task_again": "Reaktivieren",
   "premium_intro_main_desc_for_kid": "Deine Gimi Card wartet auf Dich in der App.",
-  "premium_intro_savings_desc_for_kid": "Verwende Deine Gimi Card online und die Plastikkarte in Läden. Überweise das Geld, das Du sparen willst auf Dein Konto!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Use the account for saving, and the card for spending.",
   "premium_intro_card_desc_for_kid": "Endlich bekommst Du ein Sparkonto für echtes Geld! Bitte Deine Unterstützer Dir das zu überweisen, was sie Dir schulden!",
   "you_need_to_set_pin": "Du brauchst einen Code",
   "more_than_allowance": "Mehr als nur ein Sparkonto",
@@ -2941,5 +2941,7 @@
   "return_to_gimi": "PLZ_TRANSLATE Return to Gimi",
   "kid_profile_feature_custom_note": "PLZ_TRANSLATE Check out your new Gimi profile, and connect with your friends! 👯‍♂️",
   "parent_chores_to_do_hint": "PLZ_TRANSLATE New chores!",
-  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done"
+  "parent_chores_all_done_hint": "PLZ_TRANSLATE All done",
+  "permissions_camera": "PLZ_TRANSLATE access to camera",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery"
 }
