@@ -2727,7 +2727,7 @@
   "cloud_debt_swipable_card_text": "I sostenitori devono %1$d %2$d. Assicurati di depositare questo nel nuovo account",
   "buy_premium_overlay_help": "💳 Prima di poter ordinare la carta, ti serve un abbonamento 👇",
   "purchase_done_redirecting": "Ora ordiniamo la carta",
-  "iap_scroll_to_read_terms": "Scorri in basso per codici promozionali e i termini dell'utente!",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE By continuing, you accept the user terms",
   "finish_order_card_hint": "Completa l'ordine della tua carta!",
   "push_notification_header_child": "Voglio ricevere notifiche su:",
   "push_notification_desc_child": "💸Payday \n🧽 Nuove faccende \n✨ Nuove funzioni",

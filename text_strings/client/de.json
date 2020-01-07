@@ -2727,7 +2727,7 @@
   "cloud_debt_swipable_card_text": "Unterstützer schulden %1$d %2$d. Stell sicher, dass der Betrag auf das neue Konto übertragen wird",
   "buy_premium_overlay_help": "💳 Bevor Du die Karte bestellen kannst, brauchst Du ein Abonnement 👇",
   "purchase_done_redirecting": "Lass uns jetzt die Karte bestellen",
-  "iap_scroll_to_read_terms": "PLZ_TRANSLATE Scroll down for promo codes and user terms!",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE By continuing, you accept the user terms",
   "finish_order_card_hint": "Schließe Deine Kartenbestellung ab!",
   "push_notification_header_child": "Ich möchte Benachrichtigungen über:",
   "push_notification_desc_child": "💸Zahltag \n🧽 Neue Aufgaben \n✨ Neue Funktionen",

@@ -2727,7 +2727,7 @@
   "cloud_debt_swipable_card_text": "Støttespillere skylder %1$d %2$d. Sørg for å sette inn dette på den nye kontoen",
   "buy_premium_overlay_help": "💳 Før du kan bestille kortet, trenger du et abonnement 👇",
   "purchase_done_redirecting": "La oss bestille kortet",
-  "iap_scroll_to_read_terms": "Scroll ned for kampanjekoder og brukerbetingelser!",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE By continuing, you accept the user terms",
   "finish_order_card_hint": "Fullfør kortbestillingen din!",
   "push_notification_header_child": "Ønsker varsler om:",
   "push_notification_desc_child": "💸Payday \n🧽 Nye oppgaver \n✨ Nye funksjoner",

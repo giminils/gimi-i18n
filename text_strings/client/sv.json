@@ -2727,7 +2727,7 @@
   "cloud_debt_swipable_card_text": "Supporters är skyldiga %1$d %2$d. Glöm inte att föra över pengarna till nya kontot",
   "buy_premium_overlay_help": "💳 Innan du kan beställa kortet behöver du en prenumeration 👇",
   "purchase_done_redirecting": "Nu beställer vi kortet",
-  "iap_scroll_to_read_terms": "Längst ned hittar du kampanjkod och användarvillkor!",
+  "iap_scroll_to_read_terms": "PLZ_CHECK By continuing, you accept the user terms",
   "finish_order_card_hint": "Avsluta din kortbeställning!",
   "push_notification_header_child": "Vill du ha notiser om:",
   "push_notification_desc_child": "💸Payday \n🧽 Nya uppgifter \n✨ Nya uppdateringar ",

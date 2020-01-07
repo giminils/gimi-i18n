@@ -2727,7 +2727,7 @@
   "cloud_debt_swipable_card_text": "Tukijat ovat velkaa lapselle %1$d %2$d. Varmista, että talletat rahat uudelle tilille",
   "buy_premium_overlay_help": "💳 Ennen kuin voit tilata kortin, tarvitset tilauksen 👇",
   "purchase_done_redirecting": "Tilataan seuraavaksi kortti",
-  "iap_scroll_to_read_terms": "Skrollaa alas nähdäksesi alennuskoodit ja käyttöehdot!",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE By continuing, you accept the user terms",
   "finish_order_card_hint": "Viimeistele korttitilauksesi!",
   "push_notification_header_child": "Haluan ilmoituksia aiheesta:",
   "push_notification_desc_child": "💸Tilipäivä \n🧽 Uusia askareita \n✨ Uusia ominaisuuksia",

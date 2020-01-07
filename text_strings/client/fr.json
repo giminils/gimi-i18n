@@ -2727,7 +2727,7 @@
   "cloud_debt_swipable_card_text": "Les supporters doivent %1$d %2$d. Assurez-vous de le déposer sur le nouveau compte",
   "buy_premium_overlay_help": "💳 Avant de pouvoir commander la carte, vous avez besoin d'un abonnement. 👇",
   "purchase_done_redirecting": "Maintenant commandons la carte",
-  "iap_scroll_to_read_terms": "Faites défiler vers le bas pour les codes promotionnels et les conditions d'utilisation!",
+  "iap_scroll_to_read_terms": "PLZ_TRANSLATE By continuing, you accept the user terms",
   "finish_order_card_hint": "Finalisez votre commande de carte!",
   "push_notification_header_child": "Vous voulez des notifications sur:",
   "push_notification_desc_child": "💸Payday \n🧽 Nouvelles tâches \n✨ Nouvelles fonctionnalités",
