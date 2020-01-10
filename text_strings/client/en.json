@@ -2945,5 +2945,9 @@
   "permissions_photo": "access to gallery",
   "kid_profile_connection_friend": "Friend",
   "parent_chores_no_chores_hint": "Add chores",
-  "payday_tomorrow_circle_text": "Tomorrow 🎉"
+  "payday_tomorrow_circle_text": "Tomorrow 🎉",
+  "edit_chore_expires_on": "Expires on",
+  "chore_expires_never": "never",
+  "general_set_date": "Set date",
+  "reset_chore_expires_on_btn": "Set without expiration"
 }

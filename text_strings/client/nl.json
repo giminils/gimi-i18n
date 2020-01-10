@@ -2945,5 +2945,9 @@
   "permissions_photo": "toegang tot de galerij",
   "kid_profile_connection_friend": "Vriend",
   "parent_chores_no_chores_hint": "Klusjes toevoegen",
-  "payday_tomorrow_circle_text": "Morgen 🎉"
+  "payday_tomorrow_circle_text": "Morgen 🎉",
+  "edit_chore_expires_on": "PLZ_TRANSLATE Expires on",
+  "chore_expires_never": "PLZ_TRANSLATE never",
+  "general_set_date": "PLZ_TRANSLATE Set date",
+  "reset_chore_expires_on_btn": "PLZ_TRANSLATE Set without expiration"
 }
