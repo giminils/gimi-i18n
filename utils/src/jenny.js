@@ -178,10 +178,14 @@ if (process.argv.some(x => x === 'f')) {
   console.log(`Storing ${foundKeys} text_strings from ${textStringsSvFilePath} to ${textStringsSvFilePath} ..`)
   let storeStrings = fs.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
   storeStrings = JSON.parse(storeStrings)
-  TextStrings = JSON.stringify(TextStrings, undefined, 2)
+
+  keysToDelete.forEach((key) => {
+    storeStrings[key] = `${TextStrings[key]}`
+  })
+  storeStrings = JSON.stringify(storeStrings, undefined, 2)
 
   fs.unlinkSync(storeUnUsedTextStrings)
-  fs.writeFileSync(storeUnUsedTextStrings, TextStrings, {encoding: 'utf8'})
+  fs.writeFileSync(storeUnUsedTextStrings, storeStrings, {encoding: 'utf8'})
 
   console.log(`Done`)
 }
