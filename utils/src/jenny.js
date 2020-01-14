@@ -71,7 +71,11 @@ let keysToIgnore = [
   'permissions_contacts',
   'permissions_camera',
   'permissions_photo',
-  'permissions_notification'
+  'permissions_notification',
+  'camera_permissions_restricted',
+  'photo_permissions_restricted',
+  'contacts_permissions_restricted',
+  'notification_permissions_restricted'
 ]
 
 
