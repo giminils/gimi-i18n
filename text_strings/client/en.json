@@ -2949,5 +2949,7 @@
   "edit_chore_expires_on": "Expires on",
   "chore_expires_never": "never",
   "general_set_date": "Set date",
-  "reset_chore_expires_on_btn": "Set without expiration"
+  "reset_chore_expires_on_btn": "Set without expiration",
+  "spar_editor_title": "Check the address",
+  "spar_editor_subtitle": "...and update if needed. But we only ship to Sweden!"
 }

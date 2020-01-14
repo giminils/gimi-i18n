@@ -2949,5 +2949,7 @@
   "edit_chore_expires_on": "Utløper den",
   "chore_expires_never": "aldri",
   "general_set_date": "Angi dato",
-  "reset_chore_expires_on_btn": "Ingen utløpsdato"
+  "reset_chore_expires_on_btn": "Ingen utløpsdato",
+  "spar_editor_title": "PLZ_TRANSLATE Check the address",
+  "spar_editor_subtitle": "PLZ_TRANSLATE ...and update if needed. But we only ship to Sweden!"
 }
