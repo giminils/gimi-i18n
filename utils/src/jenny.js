@@ -96,7 +96,7 @@ let checkFile = (file, key) => {
 
   if (fileContents.indexOf(key) !== -1) isOk = true
 
-  if (key.includes('kid_faq_section_') isOk = true
+  if (key.includes('kid_faq_section_')) isOk = true
   if (key.indexOf('_parent') !== -1)
     if (fileContents.indexOf(key.split('_parent')[0]) !== -1) isOk = true
 
