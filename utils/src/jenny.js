@@ -197,6 +197,7 @@ if (process.argv.some(x => x === 'f')) {
   fs.writeFileSync(storeUnUsedTextStrings, storeStrings, {encoding: 'utf8'})
 
   console.log(`Done`)
+
 }
 
 if (process.argv.some(x => x === 'm')) {
@@ -248,3 +249,33 @@ if (process.argv.some(x => x === 'd')) {
   console.log(`run with m match strings found and stored`)
   console.log(`run with d to remove stored strings`)
 }
+
+
+if (process.argv.some(x => x === 'a')) {
+  let exec = require('child_process').exec
+  let log = output => console.log(output)
+  let execute = (command, callback) => {
+    // eslint-disable-next-line
+    exec(command, function(error, stdout, stderr) {
+      callback(stdout)
+    })
+  }
+    execute('npm run jenny s', log)
+    console.log('jenny stored')
+    execute('cd ..', log)
+    execute('git checkout stage', log)
+    console.log('stage')
+    execute('cd i18n', log)
+    execute('npm run jenny m', log)
+    console.log('jenny matched stage')
+    execute('cd ..', log)
+    execute('git checkout dev', log)
+    console.log('dev')
+    execute('cd i18n', log)
+    execute('npm run jenny m', log)
+    console.log('jenny matched dev')
+    execute('npm run jenny d', log)
+}
+
+
+
