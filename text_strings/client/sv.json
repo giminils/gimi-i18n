@@ -2951,5 +2951,7 @@
   "general_set_date": "PLZ_CHECK Set date",
   "reset_chore_expires_on_btn": "PLZ_CHECK Set without expiration",
   "spar_editor_title": "PLZ_CHECK Check the address",
-  "spar_editor_subtitle": "PLZ_CHECK ...and update if needed. But we only ship to Sweden!"
+  "spar_editor_subtitle": "PLZ_CHECK ...and update if needed. But we only ship to Sweden!",
+  "parent_premium_expires_soon_flash_card_title": "PLZ_CHECK Your subscription expires soon",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_CHECK Auto-renewal is off. Turn it back on to keep the Gimi card active."
 }

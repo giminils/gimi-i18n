@@ -2951,5 +2951,7 @@
   "general_set_date": "Angi dato",
   "reset_chore_expires_on_btn": "Ingen utløpsdato",
   "spar_editor_title": "PLZ_TRANSLATE Check the address",
-  "spar_editor_subtitle": "PLZ_TRANSLATE ...and update if needed. But we only ship to Sweden!"
+  "spar_editor_subtitle": "PLZ_TRANSLATE ...and update if needed. But we only ship to Sweden!",
+  "parent_premium_expires_soon_flash_card_title": "PLZ_TRANSLATE Your subscription expires soon",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_TRANSLATE Auto-renewal is off. Turn it back on to keep the Gimi card active."
 }
