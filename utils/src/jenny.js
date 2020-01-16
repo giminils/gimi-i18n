@@ -260,6 +260,7 @@ if (process.argv.some(x => x === 'a')) {
       callback(stdout)
     })
   }
+    execute('git checkout master', log)
     execute('npm run jenny s', log)
     console.log('jenny stored')
     execute('cd ..', log)
