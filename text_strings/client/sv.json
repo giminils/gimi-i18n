@@ -2959,5 +2959,6 @@
   "kid_premium_feature_custom_note": "PLZ_CHECK kid premium feature notification text",
   "kid_card_row_issued_hint": "PLZ_CHECK Activate the card!",
   "kid_savings_account_intro_title": "PLZ_CHECK This account is for saving!",
-  "kid_savings_account_intro_text": "PLZ_CHECK Your new account holds real money. Save here and earn interest from your supporters.\n\nWant to spend? Top-up your card from here!"
+  "kid_savings_account_intro_text": "PLZ_CHECK Your new account holds real money. Save here and earn interest from your supporters.\n\nWant to spend? Top-up your card from here!",
+  "friend_profile_empty_state_connections": "PLZ_CHECK No connections yet!"
 }
