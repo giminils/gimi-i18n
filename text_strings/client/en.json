@@ -2956,5 +2956,6 @@
   "parent_premium_expires_soon_flash_card_text": "Auto-renewal is off. Turn it back on to keep the Gimi card active.",
   "parent_premium_feature_custom_note": "parent premium feature notification text",
   "general_new_premium_feature": "New Master feature!",
-  "kid_premium_feature_custom_note": "kid premium feature notification text"
+  "kid_premium_feature_custom_note": "kid premium feature notification text",
+  "kid_card_row_issued_hint": "The card is on its way!"
 }
