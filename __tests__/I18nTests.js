@@ -1,6 +1,6 @@
 
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
-import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck} from '../TestUtil'
+import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck, searchHtml} from '../TestUtil'
 let stringTagData = []
 let jsonDataTranslate = []
 let jsonDataCopy = []
@@ -11,6 +11,7 @@ let jsonDataBrokenCheck = []
 let jsonBreakingSumbols = []
 let jsonArrayUpperCase = []
 let jsonArrayEmptySpaces = []
+let jsonDataHtml = []
 
 let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
 
@@ -49,6 +50,9 @@ textStringsTypes.forEach(textStringsType => {
 
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+
+    if (textStringsType === 'gimi-web')
+      stringTagData.push(searchHtml(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
 
@@ -87,6 +91,10 @@ stringTagData.forEach(data => {
       const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
       jsonDataBrokenCheck.push(foo)
     }
+    if (data.countHtmlStrings > 0) {
+      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+      jsonDataHtml.push(foo)
+    }
   }
 })
 
@@ -120,4 +128,8 @@ test('it should not have uppercase in string keys', () => {
 
 xit('it should not start with empty space', () => {
   expect(jsonArrayEmptySpaces).toEqual([])
+})
+
+test('it should not contain html', () => {
+  expect(jsonDataHtml).toEqual([])
 })

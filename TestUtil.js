@@ -383,3 +383,19 @@ export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectorie
 const hasUpperCase = (str: string) => {
   return str.toLowerCase() !== str
 }
+
+export const searchHtml = (lang: Object, languageCode: string, textStringsType: string) => {
+  // eslint-disable-next-line no-useless-escape
+  const isHtml = new RegExp('<[a-z\/][\s\S]*>')
+  const keys = Object.keys(lang)
+  const arrayContainsHtml = []
+  let numberHtmlStrings = 0
+  keys.forEach(key => {
+    if (languageCode)
+      if (lang[key].match(isHtml)) {
+        numberHtmlStrings++
+        arrayContainsHtml.push({key: key, lang: languageCode, path: textStringsType})
+      }
+  })
+  return {data: arrayContainsHtml, countHtmlStrings: numberHtmlStrings}
+}
