@@ -2948,7 +2948,7 @@
   "payday_tomorrow_circle_text": "Imorgon 🎉",
   "edit_chore_expires_on": "PLZ_CHECK Expires on",
   "chore_expires_never": "PLZ_CHECK never",
-  "general_set_date": "PLZ_CHECK Set date",
+  "general_set_date": "Sätt datum",
   "reset_chore_expires_on_btn": "PLZ_CHECK Set without expiration",
   "spar_editor_title": "Kolla adressen",
   "spar_editor_subtitle": "...och uppdatera om det behövs. Vi kan bara skicka till adresser i Sverige!",
@@ -2957,8 +2957,8 @@
   "parent_premium_feature_custom_note": "PLZ_CHECK parent premium feature notification text",
   "general_new_premium_feature": "PLZ_CHECK New Master feature!",
   "kid_premium_feature_custom_note": "PLZ_CHECK kid premium feature notification text",
-  "kid_card_row_issued_hint": "PLZ_CHECK Activate the card!",
-  "kid_savings_account_intro_title": "PLZ_CHECK This account is for saving!",
+  "kid_card_row_issued_hint": "Aktivera ditt kort!",
+  "kid_savings_account_intro_title": "Det här är ditt sparkonto!",
   "kid_savings_account_intro_text": "PLZ_CHECK Your new account holds real money. Save here and earn interest from your supporters.\n\nWant to spend? Top-up your card from here!",
   "friend_profile_empty_state_connections": "PLZ_CHECK No connections yet!"
 }
