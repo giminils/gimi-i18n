@@ -2946,10 +2946,10 @@
   "kid_profile_connection_friend": "Kompis",
   "parent_chores_no_chores_hint": "Lägg till",
   "payday_tomorrow_circle_text": "Imorgon 🎉",
-  "edit_chore_expires_on": "PLZ_CHECK Expires on",
-  "chore_expires_never": "PLZ_CHECK never",
+  "edit_chore_expires_on": "Utgångdatum",
+  "chore_expires_never": "aldrig",
   "general_set_date": "Sätt datum",
-  "reset_chore_expires_on_btn": "PLZ_CHECK Set without expiration",
+  "reset_chore_expires_on_btn": "Inget utgångsdatum",
   "spar_editor_title": "Kolla adressen",
   "spar_editor_subtitle": "...och uppdatera om det behövs. Vi kan bara skicka till adresser i Sverige!",
   "parent_premium_expires_soon_flash_card_title": "Din prenumeration går ut snart",
@@ -2959,6 +2959,6 @@
   "kid_premium_feature_custom_note": "PLZ_CHECK kid premium feature notification text",
   "kid_card_row_issued_hint": "Aktivera ditt kort!",
   "kid_savings_account_intro_title": "Det här är ditt sparkonto!",
-  "kid_savings_account_intro_text": "PLZ_CHECK Your new account holds real money. Save here and earn interest from your supporters.\n\nWant to spend? Top-up your card from here!",
-  "friend_profile_empty_state_connections": "PLZ_CHECK No connections yet!"
+  "kid_savings_account_intro_text": "Ditt nya konto innehåller riktiga pengar. Spara här och få sparbonus från dina supporters.\n\nVill du köpa något? Fyll på ditt kort härifrån!",
+  "friend_profile_empty_state_connections": "Inga ihopkopplingar än!"
 }
