@@ -1,13 +1,13 @@
 
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck, searchHtml} from '../TestUtil'
+
 let stringTagData = []
 let jsonDataTranslate = []
 let jsonDataCopy = []
 let jsonDataBrokenCopy = []
 let jsonDataBrokenTranslate = []
 let jsonDataBrokenCheck = []
-
 let jsonBreakingSumbols = []
 let jsonArrayUpperCase = []
 let jsonArrayEmptySpaces = []
@@ -47,12 +47,10 @@ textStringsTypes.forEach(textStringsType => {
     stringTagData.push(searchBrokenPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBrokenPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBrokenPlzCheck(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+    stringTagData.push(searchHtml(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
       stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
-
-    if (textStringsType === 'gimi-web')
-      stringTagData.push(searchHtml(textStrings[textStringsType][languageCode], languageCode, textStringsType))
   })
 })
 
