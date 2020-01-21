@@ -1735,7 +1735,7 @@
   "kid_payday_explainer_text": "...not all the time, or when you want it. You need to wait for this day, and to make sure the money you earn will last till the next Payday. Just like adults do!",
   "kid_payday_explainer_removable_button": "Why Payday?",
   "card_spending_notifications": "Spending notifications",
-  "activated_card_tutorial_parent_title": "PLZ_COPY %1$d activated their Gimi Card!",
+  "activated_card_tutorial_parent_title": "%1$d activated their Gimi Card!",
   "activated_card_tutorial_parent_subtitle": "...and can now start spending!",
   "activated_card_tutorial_parent_header_1": "Relax. You're in control",
   "activated_card_tutorial_parent_section_1": "You can see all transactions and get notifications for every purchase. Block the card at any time in your Settings, if needed.",

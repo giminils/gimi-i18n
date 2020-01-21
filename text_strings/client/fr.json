@@ -1735,7 +1735,7 @@
   "kid_payday_explainer_text": "...pas tout le temps, ou quand vous le voulez. Vous devez attendre ce jour et vous assurer que l'argent que vous gagnez durera jusqu'au prochain payday. Tout comme les adultes!",
   "kid_payday_explainer_removable_button": "Pourquoi payday?",
   "card_spending_notifications": "Notifications de dépenses",
-  "activated_card_tutorial_parent_title": "%1$d a activé la carte Gimi",
+  "activated_card_tutorial_parent_title": "PLZ_TRANSLATE %1$d activated their Gimi Card!",
   "activated_card_tutorial_parent_subtitle": "...et peut maintenant commencer à dépenser!",
   "activated_card_tutorial_parent_header_1": "Relax. Vous contrôlez",
   "activated_card_tutorial_parent_section_1": "Vous pouvez voir toutes les transactions et recevoir des notifications sur tous les achats. Si nécessaire, bloquez la carte à tout moment dans les paramètres.",

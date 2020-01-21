@@ -1735,7 +1735,7 @@
   "kid_payday_explainer_text": "...inte jämt eller när du vill. Du måste vänta på den här dagen, och se till att pengarna du tjänar räcker till nästa Payday. Precis som de vuxna!",
   "kid_payday_explainer_removable_button": "Varför Payday?",
   "card_spending_notifications": "Notiser om spendering",
-  "activated_card_tutorial_parent_title": "%1$d har aktiverat Gimi-kortet",
+  "activated_card_tutorial_parent_title": "PLZ_CHECK %1$d activated their Gimi Card!",
   "activated_card_tutorial_parent_subtitle": "...och kan nu börja spendera.",
   "activated_card_tutorial_parent_header_1": "Slappna av. Du har kontrollen",
   "activated_card_tutorial_parent_section_1": "Du kan följa alla transaktioner. Om det skulle behövas så kan du stänga av kortet i kortinställningarna.",

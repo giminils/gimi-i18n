@@ -1735,7 +1735,7 @@
   "kid_payday_explainer_text": "...et jatkuvasti, etkä kun haluat. Joudut odottamaan tätä päivää ja varmistamaan, että rahat riittävät seuraavaan tilipäivään. Näin aikuisetkin tekevät!",
   "kid_payday_explainer_removable_button": "Miksi tilipäivä?",
   "card_spending_notifications": "Kulutusilmoitukset",
-  "activated_card_tutorial_parent_title": "%1$d on aktivoinut Gimi-kortin",
+  "activated_card_tutorial_parent_title": "PLZ_TRANSLATE %1$d activated their Gimi Card!",
   "activated_card_tutorial_parent_subtitle": "...voit nyt alkaa käyttämään rahaa!",
   "activated_card_tutorial_parent_header_1": "Rentoudu. Tilanne on hallussasi",
   "activated_card_tutorial_parent_section_1": "Näet kaikki siirrot ja saat ilmoituksen kaikista ostoksista. Jos tarpeen, voit estää kortin milloin tahansa asetuksista.",
