@@ -2963,5 +2963,6 @@
   "friend_profile_empty_state_connections": "Nessuna connessione ancora!",
   "connection_rejected": "PLZ_TRANSLATE Connection rejected",
   "contact_not_added": "PLZ_TRANSLATE The contact was not added.",
-  "added_craving_without_parent_takeover_title": "PLZ_TRANSLATE Your wish is added!"
+  "added_craving_without_parent_takeover_title": "PLZ_TRANSLATE Your wish is added!",
+  "see_subscriptions": "PLZ_TRANSLATE See subscriptions"
 }
