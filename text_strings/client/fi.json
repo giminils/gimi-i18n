@@ -2964,5 +2964,6 @@
   "connection_rejected": "PLZ_TRANSLATE Connection rejected",
   "contact_not_added": "PLZ_TRANSLATE The contact was not added.",
   "added_craving_without_parent_takeover_title": "PLZ_TRANSLATE Your wish is added!",
-  "see_subscriptions": "PLZ_TRANSLATE See subscriptions"
+  "see_subscriptions": "PLZ_TRANSLATE See subscriptions",
+  "choose_pin_code_subtitle": "PLZ_TRANSLATE You will need it for transfering money and other card related things."
 }

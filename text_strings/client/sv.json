@@ -2964,5 +2964,6 @@
   "connection_rejected": "PLZ_CHECK Anslutningen avvisades",
   "contact_not_added": "PLZ_CHECK Kontakten lades inte till.",
   "added_craving_without_parent_takeover_title": "PLZ_CHECK Your wish is added!",
-  "see_subscriptions": "PLZ_CHECK See subscriptions"
+  "see_subscriptions": "PLZ_CHECK See subscriptions",
+  "choose_pin_code_subtitle": "PLZ_CHECK You will need it for transfering money and other card related things."
 }

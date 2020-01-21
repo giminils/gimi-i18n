@@ -2964,5 +2964,6 @@
   "connection_rejected": "Connection rejected",
   "contact_not_added": "The contact was not added.",
   "added_craving_without_parent_takeover_title": "Your wish is added!",
-  "see_subscriptions": "See subscriptions"
+  "see_subscriptions": "See subscriptions",
+  "choose_pin_code_subtitle": "You will need it for transfering money and other card related things."
 }
