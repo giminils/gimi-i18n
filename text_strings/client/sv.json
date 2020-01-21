@@ -2965,5 +2965,6 @@
   "contact_not_added": "PLZ_CHECK Kontakten lades inte till.",
   "added_craving_without_parent_takeover_title": "PLZ_CHECK Your wish is added!",
   "see_subscriptions": "PLZ_CHECK See subscriptions",
-  "choose_pin_code_subtitle": "PLZ_CHECK You will need it for transfering money and other card related things."
+  "parent_choose_pin_code_subtitle": "PLZ_CHECK You need a passcode to keep your Gimi app safe",
+  "kid_choose_pin_code_subtitle": "PLZ_CHECK This will be the code to your Gimi app. Your card PIN is different."
 }

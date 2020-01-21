@@ -2965,5 +2965,6 @@
   "contact_not_added": "De contactpersoon is niet toegevoegd.",
   "added_craving_without_parent_takeover_title": "PLZ_TRANSLATE Your wish is added!",
   "see_subscriptions": "PLZ_TRANSLATE See subscriptions",
-  "choose_pin_code_subtitle": "PLZ_TRANSLATE You will need it for transfering money and other card related things."
+  "parent_choose_pin_code_subtitle": "PLZ_TRANSLATE You need a passcode to keep your Gimi app safe",
+  "kid_choose_pin_code_subtitle": "PLZ_TRANSLATE This will be the code to your Gimi app. Your card PIN is different."
 }
