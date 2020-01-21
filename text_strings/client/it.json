@@ -2960,5 +2960,7 @@
   "kid_card_row_issued_hint": "Attiva la carta!",
   "kid_savings_account_intro_title": "Questo conto è per i risparmi!",
   "kid_savings_account_intro_text": "Sul tuo nuovo conto ci sono soldi veri. Salva qui e guadagna interessi dai tuoi sostenitori.\n\nVuoi spendere? Ricarica la carta da qui!",
-  "friend_profile_empty_state_connections": "Nessuna connessione ancora!"
+  "friend_profile_empty_state_connections": "Nessuna connessione ancora!",
+  "connection_rejected": "PLZ_TRANSLATE Connection rejected",
+  "contact_not_added": "PLZ_TRANSLATE The contact was not added."
 }
