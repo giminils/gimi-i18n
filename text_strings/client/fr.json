@@ -2968,5 +2968,6 @@
   "parent_choose_pin_code_subtitle": "Vous avez besoin d'un mot de passe pour protéger votre application Gimi",
   "kid_choose_pin_code_subtitle": "Ce sera le code de votre application Gimi. Le code PIN de votre carte est différent.",
   "allowance_average_is_n_for_age": "La moyenne est de %1$d pour un âge de %2$d",
-  "interest_average_is_n_for_age": "La moyenne est de %1$d% pour un âge de %2$d"
+  "interest_average_is_n_for_age": "La moyenne est de %1$d% pour un âge de %2$d",
+  "chore_price_editor_subtitle": "PLZ_TRANSLATE Type 0 if the chore should be done without a reward."
 }

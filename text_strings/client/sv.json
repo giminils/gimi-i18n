@@ -2968,5 +2968,6 @@
   "parent_choose_pin_code_subtitle": "Du behöver en appkod för att hålla Gimi-appen säker",
   "kid_choose_pin_code_subtitle": "Det här är koden till Gimi-appen. PIN-koden till kortet är annorlunda.",
   "allowance_average_is_n_for_age": "Genomsnittet för ålder %2$d är %1$d ",
-  "interest_average_is_n_for_age": "Genomsnittet för ålder %2$d är %1$d% "
+  "interest_average_is_n_for_age": "Genomsnittet för ålder %2$d är %1$d% ",
+  "chore_price_editor_subtitle": "PLZ_CHECK Type 0 if the chore should be done without a reward."
 }
