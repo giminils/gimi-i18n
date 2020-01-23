@@ -2966,5 +2966,7 @@
   "added_craving_without_parent_takeover_title": "Dein Wunsch wurde hinzugefügt!",
   "see_subscriptions": "Siehe Abonnements",
   "parent_choose_pin_code_subtitle": "Du brauchst einen Sicherheitscode um Deine Gimi App zu sichern",
-  "kid_choose_pin_code_subtitle": "Das ist der Code für Deine Gimi App. Dein Kartenpin ist ein anderer."
+  "kid_choose_pin_code_subtitle": "Das ist der Code für Deine Gimi App. Dein Kartenpin ist ein anderer.",
+  "allowance_average_is_n_for_age": "PLZ_TRANSLATE Average is %1$d for age %2$d",
+  "interest_average_is_n_for_age": "PLZ_TRANSLATE Average is %1$d% for age %2$d"
 }
