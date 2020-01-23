@@ -2966,5 +2966,7 @@
   "added_craving_without_parent_takeover_title": "Your wish is added!",
   "see_subscriptions": "See subscriptions",
   "parent_choose_pin_code_subtitle": "You need a passcode to keep your Gimi app safe",
-  "kid_choose_pin_code_subtitle": "This will be the code to your Gimi app. Your card PIN is different."
+  "kid_choose_pin_code_subtitle": "This will be the code to your Gimi app. Your card PIN is different.",
+  "allowance_average_is_n_for_age": "Average is %1$d for age %2$d",
+  "interest_average_is_n_for_age": "Average is %1$d% for age %2$d"
 }
