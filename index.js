@@ -215,6 +215,8 @@ export const getNativeErrorMessageStrings = (lang: string): Object => {
   }
 }
 
+export const getEnBotSurveyStrings = () => enBotSurvey
+
 export const removeTranslationHelpers = (text: string): string => {
   text = text.replace(/\[.*?\]/g, '').trim()
   text = text.replace(new RegExp(translationHelpTemplate, 'g'), '')
