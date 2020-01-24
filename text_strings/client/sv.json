@@ -2969,5 +2969,8 @@
   "kid_choose_pin_code_subtitle": "Det här är koden till Gimi-appen. PIN-koden till kortet är annorlunda.",
   "allowance_average_is_n_for_age": "Genomsnittet för ålder %2$d är %1$d ",
   "interest_average_is_n_for_age": "Genomsnittet för ålder %2$d är %1$d% ",
-  "chore_price_editor_subtitle": "PLZ_CHECK Type 0 if the chore should be done without a reward."
+  "chore_price_editor_subtitle": "PLZ_CHECK Type 0 if the chore should be done without a reward.",
+  "name_has_phone_number": "PLZ_CHECK %1$d has a phone number",
+  "why_kid_needs_phone_for_premium_title": "PLZ_CHECK We require a phone number for safety",
+  "why_kid_needs_phone_for_premium_text": "PLZ_CHECK A phone number is required to keep the user account, and the money safe with 2-factor authentication."
 }

@@ -2969,5 +2969,8 @@
   "kid_choose_pin_code_subtitle": "Dette vil blive koden til din Gimi app. Din PIN-kode er noget andet.",
   "allowance_average_is_n_for_age": "PLZ_TRANSLATE Average is %1$d for age %2$d",
   "interest_average_is_n_for_age": "PLZ_TRANSLATE Average is %1$d% for age %2$d",
-  "chore_price_editor_subtitle": "PLZ_TRANSLATE Type 0 if the chore should be done without a reward."
+  "chore_price_editor_subtitle": "PLZ_TRANSLATE Type 0 if the chore should be done without a reward.",
+  "name_has_phone_number": "PLZ_TRANSLATE %1$d has a phone number",
+  "why_kid_needs_phone_for_premium_title": "PLZ_TRANSLATE We require a phone number for safety",
+  "why_kid_needs_phone_for_premium_text": "PLZ_TRANSLATE A phone number is required to keep the user account, and the money safe with 2-factor authentication."
 }
