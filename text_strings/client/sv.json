@@ -2972,5 +2972,6 @@
   "chore_price_editor_subtitle": "PLZ_CHECK Type 0 if the chore should be done without a reward.",
   "name_has_phone_number": "PLZ_CHECK %1$d has a phone number",
   "why_kid_needs_phone_for_premium_title": "PLZ_CHECK We require a phone number for safety",
-  "why_kid_needs_phone_for_premium_text": "PLZ_CHECK A phone number is required to keep the user account, and the money safe with 2-factor authentication."
+  "why_kid_needs_phone_for_premium_text": "PLZ_CHECK A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
+  "kid_profile_more_coming_soon": "PLZ_CHECK More coming soon..."
 }
