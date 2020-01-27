@@ -2942,7 +2942,7 @@
   "parent_chores_to_do_hint": "Uusia tehtäviä!",
   "parent_chores_all_done_hint": "Kaikki tehty",
   "permissions_camera": "kameran käyttölupa",
-  "permissions_photo": "gallerian käyttölupa",
+  "permissions_photo_library": "gallerian käyttölupa",
   "kid_profile_connection_friend": "Kaveri",
   "parent_chores_no_chores_hint": "Lisää tehtäviä",
   "payday_tomorrow_circle_text": "Huomenna 🎉",

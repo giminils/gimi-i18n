@@ -70,7 +70,7 @@ let keysToIgnore = [
   'category_name_48',
   'permissions_contacts',
   'permissions_camera',
-  'permissions_photo',
+  'permissions_photo_library',
   'permissions_notification',
   'camera_permissions_restricted',
   'photo_permissions_restricted',

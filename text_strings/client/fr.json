@@ -2942,7 +2942,7 @@
   "parent_chores_to_do_hint": "Nouvelles tâches!",
   "parent_chores_all_done_hint": "Terminé",
   "permissions_camera": "Accès à la caméra",
-  "permissions_photo": "Accès à la galerie",
+  "permissions_photo_library": "Accès à la galerie",
   "kid_profile_connection_friend": "Ami",
   "parent_chores_no_chores_hint": "Ajoutez des tâches",
   "payday_tomorrow_circle_text": "Demain 🎉",
