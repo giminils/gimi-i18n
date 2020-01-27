@@ -822,5 +822,6 @@
   "ui.steps.step2": "PLZ_TRANSLATE Step 2:",
   "ui.steps.step3": "PLZ_TRANSLATE Step 3:",
   "pages.over18.card.mastercard.title": "PLZ_TRANSLATE Safe and secure",
-  "pages.over18.card.mastercard.body": "PLZ_TRANSLATE Gimi is regulated by Finansinspektionen, Sweden's financial supervisory authority, and acts as Account Information Service Provider. The card is issued in cooperation with Mastercard® and Prepaid Financial Services Limited in the UK."
+  "pages.over18.card.mastercard.body": "PLZ_TRANSLATE Gimi is regulated by Finansinspektionen, Sweden's financial supervisory authority, and acts as Account Information Service Provider. The card is issued in cooperation with Mastercard® and Prepaid Financial Services Limited in the UK.",
+  "faq.zero.questions": "PLZ_TRANSLATE (0 questions)"
 }

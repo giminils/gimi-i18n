@@ -822,5 +822,6 @@
   "ui.steps.step2": "Step 2:",
   "ui.steps.step3": "Step 3:",
   "pages.over18.card.mastercard.title": "Safe and secure",
-  "pages.over18.card.mastercard.body": "Gimi is regulated by Finansinspektionen, Sweden's financial supervisory authority, and acts as Account Information Service Provider. The card is issued in cooperation with Mastercard® and Prepaid Financial Services Limited in the UK."
+  "pages.over18.card.mastercard.body": "Gimi is regulated by Finansinspektionen, Sweden's financial supervisory authority, and acts as Account Information Service Provider. The card is issued in cooperation with Mastercard® and Prepaid Financial Services Limited in the UK.",
+  "faq.zero.questions": "(0 questions)"
 }
