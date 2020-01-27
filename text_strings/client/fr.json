@@ -2973,7 +2973,7 @@
   "name_has_phone_number": "%1$d a un numéro de téléphone",
   "why_kid_needs_phone_for_premium_title": "Nous avons besoin d'un numéro de téléphone pour plus de sécurité",
   "why_kid_needs_phone_for_premium_text": "Un numéro de téléphone est nécessaire pour garder le compte utilisateur et l'argent en sécurité avec une authentification à 2 facteurs.",
-  "kid_profile_more_coming_soon": "Plus à venir bientôt...",
+  "kid_profile_more_coming_soon": "PLZ_TRANSLATE More features coming here soon!",
   "invite_already_sent": "PLZ_TRANSLATE Invite has been already sent",
   "cloud_withdraw_by_supporter": "PLZ_TRANSLATE Deducted by a supporter"
 }
