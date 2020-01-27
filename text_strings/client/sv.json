@@ -2974,5 +2974,6 @@
   "why_kid_needs_phone_for_premium_title": "PLZ_CHECK We require a phone number for safety",
   "why_kid_needs_phone_for_premium_text": "PLZ_CHECK A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
   "kid_profile_more_coming_soon": "PLZ_CHECK More coming soon...",
-  "invite_already_sent": "PLZ_CHECK Inbjudan har redan skickats"
+  "invite_already_sent": "PLZ_CHECK Inbjudan har redan skickats",
+  "cloud_withdraw_by_supporter": "PLZ_CHECK Deducted by a supporter"
 }
