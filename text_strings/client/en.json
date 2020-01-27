@@ -2973,5 +2973,6 @@
   "name_has_phone_number": "%1$d has a phone number",
   "why_kid_needs_phone_for_premium_title": "We require a phone number for safety",
   "why_kid_needs_phone_for_premium_text": "A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
-  "kid_profile_more_coming_soon": "More coming soon..."
+  "kid_profile_more_coming_soon": "More coming soon...",
+  "invite_already_sent": "Invite has been already sent"
 }

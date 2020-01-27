@@ -2973,5 +2973,6 @@
   "name_has_phone_number": "Käyttäjällä %1$d on puhelinnumero",
   "why_kid_needs_phone_for_premium_title": "Puhelinnumero on pakollinen turvallisuussyistä",
   "why_kid_needs_phone_for_premium_text": "Puhelinnumero on pakollinen, jotta käyttäjätili ja rahat ovat turvassa 2-vaiheisen autentikoinnin avulla.",
-  "kid_profile_more_coming_soon": "Lisää on tulossa..."
+  "kid_profile_more_coming_soon": "Lisää on tulossa...",
+  "invite_already_sent": "PLZ_TRANSLATE Invite has been already sent"
 }

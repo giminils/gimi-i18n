@@ -2973,5 +2973,6 @@
   "name_has_phone_number": "PLZ_TRANSLATE %1$d has a phone number",
   "why_kid_needs_phone_for_premium_title": "PLZ_TRANSLATE We require a phone number for safety",
   "why_kid_needs_phone_for_premium_text": "PLZ_TRANSLATE A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
-  "kid_profile_more_coming_soon": "PLZ_TRANSLATE More coming soon..."
+  "kid_profile_more_coming_soon": "PLZ_TRANSLATE More coming soon...",
+  "invite_already_sent": "PLZ_TRANSLATE Invite has been already sent"
 }
