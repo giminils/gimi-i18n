@@ -942,7 +942,7 @@
   "event_keep_account": "envoyer un rappel pour l'invitation",
   "event_will_delete_account": "votre compte sera supprimé",
   "error_could_not_complete_connection": "votre contact n'a pas pu être ajouté",
-  "error_could_not_complete_connection_description": "un enfant peut seulement ajouter un adulte, et un adulte peut seulement ajouter un enfant.",
+  "error_could_not_complete_connection_description": "PLZ_TRANSLATE You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Jours",
   "chore_settings_title": "Tâches",
   "general_create_own": "Créer la vôtre",

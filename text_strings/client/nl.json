@@ -942,7 +942,7 @@
   "event_keep_account": "stuur een herinnering voor de uitnodiging",
   "event_will_delete_account": "je account zal worden verwijderd",
   "error_could_not_complete_connection": "de contactpersoon kon niet worden toegevoegd!",
-  "error_could_not_complete_connection_description": "een kind kan alleen een volwassene toevoegen en een volwassene kan alleen een kind toevoegen.",
+  "error_could_not_complete_connection_description": "PLZ_TRANSLATE You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Dagen",
   "chore_settings_title": "klusjes",
   "general_create_own": "Maak eigen",

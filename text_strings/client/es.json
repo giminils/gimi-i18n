@@ -942,7 +942,7 @@
   "event_keep_account": "envía un recordatorio por la invitación",
   "event_will_delete_account": "tu cuenta será eliminada",
   "error_could_not_complete_connection": "¡el contacto no pudo ser añadido!",
-  "error_could_not_complete_connection_description": "un niño solo puede añadir a un adulto y un adulto solo puede añadir a un niño.",
+  "error_could_not_complete_connection_description": "PLZ_TRANSLATE You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Días",
   "chore_settings_title": "Tareas",
   "general_create_own": "Créala tu mismo",

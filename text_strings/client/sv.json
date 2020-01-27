@@ -942,7 +942,7 @@
   "event_keep_account": "skicka en påminnelse om inbjudan",
   "event_will_delete_account": "ditt användarkonto kommer att raderas",
   "error_could_not_complete_connection": "vi kunde inte lägga till kontakten!",
-  "error_could_not_complete_connection_description": "barn kan bara lägga till vuxna och vuxna kan bara lägga till barn",
+  "error_could_not_complete_connection_description": "PLZ_CHECK You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Dagar",
   "chore_settings_title": "Uppgifter",
   "general_create_own": "Skapa egen",

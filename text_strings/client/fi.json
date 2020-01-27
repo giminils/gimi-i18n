@@ -942,7 +942,7 @@
   "event_keep_account": "Lähetä kutsumuistutus",
   "event_will_delete_account": "tilisi poistetaan",
   "error_could_not_complete_connection": "kontaktia ei voitu lisätä!",
-  "error_could_not_complete_connection_description": "lapsi voi lisätä ainoastaan aikuisen ja aikuinen voi lisätä ainoastaan lapsen.",
+  "error_could_not_complete_connection_description": "PLZ_TRANSLATE You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Päivät",
   "chore_settings_title": "Askareet",
   "general_create_own": "Luo oma",

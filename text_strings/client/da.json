@@ -942,7 +942,7 @@
   "event_keep_account": "send en påmindelse til invitationen",
   "event_will_delete_account": "din brugerkonto vil blive slettet",
   "error_could_not_complete_connection": "kontakten skal ikke tilføjes!",
-  "error_could_not_complete_connection_description": "et barn kan kun tilføje en voksen og en voksen kan kun tilføje et barn.",
+  "error_could_not_complete_connection_description": "PLZ_TRANSLATE You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Dage",
   "chore_settings_title": "Opgaver",
   "general_create_own": "Opret egen",

@@ -942,7 +942,7 @@
   "event_keep_account": "invia un promemoria per l'invito",
   "event_will_delete_account": "il tuo account verrà cancellato",
   "error_could_not_complete_connection": "il contatto non può essere aggiunto!",
-  "error_could_not_complete_connection_description": "un bambino può aggiungere solo un genitore e un genitore può solo aggiungere un bambino.",
+  "error_could_not_complete_connection_description": "PLZ_TRANSLATE You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Giorni",
   "chore_settings_title": "Faccende",
   "general_create_own": "Crea",

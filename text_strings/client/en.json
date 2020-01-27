@@ -942,7 +942,7 @@
   "event_keep_account": "send a reminder for the invitation",
   "event_will_delete_account": "your user account will be deleted",
   "error_could_not_complete_connection": "The contact could not be added!",
-  "error_could_not_complete_connection_description": "PLZ_COPY You can't connect with a supporter. But you can invite them to connect with your children.",
+  "error_could_not_complete_connection_description": "You can't connect with a supporter. But you can invite them to connect with your children.",
   "general_days": "Days",
   "chore_settings_title": "Chores",
   "general_create_own": "Create own",
