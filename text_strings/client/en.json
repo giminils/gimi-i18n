@@ -2943,6 +2943,7 @@
   "parent_chores_all_done_hint": "All done",
   "permissions_camera": "access to camera",
   "permissions_photo_library": "access to gallery",
+  "permissions_photo": "access to gallery",
   "kid_profile_connection_friend": "Friend",
   "parent_chores_no_chores_hint": "Add chores",
   "payday_tomorrow_circle_text": "Tomorrow 🎉",

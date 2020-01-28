@@ -2943,6 +2943,7 @@
   "parent_chores_all_done_hint": "Kaikki tehty",
   "permissions_camera": "kameran käyttölupa",
   "permissions_photo_library": "gallerian käyttölupa",
+  "permissions_photo": "PLZ_TRANSLATE access to gallery",
   "kid_profile_connection_friend": "Kaveri",
   "parent_chores_no_chores_hint": "Lisää tehtäviä",
   "payday_tomorrow_circle_text": "Huomenna 🎉",
