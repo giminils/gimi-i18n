@@ -2976,5 +2976,6 @@
   "why_kid_needs_phone_for_premium_text": "Ett telefonnummer krävs för att hålla ditt konto, och dina penagr säkra med 2-faktorautentisering.",
   "kid_profile_more_coming_soon": "Fler funktioner kommer snart!✨",
   "invite_already_sent": "Inbjudan har redan skickats",
-  "cloud_withdraw_by_supporter": "Avdrag av supporter"
+  "cloud_withdraw_by_supporter": "Avdrag av supporter",
+  "qr_success_confirmation_message": "PLZ_CHECK Connection created!"
 }

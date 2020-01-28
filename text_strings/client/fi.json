@@ -2976,5 +2976,6 @@
   "why_kid_needs_phone_for_premium_text": "Puhelinnumero on pakollinen, jotta käyttäjätili ja rahat ovat turvassa 2-vaiheisen autentikoinnin avulla.",
   "kid_profile_more_coming_soon": "PLZ_TRANSLATE More features coming here soon!",
   "invite_already_sent": "PLZ_TRANSLATE Invite has been already sent",
-  "cloud_withdraw_by_supporter": "PLZ_TRANSLATE Deducted by a supporter"
+  "cloud_withdraw_by_supporter": "PLZ_TRANSLATE Deducted by a supporter",
+  "qr_success_confirmation_message": "PLZ_TRANSLATE Connection created!"
 }
