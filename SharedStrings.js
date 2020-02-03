@@ -101,7 +101,7 @@ const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   if (!textStrings || !langKey) return ''
   let text = textStrings[langKey]
   if (!text) return ''
-  else text = removeTranslationHelpers(text)
+  text = removeTranslationHelpers(text)
   text = text.trim()
   if (values) values.forEach((item, index) => {
     // $FlowFixMe //Needed 05.12.2017
