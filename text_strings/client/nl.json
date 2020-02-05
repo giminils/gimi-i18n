@@ -2663,7 +2663,7 @@
   "klarna_verify_identity_approve_desc": "Ik keur de algemene voorwaarden en het privacybeleid van Klarna goed",
   "onfido_verify_identity_description_1": "✅ Accepteer de algemene voorwaarden van Onfido om door te gaan.",
   "onfido_verify_identity_description_2": "🇬🇧 Onfido is een ID verificatie service die veel in het VK gebruikt wordt (ze beschikken daar niet over BankID)",
-  "onfido_verify_identity_description_3": "📇 Onfido scant je identiteitskaart of paspoort, Gimi slaat die nooit op.",
+  "onfido_verify_identity_description_3": "PLZ_TRANSLATE 📇 Onfido automatically scans and verifies your ID, instantly!",
   "onfido_verify_identity_approve_desc": "Ik keur de algemene voorwaarden en het privacybeleid van Onfido goed",
   "accept_terms_title": "Accepteer de algemene voorwaarden",
   "kyc_user_terms_link_title": "Algemene voorwaarden",

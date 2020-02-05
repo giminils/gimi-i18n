@@ -2663,7 +2663,7 @@
   "klarna_verify_identity_approve_desc": "Approvo termini & condizioni di Klarna e la politica sulla privacy",
   "onfido_verify_identity_description_1": "✅ Accetta termini & condizioni di Onfido per continuare.",
   "onfido_verify_identity_description_2": "🇬🇧 Onfido è un servizio di verifica ID ampiamente utilizzato nel Regno Unito (dove non esiste BankID)",
-  "onfido_verify_identity_description_3": "📇 Onfido scansiona la tua carta d'identità o passaporto, Gimi non li conserva mai.",
+  "onfido_verify_identity_description_3": "PLZ_TRANSLATE 📇 Onfido automatically scans and verifies your ID, instantly!",
   "onfido_verify_identity_approve_desc": "Approvo i termini dell'utente e la politica sulla privacy di Onfido",
   "accept_terms_title": "Accetta i termini dell'utente",
   "kyc_user_terms_link_title": "Termini dell'utente",

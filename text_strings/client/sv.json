@@ -2663,7 +2663,7 @@
   "klarna_verify_identity_approve_desc": "Jag godkänner Klarnas användarvillkor. ",
   "onfido_verify_identity_description_1": "✅ Godkänn Onfidos användarvillkor för att gå vidare till nästa steg.",
   "onfido_verify_identity_description_2": "🇬🇧 Onfido är e-legitimation som används i i Storbritannien istället för BankID.",
-  "onfido_verify_identity_description_3": "📇 Onfido skannar och verifierar ditt ID-kort automatiskt, Gimi sparar inget.",
+  "onfido_verify_identity_description_3": "PLZ_CHECK 📇 Onfido automatically scans and verifies your ID, instantly!",
   "onfido_verify_identity_approve_desc": "Jag godkänner Onfidos användarvillkor.",
   "accept_terms_title": "Godkänn användarvillkoren",
   "kyc_user_terms_link_title": "Användarvillkor",

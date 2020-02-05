@@ -2663,7 +2663,7 @@
   "klarna_verify_identity_approve_desc": "Hyväksyn Klarnan käyttöehdot ja tietosuojakäytännöt",
   "onfido_verify_identity_description_1": "✅ Hyväksy Onfidon käyttöehdot jatkaaksesi.",
   "onfido_verify_identity_description_2": "🇬🇧 Onfido on tunnistautumispalvelu, joka on käytössä ympäri Iso-Britanniaa (jossa ei ole käytössä pankkien tunnistautumispalvelua)",
-  "onfido_verify_identity_description_3": "📇 Onfido skannaa henkilökorttisi tai passisi, Gimi ei saa niiden tietoja.",
+  "onfido_verify_identity_description_3": "PLZ_TRANSLATE 📇 Onfido automatically scans and verifies your ID, instantly!",
   "onfido_verify_identity_approve_desc": "Hyväksyn Onfidon käyttöehdot ja tietosuojakäytännöt",
   "accept_terms_title": "Hyväksy käyttöehdot",
   "kyc_user_terms_link_title": "Käyttöehdot",

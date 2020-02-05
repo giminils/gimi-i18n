@@ -2663,7 +2663,7 @@
   "klarna_verify_identity_approve_desc": "I approve Klarna's terms and privacy policy",
   "onfido_verify_identity_description_1": "✅ Accept Onfido's terms & conditions to continue.",
   "onfido_verify_identity_description_2": "🇬🇧 Onfido is ID verification software widely used in the UK instead of BankID.",
-  "onfido_verify_identity_description_3": "PLZ_COPY 📇 Onfido automatically scans and verifies your ID, instantly!",
+  "onfido_verify_identity_description_3": "📇 Onfido automatically scans and verifies your ID, instantly!",
   "onfido_verify_identity_approve_desc": "I approve Onfido's user terms and privacy policy",
   "accept_terms_title": "Accept terms",
   "kyc_user_terms_link_title": "User terms",
