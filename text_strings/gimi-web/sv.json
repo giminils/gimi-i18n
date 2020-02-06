@@ -823,5 +823,16 @@
   "ui.steps.step3": "Steg 3:",
   "pages.over18.card.mastercard.title": "Trygghet och säkerhet",
   "pages.over18.card.mastercard.body": "Gimi står under Finansinspektionens tillsyn och agerar som leverantör av kontoinformationstjänster. Gimi-kortet ges ut i samarbete med Mastercard och brittiska Prepaid Financial Services.",
-  "faq.zero.questions": "(0 frågor)"
+  "faq.zero.questions": "(0 frågor)",
+  "pages.influencers.title": "Vill du samarbeta med Gimi?",
+  "pages.influencers.subtitle": "Kul! Läs mer här under.",
+  "pages.influencers.block1.title": "Information om influencersamarbeten",
+  "pages.influencers.block1.text1": "Vad kul att du gillar Gimi! För att samarbeta med Gimi behöver du:",
+  "pages.influencers.block1.list.item1": "☑️ Minst 1000 följare på Tiktok, Instagram eller Youtube.",
+  "pages.influencers.block1.list.item2": "☑️ 500 personer som gillar varje inlägg.",
+  "pages.influencers.block1.list.item3": "☑️ Öppet konto.",
+  "pages.influencers.block1.list.item4": "☑️ Godkännande från dina föräldrar att du samarbetar.",
+  "pages.influencers.block1.text2": "Mejla oss på collab@gimitheapp.com och berätta mer om dig och din kanal.",
+  "ui.buttons.sendmail": "Skicka email",
+  "pages.influencers.email.subject": "Samarbete med Gimi"
 }

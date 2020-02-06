@@ -823,5 +823,16 @@
   "ui.steps.step3": "PLZ_TRANSLATE Step 3:",
   "pages.over18.card.mastercard.title": "PLZ_TRANSLATE Safe and secure",
   "pages.over18.card.mastercard.body": "PLZ_TRANSLATE Gimi is regulated by Finansinspektionen, Sweden's financial supervisory authority, and acts as Account Information Service Provider. The card is issued in cooperation with Mastercard® and Prepaid Financial Services Limited in the UK.",
-  "faq.zero.questions": "PLZ_TRANSLATE (0 questions)"
+  "faq.zero.questions": "PLZ_TRANSLATE (0 questions)",
+  "pages.influencers.title": "PLZ_TRANSLATE Want to collaborate with Gimi?",
+  "pages.influencers.subtitle": "PLZ_TRANSLATE Nice! Read more below.",
+  "pages.influencers.block1.title": "PLZ_TRANSLATE Information about the influencer collaboration",
+  "pages.influencers.block1.text1": "PLZ_TRANSLATE How nice that you like Gimi! To collaborate with Gimi you need:",
+  "pages.influencers.block1.list.item1": "PLZ_TRANSLATE ☑️ Atleast 1000 followers on Tiktok, Instagram or Youtube.",
+  "pages.influencers.block1.list.item2": "PLZ_TRANSLATE ☑️ 500 people that likes every post.",
+  "pages.influencers.block1.list.item3": "PLZ_TRANSLATE ☑️ Open account.",
+  "pages.influencers.block1.list.item4": "PLZ_TRANSLATE ☑️ Approval from a parent that you are collaborating.",
+  "pages.influencers.block1.text2": "PLZ_TRANSLATE Send us a email at collab@gimitheapp.com and tell us more about yourself and your channel.",
+  "ui.buttons.sendmail": "PLZ_TRANSLATE Send email",
+  "pages.influencers.email.subject": "PLZ_TRANSLATE Collaboration with Gimi"
 }
