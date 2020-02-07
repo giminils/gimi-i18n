@@ -2955,7 +2955,7 @@
   "spar_editor_title": "Kontrolliere die Adresse",
   "spar_editor_subtitle": "...und aktualisire sie falls nötig. Aber wir versenden nur nach Schweden!",
   "parent_premium_expires_soon_flash_card_title": "Dein Abonnement läuft bald ab",
-  "parent_premium_expires_soon_flash_card_text": "Die Auto-Erneuerung ist aus. Schalte sie wieder ein, damit die Gimi Card aktiv bleibt.",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_TRANSLATE Turn on automatic renewal to keep the Gimi card active.",
   "parent_premium_feature_custom_note": "PLZ_TRANSLATE New Gimi Master feature",
   "general_new_premium_feature": "PLZ_TRANSLATE New Gimi Master feature",
   "kid_premium_feature_custom_note": "PLZ_TRANSLATE New Gimi Master feature",

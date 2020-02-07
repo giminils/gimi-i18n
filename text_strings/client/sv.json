@@ -2955,7 +2955,7 @@
   "spar_editor_title": "Kolla adressen",
   "spar_editor_subtitle": "...och uppdatera om det behövs. Vi kan bara skicka till adresser i Sverige!",
   "parent_premium_expires_soon_flash_card_title": "Din prenumeration går ut snart",
-  "parent_premium_expires_soon_flash_card_text": "Automatisk förnyelse är avstängd. Sätt på det om du vill fortsätta använda Gimi Master och Gimi-kortet.",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_CHECK Turn on automatic renewal to keep the Gimi card active.",
   "parent_premium_feature_custom_note": "Ny Gimi Master-funktion",
   "general_new_premium_feature": "Ny Gimi Master-funktion",
   "kid_premium_feature_custom_note": "Ny Gimi Master-funktion",

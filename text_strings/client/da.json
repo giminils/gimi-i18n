@@ -2955,7 +2955,7 @@
   "spar_editor_title": "Tjek adressen",
   "spar_editor_subtitle": "...og opdater hvis der er brug for det. Men vi sender kun til Sverige!",
   "parent_premium_expires_soon_flash_card_title": "Dit abonnement udløber snart",
-  "parent_premium_expires_soon_flash_card_text": "Auto-fornyelse er valgt fra. Vælg det til igen for at holde Gimi-kortet aktivt.",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_TRANSLATE Turn on automatic renewal to keep the Gimi card active.",
   "parent_premium_feature_custom_note": "PLZ_TRANSLATE New Gimi Master feature",
   "general_new_premium_feature": "PLZ_TRANSLATE New Gimi Master feature",
   "kid_premium_feature_custom_note": "PLZ_TRANSLATE New Gimi Master feature",

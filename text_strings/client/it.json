@@ -2955,7 +2955,7 @@
   "spar_editor_title": "Controlla l'indirizzo",
   "spar_editor_subtitle": "...e aggiornalo se necessario. Ma spediamo solo in Svezia!",
   "parent_premium_expires_soon_flash_card_title": "Il tuo abbonamento scadrà a breve",
-  "parent_premium_expires_soon_flash_card_text": "L'auto-rinnovo è disattivato. Riattivalo per mantenere la carta Gimi attiva.",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_TRANSLATE Turn on automatic renewal to keep the Gimi card active.",
   "parent_premium_feature_custom_note": "PLZ_TRANSLATE New Gimi Master feature",
   "general_new_premium_feature": "PLZ_TRANSLATE New Gimi Master feature",
   "kid_premium_feature_custom_note": "PLZ_TRANSLATE New Gimi Master feature",

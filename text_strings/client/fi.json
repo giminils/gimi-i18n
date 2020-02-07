@@ -2955,7 +2955,7 @@
   "spar_editor_title": "Tarkista osoite",
   "spar_editor_subtitle": "...ja päivitä se tarvittaessa. Lähetämme vain Ruotsiin!",
   "parent_premium_expires_soon_flash_card_title": "Tilauksesi päättyy pian",
-  "parent_premium_expires_soon_flash_card_text": "Tilaus ei uusiudu automaattisesti. Laita se päälle, niin Gimi-korttisi pysyy aktiivisena.",
+  "parent_premium_expires_soon_flash_card_text": "PLZ_TRANSLATE Turn on automatic renewal to keep the Gimi card active.",
   "parent_premium_feature_custom_note": "Gimin uusi pääominaisuus",
   "general_new_premium_feature": "Gimin uusi pääominaisuus",
   "kid_premium_feature_custom_note": "Gimin uusi pääominaisuus",
