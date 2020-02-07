@@ -2981,5 +2981,6 @@
   "qr_success_confirmation_message": "Connection created!",
   "chore_tab_to_be_done": "To be done",
   "chore_tab_pending": "Pending",
-  "chore_tab_archive": "Archive"
+  "chore_tab_archive": "Archive",
+  "cloud_insertion_from_supporter": "Added by supporter"
 }
