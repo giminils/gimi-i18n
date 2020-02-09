@@ -2982,5 +2982,6 @@
   "chore_tab_to_be_done": "To be done",
   "chore_tab_pending": "Pending",
   "chore_tab_archive": "Archive",
-  "cloud_insertion_from_supporter": "Added by supporter"
+  "cloud_insertion_from_supporter": "Added by supporter",
+  "pending_connection_row_right_disclaimer": "Accept or deny"
 }

@@ -2982,5 +2982,6 @@
   "chore_tab_to_be_done": "PLZ_TRANSLATE To be done",
   "chore_tab_pending": "PLZ_TRANSLATE Pending",
   "chore_tab_archive": "PLZ_TRANSLATE Archive",
-  "cloud_insertion_from_supporter": "PLZ_TRANSLATE Added by supporter"
+  "cloud_insertion_from_supporter": "PLZ_TRANSLATE Added by supporter",
+  "pending_connection_row_right_disclaimer": "PLZ_TRANSLATE Accept or deny"
 }
