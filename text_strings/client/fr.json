@@ -2983,5 +2983,11 @@
   "chore_tab_pending": "PLZ_TRANSLATE Pending",
   "chore_tab_archive": "PLZ_TRANSLATE Archive",
   "cloud_insertion_from_supporter": "PLZ_TRANSLATE Added by supporter",
-  "pending_connection_row_right_disclaimer": "PLZ_TRANSLATE Accept or deny"
+  "pending_connection_row_right_disclaimer": "PLZ_TRANSLATE Accept or deny",
+  "not_main_parent_premium_intro_title_section_1": "PLZ_TRANSLATE Savings got an upgrade",
+  "not_main_parent_premium_intro_text_section_1": "PLZ_TRANSLATE It's all about real money now! The card is for spending, savings account is for saving.",
+  "not_main_parent_premium_intro_title_section_2": "PLZ_TRANSLATE Add your card",
+  "not_main_parent_premium_intro_text_section_2": "PLZ_TRANSLATE Payday and other deposits are simple and instant, just make sure to add the card you want to pay with in settings.",
+  "not_main_parent_premium_intro_title_section_3": "PLZ_TRANSLATE Settle your debt",
+  "not_main_parent_premium_intro_text_section_3": "PLZ_TRANSLATE Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters"
 }
