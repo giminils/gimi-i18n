@@ -2989,5 +2989,7 @@
   "not_main_parent_premium_intro_title_section_2": "PLZ_CHECK Add your card",
   "not_main_parent_premium_intro_text_section_2": "PLZ_CHECK Payday and other deposits are simple and instant, just make sure to add the card you want to pay with in settings.",
   "not_main_parent_premium_intro_title_section_3": "PLZ_CHECK Settle your debt",
-  "not_main_parent_premium_intro_text_section_3": "PLZ_CHECK Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters"
+  "not_main_parent_premium_intro_text_section_3": "PLZ_CHECK Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters",
+  "general_see_subs": "PLZ_CHECK See subscriptions",
+  "invite_kid_to_buy_sub": "PLZ_CHECK Tou dont have a child yet! \nInvite someone and come back."
 }
