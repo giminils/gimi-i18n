@@ -2977,6 +2977,7 @@
   "why_kid_needs_phone_for_premium_text": "PLZ_TRANSLATE A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
   "kid_profile_more_coming_soon": "PLZ_TRANSLATE More features coming here soon!",
   "invite_already_sent": "PLZ_TRANSLATE Invite has been already sent",
+  "invite_already_sent_desc": "PLZ_TRANSLATE You have already send invitation to this phone number please wait for the user to accept or reject it.",
   "cloud_withdraw_by_supporter": "PLZ_TRANSLATE Deducted by a supporter",
   "qr_success_confirmation_message": "PLZ_TRANSLATE Connection created!",
   "chore_tab_to_be_done": "PLZ_TRANSLATE To be done",

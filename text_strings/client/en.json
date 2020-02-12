@@ -2977,6 +2977,7 @@
   "why_kid_needs_phone_for_premium_text": "A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
   "kid_profile_more_coming_soon": "More features coming here soon!",
   "invite_already_sent": "Invite has been already sent",
+  "invite_already_sent_desc": "You have already send invitation to this phone number please wait for the user to accept or reject it.",
   "cloud_withdraw_by_supporter": "Deducted by a supporter",
   "qr_success_confirmation_message": "Connection created!",
   "chore_tab_to_be_done": "To be done",

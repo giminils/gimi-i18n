@@ -2977,6 +2977,7 @@
   "why_kid_needs_phone_for_premium_text": "Puhelinnumero on pakollinen, jotta käyttäjätili ja rahat ovat turvassa 2-vaiheisen autentikoinnin avulla.",
   "kid_profile_more_coming_soon": "Uusia ominaisuuksia tulossa pian!",
   "invite_already_sent": "Kutsu on jo lähetetty",
+  "invite_already_sent_desc": "PLZ_TRANSLATE You have already send invitation to this phone number please wait for the user to accept or reject it.",
   "cloud_withdraw_by_supporter": "Tukijan nosto",
   "qr_success_confirmation_message": "Kontakti on nyt yhdistetty!",
   "chore_tab_to_be_done": "Tekemättä",
