@@ -152,7 +152,7 @@
   "push_not_paid_premium_subscription": "We couldn’t process your payment.",
   "push_not_paid_premium_subscription_app": "We couldn’t process your payment.",
   "event_reminder_of_premium_payment": "Reminder to pay your subscription or the card will be blocked!",
-  "event_subscription_not_paid_card_will_blocked": "YWe have not been able to process your subscription payment, card will be blocked tomorrow!",
+  "event_subscription_not_paid_card_will_blocked": "We have not been able to process your subscription payment, card will be blocked tomorrow!",
   "push_subscription_not_paid_card_will_blocked": "We have not been able to process your subscription payment, card will be blocked tomorrow!",
   "event_subscription_not_paid_card_blocked": "Your subscription has not been paid, the Gimi card has been blocked.",
   "event_card_has_arrived": "You know you can activate your Gimi card now?",
