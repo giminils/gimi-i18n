@@ -2366,7 +2366,7 @@
   "general_go_to_chore": "Go to chore",
   "general_day": "day",
   "cant_update_currency_too_many_kids_popover_title": "Can't update currency",
-  "cant_update_currency_too_many_kids_popover_text": "Sorry but currently we dont allow to update currency if you have more than 1 child",
+  "cant_update_currency_too_many_kids_popover_text": "Sorry but currently we don't allow to update currency if you have more than 1 child",
   "card_successfully_added_confirmation_message": "Card successfully added!",
   "passcode_added_confirmation_title": "Done!",
   "passcode_added_confirmation_desc": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
