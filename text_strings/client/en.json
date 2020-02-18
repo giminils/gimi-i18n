@@ -2993,5 +2993,7 @@
   "not_main_parent_premium_intro_text_section_3": "Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters",
   "general_see_subs": "See subscriptions",
   "invite_kid_to_buy_sub": "Tou dont have a child yet! \nInvite someone and come back.",
-  "invalid_phone_no_err_box": "Please check your phone number!"
+  "invalid_phone_no_err_box": "Please check your phone number!",
+  "save_dream_btn": "Save as dream",
+  "save_wish_btn": "Save as wish"
 }

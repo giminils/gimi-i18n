@@ -2993,5 +2993,7 @@
   "not_main_parent_premium_intro_text_section_3": "PLZ_CHECK Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters",
   "general_see_subs": "Se priser",
   "invite_kid_to_buy_sub": "Du har inget barn än! \nBjud in någon och kom tillbaka.",
-  "invalid_phone_no_err_box": "Dubbelkolla ditt telefonnummer!"
+  "invalid_phone_no_err_box": "Dubbelkolla ditt telefonnummer!",
+  "save_dream_btn": "PLZ_CHECK Save as dream",
+  "save_wish_btn": "PLZ_CHECK Save as wish"
 }

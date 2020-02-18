@@ -2993,5 +2993,7 @@
   "not_main_parent_premium_intro_text_section_3": "¿Tiene ahorros %1$d? Conviértelos en dinero real con un depósito y no te olvides de recordárselo al resto de colaboradores.",
   "general_see_subs": "Ver subscripciones",
   "invite_kid_to_buy_sub": "Todavía no has añadido a ningún niño. ¡\nInvita a alguien'.",
-  "invalid_phone_no_err_box": "Por favor, comprueba tu teléfono."
+  "invalid_phone_no_err_box": "Por favor, comprueba tu teléfono.",
+  "save_dream_btn": "PLZ_TRANSLATE Save as dream",
+  "save_wish_btn": "PLZ_TRANSLATE Save as wish"
 }
