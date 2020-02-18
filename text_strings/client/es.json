@@ -2966,7 +2966,7 @@
   "connection_rejected": "Conexión rechazada.",
   "contact_not_added": "El contacto no se ha añadido.",
   "added_craving_without_parent_takeover_title": "¡Tu deseo se ha añadido!",
-  "see_subscriptions": "Ver subscripciones",
+  "see_subscriptions": "PLZ_TRANSLATE View prices",
   "parent_choose_pin_code_subtitle": "Por seguridad, necesitas un código para la aplicación.",
   "kid_choose_pin_code_subtitle": "Este es el código para la app. El PIN de la tarjeta es distinto.",
   "allowance_average_is_n_for_age": "La media es %1$d para la edad de %2$d",

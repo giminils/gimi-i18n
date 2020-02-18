@@ -2966,7 +2966,7 @@
   "connection_rejected": "Ihopkopplingen avvisades",
   "contact_not_added": "Kontakten lades inte till.",
   "added_craving_without_parent_takeover_title": "Din önskning har lagts till!",
-  "see_subscriptions": "Se prenumerationer",
+  "see_subscriptions": "PLZ_CHECK View prices",
   "parent_choose_pin_code_subtitle": "Du behöver en appkod för att hålla Gimi-appen säker",
   "kid_choose_pin_code_subtitle": "Det här är koden till Gimi-appen. PIN-koden till kortet är annorlunda.",
   "allowance_average_is_n_for_age": "Genomsnittet för ålder %2$d är %1$d ",

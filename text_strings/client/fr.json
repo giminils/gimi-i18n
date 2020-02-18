@@ -2966,7 +2966,7 @@
   "connection_rejected": "Connection rejetée",
   "contact_not_added": "Le contact n'a pas été ajouté.",
   "added_craving_without_parent_takeover_title": "Votre souhait est ajouté!",
-  "see_subscriptions": "Voir les abonnements",
+  "see_subscriptions": "PLZ_TRANSLATE View prices",
   "parent_choose_pin_code_subtitle": "Vous avez besoin d'un mot de passe pour protéger votre application Gimi",
   "kid_choose_pin_code_subtitle": "Ce sera le code de votre application Gimi. Le code PIN de votre carte est différent.",
   "allowance_average_is_n_for_age": "La moyenne est de %1$d pour un âge de %2$d",

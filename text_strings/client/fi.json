@@ -2966,7 +2966,7 @@
   "connection_rejected": "Yhteys hylätty",
   "contact_not_added": "Yhteystiedon lisäys epäonnistui.",
   "added_craving_without_parent_takeover_title": "Toive lisätty!",
-  "see_subscriptions": "Katso tilaukset",
+  "see_subscriptions": "PLZ_TRANSLATE View prices",
   "parent_choose_pin_code_subtitle": "Tarvitset PIN-koodin Gimi-sovelluksen suojaamista varten",
   "kid_choose_pin_code_subtitle": "Tämä on Gimi-sovelluksen PIN-koodi. Korttisi PIN-koodi on erilainen.",
   "allowance_average_is_n_for_age": "Keskiarvo iälle %2$d on %1$d",

@@ -2966,7 +2966,7 @@
   "connection_rejected": "Forbindelse afvist",
   "contact_not_added": "Kontakten blev ikke tilføjet.",
   "added_craving_without_parent_takeover_title": "Dit ønske er blevet tilføjet!",
-  "see_subscriptions": "Se abonnementer",
+  "see_subscriptions": "PLZ_TRANSLATE View prices",
   "parent_choose_pin_code_subtitle": "Du skal bruge en kode til at holde din Gimi app sikker",
   "kid_choose_pin_code_subtitle": "Dette vil blive koden til din Gimi app. Din PIN-kode er noget andet.",
   "allowance_average_is_n_for_age": "PLZ_TRANSLATE Average is %1$d for age %2$d",
