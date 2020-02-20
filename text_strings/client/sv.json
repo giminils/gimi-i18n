@@ -2985,15 +2985,15 @@
   "chore_tab_archive": "Utförda",
   "cloud_insertion_from_supporter": "Från supporter",
   "pending_connection_row_right_disclaimer": "Acceptera eller avslå",
-  "not_main_parent_premium_intro_title_section_1": "PLZ_CHECK Savings got an upgrade",
-  "not_main_parent_premium_intro_text_section_1": "PLZ_CHECK It's all about real money now! The card is for spending, savings account is for saving.",
-  "not_main_parent_premium_intro_title_section_2": "PLZ_CHECK Add your card",
-  "not_main_parent_premium_intro_text_section_2": "PLZ_CHECK Payday and other deposits are simple and instant, just make sure to add the card you want to pay with in settings.",
-  "not_main_parent_premium_intro_title_section_3": "PLZ_CHECK Settle your debt",
-  "not_main_parent_premium_intro_text_section_3": "PLZ_CHECK Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters",
+  "not_main_parent_premium_intro_title_section_1": "Spargrisen har blivit uppgraderad",
+  "not_main_parent_premium_intro_text_section_1": "Nu går ni över till riktiga pengar! Barnet handlar för det som finns i Kort, och sparar i Konto.",
+  "not_main_parent_premium_intro_title_section_2": "Lägg till ditt kort",
+  "not_main_parent_premium_intro_text_section_2": "Payday och andra överföringar görs enkelt och sker direkt, se bara till att lägga till det kort du vill föra över från i inställningar.",
+  "not_main_parent_premium_intro_title_section_3": "Betala skulden",
+  "not_main_parent_premium_intro_text_section_3": "Hade %1$d pengar i spargrisen? Omvandla dem till riktiga pengar med en överföring, och glöm inte att påminna andra supporters",
   "general_see_subs": "Se priser",
   "invite_kid_to_buy_sub": "Du har inget barn än! \nBjud in någon och kom tillbaka.",
   "invalid_phone_no_err_box": "Dubbelkolla ditt telefonnummer!",
-  "save_dream_btn": "PLZ_CHECK Save as dream",
-  "save_wish_btn": "PLZ_CHECK Save as wish"
+  "save_dream_btn": "Spara som dröm",
+  "save_wish_btn": "Spara som önskning"
 }
