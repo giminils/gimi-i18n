@@ -2284,7 +2284,7 @@
   "order_card_start_here": "Aloita tästä!",
   "lysa_account_title": "Lysa-tili",
   "order_card_kyc_failed": "Yritä uudelleen!",
-  "expense_empty_state_text_kid": "Ei kuluja",
+  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses this Payday ✨",
   "locked_until_subscription_is_paid": "%1$d on lukittu kunnes Master-tilaus on maksettu",
   "supporters_list_you_owe_money": "Ohhoh, olet velkaa",
   "supporters_list_name_owes_money": "Ohhoh, %1$d on sinulle velkaa",

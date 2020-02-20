@@ -2284,7 +2284,7 @@
   "order_card_start_here": "Begin hier!",
   "lysa_account_title": "Lysa rekening",
   "order_card_kyc_failed": "Probeer opnieuw!",
-  "expense_empty_state_text_kid": "Geen kosten",
+  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses this Payday ✨",
   "locked_until_subscription_is_paid": "%1$d is afgesloten totdat het Master abonnement is betaald",
   "supporters_list_you_owe_money": "Euh oh, je hebt schulden",
   "supporters_list_name_owes_money": "Euh oh, %1$d heeft schulden",

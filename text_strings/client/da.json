@@ -2284,7 +2284,7 @@
   "order_card_start_here": "Start her!",
   "lysa_account_title": "Lysa konto",
   "order_card_kyc_failed": "Prøv igen!",
-  "expense_empty_state_text_kid": "Ingen udgifter",
+  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses this Payday ✨",
   "locked_until_subscription_is_paid": "%1$d er låst indtil Master abonnemenetet er blevet betalt",
   "supporters_list_you_owe_money": "Hov, du skylder penge",
   "supporters_list_name_owes_money": "Hov, %1$d skylder penge",

@@ -2284,7 +2284,7 @@
   "order_card_start_here": "Inizia qui!",
   "lysa_account_title": "Account Lysa",
   "order_card_kyc_failed": "Prova di nuovo!",
-  "expense_empty_state_text_kid": "Nessuna spesa",
+  "expense_empty_state_text_kid": "PLZ_TRANSLATE No expenses this Payday ✨",
   "locked_until_subscription_is_paid": "%1$d è bloccato finche l'abbonamento Master non verrà pagato",
   "supporters_list_you_owe_money": "Uh oh, devi dei soldi",
   "supporters_list_name_owes_money": "Uh oh, %1$d deve dei soldi",

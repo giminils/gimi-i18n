@@ -2284,7 +2284,7 @@
   "order_card_start_here": "Börja här!",
   "lysa_account_title": "Lysa-konto",
   "order_card_kyc_failed": "Försök igen!",
-  "expense_empty_state_text_kid": "Inga utlägg",
+  "expense_empty_state_text_kid": "PLZ_CHECK No expenses this Payday ✨",
   "locked_until_subscription_is_paid": "%1$d är låst tills att Gimi Master har betalats",
   "supporters_list_you_owe_money": "Åh nej, du är skyldig pengar",
   "supporters_list_name_owes_money": "Oj... %1$d är skyldig pengar",
