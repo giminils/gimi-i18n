@@ -1863,7 +1863,7 @@
   "kid_pay_online_card_details": "Dina kortuppgifter",
   "card_blocked_warning": "Du kan inte betala online för ditt kort är låst!",
   "card_is_on_its_way": "Klart! Kortet är på väg till dig!",
-  "parent_create_chore_action_title": "Du skaparade precis en uppgift!👏",
+  "parent_create_chore_action_title": "Du skapade precis en uppgift!👏",
   "parent_create_chore_action_desc": "Vi kommer påminna %1$d!",
   "general_delete_conection": "Ta bort koppling",
   "parentrelation_overview_for_parent_subtitle": "Inställningar för %1$d",
