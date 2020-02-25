@@ -2997,5 +2997,6 @@
   "save_dream_btn": "Save as dream",
   "save_wish_btn": "Save as wish",
   "per_month": "/month",
-  "per_year": "/year"
+  "per_year": "/year",
+  "not_payd_yet": "Not yet paid"
 }

@@ -2997,5 +2997,6 @@
   "save_dream_btn": "PLZ_TRANSLATE Save as dream",
   "save_wish_btn": "PLZ_TRANSLATE Save as wish",
   "per_month": "PLZ_TRANSLATE /month",
-  "per_year": "PLZ_TRANSLATE /year"
+  "per_year": "PLZ_TRANSLATE /year",
+  "not_payd_yet": "PLZ_TRANSLATE Not yet paid"
 }

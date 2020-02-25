@@ -2997,5 +2997,6 @@
   "save_dream_btn": "Spara som dröm",
   "save_wish_btn": "Spara som önskning",
   "per_month": "PLZ_CHECK /month",
-  "per_year": "PLZ_CHECK /year"
+  "per_year": "PLZ_CHECK /year",
+  "not_payd_yet": "PLZ_CHECK Not yet paid"
 }
