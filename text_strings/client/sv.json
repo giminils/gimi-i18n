@@ -2995,5 +2995,7 @@
   "invite_kid_to_buy_sub": "Du har inget barn än! \nBjud in någon och kom tillbaka.",
   "invalid_phone_no_err_box": "Dubbelkolla ditt telefonnummer!",
   "save_dream_btn": "Spara som dröm",
-  "save_wish_btn": "Spara som önskning"
+  "save_wish_btn": "Spara som önskning",
+  "per_month": "PLZ_CHECK /month",
+  "per_year": "PLZ_CHECK /year"
 }

@@ -2995,5 +2995,7 @@
   "invite_kid_to_buy_sub": "Todavía no has añadido a ningún niño. ¡\nInvita a alguien'.",
   "invalid_phone_no_err_box": "Por favor, comprueba tu teléfono.",
   "save_dream_btn": "PLZ_TRANSLATE Save as dream",
-  "save_wish_btn": "PLZ_TRANSLATE Save as wish"
+  "save_wish_btn": "PLZ_TRANSLATE Save as wish",
+  "per_month": "PLZ_TRANSLATE /month",
+  "per_year": "PLZ_TRANSLATE /year"
 }

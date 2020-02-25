@@ -2995,5 +2995,7 @@
   "invite_kid_to_buy_sub": "Tou dont have a child yet! \nInvite someone and come back.",
   "invalid_phone_no_err_box": "Please check your phone number!",
   "save_dream_btn": "Save as dream",
-  "save_wish_btn": "Save as wish"
+  "save_wish_btn": "Save as wish",
+  "per_month": "/month",
+  "per_year": "/year"
 }
