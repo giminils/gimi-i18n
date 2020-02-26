@@ -2999,5 +2999,6 @@
   "per_month": "/month",
   "per_year": "/year",
   "not_payd_yet": "Not yet paid",
-  "order_card_why_required": "Why is it required?"
+  "order_card_why_required": "Why is it required?",
+  "general_thank_you": "Thank you"
 }

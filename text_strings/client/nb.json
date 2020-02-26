@@ -2999,5 +2999,6 @@
   "per_month": "PLZ_TRANSLATE /month",
   "per_year": "PLZ_TRANSLATE /year",
   "not_payd_yet": "PLZ_TRANSLATE Not yet paid",
-  "order_card_why_required": "PLZ_TRANSLATE Why is it required?"
+  "order_card_why_required": "PLZ_TRANSLATE Why is it required?",
+  "general_thank_you": "PLZ_TRANSLATE Thank you"
 }
