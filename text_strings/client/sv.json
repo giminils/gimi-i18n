@@ -2998,5 +2998,6 @@
   "save_wish_btn": "Spara som önskning",
   "per_month": "PLZ_CHECK /month",
   "per_year": "PLZ_CHECK /year",
-  "not_payd_yet": "PLZ_CHECK Not yet paid"
+  "not_payd_yet": "PLZ_CHECK Not yet paid",
+  "order_card_why_required": "PLZ_CHECK Why is it required?"
 }
