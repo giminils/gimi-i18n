@@ -3000,5 +3000,6 @@
   "per_year": "PLZ_CHECK /year",
   "not_payd_yet": "PLZ_CHECK Not yet paid",
   "order_card_why_required": "PLZ_CHECK Why is it required?",
-  "general_thank_you": "PLZ_CHECK Thank you"
+  "general_thank_you": "PLZ_CHECK Thank you",
+  "general_support_gimi": "PLZ_CHECK Support Gimi!"
 }
