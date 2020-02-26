@@ -3024,5 +3024,11 @@
   "kid_card_request_takeover_sellings_point_2_text": "PLZ_TRANSLATE Selling point 2 text",
   "kid_card_request_takeover_sellings_point_3_title": "PLZ_TRANSLATE Selling point 3 title",
   "kid_card_request_takeover_sellings_point_3_text": "PLZ_TRANSLATE Selling point 3 text",
-  "kid_card_request_takeover_button": "PLZ_TRANSLATE Yes, request"
+  "kid_card_request_takeover_button": "PLZ_TRANSLATE Yes, request",
+  "parent_card_request_takeover_title": "PLZ_TRANSLATE %1$d wants the Gimi card!",
+  "parent_card_request_takeover_subtitle": "PLZ_TRANSLATE Is %1$d ready for real money?",
+  "parent_card_request_takeover_sellings_point_1_text": "PLZ_TRANSLATE Buy subscription. First month is free!",
+  "parent_card_request_takeover_sellings_point_2_text": "PLZ_TRANSLATE Order card in less than 2 minutes.",
+  "parent_card_request_takeover_sellings_point_3_text": "PLZ_TRANSLATE Transfer money to %1$d right away!",
+  "parent_card_request_takeover_button": "PLZ_TRANSLATE Read more & order"
 }

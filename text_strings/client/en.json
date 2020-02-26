@@ -3024,5 +3024,11 @@
   "kid_card_request_takeover_sellings_point_2_text": "Selling point 2 text",
   "kid_card_request_takeover_sellings_point_3_title": "Selling point 3 title",
   "kid_card_request_takeover_sellings_point_3_text": "Selling point 3 text",
-  "kid_card_request_takeover_button": "Yes, request"
+  "kid_card_request_takeover_button": "Yes, request",
+  "parent_card_request_takeover_title": "%1$d wants the Gimi card!",
+  "parent_card_request_takeover_subtitle": "Is %1$d ready for real money?",
+  "parent_card_request_takeover_sellings_point_1_text": "Buy subscription. First month is free!",
+  "parent_card_request_takeover_sellings_point_2_text": "Order card in less than 2 minutes.",
+  "parent_card_request_takeover_sellings_point_3_text": "Transfer money to %1$d right away!",
+  "parent_card_request_takeover_button": "Read more & order"
 }
