@@ -3031,5 +3031,6 @@
   "parent_card_request_takeover_sellings_point_1_text": "PLZ_CHECK Buy subscription. First month is free!",
   "parent_card_request_takeover_sellings_point_2_text": "PLZ_CHECK Order card in less than 2 minutes.",
   "parent_card_request_takeover_sellings_point_3_text": "PLZ_CHECK Transfer money to %1$d right away!",
-  "parent_card_request_takeover_button": "PLZ_CHECK Read more & order"
+  "parent_card_request_takeover_button": "PLZ_CHECK Read more & order",
+  "general_change": "PLZ_CHECK Change"
 }
