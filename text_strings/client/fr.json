@@ -3032,5 +3032,12 @@
   "parent_card_request_takeover_sellings_point_2_text": "PLZ_TRANSLATE Order card in less than 2 minutes.",
   "parent_card_request_takeover_sellings_point_3_text": "PLZ_TRANSLATE Transfer money to %1$d right away!",
   "parent_card_request_takeover_button": "PLZ_TRANSLATE Read more & order",
-  "general_change": "PLZ_TRANSLATE Change"
+  "general_change": "PLZ_TRANSLATE Change",
+  "support_gimi_title": "PLZ_TRANSLATE Want to support Gimi?",
+  "support_gimi_text_1": "PLZ_TRANSLATE 💚 Gimi is not a bank, we are a small team of 20 people in Stockholm",
+  "support_gimi_text_2": "PLZ_TRANSLATE 💰 Our revenues come from users, we don’t sell your data or show you ads",
+  "support_gimi_text_3": "PLZ_TRANSLATE 🌈 Support us on our mission to equip children with financial superskills!",
+  "support_gimi_you_choose_amount": "PLZ_TRANSLATE You choose how much!",
+  "support_gimi_button": "PLZ_TRANSLATE Support Gimi with one click",
+  "dont_support_gimi_button": "PLZ_TRANSLATE I don’t want to support Gimi"
 }

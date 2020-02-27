@@ -3032,5 +3032,12 @@
   "parent_card_request_takeover_sellings_point_2_text": "Order card in less than 2 minutes.",
   "parent_card_request_takeover_sellings_point_3_text": "Transfer money to %1$d right away!",
   "parent_card_request_takeover_button": "Read more & order",
-  "general_change": "Change"
+  "general_change": "Change",
+  "support_gimi_title": "Want to support Gimi?",
+  "support_gimi_text_1": "💚 Gimi is not a bank, we are a small team of 20 people in Stockholm",
+  "support_gimi_text_2": "💰 Our revenues come from users, we don’t sell your data or show you ads",
+  "support_gimi_text_3": "🌈 Support us on our mission to equip children with financial superskills!",
+  "support_gimi_you_choose_amount": "You choose how much!",
+  "support_gimi_button": "Support Gimi with one click",
+  "dont_support_gimi_button": "I don’t want to support Gimi"
 }
