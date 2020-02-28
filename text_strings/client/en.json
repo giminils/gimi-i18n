@@ -3039,5 +3039,9 @@
   "support_gimi_text_3": "🌈 Support us on our mission to equip children with financial superskills!",
   "support_gimi_you_choose_amount": "You choose how much!",
   "support_gimi_button": "Support Gimi with one click",
-  "dont_support_gimi_button": "I don’t want to support Gimi"
+  "dont_support_gimi_button": "I don’t want to support Gimi",
+  "x_of_10": "%1$d/10",
+  "general_correct_answers": "Correct answers",
+  "kid_card_test_success": "You nailed the card test! 🎉",
+  "kid_card_test_fail": "You failed the card test... ☹️"
 }
