@@ -1956,9 +1956,9 @@
   "no_parent_no_chores_title": "Åh nej... Du har inga supporters än...",
   "no_parent_no_chores_desc": "Du kan inte börja göra uppgifter och tjäna pengar innan du har kopplat ihop med supporters som betalar dig. ",
   "signup_kid_user_type_title": "Jag är barn!",
-  "signup_kid_user_type_subtitle": "PLZ_CHECK 🤑 Earn\n\n🌈 Dream\n\n🛍 Spend",
-  "signup_parent_user_type_title": "PLZ_CHECK Parent or supporter",
-  "signup_parent_user_type_subtitle": "PLZ_CHECK 💰 Manage money\n\n🎓 Educate\n\n💳 Get Gimi card ",
+  "signup_kid_user_type_subtitle": "🤑 Tjäna\n\n🌈 Spara\n\n🛍 Spendera",
+  "signup_parent_user_type_title": "Förälder eller supporter",
+  "signup_parent_user_type_subtitle": "💰 Vecko/månadspeng\n\n🎓 Utbilda\n\n💳 Beställ Gimi-kortet ",
   "kid_card_set_as_number_button": "OK",
   "bank_not_working": "Funkar inte 😑",
   "skandia_broken_bank_popover_title": "BankID Skandia funkar tyvärr inte…",
@@ -3046,8 +3046,8 @@
   "kid_card_test_fail": "Du klarade inte korttestet ☹️",
   "parent_kid_card_test_success": "%1$d klarade korttestet! 🎉",
   "parent_kid_card_test_fail": "%1$d klarade inte korttestet ☹️",
-  "general_no_contacts_found": "PLZ_CHECK No contacts found",
-  "general_price_with_tag": "PLZ_CHECK Price 🏷️",
-  "kid_passed_card_test_share_title": "PLZ_CHECK I passed the card test 🎉",
-  "kid_failed_card_test_share_title": "PLZ_CHECK I failed the card test ☹️"
+  "general_no_contacts_found": "Inga kontakter hittades",
+  "general_price_with_tag": "Pris 🏷️",
+  "kid_passed_card_test_share_title": "Jag klarade korttestet! 🎉",
+  "kid_failed_card_test_share_title": "Jag klarade inte korttestet ☹️"
 }
