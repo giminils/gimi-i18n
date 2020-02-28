@@ -3045,5 +3045,6 @@
   "kid_card_test_success": "You nailed the card test! 🎉",
   "kid_card_test_fail": "You failed the card test... ☹️",
   "parent_kid_card_test_success": "%1$d nailed the card test! 🎉",
-  "parent_kid_card_test_fail": "%1$d failed the card test... ☹️"
+  "parent_kid_card_test_fail": "%1$d failed the card test... ☹️",
+  "general_no_contacts_found": "No contacts found"
 }
