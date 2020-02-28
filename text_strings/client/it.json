@@ -3047,5 +3047,7 @@
   "parent_kid_card_test_success": "PLZ_TRANSLATE %1$d nailed the card test! 🎉",
   "parent_kid_card_test_fail": "PLZ_TRANSLATE %1$d failed the card test... ☹️",
   "general_no_contacts_found": "PLZ_TRANSLATE No contacts found",
-  "general_price_with_tag": "PLZ_TRANSLATE Price 🏷️"
+  "general_price_with_tag": "PLZ_TRANSLATE Price 🏷️",
+  "kid_passed_card_test_share_title": "PLZ_TRANSLATE I passed the card test 🎉",
+  "kid_failed_card_test_share_title": "PLZ_TRANSLATE I failed the card test ☹️"
 }
