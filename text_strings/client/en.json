@@ -3052,5 +3052,6 @@
   "kid_failed_card_test_share_title": "I failed the card test ☹️",
   "general_chore_title": "Chore title",
   "card_valid_from": "Valid from",
-  "card_expires_end": "Expires end"
+  "card_expires_end": "Expires end",
+  "iap_could_not_bind_error": "Could not bind purchase, please contact support"
 }
