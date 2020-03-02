@@ -474,5 +474,7 @@
   "ADGEPU001_push_title": "⚡️La carte Gimi arrive en Norvège!",
   "ADGEON006_notification_title": "Prêt à commencer à utiliser Gimi avec de l'argent réel? Mettez à niveau et obtenez la carte Gimi! ✌️",
   "ADGEON006_push_title": "Mettez à niveau Gimi en argent réel 💳",
-  "login_email_subject_with_code": "{token.code} is your Gimi login code!"
+  "login_email_subject_with_code": "{token.code} is your Gimi login code!",
+  "ADPRON019_notification_title": "PLZ_TRANSLATE ID verification completed! Want to do your first transfer?",
+  "ADPRON019_push_title": "PLZ_TRANSLATE ID verification completed! Start sending money 💸"
 }
