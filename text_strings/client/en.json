@@ -3049,5 +3049,6 @@
   "general_no_contacts_found": "No contacts found",
   "general_price_with_tag": "Price 🏷️",
   "kid_passed_card_test_share_title": "I passed the card test 🎉",
-  "kid_failed_card_test_share_title": "I failed the card test ☹️"
+  "kid_failed_card_test_share_title": "I failed the card test ☹️",
+  "general_chore_title": "Chore title"
 }

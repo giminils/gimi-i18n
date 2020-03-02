@@ -3049,5 +3049,6 @@
   "general_no_contacts_found": "PLZ_TRANSLATE No contacts found",
   "general_price_with_tag": "PLZ_TRANSLATE Price 🏷️",
   "kid_passed_card_test_share_title": "PLZ_TRANSLATE I passed the card test 🎉",
-  "kid_failed_card_test_share_title": "PLZ_TRANSLATE I failed the card test ☹️"
+  "kid_failed_card_test_share_title": "PLZ_TRANSLATE I failed the card test ☹️",
+  "general_chore_title": "PLZ_TRANSLATE Chore title"
 }

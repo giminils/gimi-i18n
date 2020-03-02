@@ -3049,5 +3049,6 @@
   "general_no_contacts_found": "Inga kontakter hittades",
   "general_price_with_tag": "Pris 🏷️",
   "kid_passed_card_test_share_title": "Jag klarade korttestet! 🎉",
-  "kid_failed_card_test_share_title": "Jag klarade inte korttestet ☹️"
+  "kid_failed_card_test_share_title": "Jag klarade inte korttestet ☹️",
+  "general_chore_title": "Uppgfitsnamn"
 }
