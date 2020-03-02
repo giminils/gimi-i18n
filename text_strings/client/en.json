@@ -3050,5 +3050,7 @@
   "general_price_with_tag": "Price 🏷️",
   "kid_passed_card_test_share_title": "I passed the card test 🎉",
   "kid_failed_card_test_share_title": "I failed the card test ☹️",
-  "general_chore_title": "Chore title"
+  "general_chore_title": "Chore title",
+  "card_valid_from": "Valid from",
+  "card_expires_end": "Expires end"
 }

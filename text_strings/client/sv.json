@@ -3050,5 +3050,7 @@
   "general_price_with_tag": "Pris 🏷️",
   "kid_passed_card_test_share_title": "Jag klarade korttestet! 🎉",
   "kid_failed_card_test_share_title": "Jag klarade inte korttestet ☹️",
-  "general_chore_title": "Uppgfitsnamn"
+  "general_chore_title": "Uppgfitsnamn",
+  "card_valid_from": "PLZ_CHECK Valid from",
+  "card_expires_end": "PLZ_CHECK Expires end"
 }
