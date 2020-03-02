@@ -959,7 +959,7 @@
   "withdraw_child": "OK",
   "general_invite_child": "kutsu aikuinen",
   "general_invite_parent": "kutsu lapsi",
-  "max_characters": "Enintään %1$d merkkiä",
+  "max_characters": "PLZ_TRANSLATE Need more than %1$d characters? Add more content to the description later!",
   "chore_suggested_sent": "Ehdotus on luotu ja lähetetty hyväksymistä varten",
   "chore_suggestion_sent": "Ehdotuksesi %1$d on lähetetty henkilölle %2$d hyväksyttäväksi.",
   "general_redo": "Toista",

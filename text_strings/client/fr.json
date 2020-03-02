@@ -959,7 +959,7 @@
   "withdraw_child": "OK",
   "general_invite_child": "inviter un adulte",
   "general_invite_parent": "inviter un enfant",
-  "max_characters": "Pas plus de %1$d caractères",
+  "max_characters": "PLZ_TRANSLATE Need more than %1$d characters? Add more content to the description later!",
   "chore_suggested_sent": "La suggestion est créée et envoyée pour autorisation",
   "chore_suggestion_sent": "Votre suggestion de %1$d a été envoyé à %2$d pour approbation.",
   "general_redo": "Répétez",

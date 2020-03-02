@@ -959,7 +959,7 @@
   "withdraw_child": "OK",
   "general_invite_child": "nodig een volwassene uit",
   "general_invite_parent": "nodig een kind uit",
-  "max_characters": "Niet meer dan %1$d tekens",
+  "max_characters": "PLZ_TRANSLATE Need more than %1$d characters? Add more content to the description later!",
   "chore_suggested_sent": "De suggestie is gemaakt en ter goedkeuring verzonden",
   "chore_suggestion_sent": "Je suggestie voor %1$d is naar %2$d gestuurd voor toestemming.",
   "general_redo": "Opnieuw",

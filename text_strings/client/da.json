@@ -959,7 +959,7 @@
   "withdraw_child": "OK",
   "general_invite_child": "inviter en forældre",
   "general_invite_parent": "inviter dit barn",
-  "max_characters": "Ikke mere end %1$d karakterer",
+  "max_characters": "PLZ_TRANSLATE Need more than %1$d characters? Add more content to the description later!",
   "chore_suggested_sent": "Forslaget er oprettet og sendt til godkendelse",
   "chore_suggestion_sent": "dit forslag om %1$d er blevet sendt til %2$d til godkendelse.",
   "general_redo": "Gentag",
