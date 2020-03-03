@@ -13,6 +13,18 @@ import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import _default from './text_strings/client/default.json'
 
+// client_new_structure
+import svNewStructure from './text_strings/client_new_structure/sv.json'
+import enNewStructure from './text_strings/client_new_structure/en.json'
+import noNewStructure from './text_strings/client_new_structure/nb.json'
+import daNewStructure from './text_strings/client_new_structure/da.json'
+import frNewStructure from './text_strings/client_new_structure/fr.json'
+import nlNewStructure from './text_strings/client_new_structure/nl.json'
+import fiNewStructure from './text_strings/client_new_structure/fi.json'
+import itNewStructure from './text_strings/client_new_structure/it.json'
+import esNewStructure from './text_strings/client_new_structure/es.json'
+import deNewStructure from './text_strings/client_new_structure/de.json'
+
 // bot
 import svBot from './text_strings/bot/sv.json'
 import enBot from './text_strings/bot/en.json'
@@ -156,7 +168,7 @@ export const getTextStrings = (lang: string) => {
     case 'nn': return {..._default, ...no, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ} // norway
     case 'da': return {..._default, ...da, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ} // danish
     case 'fr': return {..._default, ...fr, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ} // france
-    case 'nl': return {..._default, ...nl, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // Netherlands
+    case 'nl': return {..._default, ...nl, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // netherlands
     case 'fi': return {..._default, ...fi, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ} // finish
     case 'it': return {..._default, ...it, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ} // italian
     case 'es': return {..._default, ...es, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ} // spanish
@@ -167,19 +179,19 @@ export const getTextStrings = (lang: string) => {
 
 export const getCalendarStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'da' : return {...defaultCalendar, ...daCalendar} // danish
-    case 'sv' : return {...defaultCalendar, ...svCalendar} // sweden
-    case 'nb' :
-    case 'nn' : return {...defaultCalendar, ...noCalendar} // norway
-    case 'fr' : return {...defaultCalendar, ...frCalendar} // france
-    case 'nl' : return {...defaultCalendar, ...nlCalendar} // Netherlands
-    case 'be' : return {...defaultCalendar, ...beCalendar} // belgian
-    case 'fi' : return {...defaultCalendar, ...fiCalendar} // finish
-    case 'it' : return {...defaultCalendar, ...itCalendar} // italian
-    case 'es' : return {...defaultCalendar, ...esCalendar} // spanish
-    case 'de' : return {...defaultCalendar, ...deCalendar} // german
-    case 'is' : return {...defaultCalendar, ...isCalendar} // island
-    case 'et' : return {...defaultCalendar, ...etCalendar} // Estonia
+    case 'da': return {...defaultCalendar, ...daCalendar} // danish
+    case 'sv': return {...defaultCalendar, ...svCalendar} // sweden
+    case 'nb':
+    case 'nn': return {...defaultCalendar, ...noCalendar} // norway
+    case 'fr': return {...defaultCalendar, ...frCalendar} // france
+    case 'nl': return {...defaultCalendar, ...nlCalendar} // netherlands
+    case 'be': return {...defaultCalendar, ...beCalendar} // belgian
+    case 'fi': return {...defaultCalendar, ...fiCalendar} // finish
+    case 'it': return {...defaultCalendar, ...itCalendar} // italian
+    case 'es': return {...defaultCalendar, ...esCalendar} // spanish
+    case 'de': return {...defaultCalendar, ...deCalendar} // german
+    case 'is': return {...defaultCalendar, ...isCalendar} // island
+    case 'et': return {...defaultCalendar, ...etCalendar} // Estonia
     default : return {...defaultCalendar, ...enCalendar}
   }
 }
@@ -292,5 +304,37 @@ export const applyTransform = (text: string, textTransform?: string = 'capitaliz
     case 'capitalize': return text.charAt(0).toUpperCase() + text.slice(1)
     case 'lowercase': return text.toLowerCase()
     default: return text
+  }
+}
+
+export let getClienStrings = (lang: string) => {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return {..._default, ...sv} // sweden
+    case 'nb':
+    case 'nn': return {..._default, ...no} // norway
+    case 'da': return {..._default, ...da} // danish
+    case 'fr': return {..._default, ...fr} // france
+    case 'nl': return {..._default, ...nl} // netherlands
+    case 'fi': return {..._default, ...fi} // finish
+    case 'it': return {..._default, ...it} // italian
+    case 'es': return {..._default, ...es} // spanish
+    case 'de': return {..._default, ...de} // german
+    default: return {..._default, ...en}
+  }
+}
+
+export let getClientNewStructureStrings = (lang: string) => {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return svNewStructure // sweden
+    case 'nb':
+    case 'nn': return noNewStructure // norway
+    case 'da': return daNewStructure // danish
+    case 'fr': return frNewStructure // france
+    case 'nl': return nlNewStructure // netherlands
+    case 'fi': return fiNewStructure // finish
+    case 'it': return itNewStructure // italian
+    case 'es': return esNewStructure // spanish
+    case 'de': return deNewStructure // german
+    default: return enNewStructure
   }
 }

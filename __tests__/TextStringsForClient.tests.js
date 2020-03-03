@@ -1,6 +1,6 @@
 
 /* eslint no-console:0 */
-import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
+import {getTextStrings, getClientNewStructureStrings, getClienStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
@@ -14,6 +14,21 @@ describe('TextStrings', () => {
 
   it('all textstrings should have a equivalent string in all other languages', () => {
     compareKeysForLanguages(supportedLanguageCodes, getTextStrings, languageCodes)
+  })
+
+  xtest('should have same key in new_structure as old', () => {
+    supportedLanguageCodes.forEach(lang => {
+      let newStruct = getClientNewStructureStrings(lang)
+      let oldStruct = getClienStrings(lang)
+      const newStructKeys = Object.keys(newStruct)
+      const oldStructKeys = Object.keys(oldStruct)
+      newStructKeys.forEach(newKey => {
+        oldStructKeys.forEach((oldKey) => {
+          expect(newStructKeys[newKey] === oldStruct(oldKey)).toEqual(true)
+        })
+      })
+      // expect().toEqual()
+    })
   })
 
   it('should not allow duplicate keys in JSON', () => {
@@ -33,7 +48,7 @@ describe('TextStrings', () => {
   it('should not have duplicate keys in textStrings', () => {
     findDuplicateJSONKeysInFolders(
       './text_strings/',
-      (dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux'
+      (dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux' && dir !== 'client_new_structure'
     )
   })
 
