@@ -23,7 +23,11 @@ describe('TextStrings', () => {
       const oldStructKeys = Object.keys(oldStruct)
       const newStructKeys = Object.keys(newStruct)
       oldStructKeys.forEach(oldKey => {
-        newStructKeys.find((newKey) => newKey !== undefined)
+        newStructKeys.find((newKey) => {
+          if (typeof newStruct[newKey] === 'object')
+            return Object.keys(newStruct[newKey]).find(key => key !== undefined)
+          return newKey !== undefined
+        })
       })
       expect(oldStructKeys).toBeDefined()
       // expect().toEqual()
