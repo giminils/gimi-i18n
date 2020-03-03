@@ -7,7 +7,7 @@ let templateDir = ['./text_strings/server', './text_strings/templates', './text_
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
 let runSaraWithNewStructure = (filePath: string, textStrings: string, _default: *): * => {
-  fs.readdirSync(filePath).forEach((languageCode) => {
+  fs.readdirSync(filePath).forEach((file) => {
     textStrings = flatten(textStrings)
     // syncTextStrings(filePath, languageCode, lang, _default)
   })
@@ -22,7 +22,7 @@ let runSara = (filePath: string): * => {
   let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
   strings = JSON.parse(strings)
   if (filePath.includes('new_structure')) return runSaraWithNewStructure(filePath, strings, _default)
-  fs.readdirSync(filePath).forEach((languageCode) => syncTextStrings(filePath, languageCode, strings, _default))
+  fs.readdirSync(filePath).forEach((file) => syncTextStrings(filePath, file, strings, _default))
 
   // fix swedish TextStrings formatting
   strings = JSON.stringify(strings, undefined, 2)
@@ -31,15 +31,13 @@ let runSara = (filePath: string): * => {
 }
 
 
-let syncTextStrings = (filePath: string, file: string, lang: string, _default: *, textStrings?: Object) => {
+let syncTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
   let path = getPath(filePath, file)
-  if (!textStrings) {
-    textStrings = fs.readFileSync(path, { encoding: 'utf8' })
-    textStrings = JSON.parse(textStrings)
-  }
+  let textStrings = fs.readFileSync(path, { encoding: 'utf8' })
+  textStrings = JSON.parse(textStrings)
   // Delete Support
   Object.keys({ ...textStrings })
     .filter((key) => lang[key] === undefined)
