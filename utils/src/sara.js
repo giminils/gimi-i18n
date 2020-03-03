@@ -8,9 +8,51 @@ let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
 let runSaraWithNewStructure = (filePath: string, textStrings: string, _default: *): * => {
   fs.readdirSync(filePath).forEach((file) => {
-    textStrings = flatten(textStrings)
-    // syncTextStrings(filePath, languageCode, lang, _default)
+    // textStrings = flatten(textStrings)
+    syncNewStructureTextStrings(filePath, file, textStrings, _default)
   })
+}
+
+let syncNewStructureTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
+  if (file.indexOf('.json') === -1) return
+  if (file === 'default.json') return
+  if (file === 'lang.json') return
+  let path = getPath(filePath, file)
+  let textStrings = fs.readFileSync(path, { encoding: 'utf8' })
+  textStrings = JSON.parse(textStrings)
+  // Delete Support
+
+  /* Object.keys({ ...textStrings })
+    .filter((key) => lang[key] === undefined)
+    .forEach((key) => {
+      delete textStrings[key]
+      console.log(`Deleting key: '${key}' from ${filePath}/${file}`)
+    }) */
+
+  // Craete Support
+  let newTextStrings = {...lang}
+
+  switch (true) {
+    case file.includes('sv.json'):
+    case file.includes('en.json'): Object.keys(newTextStrings).forEach(key => (newTextStrings[key] = `PLZ_CHECK ${lang[key]}`)); break
+    default: Object.keys(newTextStrings).forEach(key => (newTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
+  }
+
+  newTextStrings = {...newTextStrings, ...textStrings}
+  Object.keys(_default).forEach(key => delete newTextStrings[key])
+  let newTextStringsLength = Object.keys(newTextStrings).length
+  let TextStringsLength = Object.keys(textStrings).length
+  let delta = newTextStringsLength - TextStringsLength
+
+  if (delta > 0) {
+    let folderName = filePath.match(/\/[^\s\/]*$/g) ? filePath.match(/\/[^\s\/]*$/g)[0] + '/' : ''
+    console.log(`Updated ${delta} textstrings in ${folderName}${file}`)
+  }
+
+  // Save changes
+  newTextStrings = JSON.stringify(newTextStrings, undefined, 2)
+  fs.unlinkSync(path)
+  fs.writeFileSync(path, newTextStrings, { encoding: 'utf8' })
 }
 
 let runSara = (filePath: string): * => {
