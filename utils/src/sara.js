@@ -1,76 +1,80 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 let fs = require('fs')
-let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq''./text_strings/client_new_structure'], 
+let flatten = require('flat')
+let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/client_new_structure']
 
-let RunSara = (filePath): * => {
-  let getPath = (file) => `${filePath}/${file}`
+let getPath = (filePath: string, file: string) => `${filePath}/${file}`
+
+let runSaraWithNewStructure = (filePath: string, textStrings: string, _default: *): * => {
+  fs.readdirSync(filePath).forEach((languageCode) => {
+    textStrings = flatten(textStrings)
+    // syncTextStrings(filePath, languageCode, lang, _default)
+  })
+}
+
+let runSara = (filePath: string): * => {
   let folderName = filePath.match(/\/[^\s/]*$/g) ? filePath.match(/\/[^\s/]*$/g)[0] + '/' : ''
-  let defaultPath = getPath('default.json')
+  let defaultPath = getPath(filePath, 'default.json')
   let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
   _default = JSON.parse(_default)
-
-  let langPath = getPath('en.json') // Edit here for what language to use
-  let lang = fs.readFileSync(langPath, {encoding: 'utf8'})
-  lang = JSON.parse(lang)
-
-  let syncTextStrings = (file) => {
-    if (file.indexOf('.json') === -1)
-      return
-
-    if (file === 'default.json') return
-
-    if (file === 'lang.json')
-      return
-
-    let path = getPath(file)
-
-    let TextStrings = fs.readFileSync(path, {encoding: 'utf8'})
-    TextStrings = JSON.parse(TextStrings)
-
-    // Delete Support
-    Object.keys({...TextStrings})
-      .filter((key) => lang[key] === undefined)
-      .forEach((key) => {
-        delete TextStrings[key]
-        console.log(`Deleting key: '${key}' from ${folderName}${file}`)
-      })
-
-    // Craete Support
-    let NewTextStrings = {...lang}
-
-    switch (true) {
-      case file.includes('sv.json'):
-      case file.includes('en.json'): Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_CHECK ${lang[key]}`)); break
-      default: Object.keys(NewTextStrings).forEach(key => (NewTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
-    }
-
-    NewTextStrings = {...NewTextStrings, ...TextStrings}
-    Object.keys(_default).forEach(key => delete NewTextStrings[key])
-    let NewTextStringsLength = Object.keys(NewTextStrings).length
-    let TextStringsLength = Object.keys(TextStrings).length
-    let delta = NewTextStringsLength - TextStringsLength
-
-    if (delta > 0) {
-      let folderName = filePath.match(/\/[^\s\/]*$/g) ? filePath.match(/\/[^\s\/]*$/g)[0] + '/' : ''
-      console.log(`Updated ${delta} textstrings in ${folderName}${file}`)
-    }
-
-    // No update support atm :(
-
-    // Save changes
-    NewTextStrings = JSON.stringify(NewTextStrings, undefined, 2)
-    fs.unlinkSync(path)
-    fs.writeFileSync(path, NewTextStrings, {encoding: 'utf8'})
-  }
-
-  fs.readdirSync(filePath).forEach((languageCode) => syncTextStrings(languageCode))
+  let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
+  let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
+  strings = JSON.parse(strings)
+  if (filePath.includes('new_structure')) return runSaraWithNewStructure(filePath, strings, _default)
+  fs.readdirSync(filePath).forEach((languageCode) => syncTextStrings(filePath, languageCode, strings, _default))
 
   // fix swedish TextStrings formatting
-  lang = JSON.stringify(lang, undefined, 2)
-  fs.unlinkSync(langPath)
-  fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
+  strings = JSON.stringify(strings, undefined, 2)
+  fs.unlinkSync(stringPath)
+  fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
 }
+
+
+let syncTextStrings = (filePath: string, file: string, lang: string, _default: *, textStrings?: Object) => {
+  if (file.indexOf('.json') === -1) return
+  if (file === 'default.json') return
+  if (file === 'lang.json') return
+  let path = getPath(filePath, file)
+  if (!textStrings) {
+    textStrings = fs.readFileSync(path, { encoding: 'utf8' })
+    textStrings = JSON.parse(textStrings)
+  }
+  // Delete Support
+  Object.keys({ ...textStrings })
+    .filter((key) => lang[key] === undefined)
+    .forEach((key) => {
+      delete textStrings[key]
+      console.log(`Deleting key: '${key}' from ${filePath}/${file}`)
+    })
+
+  // Craete Support
+  let newTextStrings = {...lang}
+
+  switch (true) {
+    case file.includes('sv.json'):
+    case file.includes('en.json'): Object.keys(newTextStrings).forEach(key => (newTextStrings[key] = `PLZ_CHECK ${lang[key]}`)); break
+    default: Object.keys(newTextStrings).forEach(key => (newTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
+  }
+
+  newTextStrings = {...newTextStrings, ...textStrings}
+  Object.keys(_default).forEach(key => delete newTextStrings[key])
+  let newTextStringsLength = Object.keys(newTextStrings).length
+  let TextStringsLength = Object.keys(textStrings).length
+  let delta = newTextStringsLength - TextStringsLength
+
+  if (delta > 0) {
+    let folderName = filePath.match(/\/[^\s\/]*$/g) ? filePath.match(/\/[^\s\/]*$/g)[0] + '/' : ''
+    console.log(`Updated ${delta} textstrings in ${folderName}${file}`)
+  }
+
+  // Save changes
+  newTextStrings = JSON.stringify(newTextStrings, undefined, 2)
+  fs.unlinkSync(path)
+  fs.writeFileSync(path, newTextStrings, { encoding: 'utf8' })
+}
+
+
 templateDir.forEach((filePath) => {
-  RunSara(filePath)
+  return runSara(filePath)
 })
