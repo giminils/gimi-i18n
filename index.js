@@ -309,17 +309,17 @@ export const applyTransform = (text: string, textTransform?: string = 'capitaliz
 
 export let getClienStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv': return {..._default, ...sv} // sweden
+    case 'sv': return sv // sweden
     case 'nb':
-    case 'nn': return {..._default, ...no} // norway
-    case 'da': return {..._default, ...da} // danish
-    case 'fr': return {..._default, ...fr} // france
-    case 'nl': return {..._default, ...nl} // netherlands
-    case 'fi': return {..._default, ...fi} // finish
-    case 'it': return {..._default, ...it} // italian
-    case 'es': return {..._default, ...es} // spanish
-    case 'de': return {..._default, ...de} // german
-    default: return {..._default, ...en}
+    case 'nn': return no // norway
+    case 'da': return da // danish
+    case 'fr': return fr // france
+    case 'nl': return nl // netherlands
+    case 'fi': return fi // finish
+    case 'it': return it // italian
+    case 'es': return es // spanish
+    case 'de': return de // german
+    default: return en
   }
 }
 

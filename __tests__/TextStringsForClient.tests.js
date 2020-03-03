@@ -4,6 +4,7 @@ import {getTextStrings, getClientNewStructureStrings, getClienStrings, getText, 
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
+let flatten = require('flat')
 
 jest.disableAutomock()
 
@@ -19,17 +20,24 @@ describe('TextStrings', () => {
   test('should have same key in new_structure as old', () => {
     supportedLanguageCodes.forEach(lang => {
       let newStruct = getClientNewStructureStrings(lang)
+      newStruct = flatten(newStruct)
       let oldStruct = getClienStrings(lang)
       const oldStructKeys = Object.keys(oldStruct)
-      const newStructKeys = Object.keys(newStruct)
-      oldStructKeys.forEach(oldKey => {
-        newStructKeys.find((newKey) => {
-          if (typeof newStruct[newKey] === 'object')
-            return Object.keys(newStruct[newKey]).find(key => key !== undefined)
-          return newKey !== undefined
-        })
+      let newStructKeys = Object.keys(newStruct)
+      newStructKeys = newStructKeys.map((key) => {
+        let split = key.split('.')
+        if (split[1]) return split[1]
+        return split[0]
       })
-      expect(oldStructKeys).toBeDefined()
+      oldStructKeys.forEach(oldKey => {
+        if (newStructKeys.indexOf(oldKey) === -1) console.warn(oldKey + ' is missing in new_structure')
+        expect(newStructKeys.indexOf(oldKey) !== -1).toEqual(true)
+        // if (oldKey === 'hej') console.warn(newStruct[oldKey])
+        /* if (typeof newStruct[oldKey] === 'object')
+            return Object.keys(newStruct[oldKey]).find(key => key !== undefined)
+          return oldKey !== undefined */
+      })
+
       // expect().toEqual()
     })
   })
