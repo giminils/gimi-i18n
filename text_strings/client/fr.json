@@ -3053,5 +3053,6 @@
   "general_chore_title": "PLZ_TRANSLATE Chore title",
   "card_valid_from": "PLZ_TRANSLATE Valid from",
   "card_expires_end": "PLZ_TRANSLATE Expires end",
-  "iap_could_not_bind_error": "PLZ_TRANSLATE Could not bind purchase, please contact support"
+  "iap_could_not_bind_error": "PLZ_TRANSLATE Could not bind purchase, please contact support",
+  "promo_code_limit_reached": "PLZ_TRANSLATE You've reach the promo code use limit"
 }

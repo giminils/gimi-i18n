@@ -3053,5 +3053,6 @@
   "general_chore_title": "Chore title",
   "card_valid_from": "Valid from",
   "card_expires_end": "Expires end",
-  "iap_could_not_bind_error": "Could not bind purchase, please contact support"
+  "iap_could_not_bind_error": "Could not bind purchase, please contact support",
+  "promo_code_limit_reached": "You've reach the promo code use limit"
 }

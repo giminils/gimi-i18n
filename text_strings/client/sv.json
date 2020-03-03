@@ -3053,5 +3053,6 @@
   "general_chore_title": "Uppgiftsnamn",
   "card_valid_from": "PLZ_CHECK Valid from",
   "card_expires_end": "PLZ_CHECK Expires end",
-  "iap_could_not_bind_error": "Kunde inte koppla prenumerationen, kontakta supporten!"
+  "iap_could_not_bind_error": "Kunde inte koppla prenumerationen, kontakta supporten!",
+  "promo_code_limit_reached": "PLZ_CHECK You've reach the promo code use limit"
 }

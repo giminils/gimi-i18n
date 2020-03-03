@@ -13,7 +13,7 @@ let jsonArrayUpperCase = []
 let jsonArrayEmptySpaces = []
 let jsonDataHtml = []
 
-let textStringsTypes = ['server', 'templates', 'client', 'client_new_structure', 'share-image-generator', 'bot', 'gimi-web']
+let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
 let textStrings = {}
 textStringsTypes.forEach(textStringsType => {
   textStrings[textStringsType] = {}
