@@ -30,7 +30,7 @@ describe('TextStrings', () => {
         return split[0]
       })
       oldStructKeys.forEach(oldKey => {
-        if (newStructKeys.indexOf(oldKey) === -1) console.warn('key: ' + oldKey + ' is missing in new_structure')
+        if (newStructKeys.indexOf(oldKey) === -1) console.warn('key: ' + oldKey + ' is missing in new_structure in file' + ' ' + lang + '.json')
         expect(newStructKeys.indexOf(oldKey) !== -1).toEqual(true)
         // if (oldKey === 'hej') console.warn(newStruct[oldKey])
         /* if (typeof newStruct[oldKey] === 'object')
