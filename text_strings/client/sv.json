@@ -1956,9 +1956,9 @@
   "no_parent_no_chores_title": "Åh nej... Du har inga supporters än...",
   "no_parent_no_chores_desc": "Du kan inte börja göra uppgifter och tjäna pengar innan du har kopplat ihop med supporters som betalar dig. ",
   "signup_kid_user_type_title": "Jag är barn!",
-  "signup_kid_user_type_subtitle": "PLZ_CHECK Earn, save and spend",
+  "signup_kid_user_type_subtitle": "Tjäna, spara och spendera",
   "signup_parent_user_type_title": "Förälder eller supporter",
-  "signup_parent_user_type_subtitle": "PLZ_CHECK Educate and manage pocket money",
+  "signup_parent_user_type_subtitle": "Utbilda och hantera barnenns pengar",
   "kid_card_set_as_number_button": "OK",
   "bank_not_working": "Funkar inte 😑",
   "skandia_broken_bank_popover_title": "BankID Skandia funkar tyvärr inte…",
@@ -3050,8 +3050,8 @@
   "general_price_with_tag": "Pris 🏷️",
   "kid_passed_card_test_share_title": "Jag klarade korttestet! 🎉",
   "kid_failed_card_test_share_title": "Jag klarade inte korttestet ☹️",
-  "general_chore_title": "Uppgfitsnamn",
+  "general_chore_title": "Uppgiftsnamn",
   "card_valid_from": "PLZ_CHECK Valid from",
   "card_expires_end": "PLZ_CHECK Expires end",
-  "iap_could_not_bind_error": "PLZ_CHECK Could not bind purchase, please contact support"
+  "iap_could_not_bind_error": "Kunde inte koppla prenumerationen, kontakta supporten!"
 }
