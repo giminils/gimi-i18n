@@ -16,17 +16,16 @@ describe('TextStrings', () => {
     compareKeysForLanguages(supportedLanguageCodes, getTextStrings, languageCodes)
   })
 
-  xtest('should have same key in new_structure as old', () => {
+  test('should have same key in new_structure as old', () => {
     supportedLanguageCodes.forEach(lang => {
       let newStruct = getClientNewStructureStrings(lang)
       let oldStruct = getClienStrings(lang)
-      const newStructKeys = Object.keys(newStruct)
       const oldStructKeys = Object.keys(oldStruct)
-      newStructKeys.forEach(newKey => {
-        oldStructKeys.forEach((oldKey) => {
-          expect(newStructKeys[newKey] === oldStruct(oldKey)).toEqual(true)
-        })
+      const newStructKeys = Object.keys(newStruct)
+      oldStructKeys.forEach(oldKey => {
+        newStructKeys.find((newKey) => newKey !== undefined)
       })
+      expect(oldStructKeys).toBeDefined()
       // expect().toEqual()
     })
   })
