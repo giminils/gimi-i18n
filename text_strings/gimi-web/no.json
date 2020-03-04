@@ -782,5 +782,7 @@
   "pages.influencers.block1.text2": "PLZ_TRANSLATE Send us an email at collab@gimitheapp.com and tell us more about yourself and your channel.",
   "ui.buttons.sendmail": "PLZ_TRANSLATE Send email",
   "pages.influencers.email.subject": "PLZ_TRANSLATE Collaboration with Gimi",
-  "ui.buttons.download.app": "Last ned appen"
+  "ui.buttons.download.app": "Last ned appen",
+  "pages.cardtest.title": "PLZ_TRANSLATE Gimi Card Test",
+  "page.cardtest.subtitle": "PLZ_TRANSLATE Do you want your own card? Take our test and prove that you are ready to handle your own money"
 }

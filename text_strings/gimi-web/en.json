@@ -782,5 +782,7 @@
   "pages.influencers.block1.text2": "Send us an email at collab@gimitheapp.com and tell us more about yourself and your channel.",
   "ui.buttons.sendmail": "Send email",
   "pages.influencers.email.subject": "Collaboration with Gimi",
-  "ui.buttons.download.app": "Download the app"
+  "ui.buttons.download.app": "Download the app",
+  "pages.cardtest.title": "Gimi Card Test",
+  "page.cardtest.subtitle": "Do you want your own card? Take our test and prove that you are ready to handle your own money"
 }

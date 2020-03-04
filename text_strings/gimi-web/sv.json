@@ -782,5 +782,7 @@
   "pages.influencers.block1.text2": "Mejla oss på collab@gimitheapp.com och berätta mer om dig och din kanal.",
   "ui.buttons.sendmail": "Skicka email",
   "pages.influencers.email.subject": "Samarbete med Gimi",
-  "ui.buttons.download.app": "Ladda ner appen"
+  "ui.buttons.download.app": "Ladda ner appen",
+  "pages.cardtest.title": "Gimis korttest",
+  "page.cardtest.subtitle": "Redo för ett eget kort? Gör vårt test för att bevisa att du är mogen att ta hand om dina egna pengar."
 }
