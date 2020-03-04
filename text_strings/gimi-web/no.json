@@ -781,5 +781,6 @@
   "pages.influencers.block1.list.item4": "PLZ_TRANSLATE ☑️ Approval from a parent that you are collaborating.",
   "pages.influencers.block1.text2": "PLZ_TRANSLATE Send us an email at collab@gimitheapp.com and tell us more about yourself and your channel.",
   "ui.buttons.sendmail": "PLZ_TRANSLATE Send email",
-  "pages.influencers.email.subject": "PLZ_TRANSLATE Collaboration with Gimi"
+  "pages.influencers.email.subject": "PLZ_TRANSLATE Collaboration with Gimi",
+  "ui.buttons.download.app": "Last ned appen"
 }
