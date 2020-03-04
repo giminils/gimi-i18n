@@ -3051,8 +3051,8 @@
   "kid_passed_card_test_share_title": "Jag klarade korttestet! 🎉",
   "kid_failed_card_test_share_title": "Jag klarade inte korttestet ☹️",
   "general_chore_title": "Uppgiftsnamn",
-  "card_valid_from": "PLZ_CHECK Valid from",
-  "card_expires_end": "PLZ_CHECK Expires end",
+  "card_valid_from": "Valid from",
+  "card_expires_end": "Expires end",
   "iap_could_not_bind_error": "Kunde inte koppla prenumerationen, kontakta supporten!",
-  "promo_code_limit_reached": "PLZ_CHECK You've reach the promo code use limit"
+  "promo_code_limit_reached": "Du har nått gränsen för antal kampanjkoder"
 }
