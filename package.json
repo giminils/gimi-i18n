@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "pre-push": [
-    "jest",
-    "flow"
-  ],
   "scripts": {
     "test": "jest",
     "babelize": "./node_modules/.bin/babel ./utils/src -d ./utils/dest",
@@ -53,15 +49,20 @@
     "eslint-plugin-react": "7.12.4",
     "eslint-plugin-react-native": "3.6.0",
     "eslint-plugin-standard": "4.0.0",
+    "flat": "5.0.0",
+    "husky": "^4.2.3",
     "jest": "24.7.1",
     "json-dup-key-validator": "1.0.2",
     "json-loader": "0.5.7",
-    "node-slack": "0.0.7",
-    "pre-push": "0.1.1",
-    "flat": "5.0.0"
+    "node-slack": "0.0.7"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "jest && flow"
+    }
   },
   "dependencies": {
     "accounting": "0.4.1",
     "babel-preset-node6": "11.0.0"
-    }
+  }
 }
