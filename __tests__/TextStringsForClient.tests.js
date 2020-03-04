@@ -4,9 +4,8 @@ import {getTextStrings, getClientNewStructureStrings, getClienStrings, getText, 
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
-let flatten = require('flat')
-
 jest.disableAutomock()
+let flatten = require('flat')
 
 describe('TextStrings', () => {
   it('should return Text Strings', () => {
