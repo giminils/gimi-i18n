@@ -478,5 +478,7 @@
   "ADPRON019_notification_title": "ID-verifieringen är slutförd! Vill du göra din första överföring?",
   "ADPRON019_push_title": "ID-verifieringen är slutförd! Börja skicka pengar 💸",
   "ADPRON020_notification_title": "ID-verifieringen är slutförd, men något gick fel. Prova igen!",
-  "ADPRON020_push_title": "ID-verifieringen är slutförd. Något gick fel..."
+  "ADPRON020_push_title": "ID-verifieringen är slutförd. Något gick fel...",
+  "ADGERE041_notification_title": "PLZ_CHECK {child.nickname} nailed the card test, and is ready for a card! 👏 Read about the Gimi card here!",
+  "ADGERE041_push_title": "PLZ_CHECK {child.nickname} nailed the Gimi card test! 🎖"
 }

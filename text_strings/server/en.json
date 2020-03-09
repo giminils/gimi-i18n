@@ -478,5 +478,7 @@
   "ADPRON019_notification_title": "ID verification completed! Want to do your first transfer?",
   "ADPRON019_push_title": "ID verification completed. Something went wrong...",
   "ADPRON020_notification_title": "ID verification completed, but something went wrong. Please try again!",
-  "ADPRON020_push_title": "ID verification completed. Something went wrong..."
+  "ADPRON020_push_title": "ID verification completed. Something went wrong...",
+  "ADGERE041_notification_title": "{child.nickname} nailed the card test, and is ready for a card! 👏 Read about the Gimi card here!",
+  "ADGERE041_push_title": "{child.nickname} nailed the Gimi card test! 🎖"
 }
