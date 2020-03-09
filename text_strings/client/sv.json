@@ -3054,5 +3054,14 @@
   "card_valid_from": "Valid from",
   "card_expires_end": "Expires end",
   "iap_could_not_bind_error": "Kunde inte koppla prenumerationen, kontakta supporten!",
-  "promo_code_limit_reached": "Du har nått gränsen för antal kampanjkoder"
+  "promo_code_limit_reached": "Du har nått gränsen för antal kampanjkoder",
+  "signup_usertype_subtitle": "PLZ_CHECK Parents, don't choose child here. It won't work.",
+  "signup_usertype_kid_title": "PLZ_CHECK I'm a child",
+  "signup_usertype_kid_1": "PLZ_CHECK 🤑 Earn money by doing chores",
+  "signup_usertype_kid_2": "PLZ_CHECK 🌈 Save for a dream",
+  "signup_usertype_kid_3": "PLZ_CHECK 🛍️ Practice smart spending",
+  "signup_usertype_parent_title": "PLZ_CHECK I'm a parent or supporter",
+  "signup_usertype_parent_1": "PLZ_CHECK 💰 Manage children's money",
+  "signup_usertype_parent_2": "PLZ_CHECK 🌈 Teach children about money",
+  "signup_usertype_parent_3": "PLZ_CHECK 💳 Order the Gimi card"
 }

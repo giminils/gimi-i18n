@@ -3054,5 +3054,14 @@
   "card_valid_from": "Valid from",
   "card_expires_end": "Expires",
   "iap_could_not_bind_error": "Emme voineet yhdistää ostosta, ota yhteyttä tukeen.",
-  "promo_code_limit_reached": "Olet käyttänyt alennuskoodin loppuun."
+  "promo_code_limit_reached": "Olet käyttänyt alennuskoodin loppuun.",
+  "signup_usertype_subtitle": "PLZ_TRANSLATE Parents, don't choose child here. It won't work.",
+  "signup_usertype_kid_title": "PLZ_TRANSLATE I'm a child",
+  "signup_usertype_kid_1": "PLZ_TRANSLATE 🤑 Earn money by doing chores",
+  "signup_usertype_kid_2": "PLZ_TRANSLATE 🌈 Save for a dream",
+  "signup_usertype_kid_3": "PLZ_TRANSLATE 🛍️ Practice smart spending",
+  "signup_usertype_parent_title": "PLZ_TRANSLATE I'm a parent or supporter",
+  "signup_usertype_parent_1": "PLZ_TRANSLATE 💰 Manage children's money",
+  "signup_usertype_parent_2": "PLZ_TRANSLATE 🌈 Teach children about money",
+  "signup_usertype_parent_3": "PLZ_TRANSLATE 💳 Order the Gimi card"
 }
