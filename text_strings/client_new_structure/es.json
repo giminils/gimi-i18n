@@ -2901,7 +2901,7 @@
   "general_view_all": "Ver todo",
   "stripe_set_as_payment_method_confirmation_message": "Será por Stripe",
   "kid_profile_connection_supporter": "Colaborador",
-  "share_promocode_message": "🎁¡Código de promoción! Obtén 3 meses de prueba gratis con la tarjeta Gimi. Escribe este código en la app de Gimi: $1$d",
+  "share_promocode_message": "🎁¡Código de promoción! Obtén 3 meses de prueba gratis con la tarjeta Gimi. Escribe este código en la app de Gimi: %1$d",
   "parentsettings_promocode_label": "Compartir código de promoción",
   "parent_tutorial_upgrade_headline": "Mejorar a dinero real",
   "parent_tutorial_upgrade_desc": "Cuando tu niño esté listo, puedes obtener una tarjeta Gimi. ¡La manera perfecta de comenzar a gestionar dinero real!",

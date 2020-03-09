@@ -2901,7 +2901,7 @@
   "general_view_all": "Bekijk alles",
   "stripe_set_as_payment_method_confirmation_message": "Het wordt Stripe",
   "kid_profile_connection_supporter": "Supporter",
-  "share_promocode_message": "🎁Promotiecode! Probeer de Gimi-kaart 3 maanden gratis. Vul deze code in de Gimi app in: $1$d",
+  "share_promocode_message": "🎁Promotiecode! Probeer de Gimi-kaart 3 maanden gratis. Vul deze code in de Gimi app in: %1$d",
   "parentsettings_promocode_label": "Promotiecode delen",
   "parent_tutorial_upgrade_headline": "Upgraden naar echt geld",
   "parent_tutorial_upgrade_desc": "Als je kind klaar is kun je een Gimi-kaart krijgen. De perfecte manier om echt geld te gaan beheren!",

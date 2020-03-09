@@ -2901,7 +2901,7 @@
   "general_view_all": "Alles ansehen",
   "stripe_set_as_payment_method_confirmation_message": "PLZ_CHECK Stripe soll es sein",
   "kid_profile_connection_supporter": "Unterstützer",
-  "share_promocode_message": "🎁Promo Code! Bekomme eine dreimonatige Probephase mit der Gimi Card. Gib diesen Code in die Gimi App ein: $1$d",
+  "share_promocode_message": "🎁Promo Code! Bekomme eine dreimonatige Probephase mit der Gimi Card. Gib diesen Code in die Gimi App ein: %1$d",
   "parentsettings_promocode_label": "Promo Code teilen",
   "parent_tutorial_upgrade_headline": "Zu echtem Geld upgraden",
   "parent_tutorial_upgrade_desc": "Wenn Dein Kind bereit ist, kannst Du eine Gimi Card beschaffen. Die perfekte Art, um den Umgang mit Geld zu lernen!",

@@ -2901,7 +2901,7 @@
   "general_view_all": "Tout voir",
   "stripe_set_as_payment_method_confirmation_message": "C'est à bande magnétique",
   "kid_profile_connection_supporter": "Supporteur",
-  "share_promocode_message": "🎁Code promo! Obtenez 3 mois d'essai gratuit avec la carte Gimi. Tapez ce code dans l'application Gimi: $1$d",
+  "share_promocode_message": "🎁Code promo! Obtenez 3 mois d'essai gratuit avec la carte Gimi. Tapez ce code dans l'application Gimi: %1$d",
   "parentsettings_promocode_label": "Partager le code promotionnel",
   "parent_tutorial_upgrade_headline": "Passer en classe supérieureen avec de l'argent réel",
   "parent_tutorial_upgrade_desc": "Lorsque votre enfant est prêt, vous pouvez obtenir une carte Gimi. Le moyen idéal pour commencer à gérer de l'argent réel!",

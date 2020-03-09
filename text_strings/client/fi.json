@@ -2901,7 +2901,7 @@
   "general_view_all": "Näytä kaikki",
   "stripe_set_as_payment_method_confirmation_message": "Stripe valittu",
   "kid_profile_connection_supporter": "Tukija",
-  "share_promocode_message": "🎁 Alennuskoodi! Saat kolmen kuukauden kokeilujakson Gimi-kortilla. Syötä koodi Gimi-sovellukseen: $1$d",
+  "share_promocode_message": "🎁 Alennuskoodi! Saat kolmen kuukauden kokeilujakson Gimi-kortilla. Syötä koodi Gimi-sovellukseen: %1$d",
   "parentsettings_promocode_label": "Jaa alennuskoodi",
   "parent_tutorial_upgrade_headline": "Ala käyttämään oikeaa rahaa",
   "parent_tutorial_upgrade_desc": "Kun lapsesi on valmis, voit tilata Gimi-kortin. Täydellinen tapa alkaa käyttämään oikeaa rahaa!",

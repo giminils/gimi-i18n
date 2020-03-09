@@ -2901,7 +2901,7 @@
   "general_view_all": "Se alle",
   "stripe_set_as_payment_method_confirmation_message": "ok, det er stripe",
   "kid_profile_connection_supporter": "Støttespiller",
-  "share_promocode_message": "🎁Rabattkode! Få 3 måneders gratis prøveversjon med Gimi-kortet. Skriv inn denne koden i Gimi-appen: $1$d",
+  "share_promocode_message": "🎁Rabattkode! Få 3 måneders gratis prøveversjon med Gimi-kortet. Skriv inn denne koden i Gimi-appen: %1$d",
   "parentsettings_promocode_label": "Del kampanjekode",
   "parent_tutorial_upgrade_headline": "Oppgrader til ekte penger",
   "parent_tutorial_upgrade_desc": "Når barnet ditt er klart, kan du få et Gimi-kort. Den perfekte måten å begynne å administrere ekte penger!",

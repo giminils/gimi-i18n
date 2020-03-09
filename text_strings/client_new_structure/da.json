@@ -2901,7 +2901,7 @@
   "general_view_all": "Se alt",
   "stripe_set_as_payment_method_confirmation_message": "Det bliver Stripe",
   "kid_profile_connection_supporter": "Supporter",
-  "share_promocode_message": "🎁Promo kode! Få 3 måneder gratis prøve med Gimikortet. Indtast denne kode i Gimiappen: $1$d",
+  "share_promocode_message": "🎁Promo kode! Få 3 måneder gratis prøve med Gimikortet. Indtast denne kode i Gimiappen: %1$d",
   "parentsettings_promocode_label": "Del tilbudskode",
   "parent_tutorial_upgrade_headline": "Opgrader til rigtige penge",
   "parent_tutorial_upgrade_desc": "Når dit barn er klar, kan du få et Gimikort. Den perfekte måde at starte med at håndtere rigtige penge!",

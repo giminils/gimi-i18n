@@ -2901,7 +2901,7 @@
   "general_view_all": "Vedi tutto",
   "stripe_set_as_payment_method_confirmation_message": "Strisciala",
   "kid_profile_connection_supporter": "Sostenitore",
-  "share_promocode_message": "🎁Codice promo! Ottieni 3 mesi di prova gratuiti con la carta GImi. Digita questo codice nella carta Gimi: $1$d",
+  "share_promocode_message": "🎁Codice promo! Ottieni 3 mesi di prova gratuiti con la carta GImi. Digita questo codice nella carta Gimi: %1$d",
   "parentsettings_promocode_label": "Condividi codice promo",
   "parent_tutorial_upgrade_headline": "Aggiorna a soldi veri",
   "parent_tutorial_upgrade_desc": "Quando il tuo bambino è pronto, puoi ottenere una carta Gimi. Il modo migliore per cominciare a gestire dei soldi veri!",
