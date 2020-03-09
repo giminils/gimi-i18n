@@ -3011,7 +3011,7 @@
   "kid_premium_info_request_title": "Do you want the Gimi card?",
   "kid_premium_info_request_subtitle": "Send a request to your supporters!",
   "card_request_row_subtitle": "Not activated",
-  "kid_card_request_waiting_title": "Waiting for supporters...",
+  "kid_card_request_waiting_title": "Waiting for supporters to decide...",
   "kid_card_request_waiting_desc": "Your supporters decide if you’re ready for a card. You’ll have to wait for them to decide.",
   "kid_card_request_waiting_action": "I don’t want the card",
   "card_request_reminder_sent_confirmation_message": "Reminder sent!",
