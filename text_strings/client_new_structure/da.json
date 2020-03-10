@@ -2881,6 +2881,8 @@
   "signup_usertype_parent_1": "PLZ_TRANSLATE 💰 Manage children's money",
   "signup_usertype_parent_2": "PLZ_TRANSLATE 🎓 Teach children about money",
   "signup_usertype_parent_3": "PLZ_TRANSLATE 💳 Order the Gimi card",
+  "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
+  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
   "Popovers": {},
   "DefaultContainer": {},
   "KidSubscriptionBoundPicker": {},

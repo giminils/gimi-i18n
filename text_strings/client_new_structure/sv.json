@@ -3362,5 +3362,7 @@
   "general_correct_answers": "Rätta svar",
   "general_no_contacts_found": "Inga kontakter hittades",
   "general_price_with_tag": "Pris 🏷️",
-  "general_chore_title": "Uppgfitsnamn"
+  "general_chore_title": "Uppgfitsnamn",
+  "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
+  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends"
 }
