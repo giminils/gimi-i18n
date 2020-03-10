@@ -36,7 +36,7 @@ let syncNewStructureTextStrings = (filePath: string, file: string, lang: string,
   //   .forEach((key) => {
   //     textStrings[key] = lang[key]
   //     console.log(`Adding key: '${key}' to ${filePath}/${file}`)
-    })
+  //  })
 
   Object.keys({ ...textStrings })
     .filter((key) => lang[key] === undefined)
