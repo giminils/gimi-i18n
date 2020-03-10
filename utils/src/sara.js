@@ -19,7 +19,32 @@ let syncNewStructureTextStrings = (filePath: string, file: string, lang: string,
   if (file === 'lang.json') return
   let path = getPath(filePath, file)
   let textStrings = fs.readFileSync(path, { encoding: 'utf8' })
+  let client_orig_path = getPath('./text_strings/client', file)
+  let client_orig_textStrings = fs.readFileSync(client_orig_path, { encoding: 'utf8' })
+  client_orig_textStrings = JSON.parse(client_orig_textStrings)
   textStrings = JSON.parse(textStrings)
+  let flatStrings = flatten(textStrings)
+
+  // add to new structure
+  // Need a way to compare exisiting key. Current flattening func makes it more difficult cuz it changes the langKey values to ex. general.langKey
+  // Object.keys({...client_orig_textStrings})
+  //   .filter((key) => {
+  //     let existingKey = Object.keys({...flatStrings}).filter(flatKey => new RegExp(key + '', "g").test(flatKey))
+  //     console.log(existingKey)
+  //     return flatStrings[key] === undefined
+  //   })
+  //   .forEach((key) => {
+  //     textStrings[key] = lang[key]
+  //     console.log(`Adding key: '${key}' to ${filePath}/${file}`)
+    })
+
+  Object.keys({ ...textStrings })
+    .filter((key) => lang[key] === undefined)
+    .forEach((key) => {
+      delete textStrings[key]
+      console.log(`Deleting key: '${key}' from ${filePath}/${file}`)
+    })
+
   // Delete Support
 
   /* Object.keys({ ...textStrings })
