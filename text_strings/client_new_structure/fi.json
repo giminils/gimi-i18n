@@ -3364,5 +3364,7 @@
   "general_price_with_tag": "PLZ_TRANSLATE Price 🏷️",
   "general_chore_title": "PLZ_TRANSLATE Chore title",
   "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
-  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends"
+  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
+  "kid_profile_empty_state_friend_connections": "PLZ_TRANSLATE Invite your friends! 😎",
+  "kid_profile_empty_state_parent_connections": "PLZ_TRANSLATE Invite supporters to get money! 🤑"
 }
