@@ -3065,5 +3065,7 @@
   "signup_usertype_parent_2": "PLZ_CHECK 🎓 Teach children about money",
   "signup_usertype_parent_3": "PLZ_CHECK 💳 Order the Gimi card",
   "kid_profile_parents_connections_section_title": "PLZ_CHECK Parents",
-  "kid_profile_friend_connections_section_title": "PLZ_CHECK Friends"
+  "kid_profile_friend_connections_section_title": "PLZ_CHECK Friends",
+  "kid_profile_empty_state_friend_connections": "PLZ_CHECK Invite your friends! 😎",
+  "kid_profile_empty_state_parent_connections": "PLZ_CHECK Invite supporters to get money! 🤑"
 }
