@@ -3072,6 +3072,8 @@
   "kid_profile_friend_connections_section_title": "Friends",
   "kid_profile_empty_state_friend_connections": "Invite your friends! 😎",
   "kid_profile_empty_state_parent_connections": "Invite supporters to get money! 🤑",
+  "gimi_rating_bad": "Nope",
+  "gimi_rating_good": "Love it!",
   "Popovers": {},
   "DefaultContainer": {},
   "KidSubscriptionBoundPicker": {},

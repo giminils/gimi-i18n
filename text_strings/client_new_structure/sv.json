@@ -2885,6 +2885,8 @@
   "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
   "kid_profile_empty_state_friend_connections": "PLZ_TRANSLATE Invite your friends! 😎",
   "kid_profile_empty_state_parent_connections": "PLZ_TRANSLATE Invite supporters to get money! 🤑",
+  "gimi_rating_bad": "PLZ_CHECK PLZ_CHECK Nope",
+  "gimi_rating_good": "PLZ_CHECK PLZ_CHECK Love it!",
   "Popovers": {},
   "DefaultContainer": {},
   "KidSubscriptionBoundPicker": {},
