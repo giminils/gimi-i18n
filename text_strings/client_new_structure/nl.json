@@ -2881,6 +2881,10 @@
   "signup_usertype_parent_1": "PLZ_TRANSLATE 💰 Manage children's money",
   "signup_usertype_parent_2": "PLZ_TRANSLATE 🎓 Teach children about money",
   "signup_usertype_parent_3": "PLZ_TRANSLATE 💳 Order the Gimi card",
+  "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
+  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
+  "kid_profile_empty_state_friend_connections": "PLZ_TRANSLATE Invite your friends! 😎",
+  "kid_profile_empty_state_parent_connections": "PLZ_TRANSLATE Invite supporters to get money! 🤑",
   "Popovers": {},
   "DefaultContainer": {},
   "KidSubscriptionBoundPicker": {},
@@ -3362,9 +3366,5 @@
   "general_correct_answers": "PLZ_TRANSLATE Correct answers",
   "general_no_contacts_found": "PLZ_TRANSLATE No contacts found",
   "general_price_with_tag": "PLZ_TRANSLATE Price 🏷️",
-  "general_chore_title": "PLZ_TRANSLATE Chore title",
-  "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
-  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
-  "kid_profile_empty_state_friend_connections": "PLZ_TRANSLATE Invite your friends! 😎",
-  "kid_profile_empty_state_parent_connections": "PLZ_TRANSLATE Invite supporters to get money! 🤑"
+  "general_chore_title": "PLZ_TRANSLATE Chore title"
 }
