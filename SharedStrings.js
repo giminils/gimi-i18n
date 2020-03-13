@@ -82,13 +82,10 @@ const getSharedStrings = (lang: string) => {
     case 'no' : return no
     case 'fr' : return fr
     case 'nl' : return nl
-    case 'be' : return be
     case 'fi' : return fi
     case 'it' : return it
     case 'es' : return es
     case 'de' : return de
-    case 'is' : return is
-    case 'et' : return et
     default : return en
   }
 }
