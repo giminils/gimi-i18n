@@ -1,19 +1,16 @@
 // @flow
-import en from './text_strings/shared/en.json'
 import Accounting from 'accounting'
 import {removeTranslationHelpers} from './index'
-// import da from './text_strings/shared/da.json'
-// import fi from './text_strings/shared/fi.json'
-// import is from './text_strings/shared/is.json'
 import sv from './text_strings/shared/sv.json'
-// import fr from './text_strings/shared/fr.json'
-// import nl from './text_strings/shared/nl.json'
-// import no from './text_strings/shared/nb.json'
-// import be from './text_strings/shared/be.json'
-// import it from './text_strings/shared/it.json'
-// import es from './text_strings/shared/es.json'
-// import de from './text_strings/shared/de.json'
-// import et from './text_strings/shared/et.json'
+import en from './text_strings/shared/en.json'
+import no from './text_strings/shared/nb.json'
+import da from './text_strings/shared/da.json'
+import fr from './text_strings/shared/fr.json'
+import nl from './text_strings/shared/nl.json'
+import fi from './text_strings/shared/fi.json'
+import it from './text_strings/shared/it.json'
+import es from './text_strings/shared/es.json'
+import de from './text_strings/shared/de.json'
 
 export const getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
   const textStrings = getSharedStrings(lang)
@@ -80,9 +77,9 @@ const getValidCardAnswer = (step: number, answer: number): boolean => {
 const getSharedStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'sv' : return sv
-    /* case 'da' : return da
+    case 'da' : return da
     case 'nb' :
-    case 'nn' : return no
+    case 'no' : return no
     case 'fr' : return fr
     case 'nl' : return nl
     case 'be' : return be
@@ -91,7 +88,7 @@ const getSharedStrings = (lang: string) => {
     case 'es' : return es
     case 'de' : return de
     case 'is' : return is
-    case 'et' : return et */
+    case 'et' : return et
     default : return en
   }
 }
