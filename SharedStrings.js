@@ -11,10 +11,11 @@ import fi from './text_strings/shared/fi.json'
 import it from './text_strings/shared/it.json'
 import es from './text_strings/shared/es.json'
 import de from './text_strings/shared/de.json'
+import flatten from 'flat'
 
 export const getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
-  const textStrings = getSharedStrings(lang).CardTest
-  return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
+  const textStrings = getSharedStrings(lang)
+  return getText(`CardTest.card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
 export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
@@ -25,8 +26,8 @@ export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * 
 export const getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 3; i++) answers.push({title: getText(`card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
-  answers.push({title: getText('card_test_answer_dont_know', [], textStrings), valid: false})
+  for (let i = 0; i < 3; i++) answers.push({title: getText(`CardTest.card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
+  answers.push({title: getText('CardTest.card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }
 
@@ -76,17 +77,17 @@ const getValidCardAnswer = (step: number, answer: number): boolean => {
 
 const getSharedStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv' : return sv
-    case 'da' : return da
+    case 'sv': return flatten(sv)
+    case 'da': return flatten(da)
     case 'nb' :
-    case 'no' : return no
-    case 'fr' : return fr
-    case 'nl' : return nl
-    case 'fi' : return fi
-    case 'it' : return it
-    case 'es' : return es
-    case 'de' : return de
-    default : return en
+    case 'no': return flatten(no)
+    case 'fr': return flatten(fr)
+    case 'nl': return flatten(nl)
+    case 'fi': return flatten(fi)
+    case 'it': return flatten(it)
+    case 'es': return flatten(es)
+    case 'de': return flatten(de)
+    default: return flatten(en)
   }
 }
 
