@@ -13,7 +13,7 @@ import es from './text_strings/shared/es.json'
 import de from './text_strings/shared/de.json'
 
 export const getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
-  const textStrings = getSharedStrings(lang)
+  const textStrings = getSharedStrings(lang).CardTest
   return getText(`card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
 }
 
