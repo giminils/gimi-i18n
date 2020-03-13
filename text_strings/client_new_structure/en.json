@@ -997,7 +997,7 @@
   "cloud_savings_account_title": "Piggybank",
   "transactional_account_title": "Card",
   "to_n": "To %1$d",
-  "from_n": "{},%1$d",
+  "from_n": "From %1$d",
   "sms_invite_description": "wait... an SMS is on its way",
   "new_allowance_connection": "new allowance!",
   "new_allowance_connection_description": "You will get %1$d: {},%2$d every %1$d.",
@@ -3370,5 +3370,9 @@
   "KidCardRequestSuccessContainer": {},
   "KidCardRequestWaitingContainer": {},
   "KidCardRequestTakeoverContainer": {},
-  "ParentCardRequestTakeoverContainer": {}
+  "ParentCardRequestTakeoverContainer": {},
+  "UpcomingMaintenancesContainer": {
+    "maintenances_upcoming_disclaimer": "PLZ_CHECK Maintenance is coming up",
+    "upcoming_maintenances_title": "PLZ_CHECK Planned maintenances"
+  }
 }

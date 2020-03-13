@@ -3069,5 +3069,7 @@
   "kid_profile_empty_state_friend_connections": "Bjud in dina vänner! 😎",
   "kid_profile_empty_state_parent_connections": "Bjud in supporters för att få pengar! 🤑",
   "gimi_rating_bad": "PLZ_CHECK Nope",
-  "gimi_rating_good": "PLZ_CHECK Love it!"
+  "gimi_rating_good": "PLZ_CHECK Love it!",
+  "maintenances_upcoming_disclaimer": "PLZ_CHECK Maintenance is coming up",
+  "upcoming_maintenances_title": "PLZ_CHECK Planned maintenances"
 }

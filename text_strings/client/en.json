@@ -3069,5 +3069,7 @@
   "kid_profile_empty_state_friend_connections": "Invite your friends! 😎",
   "kid_profile_empty_state_parent_connections": "Invite supporters to get money! 🤑",
   "gimi_rating_bad": "Nope",
-  "gimi_rating_good": "Love it!"
+  "gimi_rating_good": "Love it!",
+  "maintenances_upcoming_disclaimer": "Maintenance is coming up",
+  "upcoming_maintenances_title": "Planned maintenances"
 }
