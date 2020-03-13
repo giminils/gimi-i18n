@@ -1,5 +1,6 @@
 // @flow
 import Accounting from 'accounting'
+import {removeTranslationHelpers} from './index'
 import sv from './text_strings/shared/sv.json'
 import en from './text_strings/shared/en.json'
 import no from './text_strings/shared/nb.json'
@@ -10,7 +11,6 @@ import fi from './text_strings/shared/fi.json'
 import it from './text_strings/shared/it.json'
 import es from './text_strings/shared/es.json'
 import de from './text_strings/shared/de.json'
-import {getText} from './index'
 
 export const getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
   const textStrings = getSharedStrings(lang)
@@ -88,4 +88,19 @@ const getSharedStrings = (lang: string) => {
     case 'de' : return de
     default : return en
   }
+}
+
+const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
+  if (textStrings === undefined) return ''
+  if (!textStrings || !langKey) return ''
+  let text = textStrings[langKey]
+  if (!text) return ''
+  text = removeTranslationHelpers(text)
+  text = text.trim()
+  if (values) values.forEach((item, index) => {
+    // $FlowFixMe //Needed 05.12.2017
+    text = text.split(`%${index + 1}$d`).join(item)
+  })
+  text = text.charAt(0).toUpperCase() + text.slice(1)
+  return text
 }
