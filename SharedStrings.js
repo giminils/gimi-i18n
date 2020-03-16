@@ -51,43 +51,17 @@ const getStringAnswerValues = (step: number, answer: number, config: Object) => 
 const getValidCardAnswer = (step: number, answer: number): boolean => {
   answer = answer + 1
   switch (true) {
-    case step === 1 && answer === 1:
-      return true
-    case step === 2 && answer === 3:
-      return true
-    case step === 3 && answer === 3:
-      return true
-    case step === 4 && answer === 1:
-      return true
-    case step === 5 && answer === 1:
-      return true
-    case step === 6 && answer === 2:
-      return true
-    case step === 7 && answer === 2:
-      return true
-    case step === 8 && answer === 3:
-      return true
-    case step === 9 && answer === 1:
-      return true
-    case step === 10 && answer === 3:
-      return true
+    case step === 1 && answer === 1: return true
+    case step === 2 && answer === 3: return true
+    case step === 3 && answer === 3: return true
+    case step === 4 && answer === 1: return true
+    case step === 5 && answer === 1: return true
+    case step === 6 && answer === 2: return true
+    case step === 7 && answer === 2: return true
+    case step === 8 && answer === 3: return true
+    case step === 9 && answer === 1: return true
+    case step === 10 && answer === 3: return true
     default: return false
-  }
-}
-
-const getSharedStrings = (lang: string) => {
-  switch (lang.substring(0, 2)) {
-    case 'sv': return flatten(sv)
-    case 'da': return flatten(da)
-    case 'nb' :
-    case 'no': return flatten(no)
-    case 'fr': return flatten(fr)
-    case 'nl': return flatten(nl)
-    case 'fi': return flatten(fi)
-    case 'it': return flatten(it)
-    case 'es': return flatten(es)
-    case 'de': return flatten(de)
-    default: return flatten(en)
   }
 }
 
@@ -104,4 +78,20 @@ const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   })
   text = text.charAt(0).toUpperCase() + text.slice(1)
   return text
+}
+
+function getSharedStrings (lang: string): Object {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return flatten(sv)
+    case 'da': return flatten(da)
+    case 'nb':
+    case 'no': return flatten(no)
+    case 'fr': return flatten(fr)
+    case 'nl': return flatten(nl)
+    case 'fi': return flatten(fi)
+    case 'it': return flatten(it)
+    case 'es': return flatten(es)
+    case 'de': return flatten(de)
+    default: return flatten(en)
+  }
 }
