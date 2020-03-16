@@ -90,7 +90,10 @@ describe('TextStrings', () => {
     supportedLanguageCodes.forEach(compareLang => {
       if (compareLang === 'en') return undefined
       const testingString = getText(key, [], 'capitalize', enTextStrings)
-      const variableMatches = testingString.match(/%\d\$d/gm)
+      const variablePartialMatches = testingString.match(/\$d/gm) || []
+      const variableMatches = testingString.match(/%\d\$d/gm) || []
+
+      expect(variablePartialMatches.length).toEqual(variableMatches.length)
       if (!variableMatches || variableMatches.length < 1) return undefined
       const compareString = getText(key, [], 'capitalize', getTextStrings(compareLang))
       return variableMatches.forEach(match => {
