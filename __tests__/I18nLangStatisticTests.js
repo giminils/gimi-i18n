@@ -7,7 +7,7 @@ const Slack = require('node-slack')
 jest.disableAutomock()
 
 describe('TextStrings', () => {
-  xit('it should export in slack the length of text_strings', () => {
+  test.skip('test should export in slack the length of text_strings', () => {
     let stringLengthData
 
     languageCodes.forEach(languageCode => {
@@ -15,18 +15,18 @@ describe('TextStrings', () => {
       const attachmentPayload = [
         {
           fallback: 'String lenght data',
-          text: 'Link to git "' + languageCode + '"  <https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
-          color: stringLengthData.status ? 'warning' : '#36a64f', // Can either be one of 'good', 'warning', 'danger', or any hex color code
+          text: 'Link to gtest "' + languageCode + '"  <https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
+          color: stringLengthData.status ? 'warning' : '#36a64f', // Can etesther be one of 'good', 'warning', 'danger', or any hex color code
           // Fields are displayed in a table on the message
           fields: stringLengthData.data
         }
       ]
-      // https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/be.json
+      // https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/be.json
       if (stringLengthData.data.length > 1) SendToSlackStats(attachmentPayload, languageCode)
     })
   })
 
-  it('it should show where we have PLZ_TRANSLATE', () => {
+  test('test should show where we have PLZ_TRANSLATE', () => {
     const stringTagData = []
     const jsonDataCheck = []
     const jsonDataTranslate = []
@@ -44,7 +44,10 @@ describe('TextStrings', () => {
       languageCodesHolder.forEach(lang => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
-        } catch (e) { expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('') }
+        } catch (e) {
+          // eslint-disable-next-line no-console
+          console.error(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('')
+        }
       })
     })
     // server and templates string data
@@ -65,7 +68,7 @@ describe('TextStrings', () => {
           if (jsonDataCheck[i].lang === data.lang) {
             jsonDataCheck[i].path.push(path)
             jsonDataCheck[i].count.push(data.plzCheck)
-            jsonDataCheck[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            jsonDataCheck[i].link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
             isAdded = true
           }
 
@@ -79,7 +82,7 @@ describe('TextStrings', () => {
           displayObject.lang = data.lang
           displayObject.path.push(path)
           displayObject.count.push(data.plzCheck)
-          displayObject.link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          displayObject.link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
           jsonDataCheck.push(displayObject)
         }
       }
@@ -93,7 +96,7 @@ describe('TextStrings', () => {
           if (jsonDataTranslate[i].lang === data.lang) {
             jsonDataTranslate[i].path.push(path)
             jsonDataTranslate[i].count.push(data.plzTrans)
-            jsonDataTranslate[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            jsonDataTranslate[i].link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
             isAdded = true
           }
 
@@ -107,7 +110,7 @@ describe('TextStrings', () => {
           displayObject.lang = data.lang
           displayObject.path.push(path)
           displayObject.count.push(data.plzTrans)
-          displayObject.link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          displayObject.link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
           jsonDataTranslate.push(displayObject)
         }
       }
@@ -121,7 +124,7 @@ describe('TextStrings', () => {
           if (jsonEmmaTag[i].lang === data.lang) {
             jsonEmmaTag[i].path.push(path)
             jsonEmmaTag[i].count.push(data.emmaTag)
-            jsonEmmaTag[i].link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            jsonEmmaTag[i].link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
             isAdded = true
           }
 
@@ -135,7 +138,7 @@ describe('TextStrings', () => {
           displayObject.lang = data.lang
           displayObject.path.push(path)
           displayObject.count.push(data.emmaTag)
-          displayObject.link.push('<https://github.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          displayObject.link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
           jsonEmmaTag.push(displayObject)
         }
       }
@@ -156,10 +159,10 @@ describe('TextStrings', () => {
   })
 })
 
-export const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string) => {
+const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string) => {
   const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
-    text: 'i18n Language files with languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
+    text: 'i18n Language files wtesth languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
     channel: '#i18n_translation_stat',
     username: 'I18nLangStatistics',
     icon_emoji: ':bread:',
@@ -168,7 +171,7 @@ export const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode:
     link_names: 1
   })
 }
-export const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
+const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
   const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
     text,
@@ -181,13 +184,13 @@ export const SendToSlackTagStats = (text: Array<Object>, languageCode: string) =
   })
 }
 
-export const SendToNonTech = (text: Array<Object>, languageCode: string) => {
+const SendToNonTech = (text: Array<Object>, languageCode: string) => {
   const slack = new Slack('https://hooks.slack.com/services/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')
   const attachmentPayload = [
     {
       fallback: 'Found EMMA',
       text: text,
-      color: 'warning' // Can either be one of 'good', 'warning', 'danger', or any hex color code
+      color: 'warning' // Can etesther be one of 'good', 'warning', 'danger', or any hex color code
       // Fields are displayed in a table on the message
     }
   ]

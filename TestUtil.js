@@ -103,7 +103,7 @@ export const compareKeysWithinTextStrings = (firstLang: Object, secondLang: Obje
   const keys = Object.keys(firstLang)
   keys.forEach(key => {
     const errorMessage = testCompareKeysWithinTextString(firstLang[key], secondLang[key], key)
-    expect(errorMessage).toEqual(undefined)
+    expect(errorMessage).toBeUndefined()
   })
 }
 

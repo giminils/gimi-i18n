@@ -9,6 +9,7 @@ let flatten = require('flat')
 
 describe('TextStrings', () => {
   it('should return Text Strings', () => {
+    // eslint-disable-next-line jest/prefer-to-be-undefined
     supportedLanguageCodes.forEach(lang => expect(getTextStrings(lang)).not.toEqual(undefined, 'Cant find TextStrings for: ' + lang))
   })
 
@@ -106,7 +107,7 @@ describe('TextStrings', () => {
     expect(getTextStrings('en')).toEqual(getTextStrings(''))
   })
 
-  xit('Text strings should not be more than 20% longer in other languages', () => {
+  it.skip('Text strings should not be more than 20% longer in other languages', () => {
     supportedLanguageCodes.forEach(lang2 => checkStringLenght(getTextStrings('en'), getTextStrings(lang2), 'en', lang2))
   })
 

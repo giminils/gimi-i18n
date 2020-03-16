@@ -18,16 +18,21 @@ let textStrings = {}
 textStringsTypes.forEach(textStringsType => {
   textStrings[textStringsType] = {}
 })
-textStringsTypes.forEach(textStringsType => {
-  let languageCodesHolder = languageCodes
-  if (textStringsType === 'client') languageCodesHolder = languageCodes
-  if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
-  if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
-
-  languageCodesHolder.forEach(lang => {
-    try {
-      textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
-    } catch (e) { expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('') }
+describe('should be able to find files', () => {
+  textStringsTypes.forEach(textStringsType => {
+    let languageCodesHolder = languageCodes
+    if (textStringsType === 'client') languageCodesHolder = languageCodes
+    if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
+    if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
+    languageCodesHolder.forEach(lang => {
+      try {
+        textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
+      } catch (e) {
+        test('should not have not defined strings', () => {
+          expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('')
+        })
+      }
+    })
   })
 })
 // server and templates string data
@@ -123,7 +128,7 @@ test('it should not have uppercase in string keys', () => {
   expect(jsonArrayUpperCase).toEqual([])
 })
 
-xit('it should not start with empty space', () => {
+it.skip('it should not start with empty space', () => {
   expect(jsonArrayEmptySpaces).toEqual([])
 })
 

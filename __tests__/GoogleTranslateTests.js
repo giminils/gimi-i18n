@@ -1,7 +1,7 @@
 jest.disableAutomock()
 
 describe('AnnaHelper', () => {
-  xit('it should be able to hash string', () => {
+  it.skip('it should be able to hash string', () => {
     /* translate.translate('<span class="notranslate">{goal.updated_by.name}</span> har aktiverat sparmål <span class="notranslate">{goal.title}</span>.', 'sv')
       .then((err, translation) => {
         if (err) throw err

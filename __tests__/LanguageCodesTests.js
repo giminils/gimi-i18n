@@ -4,11 +4,11 @@ jest.disableAutomock()
 
 describe('LanguageCodes', () => {
   it('it should return LanguageCodes', () => {
-    expect(getLangugageCodes()).not.toEqual(undefined)
+    expect(getLangugageCodes()).not.toBeUndefined()
   })
 
   it('it should return textStrings for all LanguageCodes', () => {
     let languageCodes = getLangugageCodes()
-    languageCodes.forEach(languageCode => expect(getTextStrings(languageCode.code)).not.toEqual(undefined))
+    languageCodes.forEach(languageCode => expect(getTextStrings(languageCode.code)).not.toBeUndefined())
   })
 })
