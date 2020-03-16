@@ -18,11 +18,11 @@ let syncNewStructureTextStrings = (filePath: string, file: string, lang: string,
   if (file === 'default.json') return
   if (file === 'lang.json') return
   let path = getPath(filePath, file)
-  let textStrings = fs.readFileSync(path, { encoding: 'utf8' })
+  let textStrings = fs.readFileSync(path, {encoding: 'utf8'})
   textStrings = JSON.parse(textStrings)
 
   let client_orig_path = getPath('./text_strings/client', file)
-  let client_orig_textStrings = fs.readFileSync(client_orig_path, { encoding: 'utf8' })
+  let client_orig_textStrings = fs.readFileSync(client_orig_path, {encoding: 'utf8'})
   client_orig_textStrings = JSON.parse(client_orig_textStrings)
   let client_orig_langKeys = Object.keys({...client_orig_textStrings})
   let flatStrings = flatten(textStrings)
@@ -36,23 +36,20 @@ let syncNewStructureTextStrings = (filePath: string, file: string, lang: string,
       console.log(`Deleting key: '${key}' from ${filePath}/${file}`)
     }) */
 
-
-
   // Add to new structure
   let existingLangKeys = Object.keys({...flatStrings}).map(key => {
-     var langKey = key.split(".")
-     langKey = langKey[langKey.length - 1]
-     return langKey
+    let langKey = key.split('.')
+    langKey = langKey[langKey.length - 1]
+    return langKey
   })
 
   let missingLangKeys = client_orig_langKeys.filter((clientLangKey) => !existingLangKeys.includes(clientLangKey))
 
-  if (missingLangKeys && missingLangKeys.length > 0) {
+  if (missingLangKeys && missingLangKeys.length > 0)
     missingLangKeys.forEach(missingKey => {
       console.log(`adding ${missingKey} to ${path}`)
       lang[missingKey] = client_orig_textStrings[missingKey]
     })
-  }
 
   let newTextStrings = {...lang}
 
@@ -76,7 +73,7 @@ let syncNewStructureTextStrings = (filePath: string, file: string, lang: string,
   // Save changes
   newTextStrings = JSON.stringify(newTextStrings, undefined, 2)
   fs.unlinkSync(path)
-  fs.writeFileSync(path, newTextStrings, { encoding: 'utf8' })
+  fs.writeFileSync(path, newTextStrings, {encoding: 'utf8'})
 }
 
 let runSara = (filePath: string): * => {
@@ -96,16 +93,15 @@ let runSara = (filePath: string): * => {
   fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
 }
 
-
 let syncTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
   let path = getPath(filePath, file)
-  let textStrings = fs.readFileSync(path, { encoding: 'utf8' })
+  let textStrings = fs.readFileSync(path, {encoding: 'utf8'})
   textStrings = JSON.parse(textStrings)
   // Delete Support
-  Object.keys({ ...textStrings })
+  Object.keys({...textStrings})
     .filter((key) => lang[key] === undefined)
     .forEach((key) => {
       delete textStrings[key]
@@ -135,9 +131,8 @@ let syncTextStrings = (filePath: string, file: string, lang: string, _default: *
   // Save changes
   newTextStrings = JSON.stringify(newTextStrings, undefined, 2)
   fs.unlinkSync(path)
-  fs.writeFileSync(path, newTextStrings, { encoding: 'utf8' })
+  fs.writeFileSync(path, newTextStrings, {encoding: 'utf8'})
 }
-
 
 templateDir.forEach((filePath) => {
   return runSara(filePath)
