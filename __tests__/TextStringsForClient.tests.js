@@ -92,8 +92,9 @@ describe('TextStrings', () => {
       const testingString = getText(key, [], 'capitalize', enTextStrings)
       const variablePartialMatches = testingString.match(/\$d/gm) || []
       const variableMatches = testingString.match(/%\d\$d/gm) || []
-
-      expect(variablePartialMatches.length).toEqual(variableMatches.length)
+      test('should have variable match %d$d', () => {
+        expect(variablePartialMatches).toHaveLength(variableMatches.length)
+      })
       if (!variableMatches || variableMatches.length < 1) return undefined
       const compareString = getText(key, [], 'capitalize', getTextStrings(compareLang))
       return variableMatches.forEach(match => {
