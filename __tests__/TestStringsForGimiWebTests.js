@@ -1,4 +1,4 @@
-
+/* eslint jest/expect-expect: 0 */
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings} from '../TestUtil'
 import {gimiWebLanguageCodes} from '../index'

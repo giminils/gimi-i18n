@@ -1,4 +1,5 @@
 /* eslint no-console:0 */
+/* eslint jest/expect-expect:  0 */
 import {getNativeErrorMessageStrings, supportedLanguageCodes, languageCodes} from '../index'
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders} from '../TestUtil'
 

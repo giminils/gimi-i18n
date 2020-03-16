@@ -1,5 +1,6 @@
 
 /* eslint no-console:0 */
+/* eslint jest/expect-expect:  0 */
 import {getTextStrings, getClientNewStructureStrings, getClienStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'

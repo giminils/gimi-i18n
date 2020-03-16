@@ -1,4 +1,5 @@
 
+/* eslint jest/expect-expect:  0 */
 import fs from 'fs'
 import jsonValidator from 'json-dup-key-validator'
 jest.disableAutomock()

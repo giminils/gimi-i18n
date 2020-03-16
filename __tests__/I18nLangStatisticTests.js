@@ -1,4 +1,4 @@
-
+/* eslint jest/expect-expect: 0 */
 import {getTextStrings, languageCodes, gimiWebLanguageCodes, languageCodesForTranslation} from '../index'
 import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 let languageCodesHolder = languageCodes

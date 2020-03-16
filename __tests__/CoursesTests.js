@@ -13,7 +13,7 @@ describe('Courses', () => {
   chapterIDs.forEach(chapterID => {
     it(`${chapterID} chapterID must be unique`, () => {
       const uniqueids = chapterIDs.filter(id => id === chapterID)
-      expect(uniqueids.length).toEqual(1)
+      expect(uniqueids).toHaveLength(1)
     })
   })
 })
