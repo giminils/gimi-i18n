@@ -2,7 +2,7 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 let fs = require('fs')
 let flatten = require('flat')
-let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/client_new_structure']
+let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/client_new_structure', './text_strings/shared']
 
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
@@ -87,7 +87,7 @@ let runSara = (filePath: string): * => {
   let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
   let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
   strings = JSON.parse(strings)
-  if (filePath.includes('new_structure')) return runSaraWithNewStructure(filePath, strings, _default)
+  if (filePath.includes('new_structure' || 'shared')) return runSaraWithNewStructure(filePath, strings, _default)
   fs.readdirSync(filePath).forEach((file) => syncTextStrings(filePath, file, strings, _default))
 
   // fix swedish TextStrings formatting
