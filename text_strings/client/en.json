@@ -3071,5 +3071,10 @@
   "gimi_rating_bad": "Nope",
   "gimi_rating_good": "Love it!",
   "maintenances_upcoming_disclaimer": "Maintenance is coming up",
-  "upcoming_maintenances_title": "Planned maintenances"
+  "upcoming_maintenances_title": "Planned maintenances",
+  "kid_profile_tests_section_title": "Achievements",
+  "card_test_name": "Card test",
+  "kid_profile_test_not_completed": "Not completed",
+  "kid_profile_test_success": "Nailed!",
+  "kid_profile_test_fail": "Failed!"
 }

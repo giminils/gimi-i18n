@@ -3071,5 +3071,10 @@
   "gimi_rating_bad": "PLZ_CHECK Nope",
   "gimi_rating_good": "PLZ_CHECK Love it!",
   "maintenances_upcoming_disclaimer": "PLZ_CHECK Maintenance is coming up",
-  "upcoming_maintenances_title": "PLZ_CHECK Planned maintenances"
+  "upcoming_maintenances_title": "PLZ_CHECK Planned maintenances",
+  "kid_profile_tests_section_title": "PLZ_CHECK Achievements",
+  "card_test_name": "PLZ_CHECK Card test",
+  "kid_profile_test_not_completed": "PLZ_CHECK Not completed",
+  "kid_profile_test_success": "PLZ_CHECK Nailed!",
+  "kid_profile_test_fail": "PLZ_CHECK Failed!"
 }

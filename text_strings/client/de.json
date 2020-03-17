@@ -3071,5 +3071,10 @@
   "gimi_rating_bad": "PLZ_TRANSLATE Nope",
   "gimi_rating_good": "PLZ_TRANSLATE Love it!",
   "maintenances_upcoming_disclaimer": "PLZ_TRANSLATE Maintenance is coming up",
-  "upcoming_maintenances_title": "PLZ_TRANSLATE Planned maintenances"
+  "upcoming_maintenances_title": "PLZ_TRANSLATE Planned maintenances",
+  "kid_profile_tests_section_title": "PLZ_TRANSLATE Achievements",
+  "card_test_name": "PLZ_TRANSLATE Card test",
+  "kid_profile_test_not_completed": "PLZ_TRANSLATE Not completed",
+  "kid_profile_test_success": "PLZ_TRANSLATE Nailed!",
+  "kid_profile_test_fail": "PLZ_TRANSLATE Failed!"
 }
