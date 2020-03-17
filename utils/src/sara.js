@@ -7,10 +7,10 @@ let templateDir = ['./text_strings/server', './text_strings/templates', './text_
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
 let runSaraWithNewStructure = (filePath: string, textStrings: string, _default: *): * => {
-  fs.readdirSync(filePath).forEach((file) => {
-    // textStrings = flatten(textStrings)
-    syncNewStructureTextStrings(filePath, file, textStrings, _default)
-  })
+  // fs.readdirSync(filePath).forEach((file) => {
+  // textStrings = flatten(textStrings)
+  // syncNewStructureTextStrings(filePath, file, textStrings, _default)
+  // })
 }
 
 let syncNewStructureTextStrings = (filePath: string, file: string, lang: string, _default: *) => {

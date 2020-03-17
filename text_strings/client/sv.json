@@ -3077,5 +3077,7 @@
   "kid_profile_test_not_completed": "Ej genomfört",
   "kid_profile_test_success": "Lyckades!",
   "kid_profile_test_fail": "Misslyckades!",
-  "fin_lit_test_name": "Pengarskills"
+  "fin_lit_test_1_name": "PLZ_CHECK Money skills",
+  "fin_lit_test_2_name": "PLZ_CHECK Money skills 1",
+  "fin_lit_test_3_name": "PLZ_CHECK Money skills 3"
 }
