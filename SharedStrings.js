@@ -13,15 +13,15 @@ import es from './text_strings/shared/es.json'
 import de from './text_strings/shared/de.json'
 import flatten from 'flat'
 
-export const getFinLitTestQuestion = (testNumber: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
+export const getFinLitQuestion = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
   const textStrings = getSharedStrings(lang)
-  return addCurrencyToMoney(getText(`FinancialLiteracyTest1.question_${step}`, [], textStrings))
+  return addCurrencyToMoney(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings))
 }
 
-export const getFinLitTestAnswer = (testNumber: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
+export const getFinLitAnswer = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 3; i++) answers.push({title: getText(`FinancialLiteracyTest1.question_${step}_answer_${i + 1}`, [], textStrings), valid: getValidFinLitAnswer(testNumber, step, i)})
+  for (let i = 0; i < 3; i++) answers.push({title: addCurrencyToMoney(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings)), valid: getValidFinLitAnswer(testType, step, i)})
   answers.push({title: getText('CardTest.card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }

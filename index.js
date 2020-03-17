@@ -105,7 +105,7 @@ import deNativeErrorMessages from './native/error-messages/de.json'
 import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
-import {getCardQuestion, getCardAnswer, getInfluencerPortalAnswer} from './SharedStrings'
+import {getCardQuestion, getCardAnswer, getInfluencerPortalAnswer, getFinLitQuestion, getFinLitAnswer} from './SharedStrings'
 import Cities from './Cities.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
@@ -283,9 +283,13 @@ export const exchangeRates = ExchangeRates
 
 export const getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
 
-export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
-
 export const getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
+
+export const getFinLitTestQuestion = (testType: number, step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getFinLitQuestion(testType, step, lang, currencyConfig)
+
+export const getFinLitTestAnswer = (testType: number, step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getFinLitAnswer(testType, step, lang, currencyConfig)
+
+export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
 
 export const getCourses = () => Courses
 
