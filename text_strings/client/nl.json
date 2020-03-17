@@ -3076,5 +3076,6 @@
   "card_test_name": "PLZ_TRANSLATE Card test",
   "kid_profile_test_not_completed": "PLZ_TRANSLATE Not completed",
   "kid_profile_test_success": "PLZ_TRANSLATE Nailed!",
-  "kid_profile_test_fail": "PLZ_TRANSLATE Failed!"
+  "kid_profile_test_fail": "PLZ_TRANSLATE Failed!",
+  "fin_lit_test_name": "PLZ_TRANSLATE Money skills"
 }

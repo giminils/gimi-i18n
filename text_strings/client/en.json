@@ -3076,5 +3076,6 @@
   "card_test_name": "Card test",
   "kid_profile_test_not_completed": "Not completed",
   "kid_profile_test_success": "Nailed!",
-  "kid_profile_test_fail": "Failed!"
+  "kid_profile_test_fail": "Failed!",
+  "fin_lit_test_name": "Money skills"
 }

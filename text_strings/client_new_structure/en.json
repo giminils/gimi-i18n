@@ -3379,5 +3379,6 @@
   "card_test_name": "PLZ_CHECK Card test",
   "kid_profile_test_not_completed": "PLZ_CHECK Not completed",
   "kid_profile_test_success": "PLZ_CHECK Nailed!",
-  "kid_profile_test_fail": "PLZ_CHECK Failed!"
+  "kid_profile_test_fail": "PLZ_CHECK Failed!",
+  "fin_lit_test_name": "PLZ_CHECK Money skills"
 }
