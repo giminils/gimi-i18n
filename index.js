@@ -286,9 +286,9 @@ export const getCardTestQuestion = (step: number, lang?: string = 'en', currency
 
 export const getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
 
-export const getFinLitTestQuestion = (testType: number, step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getFinLitQuestion(testType, step, lang, currencyConfig)
+export const getFinLitTestQuestion = (testType: number, step: number, lang?: string = 'en', currencyCode?: string = 'SEK') => getFinLitQuestion(testType, step, lang, currencyCode)
 
-export const getFinLitTestAnswer = (testType: number, step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getFinLitAnswer(testType, step, lang, currencyConfig)
+export const getFinLitTestAnswer = (testType: number, step: number, lang?: string = 'en', currencyCode?: string = 'SEK') => getFinLitAnswer(testType, step, lang, currencyCode)
 
 export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
 

@@ -1,6 +1,6 @@
 // @flow
+import {removeTranslationHelpers, formatMoney} from './index'
 import Accounting from 'accounting'
-import {removeTranslationHelpers} from './index'
 import sv from './text_strings/shared/sv.json'
 import en from './text_strings/shared/en.json'
 import no from './text_strings/shared/nb.json'
@@ -15,13 +15,13 @@ import flatten from 'flat'
 
 export const getFinLitQuestion = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
   const textStrings = getSharedStrings(lang)
-  return addCurrencyToMoney(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings))
+  return addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings), currencyConfig)
 }
 
 export const getFinLitAnswer = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 3; i++) answers.push({title: addCurrencyToMoney(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings)), valid: getValidFinLitAnswer(testType, step, i)})
+  for (let i = 0; i < 3; i++) answers.push({title: addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings), currencyConfig), valid: getValidFinLitAnswer(testType, step, i)})
   answers.push({title: getText('CardTest.card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }
@@ -137,13 +137,13 @@ function getSharedStrings (lang: string): Object {
   }
 }
 
-function addCurrencyToMoney (text: string): string {
+function addCurrencyToGimiTestStrings (text: string, currencyCode: string): string {
   if (!text) return ''
   let varsToConvert = text.match(/\$c{[^\d]*(\d+)[^\d]*\}/g)
   if (!!varsToConvert && Array.isArray(varsToConvert)) varsToConvert.forEach((item, index) => {
     let value = item.match(/[0-9]+/)
     if (value) value = value[0]
-    value = Accounting.formatMoney(value, 'kr', 2, '', ',', '%v %s')
+    value = formatMoney(value, currencyCode)
     text = text.split(item).join(value)
   })
   return text
