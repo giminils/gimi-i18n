@@ -7,10 +7,40 @@ let templateDir = ['./text_strings/server', './text_strings/templates', './text_
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
 let runSaraWithNewStructure = (filePath: string, textStrings: string, _default: *): * => {
-  // fs.readdirSync(filePath).forEach((file) => {
-  // textStrings = flatten(textStrings)
-  // syncNewStructureTextStrings(filePath, file, textStrings, _default)
-  // })
+  fs.readdirSync(filePath).forEach((file) => {
+    syncNewTextStrings(filePath, file, textStrings, _default)
+  })
+}
+
+const syncNewTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
+  if (file.indexOf('.json') === -1) return
+  if (file === 'default.json') return
+  if (file === 'lang.json') return
+  if (file === 'en.json') return
+
+  const path = `${filePath}/${file}`
+  const fileString = fs.readFileSync(path)
+  const fileObj = JSON.parse(fileString)
+
+  addMissingKeyOnNode(fileObj, lang)
+  const newFileString = JSON.stringify(fileObj, null, 2)
+  fs.writeFileSync(path, newFileString, {encoding: 'utf8'})
+}
+
+const addMissingKeyOnNode = (nodeObj: Object, langNodeObj: Object) => {
+  Object.keys(langNodeObj).forEach(key => {
+    if (!!nodeObj[key]) {
+      if (typeof nodeObj[key] === 'object' && typeof langNodeObj[key] === 'object') addMissingKeyOnNode(nodeObj[key], langNodeObj[key])
+      return
+    }
+    if (typeof langNodeObj[key] === 'string') {
+      nodeObj[key] = `PLZ_TRANSLATE ${langNodeObj[key]}`
+    }
+    if (typeof langNodeObj[key] === 'object') {
+      nodeObj[key] = {}
+      addMissingKeyOnNode(nodeObj[key], langNodeObj[key])
+    }
+  })
 }
 
 let syncNewStructureTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
