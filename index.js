@@ -102,6 +102,7 @@ import itNativeErrorMessages from './native/error-messages/it.json'
 import esNativeErrorMessages from './native/error-messages/es.json'
 import deNativeErrorMessages from './native/error-messages/de.json'
 
+import Accounting from 'accounting'
 import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
@@ -357,4 +358,90 @@ export let getClientNewStructureStrings = (lang: string) => {
     case 'de': return deNewStructure // german
     default: return enNewStructure
   }
+}
+
+export function formatMoney (value: number, currencyCode?: string): string {
+  let currencySymbol = getCurrencySymbol(currencyCode)
+  switch (currencyCode) {
+    // no decimals
+    case 'SEK':
+    case 'DKK':
+    case 'NOK': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%v%s')
+    case 'ISK': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%v%s')
+    case 'THB': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'XAF': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%v%s')
+    case 'SLL': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'MUR': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'GBP': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'USD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'NAD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'AUD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'CAD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'NZD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'BWP': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'ZWD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'SZL': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'LSL': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'ZMF': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'TZS': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'KES': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'UGX': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'NGN': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'GHS': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'LRD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'GMD': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'SCR': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'SHP': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'INR': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'IDR': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'CHF': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'COP': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    case 'ZAR': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+    default: return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '', '.', '%s%v')
+  }
+}
+
+export function getCurrencySymbol (currencyCode: ?string): string {
+  switch (currencyCode) {
+    case 'SEK':
+    case 'DKK':
+    case 'NOK': return 'kr'
+    case 'USD':
+    case 'NAD':
+    case 'AUD':
+    case 'CAD':
+    case 'NZD':
+    case 'LRD':
+    case 'COP': return '$'
+    case 'GBP': return '£'
+    case 'BWP': return 'P'
+    case 'ZWD': return 'Z$'
+    case 'SZL': return 'L'
+    case 'LSL': return 'L'
+    case 'ZMF': return 'ZK'
+    case 'TZS': return 'Sh'
+    case 'KES': return 'Sh'
+    case 'UGX': return 'Sh'
+    case 'NGN': return '₦'
+    case 'GHS': return '₵'
+    case 'GMD': return 'D'
+    case 'SCR': return 'Re'
+    case 'SHP': return '£'
+    case 'INR': return '₹'
+    case 'ISK': return 'kr'
+    case 'THB': return '฿'
+    case 'XAF': return 'CFA'
+    case 'SLL': return 'Le'
+    case 'MUR': return 'Rs'
+    case 'CHF': return 'SFr'
+    case 'IDR': return 'Rp'
+    case 'ZAR': return 'R'
+    default: return '€'
+  }
+}
+
+export function formatDecimals (value: number): number {
+  let decimalValue = value - Math.floor(value)
+  if (decimalValue === 0) return 0
+  return 2
 }
