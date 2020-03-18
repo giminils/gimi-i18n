@@ -1,12 +1,12 @@
 
 /* eslint no-console:0 */
 /* eslint jest/expect-expect:  0 */
-import {getTextStrings, getClientNewStructureStrings, getClienStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
+import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
 import * as path from 'path'
 jest.disableAutomock()
-let flatten = require('flat')
+// let flatten = require('flat')
 
 describe('TextStrings', () => {
   it('should return Text Strings', () => {
@@ -18,7 +18,7 @@ describe('TextStrings', () => {
     compareKeysForLanguages(supportedLanguageCodes, getTextStrings, languageCodes)
   })
 
-  test.skip('should have same key in new_structure as old', () => {
+  /* lest.sskip('should have same key in new_structure as old', () => {
     supportedLanguageCodes.forEach(lang => {
       let newStruct = getClientNewStructureStrings(lang)
       newStruct = flatten(newStruct)
@@ -34,14 +34,14 @@ describe('TextStrings', () => {
         if (newStructKeys.indexOf(oldKey) === -1) console.warn('key: ' + oldKey + ' is missing in new_structure in file' + ' ' + lang + '.json')
         expect(newStructKeys.indexOf(oldKey) !== -1).toEqual(true)
         // if (oldKey === 'hej') console.warn(newStruct[oldKey])
-        /* if (typeof newStruct[oldKey] === 'object')
+        if (typeof newStruct[oldKey] === 'object')
             return Object.keys(newStruct[oldKey]).find(key => key !== undefined)
-          return oldKey !== undefined */
+          return oldKey !== undefined
       })
 
       // expect().toEqual()
     })
-  })
+  }) */
 
   it('should not allow duplicate keys in JSON', () => {
     gimiWebLanguageCodes.forEach(lang => {
