@@ -22,25 +22,43 @@ const syncNewTextStrings = (filePath: string, file: string, lang: string, _defau
   const fileString = fs.readFileSync(path)
   const fileObj = JSON.parse(fileString)
 
-  addMissingKeyOnNode(fileObj, lang)
+  // move root keys to sub nodes
+  addMissingKeyOnNode(fileObj, fileObj, lang)
+  // delete extra keys
   const newFileString = JSON.stringify(fileObj, null, 2)
   fs.writeFileSync(path, newFileString, {encoding: 'utf8'})
 }
 
-const addMissingKeyOnNode = (nodeObj: Object, langNodeObj: Object) => {
+const addMissingKeyOnNode = (rootObj: Object, nodeObj: Object, langNodeObj: Object) => {
   Object.keys(langNodeObj).forEach(key => {
-    if (!!nodeObj[key]) {
-      if (typeof nodeObj[key] === 'object' && typeof langNodeObj[key] === 'object') addMissingKeyOnNode(nodeObj[key], langNodeObj[key])
+
+    if (typeof langNodeObj[key] === 'string') {
+      if (!!nodeObj[key] && typeof nodeObj[key] === 'string') {
+        // some params in translations had double PLZ_TRANSLATE
+        nodeObj[key] = createPlzTranslateString(nodeObj[key])
+        return
+      }
+      // migrate old
+      if (!!rootObj[key] && typeof rootObj[key] === 'string') {
+        nodeObj[key] = createPlzTranslateString(rootObj[key])
+        delete rootObj[key]
+        return
+      }
+      nodeObj[key] = createPlzTranslateString(langNodeObj[key])
       return
     }
-    if (typeof langNodeObj[key] === 'string') {
-      nodeObj[key] = `PLZ_TRANSLATE ${langNodeObj[key]}`
-    }
     if (typeof langNodeObj[key] === 'object') {
-      nodeObj[key] = {}
-      addMissingKeyOnNode(nodeObj[key], langNodeObj[key])
+      if (!nodeObj[key]) nodeObj[key] = {}
+      if (!!nodeObj[key] && typeof nodeObj[key] === 'string') nodeObj[key] = {}
+      addMissingKeyOnNode(rootObj, nodeObj[key], langNodeObj[key])
+      return
     }
   })
+}
+
+const createPlzTranslateString = (str: string) => {
+  if (str.match(/PLZ_TRANSLATE /)) str = `PLZ_TRANSLATE ${str.replace(/PLZ_TRANSLATE /g, '')}`
+  return str
 }
 
 let syncNewStructureTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
