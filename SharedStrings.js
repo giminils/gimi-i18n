@@ -77,12 +77,28 @@ function getValidFinLitAnswer (testNumber: number, step: number, answer: number)
       }
     case 2:
       switch (true) {
-        case step === 1 && answer === 1: return false
+        case step === 1 && answer === 1: return true
+        case step === 2 && answer === 4: return true
+        case step === 3 && answer === 4: return true
+        case step === 4 && answer === 3: return true
+        case step === 5 && answer === 4: return true
+        case step === 6 && answer === 1: return true
+        case step === 7 && answer === 3: return true
+        case step === 8 && answer === 2: return true
+        case step === 9 && answer === 2: return true
+        case step === 10 && answer === 2: return true
         default: return false
       }
     case 3:
       switch (true) {
-        case step === 1 && answer === 1: return false
+        case step === 1 && answer === 4: return true
+        case step === 2 && answer === 2: return true
+        case step === 3 && answer === 3: return true
+        case step === 4 && answer === 1: return true
+        case step === 5 && answer === 1: return true
+        case step === 6 && answer === 1: return true
+        case step === 7 && answer === 3: return true
+        case step === 8 && answer === 3: return true
         default: return false
       }
     default: return false
