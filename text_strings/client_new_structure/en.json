@@ -1714,8 +1714,6 @@
   "monthly_payout_month_x": "Payday %1$d",
   "transfer_now": "Deposit",
   "custom_notif_invite_to_kids": "Invite more supporters to your children!",
-  "buy_premium_education_title": "You need Gimi Master to access this!",
-  "buy_premium_education_subtitle": "When your child is ready to manage real money, you can upgrade to Master.",
   "order_gimi_card_now": "Order the Gimi card now!",
   "sign_up_on_card_waitlist": "Sign up on card waitlist!",
   "get_the_gimi_card": "Get the Gimi card!",
@@ -3083,7 +3081,6 @@
     "bind_sub_title": "Who are you upgrading?",
     "bind_sub_subtitle": "Select the child that will get upgraded to Gimi Master"
   },
-  "BuyPremiumEducationContainer": {},
   "OnfidoFailedVerificationContainer": {},
   "SPARTesterContainer": {},
   "CardPromoKidSelectorContainer": {},
