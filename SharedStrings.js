@@ -152,15 +152,21 @@ function getSharedStrings (lang: string): Object {
   }
 }
 
-function addCurrencyToGimiTestStrings (text: string, currencyCode: string): string {
+export function addCurrencyToGimiTestStrings (text: string, currencyCode: string): string {
   if (!text) return ''
   let varsToConvert = text.match(/\$c{[^\d]*(\d+)[^\d]*\}/g)
   if (!!varsToConvert && Array.isArray(varsToConvert)) varsToConvert.forEach((item, index) => {
-    let value = item.match(/[0-9]+/)
-    if (value) value = value[0]
-    let exchangeRate = ExchangeRates[currencyCode] || 1
-    value = formatMoney(value / exchangeRate, currencyCode)
-    text = text.split(item).join(value)
+    text = replaceToCurrencyAndExchangeFromSEK(text, currencyCode, item)
   })
   return text
+}
+
+export function replaceToCurrencyAndExchangeFromSEK (text: string, currencyCode: string, item: string): string {
+  let value = item.match(/[0-9]+/)
+  if (!value) return ''
+  value = Number(value[0])
+
+  let exchangeRate = ExchangeRates[currencyCode] || 1
+  value = formatMoney(Math.ceil((value * exchangeRate) / 5) * 5, currencyCode)
+  return text.split(item).join(value)
 }
