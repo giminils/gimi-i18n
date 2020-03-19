@@ -21,8 +21,7 @@ export const getFinLitQuestion = (testType: number, step: number, lang?: string 
 export const getFinLitAnswer = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 3; i++) answers.push({title: addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings), currencyConfig), valid: getValidFinLitAnswer(testType, step, i)})
-  answers.push({title: getText('CardTest.card_test_answer_dont_know', [], textStrings), valid: false})
+  for (let i = 0; i < 4; i++) answers.push({title: addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings), currencyConfig), valid: getValidFinLitAnswer(testType, step, i)})
   return answers
 }
 
