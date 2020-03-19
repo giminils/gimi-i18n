@@ -156,17 +156,11 @@ export function addCurrencyToGimiTestStrings (text: string, currencyCode: string
   if (!text) return ''
   let varsToConvert = text.match(/\$c{[^\d]*(\d+)[^\d]*\}/g)
   if (!!varsToConvert && Array.isArray(varsToConvert)) varsToConvert.forEach((item, index) => {
-    text = replaceToCurrencyAndExchangeFromSEK(text, currencyCode, item)
+    let value = item.match(/[0-9]+/)
+    if (value) value = value[0]
+    let exchangeRate = ExchangeRates[currencyCode] || 1
+    value = formatMoney(Math.floor((value * exchangeRate) / 5) * 5, currencyCode)
+    text = text.split(item).join(value)
   })
   return text
-}
-
-export function replaceToCurrencyAndExchangeFromSEK (text: string, currencyCode: string, item: string): string {
-  let value = item.match(/[0-9]+/)
-  if (!value) return ''
-  value = Number(value[0])
-
-  let exchangeRate = ExchangeRates[currencyCode] || 1
-  value = formatMoney(Math.ceil((value * exchangeRate) / 5) * 5, currencyCode)
-  return text.split(item).join(value)
 }
