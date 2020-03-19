@@ -1,5 +1,6 @@
 // @flow
 import {removeTranslationHelpers, formatMoney} from './index'
+import ExchangeRates from './ExchangeRates'
 import Accounting from 'accounting'
 import sv from './text_strings/shared/sv.json'
 import en from './text_strings/shared/en.json'
@@ -12,7 +13,6 @@ import it from './text_strings/shared/it.json'
 import es from './text_strings/shared/es.json'
 import de from './text_strings/shared/de.json'
 import flatten from 'flat'
-
 export const getFinLitQuestion = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
   const textStrings = getSharedStrings(lang)
   return addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings), currencyConfig)
@@ -158,7 +158,8 @@ function addCurrencyToGimiTestStrings (text: string, currencyCode: string): stri
   if (!!varsToConvert && Array.isArray(varsToConvert)) varsToConvert.forEach((item, index) => {
     let value = item.match(/[0-9]+/)
     if (value) value = value[0]
-    value = formatMoney(value, currencyCode)
+    let exchangeRate = ExchangeRates[currencyCode] || 1
+    value = formatMoney(value / exchangeRate, currencyCode)
     text = text.split(item).join(value)
   })
   return text
