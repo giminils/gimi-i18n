@@ -2424,8 +2424,6 @@
   "restore_purchase": "Restaurar compra",
   "custom_notification_snapchat_premium": "Aquí hay un filtro de Snapchat, exclusivamente para usuarios Master 😎",
   "restore_purchase_info": "¿No se muestra tu suscripción por aquí? Haz clic aquí para conectar con la tienda de aplicaciones",
-  "bind_sub_title": "Selecciona el niño al cual enlazar la suscripción",
-  "bind_sub_subtitle": "Selecciona el niño al que le será actualizado a Gimi Master",
   "no_subs_to_bind": "No hay compras disponibles para vincularlas",
   "successfull_bind_of_sub": "Vínculo sub exitoso para %1$d",
   "successfully_klarna_kyc": "Tu identidad ha sido verificada 😎",
@@ -3077,7 +3075,10 @@
     "why_kid_needs_phone_for_premium_text": "Para mantener la cuenta y el dinero a salvo con una autenticación de dos pasos, hace falta añadir un número de teléfono."
   },
   "DefaultContainer": {},
-  "KidSubscriptionBoundPicker": {},
+  "KidSubscriptionBoundPicker": {
+    "bind_sub_title": "Selecciona el niño al cual enlazar la suscripción",
+    "bind_sub_subtitle": "Selecciona el niño al que le será actualizado a Gimi Master"
+  },
   "BuyPremiumEducationContainer": {},
   "OnfidoFailedVerificationContainer": {},
   "SPARTesterContainer": {},

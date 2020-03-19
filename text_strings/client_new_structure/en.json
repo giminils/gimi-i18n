@@ -2428,8 +2428,6 @@
   "restore_purchase": "Restore purchase",
   "custom_notification_snapchat_premium": "Congratz! Here's a Snapchat filter, exclusively for Master users 😎",
   "restore_purchase_info": "Your subscription not showing up here? Click here to connect to App Store",
-  "bind_sub_title": "Who are you upgrading? ",
-  "bind_sub_subtitle": "Select the child that will get upgraded to Gimi Master",
   "no_subs_to_bind": "No available purchases to bind",
   "successfull_bind_of_sub": "Successfully bound sub to %1$d",
   "successfully_klarna_kyc": "Your identity is verified 😎",
@@ -3081,7 +3079,10 @@
     "why_kid_needs_phone_for_premium_text": "A phone number is required to keep the user account, and the money safe with 2-factor authentication."
   },
   "DefaultContainer": {},
-  "KidSubscriptionBoundPicker": {},
+  "KidSubscriptionBoundPicker": {
+    "bind_sub_title": "Who are you upgrading?",
+    "bind_sub_subtitle": "Select the child that will get upgraded to Gimi Master"
+  },
   "BuyPremiumEducationContainer": {},
   "OnfidoFailedVerificationContainer": {},
   "SPARTesterContainer": {},

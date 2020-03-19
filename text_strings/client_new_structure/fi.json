@@ -2424,8 +2424,6 @@
   "restore_purchase": "Palauta ostos",
   "custom_notification_snapchat_premium": "Onneksi olkoon! Tässä sinulle Snapchat filtteri, yksinomaan Master-käyttäjille 😎",
   "restore_purchase_info": "Eikö tilauksesi näy täällä? Klikkaa tästä yhdistääksesi App Storeen",
-  "bind_sub_title": "Valitse lapsi, jolle haluat antaa tilauksen",
-  "bind_sub_subtitle": "Valitse lapsi, jonka haluat saavan Gimi Master-tilauksen käyttöönsä",
   "no_subs_to_bind": "Ei ostoja, joita voitaisiin yhdistää lapseen",
   "successfull_bind_of_sub": "Tilaus yhdistettiin lapseen %1$d onnistuneesti",
   "successfully_klarna_kyc": "Henkilöllisyytesi on vahvistettu 😎",
@@ -3077,7 +3075,10 @@
     "why_kid_needs_phone_for_premium_text": "Puhelinnumero on pakollinen, jotta käyttäjätili ja rahat ovat turvassa 2-vaiheisen autentikoinnin avulla."
   },
   "DefaultContainer": {},
-  "KidSubscriptionBoundPicker": {},
+  "KidSubscriptionBoundPicker": {
+    "bind_sub_title": "Valitse lapsi, jolle haluat antaa tilauksen",
+    "bind_sub_subtitle": "Valitse lapsi, jonka haluat saavan Gimi Master-tilauksen käyttöönsä"
+  },
   "BuyPremiumEducationContainer": {},
   "OnfidoFailedVerificationContainer": {},
   "SPARTesterContainer": {},

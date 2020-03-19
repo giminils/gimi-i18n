@@ -2424,8 +2424,6 @@
   "restore_purchase": "Återställ köp",
   "custom_notification_snapchat_premium": "Grattiz! Här är ett Snapchat filter, exklusivt för Master-användare 😎",
   "restore_purchase_info": "Har du redan en prenumeration? Klicka för att hämta den!",
-  "bind_sub_title": "Vem ska uppgraderas?",
-  "bind_sub_subtitle": "Välj vilket barn som ska uppgraderas till Gimi Master",
   "no_subs_to_bind": "Det finns inga tillgängliga köp",
   "successfull_bind_of_sub": "Prenumeration är nu knuten till %1$d",
   "successfully_klarna_kyc": "Din identitet har verifierats 😎",
@@ -3077,7 +3075,10 @@
     "why_kid_needs_phone_for_premium_text": "Ett telefonnummer krävs för att hålla ditt konto, och dina penagr säkra med 2-faktorautentisering."
   },
   "DefaultContainer": {},
-  "KidSubscriptionBoundPicker": {},
+  "KidSubscriptionBoundPicker": {
+    "bind_sub_title": "Vem ska uppgraderas?",
+    "bind_sub_subtitle": "Välj vilket barn som ska uppgraderas till Gimi Master"
+  },
   "BuyPremiumEducationContainer": {},
   "OnfidoFailedVerificationContainer": {},
   "SPARTesterContainer": {},

@@ -2424,8 +2424,6 @@
   "restore_purchase": "Genskab køb",
   "custom_notification_snapchat_premium": "Tillykke! Her er et Snapchat filter, eksklusivt for Master brugere 😎",
   "restore_purchase_info": "Dukker dit abonnemenet ikke op her? Klik her for at forbinde til App Store",
-  "bind_sub_title": "Vælg barn til at tilføje abonnement til",
-  "bind_sub_subtitle": "Vælg det barn vil blive opgraderet til Gimi-Master",
   "no_subs_to_bind": "Ingen tilgængelige køb at forbinde",
   "successfull_bind_of_sub": "Forbundet abonnent med succes til %1$d",
   "successfully_klarna_kyc": "Din identitet er verificeret 😎",
@@ -3077,7 +3075,10 @@
     "why_kid_needs_phone_for_premium_text": "PLZ_TRANSLATE A phone number is required to keep the user account, and the money safe with 2-factor authentication."
   },
   "DefaultContainer": {},
-  "KidSubscriptionBoundPicker": {},
+  "KidSubscriptionBoundPicker": {
+    "bind_sub_title": "Vælg barn til at tilføje abonnement til",
+    "bind_sub_subtitle": "Vælg det barn vil blive opgraderet til Gimi-Master"
+  },
   "BuyPremiumEducationContainer": {},
   "OnfidoFailedVerificationContainer": {},
   "SPARTesterContainer": {},
