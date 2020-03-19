@@ -103,6 +103,7 @@ import esNativeErrorMessages from './native/error-messages/es.json'
 import deNativeErrorMessages from './native/error-messages/de.json'
 
 import Accounting from 'accounting'
+import flatten from 'flat'
 import sekConfig from './config/config_SEK.json'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
@@ -346,17 +347,17 @@ export let getClienStrings = (lang: string) => {
 
 export let getClientNewStructureStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv': return svNewStructure // sweden
+    case 'sv': return flatten(svNewStructure) // sweden
     case 'nb':
-    case 'nn': return noNewStructure // norway
-    case 'da': return daNewStructure // danish
-    case 'fr': return frNewStructure // france
-    case 'nl': return nlNewStructure // netherlands
-    case 'fi': return fiNewStructure // finish
-    case 'it': return itNewStructure // italian
-    case 'es': return esNewStructure // spanish
-    case 'de': return deNewStructure // german
-    default: return enNewStructure
+    case 'nn': return flatten(noNewStructure) // norway
+    case 'da': return flatten(daNewStructure) // danish
+    case 'fr': return flatten(frNewStructure) // france
+    case 'nl': return flatten(nlNewStructure) // netherlands
+    case 'fi': return flatten(fiNewStructure) // finish
+    case 'it': return flatten(itNewStructure) // italian
+    case 'es': return flatten(esNewStructure) // spanish
+    case 'de': return flatten(deNewStructure) // german
+    default: return flatten(enNewStructure)
   }
 }
 
