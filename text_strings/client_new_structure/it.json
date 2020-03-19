@@ -3040,7 +3040,6 @@
     "onfido_fail_code_date_of_birth": "Non siamo riusciti a verificare la tua data di nascita...",
     "onfido_fail_code_date_of_birth_desc": "Il tuo numero personale non coincide con quello sul documento. Assicurati di star utilizzando il tuo documento e che sia un'immagine di buona qualità"
   },
-  "SPARTesterContainer": {},
   "CardPromoKidSelectorContainer": {},
   "PremiumInfoContainer": {
     "premium_info_title": "PLZ_TRANSLATE Upgrade to Gimi Master",

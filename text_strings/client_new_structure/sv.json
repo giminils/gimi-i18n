@@ -3040,7 +3040,6 @@
     "onfido_fail_code_date_of_birth": "Kunde inte verifiera födelsedatum...",
     "onfido_fail_code_date_of_birth_desc": "Ditt personnummer matchar inte dokumentet. Stäm av att du använder ditt eget dokument och att bilden är högupplöst."
   },
-  "SPARTesterContainer": {},
   "CardPromoKidSelectorContainer": {},
   "PremiumInfoContainer": {
     "premium_info_title": "Uppgradera till Gimi Master",

@@ -3040,7 +3040,6 @@
     "onfido_fail_code_date_of_birth": "Impossible de vérifier votre date de naissance...",
     "onfido_fail_code_date_of_birth_desc": "Votre numéro personnel ne correspond pas à votre document. Assurez-vous que vous utilisez votre document et de la bonne qualité de l'image"
   },
-  "SPARTesterContainer": {},
   "CardPromoKidSelectorContainer": {},
   "PremiumInfoContainer": {
     "premium_info_title": "Abonnez-vous à Gimi Master",

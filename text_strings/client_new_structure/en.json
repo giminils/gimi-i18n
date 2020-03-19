@@ -3042,7 +3042,6 @@
     "onfido_fail_code_date_of_birth": "Could not verify your date of birth...",
     "onfido_fail_code_date_of_birth_desc": "Your personal number does not match with your document. Make sure you are using your document and that its good image quality"
   },
-  "SPARTesterContainer": {},
   "CardPromoKidSelectorContainer": {},
   "PremiumInfoContainer": {
     "premium_info_title": "Upgrade to Gimi Master",

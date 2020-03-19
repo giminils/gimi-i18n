@@ -3040,7 +3040,6 @@
     "onfido_fail_code_date_of_birth": "Kunne ikke verificere din fødselsdato...",
     "onfido_fail_code_date_of_birth_desc": "Dit personnummer matcher ikke dit dokument. Prøv venligst igen og sikr dig at det matcher dit dokument"
   },
-  "SPARTesterContainer": {},
   "CardPromoKidSelectorContainer": {},
   "PremiumInfoContainer": {
     "premium_info_title": "PLZ_TRANSLATE Upgrade to Gimi Master",
