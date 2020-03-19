@@ -132,7 +132,7 @@ let runSara = (filePath: string): * => {
   let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
   let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
   strings = JSON.parse(strings)
-  if (filePath.includes('new_structure' || 'shared')) return runSaraWithNewStructure(filePath, strings, _default)
+  if (filePath.includes('new_structure') || filePath.includes('shared')) return runSaraWithNewStructure(filePath, strings, _default)
   fs.readdirSync(filePath).forEach((file) => syncTextStrings(filePath, file, strings, _default))
 
   // fix swedish TextStrings formatting
