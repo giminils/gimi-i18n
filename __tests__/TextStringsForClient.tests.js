@@ -142,12 +142,18 @@ describe('TextStrings', () => {
           })
           if (!variableMatches || variableMatches.length < 1) return undefined
           const compareString = getText(key, [], 'capitalize', getTextStrings(lang))
+          const comparingStringMatches = compareString.match(/%\d\$d/gm) || []
+          test(key + ' in ' + lang + '.json is missing ', () => {
+            expect(variableMatches).toHaveLength(comparingStringMatches.length)
+          })
+          /* better descriptive but more taxing
           return variableMatches.forEach(match => {
             test(key + ' in ' + lang + '.json is missing ' + match, () => {
               const includesVariableMatch = compareString.indexOf(match) >= 0
               expect(includesVariableMatch).toEqual(true)
             })
           })
+          */
         })
       })
     }
