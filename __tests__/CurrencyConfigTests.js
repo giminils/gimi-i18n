@@ -26,6 +26,7 @@ describe('Config', () => {
     allConfigs.forEach((x) =>
       allConfigs.forEach(y =>
         Object.keys(getCurrencyConfig(x)).forEach(xKey =>
+          // eslint-disable-next-line jest/prefer-to-be-undefined
           Object.keys(getCurrencyConfig(y)).forEach(yKey => expect(getCurrencyConfig(x)[yKey]).not.toEqual(undefined, `Have you configured ${yKey} on currecy ${x}?`))
         )
       )

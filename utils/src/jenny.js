@@ -1,4 +1,3 @@
-
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 let keysToIgnore = [
   'child_about_data_tracking_title',
@@ -78,9 +77,8 @@ let keysToIgnore = [
   'notification_permissions_restricted'
 ]
 
-
 let keysThatAreNotUsed = []
-let keysToDelete= []
+let keysToDelete = []
 let removeMatchedKeys = []
 let fs = require('fs')
 let rootDir = '..'
@@ -144,7 +142,6 @@ let checkIfIsStoredInUnUsed = (key) => {
   // text string is probably obsolete
   if (isOk)
    if (keysToIgnore.some(ignoredKey => key.indexOf(ignoredKey) !== -1)) { ignoredKeys++ } else {
-
       removeMatchedKeys.push(key)
       console.log(` string is used \t\t${key}\t\t\t`)
     }
@@ -197,7 +194,6 @@ if (process.argv.some(x => x === 'f')) {
   fs.writeFileSync(storeUnUsedTextStrings, storeStrings, {encoding: 'utf8'})
 
   console.log(`Done`)
-
 }
 
 if (process.argv.some(x => x === 'm')) {
@@ -206,7 +202,6 @@ if (process.argv.some(x => x === 'm')) {
   let storeStrings = fs.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
   storeStrings = JSON.parse(storeStrings)
   Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
-
 
   removeMatchedKeys.forEach((key) => {
     // console.log(`remove matched key', ${key}`)
@@ -222,15 +217,12 @@ if (process.argv.some(x => x === 'm')) {
   run with d to remove ${matchedKeys} text_strings from ${storeUnUsedTextStrings}
   `)
 
-
-
 if (process.argv.some(x => x === 'd')) {
   /** ****** Deleting TextStrings *******/
   console.log(`Removing ${matchedKeys} text_strings from ${textStringsSvFilePath} ..`)
   let storeStrings = fs.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
   storeStrings = JSON.parse(storeStrings)
   Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
-
 
   keysThatAreNotUsed.forEach((key) => {
     delete storeStrings[key]
@@ -250,7 +242,6 @@ if (process.argv.some(x => x === 'd')) {
   console.log(`run with d to remove stored strings`)
 }
 
-
 if (process.argv.some(x => x === 'a')) {
   let exec = require('child_process').exec
   let log = output => console.log(output)
@@ -260,23 +251,20 @@ if (process.argv.some(x => x === 'a')) {
       callback(stdout)
     })
   }
-    execute('git checkout master', log)
-    execute('npm run jenny s', log)
-    console.log('jenny stored')
-    execute('cd ..', log)
-    execute('git checkout stage', log)
-    console.log('stage')
-    execute('cd i18n', log)
-    execute('npm run jenny m', log)
-    console.log('jenny matched stage')
-    execute('cd ..', log)
-    execute('git checkout dev', log)
-    console.log('dev')
-    execute('cd i18n', log)
-    execute('npm run jenny m', log)
-    console.log('jenny matched dev')
-    execute('npm run jenny d', log)
+  execute('git checkout master', log)
+  execute('npm run jenny s', log)
+  console.log('jenny stored')
+  execute('cd ..', log)
+  execute('git checkout stage', log)
+  console.log('stage')
+  execute('cd i18n', log)
+  execute('npm run jenny m', log)
+  console.log('jenny matched stage')
+  execute('cd ..', log)
+  execute('git checkout dev', log)
+  console.log('dev')
+  execute('cd i18n', log)
+  execute('npm run jenny m', log)
+  console.log('jenny matched dev')
+  execute('npm run jenny d', log)
 }
-
-
-

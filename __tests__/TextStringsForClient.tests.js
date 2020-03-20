@@ -146,6 +146,7 @@ describe('TextStrings', () => {
           test(key + ' in ' + lang + '.json is missing ', () => {
             expect(variableMatches).toHaveLength(comparingStringMatches.length)
           })
+          return undefined
           /* better descriptive but more taxing
           return variableMatches.forEach(match => {
             test(key + ' in ' + lang + '.json is missing ' + match, () => {

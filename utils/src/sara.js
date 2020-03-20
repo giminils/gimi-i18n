@@ -31,7 +31,6 @@ const syncNewTextStrings = (filePath: string, file: string, lang: string, _defau
 
 const addMissingKeyOnNode = (rootObj: Object, nodeObj: Object, langNodeObj: Object) => {
   Object.keys(langNodeObj).forEach(key => {
-
     if (typeof langNodeObj[key] === 'string') {
       if (!!nodeObj[key] && typeof nodeObj[key] === 'string') {
         // some params in translations had double PLZ_TRANSLATE
@@ -51,7 +50,6 @@ const addMissingKeyOnNode = (rootObj: Object, nodeObj: Object, langNodeObj: Obje
       if (!nodeObj[key]) nodeObj[key] = {}
       if (!!nodeObj[key] && typeof nodeObj[key] === 'string') nodeObj[key] = {}
       addMissingKeyOnNode(rootObj, nodeObj[key], langNodeObj[key])
-      return
     }
   })
 }
