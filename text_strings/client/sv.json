@@ -2575,7 +2575,7 @@
   "invalid_email_error": "Lägg till en giltig e-post",
   "enter_stripe_card_details_title": "Spara ditt kort",
   "enter_stripe_card_details_subtitle": "Det här kortet används för Payday-utbetalningar!",
-  "enter_stripe_card_details_full_name_label": "Namn på kortet",
+  "enter_stripe_card_details_full_name_label": "Kortinnehavare",
   "enter_stripe_card_details_card_number_label": "Kortnummer",
   "enter_stripe_card_details_expiry_label": "Utgångsdatum",
   "enter_stripe_card_details_cvv_label": "CVV",
