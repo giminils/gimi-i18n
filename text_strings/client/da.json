@@ -466,7 +466,6 @@
   "missing_camera_desc": "Uden adgang til kameraet kan du ikke tage et billede",
   "general_pin": "PIN kode",
   "premium_account_created": "Din Premium konto er blevet oprettet",
-  "permission_kid_gets_card": "Din kontakt %1$d får Gimi kortet og vil derfor begynde at håndtere rigtige penge. Du vil ikke længere kunne sende %1$d virtuelle penge til skyen.\n\nFor at sende rigtige penge, skal du spørge %2$d om tilladelse. Uden tilladelse vil du ikke kunne foretage indbetalinger\n\nVil du spørge om tilladelse?",
   "permission_parent_deposit": "%1$d beder om tilladelse til at indbetale penge til %2$d. Vil du tillade dette?",
   "photo_permissions_denied": "Adgang til galleri blev nægtet",
   "contacts_permissions_denied": "Adgang til kontakter blev nægtet",

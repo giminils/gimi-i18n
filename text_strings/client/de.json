@@ -466,7 +466,6 @@
   "missing_camera_desc": "Ohne Zugriff auf die Kamera, kannst Du kein Bild machen.",
   "general_pin": "PIN Code",
   "premium_account_created": "Dein Premium-Konto wurde kreiert",
-  "permission_kid_gets_card": "Ihr Kontakt %1$d erhält die Gimi Karte und wird daher mit echtem Geld umgehen. Du kannst %1$d kein virtuelles Geld an die Cloud senden. \n\nUm echtes Geld zu senden, musst Du %2$d um Erlaubnis fragen. Ohne Erlaubnis kannst Du keine Einzahlungen tätigen. \n\nMöchtest Du um Erlaubnis fragen?",
   "permission_parent_deposit": "%1$d bittet um Erlaubnis Geld für %2$d einzahlen zu dürfen. Möchtest Du die Erlaubnis erteilen?",
   "photo_permissions_denied": "Zugriff auf Galerie wurde abgelehnt",
   "contacts_permissions_denied": "Zugriff auf Kontakte wurde abgelehnt",

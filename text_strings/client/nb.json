@@ -466,7 +466,6 @@
   "missing_camera_desc": "Uten tilgang til kameraet kan du ikke ta et bilde",
   "general_pin": "PIN-kode",
   "premium_account_created": "Din premium-konto har blitt laget",
-  "permission_kid_gets_card": "Din kontakt %1$d skal få ett Gimi-kort og begynner dermed å håndtere ekte penger. Du kan ikke lenger sende %1$d virtuelle penger til Spart.\n\nFor at du skal kunne sende ekte penger må du be %2$d om tillatelse. Uten tillatelse kan du ikke gjøre noen innskudd.\n\nVil du spørre om tillatelse?",
   "permission_parent_deposit": "%1$d ber om tillatelse til å sette inn penger til %2$d. Vil du gi tillatelse?",
   "photo_permissions_denied": "Tilgang til galleri ble nektet",
   "contacts_permissions_denied": "Tilgang til kontakter ble nektet",

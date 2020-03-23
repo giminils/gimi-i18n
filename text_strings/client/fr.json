@@ -466,7 +466,6 @@
   "missing_camera_desc": "Sans accès à l'appareil photo, vous ne pouvez pas prendre de photo",
   "general_pin": "Code confidentiel",
   "premium_account_created": "Votre compte Premier a été créé",
-  "permission_kid_gets_card": "Votre contact %1$d va avoir une carte Gimi, et donc manipuler de l'argent réel. Vous ne serez plus en mesure d'envoyer de l'argent virtuel %1$d vers le cloud .\n\nPour envoyer de l'argent réel, vous devez demander la permission à  %2$d. Sans permission, vous ne pourrez pas faire de dépôts.\n\nVoulez-vous demander la permission?",
   "permission_parent_deposit": "%1$d demande la permission pour déposer de l'argent pour %2$d. Voulez-vous lui donner la permission?",
   "photo_permissions_denied": "L'accès à la galerie a été rejeté",
   "contacts_permissions_denied": "L'accès aux contacts a été rejeté",

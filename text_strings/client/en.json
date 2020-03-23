@@ -466,7 +466,6 @@
   "missing_camera_desc": "Without access to the camera, you can't take a picture",
   "general_pin": "PIN code",
   "premium_account_created": "Your Master account has been created",
-  "permission_kid_gets_card": " %1$d is getting the Gimi card and will start managing real money. You will no longer be able to send %1$d virtual money to the piggybank.\n\nTo send real money you need to ask %2$d for permission. Without permission you'll not be able to make any deposits.\n\nDo you want to ask for permission?",
   "permission_parent_deposit": "%1$d is asking for permission to deposit money to %2$d. Do you want to give permission?",
   "photo_permissions_denied": "Access to gallery was denied",
   "contacts_permissions_denied": "Access to contacts were denied",

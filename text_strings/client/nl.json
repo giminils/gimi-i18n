@@ -466,7 +466,6 @@
   "missing_camera_desc": "Zonder toegang tot de camera, kun je geen foto nemen",
   "general_pin": "Pincode",
   "premium_account_created": "Je Premium-account is aangemaakt",
-  "permission_kid_gets_card": "Je contactpersoon %1$d krijgt de Gimi-kaart en zal daarom met echt geld gaan werken. Je kunt %1$d virtueel geld niet langer naar de cloud verzenden. \n\n Om echt geld over te maken, moet je %2$d toestemming vragen. Zonder toestemming kun je geen stortingen doen. \n\n Wil je toestemming vragen?",
   "permission_parent_deposit": "%1$d vraagt toestemming om geld te storten op %2$d. Wil je toestemming geven?",
   "photo_permissions_denied": "Toegang tot galerij werd geweigerd",
   "contacts_permissions_denied": "Toegang tot contactpersonen werd geweigerd",

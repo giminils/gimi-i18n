@@ -466,7 +466,6 @@
   "missing_camera_desc": "Et voi ottaa kuvaa ilman kameraa",
   "general_pin": "PIN-koodi",
   "premium_account_created": "Premium-tilisi on luotu",
-  "permission_kid_gets_card": "Kontaktisi %1$d saa Gimi-kortin ja voi käyttää oikeaa rahaa. Et pysty enää lähettää hänelle virtuaalista rahaa säästöihin.\n\nJos haluat käyttää oikeaa rahaa, sinun täytyy pyytää lupa (%2$d). Ilman lupaa et pysty tallettamaan rahaa.\n\nHaluatko pyytää lupa?",
   "permission_parent_deposit": "%1$d pyytää lupaa tehdä talletuksen lapselle %2$d. Haluatko antaa luvan?",
   "photo_permissions_denied": "Et ole antanut lupaa käyttää laitteesi galleriaa",
   "contacts_permissions_denied": "Et ole antanut lupaa käyttää laitteesi kontakteja",

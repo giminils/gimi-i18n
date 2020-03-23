@@ -466,7 +466,6 @@
   "missing_camera_desc": "Sin acceso a la cámara no puedes tomar una foto",
   "general_pin": "código PIN",
   "premium_account_created": "Se ha creado tu cuenta Premium",
-  "permission_kid_gets_card": "Tu contacto %1$d está adquiriendo la tarjeta Gimi, por lo que comenzará a manejar dinero real. Ya no podrán enviar %1$d dinero virtual para la nube..\n\nPara enviar dinero real, necesitas pedirle permiso a %2$d. Sin permiso no podrás hacer ningún depósito.\n\n¿Deseas pedir permiso?",
   "permission_parent_deposit": "%1$d está solicitando permiso para depositar dinero a %2$d. ¿Quieres dar la autorización?",
   "photo_permissions_denied": "Acceso denegado a la galería",
   "contacts_permissions_denied": "Acceso denegado a los contactos",
