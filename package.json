@@ -9,6 +9,7 @@
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "fix-lint": "npm run lint -- --fix",
     "sara": "npm run babelize && node ./utils/dest/sara.js",
+    "gil": "npm run babelize && node ./utils/dest/gil.js",
     "lili": "npm run babelize && node ./utils/dest/lili.js",
     "ida ": "npm run babelize && node ./utils/dest/ida.js",
     "gimi-translation-service": "npm run babelize && node ./utils/dest/gimi-translation-service.js",
