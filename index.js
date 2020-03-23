@@ -164,18 +164,19 @@ export const getEducationStrings = (lang: string) => {
 }
 
 export let getNewStructureTextStrings = (lang: string) => {
+  const clientNewStructure = getClientNewStructureStrings(lang)
   switch (lang.substring(0, 2)) {
-    case 'sv': return {..._default, ...svNewStructure, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ} // sweden
+    case 'sv': return {..._default, ...clientNewStructure, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ} // sweden
     case 'nb':
-    case 'nn': return {..._default, ...noNewStructure, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ} // norway
-    case 'da': return {..._default, ...daNewStructure, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ} // danish
-    case 'fr': return {..._default, ...frNewStructure, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ} // france
-    case 'nl': return {..._default, ...nlNewStructure, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // netherlands
-    case 'fi': return {..._default, ...fiNewStructure, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ} // finish
-    case 'it': return {..._default, ...itNewStructure, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ} // italian
-    case 'es': return {..._default, ...esNewStructure, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ} // spanish
-    case 'de': return {..._default, ...deNewStructure, ...deBot, ...deBotSurvey, ...deEducate, ...deFAQ} // german
-    default: return {..._default, ...enNewStructure, ...enBot, ...enBotSurvey, ...enEducate, ...enFAQ}
+    case 'nn': return {..._default, ...clientNewStructure, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ} // norway
+    case 'da': return {..._default, ...clientNewStructure, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ} // danish
+    case 'fr': return {..._default, ...clientNewStructure, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ} // france
+    case 'nl': return {..._default, ...clientNewStructure, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // netherlands
+    case 'fi': return {..._default, ...clientNewStructure, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ} // finish
+    case 'it': return {..._default, ...clientNewStructure, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ} // italian
+    case 'es': return {..._default, ...clientNewStructure, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ} // spanish
+    case 'de': return {..._default, ...clientNewStructure, ...deBot, ...deBotSurvey, ...deEducate, ...deFAQ} // german
+    default: return {..._default, ...clientNewStructure, ...enBot, ...enBotSurvey, ...enEducate, ...enFAQ}
   }
 }
 
