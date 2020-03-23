@@ -3079,5 +3079,6 @@
   "kid_profile_test_fail": "PLZ_TRANSLATE Failed!",
   "fin_lit_test_1_name": "PLZ_TRANSLATE Money skills 1",
   "fin_lit_test_2_name": "PLZ_TRANSLATE Money skills 2",
-  "fin_lit_test_3_name": "PLZ_TRANSLATE Money skills 3"
+  "fin_lit_test_3_name": "PLZ_TRANSLATE Money skills 3",
+  "pass_code_added": "PLZ_TRANSLATE Passcode added!"
 }
