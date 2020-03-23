@@ -187,10 +187,13 @@
     "confirm_delete": "are you sure?",
     "per_month": "/month",
     "per_year": "/year",
-    "general_forever": "Forever"
+    "general_forever": "Forever",
+    "gimi_rating_bad": "Nope",
+    "gimi_rating_good": "Love it!"
   },
   "errors": {
-    "general_error_message": "Something went wrong. Please try again later."
+    "general_error_message": "Something went wrong. Please try again later.",
+    "iap_could_not_bind_error": "Could not bind purchase, please contact support"
   },
   "default_kid_name": "your child",
   "send_invite": "invite",
@@ -2729,32 +2732,9 @@
   "support_gimi_you_choose_amount": "You choose how much!",
   "support_gimi_button": "Support Gimi with one click",
   "dont_support_gimi_button": "I don’t want to support Gimi",
-  "x_of_10": "%1$d/10",
-  "kid_card_test_success": "You nailed the card test! 🎉",
-  "kid_card_test_fail": "You failed the card test... ☹️",
-  "parent_kid_card_test_success": "%1$d nailed the card test! 🎉",
-  "parent_kid_card_test_fail": "%1$d failed the card test... ☹️",
-  "kid_passed_card_test_share_title": "I passed the card test 🎉",
-  "kid_failed_card_test_share_title": "I failed the card test ☹️",
   "card_valid_from": "Valid from",
   "card_expires_end": "Expires end",
-  "iap_could_not_bind_error": "Could not bind purchase, please contact support",
-  "promo_code_limit_reached": "You've reach the promo code use limit",
-  "signup_usertype_subtitle": "Parents, don't choose child here. It won't work.",
-  "signup_usertype_kid_title": "I'm a child",
-  "signup_usertype_kid_1": "🤑 Earn money by doing chores",
-  "signup_usertype_kid_2": "🌈 Save for a dream",
-  "signup_usertype_kid_3": "🛍️ Practice smart spending",
-  "signup_usertype_parent_title": "I'm a parent or supporter",
-  "signup_usertype_parent_1": "💰 Manage children's money",
-  "signup_usertype_parent_2": "🎓 Teach children about money",
-  "signup_usertype_parent_3": "💳 Order the Gimi card",
-  "kid_profile_parents_connections_section_title": "Parents",
-  "kid_profile_friend_connections_section_title": "Friends",
-  "kid_profile_empty_state_friend_connections": "Invite your friends! 😎",
-  "kid_profile_empty_state_parent_connections": "Invite supporters to get money! 🤑",
-  "gimi_rating_bad": "Nope",
-  "gimi_rating_good": "Love it!",
+
   "Popovers": {
     "qr_code_explainer_popover_title": "Connect using QR-code",
     "qr_code_explainer_popover_subtitle": "Either user can show the code on their phone for the other user to scan. Both the QR-code and the scanner can be found in settings under my contacts or using the invite-button.",
@@ -3015,7 +2995,9 @@
     "swish_qr_code_explainer_popover_title": "Show the code to get Swish money!",
     "swish_qr_code_explainer_popover_subtitle": "You can only get money with the QR code. You can’t use your phone number or send money.",
     "why_kid_needs_phone_for_premium_title": "We require a phone number for safety",
-    "why_kid_needs_phone_for_premium_text": "A phone number is required to keep the user account, and the money safe with 2-factor authentication."
+    "why_kid_needs_phone_for_premium_text": "A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
+    "kid_passed_card_test_share_title": "I passed the card test 🎉",
+    "kid_failed_card_test_share_title": "I failed the card test ☹️"
   },
   "DefaultContainer": {},
   "KidSubscriptionBoundPicker": {
@@ -3196,7 +3178,16 @@
   "OrderCardCardTermsAndConditionsContainer": {},
   "OrderCardDoneContainer": {},
   "CardTestContainer": {},
-  "CardTestEndContainer": {},
+  "CardTestEndForKidContainer": {
+    "kid_card_test_success": "You nailed the card test! 🎉",
+    "kid_card_test_fail": "You failed the card test... ☹️",
+    "x_of_10": "%1$d/10"
+  },
+  "CardTestEndForParentContainer": {
+    "parent_kid_card_test_success": "%1$d nailed the card test! 🎉",
+    "parent_kid_card_test_fail": "%1$d failed the card test... ☹️",
+    "x_of_10": "%1$d/10"
+  },
   "CardTestStartContainer": {},
   "CardWaitList": {},
   "ChangePINContainer": {},
@@ -3283,7 +3274,9 @@
   "KidSavingsForParentContainer": {},
   "ParentMoneyRequestContainer": {},
   "ParentSpendingNotificationSettings": {},
-  "ParentSubscriptionsContainer": {},
+  "ParentSubscriptionsContainer": {
+    "promo_code_limit_reached": "You've reach the promo code use limit"
+  },
   "PhoneNumberSearchContainer": {},
   "PigSettingsContainer": {},
   "PinSettingsContainer": {},
@@ -3307,7 +3300,17 @@
   "SignUpParentNameContainer": {},
   "SignUpParentPhoneContainer": {},
   "SignUpTermsAndConditionsContainer": {},
-  "SignUpUserTypeContainer": {},
+  "SignUpUserTypeContainer": {
+    "signup_usertype_subtitle": "Parents, don't choose child here. It won't work.",
+    "signup_usertype_kid_title": "I'm a child",
+    "signup_usertype_kid_1": "🤑 Earn money by doing chores",
+    "signup_usertype_kid_2": "🌈 Save for a dream",
+    "signup_usertype_kid_3": "🛍️ Practice smart spending",
+    "signup_usertype_parent_title": "I'm a parent or supporter",
+    "signup_usertype_parent_1": "💰 Manage children's money",
+    "signup_usertype_parent_2": "🎓 Teach children about money",
+    "signup_usertype_parent_3": "💳 Order the Gimi card"
+  },
   "SpendingNotificationsEditor": {},
   "StartContainer": {},
   "ChoreEditorForParentContainer": {},
@@ -3357,7 +3360,12 @@
   "KidPaydayTargetAccountSettingsContainer": {},
   "DevNotificationsContainer": {},
   "SharePiggyContainer": {},
-  "KidFriendProfileContainer": {},
+  "KidFriendProfileContainer": {
+    "kid_profile_parents_connections_section_title": "Parents",
+    "kid_profile_friend_connections_section_title": "Friends",
+    "kid_profile_empty_state_friend_connections": "Invite your friends! 😎",
+    "kid_profile_empty_state_parent_connections": "Invite supporters to get money! 🤑"
+  },
   "OrderCardSetPinContainer": {},
   "ExperimentalSetupKidUpgradeToPremiumContainer": {},
   "PremiumInfoForKidContainer": {},

@@ -187,10 +187,13 @@
     "confirm_delete": "Weet je het zeker?",
     "per_month": "PLZ_TRANSLATE /month",
     "per_year": "PLZ_TRANSLATE /year",
-    "general_forever": "Voor altijd"
+    "general_forever": "Voor altijd",
+    "gimi_rating_bad": "PLZ_TRANSLATE Nope",
+    "gimi_rating_good": "PLZ_TRANSLATE Love it!"
   },
   "errors": {
-    "general_error_message": "Er is iets fout gegaan. Probeer het alsjeblieft later opnieuw."
+    "general_error_message": "Er is iets fout gegaan. Probeer het alsjeblieft later opnieuw.",
+    "iap_could_not_bind_error": "PLZ_TRANSLATE Could not bind purchase, please contact support"
   },
   "default_kid_name": "jouw kind",
   "send_invite": "nodig uit",
@@ -2727,32 +2730,8 @@
   "support_gimi_you_choose_amount": "PLZ_TRANSLATE You choose how much!",
   "support_gimi_button": "PLZ_TRANSLATE Support Gimi with one click",
   "dont_support_gimi_button": "PLZ_TRANSLATE I don’t want to support Gimi",
-  "x_of_10": "PLZ_TRANSLATE %1$d/10",
-  "kid_card_test_success": "PLZ_TRANSLATE You nailed the card test! 🎉",
-  "kid_card_test_fail": "PLZ_TRANSLATE You failed the card test... ☹️",
-  "parent_kid_card_test_success": "PLZ_TRANSLATE %1$d nailed the card test! 🎉",
-  "parent_kid_card_test_fail": "PLZ_TRANSLATE %1$d failed the card test... ☹️",
-  "kid_passed_card_test_share_title": "PLZ_TRANSLATE I passed the card test 🎉",
-  "kid_failed_card_test_share_title": "PLZ_TRANSLATE I failed the card test ☹️",
   "card_valid_from": "PLZ_TRANSLATE Valid from",
   "card_expires_end": "PLZ_TRANSLATE Expires end",
-  "iap_could_not_bind_error": "PLZ_TRANSLATE Could not bind purchase, please contact support",
-  "promo_code_limit_reached": "You've reach the promo code use limit",
-  "signup_usertype_subtitle": "PLZ_TRANSLATE Parents, don't choose child here. It won't work.",
-  "signup_usertype_kid_title": "PLZ_TRANSLATE I'm a child",
-  "signup_usertype_kid_1": "PLZ_TRANSLATE 🤑 Earn money by doing chores",
-  "signup_usertype_kid_2": "PLZ_TRANSLATE 🌈 Save for a dream",
-  "signup_usertype_kid_3": "PLZ_TRANSLATE 🛍️ Practice smart spending",
-  "signup_usertype_parent_title": "PLZ_TRANSLATE I'm a parent or supporter",
-  "signup_usertype_parent_1": "PLZ_TRANSLATE 💰 Manage children's money",
-  "signup_usertype_parent_2": "PLZ_TRANSLATE 🎓 Teach children about money",
-  "signup_usertype_parent_3": "PLZ_TRANSLATE 💳 Order the Gimi card",
-  "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
-  "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
-  "kid_profile_empty_state_friend_connections": "PLZ_TRANSLATE Invite your friends! 😎",
-  "kid_profile_empty_state_parent_connections": "PLZ_TRANSLATE Invite supporters to get money! 🤑",
-  "gimi_rating_bad": "PLZ_TRANSLATE Nope",
-  "gimi_rating_good": "PLZ_TRANSLATE Love it!",
   "Popovers": {
     "qr_code_explainer_popover_title": "Verbind met QR-code",
     "qr_code_explainer_popover_subtitle": "Elke gebruiker kan de code op zijn telefoon tonen zodat de andere gebruiker kan scannen. Zowel de QR-code als de scanner zijn te vinden in de instellingen onder mijn contactpersonen of met de knop om uit te nodigen.",
@@ -3013,7 +2992,9 @@
     "swish_qr_code_explainer_popover_title": "Toon de code om geld van Swish te krijgen!",
     "swish_qr_code_explainer_popover_subtitle": "Je krijgt alleen geld met de QR-code. Je kunt je telefoonnummer niet gebruiken en ook geen geld versturen.",
     "why_kid_needs_phone_for_premium_title": "PLZ_TRANSLATE We require a phone number for safety",
-    "why_kid_needs_phone_for_premium_text": "PLZ_TRANSLATE A phone number is required to keep the user account, and the money safe with 2-factor authentication."
+    "why_kid_needs_phone_for_premium_text": "PLZ_TRANSLATE A phone number is required to keep the user account, and the money safe with 2-factor authentication.",
+    "kid_passed_card_test_share_title": "PLZ_TRANSLATE I passed the card test 🎉",
+    "kid_failed_card_test_share_title": "PLZ_TRANSLATE I failed the card test ☹️"
   },
   "DefaultContainer": {},
   "KidSubscriptionBoundPicker": {
@@ -3281,7 +3262,9 @@
   "KidSavingsForParentContainer": {},
   "ParentMoneyRequestContainer": {},
   "ParentSpendingNotificationSettings": {},
-  "ParentSubscriptionsContainer": {},
+  "ParentSubscriptionsContainer": {
+    "promo_code_limit_reached": "You've reach the promo code use limit"
+  },
   "PhoneNumberSearchContainer": {},
   "PigSettingsContainer": {},
   "PinSettingsContainer": {},
@@ -3305,7 +3288,17 @@
   "SignUpParentNameContainer": {},
   "SignUpParentPhoneContainer": {},
   "SignUpTermsAndConditionsContainer": {},
-  "SignUpUserTypeContainer": {},
+  "SignUpUserTypeContainer": {
+    "signup_usertype_subtitle": "PLZ_TRANSLATE Parents, don't choose child here. It won't work.",
+    "signup_usertype_kid_title": "PLZ_TRANSLATE I'm a child",
+    "signup_usertype_kid_1": "PLZ_TRANSLATE 🤑 Earn money by doing chores",
+    "signup_usertype_kid_2": "PLZ_TRANSLATE 🌈 Save for a dream",
+    "signup_usertype_kid_3": "PLZ_TRANSLATE 🛍️ Practice smart spending",
+    "signup_usertype_parent_title": "PLZ_TRANSLATE I'm a parent or supporter",
+    "signup_usertype_parent_1": "PLZ_TRANSLATE 💰 Manage children's money",
+    "signup_usertype_parent_2": "PLZ_TRANSLATE 🎓 Teach children about money",
+    "signup_usertype_parent_3": "PLZ_TRANSLATE 💳 Order the Gimi card"
+  },
   "SpendingNotificationsEditor": {},
   "StartContainer": {},
   "ChoreEditorForParentContainer": {},
@@ -3355,7 +3348,12 @@
   "KidPaydayTargetAccountSettingsContainer": {},
   "DevNotificationsContainer": {},
   "SharePiggyContainer": {},
-  "KidFriendProfileContainer": {},
+  "KidFriendProfileContainer": {
+    "kid_profile_parents_connections_section_title": "PLZ_TRANSLATE Parents",
+    "kid_profile_friend_connections_section_title": "PLZ_TRANSLATE Friends",
+    "kid_profile_empty_state_friend_connections": "PLZ_TRANSLATE Invite your friends! 😎",
+    "kid_profile_empty_state_parent_connections": "PLZ_TRANSLATE Invite supporters to get money! 🤑"
+  },
   "OrderCardSetPinContainer": {},
   "ExperimentalSetupKidUpgradeToPremiumContainer": {},
   "PremiumInfoForKidContainer": {},
@@ -3382,5 +3380,15 @@
   "kid_profile_test_not_completed": "PLZ_TRANSLATE Not completed",
   "kid_profile_test_success": "PLZ_TRANSLATE Nailed!",
   "kid_profile_test_fail": "PLZ_TRANSLATE Failed!",
-  "fin_lit_test_name": "PLZ_TRANSLATE Money skills"
+  "fin_lit_test_name": "PLZ_TRANSLATE Money skills",
+  "CardTestEndForKidContainer": {
+    "kid_card_test_success": "PLZ_TRANSLATE You nailed the card test! 🎉",
+    "kid_card_test_fail": "PLZ_TRANSLATE You failed the card test... ☹️",
+    "x_of_10": "PLZ_TRANSLATE %1$d/10"
+  },
+  "CardTestEndForParentContainer": {
+    "parent_kid_card_test_success": "PLZ_TRANSLATE %1$d nailed the card test! 🎉",
+    "parent_kid_card_test_fail": "PLZ_TRANSLATE %1$d failed the card test... ☹️",
+    "x_of_10": "%1$d/10"
+  }
 }
