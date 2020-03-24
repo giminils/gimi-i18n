@@ -3383,12 +3383,10 @@
   "fin_lit_test_name": "PLZ_CHECK PLZ_CHECK Money skills",
   "CardTestEndForKidContainer": {
     "kid_card_test_success": "Du klarade korttestet! 🎉",
-    "kid_card_test_fail": "Du klarade inte korttestet ☹️",
-    "x_of_10": "%1$d/10"
+    "kid_card_test_fail": "Du klarade inte korttestet ☹️"
   },
   "CardTestEndForParentContainer": {
     "parent_kid_card_test_success": "%1$d klarade korttestet! 🎉",
-    "parent_kid_card_test_fail": "%1$d klarade inte korttestet ☹️",
-    "x_of_10": "%1$d/10"
+    "parent_kid_card_test_fail": "%1$d klarade inte korttestet ☹️"
   }
 }
