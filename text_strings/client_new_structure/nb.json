@@ -3174,7 +3174,9 @@
   "CardActivationStartContainer": {},
   "OrderCardCardTermsAndConditionsContainer": {},
   "OrderCardDoneContainer": {},
-  "CardTestContainer": {},
+  "CardTestContainer": {
+    "card_test_name": "PLZ_TRANSLATE Card test"
+  },
   "CardTestEndContainer": {},
   "CardTestStartContainer": {},
   "CardWaitList": {},
@@ -3376,7 +3378,6 @@
     "upcoming_maintenances_title": "PLZ_TRANSLATE Planned maintenances"
   },
   "kid_profile_tests_section_title": "PLZ_TRANSLATE Achievements",
-  "card_test_name": "PLZ_TRANSLATE Card test",
   "kid_profile_test_not_completed": "PLZ_TRANSLATE Not completed",
   "kid_profile_test_success": "PLZ_TRANSLATE Nailed!",
   "kid_profile_test_fail": "PLZ_TRANSLATE Failed!",
@@ -3388,5 +3389,6 @@
   "CardTestEndForParentContainer": {
     "parent_kid_card_test_success": "PLZ_TRANSLATE %1$d nailed the card test! 🎉",
     "parent_kid_card_test_fail": "PLZ_TRANSLATE %1$d failed the card test... ☹️"
-  }
+  },
+  "card_test_name": "PLZ_CHECK Card test"
 }

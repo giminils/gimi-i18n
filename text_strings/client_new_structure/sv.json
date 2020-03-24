@@ -3174,7 +3174,9 @@
   "CardActivationStartContainer": {},
   "OrderCardCardTermsAndConditionsContainer": {},
   "OrderCardDoneContainer": {},
-  "CardTestContainer": {},
+  "CardTestContainer": {
+    "card_test_name": "PLZ_CHECK PLZ_CHECK Card test"
+  },
   "CardTestEndContainer": {},
   "CardTestStartContainer": {},
   "CardWaitList": {},
@@ -3376,7 +3378,6 @@
     "upcoming_maintenances_title": "PLZ_CHECK PLZ_CHECK Planned maintenances"
   },
   "kid_profile_tests_section_title": "PLZ_CHECK PLZ_CHECK Achievements",
-  "card_test_name": "PLZ_CHECK PLZ_CHECK Card test",
   "kid_profile_test_not_completed": "PLZ_CHECK PLZ_CHECK Not completed",
   "kid_profile_test_success": "PLZ_CHECK PLZ_CHECK Nailed!",
   "kid_profile_test_fail": "PLZ_CHECK PLZ_CHECK Failed!",
@@ -3388,5 +3389,6 @@
   "CardTestEndForParentContainer": {
     "parent_kid_card_test_success": "%1$d klarade korttestet! 🎉",
     "parent_kid_card_test_fail": "%1$d klarade inte korttestet ☹️"
-  }
+  },
+  "card_test_name": "PLZ_CHECK Card test"
 }
