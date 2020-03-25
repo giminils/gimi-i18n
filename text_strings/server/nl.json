@@ -480,5 +480,11 @@
   "ADPRON020_notification_title": "PLZ_TRANSLATE ID verification completed, but something went wrong. Please try again!",
   "ADPRON020_push_title": "PLZ_TRANSLATE ID verification completed. Something went wrong...",
   "ADGERE041_notification_title": "PLZ_TRANSLATE {child.nickname} nailed the card test, and is ready for a card! 👏 Read about the Gimi card here!",
-  "ADGERE041_push_title": "PLZ_TRANSLATE {child.nickname} nailed the Gimi card test! 🎖"
+  "ADGERE041_push_title": "PLZ_TRANSLATE {child.nickname} nailed the Gimi card test! 🎖",
+  "CHGEON030_notification_title": "PLZ_TRANSLATE Test your earning skills with Gimi’s Earn test 🤑",
+  "CHGEON030_push_title": "PLZ_TRANSLATE Test your earning skills with Gimi’s test 🤑",
+  "CHGEON031_notification_title": "PLZ_TRANSLATE Test your saving skills with Gimi’s Savings test 💰",
+  "CHGEON031_push_title": "PLZ_TRANSLATE Test your saving skills with Gimi’s test 💰",
+  "CHGEON032_notification_title": "PLZ_TRANSLATE Test your spending skills with Gimi’s Spending test 🛍",
+  "CHGEON032_push_title": "PLZ_TRANSLATE Test your spending skills with Gimi’s test 🛍"
 }

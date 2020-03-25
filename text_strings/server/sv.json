@@ -480,5 +480,11 @@
   "ADPRON020_notification_title": "ID-verifieringen är slutförd, men något gick fel. Prova igen!",
   "ADPRON020_push_title": "ID-verifieringen är slutförd. Något gick fel...",
   "ADGERE041_notification_title": "{child.nickname} klarade korttestet galant, och är redo för ett kort! 👏 Läs om Gimi-kortet här!",
-  "ADGERE041_push_title": "{child.nickname} klarade Gimi-korttestet galant 🎖"
+  "ADGERE041_push_title": "{child.nickname} klarade Gimi-korttestet galant 🎖",
+  "CHGEON030_notification_title": "PLZ_CHECK Test your earning skills with Gimi’s Earn test 🤑",
+  "CHGEON030_push_title": "PLZ_CHECK Test your earning skills with Gimi’s test 🤑",
+  "CHGEON031_notification_title": "PLZ_CHECK Test your saving skills with Gimi’s Savings test 💰",
+  "CHGEON031_push_title": "PLZ_CHECK Test your saving skills with Gimi’s test 💰",
+  "CHGEON032_notification_title": "PLZ_CHECK Test your spending skills with Gimi’s Spending test 🛍",
+  "CHGEON032_push_title": "PLZ_CHECK Test your spending skills with Gimi’s test 🛍"
 }
