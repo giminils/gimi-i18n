@@ -3175,7 +3175,7 @@
   "OrderCardCardTermsAndConditionsContainer": {},
   "OrderCardDoneContainer": {},
   "CardTestEndContainer": {},
-  "InternalTestStartContainer": {},
+  "FinLitTestStartContainer": {},
   "CardWaitList": {},
   "ChangePINContainer": {},
   "ChoresExplainerForKidContainer": {},
@@ -3379,11 +3379,11 @@
   "kid_profile_test_success": "PLZ_CHECK PLZ_CHECK Nailed!",
   "kid_profile_test_fail": "PLZ_CHECK PLZ_CHECK Failed!",
   "fin_lit_test_name": "PLZ_CHECK PLZ_CHECK Money skills",
-  "CardTestEndForKidContainer": {
+  "FinLitTestEndForKidContainer": {
     "kid_card_test_success": "Du klarade korttestet! 🎉",
     "kid_card_test_fail": "Du klarade inte korttestet ☹️"
   },
-  "CardTestEndForParentContainer": {
+  "FinLitTestEndForParentContainer": {
     "parent_kid_card_test_success": "%1$d klarade korttestet! 🎉",
     "parent_kid_card_test_fail": "%1$d klarade inte korttestet ☹️"
   },
