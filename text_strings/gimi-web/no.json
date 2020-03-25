@@ -784,5 +784,6 @@
   "pages.influencers.email.subject": "PLZ_TRANSLATE Collaboration with Gimi",
   "ui.buttons.download.app": "Last ned appen",
   "pages.cardtest.title": "PLZ_TRANSLATE Gimi Card Test",
-  "page.cardtest.subtitle": "PLZ_TRANSLATE Do you want your own card? Take our test and prove that you are ready to handle your own money"
+  "page.cardtest.subtitle": "PLZ_TRANSLATE Do you want your own card? Take our test and prove that you are ready to handle your own money",
+  "ui.buttons.settings.cookies": "PLZ_TRANSLATE Cookie settings"
 }
