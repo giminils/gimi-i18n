@@ -3174,11 +3174,8 @@
   "CardActivationStartContainer": {},
   "OrderCardCardTermsAndConditionsContainer": {},
   "OrderCardDoneContainer": {},
-  "CardTestContainer": {
-    "card_test_name": "PLZ_TRANSLATE Card test"
-  },
   "CardTestEndContainer": {},
-  "CardTestStartContainer": {},
+  "InternalTestStartContainer": {},
   "CardWaitList": {},
   "ChangePINContainer": {},
   "ChoresExplainerForKidContainer": {},
