@@ -191,13 +191,152 @@
     "gimi_rating_bad": "Nope",
     "gimi_rating_good": "Love it!",
     "general_thank_you": "Thank you",
-    "general_support_gimi": "Support Gimi!"
+    "general_support_gimi": "Support Gimi!",
+    "general_new_premium_feature": "New Gimi Master feature",
+    "general_set_date": "Set date",
+    "general_read_all_about_it_arrow": "Read all about it >",
+    "general_skip_invite": "Skip inviting",
+    "general_view_all": "View all",
+    "general_read_more_arrow": "Read more >",
+    "general_more_information": "More information",
+    "general_do_it_now": "Do it now",
+    "general_other_options": "Other options",
+    "general_read_more": "Read more",
+    "general_error_missing_phone_number": "Your phone number is missing!",
+    "general_go_to_chore": "Go to chore",
+    "general_day": "day",
+    "general_show": "Show",
+    "general_save_changes": "Save changes",
+    "general_return": "Try again",
+    "general_expired": "Expired",
+    "general_change_kid": "Switch child",
+    "general_dont_remember": "Don't remember",
+    "general_subscription_type": "Subscription: %1$d",
+    "general_master_forever": "Master Forever",
+    "general_renew_now": "Renew now!",
+    "general_future_due": "Due soon",
+    "general_payday": "Payday",
+    "general_ok_sure": "OK, sure!",
+    "general_go_back_expressive": "Go back!",
+    "general_invite_now": "Invite now!",
+    "general_vilkor": "Terms and conditions",
+    "general_show_recommended": "Show recommended",
+    "general_topup": "Top-up",
+    "general_accept": "Accept",
+    "general_disconnected": "disconnected",
+    "general_due_today": "Due today",
+    "general_get_started": "Get started",
+    "general_passed_due": "Passed due date!",
+    "general_photo_loading_failed": "Could not load this image",
+    "general_add_chores": "Add chores!",
+    "general_today_expressive": "Today!",
+    "general_how_does_it_work": "How does this work?",
+    "general_enter_your_name": "Type your name",
+    "general_featured_chores": "Featured chores",
+    "general_empty": "Empty...",
+    "general_more_instructions": "More instructions",
+    "general_ignore": "Ignore",
+    "general_my_supporters": "My supporters",
+    "general_timezone": "Timezone",
+    "general_ok_lets_do_it": "OK let's do it!",
+    "general_months": "Months",
+    "general_var_per_month": "%1$d/Month",
+    "general_talk_to_us": "Talk to us",
+    "general_scan_me": "Show the code to someone with a scanner",
+    "general_scan_a_code": "Scan a code",
+    "general_show_code": "Show code",
+    "general_continue": "Continue",
+    "general_show_old": "Show old",
+    "general_chore_inspo": "Inspiration",
+    "general_no_interest": "No bonus",
+    "general_your_supporters": "Your supporters",
+    "general_go_to_chores": "Go to chores",
+    "general_delete_conection": "Delete connection",
+    "general_play_video": "play",
+    "general_activate_it": "Activate it!",
+    "general_free": "Free",
+    "general_suggested": "Suggested",
+    "general_pending_chores": "Pending",
+    "general_lets_do_it": "Let's do it",
+    "general_shared_confirmation": "Sharing successful!",
+    "general_ok_i_get_it": "OK I get it",
+    "general_you": "You",
+    "general_introduction": "Introduction",
+    "general_needs_minimal_value": "The minimal transaction value is %1$d.",
+    "general_minimal_value": "You need to to pass the minimal value.",
+    "general_getting_data": "Getting data...",
+    "general_apology": "Apology",
+    "general_complete": "Complete",
+    "general_send_invite": "Send invite!",
+    "general_add_image": "Add image",
+    "general_ok_nice": "OK, nice!",
+    "general_share_it": "Share it",
+    "general_remove_craving": "Remove craving",
+    "general_featured": "Featured",
+    "general_new_feature": "New feature",
+    "general_ok_em": "OK!",
+    "general_general_settings": "General settings",
+    "general_share_gimi": "Share Gimi",
+    "general_points": "points",
+    "general_delete_all": "Delete all",
+    "general_user_terms": "User policy",
+    "general_integrity_policy": "Integrity policy",
+    "general_read_more_here": "Read more here",
+    "general_proceed": "Proceed",
+    "general_chore_reward": "Chore",
+    "general_dreaming": "Dreaming",
+    "general_completed": "completed",
+    "general_custom": "Create your own",
+    "general_show_more": "Show more",
+    "general_show_less": "Show less",
+    "general_your_settings": "My settings",
+    "general_no_active_goal": "No active dream yet",
+    "general_tell_us": "Tell us!",
+    "general_okay_nice": "OK, cool!",
+    "general_notes": "notes",
+    "general_no_thanks": "No thanks",
+    "general_no_way": "No way",
+    "general_yes_sure": "Yes, sure!",
+    "general_thanks": "Thanks!",
+    "general_coming_soon": "Coming soon",
+    "general_error_message_dots": "something went wrong...",
+    "general_try_again": "try again",
+    "general_recommendation": "Recommendation",
+    "general_contact_support": "Contact support",
+    "general_enter_amount": "Enter amount",
+    "general_full_name": "Full name",
+    "general_country": "Country",
+    "general_sweden": "Sweden",
+    "general_savings_account": "account",
+    "general_yearly_fee": "annual fee",
+    "general_monthly_fee": "monthly fee",
+    "general_gimi": "Gimi",
+    "general_not_yet": "not yet",
+    "general_activate_now": "activate now",
+    "general_show_pin": "show PIN code",
+    "general_loading_with_dots": "Loading...",
+    "general_archive_verb": "Archive",
+    "general_invite": "invite",
+    "general_yes_leave": "Yes, leave",
+    "general_yes_cancel": "Yes, cancel",
+    "general_info": "Info",
+    "general_feedback": "Feedback",
+    "general_card_pin": "PIN code",
+    "general_card_settings": "Card settings",
+    "general_limits": "Limits",
+    "general_ok_got_it": "OK, got it",
+    "general_spending": "spending",
+    "general_remove": "delete user account",
+    "general_got_it": "I got it",
+    "general_camera_error": "Something is wrong with the camera",
+    "general_cvv": "CVV",
+    "default_kid_name": "your child",
   },
   "errors": {
     "general_error_message": "Something went wrong. Please try again later.",
     "iap_could_not_bind_error": "Could not bind purchase, please contact support"
   },
-  "default_kid_name": "your child",
+  
   "send_invite": "invite",
   "daypicker_monday": "Monday",
   "daypicker_monday_short": "Mon",
@@ -307,6 +446,12 @@
   "chat_us": "write to us",
   "deposit_cloud": "Add",
   "withdraw_cloud": "Deduct",
+  "cloud_insertion_from_supporter": "Added by supporter",
+  "cloud_insertion_from_self": "Added by you",
+  "cloud_insertion_from_parent": "Added by %1$d",
+  "cloud_withdraw_by_supporter": "Deducted by a supporter",
+  "cloud_withdraw_from_self": "Deducted by you",
+  "cloud_withdraw_from_parent_name": "Deduction by %1$d",
   "request_chore": "suggest chore",
   "request_money": "request money",
   "suggest_chore": "add chore",
@@ -615,22 +760,22 @@
   "error_maintenance_title": "Sorry about the mess, we are rebuilding!",
   "error_maintenance_desc": "The work will soon be done, then you can use the app as usual!",
   "spending_categories": "Saved & spent",
-  "general_spending": "spending",
+  
   "verify_identity_bank_id": "Verify your identity with BankID",
-  "general_remove": "delete user account",
+  
   "complete_connection": "Complete connection",
   "dream_overview": "my dream",
-  "general_got_it": "I got it",
+  
   "choose_country": "choose country",
   "is_this_number_correct": "Is this your phone number?",
   "is_this_number_correct_subtitle": "Just making sure we have the right number...",
   "resend_code": "send code again",
   "verify_number": "enter the code",
   "international_number": "international number",
-  "general_camera_error": "Something is wrong with the camera",
+  
   "price_of_dream": "How much does the dream cost?",
   "card_number": "card number",
-  "general_cvv": "CVV",
+  
   "expiry_date": "expiry date",
   "name_on_card": "First name and last name",
   "no_card": "No card here yet. Only children can activate the card in their app.",
@@ -645,22 +790,18 @@
   "create_your_own": "create your own",
   "name_verification_title": "Is this your name?",
   "name_verification_desc": "We get you name and address: {},SPAR, Statens personadressregister, using your personal number.",
-  "general_full_name": "Full name",
+  
   "question_name_not_correct": "name not correct?",
   "question_address_correct": "Is the address correct?",
   "address_verification_description": "We only issue cards in Sweden, so make sure you have a Swedish address.",
-  "general_country": "Country",
-  "general_sweden": "Sweden",
+  
   "question_address_not_correct": "address not correct?",
   "choose_pin_code": "Choose an app code",
   "i_accept_the_user_terms": "I accept the user terms",
   "order_card_done_payment_title": "Done! Deposit successful.",
   "order_card_done_payment_description": "All deposited money goes straight to the Gimi card!",
   "total_n": "Total %1$d",
-  "general_savings_account": "account",
-  "general_yearly_fee": "annual fee",
-  "general_monthly_fee": "monthly fee",
-  "general_gimi": "Gimi",
+  
   "upgraded_n_to_premium_title": "You have upgraded %1$d to Master!",
   "upgraded_n_to_premium_desc": "The card is on is way to your front door!",
   "card_overview_usp_1_title": "A card and an account: {},Gimi!",
@@ -678,14 +819,14 @@
   "activate_card_start_description": "Activate your card now to use it online! Your plastic card will arrive in a few days, use that one in stores.",
   "replace_card_start_title": "have you got your new card yet?",
   "replace_card_start_description": "you need to activate it here...",
-  "general_not_yet": "not yet",
+  
   "activate_card_start_i_wait": "I'll wait",
-  "general_activate_now": "activate now",
+  
   "activate_new_card_show_pin_title": "the PIN code for your new card",
   "activate_card_show_pin_title": "the PIN code for your card",
   "activate_card_show_pin_desc": "...is secret. Don't share it with anyone. Don't let anyone see it. Ready?",
   "activate_card_showing_pin_desc": "Remember it. Don't write it down. If you forget it you can retrieve it in the app.",
-  "general_show_pin": "show PIN code",
+  
   "card_activation_success_title": "your card is activated!",
   "card_activation_success_desc": "Success! You can now spend your own money",
   "upgraded_to_premium_done_title": "Done! Ready to explore your new app?",
@@ -718,7 +859,7 @@
   "how_to_payments": "this is how you can follow the payments",
   "first_card_payment": "made a first time purchase",
   "deposit_to_savings": "deposits to the Gimi account",
-  "general_loading_with_dots": "Loading...",
+  
   "task_name_was_approved": "%1$d was approved!",
   "interest_last_week": "bonus",
   "interest_last_month": "bonus",
@@ -735,7 +876,7 @@
   "you_paid_for_other_grow_up": "you paid for another grown-up",
   "other_grow_up_paid_for_you": "another grown-up paid for you",
   "start_tour": "Start the tour",
-  "general_archive_verb": "Archive",
+  
   "dream_achieved_title": "You reached your dream!",
   "dream_achieved_desc": "the dream will be here until you archive it.",
   "money_recieved": "Money received",
@@ -748,7 +889,7 @@
   "kid_dream_onboarding_title": "Savings goal = dream",
   "kid_dream_onboarding_desc": "Save money to reach your dreams!",
   "number_successfully_verified": "Your number has been verified",
-  "general_invite": "invite",
+  
   "video_tutorials_name_1": "Learn how to earn money",
   "video_tutorials_name_2": "Watch this learn saving",
   "video_tutorials_name_3": "How to spend wisely",
@@ -1041,10 +1182,10 @@
   "premium_with_price": "Gimi Master %1$d/month",
   "no_active_subscription": "No active subscription",
   "who_gonna_pay": "Supporters",
-  "general_yes_leave": "Yes, leave",
+  
   "go_back": "Go back",
   "parent_loading_screen_text": "Connecting to cyberspace",
-  "general_yes_cancel": "Yes, cancel",
+  
   "wrong_pin_entered": "Wrong passcode",
   "pin_setup_done_descr": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
   "kid_card_settings_for_parent_title": "functionality",
@@ -1055,7 +1196,7 @@
   "card_settings_lost": "Card lost",
   "card_settings_stolen": "Card stolen",
   "card_settings_spending_notifs": "Spending notifications",
-  "general_info": "Info",
+  
   "card_settings_terms": "Terms & Conditions",
   "card_settings_card_info": "Card information",
   "card_settings_support": "Support",
@@ -1069,11 +1210,11 @@
   "payment_summary": "Payday summary for %1$d",
   "feedback_title": "Oh no! We're so sorry to hear...",
   "feedback_description": "Please tell us how we can improve and make you happy",
-  "general_feedback": "Feedback",
+  
   "feedback_thanks": "Big thanks!",
   "feedback_success_description": "We have received your feedback, and we'll work hard and do our very best to make you happy",
   "card_is_active": "Card is active",
-  "general_card_pin": "PIN code",
+  
   "card_information": "Card Information",
   "spending_limit_header": "How much can %1$d spend %2$d?",
   "spending_period_header": "During which period?",
@@ -1081,11 +1222,11 @@
   "savings_per_month_child": "Left this month",
   "someones_card_pin_is": "%1$d PIN code is:",
   "your_card_pin_is": "Your PIN code is:",
-  "general_card_settings": "Card settings",
+  
   "add_pin_code": "Add passcode",
   "spending_notifications": "Spending notifications",
   "spending_notifications_subtitle": "We'll notify you when spending exceeds a limit you decide",
-  "general_limits": "Limits",
+  
   "premium_intro_main_title": "The Gimi card is on its way!",
   "premium_intro_main_desc": "Prepare to start managing real money in the family!",
   "premium_intro_savings_title": "Add your card",
@@ -1098,7 +1239,7 @@
   "card_was_lost_info": "Card was lost, but a new card is on its way!",
   "you_have_been_disconnected_title": "You have been disconnected",
   "you_have_been_disconnected_desc": "%1$d deleted your connection. The money that %1$d owed you have been removed: {},your piggybank and you are no longer connected.",
-  "general_ok_got_it": "OK, got it",
+  
   "month_and_year": "month / year",
   "get_card_info_error": "We could not retrieve your card details. Please try again in a while!",
   "payout_summary_title": "Payday summary",
@@ -1127,7 +1268,7 @@
   "how_interest_works_description": "Lorem Ipsum",
   "question_what_are_chores": "What are chores?",
   "what_are_chores_description": "Lorem Ipsum",
-  "general_your_settings": "My settings",
+  
   "children_settings": "Children settings",
   "other_settings": "Other",
   "pin_code_change_succes": "Your passcode is changed!",
@@ -1135,17 +1276,17 @@
   "card_lost_stolen_confirmation_title": "Your new card is on its way!",
   "card_lost_stolen_confirmation_text": "Don’t worry. Your old card has been disabled so your money is safe. You will need to activate your new card when it arrives before you can use it.",
   "proof_required_chore_summary": "Proof required",
-  "general_no_active_goal": "No active dream yet",
+  
   "something_went_wrong_parent": "Oh no...\nsomething went wrong",
   "something_went_wrong_child": "Oh no...\nsomething went wrong",
-  "general_tell_us": "Tell us!",
+  
   "take_me_back": "Take me back!",
   "interest_from": "bonus: {},%1$d",
   "weekly_allowance_from": "allowance: {},%1$d",
   "monthly_allowance_from": "allowance: {},%1$d",
   "qr_code_error": "something is broken... please try again later",
   "why_we_ask_for_phone": "Why do we need your number?",
-  "general_okay_nice": "OK, cool!",
+  
   "payday_takeover_title_kid": "Payday!🎉",
   "payday_takeover_subtitle_kid": "You have earned...",
   "payday_takeover_title_parent": "Payday for %1$d!",
@@ -1153,7 +1294,7 @@
   "accept_email_contact": "Yes, you can contact me over email",
   "money_saved": "Saved",
   "transaction_note_placeholder": "Write something",
-  "general_notes": "notes",
+  
   "completion_date": "Completion date",
   "activate_task_again": "Reactivate",
   "premium_intro_main_desc_for_kid": "Your Gimi Card is already in the app!",
@@ -1171,15 +1312,13 @@
   "add_chore_hint_kid_item": "Add a chore!",
   "invitation_reminder_title": "Want to send an invitation reminder?",
   "invitation_reminder_text": "The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
-  "general_no_thanks": "No thanks",
+  
   "available_balance": "available balance",
   "permission_asked_success_title": "Done!",
   "permission_asked_success_text": "Your request has been sent. We’ll let you know how it goes!",
   "asking_for_deposit_permission_title": "Want to allow %1$d to receive money: {},%2$d?",
   "asking_for_deposit_permission_subtitle": "%1$d needs your approval to send money to %2$d.",
-  "general_no_way": "No way",
-  "general_yes_sure": "Yes, sure!",
-  "general_thanks": "Thanks!",
+  
   "asking_for_deposit_permission_subtitle_success_text": "%1$d will now be able to send money to %2$d.",
   "accepted_to_deposit_title": "You have been approved",
   "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
@@ -1187,18 +1326,18 @@
   "cloud_in_n_days": "in %1$d days",
   "add_another_kid": "Invite a child",
   "nav_bar_notifications": "notifications",
-  "general_coming_soon": "Coming soon",
+  
   "pay_via_debit_desc": "No credit cards accepted",
   "payment_method_swish": "Swish",
   "update_card_details": "Update card",
-  "general_error_message_dots": "something went wrong...",
+  
   "error_try_again_question": "maybe just try again?",
-  "general_try_again": "try again",
+  
   "dots_and_its_done": "...and it's done!",
   "transaction_to_reciever_success_text": "The money will be on the card soon, give it a few minutes.",
   "you_been_connect_to_kid": "You've been connected to %1$d",
   "kid_connections": "Connections",
-  "general_recommendation": "Recommendation",
+  
   "kid_also_connected_to": "%1$d is also connected to:",
   "kid_settup_current_settings": "%1$d has the following settings:",
   "pitch_in_help": "You can add %1$d and a bonus to the piggybank",
@@ -1258,12 +1397,12 @@
   "no_phone_no_pin_premium_error": "You need an app passcode to change phone number",
   "blocked_card_header": "Your card has been blocked",
   "blocked_card_desc": "...and can only be unblocked by the person who blocked it. Until then, you cant use the card.",
-  "general_contact_support": "Contact support",
+  
   "premium_allowance_subtitle": "The Gimi card only supports a monthly allowance.",
   "kid_dream_achived": "%1$d achived a dream!",
   "kid_dream_achived_desc": "Congratulate %1$d on the achievement and keep encouraging saving!",
   "custom_transfer_amount": "Custom amount",
-  "general_enter_amount": "Enter amount",
+  
   "kid_ready_for_premium_header": "%1$d är redo för Gimi Master!",
   "kid_ready_for_premium_desc": "Continue to the next step",
   "pfs_card_withdrawal": "Purchase with card",
@@ -1284,7 +1423,7 @@
   "settings_pass_code": "Add passcode",
   "change_pass_code": "Change passcode",
   "custom_notification_new_update_chores": "Choose days for chores",
-  "general_new_feature": "New feature",
+  
   "signup_no_phone_button": "No phone number?",
   "signup_use_phone_button": "Use phone number",
   "signup_with_email_title": "Just type your email!",
@@ -1298,7 +1437,7 @@
   "allowance_frequency_error_desc": "%1$d already has a %2$d.",
   "card_test_here_you_answered_wrong": "Here you answered incorrectly",
   "card_test_all_answers": "Here are all answers",
-  "general_ok_em": "OK!",
+  
   "parent_kid_savings_removable_button": "Add money to your children's piggybank",
   "kid_suggest_chore_removable_button": "Suggest a chore & earn money!",
   "payday_today_takeover_title": "Today is... Payday! 🎉",
@@ -1306,13 +1445,12 @@
   "days_left": "days left!",
   "seperated_parents": "Separated parents",
   "set_phone_for_kid": "Set phone number for %1$d",
-  "general_general_settings": "General settings",
+  
   "kid_allowance_status_desc": "%1$d already has a %2$d, want to add more?",
-  "general_share_gimi": "Share Gimi",
-  "general_points": "points",
+  
   "money_settings": "Payday, allowance and bonus",
   "kid_invite_parent": "Hey there! You need some supporters in here to make it work…",
-  "general_delete_all": "Delete all",
+  
   "allow_connections_to_deposit_takeover_title": "Allow other connections to send money to %1$d?",
   "allow_connections_to_deposit_takeover_text": "Other connections won't be able to send money to %1$d without your permission!",
   "allowance_from_others": "Allowance: {},others",
@@ -1324,44 +1462,41 @@
   "i_approve_possesive_instantors": "I approve Instantor's user terms",
   "i_approve_possesive_instantors_integrity_policy": "I agree that information: {},my bank account, is collected, used and shared with Gimi, and understands how other information will be used as specified in Instantor's user terms",
   "service_provided_by_instantor": "The service is provided by Instantor AB, not by your bank.",
-  "general_user_terms": "User policy",
-  "general_integrity_policy": "Integrity policy",
-  "general_read_more_here": "Read more here",
+  
   "instantor_verify_identity_description": "Accept Instantor’s terms & conditions and log in with BankID to complete your order.",
   "change_card_popover_title": "Sure you want to change card?",
   "change_card_popover_text": "Your current card details will be forgotten and you will be asked to input new card details.",
-  "general_proceed": "Proceed",
+  
   "updated_card_details_success_text": "Your new card details are safely stored so that you can transfer money at any time you want.",
   "todays_chores": "Today's chores",
   "this_weeks_chores": "This week's chores",
   "create_new": "Create new",
   "waiting_for_approval": "Waiting for approval",
   "find_store": "Find store",
-  "general_chore_reward": "Chore",
+  
   "title_month_summary_for_kid": "Summary for %1$d",
   "earned_on_payday": "Earned on Payday",
   "chores_completed": "Completed chores",
   "shareable_cardtest_title_failed": "My result on the card test",
   "shareable_cardtest_title_approved": "I passed the card test",
   "shareable_cardtest_title_topped": "I nailed the card test",
-  "general_dreaming": "Dreaming",
+  
   "report_most_popular_chore": "Most popular chore",
-  "general_completed": "completed",
+  
   "report_most_expensive_withdrawal": "Most expensive deduction",
   "dream_achieved": "Dream achieved",
-  "general_custom": "Create your own",
+  
   "your_tasks_section": "chores: {},you",
   "other_parents_tasks": "chores: {},others",
   "dots_choose_from_popular_dreams": "...or choose: {},popular",
-  "general_show_more": "Show more",
-  "general_show_less": "Show less",
+  
   "dont_setup_kid_success_title": "It's ok!",
   "dont_setup_kid_success_text": "If you change your mind, you can always change this in settings for %1$d",
   "kid_first_setup_subtitle": "Now it's time to setup your child's allowance and start teaching about financial superskills for life",
   "kid_how_to_get_your_money": "How to get your money",
   "kid_withdrawal_explainer_title": "Supporters turn the piggybank into real money!",
   "kid_withdrawal_explainer_subtitle": "Your Supporters give you real money. Keep track of how much you have in the piggybank. When you want to buy something, ask them for cash or to pay for you!",
-  "general_ok_i_get_it": "OK I get it",
+  
   "title_on_what_day": "On what day?",
   "desc_payday_set_to": "Payday will be set to…",
   "in_n_day": "in %1$d day",
@@ -1380,8 +1515,7 @@
   "lost_card_balance_connection": "No connection, click to reload",
   "custom_notification_connect_with_child": "Invite a child!",
   "chore_for_n": "For %1$d",
-  "general_you": "You",
-  "general_introduction": "Introduction",
+  
   "faq_info_section_title": "The usual questions",
   "faq_all_questions": "All questions",
   "faq_ask_us": "Ask us",
@@ -1398,12 +1532,10 @@
   "confirmation_message_deposit_success": "%1$d was added",
   "confirmation_message_suggested_enabled": "Chore was added!",
   "confirmation_message_approved_chore": "Completed chore was approved!",
-  "general_needs_minimal_value": "The minimal transaction value is %1$d.",
-  "general_minimal_value": "You need to to pass the minimal value.",
-  "general_getting_data": "Getting data...",  
+  
   "not_gimi_card_error": "The card you scanned is not a Gimi card",
   "select_parent": "Who will approve the chore?",
-  "general_apology": "Apology",
+  
   "added_dream_without_parent_takeover_title": "Your dream is added!",
   "added_dream_without_parent_takeover_text": "But you need a parent to get money for your dream!",
   "parent_no_kids_header": "Invite your children in here!",
@@ -1424,7 +1556,7 @@
   "card_was_online_payment_blocked_confirmation_message": "Card online payments blocked",
   "card_was_atm_unblocked_confirmation_message": "Card ATM use unblocked",
   "card_was_atm_blocked_confirmation_message": "Card ATM use blocked",
-  "general_complete": "Complete",
+  
   "rejected_chore_action_title": "You rejected %1$d",
   "rejected_chore_action_desc": "%1$d will get another chance to complete it!",
   "error_fetching_card_subscription_prices": "Couldn't get subscription prices.",
@@ -1433,10 +1565,10 @@
   "money_settings_multiple_parents_disclaimer": "%1$d also receives an allowance and bonus: {},other supporters.",
   "money_settings_connections_button": "Connections",
   "scan_qr_code_instead_button": "Connect without a phone number",
-  "general_send_invite": "Send invite!",
+  
   "allowance_no_chores_in_period": "Empty here so far. Let's go! 👏",
   "add_picture_question_kid": "What do you look like?",
-  "general_add_image": "Add image",
+  
   "allowance_help_slider_content": "Your allowance is a fixed amount that you are guaranteed: {},your parents on every Payday.",
   "chores_help_slider_content": "Want more than your allowance? Do some chores! The more chores you do, the more you get on Payday.",
   "chores_help_slider_content_weekly_allowance": "Want more than your allowance? Do some chores! The more chores you do, the more you get on Payday.",
@@ -1456,7 +1588,7 @@
   "kid_complete_chore": "Send for approval",
   "dream_achieved_desc_new": "You saved %1$d for %2$d.",
   "what_is_this": "What...?",
-  "general_ok_nice": "OK, nice!",
+  
   "edit_child_phone": "Update phone number",
   "push_notifications_custom_notification": "Enable pushnotifications",
   "kid_intro_chores_title": "Chores",
@@ -1516,13 +1648,13 @@
   "add_craving_image_title": "Add an image!",
   "craving_overview": "My wishlist",
   "share_dream_title": "Share your dream!",
-  "general_share_it": "Share it",
+  
   "entered_pin_too_many_tries": "You tried too many times, you can try again in one hour.",
-  "general_remove_craving": "Remove craving",
+  
   "kid_notification_new_dream_stats": "Check out how much closer your will be to reaching your dream on your next Payday!",
   "parent_notification_new_withdrawals": "You can now add and deduct money directly: {},the piggybank!",
   "kid_settings_invite_shortcut_button": "Invite your family!",
-  "general_featured": "Featured",
+  
   "popular_now": "Popular now",
   "about_education_button": "About",
   "autumn_feature_text": "Winter inspiration",
@@ -1640,13 +1772,13 @@
   "parent_tutorial_section_1_headline": "Earning & saving",
   "parent_tutorial_section_1_text": "Allowance, chore rewards and bonus is automatically added to the piggybank - a tracker of how much you owe the child.",
   "waiting_for_approval_notification_disclaimer": "Waiting for approval",
-  "general_show_old": "Show old",
+  
   "passcode_lockdown_title": "Your app is locked",
   "passcode_lockdown_text": "You typed the wrong app passcode too many times, so we had to lock you out. It will unlock again in one hour.",
   "passcode_lockdown_contact_button": "Contact us",
   "order_card_done_section_row": "Already done!",
   "chore_inspiration": "Create chore",
-  "general_chore_inspo": "Inspiration",
+  
   "no_new_notifications": "You read everything! 🥳",
   "dream_shared_confirmation": "Dream shared!",
   "allowance_help_slider_content_for_parent": "The allowance for %1$d is a fixed amount that %1$d is guaranteed: {},you and other grown ups on every Payday.",
@@ -1672,7 +1804,7 @@
   "share_dream_uncompleted_title": "Dreaming of...",
   "festive_chore_inspiration": "Festive season chores",
   "custom_notification_verify_email": "Verify your email!",
-  "general_no_interest": "No bonus",
+  
   "percentage_interest": "%1$d% bonus",
   "custom_note_update_app": "Update your app to get the latest features and avoid bugs!",
   "custom_notification_xmas_gift_of_2018": "Årets julklapp 2018 för barn blev... Spelvaluta! Här kan du läsa allt du behöver veta",
@@ -1705,11 +1837,11 @@
   "kid_savings_deposit": "Deposit",
   "kid_savings_deposit_transaction": "Deposit",
   "savings_account_cloud_help_kid": "To be deposited: {},your supporters",
-  "general_your_supporters": "Your supporters",
+  
   "supporters_to_kid": "Supporters to %1$d",
-  "cloud_withdraw_from_parent_name": "Deduction by %1$d",
-  "cloud_insertion_from_parent": "Added by %1$d",
-  "general_go_to_chores": "Go to chores",
+  
+  
+  
   "deposit_to_cloud_button_for_parent": "Add",
   "premium_intro_savings_title_for_kid": "The account is for saving",
   "premium_intro_card_title_for_kid": "The card is for spending",
@@ -1740,7 +1872,7 @@
   "card_is_on_its_way": "Done! The card is on it's way to you!",
   "parent_create_chore_action_title": "You just created a chore!👏",
   "parent_create_chore_action_desc": "%1$d will be notified and reminded!",
-  "general_delete_conection": "Delete connection",
+  
   "parentrelation_overview_for_parent_subtitle": "Settings for %1$d",
   "name_owes_name": "%1$d owes %2$d",
   "kid_connect_with_qr_instead_button": "Connect with QR code",
@@ -1749,7 +1881,7 @@
   "pfs_acquirer_error_check_card_details": "Sure you saved the right card details? Make sure they are correct!",
   "pfs_acquirer_error_check_card_details_action_button": "Settings",
   "pfs_acquirer_error_try_again": "...or try again soon, hopefully it's up and working by then!",
-  "general_play_video": "play",
+  
   "debt_explainer_button": "%1$d waiting to be deposited",
   "kid_cloud_debt_explainer_title": "Your supporters still owe you!",
   "kid_cloud_debt_explainer_subtitle": "You got a real money account, and your supporters can now send real money to you. The balance in your old piggybank is now a debt that your supporters owe you!",
@@ -1757,7 +1889,7 @@
   "parent_cloud_debt_explainer_subtitle": "%1$d got a real money account, and supporters can now send real money. The balance in the piggybank is a debt, waiting to be settled by the supporters.",
   "kid_cloud_debt_explainer_remind_button": "Remind them!",
   "card_on_its_way_activate": "Your card is on its way! Until then, it's locked.",
-  "general_activate_it": "Activate it!",
+  
   "no_gimi_children_in_phone_contacts": "No Gimi children in your contacts 😞",
   "cloud_deduct_more_than_balance_popover_title": "You cannot deduct more than what's in the account",
   "cloud_deduct_more_than_balance_popover_text": "%1$d only has %2$d in the piggybank. Just like with a real account, one cannot spend more than one has!",
@@ -1766,7 +1898,7 @@
   "setup_kid_upgrade_premium_subtitle": "You can always upgrade later",
   "price_sku": "%1$d/%2$d",
   "test_price_month": "79kr/month",
-  "general_free": "Free",
+  
   "gimi_premium": "Master",
   "gimi_tracker": "Beginner",
   "setup_kid_premium_recommended_age": "Recommended for ages %1$d",
@@ -1821,7 +1953,7 @@
   "kid_card_set_as_number_button": "You got it",
   "bank_not_working": "Not working 😑",
   "you_have_a_card_on_file": "✅ You have a card on file",
-  "general_suggested": "Suggested",
+  
   "chore_waiting_for_enable": "Suggested",
   "chore_waiting_for_approval": "Waiting for approval",
   "new_supporter_connection_text": "Congratulations! %1$d accepted your invitation. Maybe suggest a chore?",
@@ -1834,13 +1966,12 @@
   "maintenance_title": "Gimi is closed for maintenance...",
   "maintenance_subtitle": "...but we'll be back up again really soon! We hope to see you again in a few minutes.",
   "genera_to_be_done": "To be done",
-  "general_pending_chores": "Pending",
-  "general_lets_do_it": "Let's do it",
+  
   "shareable_recieved_money_title": "I just got...",
-  "general_shared_confirmation": "Sharing successful!",
+  
   "onfido_start_info_title": "Scan your passport or ID",
   "onfido_start_info_desc": "☝️Scan your passport, or national ID card (bank ID doesn't work!)\n\n✌️Make sure to take a clear picture, no blur or reflection!\n\n🖐Show the full document, and keep your fingers off!\nMake sure to take a clear picture, no blur!",
-  "general_how_does_it_work": "How does this work?",
+  
   "broken_bank_popover_title": "BankID with %1$d is not working…",
   "broken_bank_popover_text": "%1$d requires you to scan a QR code on their website with the BankID app. This is cumbersome and doesn't really work well, so here's another, better way to identify your identity!",
   "kyc_confirmation_success_title": "Identity verification done and passed!",
@@ -1851,9 +1982,9 @@
   "feature_spring": "Spring is here!",
   "no_gimi_accounts_in_phone_contacts": "Couldn't find any Gimi accounts in your contacts 😥",
   "using_hotmail_outlook_warning": "Using Hotmail and Outlook? Sorry, but your email provider is blocking our emails.",
-  "cloud_withdraw_from_self": "Deducted by you",
-  "cloud_insertion_from_self": "Added by you",
-  "general_enter_your_name": "Type your name",
+  
+  
+  
   "first_and_last_name": "First and last name",
   "welcome_tutorial_title": "Hi! Welcome to Gimi 👋",
   "buy_premium_included_card_title": "The Gimi card",
@@ -1865,19 +1996,19 @@
   "account_type_premium": "Master",
   "account_type_freemium": "Beginner",
   "loading_after_onfido_check": "Verifying your ID card and personal details...",
-  "general_featured_chores": "Featured chores",
+  
   "parent_kid_earn_suggested_empty": "All clear. Well done! 👌",
   "parent_kid_earn_pending_empty": "Give your child something to do! 👇",
   "parent_kid_earn_completed_empty": "Looks too empty here... 🧐",
   "kid_earn_to_be_done_empty": "Nothing to do? Suggest a chore! 👇",
   "kid_earn_completed_empty": "No completed chores means no extra money this week! 😱",
   "kid_earn_suggested_empty": "Nothing here...",
-  "general_empty": "Empty...",
+  
   "how_to_use_the_card_removable_button": "How to use the card",
   "kid_request_money_button": "Send request",
   "you_requested_money_tinder_card_title": "%1$d got your money request!",
   "you_requested_money_tinder_card_text": "Hope they send it! 💸",
-  "general_more_instructions": "More instructions",
+  
   "kid_card_explainer_header": "Getting started",
   "kid_card_explainer_balance_title": "Got money on the card?",
   "kid_card_explainer_balance_subtitle": "You need money on the card to pay with it. Check the price of what you’re buying, make sure you have enough or top it up: {},your Gimi Account.",
@@ -1885,12 +2016,12 @@
   "kid_card_explainer_pay_in_store_subtitle": "Tap the card or inject it in the terminal and type your secret PIN code. If you forgot it, you can find it in the app!",
   "kid_card_explainer_paying_online_title": "Paying online",
   "kid_card_explainer_paying_online_subtitle": "Type in your card information. Go to your card in the app, tap on “Card Details” and the information will be revealed!",
-  "general_ignore": "Ignore",
+  
   "name_is_requesting_money": "%1$d is requesting",
   "select_kid_for_card_subtitle": "One card at the time. You will be able to order more cards later!",
   "iap_error_view_title": "Card factory overload!",
   "iap_error_view_text": "A lot of cards are being printed! We're sorry, but we can't take more orders right now. Come back in a few hours and we'll be taking orders again!",
-  "general_my_supporters": "My supporters",
+  
   "suggest_your_own_chore": "Suggest your own chore",
   "order_card_going_to_payment_loading_text": "You're temporarily leaving the Gimi app to add your card details...",
   "testable_component_text_string": "Tests are good!",
@@ -1921,7 +2052,7 @@
   "popular_iap_banner": "Popular!",
   "premium_early_bird": "Try first month for free",
   "premium_slide_title_without_kid": "Get Gimi Master!",
-  "general_timezone": "Timezone",
+  
   "payday_info_supporters_parent": "Supporters",
   "payday_info_supporters_kid": "Supporters",
   "payday_info_supporters_desc_parent": "How much each supporter paid %1$d",
@@ -1932,23 +2063,20 @@
   "onfido_general_error_subtitle": "It's not you, it's us. We ran into a problem. Would you like to try again?",
   "onfido_verification_error_title": "We could not verify your identity",
   "onfido_verification_error_subtitle": "The identity check based on your ID card could not verify your identity. Want to try verifying yourself with BankID instead?",
-  "general_ok_lets_do_it": "OK let's do it!",
+  
   "by_name": "By %1$d",
-  "general_months": "Months",
-  "general_var_per_month": "%1$d/Month",
+  
   "iap_general_error": "Someting went wrong! Seems we can't show you the subscription options",
-  "general_talk_to_us": "Talk to us",
+  
   "iap_no_products_for_you": "You've maxed out your subscriptions - we don't have any more to offer you!",
   "parent_auto_approval_feature_custom_notification": "Never miss approving a chore, turn on the 24h auto-approval!",
-  "general_scan_me": "Show the code to someone with a scanner",
-  "general_scan_a_code": "Scan a code",
-  "general_show_code": "Show code",
+  
   "one_time_cost": "One time cost",
   "lysa_email_title": "First we need your email...",
   "delete_chore": "Delete chore",
   "transfer_between_card_loading_title": "Sending money...",
   "transfer_between_card_loading_desc": "Cyberspace is slow today, so hang in there",
-  "general_continue": "Continue",
+  
   "new_connection_infoview_title_kid": "You're connected to %1$d!",
   "new_connection_infoview_title_parent": "You're connected to %1$d!",
   "accepted_invite_setup_flow_description_kid": "More supporters means more opportunities to earn money! Suggest a chore to %1$d?",
@@ -1957,7 +2085,7 @@
   "add_chore_history_empty": "No previous chores to show 😕",
   "kid_earn_no_parents_bot_message_1": "You need supporters before you can start earning extra money",
   "kid_earn_no_parents_bot_message_2": "Invite them now!",
-  "general_invite_now": "Invite now!",
+  
   "notification_waiting_for_you": "Waiting for you",
   "premium_internal_transaction_to_savings": "Transfer to account",
   "error_buying_iap": "Something didn't work...",
@@ -1966,8 +2094,7 @@
   "external_survey_section_2": "Vårt mål är att öka förståelsen för hur barn lär sig hantera pengar i en digital värld - och för att kunna genomföra denna studie behöver vi din hjälp!",
   "external_survey_section_3": "Studien består av tre delar med ett antal frågor. Majoriteten av dessa besvaras av dig som vuxen, men vi är tacksamma om du dessutom skulle kunna ställa några korta frågor till ditt, eller ett av dina, barn som använder Gimi.",
   "external_survey_buttontext": "Starta!",
-  "general_vilkor": "Terms and conditions",
-  "general_show_recommended": "Show recommended",
+  
   "pin_loading_screen_title": "The code to your card...",
   "pin_loading_screen_text": "...is loading slowly. Hang in there!",
   "onfido_loading_texts_1": "Loading...",
@@ -1978,21 +2105,21 @@
   "onfido_loading_texts_6": "Hang in there...",
   "invite_supporter": "Invite supporter",
   "copied_to_clipboard_success": "Copied to clipboard!",
-  "general_topup": "Top-up",
+  
   "mark_as_completed": "Mark as completed",
   "chore_archive_earned_title": "Earned: %1$d",
   "kid_custom_notification_money_week": "Kolla in pengatips från experterna",
   "top_up_card_action_button": "Top-up card",
-  "general_accept": "Accept",
+  
   "approved_other_parent_for_deposits_success_title": "%1$d is approved!",
   "approved_other_parent_for_deposits_success_text": "%1$d can now receive money: {},%2$d.",
   "payday_amount_desc": "How much was earned this week:",
   "payday_earnt_desc": "This is how the Payday money was earned!",
-  "general_disconnected": "disconnected",
+  
   "notification_important_get_started": "Get started",
   "pfs_card_to_savings": "Transfer to account",
   "pfs_deposit_from_card": "Transfer: {},card",
-  "general_due_today": "Due today",
+  
   "scanned_existing_popover_title": "You're already connected to %1$d!",
   "scanned_existing_popover_text": "Go enjoy Gimi together!",
   "request_permission_title_contacts": "Gimi needs permission to get your contacts",
@@ -2012,13 +2139,13 @@
   "kid_cloud_account_explainer_text": "Your supporters are kind of like your bank. They keep your money. Want to get your money or buy something? Ask your supporters to give you cash or to pay!",
   "transaction_cash_payout": "Cash payout",
   "fake_premium_education_course_title": "How to pay with a card",
-  "general_get_started": "Get started",
+  
   "education_explainer_title": "Give your children money skills!",
   "education_explainer_text": "Research shows that talking about money with children at home, helps them develop good money habits. To support families, we’ve put together some fun educational stories!",
-  "general_passed_due": "Passed due date!",
+  
   "transaction_cash_payout_from": "Cash payout by %1$d",
   "add_contact_row_in_settings": "Add contact!",
-  "general_photo_loading_failed": "Could not load this image",
+  
   "lysa_start_container_title": "Start and connect a Lysa saving account",
   "lysa_start_container_subtitle": "Gimi collaborates with Lysa, to offer parents what we believe is the best and simplest automated investment account for long term saving.",
   "pfs_refund_kid": "Chargeback: {},%1$d!",
@@ -2027,7 +2154,7 @@
   "lysa_terms_title": "I approve Lysa's user terms",
   "lysa_create_new_acc_button": "Start",
   "lysa_existing_customer_button": "I'm already a Lysa customer!",
-  "general_add_chores": "Add chores!",
+  
   "pending_chores_hint_parent_home": "%1$d pending",
   "dream_reached_parent_home": "Reached!",
   "order_card_from_parent_home": "Order card!",
@@ -2036,7 +2163,8 @@
   "kid_on_waitlist_order_card_from_parent_home": "Get card!",
   "waitlist_from_parent_home": "Card Waitlist!",
   "kid_on_waitlist_from_parent_home": "Waitlist",
-  "general_today_expressive": "Today!",
+  
+  
   "lysa_intro_title": "Give %1$d a head start!",
   "lysa_intro_text": "%1$d years: {},now %2$d will be 18. Start investing small amounts today and watch your savings grow in the Gimi app!",
   "lysa_success_title": "Success! Your account was created.",
@@ -2079,7 +2207,7 @@
   "kyc_success_message": "Identity verified!",
   "kyc_pending_message": "Wait! Verifying identity",
   "kyc_failed_message": "Identity could not be verified",
-  "general_change_kid": "Switch child",
+  
   "order_card_for_n_title": "Get the Gimi card for %1$d",
   "premium_payday_deposit_confirmation_title": "You just transfered %1$d to %2$d",
   "premium_payday_deposit_confirmation_desc": "The money will be on the card soon, give it a few minutes",
@@ -2095,7 +2223,7 @@
   "activate_new_card_show_pin_title_parent": "the PIN code for the new card",
   "lysa_setup_autogiro_enter_account_number_title": "Type your account number",
   "lysa_setup_autogiro_enter_account_number_placeholder": "account number",
-  "general_dont_remember": "Don't remember",
+  
   "lysa_setup_autogiro_choose_bank_title": "Choose bank",
   "lysa_setup_autogiro_choose_account_title": "Choose account for monthly saving",
   "lysa_setup_autogiro_choose_account_subtitle": "You have to choose a checking account",
@@ -2127,10 +2255,9 @@
   "shareable_today_is_payday_title": "It's Payday!",
   "shareable_card_activated_title": "I have a Gimi card!",
   "shareable_upgraded_to_master_title": "Upgraded to Gimi Master",
-  "general_subscription_type": "Subscription: %1$d",
-  "general_master_forever": "Master Forever",
+  
   "subscription_will_expire_in": "Subscription will expire in %1$d days. You need an active subscription to use the Gimi card",
-  "general_renew_now": "Renew now!",
+  
   "card_blocked_status_c_intercom_prefill": "Help! My Gimi card has been blocked due to an unknown reason",
   "pay_via_stripe_option_desc": "Add the bank card you want to transfer money from. No credit cards!",
   "payment_option_swish": "Mobile transfer",
@@ -2151,7 +2278,7 @@
   "future_due_friday_title": "Due friday",
   "future_due_saturday_title": "Due saturday",
   "future_due_sunday_title": "Due sunday",
-  "general_future_due": "Due soon",
+  
   "passed_due_day_name": "Late! Was due %1$d",
   "future_due_day_name": "Due %1$d",
   "card_graph_ideas_contact_title": "What would you like to see here?",
@@ -2166,23 +2293,22 @@
   "payday_overview_earn_section_subtitle": "How money was earned",
   "payday_overview_supporters_section_subtitle": "How much supporters owe",
   "payday_overview_amount_section_subtitle": "Earned so far",
-  "general_payday": "Payday",
+  
   "connection_title": "Connect with someone",
   "not_my_birthday": "It's not my birthday",
   "ok_thanks": "OK thanks!",
-  "general_ok_sure": "OK, sure!",
+  
   "copy_chore": "Create copy",
   "parent_copy_chore_action_title": "You just created a copy of a chore!",
   "parent_copy_chore_action_desc": "%1$d will be notified and reminded!",
   "error_updating_contact": "Contact could not be updated",
-  "general_go_back_expressive": "Go back!",
+  
   "confirm_transfer_money_friend_popover_title": "Sure you want to transfer money to %1$d?",
   "confirm_transfer_money_friend_popover_desc": "You can't undo this or take the money back!",
   "kid_connections_for_kid_friends_section_title": "Friends",
   "add_friends_row_in_settings": "Add a friend!",
   "chore_approved_takeover_title": "Chore approved!",
-  "general_go_to_chore": "Go to chore",
-  "general_day": "day",
+  
   "card_successfully_added_confirmation_message": "Card successfully added!",
   "passcode_added_confirmation_title": "Done!",
   "passcode_added_confirmation_desc": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
@@ -2238,7 +2364,7 @@
   "order_card_loading_screen_description_4": "Sending your data...",
   "order_card_loading_screen_description_5": "Receiving some data...",
   "order_card_loading_screen_title": "Ordering your Gimi card...",
-  "general_show": "Show",
+  
   "hiding_in_timer": "Hiding numbers in...",
   "click_to_look_again": "Click show to get another peak!",
   "you_cant_transfer_negative_amounts": "You can't transfer negative amounts...",
@@ -2257,7 +2383,7 @@
   "select_kid_for_chore_copy_title": "Choose child",
   "select_kid_for_chore_copy_subtitle": "Who do you want to assign the copy of this chore to?",
   "add_chore_image_proof_to_complete": "Add picture proof to complete!",
-  "general_save_changes": "Save changes",
+  
   "suggested_chore_dont_accept_button": "Don't accept",
   "suggested_chore_accept_button": "Accept & add to chores",
   "session_has_expired_error_message": "Your sessions is expired, sign in again!",
@@ -2266,7 +2392,7 @@
   "card_issuer_terms": "Card issuer terms",
   "master_user_terms": "Gimi Master user terms",
   "subscription_terms": "Subscription terms",
-  "general_return": "Try again",
+  
   "returned_chore_header": "Not approved",
   "returned_chore_header_disable_approval": "Not approved",
   "archive_chore_returned": "Not approved",
@@ -2276,7 +2402,7 @@
   "master_yearly": "Master yearly",
   "master_monthly": "Master monthly",
   "need_kid_for_subscription": "You need to connect with a child before you can buy a subscription and order a card!",
-  "general_expired": "Expired",
+  
   "feature_back_to_school": "Back to school, back to work",
   "invite_family_parent_settings_row": "Invite your family!",
   "order_card_parent_settings_row": "Get the Gimi card here...",
@@ -2315,7 +2441,7 @@
   "overview_skip_payday_button": "Skip payday",
   "payout_summary_single_kid_subtitle": "Change the amount or transfer right away!",
   "payout_summary_single_kid_negative_amount_subtitle": "Seems like %1$d didn't earn any money this period...",
-  "general_error_missing_phone_number": "Your phone number is missing!",
+  
   "chore_edit_every_day": "Every day",
   "chore_edit_weekdays": "Weekdays",
   "chore_edit_weekends": "Weekends",
@@ -2330,7 +2456,7 @@
   "education_for_ages_title": "For ages",
   "education_age_adaption_title": "Age adaption",
   "education_learning_outcomes_title": "Learning outcomes",
-  "general_read_more": "Read more",
+  
   "kid_custom_note_feature_721": "Share Piggy with a friend to tell them how you’re feeling today! 😁😍😎",
   "stripe_trying_to_add_gimi_card_error": "Wrong card! Add your own to make transfers from.",
   "lysa_settings_title": "Lysa settings",
@@ -2427,7 +2553,7 @@
   "accept_terms_title": "Accept terms",
   "kyc_user_terms_link_title": "User terms",
   "kyc_privacy_terms_link_title": "Privacy policy",
-  "general_other_options": "Other options",
+  
   "klarna_error_code_title_unattainable": "Can’t connect to BankID!",
   "klarna_error_code_desc_unattainable": "Make sure your device is online and try again.",
   "klarna_error_code_title_too_many_attempts": "BankID temporarily blocked, try again soon!",
@@ -2448,7 +2574,7 @@
   "kid_earn_suggestedchore_empty": "Suggest your own chore! Look around or get inspired by the categories! ☝️",
   "need_for_kyc_title": "Verify your identity",
   "need_for_kyc_subtitle": "When you have verified your identity you can send money to %1$d. EU regulations require us to verify users who send money.",
-  "general_do_it_now": "Do it now",
+  
   "money_from_n": "%1$d sent money! 🤩",
   "card_settings_payday_target_account": "Payday target account",
   "payday_target_card": "Card",
@@ -2462,7 +2588,7 @@
   "kyc_identity_not_verified_title": "Your identity has not been verified yet...",
   "kyc_identity_not_verified_subtitle": "Verify yourself so you can send money to your children 💸",
   "kyc_identity_not_verified_button": "Do it now!",
-  "general_more_information": "More information",
+  
   "parent_create_recurring_chore_action_title": "You created a recurring chore!",
   "parent_create_recurring_chore_action_desc": "It will appear in the chore list when it updates each Monday.",
   "chore_overview_completed_at": "Completed on: %1$d",
@@ -2487,7 +2613,7 @@
   "kid_help_card_invite_text": "Invite children and add supporters!",
   "kid_help_card_master_title": "Think you're ready for the Gimi Card?",
   "kid_help_card_influencer_title": "Wanna be an ambassador for Gimi?",
-  "general_read_more_arrow": "Read more >",
+  
   "influencer_portal_url": "https://gimitheapp.com/en/influencers",
   "kid_payday_explainer_removable_card_title": "What is Payday?",
   "kid_payday_explainer_removable_card_weekly_text": "You get money once per week. Make it last!",
@@ -2597,14 +2723,14 @@
   "promo_iap_banner": "Discount",
   "kid_cloud_debt_swipable_card_title": "Where is the money?",
   "kid_cloud_debt_swipable_card_text": "Your supporters owed you %1$d, but this is you new account, with real money.",
-  "general_view_all": "View all",
+  
   "stripe_set_as_payment_method_confirmation_message": "Stripe it is",
   "kid_profile_connection_supporter": "Supporter",
   "share_promocode_message": "🎁Promo code! Get 3 months free trial with the Gimi-card. Type in this code in the Gimi-app: %1$d",
   "parentsettings_promocode_label": "Share promo code",
   "parent_tutorial_upgrade_headline": "Upgrade to real money",
   "parent_tutorial_upgrade_desc": "When your child is ready, you can get a Gimi card. The perfect way to start managing real money!",
-  "general_skip_invite": "Skip inviting",
+  
   "goal_hide_button": "Hide: {},profile",
   "goal_show_button": "Show on profile",
   "kid_profile_goal_hidden": "Hidden",
@@ -2630,7 +2756,7 @@
   "reminder_sent_confirmation_message": "Reminder sent!",
   "pfs_atm_withdrawal_transaction": "ATM withdrawal\n%1$d",
   "category_atm": "ATM",
-  "general_read_all_about_it_arrow": "Read all about it >",
+  
   "when_birthday_question": "When is your birthday?",
   "cloud_empty_state": "No transactions yet. You can add or deduct as you wish!",
   "3d_secure_loading_texts_1": "redirecting to bank...",
@@ -2650,40 +2776,37 @@
   "payday_tomorrow_circle_text": "Tomorrow 🎉",
   "edit_chore_expires_on": "Expires on",
   "chore_expires_never": "never",
-  "general_set_date": "Set date",
+  
   "reset_chore_expires_on_btn": "Set without expiration",
-  "spar_editor_title": "Check the address",
-  "spar_editor_subtitle": "...and update if needed. But we only ship to Sweden!",
-  "parent_premium_expires_soon_flash_card_title": "Your subscription expires soon",
-  "parent_premium_expires_soon_flash_card_text": "Turn on automatic renewal to keep the Gimi card active.",
-  "parent_premium_feature_custom_note": "New Gimi Master feature",
-  "general_new_premium_feature": "New Gimi Master feature",
-  "kid_premium_feature_custom_note": "New Gimi Master feature",
-  "kid_card_row_issued_hint": "Activate the card!",
-  "kid_savings_account_intro_title": "This account is for saving!",
-  "kid_savings_account_intro_text": "Your new account holds real money. Save here and earn interest: {},your supporters.\n\nWant to spend? Top-up your card: {},here!",
-  "friend_profile_empty_state_connections": "No connections yet!",
-  "connection_rejected": "Connection rejected",
-  "contact_not_added": "The contact was not added.",
-  "added_craving_without_parent_takeover_title": "Your wish is added!",
-  "see_subscriptions": "View prices",
-  "parent_choose_pin_code_subtitle": "You need a passcode to keep your Gimi app safe",
-  "kid_choose_pin_code_subtitle": "This will be the code to your Gimi app. Your card PIN is different.",
-  "allowance_average_is_n_for_age": "Average is %1$d for age %2$d",
-  "interest_average_is_n_for_age": "Average is %1$d% for age %2$d",
-  "chore_price_editor_subtitle": "Type 0 if the chore should be done without a reward.",
-  "name_has_phone_number": "%1$d has a phone number",
-  "kid_profile_more_coming_soon": "More features coming here soon!",
-  "cloud_withdraw_by_supporter": "Deducted by a supporter",
-  "qr_success_confirmation_message": "Connection created!",
-  "chore_tab_to_be_done": "To be done",
-  "chore_tab_pending": "Pending",
-  "chore_tab_archive": "Archive",
-  "cloud_insertion_from_supporter": "Added by supporter",
-  "pending_connection_row_right_disclaimer": "Accept or deny",
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
   
   
   
@@ -3127,14 +3250,19 @@
   "AddGoalTitleContainer": {},
   "EditPayoutAmountContainer": {},
   "KidPayoutSummaryForParentContainer": {},
-  "AddPinContainer": {},
+  "AddPinContainer": {
+    "kid_choose_pin_code_subtitle": "This will be the code to your Gimi app. Your card PIN is different.",
+    "parent_choose_pin_code_subtitle": "You need a passcode to keep your Gimi app safe"
+  },
   "PremiumIntroForKidContainer": {},
   "AddChoreCategoryForKidContainer": {},
   "AddChoreCategoryForParentContainer": {},
   "AddChoreForKidContainer": {},
   "AddChoreForParentContainer": {},
   "AddChoreParticipantsForKidContainer": {},
-  "AddChoreSetPriceForParentContainer": {},
+  "AddChoreSetPriceForParentContainer": {
+    "chore_price_editor_subtitle": "Type 0 if the chore should be done without a reward."
+  },
   "AddChoreTitleForKidContainer": {},
   "AddChoreTitleForParentContainer": {},
   "InstantorTermsContainer": {},
@@ -3157,7 +3285,10 @@
   },
   "FinLitTestStartContainer": {},
   "CardWaitList": {},
-  "ChangePINContainer": {},
+  "ChangePINContainer": {
+    "kid_choose_pin_code_subtitle": "This will be the code to your Gimi app. Your card PIN is different.",
+    "parent_choose_pin_code_subtitle": "You need a passcode to keep your Gimi app safe"
+  },
   "ChoresExplainerForKidContainer": {},
   "ForgotPinContainer": {},
   "ChatConversationTesterContainer": {},
@@ -3172,13 +3303,17 @@
   "FreemiumWithdrawContainer": {},
   "DevInfoContainer": {},
   "DevSignInJwtTokenContainer": {},
-  "EditAllowanceOverviewContainer": {},
+  "EditAllowanceOverviewContainer": {
+    "allowance_average_is_n_for_age": "Average is %1$d for age %2$d"
+  },
   "EditKidAgeContainer": {},
   "EditKidAllowanceAmountContainer": {},
   "EditKidAllowanceDayContainer": {},
   "EditKidAllowanceFrequencyContainer": {},
   "EditKidEmailContainer": {},
-  "EditKidInterestContainer": {},
+  "EditKidInterestContainer": {
+    "interest_average_is_n_for_age": "Average is %1$d% for age %2$d"
+  },
   "EditKidPaymentRecommendationContainer": {},
   "EditKidPhoneContainer": {},
   "EditKidRewardAccountContainer": {},
@@ -3221,7 +3356,9 @@
   "KidConnectContainer": {},
   "KidConnectionsForParentContainer": {},
   "GoalProductOverviewContainer": {},
-  "KidConnectionsForKidContainer": {},
+  "KidConnectionsForKidContainer": {
+    "pending_connection_row_right_disclaimer": "Accept or deny"
+  },
   "KidDevSettingsContainer": {},
   "KidChoreForParentContainer": {},
   "KidInternalTransactionContainer": {},
@@ -3236,13 +3373,16 @@
   "KidCardForKidContainer": {},
   "NewKidOnboardingWelcomeContainer": {},
   "OrderCardStartContainer": {
-    "order_card_why_required": "Why is it required?"
+    "order_card_why_required": "Why is it required?",
+    "name_has_phone_number": "%1$d has a phone number"
   },
   "ParentAccountSettingsContainer": {},
   "ParentChoreSummaryContainer": {},
   "ParentConnectContainer": {},
   "CardQuestionsContainerForKid": {},
-  "ParentConnectionsContainer": {},
+  "ParentConnectionsContainer": {
+    "pending_connection_row_right_disclaimer": "Accept or deny"
+  },
   "KidSavingsForParentContainer": {},
   "ParentMoneyRequestContainer": {},
   "ParentSpendingNotificationSettings": {},
@@ -3257,7 +3397,9 @@
   "PayDayExplainerForKidContainer": {},
   "PushNotificationOnboardingContainer": {},
   "PayDayExplainerForParentContainer": {},
-  "QrCodeContainer": {},
+  "QrCodeContainer": {
+    "qr_success_confirmation_message": "Connection created!"
+  },
   "RequestMoneyContainer": {},
   "SetCardNameContainer": {},
   "SetupKidUpgradeToPremiumContainer": {},
@@ -3290,9 +3432,12 @@
   "SpendingNotificationsEditor": {},
   "StartContainer": {},
   "KidHomeContainer": {
-    "card_request_row_subtitle": "Not activated"
+    "card_request_row_subtitle": "Not activated",
+    "kid_card_row_issued_hint": "Activate the card!"
   },
-  "ChoreEditorForParentContainer": {},
+  "ChoreEditorForParentContainer": {
+    "chore_price_editor_subtitle": "Type 0 if the chore should be done without a reward."
+  },
   "KYCMethodComingSoonContainer": {},
   "TodayIsPayDayContainer": {},
   "UserSettingsContainer": {},
@@ -3322,7 +3467,9 @@
   "HowGimiWorksContainer": {},
   "KidMoneySettingsForParentContainer": {},
   "PayDayNotificationForKidContainer": {},
-  "AddedGoalWithoutParentsContainer": {},
+  "AddedGoalWithoutParentsContainer": {
+    "added_craving_without_parent_takeover_title": "Your wish is added!"
+  },
   "SwiperContainer": {},
   "AddGoalImageContainer": {},
   "SavingsAccountIntroForParentContainer": {},
@@ -3342,7 +3489,10 @@
   "WhyPremiumCostsContainer": {},
   "KlarnaContainer": {},
   "SendNotificationContainer": {},
-  "SPAREditorContainer": {},
+  "SPAREditorContainer": {
+    "spar_editor_title": "Check the address",
+    "spar_editor_subtitle": "...and update if needed. But we only ship to Sweden!"
+  },
   "OnfidoTermsContainer": {},
   "NeedForKycContainer": {},
   "KidPaydayTargetAccountSettingsContainer": {},
@@ -3352,7 +3502,9 @@
     "kid_profile_parents_connections_section_title": "Parents",
     "kid_profile_friend_connections_section_title": "Friends",
     "kid_profile_empty_state_friend_connections": "Invite your friends! 😎",
-    "kid_profile_empty_state_parent_connections": "Invite supporters to get money! 🤑"
+    "kid_profile_empty_state_parent_connections": "Invite supporters to get money! 🤑",
+    "kid_profile_more_coming_soon": "More features coming here soon!",
+    "friend_profile_empty_state_connections": "No connections yet!"
   },
   "OrderCardSetPinContainer": {},
   "ExperimentalSetupKidUpgradeToPremiumContainer": {},
@@ -3360,8 +3512,14 @@
   "CloudIsBackExplainerContainer": {},
   "NavigatableContainers": {},
   "KidSettingsForKidContainer": {},
-  "SavingsAccountIntroForKidContainer": {},
-  "RejectInvitationContainer": {},
+  "SavingsAccountIntroForKidContainer": {
+    "kid_savings_account_intro_title": "This account is for saving!",
+    "kid_savings_account_intro_text": "Your new account holds real money. Save here and earn interest: {},your supporters.\n\nWant to spend? Top-up your card: {},here!"
+  },
+  "RejectInvitationContainer": {
+    "connection_rejected": "Connection rejected",
+    "contact_not_added": "The contact was not added."
+  },
   "SetupKidAllowanceDayContainer": {},
   "AddChoreSetTypeForParentContainer": {},
   "AddChoreSetTypeForKidContainer": {},
@@ -3409,11 +3567,19 @@
   },
   "customNotifications": {
     "not_payd_yet": "Not yet paid",
-    "notification_waiting_hour_glass": "Waiting..."
+    "notification_waiting_hour_glass": "Waiting...",
+    "kid_premium_feature_custom_note": "New Gimi Master feature",
+    "parent_premium_feature_custom_note": "New Gimi Master feature",
+    "parent_premium_expires_soon_flash_card_title": "Your subscription expires soon",
+    "parent_premium_expires_soon_flash_card_text": "Turn on automatic renewal to keep the Gimi card active."
   },
   "unused": {
     "card_valid_from": "Valid from",
-    "card_expires_end": "Expires end"
+    "card_expires_end": "Expires end",
+    "chore_tab_pending": "Pending",
+    "chore_tab_archive": "Archive",
+    "chore_tab_to_be_done": "To be done",
+    "see_subscriptions": "View prices"
   },
   "kid_profile_tests_section_title": "PLZ_CHECK Achievements",
   "kid_profile_test_not_completed": "PLZ_CHECK Not completed",
