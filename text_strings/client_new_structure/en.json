@@ -352,76 +352,19 @@
     "day_4": "thursday",
     "day_5": "friday",
     "day_6": "saturday",
-    "day_7": "sunday"
+    "day_7": "sunday",
+    "select_image_title": "how do you want to add your picture?",
+    "settings_user": "about me",
+    "settings_account": "App settings",
+    "settings_connected": "my contacts",
+    "settings_language": "language",
+    "settings_currency": "currency"
   },
   "errors": {
     "general_error_message": "Something went wrong. Please try again later.",
     "iap_could_not_bind_error": "Could not bind purchase, please contact support"
   },
   
-  
-  "category_cleaning": "cleaning",
-  "category_cooking": "cooking",
-  "category_dishwashing": "dishwashing",
-  "category_good_behaviour": "good behaviour",
-  "category_helping_hand": "helping hand",
-  "category_laundry": "laundry",
-  "category_learning": "learning",
-  "category_pets": "pets",
-  "category_yard_work": "yard work",
-  "category_custom": "other",
-  "category_tech": "tech",
-  "category_shopping": "Shopping",
-  "category_travel": "Travel",
-  "category_media": "media",
-  "category_leisure": "leisure",
-  "category_other": "other",
-  "category_film": "entertainment",
-  "category_food": "food",
-  "category_deduction": "bad behavior",
-  "category_charity": "charity",
-  "category_cash_payout": "cash payout",
-  "category_bank_repayment": "repayment",
-  "select_image_title": "how do you want to add your picture?",
-  "facebook_profile_pic": "use profile picture: {},Facebook",
-  "settings_user": "about me",
-  "settings_account": "App settings",
-  "settings_connected": "my contacts",
-  "settings_language": "language",
-  "settings_currency": "currency",
-  "settings_pin": "PIN-code",
-  "rate_us": "give Gimi your rating",
-  "instagram_url": "https://www.instagram.com/gimitheapp/",
-  "facebook_app_url": "fb://page/736022873152512",
-  "facebook_web_url": "https://www.facebook.com/GimiFinancialSuperskills/",
-  "twitter_url": "https://twitter.com/gimitheapp",
-  "user_terms_link": "https://www.gimitheapp.com/en/terms?cookies=false",
-  "about_us_link": "https://www.gimitheapp.com/en/about/",
-  "main_website_link": "https://www.gimitheapp.com/",
-  "who_will_be_paying_person": "How much of the allowance do you want to pay to %1$d?",
-  "pay_full_allowance": "all",
-  "pay_half_allowance": "half",
-  "pay_no_allowance": "none",
-  "pay_full_allowance_more": "I pay all of the weekly or monthly allowance",
-  "pay_half_allowance_more": "another grown-up pays too, I pay half of the weekly or monthly allowance",
-  "pay_no_allowance_more": "someone else pays, but I will pitch in and hand out chores",
-  "get_on_waitlist": "sign up to the waiting list",
-  "settings_card": "card settings",
-  "card_not_released_info": "It's empty here because the card has not arrived yet...",
-  "nav_bar_waitlist": "waiting list",
-  "waitinglist_your_spot": "your place on the waiting list: ",
-  "countdown": "countdown",
-  "card_test": "card test",
-  "card_test_not_done": "you have not done the test yet",
-  "to_test": "to the test",
-  "try_again_in_timer": "you can try again in %1$d days",
-  "card_test_passed": "card test is approved 👍",
-  "card_test_failed": "card test is not approved 🙁",
-  "card_test_score": "your result: %1$d",
-  "percentage_tag": "%1$d%",
-  "nav_bar_settings_allowance": "allowance settings for %1$d",
-  "total_allowance": "child's total allowance",
-  "you_pay_allowance": "you pay allowance",
   "allowance_frequency": "weekly or monthly?",
   "weekly": "weekly allowance",
   "monthly": "monthly allowance",
@@ -617,16 +560,7 @@
   "approve_user_policy": "Approve user terms",
   "children_and_children_info": "About your child",
   "verify_your_identity": "Verify your identity",
-  "card_good_to_know_title": "About the Gimi card",
-  "card_good_to_know_limits_title": "Your child needs a phone number!",
-  "card_good_to_know_blocks_title": "The Gimi card",
-  "card_good_to_know_blocks_desc": "The card works in stores, online and abroad. Supporters can decide if it can be used to withdraw cash: {},ATMs. It cannot be used at merchants listed inappropriate for children.",
-  "card_good_to_know_savings_title": "The Gimi account",
-  "card_good_to_know_savings_desc": "When you get Gimi Master, your child also gets an account for saving. You pay the bonus for money saved on the account.",
-  "card_good_to_know_prepaid_title": "Topping up",
-  "card_good_to_know_prepaid_desc": "Parents save their card in the Gimi app safely with Stripe. This allows for instant money transfers. We don't have support for refunds.",
-  "card_good_to_know_use_where_title": "Why should I pay?",
-  "card_good_to_know_use_where_desc": "The Gimi card is connected to the Gimi app, an educational tool designed to teach children financial literacy. We don't sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission.",
+  
   "card_terms_and_conditions_title": "read our user terms",
   "card_terms_and_conditions_text": "read the card terms",
   "new_gimi_for_everyone": "The new Gimi is here!",
@@ -746,17 +680,9 @@
   "lockdown": "LOCK DOWN",
   "lockdown_message": "Your card subsctiption has not been paid. To access your app and your money, remind your parent to pay.",
   "send_reminder": "Send reminder",
-  "monthly_fee_for_gimi_premium": "Monthly fee for Gimi Master",
-  "allowance_plus_chores_plus_interest": "allowance + chores + bonus",
-  "weekly_allowance_plus_chores_plus_interest_child": "so far this week",
-  "weekly_allowance_plus_chores_plus_interest_parent": "so far this week",
-  "monthly_allowance_plus_chores_plus_interest_child": "so far this month",
-  "monthly_allowance_plus_chores_plus_interest_parent": "so far this month",
-  "everything_you_need_to_know_about_gimi": "Everything you need to know about Gimi",
-  "everything_you_need_to_know_about_gimi_text": "this section does not exist yet",
-  "search_for_product": "search",
-  "search_result": "search result",
-  "no_results": "No results",
+  
+  
+  
   "select_kid_for_card_title": "Who should get the card?",
   "error_maintenance_title": "Sorry about the mess, we are rebuilding!",
   "error_maintenance_desc": "The work will soon be done, then you can use the app as usual!",
@@ -805,12 +731,7 @@
   
   "upgraded_n_to_premium_title": "You have upgraded %1$d to Master!",
   "upgraded_n_to_premium_desc": "The card is on is way to your front door!",
-  "card_overview_usp_1_title": "A card and an account: {},Gimi!",
-  "card_overview_usp_1_desc": "Your child gets a card. You get control. The card works in store and online.",
-  "card_overview_usp_2_title": "Smart and easy money handling",
-  "card_overview_usp_2_desc": "The child sees their balance in the app. The allowance and extra money is transferred directly to the account.",
-  "card_overview_usp_3_title": "Safer and better than cash",
-  "card_overview_usp_3_desc": "Lost cards can be blocked and unblocked in the app.",
+  
   "get_the_card": "Get the card",
   "approve_payouts": "Approve deposit",
   "enter_your_address": "Enter your address",
@@ -833,16 +754,7 @@
   "upgraded_to_premium_done_title": "Done! Ready to explore your new app?",
   "upgraded_to_premium_done_desc": "Your plastic Gimi card is on its way.",
   "last_name_reminder": "Don't forget your surname!",
-  "pig_home_screen_message_1": "Aloha",
-  "pig_home_screen_message_2": "Nice to see you",
-  "pig_home_screen_message_3": "hello there",
-  "pig_home_screen_message_4": "howdy",
-  "pig_home_screen_message_5": "Hi mate",
-  "pig_home_screen_message_6": "Hey",
-  "pig_home_screen_message_7": "Hi buddy",
-  "pig_home_screen_message_8": "wazzup",
-  "pig_home_screen_message_9": "hello",
-  "pig_home_screen_message_10": "hei",
+  
   "parent_orderd_card": "a card is on its way to you",
   "how_to_pay": "This is how to pay online",
   "got_savings_account": "You've got an account for saving",
@@ -2779,45 +2691,6 @@
   "chore_expires_never": "never",
   
   "reset_chore_expires_on_btn": "Set without expiration",
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
 
   "Popovers": {
     "qr_code_explainer_popover_title": "Connect using QR-code",
@@ -3233,7 +3106,30 @@
   "CurrencySettingsForParentContainer": {},
   "KidOnBoardingVideoContainer": {},
   "AboutEducationContainer": {},
-  "ChoreEditorForKidContainer": {},
+  "ChoreEditorForKidContainer": {
+    "category_cleaning": "cleaning",
+    "category_cooking": "cooking",
+    "category_dishwashing": "dishwashing",
+    "category_good_behaviour": "good behaviour",
+    "category_helping_hand": "helping hand",
+    "category_laundry": "laundry",
+    "category_learning": "learning",
+    "category_pets": "pets",
+    "category_yard_work": "yard work",
+    "category_custom": "other",
+    "category_tech": "tech",
+    "category_shopping": "Shopping",
+    "category_travel": "Travel",
+    "category_media": "media",
+    "category_leisure": "leisure",
+    "category_other": "other",
+    "category_film": "entertainment",
+    "category_food": "food",
+    "category_deduction": "bad behavior",
+    "category_charity": "charity",
+    "category_cash_payout": "cash payout",
+    "category_bank_repayment": "repayment"
+  },
   "CorrectNumberContainer": {},
   "SignUpKidCurrencyContainer": {},
   "KidCloudForKidContainer": {},
@@ -3245,7 +3141,9 @@
   "EditTransactionCategoryContainer": {},
   "KidCardActivationIntroContainer": {},
   "EnterEmailContainer": {},
-  "AddGoalContainer": {},
+  "AddGoalContainer": {
+    "no_results": "No results"
+  },
   "KYCMethodPickerContainer": {},
   "AddGoalPriceContainer": {},
   "AddGoalTitleContainer": {},
@@ -3271,8 +3169,21 @@
   "ApprovedToSendMoneyToKidContainer": {},
   "BirthdayContainer": {},
   "CardActivationSuccessContainer": {},
-  "CardGoodToKnowContainer": {},
-  "KidCardSettingsForKidContainer": {},
+  "CardGoodToKnowContainer": {
+    "card_good_to_know_title": "About the Gimi card",
+    "card_good_to_know_limits_title": "Your child needs a phone number!",
+    "card_good_to_know_blocks_title": "The Gimi card",
+    "card_good_to_know_blocks_desc": "The card works in stores, online and abroad. Supporters can decide if it can be used to withdraw cash: {},ATMs. It cannot be used at merchants listed inappropriate for children.",
+    "card_good_to_know_savings_title": "The Gimi account",
+    "card_good_to_know_savings_desc": "When you get Gimi Master, your child also gets an account for saving. You pay the bonus for money saved on the account.",
+    "card_good_to_know_prepaid_title": "Topping up",
+    "card_good_to_know_prepaid_desc": "Parents save their card in the Gimi app safely with Stripe. This allows for instant money transfers. We don't have support for refunds.",
+    "card_good_to_know_use_where_title": "Why should I pay?",
+    "card_good_to_know_use_where_desc": "The Gimi card is connected to the Gimi app, an educational tool designed to teach children financial literacy. We don't sell your data or advertise in the app, which is why we offer a paid version for users who want to support our mission."
+  },
+  "KidCardSettingsForKidContainer": {
+    "settings_pin": "PIN-code"
+  },
   "CardActivationStartContainer": {},
   "OrderCardCardTermsAndConditionsContainer": {},
   "OrderCardDoneContainer": {},
@@ -3315,7 +3226,15 @@
   "EditKidInterestContainer": {
     "interest_average_is_n_for_age": "Average is %1$d% for age %2$d"
   },
-  "EditKidPaymentRecommendationContainer": {},
+  "EditKidPaymentRecommendationContainer": {
+    "who_will_be_paying_person": "How much of the allowance do you want to pay to %1$d?",
+    "pay_full_allowance": "all",
+    "pay_half_allowance": "half",
+    "pay_no_allowance": "none",
+    "pay_full_allowance_more": "I pay all of the weekly or monthly allowance",
+    "pay_half_allowance_more": "another grown-up pays too, I pay half of the weekly or monthly allowance",
+    "pay_no_allowance_more": "someone else pays, but I will pitch in and hand out chores"
+  },
   "EditKidPhoneContainer": {},
   "EditKidRewardAccountContainer": {},
   "EditNameContainer": {},
@@ -3350,7 +3269,10 @@
   "SetupKidInterestContainer": {},
   "KidAccountSettingsContainer": {},
   "KidPaydayForKidContainer": {},
-  "KidAllowanceSettingsForParentContainer": {},
+  "KidAllowanceSettingsForParentContainer": {
+    "nav_bar_settings_allowance": "allowance settings for %1$d",
+    "you_pay_allowance": "you pay allowance"
+  },
   "KidCardSettingsForParentContainer": {},
   "KidChoreSummaryContainer": {},
   "KidChoresSettingsForParentContainer": {},
@@ -3360,7 +3282,9 @@
   "KidConnectionsForKidContainer": {
     "pending_connection_row_right_disclaimer": "Accept or deny"
   },
-  "KidDevSettingsContainer": {},
+  "KidDevSettingsContainer": {
+    "total_allowance": "child's total allowance"
+  },
   "KidChoreForParentContainer": {},
   "KidInternalTransactionContainer": {},
   "KidPaydayForParentContainer": {},
@@ -3418,7 +3342,9 @@
   },
   "SignUpParentNameContainer": {},
   "SignUpParentPhoneContainer": {},
-  "SignUpTermsAndConditionsContainer": {},
+  "SignUpTermsAndConditionsContainer": {
+    "user_terms_link": "https://www.gimitheapp.com/en/terms?cookies=false"
+  },
   "SignUpUserTypeContainer": {
     "signup_usertype_subtitle": "Parents, don't choose child here. It won't work.",
     "signup_usertype_kid_title": "I'm a child",
@@ -3436,6 +3362,9 @@
     "card_request_row_subtitle": "Not activated",
     "kid_card_row_issued_hint": "Activate the card!"
   },
+  "ParentHomeContainer": {
+    "get_on_waitlist": "sign up to the waiting list"
+  },
   "ChoreEditorForParentContainer": {
     "chore_price_editor_subtitle": "Type 0 if the chore should be done without a reward."
   },
@@ -3444,7 +3373,9 @@
   "UserSettingsContainer": {},
   "UpgradedToPremiumDoneContainer": {},
   "VerifyingIdentityLoadingContainer": {},
-  "YourSpotOnWaitListContainer": {},
+  "YourSpotOnWaitListContainer": {
+    "nav_bar_waitlist": "waiting list"
+  },
   "PFSErrorContainer": {},
   "UpdatedMoneySettingsContainer": {},
   "PremiumIntroContainer": {
@@ -3466,7 +3397,9 @@
   "PayoutSummarySingleKidAllowanceContainer": {},
   "CardTermsAndConditionsContainer": {},
   "HowGimiWorksContainer": {},
-  "KidMoneySettingsForParentContainer": {},
+  "KidMoneySettingsForParentContainer": {
+    "percentage_tag": "%1$d%"
+  },
   "PayDayNotificationForKidContainer": {},
   "AddedGoalWithoutParentsContainer": {
     "added_craving_without_parent_takeover_title": "Your wish is added!"
@@ -3512,7 +3445,10 @@
   "PremiumInfoForKidContainer": {},
   "CloudIsBackExplainerContainer": {},
   "NavigatableContainers": {},
-  "KidSettingsForKidContainer": {},
+  "KidSettingsForKidContainer": {
+    "rate_us": "give Gimi your rating",
+    "settings_card": "card settings"
+  },
   "SavingsAccountIntroForKidContainer": {
     "kid_savings_account_intro_title": "This account is for saving!",
     "kid_savings_account_intro_text": "Your new account holds real money. Save here and earn interest: {},your supporters.\n\nWant to spend? Top-up your card: {},here!"
@@ -3580,7 +3516,50 @@
     "chore_tab_pending": "Pending",
     "chore_tab_archive": "Archive",
     "chore_tab_to_be_done": "To be done",
-    "see_subscriptions": "View prices"
+    "see_subscriptions": "View prices",
+    "facebook_profile_pic": "use profile picture: {},Facebook",
+    "instagram_url": "https://www.instagram.com/gimitheapp/",
+    "facebook_app_url": "fb://page/736022873152512",
+    "facebook_web_url": "https://www.facebook.com/GimiFinancialSuperskills/",
+    "twitter_url": "https://twitter.com/gimitheapp",
+    "about_us_link": "https://www.gimitheapp.com/en/about/",
+    "main_website_link": "https://www.gimitheapp.com/",
+    "card_not_released_info": "It's empty here because the card has not arrived yet...",
+    "waitinglist_your_spot": "your place on the waiting list: ",
+    "countdown": "countdown",
+    "card_test": "card test",
+    "card_test_not_done": "you have not done the test yet",
+    "to_test": "to the test",
+    "try_again_in_timer": "you can try again in %1$d days",
+    "card_test_passed": "card test is approved 👍",
+    "card_test_failed": "card test is not approved 🙁",
+    "card_test_score": "your result: %1$d",
+    "monthly_fee_for_gimi_premium": "Monthly fee for Gimi Master",
+    "allowance_plus_chores_plus_interest": "allowance + chores + bonus",
+    "weekly_allowance_plus_chores_plus_interest_child": "so far this week",
+    "weekly_allowance_plus_chores_plus_interest_parent": "so far this week",
+    "monthly_allowance_plus_chores_plus_interest_child": "so far this month",
+    "monthly_allowance_plus_chores_plus_interest_parent": "so far this month",
+    "everything_you_need_to_know_about_gimi": "Everything you need to know about Gimi",
+    "everything_you_need_to_know_about_gimi_text": "this section does not exist yet",
+    "search_for_product": "search",
+    "search_result": "search result",
+    "card_overview_usp_1_title": "A card and an account: {},Gimi!",
+    "card_overview_usp_1_desc": "Your child gets a card. You get control. The card works in store and online.",
+    "card_overview_usp_2_title": "Smart and easy money handling",
+    "card_overview_usp_2_desc": "The child sees their balance in the app. The allowance and extra money is transferred directly to the account.",
+    "card_overview_usp_3_title": "Safer and better than cash",
+    "card_overview_usp_3_desc": "Lost cards can be blocked and unblocked in the app.",
+    "pig_home_screen_message_1": "Aloha",
+    "pig_home_screen_message_2": "Nice to see you",
+    "pig_home_screen_message_3": "hello there",
+    "pig_home_screen_message_4": "howdy",
+    "pig_home_screen_message_5": "Hi mate",
+    "pig_home_screen_message_6": "Hey",
+    "pig_home_screen_message_7": "Hi buddy",
+    "pig_home_screen_message_8": "wazzup",
+    "pig_home_screen_message_9": "hello",
+    "pig_home_screen_message_10": "hei"
   },
   "kid_profile_tests_section_title": "PLZ_CHECK Achievements",
   "kid_profile_test_not_completed": "PLZ_CHECK Not completed",
