@@ -189,7 +189,9 @@
     "per_year": "/year",
     "general_forever": "Forever",
     "gimi_rating_bad": "Nope",
-    "gimi_rating_good": "Love it!"
+    "gimi_rating_good": "Love it!",
+    "general_thank_you": "Thank you",
+    "general_support_gimi": "Support Gimi!"
   },
   "errors": {
     "general_error_message": "Something went wrong. Please try again later.",
@@ -1904,8 +1906,7 @@
   "question_currency": "Which currency do you use?",
   "add_card_details": "Add card",
   "debt_explainer_removed_confirmation": "Removed!",
-  "not_main_parent_premium_intro_main_title": "%1$d has been upgraded to Master!",
-  "not_main_parent_premium_intro_main_desc": "Gimi Master comes with a Gimi Card and a Gimi Account. Prepare to start managing real money.",
+  
   "premium_slide_title_name": "Upgrade %1$d, Gimi Card included!",
   "premium_slide_desc_title_1": "✓ The Gimi Card",
   "premium_slide_desc_title_2": "✓ Educational app",
@@ -2247,7 +2248,7 @@
   "help_row_allowance": "How does allowance work?",
   "help_row_interest": "Why a bonus?",
   "set_card_name_help_text": "Write the full name of %1$d, as it will appear on the card.",
-  "notification_waiting_hour_glass": "Waiting...",
+  
   "notification_payment_failed": "Failed",
   "notification_payment_ignored": "Ignored",
   "internal_transfer_error_title": "Oh no... Something went wrong",
@@ -2680,60 +2681,19 @@
   "chore_tab_archive": "Archive",
   "cloud_insertion_from_supporter": "Added by supporter",
   "pending_connection_row_right_disclaimer": "Accept or deny",
-  "not_main_parent_premium_intro_title_section_1": "Savings got an upgrade",
-  "not_main_parent_premium_intro_text_section_1": "It's all about real money now! The card is for spending, savings account is for saving.",
-  "not_main_parent_premium_intro_title_section_2": "Add your card",
-  "not_main_parent_premium_intro_text_section_2": "Payday and other deposits are simple and instant, just make sure to add the card you want to pay with in settings.",
-  "not_main_parent_premium_intro_title_section_3": "Settle your debt",
-  "not_main_parent_premium_intro_text_section_3": "Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters",
-  "general_see_subs": "See subscriptions",
-  "invite_kid_to_buy_sub": "Tou dont have a child yet! \nInvite someone and come back.",
-  "invalid_phone_no_err_box": "Please check your phone number!",
-  "save_dream_btn": "Save as dream",
-  "save_wish_btn": "Save as wish",
+  
+  
+  
+  
+  
+  
 
-  "not_payd_yet": "Not yet paid",
-  "order_card_why_required": "Why is it required?",
-  "general_thank_you": "Thank you",
-  "general_support_gimi": "Support Gimi!",
-  "kid_request_master_card_title": "Request the Gimi card!",
-  "kid_premium_info_request_button": "Send request",
-  "kid_card_request_success_action": "Go to card test",
-  "kid_card_request_success_title": "Request was sent to your supporters!",
-  "kid_card_request_success_desc": "Your supporters decide if you’re ready for a card. Want to show you are? Do the card test!",
-  "kid_premium_info_request_title": "Do you want the Gimi card?",
-  "kid_premium_info_request_subtitle": "Send a request to your supporters!",
-  "card_request_row_subtitle": "Not activated",
-  "kid_card_request_waiting_title": "Waiting for supporters...",
-  "kid_card_request_waiting_desc": "Your supporters decide if you’re ready for a card. You’ll have to wait for them to decide.",
-  "kid_card_request_waiting_action": "I don’t want the card",
-  "card_request_reminder_sent_confirmation_message": "Reminder sent!",
-  "card_request_removed_confirmation_message": "Card removed!",
-  "card_request_invite_no_parent_connections": "You need a supporter to get the card! Invite someone and come back.",
-  "kid_card_request_takeover_title": "Do you want the Gimi card?",
-  "kid_card_request_takeover_subtitle": "You can send a request to your supporters if you want the Gimi card.",
-  "kid_card_request_takeover_sellings_point_1_title": "Selling point 1 title",
-  "kid_card_request_takeover_sellings_point_1_text": "Selling point 1 text",
-  "kid_card_request_takeover_sellings_point_2_title": "Selling point 2 title",
-  "kid_card_request_takeover_sellings_point_2_text": "Selling point 2 text",
-  "kid_card_request_takeover_sellings_point_3_title": "Selling point 3 title",
-  "kid_card_request_takeover_sellings_point_3_text": "Selling point 3 text",
-  "kid_card_request_takeover_button": "Yes, request",
-  "parent_card_request_takeover_title": "%1$d wants the Gimi card!",
-  "parent_card_request_takeover_subtitle": "Is %1$d ready for real money?",
-  "parent_card_request_takeover_sellings_point_1_text": "Buy subscription. First month is free!",
-  "parent_card_request_takeover_sellings_point_2_text": "Order card in less than 2 minutes.",
-  "parent_card_request_takeover_sellings_point_3_text": "Transfer money to %1$d right away!",
-  "parent_card_request_takeover_button": "Read more & order",
-  "support_gimi_title": "Want to support Gimi?",
-  "support_gimi_text_1": "💚 Gimi is not a bank, we are a small team of 20 people in Stockholm",
-  "support_gimi_text_2": "💰 Our revenues come: {},users, we don’t sell your data or show you ads",
-  "support_gimi_text_3": "🌈 Support us on our mission to equip children with financial superskills!",
-  "support_gimi_you_choose_amount": "You choose how much!",
-  "support_gimi_button": "Support Gimi with one click",
-  "dont_support_gimi_button": "I don’t want to support Gimi",
-  "card_valid_from": "Valid from",
-  "card_expires_end": "Expires end",
+  
+  
+  
+  
+  
+
 
   "Popovers": {
     "qr_code_explainer_popover_title": "Connect using QR-code",
@@ -3068,7 +3028,15 @@
     "premium_info_faq_question_6": "Is it secure?",
     "premium_info_faq_answer_6": "Gimi uses 2-factor authentication to keep your money safe. We use a phone number instead of BankID. With the phone number, your child will set up an app passcode."
   },
-  "SupportUsContainer": {},
+  "SupportUsContainer": {
+    "support_gimi_title": "Want to support Gimi?",
+    "support_gimi_text_1": "💚 Gimi is not a bank, we are a small team of 20 people in Stockholm",
+    "support_gimi_text_2": "💰 Our revenues come: {},users, we don’t sell your data or show you ads",
+    "support_gimi_text_3": "🌈 Support us on our mission to equip children with financial superskills!",
+    "support_gimi_you_choose_amount": "You choose how much!",
+    "support_gimi_button": "Support Gimi with one click",
+    "dont_support_gimi_button": "I don’t want to support Gimi"
+  },
   "ChoreToBeSuggestedContainer": {},
   "FAQQuestionsContainer": {},
   "ChoreToBeCreatedContainer": {},
@@ -3128,7 +3096,9 @@
   "KidConnectSetupInfo": {},
   "KidDreamForParentContainer": {},
   "LysaIntroContainer": {},
-  "KidNotificationFeedContainer": {},
+  "KidNotificationFeedContainer": {
+    "kid_request_master_card_title": "Request the Gimi card!"
+  },
   "NumberInputWithButtonsView": {},
   "GimiVideoContainer": {},
   "KidCloudForParentContainer": {},
@@ -3228,7 +3198,10 @@
   "FullscreenLottieContainer": {},
   "GimiCameraContainer": {},
   "GimiWebContainer": {},
-  "GoalEditorContainer": {},
+  "GoalEditorContainer": {
+    "save_wish_btn": "Save as wish",
+    "save_dream_btn": "Save as dream"
+  },
   "ParentPaymentMethodForCardContainer": {},
   "InviteConnectViaCustomPhoneNoContainer": {},
   "JoinBetaProgramContainer": {},
@@ -3262,7 +3235,9 @@
   "EnterPinWithVerificationContainer": {},
   "KidCardForKidContainer": {},
   "NewKidOnboardingWelcomeContainer": {},
-  "OrderCardStartContainer": {},
+  "OrderCardStartContainer": {
+    "order_card_why_required": "Why is it required?"
+  },
   "ParentAccountSettingsContainer": {},
   "ParentChoreSummaryContainer": {},
   "ParentConnectContainer": {},
@@ -3272,7 +3247,9 @@
   "ParentMoneyRequestContainer": {},
   "ParentSpendingNotificationSettings": {},
   "ParentSubscriptionsContainer": {
-    "promo_code_limit_reached": "You've reach the promo code use limit"
+    "promo_code_limit_reached": "You've reach the promo code use limit",
+    "invite_kid_to_buy_sub": "Tou dont have a child yet! \nInvite someone and come back.",
+    "general_see_subs": "See subscriptions"
   },
   "PhoneNumberSearchContainer": {},
   "PigSettingsContainer": {},
@@ -3293,7 +3270,9 @@
   "SignUpKidImageContainer": {},
   "SignUpKidNameContainer": {},
   "SignUpKidPhoneContainer": {},
-  "SignUpParentImageContainer": {},
+  "SignUpParentImageContainer": {
+    "invalid_phone_no_err_box": "Please check your phone number!"
+  },
   "SignUpParentNameContainer": {},
   "SignUpParentPhoneContainer": {},
   "SignUpTermsAndConditionsContainer": {},
@@ -3310,6 +3289,9 @@
   },
   "SpendingNotificationsEditor": {},
   "StartContainer": {},
+  "KidHomeContainer": {
+    "card_request_row_subtitle": "Not activated"
+  },
   "ChoreEditorForParentContainer": {},
   "KYCMethodComingSoonContainer": {},
   "TodayIsPayDayContainer": {},
@@ -3319,7 +3301,16 @@
   "YourSpotOnWaitListContainer": {},
   "PFSErrorContainer": {},
   "UpdatedMoneySettingsContainer": {},
-  "PremiumIntroContainer": {},
+  "PremiumIntroContainer": {
+    "not_main_parent_premium_intro_main_title": "%1$d has been upgraded to Master!",
+    "not_main_parent_premium_intro_main_desc": "Gimi Master comes with a Gimi Card and a Gimi Account. Prepare to start managing real money.",
+    "not_main_parent_premium_intro_title_section_1": "Savings got an upgrade",
+    "not_main_parent_premium_intro_text_section_1": "It's all about real money now! The card is for spending, savings account is for saving.",
+    "not_main_parent_premium_intro_title_section_2": "Add your card",
+    "not_main_parent_premium_intro_text_section_2": "Payday and other deposits are simple and instant, just make sure to add the card you want to pay with in settings.",
+    "not_main_parent_premium_intro_title_section_3": "Settle your debt",
+    "not_main_parent_premium_intro_text_section_3": "Did %1$d have money in savings? Convert it to real money with a deposit, and don't forget to remind the other supporters"
+  },
   "CameraErrorContainer": {},
   "PayOnlineContainer": {},
   "ActivateCardShowPinContainer": {},
@@ -3375,14 +3366,54 @@
   "AddChoreSetTypeForParentContainer": {},
   "AddChoreSetTypeForKidContainer": {},
   "CurrencySettingsForKidContainer": {},
-  "PremiumInfoWithRequestForKidContainer": {},
-  "KidCardRequestSuccessContainer": {},
-  "KidCardRequestWaitingContainer": {},
-  "KidCardRequestTakeoverContainer": {},
-  "ParentCardRequestTakeoverContainer": {},
+  "PremiumInfoWithRequestForKidContainer": {
+    "card_request_invite_no_parent_connections": "You need a supporter to get the card! Invite someone and come back.",
+    "kid_premium_info_request_title": "Do you want the Gimi card?",
+    "kid_premium_info_request_subtitle": "Send a request to your supporters!",
+    "kid_premium_info_request_button": "Send request"
+  },
+  "KidCardRequestSuccessContainer": {
+    "kid_card_request_success_action": "Go to card test",
+    "kid_card_request_success_title": "Request was sent to your supporters!",
+    "kid_card_request_success_desc": "Your supporters decide if you’re ready for a card. Want to show you are? Do the card test!"
+  },
+  "KidCardRequestWaitingContainer": {
+    "card_request_removed_confirmation_message": "Card removed!",
+    "card_request_reminder_sent_confirmation_message": "Reminder sent!",
+    "kid_card_request_waiting_title": "Waiting for supporters...",
+    "kid_card_request_waiting_desc": "Your supporters decide if you’re ready for a card. You’ll have to wait for them to decide.",
+    "kid_card_request_waiting_action": "I don’t want the card"
+  },
+  "KidCardRequestTakeoverContainer": {
+    "kid_card_request_takeover_title": "Do you want the Gimi card?",
+    "kid_card_request_takeover_subtitle": "You can send a request to your supporters if you want the Gimi card.",
+    "kid_card_request_takeover_sellings_point_1_title": "Selling point 1 title",
+    "kid_card_request_takeover_sellings_point_1_text": "Selling point 1 text",
+    "kid_card_request_takeover_sellings_point_2_title": "Selling point 2 title",
+    "kid_card_request_takeover_sellings_point_2_text": "Selling point 2 text",
+    "kid_card_request_takeover_sellings_point_3_title": "Selling point 3 title",
+    "kid_card_request_takeover_sellings_point_3_text": "Selling point 3 text",
+    "kid_card_request_takeover_button": "Yes, request"
+  },
+  "ParentCardRequestTakeoverContainer": {
+    "parent_card_request_takeover_title": "%1$d wants the Gimi card!",
+    "parent_card_request_takeover_subtitle": "Is %1$d ready for real money?",
+    "parent_card_request_takeover_sellings_point_1_text": "Buy subscription. First month is free!",
+    "parent_card_request_takeover_sellings_point_2_text": "Order card in less than 2 minutes.",
+    "parent_card_request_takeover_sellings_point_3_text": "Transfer money to %1$d right away!",
+    "parent_card_request_takeover_button": "Read more & order"
+  },
   "UpcomingMaintenancesContainer": {
     "maintenances_upcoming_disclaimer": "PLZ_CHECK Maintenance is coming up",
     "upcoming_maintenances_title": "PLZ_CHECK Planned maintenances"
+  },
+  "customNotifications": {
+    "not_payd_yet": "Not yet paid",
+    "notification_waiting_hour_glass": "Waiting..."
+  },
+  "unused": {
+    "card_valid_from": "Valid from",
+    "card_expires_end": "Expires end"
   },
   "kid_profile_tests_section_title": "PLZ_CHECK Achievements",
   "kid_profile_test_not_completed": "PLZ_CHECK Not completed",
