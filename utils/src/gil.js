@@ -23,8 +23,7 @@ const getKeyMap = (json, path, keys = {}) => {
 
 const keyMap = getKeyMap(enJson)
 
-
-const findLangKeysInFile = (filePath, langKey, fullLangKeys) => {
+const findLangKeysInFile = (filePath, langKey, fullLangKeys): * => {
   const fileString = fs.readFileSync(filePath, {encoding: 'utf8'})
   const matches = fileString.match(new RegExp(`'\w*.{0,1}${langKey}'`, 'g'))
   if (!matches) return
@@ -36,7 +35,7 @@ const findLangKeysInFile = (filePath, langKey, fullLangKeys) => {
       if (res) didMatch = true
       i++
     }
-    if (didMatch) return
+    if (didMatch) return undefined
     if (!shouldFix && fullLangKeys.length === 1) return console.log(`\`${filePath}\`: \`${el}\` should be \`'${fullLangKeys[0]}'\``)
     if (!shouldFix) return console.log(`\`${filePath}\`: \`${el}\` should be one of \`${fullLangKeys.join(', ')}\``)
     if (fullLangKeys.length > 1) {
@@ -46,7 +45,7 @@ const findLangKeysInFile = (filePath, langKey, fullLangKeys) => {
     }
     console.log(`Fixing \`${filePath}\`: \`${el}\` -> \`'${fullLangKeys[0]}'\`...`)
     const newFileString = fileString.replace(new RegExp(`'${langKey}'`, 'g'), `'${fullLangKeys[0]}'`)
-    fs.writeFileSync(filePath, newFileString, {encoding: 'utf8'})
+    return fs.writeFileSync(filePath, newFileString, {encoding: 'utf8'})
   })
 }
 

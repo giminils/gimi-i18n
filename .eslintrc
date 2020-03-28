@@ -17,6 +17,8 @@
   },
     "rules": {
       "prefer-const": 0,
+      "no-console":"off",
+      "no-useless-escape": "off",
       "quote-props": 0,
       "header/header": "off",
       "import/first": 0,

@@ -123,7 +123,7 @@ let syncNewStructureTextStrings = (filePath: string, file: string, lang: string,
 }
 
 let runSara = (filePath: string): * => {
-  let folderName = filePath.match(/\/[^\s/]*$/g) ? filePath.match(/\/[^\s/]*$/g)[0] + '/' : ''
+  // let folderName = filePath.match(/\/[^\s/]*$/g) ? filePath.match(/\/[^\s/]*$/g)[0] + '/' : ''
   let defaultPath = getPath(filePath, 'default.json')
   let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
   _default = JSON.parse(_default)
@@ -136,7 +136,7 @@ let runSara = (filePath: string): * => {
   // fix swedish TextStrings formatting
   strings = JSON.stringify(strings, undefined, 2)
   fs.unlinkSync(stringPath)
-  fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
+  return fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
 }
 
 let syncTextStrings = (filePath: string, file: string, lang: string, _default: *) => {
