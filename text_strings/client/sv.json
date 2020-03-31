@@ -3075,12 +3075,12 @@
   "kid_profile_test_not_completed": "Ej genomfört",
   "kid_profile_test_success": "Lyckades!",
   "kid_profile_test_fail": "Misslyckades!",
-  "fin_lit_test_1_name": "PLZ_CHECK Money skills 1",
-  "fin_lit_test_2_name": "PLZ_CHECK Money skills 2",
-  "fin_lit_test_3_name": "PLZ_CHECK Money skills 3",
-  "pass_code_added": "PLZ_CHECK Passcode added!",
-  "fin_lit_test_title": "PLZ_CHECK How are your money skills?",
-  "fin_lit_test_subtitle_1": "PLZ_CHECK Do the Money skills 1 test and ge financial superskills!",
-  "fin_lit_test_subtitle_2": "PLZ_CHECK Do the Money skills 2 test and ge financial superskills!",
-  "fin_lit_test_subtitle_3": "PLZ_CHECK Do the Money skills 3 test and ge financial superskills!"
+  "fin_lit_test_1_name": "Pengarskills 1",
+  "fin_lit_test_2_name": "Pengarskills 2",
+  "fin_lit_test_3_name": "Pengarskills 3",
+  "pass_code_added": "Appkod sparad!",
+  "fin_lit_test_title": "Hur är dina Pengarskills?",
+  "fin_lit_test_subtitle_1": "Gör Pengarskills 1-testet och få financial superskills!",
+  "fin_lit_test_subtitle_2": "Gör Pengarskills 2-testet och få financial superskills!",
+  "fin_lit_test_subtitle_3": "Gör Pengarskills 3-testet och få financial superskills!"
 }
