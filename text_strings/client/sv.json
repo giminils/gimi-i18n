@@ -3082,5 +3082,9 @@
   "fin_lit_test_title": "Hur är dina Pengarskills?",
   "fin_lit_test_subtitle_1": "Gör Pengarskills 1-testet och få financial superskills!",
   "fin_lit_test_subtitle_2": "Gör Pengarskills 2-testet och få financial superskills!",
-  "fin_lit_test_subtitle_3": "Gör Pengarskills 3-testet och få financial superskills!"
+  "fin_lit_test_subtitle_3": "Gör Pengarskills 3-testet och få financial superskills!",
+  "general_customise": "PLZ_CHECK Customise",
+  "customise_name_on_card": "PLZ_CHECK Name on card",
+  "general_sticker": "PLZ_CHECK Sticker",
+  "general_color": "PLZ_CHECK Color"
 }

@@ -3082,5 +3082,9 @@
   "fin_lit_test_title": "PLZ_TRANSLATE How are your money skills?",
   "fin_lit_test_subtitle_1": "PLZ_TRANSLATE Do the Money skills 1 test and ge financial superskills!",
   "fin_lit_test_subtitle_2": "PLZ_TRANSLATE Do the Money skills 2 test and ge financial superskills!",
-  "fin_lit_test_subtitle_3": "PLZ_TRANSLATE Do the Money skills 3 test and ge financial superskills!"
+  "fin_lit_test_subtitle_3": "PLZ_TRANSLATE Do the Money skills 3 test and ge financial superskills!",
+  "general_customise": "PLZ_TRANSLATE Customise",
+  "customise_name_on_card": "PLZ_TRANSLATE Name on card",
+  "general_sticker": "PLZ_TRANSLATE Sticker",
+  "general_color": "PLZ_TRANSLATE Color"
 }
