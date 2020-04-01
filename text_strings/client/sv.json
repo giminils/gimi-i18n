@@ -3086,5 +3086,7 @@
   "general_customise": "PLZ_CHECK Customise",
   "customise_name_on_card": "PLZ_CHECK Name on card",
   "general_sticker": "PLZ_CHECK Sticker",
-  "general_color": "PLZ_CHECK Color"
+  "general_color": "PLZ_CHECK Color",
+  "new_connection_still_not_accepted": "PLZ_CHECK Your invite has still not been accepted",
+  "new_connection_still_not_accepted_subtitle": "PLZ_CHECK Wait a little longer?"
 }

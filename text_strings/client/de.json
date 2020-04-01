@@ -3086,5 +3086,7 @@
   "general_customise": "PLZ_TRANSLATE Customise",
   "customise_name_on_card": "PLZ_TRANSLATE Name on card",
   "general_sticker": "PLZ_TRANSLATE Sticker",
-  "general_color": "PLZ_TRANSLATE Color"
+  "general_color": "PLZ_TRANSLATE Color",
+  "new_connection_still_not_accepted": "PLZ_TRANSLATE Your invite has still not been accepted",
+  "new_connection_still_not_accepted_subtitle": "PLZ_TRANSLATE Wait a little longer?"
 }
