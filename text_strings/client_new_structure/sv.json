@@ -188,8 +188,8 @@
     "per_month": "/månad",
     "per_year": "/år",
     "general_forever": "För alltid",
-    "gimi_rating_bad": "PLZ_CHECK PLZ_CHECK Nope",
-    "gimi_rating_good": "PLZ_CHECK PLZ_CHECK Love it!",
+    "gimi_rating_bad": "Nope",
+    "gimi_rating_good": "Älskar det!",
     "general_thank_you": "Tack",
     "general_support_gimi": "Stötta Gimi!",
     "general_new_premium_feature": "Ny Gimi Master-funktion",
@@ -362,7 +362,7 @@
   },
   "errors": {
     "general_error_message": "Något gick fel. Försök igen lite senare",
-    "iap_could_not_bind_error": "PLZ_CHECK Could not bind purchase, please contact support"
+    "iap_could_not_bind_error": "Kunde inte binda köpet, var god kontakta supporten"
   },
   "allowance_frequency": "vecko- eller månadspeng?",
   "weekly": "veckopeng",
@@ -1779,9 +1779,9 @@
   "premium_deposit_confirmation_desc": "Pengarna finns på kortet när som helst nu.",
   "ok_back": "OK, backa",
   "signup_kid_user_type_title": "Jag är barn!",
-  "signup_kid_user_type_subtitle": "PLZ_CHECK Earn, save and spend",
+  "signup_kid_user_type_subtitle": "Tjäna, spara och spendera",
   "signup_parent_user_type_title": "Förälder eller supporter",
-  "signup_parent_user_type_subtitle": "PLZ_CHECK Educate and manage pocket money",
+  "signup_parent_user_type_subtitle": "Utbilda och hantera fickpengar",
   "kid_card_set_as_number_button": "OK",
   "bank_not_working": "Funkar inte 😑",
   "you_have_a_card_on_file": "✅ Du har sparat ett kort",
@@ -3206,15 +3206,15 @@
     "user_terms_link": "https://www.gimitheapp.com/sv/terms?cookies=false"
   },
   "SignUpUserTypeContainer": {
-    "signup_usertype_subtitle": "PLZ_CHECK Parents, don't choose child here. It won't work.",
-    "signup_usertype_kid_title": "PLZ_CHECK I'm a child",
-    "signup_usertype_kid_1": "PLZ_CHECK 🤑 Earn money by doing chores",
-    "signup_usertype_kid_2": "PLZ_CHECK 🌈 Save for a dream",
-    "signup_usertype_kid_3": "PLZ_CHECK 🛍️ Practice smart spending",
-    "signup_usertype_parent_title": "PLZ_CHECK I'm a parent or supporter",
-    "signup_usertype_parent_1": "PLZ_CHECK 💰 Manage children's money",
-    "signup_usertype_parent_2": "PLZ_CHECK 🎓 Teach children about money",
-    "signup_usertype_parent_3": "PLZ_CHECK 💳 Order the Gimi card"
+    "signup_usertype_subtitle": "Föräldrar, välj inte barn här. Det kommer inte att fungera.",
+    "signup_usertype_kid_title": "Jag är ett barn",
+    "signup_usertype_kid_1": "🤑 Tjäna pengar genom att göra uppgifter",
+    "signup_usertype_kid_2": "🌈 Spara till din dröm",
+    "signup_usertype_kid_3": "🛍️ Öva på smart spendering",
+    "signup_usertype_parent_title": "Jag är en förälder eller supporter",
+    "signup_usertype_parent_1": "💰 Hantera barnens pengar",
+    "signup_usertype_parent_2": "🎓 Lär barnen om pengar",
+    "signup_usertype_parent_3": "💳 Beställ Gimi-kortet"
   },
   "SpendingNotificationsEditor": {},
   "StartContainer": {},
@@ -3352,14 +3352,14 @@
     "parent_card_request_takeover_button": "Läs mer & beställ"
   },
   "UpcomingMaintenancesContainer": {
-    "maintenances_upcoming_disclaimer": "PLZ_CHECK PLZ_CHECK Maintenance is coming up",
-    "upcoming_maintenances_title": "PLZ_CHECK PLZ_CHECK Planned maintenances"
+    "maintenances_upcoming_disclaimer": "Underhåll är snart på gång",
+    "upcoming_maintenances_title": "Planerade underhåll"
   },
-  "kid_profile_tests_section_title": "PLZ_CHECK PLZ_CHECK Achievements",
-  "kid_profile_test_not_completed": "PLZ_CHECK PLZ_CHECK Not completed",
-  "kid_profile_test_success": "PLZ_CHECK PLZ_CHECK Nailed!",
-  "kid_profile_test_fail": "PLZ_CHECK PLZ_CHECK Failed!",
-  "fin_lit_test_name": "PLZ_CHECK PLZ_CHECK Money skills",
+  "kid_profile_tests_section_title": "Prestationer",
+  "kid_profile_test_not_completed": "Inte slutförda",
+  "kid_profile_test_success": "Lyckades!",
+  "kid_profile_test_fail": "Misslyckades!",
+  "fin_lit_test_name": "Pengarskills",
   "FinLitTestEndForKidContainer": {
     "kid_card_test_success": "Du klarade korttestet! 🎉",
     "kid_card_test_fail": "Du klarade inte korttestet ☹️"
@@ -3368,7 +3368,7 @@
     "parent_kid_card_test_success": "%1$d klarade korttestet! 🎉",
     "parent_kid_card_test_fail": "%1$d klarade inte korttestet ☹️"
   },
-  "card_test_name": "PLZ_CHECK Card test",
+  "card_test_name": "Korttest",
   "KidHomeContainer": {
     "card_request_row_subtitle": "Väntar på godkännande...",
     "kid_card_row_issued_hint": "Aktivera ditt kort!"
@@ -3382,8 +3382,8 @@
     "parent_premium_expires_soon_flash_card_text": "Sätt på automatisk förnyelse för att behålla Gimi-kortet."
   },
   "unused": {
-    "card_valid_from": "PLZ_CHECK Valid from",
-    "card_expires_end": "PLZ_CHECK Expires end",
+    "card_valid_from": "Valid from",
+    "card_expires_end": "Expires end",
     "chore_tab_pending": "Väntar",
     "chore_tab_archive": "Utförda",
     "chore_tab_to_be_done": "Väntar på att bli utförda",
