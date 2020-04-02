@@ -3088,5 +3088,6 @@
   "general_sticker": "Stickers",
   "general_color": "Färg",
   "new_connection_still_not_accepted": "Din inbjudan har inte accepterats än!",
-  "new_connection_still_not_accepted_subtitle": "Vänta lite längre?"
+  "new_connection_still_not_accepted_subtitle": "Vänta lite längre?",
+  "general_hide_old": "PLZ_CHECK Hide old"
 }

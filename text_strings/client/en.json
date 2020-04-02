@@ -3088,5 +3088,6 @@
   "general_sticker": "Sticker",
   "general_color": "Color",
   "new_connection_still_not_accepted": "PLZ_CHECK Your invite has still not been accepted",
-  "new_connection_still_not_accepted_subtitle": "PLZ_CHECK Wait a little longer?"
+  "new_connection_still_not_accepted_subtitle": "PLZ_CHECK Wait a little longer?",
+  "general_hide_old": "Hide old"
 }

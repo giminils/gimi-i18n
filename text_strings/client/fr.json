@@ -3088,5 +3088,6 @@
   "general_sticker": "PLZ_TRANSLATE Sticker",
   "general_color": "PLZ_TRANSLATE Color",
   "new_connection_still_not_accepted": "PLZ_TRANSLATE Your invite has still not been accepted",
-  "new_connection_still_not_accepted_subtitle": "PLZ_TRANSLATE Wait a little longer?"
+  "new_connection_still_not_accepted_subtitle": "PLZ_TRANSLATE Wait a little longer?",
+  "general_hide_old": "PLZ_TRANSLATE Hide old"
 }
