@@ -3089,5 +3089,9 @@
   "general_color": "Color",
   "new_connection_still_not_accepted": "PLZ_CHECK Your invite has still not been accepted",
   "new_connection_still_not_accepted_subtitle": "PLZ_CHECK Wait a little longer?",
-  "general_hide_old": "Hide old"
+  "general_hide_old": "Hide old",
+  "chore_already_accepted": "This chore has been accepted",
+  "chore_already_accepted_desc": "There is already a chore greated from this suggestion",
+  "chore_already_rejected": "This chore has been rejected",
+  "chore_already_rejected_desc": "This suggested chore has been rejected"
 }
