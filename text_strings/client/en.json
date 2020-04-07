@@ -3094,7 +3094,6 @@
   "chore_already_accepted_desc": "There is already a chore greated from this suggestion",
   "chore_already_rejected": "This chore has been rejected",
   "chore_already_rejected_desc": "This suggested chore has been rejected",
-  "connection_has_been_removed": "Your connection has been removed!",
-  "connection_has_been_removed_desc": "You are no longer connected to the person with who you had this notification",
-  "connection_not_valid": "This connection notification is not valid anymore."
+  "connection_not_valid": "This connection notification is not valid anymore.",
+  "connection_problem": "Something is wrong"
 }
