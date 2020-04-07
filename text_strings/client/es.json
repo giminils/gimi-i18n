@@ -3095,5 +3095,6 @@
   "chore_already_rejected": "PLZ_TRANSLATE This chore has been rejected",
   "chore_already_rejected_desc": "PLZ_TRANSLATE This suggested chore has been rejected",
   "connection_has_been_removed": "PLZ_TRANSLATE Your connection has been removed!",
-  "connection_has_been_removed_desc": "PLZ_TRANSLATE You are no longer connected to the person with who you had this notification"
+  "connection_has_been_removed_desc": "PLZ_TRANSLATE You are no longer connected to the person with who you had this notification",
+  "connection_not_valid": "PLZ_TRANSLATE This connection notification is not valid anymore."
 }
