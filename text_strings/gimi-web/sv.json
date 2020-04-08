@@ -785,5 +785,7 @@
   "ui.buttons.download.app": "Ladda ner appen",
   "pages.cardtest.title": "Gimis korttest",
   "page.cardtest.subtitle": "Redo för ett eget kort? Gör vårt test för att bevisa att du är mogen att ta hand om dina egna pengar.",
-  "ui.buttons.settings.cookies": "PLZ_CHECK Cookie settings"
+  "ui.buttons.settings.cookies": "PLZ_CHECK Cookie settings",
+  "blogg.title": "PLZ_CHECK The Gimi Blog",
+  "blogg.subtitle": "PLZ_CHECK Financial superskills in a nutshell"
 }

@@ -785,5 +785,7 @@
   "ui.buttons.download.app": "PLZ_TRANSLATE Download the app",
   "pages.cardtest.title": "PLZ_TRANSLATE Gimi Card Test",
   "page.cardtest.subtitle": "PLZ_TRANSLATE Do you want your own card? Take our test and prove that you are ready to handle your own money",
-  "ui.buttons.settings.cookies": "PLZ_TRANSLATE Cookie settings"
+  "ui.buttons.settings.cookies": "PLZ_TRANSLATE Cookie settings",
+  "blogg.title": "PLZ_TRANSLATE The Gimi Blog",
+  "blogg.subtitle": "PLZ_TRANSLATE Financial superskills in a nutshell"
 }

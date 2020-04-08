@@ -785,5 +785,7 @@
   "ui.buttons.download.app": "Download the app",
   "pages.cardtest.title": "Gimi Card Test",
   "page.cardtest.subtitle": "Do you want your own card? Take our test and prove that you are ready to handle your own money",
-  "ui.buttons.settings.cookies": "Cookie settings"
+  "ui.buttons.settings.cookies": "Cookie settings",
+  "blogg.title": "The Gimi Blog",
+  "blogg.subtitle": "Financial superskills in a nutshell"
 }
