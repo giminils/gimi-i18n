@@ -3093,5 +3093,7 @@
   "chore_already_accepted": "Denne opgave er blevet godkendt",
   "chore_already_accepted_desc": "Der er allerede en opgave der er oprettet fra dette forslag",
   "chore_already_rejected": "Denne opgave er blevet afvist",
-  "chore_already_rejected_desc": "Denne foreslåede opgave er blevet afvist"
+  "chore_already_rejected_desc": "Denne foreslåede opgave er blevet afvist",
+  "connection_not_valid": "This connection notification is not valid anymore.",
+  "connection_problem": "Something is wrong"
 }
