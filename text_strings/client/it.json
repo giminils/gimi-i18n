@@ -3043,7 +3043,7 @@
   "kid_card_test_success": "Sei stato grande nel test %1$d! 🎉",
   "kid_card_test_fail": "Hai fallito il %1$d... ☹️",
   "parent_kid_card_test_success": "%1$d è stato grande nel %2$d! 🎉",
-  "parent_kid_card_test_fail": "%1$d ha fallito nel 2$d... ☹️",
+  "parent_kid_card_test_fail": "%1$d ha fallito nel %2$d... ☹️",
   "general_no_contacts_found": "Nessun contatto trovato",
   "general_price_with_tag": "Prezzo 🏷️",
   "kid_passed_card_test_share_title": "Ho passato il test per la carta 🎉",
