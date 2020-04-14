@@ -487,7 +487,7 @@
   "CHGEON031_push_title": "Metti alla prova le tue abilità di risparmio con il test I Risparmi di Gimi 💰",
   "CHGEON032_notification_title": "Metti alla prova le tue abilità di spesa con il test Le Spese di Gimi 🛍",
   "CHGEON032_push_title": "Metti alla prova le tue abilità di guadagno con il test di Gimi 🛍",
-  "ADGEPU016_notification_title": "{childname} ha superato il test per la carta, controlla il punteggio 🎖",
-  "ADGEPU016_push_title": "{childname} è andato alla grande nel test! 👏",
-  "ADGEPU017_notification_title": "{childname} ha fallito nel test per la carta. Meglio far pratica prima di avere la carta"
+  "ADGEPU016_notification_title": "PLZ_TRANSLATE {child.nickname} passed the card test, check out the score 🎖",
+  "ADGEPU016_push_title": "PLZ_TRANSLATE {child.nickname} nailed the test! 👏",
+  "ADGEPU017_notification_title": "PLZ_TRANSLATE {child.nickname} failed the card test. Better practice before getting a card"
 }
