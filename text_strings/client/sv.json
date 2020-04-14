@@ -2162,7 +2162,7 @@
   "spending_categories_item_explainer_kid_saved": "Du sparade %1$d den här månaden",
   "spending_categories_item_explainer_parent_saved": "%1$d sparade %2$d den här månaden",
   "parent_cloud_account_explainer_title": "Spargrisen är pengar du är skyldig",
-  "parent_cloud_account_explainer_text": "Spargrisen är inte kopplad till din bank, den håller bara koll på hur mycket du är skildig dina barn, så att du kan skippa kontanterna. När %1$d vill köpa något betalar du och drar av beloppet.",
+  "parent_cloud_account_explainer_text": "Spargrisen är inte kopplad till din bank, den håller bara koll på hur mycket du är skyldig dina barn, så att du kan skippa kontanterna. När %1$d vill köpa något betalar du och drar av beloppet.",
   "kid_cloud_account_explainer_title": "Dina pengar är hos dina supporters!",
   "kid_cloud_account_explainer_text": "Dina supporters är ungefär som din bank. De håller i dina pengar. Vill du ta ut pengarna eller köpa något? Be dina supporters!",
   "transaction_cash_payout": "Kontant utbetalning",
