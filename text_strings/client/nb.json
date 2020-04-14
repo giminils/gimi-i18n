@@ -3096,5 +3096,6 @@
   "chore_already_rejected_desc": "Den foreslåtte oppgaven har blitt avvist",
   "connection_not_valid": "Denne tilkoblingsvarslingen er ikke gyldig lenger.",
   "connection_problem": "Noe er galt",
-  "promo_code_already_used": "PLZ_TRANSLATE This code is already used..."
+  "promo_code_already_used": "PLZ_TRANSLATE This code is already used...",
+  "discounted_iap_promo__free_year": "PLZ_TRANSLATE Promo code unlocked! 1 year free"
 }

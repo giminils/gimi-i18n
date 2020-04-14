@@ -3096,5 +3096,6 @@
   "chore_already_rejected_desc": "Questa faccenda suggerita è stata rifiutata",
   "connection_not_valid": "Qusta notifica di connessione non è più valida.",
   "connection_problem": "Qualcosa è andato storto",
-  "promo_code_already_used": "PLZ_TRANSLATE This code is already used..."
+  "promo_code_already_used": "PLZ_TRANSLATE This code is already used...",
+  "discounted_iap_promo__free_year": "PLZ_TRANSLATE Promo code unlocked! 1 year free"
 }
