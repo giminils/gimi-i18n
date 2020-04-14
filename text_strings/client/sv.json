@@ -3097,5 +3097,5 @@
   "connection_not_valid": "PLZ_CHECK This connection notification is not valid anymore.",
   "connection_problem": "PLZ_CHECK Something is wrong",
   "promo_code_already_used": "PLZ_CHECK This code is already used...",
-  "discounted_iap_promo__free_year": "PLZ_CHECK Promo code unlocked! 1 year free"
+  "discounted_iap_promo_free_year": "PLZ_CHECK Promo code unlocked! 1 year free"
 }
