@@ -487,7 +487,7 @@
   "CHGEON031_push_title": "Testa dina spararskills med Gimis test 💰",
   "CHGEON032_notification_title": "Testa dina spenderarskills med Gimis Spendera-test 🛍",
   "CHGEON032_push_title": "Testa dina spenderarskills med Gimis test 🛍",
-  "ADGEPU016_notification_title": "PLZ_CHECK {childname} passed the card test, check out the score 🎖",
-  "ADGEPU016_push_title": "PLZ_CHECK {childname} nailed the test! 👏",
-  "ADGEPU017_notification_title": "PLZ_CHECK  {childname} failed the card test. Better practice before getting a card"
+  "ADGEPU016_notification_title": "{childname} klarade korttestet, spana in resultatet 🎖",
+  "ADGEPU016_push_title": "{childname} klarade testet! 👏",
+  "ADGEPU017_notification_title": "{childname} klarade inte korttestet. Bäst att öva lite innan ni beställer Gimi-kortet"
 }
