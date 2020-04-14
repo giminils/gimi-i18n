@@ -3095,5 +3095,6 @@
   "chore_already_rejected": "Dit klusje is afgewezen",
   "chore_already_rejected_desc": "Dit gesuggereerde klusje is afgewezen",
   "connection_not_valid": "Deze connectie-melding is niet meer geldig.",
-  "connection_problem": "Er is iets mis"
+  "connection_problem": "Er is iets mis",
+  "promo_code_already_used": "PLZ_TRANSLATE This code is already used..."
 }

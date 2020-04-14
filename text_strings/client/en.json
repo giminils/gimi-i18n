@@ -3095,5 +3095,6 @@
   "chore_already_rejected": "This chore has been rejected",
   "chore_already_rejected_desc": "This suggested chore has been rejected",
   "connection_not_valid": "This connection notification is not valid anymore.",
-  "connection_problem": "Something is wrong"
+  "connection_problem": "Something is wrong",
+  "promo_code_already_used": "This code is already used..."
 }

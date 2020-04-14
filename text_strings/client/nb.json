@@ -3095,5 +3095,6 @@
   "chore_already_rejected": "Denne oppgaven har blitt avvist",
   "chore_already_rejected_desc": "Den foreslåtte oppgaven har blitt avvist",
   "connection_not_valid": "Denne tilkoblingsvarslingen er ikke gyldig lenger.",
-  "connection_problem": "Noe er galt"
+  "connection_problem": "Noe er galt",
+  "promo_code_already_used": "PLZ_TRANSLATE This code is already used..."
 }

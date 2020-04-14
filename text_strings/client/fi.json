@@ -3095,5 +3095,6 @@
   "chore_already_rejected": "PLZ_TRANSLATE This chore has been rejected",
   "chore_already_rejected_desc": "PLZ_TRANSLATE This suggested chore has been rejected",
   "connection_not_valid": "PLZ_TRANSLATE This connection notification is not valid anymore.",
-  "connection_problem": "PLZ_TRANSLATE Something is wrong"
+  "connection_problem": "PLZ_TRANSLATE Something is wrong",
+  "promo_code_already_used": "PLZ_TRANSLATE This code is already used..."
 }

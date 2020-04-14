@@ -3095,5 +3095,6 @@
   "chore_already_rejected": "Questa faccenda è stata rifiutatarejected",
   "chore_already_rejected_desc": "Questa faccenda suggerita è stata rifiutata",
   "connection_not_valid": "Qusta notifica di connessione non è più valida.",
-  "connection_problem": "Qualcosa è andato storto"
+  "connection_problem": "Qualcosa è andato storto",
+  "promo_code_already_used": "PLZ_TRANSLATE This code is already used..."
 }
