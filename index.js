@@ -114,7 +114,6 @@ import LanguageCodes from './LanguageCodes.json'
 import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
-import Courses from './Courses'
 import ExperimentalCourses from './Education'
 
 export let supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
@@ -293,8 +292,6 @@ export const getFinLitTestQuestion = (testType: number, step: number, lang?: str
 export const getFinLitTestAnswer = (testType: number, step: number, lang?: string = 'en', currencyCode?: string = 'SEK') => getFinLitAnswer(testType, step, lang, currencyCode)
 
 export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
-
-export const getCourses = () => Courses
 
 export const getExperimentalCourses = () => ExperimentalCourses
 
