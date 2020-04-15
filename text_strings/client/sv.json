@@ -2605,7 +2605,7 @@
   "why_premium_costs_money_buy_button": "Köp prenumeration",
   "has_sub_but_no_card_hint": "Glöm inte att beställa ditt Gimi-kort! ",
   "internal_error_correction_transaction": "Rättelse för ett misstag i dina transaktioner ",
-  "discounted_iap_promo_text": "Promo code upplåst! 3 månader gratis",
+  "discounted_iap_promo_text": "Kampanjkod upplåst! 3 månader gratis",
   "premium_unlimit_promo_text": "Engångskostnad, slipp förnya!",
   "email_already_taken_by_kid_title": "E-postadressen är upptagen",
   "email_already_taken_by_kid_desc": "E-postadressen är kopplat till ditt barns konto. För att koppla den till ditt konto, ersätt den med ett telefonnummer till ditt barn i Inställningar.",
@@ -3097,5 +3097,5 @@
   "connection_not_valid": "PLZ_CHECK This connection notification is not valid anymore.",
   "connection_problem": "PLZ_CHECK Something is wrong",
   "promo_code_already_used": "PLZ_CHECK This code is already used...",
-  "discounted_iap_promo_free_year": "PLZ_CHECK Promo code unlocked! 1 year free"
+  "discounted_iap_promo_free_year": "Kampanjkod upplåst! 1 år gratis"
 }
