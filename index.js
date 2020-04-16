@@ -295,8 +295,6 @@ export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getIn
 
 export const getExperimentalCourses = () => ExperimentalCourses
 
-export const getChapter = () => Courses
-
 export function getText (langKey: *, values?: Array<*>, textTransform?: string = 'capitalize', textStrings: Object): string {
   if (typeof textStrings === 'undefined') return ''
   if (!textStrings || !langKey) return ''
