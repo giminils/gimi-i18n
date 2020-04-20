@@ -3097,5 +3097,6 @@
   "connection_not_valid": "Deze connectie-melding is niet meer geldig.",
   "connection_problem": "Er is iets mis",
   "promo_code_already_used": "PLZ_TRANSLATE This code is already used...",
-  "discounted_iap_promo_free_year": "PLZ_TRANSLATE Promo code unlocked! 1 year free"
+  "discounted_iap_promo_free_year": "PLZ_TRANSLATE Promo code unlocked! 1 year free",
+  "general_under_review": "PLZ_TRANSLATE Under review..."
 }
