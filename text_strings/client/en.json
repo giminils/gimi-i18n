@@ -3099,5 +3099,7 @@
   "promo_code_already_used": "This code is already used...",
   "discounted_iap_promo_free_year": "Promo code unlocked! 1 year free",
   "general_under_review": "Under review...",
-  "general_this_week": "This week"
+  "general_this_week": "This week",
+  "general_left_to_earn": "Left to earn",
+  "general_deposits": "Earned"
 }
