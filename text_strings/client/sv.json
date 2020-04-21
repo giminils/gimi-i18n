@@ -3098,5 +3098,6 @@
   "connection_problem": "PLZ_CHECK Something is wrong",
   "promo_code_already_used": "PLZ_CHECK This code is already used...",
   "discounted_iap_promo_free_year": "Kampanjkod upplåst! 1 år gratis",
-  "general_under_review": "PLZ_CHECK Under review..."
+  "general_under_review": "PLZ_CHECK Under review...",
+  "general_this_week": "PLZ_CHECK This week"
 }
