@@ -3101,5 +3101,6 @@
   "general_under_review": "Under review...",
   "general_this_week": "This week",
   "general_left_to_earn": "Left to earn",
-  "general_deposits": "Earned"
+  "general_deposits": "Earned",
+  "general_select_day": "Select day"
 }

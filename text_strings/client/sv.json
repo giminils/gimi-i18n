@@ -3101,5 +3101,6 @@
   "general_under_review": "PLZ_CHECK Under review...",
   "general_this_week": "PLZ_CHECK This week",
   "general_left_to_earn": "PLZ_CHECK Left to earn",
-  "general_deposits": "PLZ_CHECK Earned"
+  "general_deposits": "PLZ_CHECK Earned",
+  "general_select_day": "PLZ_CHECK Select day"
 }
