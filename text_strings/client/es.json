@@ -3102,5 +3102,9 @@
   "general_this_week": "PLZ_TRANSLATE This week",
   "general_left_to_earn": "PLZ_TRANSLATE Left to earn",
   "general_deposits": "PLZ_TRANSLATE Earned",
-  "general_select_day": "PLZ_TRANSLATE Select day"
+  "general_select_day": "PLZ_TRANSLATE Select day",
+  "recurring_chore_stats_some_pending": "PLZ_TRANSLATE Good job! Now you’ll have to wait for approval.",
+  "recurring_chore_stats_every_approved": "PLZ_TRANSLATE Ka-ching! You have earned %1$d",
+  "recurring_chore_stats_every_created": "PLZ_TRANSLATE Earn %1$d everytime you do this chore.",
+  "recurring_chore_stats_some_rejected": "PLZ_TRANSLATE Rejected, try again"
 }

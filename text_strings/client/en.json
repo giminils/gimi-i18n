@@ -3102,5 +3102,9 @@
   "general_this_week": "This week",
   "general_left_to_earn": "Left to earn",
   "general_deposits": "Earned",
-  "general_select_day": "Select day"
+  "general_select_day": "Select day",
+  "recurring_chore_stats_some_pending": "Good job! Now you’ll have to wait for approval.",
+  "recurring_chore_stats_every_approved": "Ka-ching! You have earned %1$d",
+  "recurring_chore_stats_every_created": "Earn %1$d everytime you do this chore.",
+  "recurring_chore_stats_some_rejected": "Rejected, try again"
 }
