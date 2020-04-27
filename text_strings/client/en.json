@@ -3103,8 +3103,17 @@
   "general_left_to_earn": "Left to earn",
   "general_deposits": "Earned",
   "general_select_day": "Select day",
-  "recurring_chore_stats_some_pending": "Good job! Now you’ll have to wait for approval.",
-  "recurring_chore_stats_every_approved": "Ka-ching! You have earned %1$d",
-  "recurring_chore_stats_every_created": "Earn %1$d everytime you do this chore.",
-  "recurring_chore_stats_some_rejected": "Rejected, try again"
+  "recurring_chore_stats_pending_kid": "Good job! The chore is sent for approval.",
+  "recurring_chore_stats_multiple_pending_kid": "Good job! The chore is sent for approval.",
+  "recurring_chore_stats_created_kid": "Earn %1$d every time this chore is approved.",
+  "recurring_chore_stats_approved_kid": "Ka-ching! You have earned %1$d.",
+  "recurring_chore_stats_rejected_kid": "“Chore got rejected. Better luck next time.",
+  "recurring_chore_stats_multiple_rejected_kid": "All chores go rejected. Better luck next time!",
+  "recurring_chore_stats_default_kid": "default - kid",
+  "recurring_chore_stats_pending_parent": "Waiting for approval.",
+  "recurring_chore_stats_created_parent": "%1$d is earned every time this chore is approved.",
+  "recurring_chore_stats_approved_parent": "%1$d has earned %2$d.",
+  "recurring_chore_stats_rejected_parent": "Chore rejected.",
+  "recurring_chore_stats_all_rejected_parent": "All chores rejected.",
+  "recurring_chore_stats_default_parent": "default - parent"
 }

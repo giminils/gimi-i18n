@@ -3103,8 +3103,17 @@
   "general_left_to_earn": "PLZ_TRANSLATE Left to earn",
   "general_deposits": "PLZ_TRANSLATE Earned",
   "general_select_day": "PLZ_TRANSLATE Select day",
-  "recurring_chore_stats_some_pending": "PLZ_TRANSLATE Good job! Now you’ll have to wait for approval.",
-  "recurring_chore_stats_every_approved": "PLZ_TRANSLATE Ka-ching! You have earned %1$d",
-  "recurring_chore_stats_every_created": "PLZ_TRANSLATE Earn %1$d everytime you do this chore.",
-  "recurring_chore_stats_some_rejected": "PLZ_TRANSLATE Rejected, try again"
+  "recurring_chore_stats_pending_kid": "PLZ_TRANSLATE Good job! The chore is sent for approval.",
+  "recurring_chore_stats_multiple_pending_kid": "PLZ_TRANSLATE Good job! The chore is sent for approval.",
+  "recurring_chore_stats_created_kid": "PLZ_TRANSLATE Earn %1$d every time this chore is approved.",
+  "recurring_chore_stats_approved_kid": "PLZ_TRANSLATE Ka-ching! You have earned %1$d.",
+  "recurring_chore_stats_rejected_kid": "PLZ_TRANSLATE “Chore got rejected. Better luck next time.",
+  "recurring_chore_stats_multiple_rejected_kid": "PLZ_TRANSLATE All chores go rejected. Better luck next time!",
+  "recurring_chore_stats_default_kid": "PLZ_TRANSLATE default - kid",
+  "recurring_chore_stats_pending_parent": "PLZ_TRANSLATE Waiting for approval.",
+  "recurring_chore_stats_created_parent": "PLZ_TRANSLATE %1$d is earned every time this chore is approved.",
+  "recurring_chore_stats_approved_parent": "PLZ_TRANSLATE %1$d has earned %2$d.",
+  "recurring_chore_stats_rejected_parent": "PLZ_TRANSLATE Chore rejected.",
+  "recurring_chore_stats_all_rejected_parent": "PLZ_TRANSLATE All chores rejected.",
+  "recurring_chore_stats_default_parent": "PLZ_TRANSLATE default - parent"
 }
