@@ -3115,6 +3115,6 @@
   "recurring_chore_stats_approved_parent": "PLZ_TRANSLATE %1$d has earned %2$d.",
   "recurring_chore_stats_rejected_parent": "PLZ_TRANSLATE Chore rejected.",
   "recurring_chore_stats_all_rejected_parent": "PLZ_TRANSLATE All chores rejected.",
-  "recurring_chore_stats_default_parent": "PLZ_TRANSLATE default - parent",
+  "recurring_chore_stats_default_parent": "PLZ_TRANSLATE This chore might make %1$d rich.",
   "shareable_custom_card_title": "PLZ_TRANSLATE Look at the card i made in the Gimi app"
 }
