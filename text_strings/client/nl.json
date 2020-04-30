@@ -321,7 +321,7 @@
   "your_answer_n": "je antwoord: %1$d",
   "correct_answer_n": "correct antwoord: %1$d",
   "card_test_end_you_did_it": "je hebt het gehaald! 🎉",
-  "card_test_all_correct": "Allemaal goed!",
+  "card_test_all_correct": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "default_category": "andere",
   "question_what_chore": "Geef het klusje een naam!",
   "we_get_info_from_prisjakt": "We verzamelen alle productinformatie van",

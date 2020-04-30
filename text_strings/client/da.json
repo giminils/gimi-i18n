@@ -321,7 +321,7 @@
   "your_answer_n": "dit svar: %1$d",
   "correct_answer_n": "rigtigt svar: %1$d",
   "card_test_end_you_did_it": "du gjorde det! 🎉",
-  "card_test_all_correct": "Alt er rigtigt!",
+  "card_test_all_correct": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "default_category": "andet",
   "question_what_chore": "Navngiv opgaven!",
   "we_get_info_from_prisjakt": "Vi indsamler alle produktinformationer fra",

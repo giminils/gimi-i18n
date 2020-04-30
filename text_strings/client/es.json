@@ -321,7 +321,7 @@
   "your_answer_n": "tu respuesta: %1$d",
   "correct_answer_n": "respuesta correcta: %1$d",
   "card_test_end_you_did_it": "¡lo hiciste! 🎉",
-  "card_test_all_correct": "¡Todo correcto!",
+  "card_test_all_correct": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "default_category": "otro",
   "question_what_chore": "¡Nombre de la tarea!",
   "we_get_info_from_prisjakt": "Recopilamos toda la información del producto desde",

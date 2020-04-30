@@ -321,7 +321,7 @@
   "your_answer_n": "ditt svar: %1$d",
   "correct_answer_n": "rett svar: %1$d",
   "card_test_end_you_did_it": "du klarte det! 🎉",
-  "card_test_all_correct": "alle rett!",
+  "card_test_all_correct": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "default_category": "øvrig",
   "question_what_chore": "Gi navn til oppgaven!",
   "we_get_info_from_prisjakt": "vi henter all produktinformasjon fra",
