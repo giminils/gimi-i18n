@@ -3116,5 +3116,6 @@
   "recurring_chore_stats_rejected_parent": "Chore rejected.",
   "recurring_chore_stats_all_rejected_parent": "All chores rejected.",
   "recurring_chore_stats_default_parent": "This chore might make %1$d rich.",
-  "shareable_custom_card_title": "I designed this card myself in the Gimi app!"
+  "shareable_custom_card_title": "I designed this card myself in the Gimi app!",
+  "sign_up_email_question": "what's your email?"
 }
