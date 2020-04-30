@@ -485,7 +485,7 @@
   "your_answer_n": "your answer: %1$d",
   "correct_answer_n": "correct answer: %1$d",
   "card_test_end_you_did_it": "you did it! 🎉",
-  "card_test_all_correct": "All correct!",
+  "card_test_all_correct": "PLZ_CHECK Good Job! Would you like to share your result?",
   "default_category": "other",
   "question_what_chore": "Name the chore!",
   "we_get_info_from_prisjakt": "We collect all product information from",
