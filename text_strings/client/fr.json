@@ -321,6 +321,7 @@
   "your_answer_n": "votre réponse: %1$d",
   "correct_answer_n": "la réponse juste: %1$d",
   "card_test_end_you_did_it": "vous avez réussi! 🎉",
+  "card_test_summary_title": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "card_test_all_correct": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "default_category": "autre",
   "question_what_chore": "Nommez la tâche ménagère!",

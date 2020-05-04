@@ -321,6 +321,7 @@
   "your_answer_n": "sinun vastauksesi: %1$d",
   "correct_answer_n": "oikea vastaus: %1$d",
   "card_test_end_you_did_it": "onnistuit! ️",
+  "card_test_summary_title": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "card_test_all_correct": "PLZ_TRANSLATE Good Job! Would you like to share your result?",
   "default_category": "muu",
   "question_what_chore": "Nimeä askare!",

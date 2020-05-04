@@ -321,6 +321,7 @@
   "your_answer_n": "your answer: %1$d",
   "correct_answer_n": "correct answer: %1$d",
   "card_test_end_you_did_it": "you did it! 🎉",
+  "card_test_summary_title": "Good Job! Would you like to share your result?",
   "card_test_all_correct": "Good Job! Would you like to share your result?",
   "default_category": "other",
   "question_what_chore": "Name the chore!",
