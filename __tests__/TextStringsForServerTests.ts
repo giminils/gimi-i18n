@@ -71,7 +71,7 @@ textStringsTypes.forEach(textStringsType => {
       })
 
       if (textStringsType === 'templates')
-        test.only('Should include template rule', () => {
+        test('Should include template rule', () => {
           checkTemplateRule(textStrings[textStringsType][lang], lang)
           expect([]).toEqual([])
         })
