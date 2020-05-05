@@ -1,35 +1,31 @@
-// @ts-nocheck
-import CategoryGroups from '../categories/CategoryGroups.json'
-import SavingsGoalCategories from '../categories/SavingsGoalCategories.json'
-import WithdrawCategories from '../categories/WithdrawCategories.json'
-import DepositCategories from '../categories/DepositCategories.json'
-import TaskCategories from '../categories/TaskCategories.json'
+const CategoryGroups = require('../categories/CategoryGroups.json')
+const SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
+const WithdrawCategories = require('../categories/WithdrawCategories.json')
+const DepositCategories = require('../categories/DepositCategories.json')
+const TaskCategories = require('../categories/TaskCategories.json')
 
-// Make a simple array of colors instead of Colors object for easy compairing
-
-// Make a simple array of CategoryGroups instead of CategoryGroups object for easy compairing
-let categoryGroupArray = []
+let categoryGroupArray: Array<string> = []
 Object.keys(CategoryGroups).forEach(function (key) {
   categoryGroupArray.push(CategoryGroups[key])
 })
 
 // Make a simple array of ids for easy compairing
-let SavingsGoalCategoryIds = []
+let SavingsGoalCategoryIds: Array<string> = []
 Object.keys(SavingsGoalCategories).forEach(function (key) {
   SavingsGoalCategoryIds.push(SavingsGoalCategories[key].id)
 })
 
-let WithdrawCategoryIds = []
+let WithdrawCategoryIds: Array<string> = []
 Object.keys(WithdrawCategories).forEach(function (key) {
   WithdrawCategoryIds.push(WithdrawCategories[key].id)
 })
 
-let DepositCategoryIds = []
+let DepositCategoryIds: Array<string> = []
 Object.keys(DepositCategories).forEach(function (key) {
   DepositCategoryIds.push(DepositCategories[key].id)
 })
 
-let TaskCategoryIds = []
+let TaskCategoryIds: Array<string> = []
 Object.keys(TaskCategories).forEach(function (key) {
   TaskCategoryIds.push(TaskCategories[key].id)
 })
