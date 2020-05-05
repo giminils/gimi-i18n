@@ -19,9 +19,9 @@ const annaTranslationTag = 'ANNA'
 const emmaTranslationTag = 'EMMA'
 const ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
-export const compareKeys = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '') => {
+export const compareKeys = (firstLang: {[key: string]: string}, secondLang: {[key: string]: string}, firstLangName: string = '', secondLangName: string = '') => {
   const keys = Object.keys(firstLang)
-  const errorMessages = []
+  const errorMessages: Array<string> = []
 
   keys.forEach(key => {
     if ((secondLang[key] === undefined || secondLang[key] === '') && !IgnoredTextStrings.includes(key)) {
@@ -39,9 +39,9 @@ export const compareKeys = (firstLang: object, secondLang: object, firstLangName
   expect(errorMessages).toEqual([])
 }
 
-export const findDuplicateKeyValues = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '') => {
+export const findDuplicateKeyValues = (firstLang: {[key: string]: string}, secondLang: {[key: string]: string}, firstLangName: string = '', secondLangName: string = '') => {
   const keys = Object.keys(firstLang)
-  const errorMessages = []
+  const errorMessages: Array<string> = []
 
   keys.forEach(key => {
     if (secondLang[key] === firstLang[key] && firstLangName === 'en' && secondLangName === 'sv' && !IgnoredTextStrings.includes(key) && !defaultTextStrings[key] && supportedLanguageCodes.includes(firstLangName))
@@ -60,9 +60,9 @@ export const findDuplicateJSONKeys = (fileText: Array <string>, errors: Array < 
   return errors
 }
 
-export const compareDollarSigns = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
+export const compareDollarSigns = (firstLang: { [key: string]: string }, secondLang: {[key: string]: string}, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
   const keys = Object.keys(firstLang)
-  const errorMessages = []
+  const errorMessages: Array<string> = []
   keys.forEach(key => {
     if (!IgnoredTextStrings.includes(key)) {
       if (firstLang[key] === undefined) return true
