@@ -112,7 +112,7 @@ let checkIfTextStringIsObsolete = (key: string) => {
   dirsToCheck.forEach((dirName) => {
     let dir = `${rootDir}/${dirName}/`
     let files = fs.readdirSync(dir)
-    files.forEach((file) => {
+    files.forEach((file: string) => {
       try {
         file = `${dir}/${file}`
         // console.log(`Reading file: "${file}"`)

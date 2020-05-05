@@ -1,7 +1,7 @@
 
 /* eslint no-console:0 */
 import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght, checkBirgittaInconsistencies, checkTemplateRule} from '../TestUtil'
-import {languageCodes} from '..'
+const {languageCodes} = require('..')
 let langCodes = languageCodes
 jest.disableAutomock()
 
