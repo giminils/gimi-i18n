@@ -7,7 +7,7 @@ jest.disableAutomock()
 
 let textStringsTypes = ['server', 'templates', 'share-image-generator']
 
-let textStrings = {}
+let textStrings: {[key: string]: {[key: string]: {[key: string]: string}}} = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
   langCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
@@ -27,7 +27,7 @@ textStringsTypes.forEach(textStringsType => {
       })
 
       it('should not have any birgitta inconsistencies', () => {
-        let errorMessages = {}
+        let errorMessages: {[key: string]: string} = {}
         langCodes.forEach((lang2, j) => {
           let errorArray = checkBirgittaInconsistencies(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2)
           errorArray.forEach(key => {

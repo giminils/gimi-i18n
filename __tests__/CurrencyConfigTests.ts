@@ -1,4 +1,4 @@
-
+//@ts-nocheck
 import {getCurrencyConfig} from '../lib/CurrencyConfig'
 let allConfigs = []
 

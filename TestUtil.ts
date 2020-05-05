@@ -231,9 +231,9 @@ export const stringTranslationTags = (lang: {[key: string]: string}, languageCod
   return {plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation, emmaTag: numberEmmaStrings}
 }
 
-export const searchPlzTranslate = (lang: {[key: string]: string}, languageCode: string, textStringsType: string): object => {
+export const searchPlzTranslate = (lang: {[key: string]: string}, languageCode: string, textStringsType: string): { data: Array<{key: string, lang: string, path: string}>, plzTrans: number} => {
   const keys = Object.keys(lang)
-  const arrayPlzTranslate: Array<object> = []
+  const arrayPlzTranslate: Array<{key: string, lang: string, path: string}> = []
   let numberPlzTransalte = 0
   keys.forEach(key => {
     if (languageCode)

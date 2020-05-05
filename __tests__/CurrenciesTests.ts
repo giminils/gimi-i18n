@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 import {getSupportedCurrencyInfos, getDefaultCurrencyCode} from '../index'
 import DefaultCurrencies from '../DefaultCurrencies'
 import ExchangeRates from '../ExchangeRates'

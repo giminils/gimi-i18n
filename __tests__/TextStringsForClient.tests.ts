@@ -86,7 +86,7 @@ describe('TextStrings', () => {
       })
 
       test('should not have any birgitta inconsistencies', () => {
-        let errorMessages = {}
+        let errorMessages: {[key: string]: string} = {}
 
         supportedLanguageCodes.forEach((lang2, j) => {
           let errorArray = checkBirgittaInconsistencies(getTextStrings(lang), getTextStrings(lang2), lang, lang2)
@@ -112,9 +112,9 @@ describe('TextStrings', () => {
       })
 
       test('should have valid html tags', () => {
-        let errors = []
+        let errors: Array<string> = []
 
-        let textStrings = getTextStrings(lang)
+        let textStrings: {[key: string]: string} = getTextStrings(lang)
         Object.keys(textStrings).forEach((key) => {
           let text = textStrings[key]
           let valid = validateHTMLTag(text)

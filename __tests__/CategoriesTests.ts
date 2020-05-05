@@ -1,8 +1,9 @@
-const CategoryGroups = require('../categories/CategoryGroups.json')
-const SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
-const WithdrawCategories = require('../categories/WithdrawCategories.json')
-const DepositCategories = require('../categories/DepositCategories.json')
-const TaskCategories = require('../categories/TaskCategories.json')
+// @ts-nocheck
+import CategoryGroups from '../categories/CategoryGroups.json'
+import SavingsGoalCategories from '../categories/SavingsGoalCategories.json'
+import WithdrawCategories from '../categories/WithdrawCategories.json'
+import DepositCategories from '../categories/DepositCategories.json'
+import TaskCategories from '../categories/TaskCategories.json'
 
 // Make a simple array of colors instead of Colors object for easy compairing
 

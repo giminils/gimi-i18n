@@ -18,10 +18,6 @@
     "skipLibCheck": true
   },
   "exclude": [
-    "__mocks__",
-    "**/__mocks__",
-    "__tests__",
-    "**/__tests__",
     "node_modules",
     "**/*.json", // Don't try and check JSON files
     "**/*.spec.ts",
