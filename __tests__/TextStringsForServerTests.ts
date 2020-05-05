@@ -10,25 +10,25 @@ let textStringsTypes = ['server', 'templates', 'share-image-generator']
 let textStrings: {[key: string]: {[key: string]: {[key: string]: string}}} = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
-  langCodes.forEach(lang => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
+  langCodes.forEach((lang: string) => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
 })
 
 textStringsTypes.forEach(textStringsType => {
   describe(`${textStringsType} TextStrings`, () => {
-    langCodes.forEach(lang => {
+    langCodes.forEach((lang: string) => {
       it(`it should return Text Strings for ${textStringsType} ${lang}`, () => {
         expect(textStrings[textStringsType][lang]).not.toBeUndefined()
       })
 
       it('all textstrings should have a equivalent string in all other languages', () => {
-        langCodes.forEach(lang2 => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
-        langCodes.forEach(lang2 => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
+        langCodes.forEach((lang2: string) => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
+        langCodes.forEach((lang2: string) => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
         expect([]).toEqual([])
       })
 
       it('should not have any birgitta inconsistencies', () => {
         let errorMessages: {[key: string]: string} = {}
-        langCodes.forEach((lang2, j) => {
+        langCodes.forEach((lang2: string) => {
           let errorArray = checkBirgittaInconsistencies(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2)
           errorArray.forEach(key => {
             errorMessages[key] = ''

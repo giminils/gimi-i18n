@@ -1,3 +1,5 @@
+export { };
+export {}
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 const fs = require('fs')
