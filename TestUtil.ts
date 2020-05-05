@@ -1,6 +1,6 @@
 
 import IgnoredTextStrings from './IgnoredTextStrings.json'
-import {supportedLanguageCodes} from './index.js'
+import {supportedLanguageCodes} from './index'
 import defaultTextStrings from './text_strings/client/default.json'
 import fs from 'fs'
 import * as path from 'path'

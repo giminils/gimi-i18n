@@ -3,7 +3,7 @@
     "baseUrl": ".",
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
+    "esModuleInterop": false,
     "isolatedModules": false,
     "jsx": "react-native",
     "lib": [
