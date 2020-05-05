@@ -80,7 +80,7 @@ let keysToIgnore = [
 let keysThatAreNotUsed: Array<string> = []
 let keysToDelete: Array<string> = []
 let removeMatchedKeys: Array<string> = []
-import fs from 'fs'
+const fs = require('fs')
 let rootDir = '..'
 let dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers', 'consts']
 let textStringsSvFilePath = './text_strings/client/sv.json'

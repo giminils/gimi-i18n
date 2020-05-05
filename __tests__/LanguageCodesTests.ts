@@ -9,6 +9,6 @@ describe('LanguageCodes', () => {
 
   it('it should return textStrings for all LanguageCodes', () => {
     let languageCodes = getLangugageCodes()
-    languageCodes.forEach(languageCode => expect(getTextStrings(languageCode.code)).not.toBeUndefined())
+    languageCodes.forEach((languageCode: {code: string, name: string, nativeName: string}) => expect(getTextStrings(languageCode.code)).not.toBeUndefined())
   })
 })

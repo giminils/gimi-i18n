@@ -3,7 +3,7 @@
 /* eslint jest/expect-expect:  0 */
 import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
-import fs from 'fs'
+const fs = require('fs')
 import * as path from 'path'
 jest.disableAutomock()
 // let flatten = require('flat')

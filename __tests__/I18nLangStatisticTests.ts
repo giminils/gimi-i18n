@@ -3,7 +3,7 @@
 import {getTextStrings, languageCodes, gimiWebLanguageCodes, languageCodesForTranslation} from '../index'
 import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 let languageCodesHolder = languageCodes
-import Slack from 'node-slack'
+var Slack = require('node-slack');
 
 jest.disableAutomock()
 

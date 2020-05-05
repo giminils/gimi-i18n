@@ -101,16 +101,15 @@ import itNativeErrorMessages from './native/error-messages/it.json'
 import esNativeErrorMessages from './native/error-messages/es.json'
 import deNativeErrorMessages from './native/error-messages/de.json'
 
-import Accounting from 'accounting'
+const Accounting = require('accounting')
 import flatten from 'flat'
-import sekConfig from './config/config_SEK.json'
-import CountryCodes from './CountryCodes.json'
+const CountryCodes = require('./CountryCodes.json')
 import Regions from './Regions.json'
 import {getCardQuestion, getCardAnswer, getInfluencerPortalAnswer, getFinLitQuestion, getFinLitAnswer} from './SharedStrings'
-import Cities from './Cities.json'
+const Cities = require('./Cities.json')
 import Timezones from './TimeZones.json'
-import LanguageCodes from './LanguageCodes.json'
-import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
+const LanguageCodes = require('./LanguageCodes.json')
+const countryCodes2PhoneNumberPrefixes = require('./countryCodes2PhoneNumberPrefixes.json')
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
 import ExperimentalCourses from './Education'
@@ -247,14 +246,14 @@ export const translationHelperEMMA = 'EMMA'
 export const getRegions = () => Regions
 export const getCities = () => Cities
 export const getCountries = () => CountryCodes
-export const getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
+export const getCountry = (countryCode: string) => CountryCodes.find((country: {code: string, name: string, dial_code: string}) => country.code === countryCode)
 export const getPhoneNumberPrefix = (country: string) => {
   let prefixes: {[key: string]: string} = countryCodes2PhoneNumberPrefixes
   return parseInt(prefixes[country.toUpperCase()])
 }
 export const getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
 export const getTimezones = () => Timezones
-export const getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
+export const getLangugageCodes = () => LanguageCodes.filter((languageCode: { name: string, nativeName: string, code: string}) => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
 export const getDefaultCurrencyCode = (userCountryCode: string): string => {
   let currencies: { [key: string]: string} = DefaultCurrencies
   return currencies[userCountryCode] || 'EUR'

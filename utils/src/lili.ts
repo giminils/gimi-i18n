@@ -1,6 +1,6 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-import fs from 'fs'
+const fs = require('fs')
 let templateDirs = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq']
 
 let PLZ_CHECK = 'PLZ_CHECK'

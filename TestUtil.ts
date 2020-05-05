@@ -2,7 +2,7 @@
 import IgnoredTextStrings from './IgnoredTextStrings.json'
 import {supportedLanguageCodes} from './index'
 import defaultTextStrings from './text_strings/client/default.json'
-import fs from 'fs'
+const fs = require('fs')
 import * as path from 'path'
 
 export const serverTextStringNames = [
@@ -368,7 +368,7 @@ export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectorie
   let dirs = fs.readdirSync(path.join(__dirname, dirPath))
   let allStrings: Array<string> = []
   dirs = dirs.filter(filterDirectories)
-  dirs.map(file => {
+  dirs.map((file: string) => {
     if (file === '.DS_Store') return
     const blaj = fs.readFileSync(path.join(__dirname, `${dirPath}/${file}/en.json`), {encoding: 'utf8'}).split('\n')
     allStrings = allStrings.concat(blaj)

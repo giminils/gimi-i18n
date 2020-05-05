@@ -1,5 +1,5 @@
 
-import svLang from '../text_strings/templates/sv.json'
+const svLang = require('../text_strings/templates/sv.json')
 jest.disableAutomock()
 
 let name1 = '_name'
@@ -53,7 +53,7 @@ describe('default', () => {
   })
 
   it('Each description should have name or title', () => {
-    let errors: Array<object> = []
+    let errors: Array<{desk: string}> = []
     let langKeys = Object.keys(svLang)
 
     langKeys.forEach((titleTemplate) => {

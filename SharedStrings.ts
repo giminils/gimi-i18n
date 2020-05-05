@@ -1,20 +1,18 @@
 
 import {removeTranslationHelpers, formatMoney} from './index'
 import ExchangeRates from './ExchangeRates'
-import Accounting from 'accounting'
-import sv from './text_strings/shared/sv.json'
-import en from './text_strings/shared/en.json'
-import no from './text_strings/shared/nb.json'
-import da from './text_strings/shared/da.json'
-import fr from './text_strings/shared/fr.json'
-import nl from './text_strings/shared/nl.json'
-import fi from './text_strings/shared/fi.json'
-import it from './text_strings/shared/it.json'
-import es from './text_strings/shared/es.json'
-import de from './text_strings/shared/de.json'
-import flatten from 'flat'
+const sv = require('./text_strings/shared/sv.json')
+const en = require('./text_strings/shared/en.json')
+const no = require('./text_strings/shared/nb.json')
+const da = require('./text_strings/shared/da.json')
+const fr = require('./text_strings/shared/fr.json')
+const nl = require('./text_strings/shared/nl.json')
+const fi = require('./text_strings/shared/fi.json')
+const it = require('./text_strings/shared/it.json')
+const es = require('./text_strings/shared/es.json')
+const de = require('./text_strings/shared/de.json')
+const flatten = require('flat')
 import {getCurrencyConfig} from './lib/CurrencyConfig'
-
 export const getFinLitQuestion = (testType: number, step: number, lang: string | undefined  = 'en', currencyCode: string) => {
   const textStrings = getSharedStrings(lang)
   return addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings), currencyCode)
@@ -46,20 +44,18 @@ export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): an
 }
 
 const getStringQuestionValues = (step: number, currencyCode: string) => {
-  let currencyConfig = getCurrencyConfig(currencyCode)
   switch (step) {
-    case 2: return [Accounting.formatMoney(249, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s'), Accounting.formatMoney(239, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')]
-    case 7: return [Accounting.formatMoney(99, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')]
+    case 2: return [formatMoney(249, currencyCode), formatMoney(239, currencyCode)]
+    case 7: return [formatMoney(99, currencyCode)]
     default: return []
   }
 }
 
 const getStringAnswerValues = (step: number, answer: number, currencyCode: string): Array<string> => {
   answer = answer + 1
-  let currencyConfig = getCurrencyConfig(currencyCode)
   switch (true) {
-    case step === 2 && (answer === 2 || answer === 3): return [Accounting.formatMoney(10, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')]
-    case step === 7: return [Accounting.formatMoney(99, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')] // do for all answers
+    case step === 2 && (answer === 2 || answer === 3): return [formatMoney(10, currencyCode)]
+    case step === 7: return [formatMoney(99, currencyCode)] // do for all answers
     default: return []
   }
 }
