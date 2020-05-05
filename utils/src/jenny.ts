@@ -80,7 +80,7 @@ let keysToIgnore = [
 let keysThatAreNotUsed = []
 let keysToDelete = []
 let removeMatchedKeys = []
-let fs = require('fs')
+import fs from 'fs'
 let rootDir = '..'
 let dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers', 'consts']
 let textStringsSvFilePath = './text_strings/client/sv.json'
@@ -91,7 +91,7 @@ let foundKeys = 0
 let matchedKeys = 0
 let ignoredKeys = 0
 
-let checkFile = (file, key) => {
+let checkFile = (file: string, key: string) => {
   let fileContents = fs.readFileSync(file, {encoding: 'utf8'})
 
   let isOk = false

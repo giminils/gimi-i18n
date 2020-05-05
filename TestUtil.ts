@@ -1,4 +1,4 @@
-// @flow
+
 import IgnoredTextStrings from './IgnoredTextStrings.json'
 import {supportedLanguageCodes} from './index.js'
 import defaultTextStrings from './text_strings/client/default.json'
@@ -19,7 +19,7 @@ const annaTranslationTag = 'ANNA'
 const emmaTranslationTag = 'EMMA'
 const ignoredKeys = ['currency', 'currencyMinus', 'currencyPlus', 'aint_no_money_desc', 'no_money_pig_parent_text']
 
-export const compareKeys = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+export const compareKeys = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '') => {
   const keys = Object.keys(firstLang)
   const errorMessages = []
 
@@ -39,7 +39,7 @@ export const compareKeys = (firstLang: Object, secondLang: Object, firstLangName
   expect(errorMessages).toEqual([])
 }
 
-export const findDuplicateKeyValues = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+export const findDuplicateKeyValues = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '') => {
   const keys = Object.keys(firstLang)
   const errorMessages = []
 
@@ -60,7 +60,7 @@ export const findDuplicateJSONKeys = (fileText: Array <string>, errors: Array < 
   return errors
 }
 
-export const compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
+export const compareDollarSigns = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
   const keys = Object.keys(firstLang)
   const errorMessages = []
   keys.forEach(key => {
@@ -99,7 +99,7 @@ const testCompareKeysWithinTextString = (textString1: string, textString2: strin
   return errorMessage
 }
 
-export const compareKeysWithinTextStrings = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+export const compareKeysWithinTextStrings = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '') => {
   const keys = Object.keys(firstLang)
   keys.forEach(key => {
     const errorMessage = testCompareKeysWithinTextString(firstLang[key], secondLang[key], key)
@@ -107,7 +107,7 @@ export const compareKeysWithinTextStrings = (firstLang: Object, secondLang: Obje
   })
 }
 
-export const checkTemplateLenght = (langs: Object, langName: string = '') => {
+export const checkTemplateLenght = (langs: object, langName: string = '') => {
   const keys = Object.keys(langs)
   const patternTemplates = 'template_title'
   const errorMessages = []
@@ -122,7 +122,7 @@ export const checkTemplateLenght = (langs: Object, langName: string = '') => {
   expect(errorMessages).toEqual([])
 }
 
-export const checkTemplateRule = (langs: Object, langName: string = '') => {
+export const checkTemplateRule = (langs: object, langName: string = '') => {
   const keys = Object.keys(langs)
   const errorMessages = []
 
@@ -138,7 +138,7 @@ export const checkTemplateRule = (langs: Object, langName: string = '') => {
   expect(errorMessages).toEqual([])
 }
 
-export const checkBirgittaInconsistencies = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '') => {
+export const checkBirgittaInconsistencies = (firstLang: object, secondLang: object, firstLangName: string = '', secondLangName: string = '') => {
   const keys = Object.keys(firstLang)
   const errorMessages = []
 
@@ -151,7 +151,7 @@ export const checkBirgittaInconsistencies = (firstLang: Object, secondLang: Obje
   return errorMessages
 }
 
-export const checkStringLenght = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Array < Object > => {
+export const checkStringLenght = (firstLang: object, secondLang: object, firstLangName: string, secondLangName: string): Array < Object > => {
   const keys = Object.keys(firstLang)
 
   const longTextWarning = []
@@ -177,7 +177,7 @@ export const checkStringLenght = (firstLang: Object, secondLang: Object, firstLa
   return longTextSlackData
 }
 
-export const countTranslationTemplates = (lang: Object, langName: string): Object => {
+export const countTranslationTemplates = (lang: object, langName: string): object => {
   const keys = Object.keys(lang)
 
   const countUsesCheck = []
@@ -192,7 +192,7 @@ export const countTranslationTemplates = (lang: Object, langName: string): Objec
   return {lang: langName, countTranslate: countUsesTranslate.length, countCheck: countUsesCheck.length}
 }
 
-export const stringLenghtStatistic = (firstLang: Object, secondLang: Object, firstLangName: string, secondLangName: string): Object => {
+export const stringLenghtStatistic = (firstLang: object, secondLang: object, firstLangName: string, secondLangName: string): object => {
   const keys = Object.keys(firstLang)
 
   const longTextWarning = []
@@ -215,7 +215,7 @@ export const stringLenghtStatistic = (firstLang: Object, secondLang: Object, fir
   return {data: longTextSlackData, status: veryLongText}
 }
 
-export const stringTranslationTags = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const stringTranslationTags = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
   let numberPlzCheck = 0
   let numberPlzTransalte = 0
@@ -232,9 +232,9 @@ export const stringTranslationTags = (lang: Object, languageCode: string, textSt
   return {plzCheck: numberPlzCheck, plzTrans: numberPlzTransalte, lang: languageCode, path: textStringsType, annaTag: numberAnnaTranslation, emmaTag: numberEmmaStrings}
 }
 
-export const searchPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const searchPlzTranslate = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
-  const arrayPlzTranslate = []
+  const arrayPlzTranslate: Array<object> = []
   let numberPlzTransalte = 0
   keys.forEach(key => {
     if (languageCode)
@@ -246,7 +246,7 @@ export const searchPlzTranslate = (lang: Object, languageCode: string, textStrin
   return {data: arrayPlzTranslate, plzTrans: numberPlzTransalte}
 }
 
-export const searchPlzCopy = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const searchPlzCopy = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
 
   const arrayPlzCopy = []
@@ -261,7 +261,7 @@ export const searchPlzCopy = (lang: Object, languageCode: string, textStringsTyp
   })
   return {data: arrayPlzCopy, plzCopy: numberPlzCopy}
 }
-export const searchBrokenPlzCopy = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const searchBrokenPlzCopy = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
 
   const arrayPlzCopy = []
@@ -279,7 +279,7 @@ export const searchBrokenPlzCopy = (lang: Object, languageCode: string, textStri
   return {data: arrayPlzCopy, brokenPLZCopy: numberBrokenPlzCopy}
 }
 
-export const searchBrokenPlzTranslate = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const searchBrokenPlzTranslate = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
 
   const arrayPlzTranslate = []
@@ -297,7 +297,7 @@ export const searchBrokenPlzTranslate = (lang: Object, languageCode: string, tex
   return {data: arrayPlzTranslate, brokenPLZTranslate: numberBrokenPlzTranslate}
 }
 
-export const searchBrokenPlzCheck = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const searchBrokenPlzCheck = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
 
   const arrayPlzCheck = []
@@ -315,10 +315,10 @@ export const searchBrokenPlzCheck = (lang: Object, languageCode: string, textStr
   return {data: arrayPlzCheck, brokenPLZCheck: numberBrokenPlzCheck}
 }
 
-export const checkStringEmptySpace = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const checkStringEmptySpace = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
 
-  const arrayEmptySpace = []
+  const arrayEmptySpace: Array<object> = []
 
   let numberEmptySpace = 0
   keys.forEach(key => {
@@ -330,9 +330,9 @@ export const checkStringEmptySpace = (lang: Object, languageCode: string, textSt
   })
   return {data: arrayEmptySpace, countStartsEmptySpace: numberEmptySpace}
 }
-export const searchBreakingSymbols = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const searchBreakingSymbols = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
-  const arrayBreakingSymbols = []
+  const arrayBreakingSymbols: Array<object> = []
   let numberBreakingSymbols = 0
   keys.forEach(key => {
     if (languageCode)
@@ -343,9 +343,9 @@ export const searchBreakingSymbols = (lang: Object, languageCode: string, textSt
   })
   return {data: arrayBreakingSymbols, count: numberBreakingSymbols}
 }
-export const checkUpperCaseLetters = (lang: Object, languageCode: string, textStringsType: string): Object => {
+export const checkUpperCaseLetters = (lang: object, languageCode: string, textStringsType: string): object => {
   const keys = Object.keys(lang)
-  const arrayUpperCase = []
+  const arrayUpperCase: Array<object> = []
   let numberUpperCaseKeys = 0
   keys.forEach(key => {
     if (hasUpperCase(key)) {
@@ -367,7 +367,7 @@ export const compareKeysForLanguages = (languages: Array<string>, getStrings: (s
 
 export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectories: (string)=>boolean) => {
   let dirs = fs.readdirSync(path.join(__dirname, dirPath))
-  let allStrings = []
+  let allStrings: Array<string> = []
   dirs = dirs.filter(filterDirectories)
   dirs.map(file => {
     if (file === '.DS_Store') return
@@ -384,11 +384,11 @@ const hasUpperCase = (str: string) => {
   return str.toLowerCase() !== str
 }
 
-export const searchHtml = (lang: Object, languageCode: string, textStringsType: string) => {
+export const searchHtml = (lang: object, languageCode: string, textStringsType: string) => {
   // eslint-disable-next-line no-useless-escape
   const isHtml = new RegExp('<[a-z\/][\s\S]*>')
   const keys = Object.keys(lang)
-  const arrayContainsHtml = []
+  const arrayContainsHtml: Array<object> = []
   let numberHtmlStrings = 0
   keys.forEach(key => {
     if (languageCode)

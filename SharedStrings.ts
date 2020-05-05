@@ -1,4 +1,4 @@
-// @flow
+
 import {removeTranslationHelpers, formatMoney} from './index'
 import ExchangeRates from './ExchangeRates'
 import Accounting from 'accounting'
@@ -13,49 +13,53 @@ import it from './text_strings/shared/it.json'
 import es from './text_strings/shared/es.json'
 import de from './text_strings/shared/de.json'
 import flatten from 'flat'
-export const getFinLitQuestion = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
+import {getCurrencyConfig} from './lib/CurrencyConfig'
+
+export const getFinLitQuestion = (testType: number, step: number, lang: string | undefined  = 'en', currencyCode: string) => {
   const textStrings = getSharedStrings(lang)
-  return addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings), currencyConfig)
+  return addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}`, [], textStrings), currencyCode)
 }
 
-export const getFinLitAnswer = (testType: number, step: number, lang?: string = 'en', currencyConfig: Object) => {
+export const getFinLitAnswer = (testType: number, step: number, lang: string | undefined = 'en', currencyCode: string) => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 4; i++) answers.push({title: addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings), currencyConfig), valid: getValidFinLitAnswer(testType, step, i)})
+  for (let i = 0; i < 4; i++) answers.push({ title: addCurrencyToGimiTestStrings(getText(`FinancialLiteracyTest${testType}.question_${step}_answer_${i + 1}`, [], textStrings), currencyCode), valid: getValidFinLitAnswer(testType, step, i)})
   return answers
 }
 
-export const getCardQuestion = (step: number, lang: string = 'en', currencyConfig: Object): string => {
+export const getCardQuestion = (step: number, lang: string = 'en', currencyCode: string): string => {
   const textStrings = getSharedStrings(lang)
-  return getText(`CardTest.card_test_question_${step}`, [...getStringQuestionValues(step, currencyConfig)], textStrings)
+  return getText(`CardTest.card_test_question_${step}`, [...getStringQuestionValues(step, currencyCode)], textStrings)
 }
 
-export const getCardAnswer = (step: number, lang: string = 'en', currencyConfig: Object): Array<Object> => {
+export const getCardAnswer = (step: number, lang: string = 'en', currencyCode: string): Array<Object> => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 3; i++) answers.push({title: getText(`CardTest.card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyConfig)], textStrings), valid: getValidCardAnswer(step, i)})
+  for (let i = 0; i < 3; i++) answers.push({ title: getText(`CardTest.card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyCode)], textStrings), valid: getValidCardAnswer(step, i)})
   answers.push({title: getText('CardTest.card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }
 
-export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): * => {
+export const getInfluencerPortalAnswer = (step: number, lang: string = 'en'): any => {
   if (step !== 1) return undefined
   return [{title: 'Instagram', valid: true}, {title: 'Youtube', valid: true}, {title: 'Snapchat', valid: true}, {title: 'Musically', valid: true}]
 }
 
-const getStringQuestionValues = (step: number, config: Object) => {
+const getStringQuestionValues = (step: number, currencyCode: string) => {
+  let currencyConfig = getCurrencyConfig(currencyCode)
   switch (step) {
-    case 2: return [Accounting.formatMoney(249, config.suffix, config.numberOfDecimals, '', ',', '%v %s'), Accounting.formatMoney(239, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
-    case 7: return [Accounting.formatMoney(99, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
+    case 2: return [Accounting.formatMoney(249, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s'), Accounting.formatMoney(239, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')]
+    case 7: return [Accounting.formatMoney(99, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')]
     default: return []
   }
 }
 
-const getStringAnswerValues = (step: number, answer: number, config: Object) => {
+const getStringAnswerValues = (step: number, answer: number, currencyCode: string): Array<string> => {
   answer = answer + 1
+  let currencyConfig = getCurrencyConfig(currencyCode)
   switch (true) {
-    case step === 2 && (answer === 2 || answer === 3): return [Accounting.formatMoney(10, config.suffix, config.numberOfDecimals, '', ',', '%v %s')]
-    case step === 7: return [Accounting.formatMoney(99, config.suffix, config.numberOfDecimals, '', ',', '%v %s')] // do for all answers
+    case step === 2 && (answer === 2 || answer === 3): return [Accounting.formatMoney(10, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')]
+    case step === 7: return [Accounting.formatMoney(99, currencyConfig.suffix, currencyConfig.numberOfDecimals, '', ',', '%v %s')] // do for all answers
     default: return []
   }
 }
@@ -121,7 +125,7 @@ const getValidCardAnswer = (step: number, answer: number): boolean => {
   }
 }
 
-const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
+const getText = (langKey: any, values: Array<string|number>, textStrings: any): string => {
   if (textStrings === undefined) return ''
   if (!textStrings || !langKey) return ''
   let text = textStrings[langKey]
@@ -136,7 +140,7 @@ const getText = (langKey: *, values?: Array<*>, textStrings: *): string => {
   return text
 }
 
-function getSharedStrings (lang: string): Object {
+function getSharedStrings (lang: string): object {
   switch (lang.substring(0, 2)) {
     case 'sv': return flatten(sv)
     case 'da': return flatten(da)
@@ -157,7 +161,7 @@ export function addCurrencyToGimiTestStrings (text: string, currencyCode: string
   let varsToConvert = text.match(/\$c{[^\d]*(\d+)[^\d]*\}/g)
   if (!!varsToConvert && Array.isArray(varsToConvert)) varsToConvert.forEach((item, index) => {
     let value = item.match(/[0-9]+/)
-    if (value) value = value[0]
+    if (value && value[0]) value = value[0]
     let exchangeRate = ExchangeRates[currencyCode] || 1
     value = formatMoney(Math.floor((value * exchangeRate) / 5) * 5, currencyCode)
     text = text.split(item).join(value)

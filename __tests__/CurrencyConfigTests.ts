@@ -3,7 +3,7 @@ import {getCurrencyConfig} from '../lib/CurrencyConfig'
 let allConfigs = []
 
 expect.extend({
-  toHaveSameLength (received: *, argument: *, location: *): * {
+  toHaveSameLength (received: any, argument: any, location: any): any {
     const pass = Object.keys(getCurrencyConfig(received)).length === argument
     if (pass)
       return {

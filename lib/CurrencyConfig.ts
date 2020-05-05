@@ -1,4 +1,3 @@
-// @flow
 import ConfigNOK from '../config/config_NOK'
 import ConfigDKK from '../config/config_DKK'
 import ConfigAUD from '../config/config_AUD'
@@ -16,7 +15,7 @@ import ConfigIDR from '../config/config_IDR'
 import ConfigCHF from '../config/config_CHF'
 import ConfigCOP from '../config/config_COP'
 
-export const getCurrencyConfig = (currencyCode: ?string) => {
+export const getCurrencyConfig = (currencyCode: string | undefined) => {
   switch (currencyCode) {
     case 'COP': return {...ConfigCOP, currencyCode}
     case 'CHF': return {...ConfigCHF, currencyCode}

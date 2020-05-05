@@ -1,4 +1,3 @@
-// @flow
 
 /**
  * This is an updated take on education courses and has replaced courses.js!

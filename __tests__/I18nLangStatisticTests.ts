@@ -73,7 +73,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          const displayObject: Object = {
+          const displayObject: object = {
             lang: '',
             path: [],
             count: [],
@@ -101,7 +101,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          const displayObject: Object = {
+          const displayObject: object = {
             lang: '',
             path: [],
             count: [],
@@ -129,7 +129,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          const displayObject: Object = {
+          const displayObject: object = {
             lang: '',
             path: [],
             count: [],

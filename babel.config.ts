@@ -1,13 +1,11 @@
 /* eslint-disable */
-module.exports = function (api) {
+module.exports = function (api: any) {
   let presets = []
   api.cache(true)
     presets = [
       '@babel/preset-env'
     ]
-  const plugins = [
-    '@babel/plugin-transform-flow-strip-types'
-  ]
+  const plugins: Array<string> = []
   return {
     presets,
     plugins

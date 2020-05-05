@@ -1,4 +1,3 @@
-// @flow
 const CategoryGroups = require('../categories/CategoryGroups.json')
 const SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
 const WithdrawCategories = require('../categories/WithdrawCategories.json')

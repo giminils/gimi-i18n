@@ -2,18 +2,18 @@
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck, searchHtml} from '../TestUtil'
 
-let stringTagData = []
-let jsonDataTranslate = []
-let jsonDataCopy = []
-let jsonDataBrokenCopy = []
-let jsonDataBrokenTranslate = []
-let jsonDataBrokenCheck = []
-let jsonBreakingSumbols = []
-let jsonArrayUpperCase = []
-let jsonArrayEmptySpaces = []
-let jsonDataHtml = []
+let stringTagData: Array<object> = []
+let jsonDataTranslate: Array<object> = []
+let jsonDataCopy: Array<object> = []
+let jsonDataBrokenCopy: Array<object> = []
+let jsonDataBrokenTranslate: Array<object> = []
+let jsonDataBrokenCheck: Array<object> = []
+let jsonBreakingSumbols: Array<object> = []
+let jsonArrayUpperCase: Array<object> = []
+let jsonArrayEmptySpaces: Array<object> = []
+let jsonDataHtml: Array<object> = []
 
-let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
+let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
 let textStrings = {}
 textStringsTypes.forEach(textStringsType => {
   textStrings[textStringsType] = {}

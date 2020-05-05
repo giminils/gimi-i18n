@@ -23,7 +23,7 @@ const getKeyMap = (json, path, keys = {}) => {
 
 const keyMap = getKeyMap(enJson)
 
-const findLangKeysInFile = (filePath, langKey, fullLangKeys): * => {
+const findLangKeysInFile = (filePath, langKey, fullLangKeys): any => {
   const fileString = fs.readFileSync(filePath, {encoding: 'utf8'})
   const matches = fileString.match(new RegExp(`'\w*.{0,1}${langKey}'`, 'g'))
   if (!matches) return
