@@ -212,7 +212,7 @@ export const getFAQStrings = (lang: string): object => {
   }
 }
 
-export const getNativeErrorMessageStrings = (lang: string): object => {
+export const getNativeErrorMessageStrings = (lang: string): {[key: string]: string} => {
   switch (lang.substring(0, 2)) {
     case 'sv': return {...defaultNativeErrorMessages, ...svNativeErrorMessages} // sweden
     case 'nb': return {...defaultNativeErrorMessages, ...noNativeErrorMessages} // norway
@@ -248,11 +248,17 @@ export const getRegions = () => Regions
 export const getCities = () => Cities
 export const getCountries = () => CountryCodes
 export const getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
-export const getPhoneNumberPrefix = (country: string) => parseInt(countryCodes2PhoneNumberPrefixes[country.toUpperCase()])
+export const getPhoneNumberPrefix = (country: string) => {
+  let prefixes: {[key: string]: string} = countryCodes2PhoneNumberPrefixes
+  return parseInt(prefixes[country.toUpperCase()])
+}
 export const getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
 export const getTimezones = () => Timezones
 export const getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
-export const getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
+export const getDefaultCurrencyCode = (userCountryCode: string): string => {
+  let currencies: { [key: string]: string} = DefaultCurrencies
+  return currencies[userCountryCode] || 'EUR'
+}
 
 export const getSupportedTimeZones = () => {
   let shortList: Array<object> = []
@@ -276,7 +282,7 @@ export const getInfluencerAnswer = (step: number, lang: string | undefined = 'en
 
 export const getExperimentalCourses = () => ExperimentalCourses
 
-export function getText (langKey: any, values: Array<string|number>, textTransform: string = 'capitalize', textStrings: object): string {
+export function getText (langKey: any, values: Array<string|number>, textTransform: string = 'capitalize', textStrings: {[key: string]: string}): string {
   if (typeof textStrings === 'undefined') return ''
   if (!textStrings || !langKey) return ''
   let text = textStrings[langKey]
@@ -289,9 +295,9 @@ export function getText (langKey: any, values: Array<string|number>, textTransfo
   return text
 }
 
-export const applyValues = (text: string, values?: Array<*>): string => {
+export const applyValues = (text: string, values: Array<string|number>): string => {
   if (!!values && Array.isArray(values)) values.forEach((item, index) => {
-    text = text.split(`%${index + 1}$d`).join(item)
+    text = text.split(`%${index + 1}$d`).join(item ? item.toString() : '')
   })
   return text
 }

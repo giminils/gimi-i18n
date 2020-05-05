@@ -39,7 +39,7 @@ describe('TextStrings', () => {
   })
 
   describe('TextStrings Matching tests', () => {
-    let validateHTMLTag = (testString): boolean => {
+    let validateHTMLTag = (testString: string): boolean => {
       let htmlTagPairs = [
         ['<b>', '</b>'],
         ['<boldGreen>', '</boldGreen>'],
@@ -61,7 +61,7 @@ describe('TextStrings', () => {
 
       test('should return Text Strings', () => {
       // eslint-disable-next-line jest/prefer-to-be-undefined
-        expect(getTextStrings(lang)).not.toEqual(undefined, 'Cant find TextStrings for: ' + lang)
+        expect(getTextStrings(lang)).not.toEqual(undefined)
       })
 
       test('all textstrings should have right amount of $d and $c and $s signs signs', () => {
@@ -100,16 +100,14 @@ describe('TextStrings', () => {
       test('should not have unclosed brackers', () => {
         let leftSide = 0
         let rightSide = 0
-        let error = []
+        let error: Array<string> = []
 
         let textString = JSON.stringify(getTextStrings(lang))
 
         leftSide = textString.split('[').length - 1
         rightSide = textString.split(']').length - 1
-        if (leftSide !== rightSide)
-          error.push(lang)
-
-        if (error.lenght > 0) console.warn(error)
+        if (leftSide !== rightSide) error.push(lang)
+        if (error.length > 0) console.warn(error)
         expect(error).toEqual([])
       })
 
@@ -120,9 +118,7 @@ describe('TextStrings', () => {
         Object.keys(textStrings).forEach((key) => {
           let text = textStrings[key]
           let valid = validateHTMLTag(text)
-
-          if (!valid)
-            errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
+          if (!valid) errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
         })
 
         // console.warn(JSON.stringify(error[0], undefined, 2))

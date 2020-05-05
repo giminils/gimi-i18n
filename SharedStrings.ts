@@ -35,7 +35,7 @@ export const getCardQuestion = (step: number, lang: string = 'en', currencyCode:
 export const getCardAnswer = (step: number, lang: string = 'en', currencyCode: string): Array<Object> => {
   const textStrings = getSharedStrings(lang)
   const answers = []
-  for (let i = 0; i < 3; i++) answers.push({ title: getText(`CardTest.card_test_question_${step}_answer_${i + 1}`, [getStringAnswerValues(step, i, currencyCode)], textStrings), valid: getValidCardAnswer(step, i)})
+  for (let i = 0; i < 3; i++) answers.push({ title: getText(`CardTest.card_test_question_${step}_answer_${i + 1}`, getStringAnswerValues(step, i, currencyCode), textStrings), valid: getValidCardAnswer(step, i)})
   answers.push({title: getText('CardTest.card_test_answer_dont_know', [], textStrings), valid: false})
   return answers
 }
@@ -161,10 +161,12 @@ export function addCurrencyToGimiTestStrings (text: string, currencyCode: string
   let varsToConvert = text.match(/\$c{[^\d]*(\d+)[^\d]*\}/g)
   if (!!varsToConvert && Array.isArray(varsToConvert)) varsToConvert.forEach((item, index) => {
     let value = item.match(/[0-9]+/)
-    if (value && value[0]) value = value[0]
-    let exchangeRate = ExchangeRates[currencyCode] || 1
-    value = formatMoney(Math.floor((value * exchangeRate) / 5) * 5, currencyCode)
-    text = text.split(item).join(value)
+    let matchedValue: number = 0
+    if (value && value[0]) matchedValue = Number(value[0])
+    let exchangeRates: {[key: string]: number} = ExchangeRates
+    let exchangeRate = exchangeRates[currencyCode] || 1
+    let formattedValue = formatMoney(Math.floor((matchedValue * exchangeRate) / 5) * 5, currencyCode)
+    text = text.split(item).join(formattedValue)
   })
   return text
 }

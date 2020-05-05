@@ -5,20 +5,16 @@ let templateDir = ['./text_strings/server', './text_strings/templates', './text_
 
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
-let runSaraWithNewStructure = (filePath: string, textStrings: object, _default: any): any => {
-  fs.readdirSync(filePath).forEach((file) => {
-    syncNewTextStrings(filePath, file, textStrings, _default)
-  })
-}
 
-const syncNewTextStrings = (filePath: string, file: string, lang: object, _default: string) => {
+const syncNewTextStrings = (filePath: string, file: string, lang: {[key: string]: string}, _default: string) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
   if (file === 'en.json') return
   const path = `${filePath}/${file}`
   const fileString = fs.readFileSync(path)
-  const fileObj: object = JSON.parse(fileString)
+  let bufferString: string = fileString.toString()
+  const fileObj: { [key: string]: string } = JSON.parse(bufferString)
 
   // move root keys to sub nodes
   addMissingKeyOnNode(fileObj, fileObj, lang)
@@ -27,7 +23,7 @@ const syncNewTextStrings = (filePath: string, file: string, lang: object, _defau
   fs.writeFileSync(path, newFileString, {encoding: 'utf8'})
 }
 
-const addMissingKeyOnNode = (rootObj: object, nodeObj: object, langNodeObj: object) => {
+const addMissingKeyOnNode = (rootObj: {[key: string]: string}, nodeObj: {[key: string]: string}, langNodeObj: {[key: string]: string}) => {
   Object.keys(langNodeObj)
     .forEach((key) => {
     if (typeof langNodeObj[key] === 'string') {
@@ -45,11 +41,11 @@ const addMissingKeyOnNode = (rootObj: object, nodeObj: object, langNodeObj: obje
       nodeObj[key] = createPlzTranslateString(langNodeObj[key])
       return
     }
-    if (typeof langNodeObj[key] === 'object') {
+    /* if (typeof langNodeObj[key] === 'object') {
       if (!nodeObj[key]) nodeObj[key] = {}
       if (!!nodeObj[key] && typeof nodeObj[key] === 'string') nodeObj[key] = {}
       addMissingKeyOnNode(rootObj, nodeObj[key], langNodeObj[key])
-    }
+    }*/
   })
 }
 
@@ -62,12 +58,11 @@ let runSara = (filePath: string): any => {
   // let folderName = filePath.match(/\/[^\s/]*$/g) ? filePath.match(/\/[^\s/]*$/g)[0] + '/' : ''
   let defaultPath = getPath(filePath, 'default.json')
   let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
-  _default = JSON.parse(_default)
+  let parsed_default: {[key: string]: string} = JSON.parse(_default)
   let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
   let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
-  strings = JSON.parse(strings)
-  if (filePath.includes('new_structure') || filePath.includes('shared')) return runSaraWithNewStructure(filePath, strings, _default)
-  fs.readdirSync(filePath).forEach((file) => syncTextStrings(filePath, file, strings, _default))
+  let parsedStrings: {[key: string]: string} = JSON.parse(strings)
+  fs.readdirSync(filePath).forEach((file) => syncTextStrings(filePath, file, parsedStrings, parsed_default))
 
   // fix swedish TextStrings formatting
   strings = JSON.stringify(strings, undefined, 2)
@@ -75,18 +70,18 @@ let runSara = (filePath: string): any => {
   return fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
 }
 
-let syncTextStrings = (filePath: string, file: string, lang: object, _default: any) => {
+let syncTextStrings = (filePath: string, file: string, lang: { [key: string]: string }, _default: {[key: string]: string}) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
   let path = getPath(filePath, file)
   let textStrings = fs.readFileSync(path, {encoding: 'utf8'})
-  let parsedStrings: object = JSON.parse(textStrings)
+  let parsedStrings: {[key: string]: string} = JSON.parse(textStrings)
   // Delete Support
   Object.keys({ ...parsedStrings})
     .filter((key: string) => lang[key] === undefined)
     .forEach((key: string) => {
-      delete textStrings[key]
+      delete parsedStrings[key]
       console.log(`Deleting key: '${key}' from ${filePath}/${file}`)
     })
 
@@ -108,9 +103,9 @@ let syncTextStrings = (filePath: string, file: string, lang: object, _default: a
   if (delta > 0) console.log(`Updated ${delta} textstrings in ${filePath}`)
 
   // Save changes
-  newTextStrings = JSON.stringify(newTextStrings, undefined, 2)
+  let stringsToSave = JSON.stringify(newTextStrings, undefined, 2)
   fs.unlinkSync(path)
-  fs.writeFileSync(path, newTextStrings, {encoding: 'utf8'})
+  fs.writeFileSync(path, stringsToSave, {encoding: 'utf8'})
 }
 
 templateDir.forEach((filePath) => {
