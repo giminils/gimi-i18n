@@ -1,5 +1,5 @@
 
-import IgnoredTextStrings from './IgnoredTextStrings.json'
+const IgnoredTextStrings = require('./IgnoredTextStrings.json')
 import {supportedLanguageCodes} from './index'
 import defaultTextStrings from './text_strings/client/default.json'
 const fs = require('fs')
@@ -125,7 +125,7 @@ export const checkTemplateLenght = (langs: {[key: string]: string}, langName: st
 export const checkTemplateRule = (langs: {[key: string]: string}, langName: string = '') => {
   const keys = Object.keys(langs)
   const errorMessages: Array<string> = []
-  serverTextStringNames.forEach((serverSring) => {
+  serverTextStringNames.forEach((serverSring: string) => {
     keys.forEach((key) => {
       if (!IgnoredTextStrings.includes(key))
         if (key.indexOf(serverSring) !== -1) {
