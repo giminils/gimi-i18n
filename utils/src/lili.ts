@@ -10,7 +10,6 @@ let copyEn: Array<string> = []
 let removePLzCopy = (enTextFile: {[key: string]: string}): any => {
   Object.keys(enTextFile).forEach(key => {
     if (enTextFile[key].includes(PLZ_COPY))
-
       enTextFile[key] = enTextFile[key].replace(PLZ_COPY + ' ', '')
   })
   return enTextFile
@@ -25,10 +24,10 @@ let removeAndSave = (filePath: string): any => {
 
   enTextFile = removePLzCopy(updateEnTextFile)
   updateEnTextFile = {...updateEnTextFile, ...parsedText}
-  let strinigiedUpdateEnTextFile = JSON.stringify(updateEnTextFile, undefined, 2)
+  let stringifieddUpdateEnTextFile = JSON.stringify(updateEnTextFile, undefined, 2)
 
   fs3.unlinkSync(langPath)
-  fs3.writeFileSync(langPath, strinigiedUpdateEnTextFile, {encoding: 'utf8'})
+  fs3.writeFileSync(langPath, stringifieddUpdateEnTextFile, {encoding: 'utf8'})
 }
 let runLili = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
@@ -40,13 +39,12 @@ let runLili = (filePath: string): any => {
     if (file.indexOf('.json') === -1) return
     if (file === 'default.json') return
     if (file === 'lang.json') return
-    let path = getPath(file)
+    const path = getPath(file)
     let TextStrings = fs3.readFileSync(path, {encoding: 'utf8'})// Textstings file
     let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
-
     // Craete Support§
-    let NewTextStrings = { ...parsedLang}
-    Object.keys(lang).forEach(key => {
+    let NewTextStrings = {...parsedLang}
+    Object.keys(parsedLang).forEach(key => {
       if (parsedLang[key].includes(PLZ_COPY) && !file.includes('en.json')) {
         if (!file.includes('sv.json'))
           NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_TRANSLATE)
@@ -61,8 +59,7 @@ let runLili = (filePath: string): any => {
     let TextStringsLength = Object.keys(TextStrings).length
     let delta = NewTextStringsLength - TextStringsLength
 
-    if (delta > 0)
-      console.log(`Updated ${delta} textstrings in ${file}`)
+    if (delta > 0) console.log(`Updated ${delta} textstrings in ${file}`)
 
     // Save changes
     let newParsedTextStrings = JSON.stringify(NewTextStrings, undefined, 2)
