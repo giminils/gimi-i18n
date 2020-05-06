@@ -1,11 +1,11 @@
 /* eslint-disable */
-module.exports = function (api: any) {
-  let presets = []
+// @ts-nocheck
+module.exports = function (api) {
   api.cache(true)
-    presets = [
+    let presets = [
       '@babel/preset-env'
     ]
-  const plugins: Array<string> = []
+  const plugins = []
   return {
     presets,
     plugins

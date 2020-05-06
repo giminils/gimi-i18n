@@ -1,6 +1,6 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-
+const fs2 = require('fs')
 let RunIda = (): any => {
   let files = ['config_AUD.json', 'config_CAD.json', 'config_DEF.json', 'config_DKK.json', 'config_EUR.json', 'config_GBP.json', 'config_INR.json', 'config_ISK.json', 'config_NOK.json',
     'config_NZD.json', 'config_SEK.json', 'config_THB.json', 'config_USD.json', 'config_IDR.json', 'config_CHF.json']
@@ -31,8 +31,8 @@ let syncConfigKeys = (file: string) => {
 
   // Save changes
   let newConf = JSON.stringify(config, undefined, 2)
-  fs.unlinkSync('./config/' + file)
-  fs.writeFileSync('./config/' + file, newConf, {encoding: 'utf8'})
+  fs2.unlinkSync('./config/' + file)
+  fs2.writeFileSync('./config/' + file, newConf, {encoding: 'utf8'})
 }
 
 RunIda()

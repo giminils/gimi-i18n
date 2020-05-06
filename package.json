@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "babelize": "npx babel --extensions '.ts' --presets @babel/preset-typescript ./utils/src -d ./utils/dest",
+    "babelize": "npx babel --extensions '.ts' --presets=@babel/preset-typescript ./utils/src -d ./utils/dest",
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "fix-lint": "npm run lint -- --fix",
     "sara": "yarn run babelize && node ./utils/dest/sara.js",

@@ -1,4 +1,5 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
+const fs3 = require('fs')
 let templateDirs = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq']
 
 let PLZ_CHECK = 'PLZ_CHECK'
@@ -18,7 +19,7 @@ let removePLzCopy = (enTextFile: {[key: string]: string}): any => {
 let removeAndSave = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
   let langPath = getPath('en.json') // Edit here for what language to use
-  let enTextFile = fs.readFileSync(langPath, {encoding: 'utf8'})
+  let enTextFile = fs3.readFileSync(langPath, {encoding: 'utf8'})
   let parsedText: {[key: string]: string} = JSON.parse(enTextFile)
   let updateEnTextFile = { ...parsedText}
 
@@ -26,13 +27,13 @@ let removeAndSave = (filePath: string): any => {
   updateEnTextFile = {...updateEnTextFile, ...parsedText}
   let strinigiedUpdateEnTextFile = JSON.stringify(updateEnTextFile, undefined, 2)
 
-  fs.unlinkSync(langPath)
-  fs.writeFileSync(langPath, strinigiedUpdateEnTextFile, {encoding: 'utf8'})
+  fs3.unlinkSync(langPath)
+  fs3.writeFileSync(langPath, strinigiedUpdateEnTextFile, {encoding: 'utf8'})
 }
 let runLili = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
   let langPath = getPath('en.json') // Edit here for what language to use
-  let lang = fs.readFileSync(langPath, {encoding: 'utf8'})
+  let lang = fs3.readFileSync(langPath, {encoding: 'utf8'})
   let parsedLang: {[key: string]: string} = JSON.parse(lang)
 
   let syncTextStrings = (file: string) => {
@@ -40,7 +41,7 @@ let runLili = (filePath: string): any => {
     if (file === 'default.json') return
     if (file === 'lang.json') return
     let path = getPath(file)
-    let TextStrings = fs.readFileSync(path, {encoding: 'utf8'})// Textstings file
+    let TextStrings = fs3.readFileSync(path, {encoding: 'utf8'})// Textstings file
     let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
 
     // Craete Support§
@@ -65,11 +66,11 @@ let runLili = (filePath: string): any => {
 
     // Save changes
     let newParsedTextStrings = JSON.stringify(NewTextStrings, undefined, 2)
-    fs.unlinkSync(path)
-    fs.writeFileSync(path, newParsedTextStrings, {encoding: 'utf8'})
+    fs3.unlinkSync(path)
+    fs3.writeFileSync(path, newParsedTextStrings, {encoding: 'utf8'})
   }
 
-  fs.readdirSync(filePath).forEach((languageCode: string) => {
+  fs3.readdirSync(filePath).forEach((languageCode: string) => {
     if (languageCode.includes('en.json'))
       copyEn.push(filePath)
     syncTextStrings(languageCode)
@@ -80,8 +81,8 @@ let runLili = (filePath: string): any => {
   })
 
   // lang = JSON.stringify(lang, undefined, 2)
-  // fs.unlinkSync(langPath)
-  // fs.writeFileSync(langPath, lang, {encoding: 'utf8'})
+  // fs3.unlinkSync(langPath)
+  // fs3.writeFileSync(langPath, lang, {encoding: 'utf8'})
 }
 templateDirs.forEach((filePath) => {
   runLili(filePath)
