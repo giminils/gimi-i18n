@@ -94,7 +94,7 @@ describe('TextStrings', () => {
             errorMessages[key] = ''
           })
         })
-        console.warn(JSON.stringify(errorMessages, undefined, 2))
+        // console.warn(JSON.stringify(errorMessages, undefined, 2))
       })
 
       test('should not have unclosed brackers', () => {
