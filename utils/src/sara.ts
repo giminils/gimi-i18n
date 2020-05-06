@@ -1,7 +1,7 @@
-export {}
+
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 const fs = require('fs')
-let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/client_new_structure', './text_strings/shared']
+let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/shared']
 
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
@@ -62,10 +62,11 @@ let runSara = (filePath: string): any => {
   let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
   let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
   let parsedStrings: {[key: string]: string} = JSON.parse(strings)
-  fs.readdirSync(filePath).forEach((file: string) => syncTextStrings(filePath, file, parsedStrings, parsed_default))
+  fs.readdirSync(filePath)
+    .forEach((file: string) => syncTextStrings(filePath, file, parsedStrings, parsed_default))
 
   // fix swedish TextStrings formatting
-  strings = JSON.stringify(strings, undefined, 2)
+  let boll = JSON.stringify(parsedStrings, undefined, 2)
   fs.unlinkSync(stringPath)
   return fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
 }
