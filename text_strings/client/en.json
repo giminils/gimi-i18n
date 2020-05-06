@@ -3118,5 +3118,7 @@
   "recurring_chore_stats_all_rejected_parent": "All chores rejected.",
   "recurring_chore_stats_default_parent": "This chore might make %1$d rich.",
   "shareable_custom_card_title": "I designed this card myself in the Gimi app!",
-  "sign_up_email_question": "What's your email?"
+  "sign_up_email_question": "What's your email?",
+  "swish_not_responding_title":"Could not get a handshake from swish...",
+  "swish_not_responding_subtitle": "We had problems confirming your payment. Please wait a bit to see if it went through before you try again."
 }
