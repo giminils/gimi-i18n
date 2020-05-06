@@ -4,7 +4,7 @@ jest.disableAutomock()
 
 describe('TextStrings', () => {
   it('it should return Country Code', () => {
-    expect(getCountries()).not.toBeUndefined()
+    expect(getCountries()).toBeDefined()
   })
 
   it('it should be able to get Countries', () => {

@@ -1,20 +1,20 @@
-
+    //@ts-nocheck
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
 import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck, searchHtml} from '../TestUtil'
 
-let stringTagData = []
-let jsonDataTranslate = []
-let jsonDataCopy = []
-let jsonDataBrokenCopy = []
-let jsonDataBrokenTranslate = []
-let jsonDataBrokenCheck = []
-let jsonBreakingSumbols = []
-let jsonArrayUpperCase = []
-let jsonArrayEmptySpaces = []
-let jsonDataHtml = []
+let stringTagData: Array<{count: number|undefined, data: Array<{ key: string, lang: string, path: string }>, plzTrans: number | undefined, plzCopy: number | undefined, countUpperCase: number | undefined, countStartsEmptySpace: number | undefined, brokenPLZCopy: number | undefined, brokenPLZTranslate: number | undefined, brokenPLZCheck: number | undefined, countHtmlStrings: number | undefined}> = []
+let jsonDataTranslate: Array<object> = []
+let jsonDataCopy: Array<object> = []
+let jsonDataBrokenCopy: Array<object> = []
+let jsonDataBrokenTranslate: Array<object> = []
+let jsonDataBrokenCheck: Array<object> = []
+let jsonBreakingSumbols: Array<object> = []
+let jsonArrayUpperCase: Array<object> = []
+let jsonArrayEmptySpaces: Array<object> = []
+let jsonDataHtml: Array<object> = []
 
-let textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
-let textStrings = {}
+let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
+let textStrings: {[key: string]: {[key: string]: {[key: string]: string}}} = {}
 textStringsTypes.forEach(textStringsType => {
   textStrings[textStringsType] = {}
 })
@@ -59,44 +59,43 @@ textStringsTypes.forEach(textStringsType => {
 })
 
 // get plzTransalte
-stringTagData.forEach(data => {
-  if (data) {
-    if (data.plzTrans > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataTranslate.push(foo)
-    }
-    if (data.plzCopy > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataCopy.push(foo)
-    }
-    if (data.count > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonBreakingSumbols.push(foo)
-    }
-    if (data.countUpperCase > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonArrayUpperCase.push(foo)
-    }
-    if (data.countStartsEmptySpace > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonArrayEmptySpaces.push(foo)
-    }
-    if (data.brokenPLZCopy > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataBrokenCopy.push(foo)
-    }
-    if (data.brokenPLZTranslate > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataBrokenTranslate.push(foo)
-    }
-    if (data.brokenPLZCheck > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataBrokenCheck.push(foo)
-    }
-    if (data.countHtmlStrings > 0) {
-      const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-      jsonDataHtml.push(foo)
-    }
+stringTagData.forEach((data) => {
+  if (!data) return
+  if (!!data.plzTrans && data.plzTrans > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonDataTranslate.push(foo)
+  }
+  if (!!data.plzCopy && data.plzCopy > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonDataCopy.push(foo)
+  }
+  if (!!data.count && data.count > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonBreakingSumbols.push(foo)
+  }
+  if (!!data.countUpperCase && data.countUpperCase > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonArrayUpperCase.push(foo)
+  }
+  if (!!data.countStartsEmptySpace && data.countStartsEmptySpace > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonArrayEmptySpaces.push(foo)
+  }
+  if (!!data.brokenPLZCopy && data.brokenPLZCopy > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonDataBrokenCopy.push(foo)
+  }
+  if (!!data.brokenPLZTranslate && data.brokenPLZTranslate > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonDataBrokenTranslate.push(foo)
+  }
+  if (!!data.brokenPLZCheck && data.brokenPLZCheck > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonDataBrokenCheck.push(foo)
+  }
+  if (!!data.countHtmlStrings && data.countHtmlStrings > 0) {
+    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
+    jsonDataHtml.push(foo)
   }
 })
 

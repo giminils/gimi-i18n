@@ -1,12 +1,9 @@
-
-import {getFinLitQuestion, addCurrencyToGimiTestStrings} from '../SharedStrings'
-import {getCurrencyConfig} from '../lib/CurrencyConfig'
-
 jest.disableAutomock()
+import {getFinLitQuestion, addCurrencyToGimiTestStrings} from '../SharedStrings'
 
 describe('SharedStringsTests', () => {
   test('it should convert $c{whatever} to correct currency', () => {
-    let question = getFinLitQuestion(1, 3, 'en', getCurrencyConfig('SEK'))
+    let question = getFinLitQuestion(1, 3, 'en', 'SEK')
     expect(!question.includes('$c{')).toBeTruthy()
   })
   test('it should exchange correct currencies', () => {

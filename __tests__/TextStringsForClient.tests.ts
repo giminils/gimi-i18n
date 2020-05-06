@@ -3,7 +3,7 @@
 /* eslint jest/expect-expect:  0 */
 import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
 import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
-import fs from 'fs'
+const fs = require('fs')
 import * as path from 'path'
 jest.disableAutomock()
 // let flatten = require('flat')
@@ -39,7 +39,7 @@ describe('TextStrings', () => {
   })
 
   describe('TextStrings Matching tests', () => {
-    let validateHTMLTag = (testString): boolean => {
+    let validateHTMLTag = (testString: string): boolean => {
       let htmlTagPairs = [
         ['<b>', '</b>'],
         ['<boldGreen>', '</boldGreen>'],
@@ -61,7 +61,7 @@ describe('TextStrings', () => {
 
       test('should return Text Strings', () => {
       // eslint-disable-next-line jest/prefer-to-be-undefined
-        expect(getTextStrings(lang)).not.toEqual(undefined, 'Cant find TextStrings for: ' + lang)
+        expect(getTextStrings(lang)).not.toEqual(undefined)
       })
 
       test('all textstrings should have right amount of $d and $c and $s signs signs', () => {
@@ -86,7 +86,7 @@ describe('TextStrings', () => {
       })
 
       test('should not have any birgitta inconsistencies', () => {
-        let errorMessages = {}
+        let errorMessages: {[key: string]: string} = {}
 
         supportedLanguageCodes.forEach((lang2, j) => {
           let errorArray = checkBirgittaInconsistencies(getTextStrings(lang), getTextStrings(lang2), lang, lang2)
@@ -94,35 +94,31 @@ describe('TextStrings', () => {
             errorMessages[key] = ''
           })
         })
-        console.warn(JSON.stringify(errorMessages, undefined, 2))
+        // console.warn(JSON.stringify(errorMessages, undefined, 2))
       })
 
       test('should not have unclosed brackers', () => {
         let leftSide = 0
         let rightSide = 0
-        let error = []
+        let error: Array<string> = []
 
         let textString = JSON.stringify(getTextStrings(lang))
 
         leftSide = textString.split('[').length - 1
         rightSide = textString.split(']').length - 1
-        if (leftSide !== rightSide)
-          error.push(lang)
-
-        if (error.lenght > 0) console.warn(error)
+        if (leftSide !== rightSide) error.push(lang)
+        if (error.length > 0) console.warn(error)
         expect(error).toEqual([])
       })
 
       test('should have valid html tags', () => {
-        let errors = []
+        let errors: Array<string> = []
 
-        let textStrings = getTextStrings(lang)
+        let textStrings: {[key: string]: string} = getTextStrings(lang)
         Object.keys(textStrings).forEach((key) => {
           let text = textStrings[key]
           let valid = validateHTMLTag(text)
-
-          if (!valid)
-            errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
+          if (!valid) errors.push(`No valid tags (<b>, </b> etc) in text: ${text}`)
         })
 
         // console.warn(JSON.stringify(error[0], undefined, 2))

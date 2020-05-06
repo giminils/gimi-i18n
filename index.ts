@@ -1,4 +1,3 @@
-// @flow
 
 // client
 import sv from './text_strings/client/sv.json'
@@ -102,16 +101,15 @@ import itNativeErrorMessages from './native/error-messages/it.json'
 import esNativeErrorMessages from './native/error-messages/es.json'
 import deNativeErrorMessages from './native/error-messages/de.json'
 
-import Accounting from 'accounting'
+const Accounting = require('accounting')
 import flatten from 'flat'
-import sekConfig from './config/config_SEK.json'
-import CountryCodes from './CountryCodes.json'
+const CountryCodes = require('./CountryCodes.json')
 import Regions from './Regions.json'
 import {getCardQuestion, getCardAnswer, getInfluencerPortalAnswer, getFinLitQuestion, getFinLitAnswer} from './SharedStrings'
-import Cities from './Cities.json'
+const Cities = require('./Cities.json')
 import Timezones from './TimeZones.json'
-import LanguageCodes from './LanguageCodes.json'
-import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes.json'
+const LanguageCodes = require('./LanguageCodes.json')
+const countryCodes2PhoneNumberPrefixes = require('./countryCodes2PhoneNumberPrefixes.json')
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
 import ExperimentalCourses from './Education'
@@ -162,23 +160,6 @@ export const getEducationStrings = (lang: string) => {
   }
 }
 
-export let getNewStructureTextStrings = (lang: string) => {
-  const clientNewStructure = getClientNewStructureStrings(lang)
-  switch (lang.substring(0, 2)) {
-    case 'sv': return {..._default, ...clientNewStructure, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ} // sweden
-    case 'nb':
-    case 'nn': return {..._default, ...clientNewStructure, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ} // norway
-    case 'da': return {..._default, ...clientNewStructure, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ} // danish
-    case 'fr': return {..._default, ...clientNewStructure, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ} // france
-    case 'nl': return {..._default, ...clientNewStructure, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // netherlands
-    case 'fi': return {..._default, ...clientNewStructure, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ} // finish
-    case 'it': return {..._default, ...clientNewStructure, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ} // italian
-    case 'es': return {..._default, ...clientNewStructure, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ} // spanish
-    case 'de': return {..._default, ...clientNewStructure, ...deBot, ...deBotSurvey, ...deEducate, ...deFAQ} // german
-    default: return {..._default, ...clientNewStructure, ...enBot, ...enBotSurvey, ...enEducate, ...enFAQ}
-  }
-}
-
 export const getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'sv': return {..._default, ...sv, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ} // sweden
@@ -214,7 +195,7 @@ export const getCalendarStrings = (lang: string) => {
   }
 }
 
-export const getFAQStrings = (lang: string): Object => {
+export const getFAQStrings = (lang: string): object => {
   switch (lang.substring(0, 2)) {
     case 'sv': return svFAQ // sweden
     case 'nb':
@@ -230,7 +211,7 @@ export const getFAQStrings = (lang: string): Object => {
   }
 }
 
-export const getNativeErrorMessageStrings = (lang: string): Object => {
+export const getNativeErrorMessageStrings = (lang: string): {[key: string]: string} => {
   switch (lang.substring(0, 2)) {
     case 'sv': return {...defaultNativeErrorMessages, ...svNativeErrorMessages} // sweden
     case 'nb': return {...defaultNativeErrorMessages, ...noNativeErrorMessages} // norway
@@ -265,37 +246,42 @@ export const translationHelperEMMA = 'EMMA'
 export const getRegions = () => Regions
 export const getCities = () => Cities
 export const getCountries = () => CountryCodes
-export const getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
-export const getPhoneNumberPrefix = (country: string) => parseInt(countryCodes2PhoneNumberPrefixes[country.toUpperCase()])
+export const getCountry = (countryCode: string) => CountryCodes.find((country: {code: string, name: string, dial_code: string}) => country.code === countryCode)
+export const getPhoneNumberPrefix = (country: string) => {
+  let prefixes: {[key: string]: string} = countryCodes2PhoneNumberPrefixes
+  return parseInt(prefixes[country.toUpperCase()])
+}
 export const getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
 export const getTimezones = () => Timezones
-export const getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
-export const getDefaultCurrencyCode = (userCountryCode: string): string => DefaultCurrencies[userCountryCode] || 'EUR'
+export const getLangugageCodes = () => LanguageCodes.filter((languageCode: { name: string, nativeName: string, code: string}) => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
+export const getDefaultCurrencyCode = (userCountryCode: string): string => {
+  let currencies: { [key: string]: string} = DefaultCurrencies
+  return currencies[userCountryCode] || 'EUR'
+}
 
 export const getSupportedTimeZones = () => {
-  let shortList = []
+  let shortList: Array<object> = []
   Timezones.map((zone, index) => {
-    if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1)
-      shortList.push(zone)
+    if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1) shortList.push(zone)
   })
   return shortList || Timezones
 }
 
 export const exchangeRates = ExchangeRates
 
-export const getCardTestQuestion = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardQuestion(step, lang, currencyConfig)
+export const getCardTestQuestion = (step: number, lang: string | undefined = 'en', currencyCode: string | undefined = 'SEK') => getCardQuestion(step, lang, currencyCode)
 
-export const getCardTestAnswer = (step: number, lang?: string = 'en', currencyConfig?: Object = sekConfig) => getCardAnswer(step, lang, currencyConfig)
+export const getCardTestAnswer = (step: number, lang: string | undefined = 'en', currencyCode: string | undefined = 'SEK') => getCardAnswer(step, lang, currencyCode)
 
-export const getFinLitTestQuestion = (testType: number, step: number, lang?: string = 'en', currencyCode?: string = 'SEK') => getFinLitQuestion(testType, step, lang, currencyCode)
+export const getFinLitTestQuestion = (testType: number, step: number, lang: string | undefined = 'en', currencyCode: string | undefined = 'SEK') => getFinLitQuestion(testType, step, lang, currencyCode)
 
-export const getFinLitTestAnswer = (testType: number, step: number, lang?: string = 'en', currencyCode?: string = 'SEK') => getFinLitAnswer(testType, step, lang, currencyCode)
+export const getFinLitTestAnswer = (testType: number, step: number, lang: string | undefined = 'en', currencyCode: string | undefined = 'SEK') => getFinLitAnswer(testType, step, lang, currencyCode)
 
-export const getInfluencerAnswer = (step: number, lang?: string = 'en') => getInfluencerPortalAnswer(step, lang)
+export const getInfluencerAnswer = (step: number, lang: string | undefined = 'en') => getInfluencerPortalAnswer(step, lang)
 
 export const getExperimentalCourses = () => ExperimentalCourses
 
-export function getText (langKey: *, values?: Array<*>, textTransform?: string = 'capitalize', textStrings: Object): string {
+export function getText (langKey: any, values: Array<string|number>, textTransform: string = 'capitalize', textStrings: {[key: string]: string}): string {
   if (typeof textStrings === 'undefined') return ''
   if (!textStrings || !langKey) return ''
   let text = textStrings[langKey]
@@ -308,14 +294,14 @@ export function getText (langKey: *, values?: Array<*>, textTransform?: string =
   return text
 }
 
-export const applyValues = (text: string, values?: Array<*>): string => {
+export const applyValues = (text: string, values: Array<string|number>): string => {
   if (!!values && Array.isArray(values)) values.forEach((item, index) => {
-    text = text.split(`%${index + 1}$d`).join(item)
+    text = text.split(`%${index + 1}$d`).join(item ? item.toString() : '')
   })
   return text
 }
 
-export const applyTransform = (text: string, textTransform?: string = 'capitalize'): string => {
+export const applyTransform = (text: string, textTransform: string|undefined = 'capitalize'): string => {
   if (!textTransform) return text
   switch (textTransform) {
     case 'uppercase': return text.toUpperCase()
@@ -341,7 +327,7 @@ export let getClienStrings = (lang: string) => {
   }
 }
 
-export let getClientNewStructureStrings = (lang: string) => {
+export let getClientNewStructureStrings = (lang: string): string => {
   switch (lang.substring(0, 2)) {
     case 'sv': return flatten(svNewStructure) // sweden
     case 'nb':
@@ -357,8 +343,8 @@ export let getClientNewStructureStrings = (lang: string) => {
   }
 }
 
-export function formatMoney (value: number, currencyCode?: string): string {
-  let currencySymbol = getCurrencySymbol(currencyCode)
+export function formatMoney (value: number, currencyCode: string|undefined): string {
+  let currencySymbol = getCurrencySymbol(currencyCode || '')
   switch (currencyCode) {
     // no decimals
     case 'SEK':
@@ -398,7 +384,7 @@ export function formatMoney (value: number, currencyCode?: string): string {
   }
 }
 
-export function getCurrencySymbol (currencyCode: ?string): string {
+export function getCurrencySymbol (currencyCode: string): string {
   switch (currencyCode) {
     case 'SEK':
     case 'DKK':

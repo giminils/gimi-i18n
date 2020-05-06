@@ -7,7 +7,7 @@ jest.disableAutomock()
 
 let textStringsTypes = ['gimi-web']
 
-let textStrings = {}
+let textStrings: {[key: string]: {[key: string]: {[key: string]: string}}} = {}
 textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
 textStringsTypes.forEach(textStringsType => {
   gimiWebLanguageCodes.forEach(lang => {

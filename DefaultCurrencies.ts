@@ -1,4 +1,4 @@
-// @flow
+
 export default {
   'SE': 'SEK', // Swende
   'NO': 'NOK', // Norway

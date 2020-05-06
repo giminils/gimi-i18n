@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": false,
+    "isolatedModules": false,
+    "jsx": "react-native",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "strict": true,
+    "target": "esnext",
+    "resolveJsonModule": true, // Required for JSON files
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.json", // Don't try and check JSON files
+    "**/*.spec.ts",
+  ]
+}

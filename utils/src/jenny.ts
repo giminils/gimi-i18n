@@ -77,21 +77,21 @@ let keysToIgnore = [
   'notification_permissions_restricted'
 ]
 
-let keysThatAreNotUsed = []
-let keysToDelete = []
-let removeMatchedKeys = []
-let fs = require('fs')
+let keysThatAreNotUsed: Array<string> = []
+let keysToDelete: Array<string> = []
+let removeMatchedKeys: Array<string> = []
+const fs = require('fs')
 let rootDir = '..'
 let dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers', 'consts']
 let textStringsSvFilePath = './text_strings/client/sv.json'
 let storeUnUsedTextStrings = './cleanup_strings/unusedLangkeys.json'
 let TextStrings = fs.readFileSync(textStringsSvFilePath, {encoding: 'utf8'})
-TextStrings = JSON.parse(TextStrings)
+let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
 let foundKeys = 0
 let matchedKeys = 0
 let ignoredKeys = 0
 
-let checkFile = (file, key) => {
+let checkFile = (file: string, key: string) => {
   let fileContents = fs.readFileSync(file, {encoding: 'utf8'})
 
   let isOk = false
@@ -107,12 +107,12 @@ let checkFile = (file, key) => {
 
   return isOk
 }
-let checkIfTextStringIsObsolete = (key) => {
+let checkIfTextStringIsObsolete = (key: string) => {
   let isOk = false
   dirsToCheck.forEach((dirName) => {
     let dir = `${rootDir}/${dirName}/`
     let files = fs.readdirSync(dir)
-    files.forEach((file) => {
+    files.forEach((file: string) => {
       try {
         file = `${dir}/${file}`
         // console.log(`Reading file: "${file}"`)
@@ -130,11 +130,11 @@ let checkIfTextStringIsObsolete = (key) => {
     if (keysToIgnore.some(ignoredKey => key.indexOf(ignoredKey) !== -1)) { ignoredKeys++ } else {
       foundKeys++
       keysToDelete.push(key)
-      console.log(`${key}\t\t\t\t\t\t${TextStrings[key].replace('\n', '')}`)
+      console.log(`${key}\t\t\t\t\t\t${parsedTextStrings[key].replace('\n', '')}`)
     }
 }
 
-let checkIfIsStoredInUnUsed = (key) => {
+let checkIfIsStoredInUnUsed = (key: string) => {
   let isOk = true
   keysToDelete.forEach((notUsedKey) => {
    if (notUsedKey === key) isOk = false
@@ -154,7 +154,7 @@ let checkIfIsStoredInUnUsed = (key) => {
 }
 console.log('****** Begin Scan ********\n')
 
-Object.keys(TextStrings).forEach(key => checkIfTextStringIsObsolete(key))
+Object.keys(parsedTextStrings).forEach(key => checkIfTextStringIsObsolete(key))
 
 console.log('****** Scan Complete ********')
 console.log(
@@ -166,7 +166,7 @@ if (process.argv.some(x => x === 'f')) {
   console.log(`Removing ${foundKeys} text_strings from ${textStringsSvFilePath} ..`)
 
   keysToDelete.forEach((key) => {
-    delete TextStrings[key]
+    delete parsedTextStrings[key]
   })
 
   TextStrings = JSON.stringify(TextStrings, undefined, 2)
@@ -183,15 +183,15 @@ if (process.argv.some(x => x === 'f')) {
   /** ****** Storing TextStrings that can be matched  to new enviroment *******/
   console.log(`Storing ${foundKeys} text_strings from ${textStringsSvFilePath} to ${textStringsSvFilePath} ..`)
   let storeStrings = fs.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
-  storeStrings = JSON.parse(storeStrings)
+  let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
 
   keysToDelete.forEach((key) => {
-    storeStrings[key] = `${TextStrings[key]}`
+    parsedStoreStrings[key] = `${parsedTextStrings[key]}`
   })
-  storeStrings = JSON.stringify(storeStrings, undefined, 2)
+  let storeStringstoSave = JSON.stringify(parsedStoreStrings, undefined, 2)
 
-  fs.unlinkSync(storeUnUsedTextStrings)
-  fs.writeFileSync(storeUnUsedTextStrings, storeStrings, {encoding: 'utf8'})
+  fs.unlinkSync(storeStringstoSave)
+  fs.writeFileSync(storeStringstoSave, storeStrings, {encoding: 'utf8'})
 
   console.log(`Done`)
 }
@@ -200,16 +200,16 @@ if (process.argv.some(x => x === 'm')) {
 /** ****** Matching Text strings and removing used strings *******/
   console.log(`Matching text_strings from ${textStringsSvFilePath} to saved strings ${storeUnUsedTextStrings}`)
   let storeStrings = fs.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
-  storeStrings = JSON.parse(storeStrings)
+  let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
   Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
 
   removeMatchedKeys.forEach((key) => {
     // console.log(`remove matched key', ${key}`)
-    delete storeStrings[key]
+    delete parsedStoreStrings[key]
   })
-  storeStrings = JSON.stringify(storeStrings, undefined, 2)
-  fs.unlinkSync(storeUnUsedTextStrings)
-  fs.writeFileSync(storeUnUsedTextStrings, storeStrings, {encoding: 'utf8'})
+  let storeStringsToSave = JSON.stringify(storeStrings, undefined, 2)
+  fs.unlinkSync(storeStringsToSave)
+  fs.writeFileSync(storeStringsToSave, storeStrings, {encoding: 'utf8'})
 
   console.log(`Done`)
 } else
@@ -221,12 +221,12 @@ if (process.argv.some(x => x === 'd')) {
   /** ****** Deleting TextStrings *******/
   console.log(`Removing ${matchedKeys} text_strings from ${textStringsSvFilePath} ..`)
   let storeStrings = fs.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
-  storeStrings = JSON.parse(storeStrings)
+  let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
   Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
 
   keysThatAreNotUsed.forEach((key) => {
-    delete storeStrings[key]
-    delete TextStrings[key]
+    delete parsedStoreStrings[key]
+    delete parsedTextStrings[key]
   })
 
   storeStrings = JSON.stringify(storeStrings, undefined, 2)
@@ -244,27 +244,27 @@ if (process.argv.some(x => x === 'd')) {
 
 if (process.argv.some(x => x === 'a')) {
   let exec = require('child_process').exec
-  let log = output => console.log(output)
-  let execute = (command, callback) => {
+  let log = (output: string) => console.log(output)
+  let execute = (command: string, callback: (message: string) => void) => {
     // eslint-disable-next-line
-    exec(command, function(error, stdout, stderr) {
+    exec(command, function (error: () => void, stdout: string, stderr: () => void) {
       callback(stdout)
     })
   }
-  execute('git checkout master', log)
-  execute('npm run jenny s', log)
+  execute('git checkout master', console.log)
+  execute('npm run jenny s', console.log)
   console.log('jenny stored')
-  execute('cd ..', log)
-  execute('git checkout stage', log)
+  execute('cd ..', console.log)
+  execute('git checkout stage', console.log)
   console.log('stage')
-  execute('cd i18n', log)
-  execute('npm run jenny m', log)
+  execute('cd i18n', console.log)
+  execute('npm run jenny m', console.log)
   console.log('jenny matched stage')
-  execute('cd ..', log)
-  execute('git checkout dev', log)
+  execute('cd ..', console.log)
+  execute('git checkout dev', console.log)
   console.log('dev')
-  execute('cd i18n', log)
-  execute('npm run jenny m', log)
+  execute('cd i18n', console.log)
+  execute('npm run jenny m', console.log)
   console.log('jenny matched dev')
-  execute('npm run jenny d', log)
+  execute('npm run jenny d', console.log)
 }

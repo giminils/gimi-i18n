@@ -1,14 +1,15 @@
 /* eslint jest/expect-expect: 0 */
+// @ts-nocheck
 import {getTextStrings, languageCodes, gimiWebLanguageCodes, languageCodesForTranslation} from '../index'
 import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
 let languageCodesHolder = languageCodes
-const Slack = require('node-slack')
+var Slack = require('node-slack');
 
 jest.disableAutomock()
 
 describe('TextStrings', () => {
   test.skip('test should export in slack the length of text_strings', () => {
-    let stringLengthData
+    let stringLengthData: {status: string, data: Array<string>}
 
     languageCodes.forEach(languageCode => {
       stringLengthData = stringLenghtStatistic(getTextStrings('en'), getTextStrings(languageCode), 'en', languageCode)
@@ -27,14 +28,14 @@ describe('TextStrings', () => {
   })
 
   test('test should show where we have PLZ_TRANSLATE', () => {
-    const stringTagData = []
-    const jsonDataCheck = []
-    const jsonDataTranslate = []
-    const jsonEmmaTag = []
+    const stringTagData: Array<string> = []
+    const jsonDataCheck: Array<string> = []
+    const jsonDataTranslate: Array<string> = []
+    const jsonEmmaTag: Array<string> = []
 
     const textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web'] // 'moonshine'
 
-    const textStrings = {}
+    const textStrings: {[key: string]: string} = {}
     textStringsTypes.forEach(textStringsType => {
       textStrings[textStringsType] = {}
     })
@@ -73,7 +74,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          const displayObject: Object = {
+          const displayObject: object = {
             lang: '',
             path: [],
             count: [],
@@ -101,7 +102,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          const displayObject: Object = {
+          const displayObject: object = {
             lang: '',
             path: [],
             count: [],
@@ -129,7 +130,7 @@ describe('TextStrings', () => {
           }
 
         if (!isAdded) {
-          const displayObject: Object = {
+          const displayObject: object = {
             lang: '',
             path: [],
             count: [],
