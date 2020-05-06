@@ -7,8 +7,7 @@
     "isolatedModules": false,
     "jsx": "react-native",
     "lib": [
-      "es6",
-      "dom"
+      "es6"
     ],
     "moduleResolution": "node",
     "noEmit": true,

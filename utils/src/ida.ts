@@ -1,6 +1,5 @@
 
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-const fs = require('fs')
 
 let RunIda = (): any => {
   let files = ['config_AUD.json', 'config_CAD.json', 'config_DEF.json', 'config_DKK.json', 'config_EUR.json', 'config_GBP.json', 'config_INR.json', 'config_ISK.json', 'config_NOK.json',
