@@ -3119,6 +3119,6 @@
   "recurring_chore_stats_default_parent": "Denna uppgift kan göra %1$d rik.",
   "shareable_custom_card_title": "Jag designade kortet själv i Gimi-appen!",
   "sign_up_email_question": "Vad är din email?",
-  "swish_not_responding_title": "PLZ_CHECK Could not get a handshake from swish...",
-  "swish_not_responding_subtitle": "PLZ_CHECK We had problems confirming your payment. Please wait a bit to see if it went through before you try again."
+  "swish_not_responding_title": "Det där gick inte helt som planerat...",
+  "swish_not_responding_subtitle": "Vi kunde inte bekräfta din Swish-betalning. Vänta dock gärna en stund för att se om den gick igenom innan du försöker igen!"
 }
