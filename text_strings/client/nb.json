@@ -3119,6 +3119,6 @@
   "recurring_chore_stats_default_parent": "PLZ_TRANSLATE This chore might make %1$d rich.",
   "shareable_custom_card_title": "PLZ_TRANSLATE I designed this card myself in the Gimi app!",
   "sign_up_email_question": "PLZ_TRANSLATE what's your email?",
-  "swish_not_responding_title": "PLZ_TRANSLATE Could not get a handshake from swish...",
-  "swish_not_responding_subtitle": "PLZ_TRANSLATE We had problems confirming your payment. Please wait a bit to see if it went through before you try again."
+  "swish_not_responding_title": "Dette gikk ikke helt som planlagt...",
+  "swish_not_responding_subtitle": "Vi hadde problemer med å bekrefte Swish-betalingen din. Vent litt for å se om det gikk gjennom før du prøver igjen."
 }
