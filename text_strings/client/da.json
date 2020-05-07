@@ -3120,5 +3120,6 @@
   "shareable_custom_card_title": "PLZ_TRANSLATE I designed this card myself in the Gimi app!",
   "sign_up_email_question": "PLZ_TRANSLATE what's your email?",
   "swish_not_responding_title": "PLZ_TRANSLATE Could not get a handshake from swish...",
-  "swish_not_responding_subtitle": "PLZ_TRANSLATE We had problems confirming your payment. Please wait a bit to see if it went through before you try again."
+  "swish_not_responding_subtitle": "PLZ_TRANSLATE We had problems confirming your payment. Please wait a bit to see if it went through before you try again.",
+  "swish_timeout_intercom_message": "PLZ_TRANSLATE Something happened with my swish payment..."
 }
