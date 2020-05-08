@@ -281,14 +281,13 @@ export const getInfluencerAnswer = (step: number, lang: string | undefined = 'en
 
 export const getExperimentalCourses = () => ExperimentalCourses
 
-export function getText (langKey: any, values: Array<string|number>, textTransform: string = 'capitalize', textStrings: {[key: string]: string}): string {
+export function getText (langKey: string, values: Array<string|number>, textTransform: string = 'capitalize', textStrings: {[key: string]: string}): string {
   if (typeof textStrings === 'undefined') return ''
   if (!textStrings || !langKey) return ''
   let text = textStrings[langKey]
   if (!text) return ''
   text = removeTranslationHelpers(text)
   text = text.trim()
-
   text = applyValues(text, values)
   text = applyTransform(text, textTransform)
   return text
@@ -296,7 +295,7 @@ export function getText (langKey: any, values: Array<string|number>, textTransfo
 
 export const applyValues = (text: string, values: Array<string|number>): string => {
   if (!!values && Array.isArray(values)) values.forEach((item, index) => {
-    text = text.split(`%${index + 1}$d`).join(item ? item.toString() : '')
+    text = text.split(`%${index + 1}$d`).join(item !== undefined ? item.toString() : '')
   })
   return text
 }
