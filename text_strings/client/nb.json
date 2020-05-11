@@ -3124,5 +3124,6 @@
   "swish_timeout_intercom_message": "Min Swish-betaling gikk ikke! Kan du hjelpe meg?",
   "chore_successfully_deleted": "PLZ_TRANSLATE Chore was deleted",
   "chore_successfully_updated": "PLZ_TRANSLATE Chore was updated",
-  "general_approved_plural": "PLZ_TRANSLATE Approved"
+  "general_approved_plural": "PLZ_TRANSLATE Approved",
+  "chore_was_sent_for_approval": "PLZ_TRANSLATE Chore is sent for approval!"
 }
