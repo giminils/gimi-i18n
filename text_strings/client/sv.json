@@ -3127,5 +3127,6 @@
   "general_approved_plural": "Godkända",
   "chore_was_sent_for_approval": "PLZ_CHECK Chore is sent for approval!",
   "chore_was_rejected": "PLZ_CHECK Chore was rejected",
-  "chore_was_approved": "PLZ_CHECK Chore was approved"
+  "chore_was_approved": "PLZ_CHECK Chore was approved",
+  "chore_suggestion_accepted": "PLZ_CHECK Chore suggestion was accepted"
 }

@@ -3127,5 +3127,6 @@
   "general_approved_plural":"Approved",
   "chore_was_sent_for_approval":"Chore is sent for approval!",
   "chore_was_rejected":"Chore was rejected",
-  "chore_was_approved":"Chore was approved"
+  "chore_was_approved":"Chore was approved",
+  "chore_suggestion_accepted":"Chore suggestion was accepted"
 }

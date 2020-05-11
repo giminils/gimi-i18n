@@ -3127,5 +3127,6 @@
   "general_approved_plural": "PLZ_TRANSLATE Approved",
   "chore_was_sent_for_approval": "PLZ_TRANSLATE Chore is sent for approval!",
   "chore_was_rejected": "PLZ_TRANSLATE Chore was rejected",
-  "chore_was_approved": "PLZ_TRANSLATE Chore was approved"
+  "chore_was_approved": "PLZ_TRANSLATE Chore was approved",
+  "chore_suggestion_accepted": "PLZ_TRANSLATE Chore suggestion was accepted"
 }
