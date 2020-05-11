@@ -3123,5 +3123,6 @@
   "swish_not_responding_subtitle": "PLZ_TRANSLATE We had problems confirming your payment. Please wait a bit to see if it went through before you try again.",
   "swish_timeout_intercom_message": "PLZ_TRANSLATE Something happened with my swish payment...",
   "chore_successfully_deleted": "PLZ_TRANSLATE Chore was deleted",
-  "chore_successfully_updated": "PLZ_TRANSLATE Chore was updated"
+  "chore_successfully_updated": "PLZ_TRANSLATE Chore was updated",
+  "general_approved_plural": "PLZ_TRANSLATE Approved"
 }
