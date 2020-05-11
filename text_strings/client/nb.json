@@ -3121,5 +3121,6 @@
   "sign_up_email_question": "PLZ_TRANSLATE what's your email?",
   "swish_not_responding_title": "Dette gikk ikke helt som planlagt...",
   "swish_not_responding_subtitle": "Vi hadde problemer med å bekrefte Swish-betalingen din. Vent litt for å se om det gikk gjennom før du prøver igjen.",
-  "swish_timeout_intercom_message": "Min Swish-betaling gikk ikke! Kan du hjelpe meg?"
+  "swish_timeout_intercom_message": "Min Swish-betaling gikk ikke! Kan du hjelpe meg?",
+  "chore_successfully_deleted": "PLZ_TRANSLATE Chore was deleted"
 }

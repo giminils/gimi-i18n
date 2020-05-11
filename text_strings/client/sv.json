@@ -3121,5 +3121,6 @@
   "sign_up_email_question": "Vad är din email?",
   "swish_not_responding_title": "Det där gick inte helt som planerat...",
   "swish_not_responding_subtitle": "Vi kunde inte bekräfta din Swish-betalning. Vänta dock gärna en stund för att se om den gick igenom innan du försöker igen!",
-  "swish_timeout_intercom_message": "Min Swish-betalning gick inte igenom! Kan ni hjälpa mig?"
+  "swish_timeout_intercom_message": "Min Swish-betalning gick inte igenom! Kan ni hjälpa mig?",
+  "chore_successfully_deleted": "PLZ_CHECK Chore was deleted"
 }
