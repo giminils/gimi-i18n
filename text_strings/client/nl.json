@@ -3130,5 +3130,6 @@
   "chore_was_approved": "PLZ_TRANSLATE Chore was approved",
   "chore_suggestion_accepted": "PLZ_TRANSLATE Chore suggestion was accepted",
   "chores_to_be_done_status_message": "PLZ_TRANSLATE Nice! You only got %1$d chores left. You can do it.",
+  "chores_to_be_done_status_message_singular": "PLZ_TRANSLATE Nice! You only got %1$d chore left. You can do it.",
   "chores_to_be_done_status_message_done": "PLZ_TRANSLATE All chores are done, suggest a chore to earn more money!"
 }
