@@ -787,5 +787,9 @@
   "page.cardtest.subtitle": "Vil du ha ditt eget kort? Ta testen vår og bevis at du er klar til å håndtere dine egne penger",
   "ui.buttons.settings.cookies": "PLZ_TRANSLATE Cookie settings",
   "blogg.title": "Gimi-bloggen",
-  "blogg.subtitle": "Oppdag hvordan du og din familie kan få finansielle superskills!"
+  "blogg.subtitle": "Oppdag hvordan du og din familie kan få finansielle superskills!",
+  "pages.limits.table.section3.row5.col1": "PLZ_TRANSLATE Limits row 5 col 1",
+  "pages.limits.table.section3.row5.col2": "PLZ_TRANSLATE Limits row 5 col 2",
+  "pages.limits.table.section3.row6.col1": "PLZ_TRANSLATE Limits row 6 col 1",
+  "pages.limits.table.section3.row6.col2": "PLZ_TRANSLATE Limits row 6 col 2"
 }

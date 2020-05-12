@@ -787,5 +787,9 @@
   "page.cardtest.subtitle": "Redo för ett eget kort? Gör vårt test för att bevisa att du är mogen att ta hand om dina egna pengar.",
   "ui.buttons.settings.cookies": "Cookie settings",
   "blogg.title": "Gimi-bloggen",
-  "blogg.subtitle": "Upptäck hur ni kan få finansiella superskills i familjen!"
+  "blogg.subtitle": "Upptäck hur ni kan få finansiella superskills i familjen!",
+  "pages.limits.table.section3.row5.col1": "PLZ_CHECK Limits row 5 col 1",
+  "pages.limits.table.section3.row5.col2": "PLZ_CHECK Limits row 5 col 2",
+  "pages.limits.table.section3.row6.col1": "PLZ_CHECK Limits row 6 col 1",
+  "pages.limits.table.section3.row6.col2": "PLZ_CHECK Limits row 6 col 2"
 }

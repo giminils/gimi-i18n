@@ -787,5 +787,9 @@
   "page.cardtest.subtitle": "Do you want your own card? Take our test and prove that you are ready to handle your own money",
   "ui.buttons.settings.cookies": "Cookie settings",
   "blogg.title": "The Gimi Blog",
-  "blogg.subtitle": "Discover ideas for getting financial superskills in your family!"
+  "blogg.subtitle": "Discover ideas for getting financial superskills in your family!",
+  "pages.limits.table.section3.row5.col1": "Limits row 5 col 1",
+  "pages.limits.table.section3.row5.col2": "Limits row 5 col 2",
+  "pages.limits.table.section3.row6.col1": "Limits row 6 col 1",
+  "pages.limits.table.section3.row6.col2": "Limits row 6 col 2"
 }

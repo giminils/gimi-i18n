@@ -787,5 +787,9 @@
   "page.cardtest.subtitle": "PLZ_TRANSLATE Do you want your own card? Take our test and prove that you are ready to handle your own money",
   "ui.buttons.settings.cookies": "PLZ_TRANSLATE Cookie settings",
   "blogg.title": "PLZ_TRANSLATE The Gimi Blog",
-  "blogg.subtitle": "PLZ_TRANSLATE Financial superskills in a nutshell"
+  "blogg.subtitle": "PLZ_TRANSLATE Financial superskills in a nutshell",
+  "pages.limits.table.section3.row5.col1": "PLZ_TRANSLATE Limits row 5 col 1",
+  "pages.limits.table.section3.row5.col2": "PLZ_TRANSLATE Limits row 5 col 2",
+  "pages.limits.table.section3.row6.col1": "PLZ_TRANSLATE Limits row 6 col 1",
+  "pages.limits.table.section3.row6.col2": "PLZ_TRANSLATE Limits row 6 col 2"
 }
