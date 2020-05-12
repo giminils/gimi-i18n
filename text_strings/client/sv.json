@@ -3134,6 +3134,7 @@
   "chores_to_be_done_status_message_done": "PLZ_CHECK All chores are done, suggest a chore to earn more money!",
   "done_chores_status_message_parent": "PLZ_CHECK Wow %1$d is on fire with %2$d finished chores!",
   "done_chores_status_message_kid": "PLZ_CHECK Wow you are on fire with %1$d finished chores!",
-  "done_chores_status_message_single_parent": "PLZ_CHECK %1$d finished %1$d chore so far!",
-  "done_chores_status_message_single_kid": "PLZ_CHECK You have finished %1$d chore so far!"
+  "PLZ_COPY done_chores_status_message_single_parent": "%1$d finished %2$d chore so far!",
+  "done_chores_status_message_single_kid": "PLZ_CHECK You have finished %1$d chore so far!",
+  "done_chores_status_message_single_parent": "PLZ_CHECK %1$d finished %1$d chore so far!"
 }
