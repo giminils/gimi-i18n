@@ -3135,5 +3135,7 @@
   "done_chores_status_message_parent": "Wow %1$d is on fire with %2$d finished chores!",
   "done_chores_status_message_kid": "Wow you are on fire with %1$d finished chores!",
   "done_chores_status_message_single_parent": "%1$d finished %2$d chore so far!",
-  "done_chores_status_message_single_kid": "You have finished %1$d chore so far!"
+  "done_chores_status_message_single_kid": "You have finished %1$d chore so far!",
+  "suggested_chore_status_parent":"%1$d has suggested this chore.",
+  "suggested_chore_status_kid":"You suggested this chore"
 }

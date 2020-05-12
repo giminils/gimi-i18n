@@ -3135,5 +3135,7 @@
   "done_chores_status_message_parent": "PLZ_TRANSLATE Wow %1$d is on fire with %2$d finished chores!",
   "done_chores_status_message_kid": "PLZ_TRANSLATE Wow you are on fire with %1$d finished chores!",
   "done_chores_status_message_single_parent": "PLZ_TRANSLATE %1$d finished %1$d chore so far!",
-  "done_chores_status_message_single_kid": "PLZ_TRANSLATE You have finished %1$d chore so far!"
+  "done_chores_status_message_single_kid": "PLZ_TRANSLATE You have finished %1$d chore so far!",
+  "suggested_chore_status_parent": "PLZ_TRANSLATE %1$d has suggested this chore.",
+  "suggested_chore_status_kid": "PLZ_TRANSLATE You suggested this chore"
 }
