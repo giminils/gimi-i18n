@@ -3128,5 +3128,7 @@
   "chore_was_sent_for_approval": "PLZ_CHECK Chore is sent for approval!",
   "chore_was_rejected": "PLZ_CHECK Chore was rejected",
   "chore_was_approved": "PLZ_CHECK Chore was approved",
-  "chore_suggestion_accepted": "PLZ_CHECK Chore suggestion was accepted"
+  "chore_suggestion_accepted": "PLZ_CHECK Chore suggestion was accepted",
+  "chores_to_be_done_status_message": "PLZ_CHECK Nice! You only got %1$d chores left. You can do it.",
+  "chores_to_be_done_status_message_done": "PLZ_CHECK All chores are done, suggest a chore to earn more money!"
 }

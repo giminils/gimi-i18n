@@ -3128,5 +3128,7 @@
   "chore_was_sent_for_approval":"Chore is sent for approval!",
   "chore_was_rejected":"Chore was rejected",
   "chore_was_approved":"Chore was approved",
-  "chore_suggestion_accepted":"Chore suggestion was accepted"
+  "chore_suggestion_accepted":"Chore suggestion was accepted",
+  "chores_to_be_done_status_message":"Nice! You only got %1$d chores left. You can do it.",
+  "chores_to_be_done_status_message_done": "All chores are done, suggest a chore to earn more money!"
 }
