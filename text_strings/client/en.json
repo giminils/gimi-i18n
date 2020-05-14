@@ -3137,5 +3137,7 @@
   "done_chores_status_message_single_parent": "%1$d finished %2$d chore so far!",
   "done_chores_status_message_single_kid": "You have finished %1$d chore so far!",
   "suggested_chore_status_parent":"%1$d has suggested this chore.",
-  "suggested_chore_status_kid":"You suggested this chore"
+  "suggested_chore_status_kid":"You suggested this chore",
+  "swish_not_installed_title":"Swish is not installed...",
+  "swish_not_installed_subtitle": "You need to install the Swish app before you can do this payment"
 }

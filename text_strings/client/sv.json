@@ -3137,5 +3137,7 @@
   "done_chores_status_message_single_parent": "%1$d finished %2$d chore so far!",
   "done_chores_status_message_single_kid": "PLZ_CHECK You have finished %1$d chore so far!",
   "suggested_chore_status_parent": "PLZ_CHECK %1$d has suggested this chore.",
-  "suggested_chore_status_kid": "PLZ_CHECK You suggested this chore"
+  "suggested_chore_status_kid": "PLZ_CHECK You suggested this chore",
+  "swish_not_installed_title": "Swish är inte installerat...",
+  "swish_not_installed_subtitle": "PLZ_CHECK Du måste ladda ned Swish innan du kan utföra denna typen av betalning"
 }
