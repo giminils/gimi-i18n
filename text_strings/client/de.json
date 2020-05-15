@@ -3142,5 +3142,11 @@
   "swish_not_installed_subtitle": "PLZ_TRANSLATE You need to install the Swish app before you can do this payment",
   "chores_to_do_kid_status_message_more_than_3": "PLZ_TRANSLATE You've got %1$d chores to do. I believe in you!",
   "chores_to_do_kid_status_message_less_than_3": "PLZ_TRANSLATE Only %1$d chores left to do. Hard work pays off!",
-  "chores_to_do_kid_status_message_empty": "PLZ_TRANSLATE Empty here. Suggest a chore to your supporters!"
+  "chores_to_do_kid_status_message_empty": "PLZ_TRANSLATE Empty here. Suggest a chore to your supporters!",
+  "chores_pending_kid_status_message_more_than_3": "PLZ_TRANSLATE %1$d chores are pending. Remind you supporters!",
+  "chores_pending_kid_status_message_less_than_3": "PLZ_TRANSLATE %1$d chores are hoping to get approved!",
+  "chores_pending_kid_status_message_empty": "PLZ_TRANSLATE No chores are pending. Nice, huh?",
+  "chores_done_kid_status_message_more_than_3": "PLZ_TRANSLATE Wow! You've completed %1$d chores. I'm impressed!",
+  "chores_done_kid_status_message_less_than_3": "PLZ_TRANSLATE You've completed %1$d chores. You rock!",
+  "chores_done_kid_status_message_empty": "PLZ_TRANSLATE You have no completed chores... yet!"
 }
