@@ -3139,5 +3139,9 @@
   "suggested_chore_status_parent":"%1$d has suggested this chore.",
   "suggested_chore_status_kid":"You suggested this chore",
   "swish_not_installed_title":"Swish is not installed...",
-  "swish_not_installed_subtitle": "You need to install the Swish app before you can do this payment"
+  "swish_not_installed_subtitle": "You need to install the Swish app before you can do this payment",
+  "chores_to_do_kid_status_message_more_than_3":"You've got %1$d chores to do. I believe in you!",
+  "chores_to_do_kid_status_message_less_than_3": "Only %1$d chores left to do. Hard work pays off!",
+  "chores_to_do_kid_status_message_empty": "Empty here. Suggest a chore to your supporters!"
+
 }
