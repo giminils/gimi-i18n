@@ -3148,6 +3148,14 @@
   "chores_pending_kid_status_message_empty": "No chores are pending. Nice, huh?",
   "chores_done_kid_status_message_more_than_3": "Wow! You've completed %1$d chores. I'm impressed!",
   "chores_done_kid_status_message_less_than_3": "You've completed %1$d chores. You rock!",
-  "chores_done_kid_status_message_empty": "You have no completed chores... yet!"
-
+  "chores_done_kid_status_message_empty": "You have no completed chores... yet!",
+  "chores_to_do_parent_status_message_more_than_3": "%1$d has got %2$d chores to do.",
+  "chores_to_do_parent_status_message_less_than_3": "%1$d chores left to do. %2$d is killing it!",
+  "chores_to_do_parent_status_message_empty": "Empty here. Want to create a new chore?",
+  "chores_pending_parent_status_message_more_than_3": "%1$d chores to be approved. %2$d is on fire!",
+  "chores_pending_parent_status_message_less_than_3": "%1$d chores are hoping to get approved!",
+  "chores_pending_parent_status_message_empty": "Nothing here. %1$d is probably busy!",
+  "chores_done_parent_status_message_more_than_3": "%1$d completed chores. Impressive!",
+  "chores_done_parent_status_message_less_than_3": "%1$d completed %2$d chores, wow!",
+  "chores_done_parent_status_message_empty": "Nothing here. Have you approved all chores?"
 }
