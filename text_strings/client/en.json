@@ -3136,11 +3136,11 @@
   "done_chores_status_message_kid": "Wow you are on fire with %1$d finished chores!",
   "done_chores_status_message_single_parent": "%1$d finished %2$d chore so far!",
   "done_chores_status_message_single_kid": "You have finished %1$d chore so far!",
-  "suggested_chore_status_parent":"%1$d has suggested this chore.",
-  "suggested_chore_status_kid":"You suggested this chore",
-  "swish_not_installed_title":"Swish is not installed...",
+  "suggested_chore_status_parent": "%1$d has suggested this chore.",
+  "suggested_chore_status_kid": "You suggested this chore",
+  "swish_not_installed_title": "Swish is not installed...",
   "swish_not_installed_subtitle": "You need to install the Swish app before you can do this payment",
-  "chores_to_do_kid_status_message_more_than_3":"You've got %1$d chores to do. I believe in you!",
+  "chores_to_do_kid_status_message_more_than_3": "You've got %1$d chores to do. I believe in you!",
   "chores_to_do_kid_status_message_less_than_3": "PLZ_COPY A few chores left to do. Hard work pays off!",
   "chores_to_do_kid_status_message_empty": "Empty here. Suggest a chore to your supporters!",
   "chores_pending_kid_status_message_more_than_3": "%1$d chores are pending. Remind you supporters!",
@@ -3158,16 +3158,13 @@
   "chores_done_parent_status_message_more_than_3": "%1$d completed chores. Impressive!",
   "chores_done_parent_status_message_less_than_3": "PLZ_COPY %1$d is on fire, wow!",
   "chores_done_parent_status_message_empty": "Nothing here. Have you approved all chores?",
-  "chores_to_do_kid_without_parent":"Ready, set, invite a supporter! You can do chores to earn more money, but you need a supporter who can approve them. Go ahead and invite one!",
+  "chores_to_do_kid_without_parent": "Ready, set, invite a supporter! You can do chores to earn more money, but you need a supporter who can approve them. Go ahead and invite one!",
   "chores_pending_kid_without_parent": "This is where chores go to be approved. Once you've completed a chore, it's sent to your supporters for approval. Take a nap while waiting!",
   "chores_done_kid_without_parent": "Approved chores = money flow! When the chores are approved, they'll end up here. The amount you've earned is added to your next Payday.",
   "chores_to_do_first_time_kid_with_parent": "No chores here yet? Doing chores equals more money on Payday. You can suggest a chore to your supporters, or ask them to create one for you.",
   "chores_pending_first_time_kid_with_parent": "This is where chores go to be approved. Once you've completed a chore, it's sent to your supporters for approval. Take a nap while waiting!",
   "chores_done_first_time_kid_with_parent": "Approved chores = money flow! When the chores are approved, they'll end up here. The amount you've earned is added to your next Payday.",
-  "chores_to_do_first_time_parent":"Teach your child that hard work pays off. Doing chores is necessary to understand the concept of earning money. Add a chore to get started!",
+  "chores_to_do_first_time_parent": "Teach your child that hard work pays off. Doing chores is necessary to understand the concept of earning money. Add a chore to get started!",
   "chores_to_pending_time_parent": "This is where you approve chores. Once your child has completed a chore, it's sent here for approval.",
   "chores_done_first_time_parent": "Approved chores = more money. The earned amount will be automatically added to the next Payday. We'll do the counting!"
-
-
-
 }
