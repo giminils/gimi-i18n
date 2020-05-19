@@ -3164,7 +3164,7 @@
   "chores_to_do_first_time_kid_with_parent": "PLZ_CHECK No chores here yet? Doing chores equals more money on Payday. You can suggest a chore to your supporters, or ask them to create one for you.",
   "chores_pending_first_time_kid_with_parent": "PLZ_CHECK This is where chores go to be approved. Once you've completed a chore, it's sent to your supporters for approval. Take a nap while waiting!",
   "chores_done_first_time_kid_with_parent": "PLZ_CHECK Approved chores = money flow! When the chores are approved, they'll end up here. The amount you've earned is added to your next Payday.",
-  "chores_to_do_first_time_parent": "PLZ_CHECK Teach your child that hard work pays off. Doing chores is necessary to understand the concept of earning money. Add a chore to get started!",
-  "chores_to_pending_time_parent": "PLZ_CHECK This is where you approve chores. Once your child has completed a chore, it's sent here for approval.",
-  "chores_done_first_time_parent": "PLZ_CHECK Approved chores = more money. The earned amount will be automatically added to the next Payday. We'll do the counting!"
+  "chores_to_do_first_time_parent": "Lär ditt barn att hårt arbete lönar sig. Att få betalt för uppgifter är nödvändigt för att förstå hur man tjänar pengar. Skapa en uppgift för att komma igång!",
+  "chores_to_pending_time_parent": "Här godkänner du uppgifterna. När barnet har slutfört en uppgift, så skickas den hit för godkännande.",
+  "chores_done_first_time_parent": "Godkända uppgifter = mer pengar. Den intjänade summan adderas automatiskt till nästa Payday. Vi räknar åt er!"
 }
