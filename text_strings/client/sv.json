@@ -3054,7 +3054,7 @@
   "card_expires_end": "Expires end",
   "iap_could_not_bind_error": "Kunde inte koppla prenumerationen, kontakta supporten!",
   "promo_code_limit_reached": "Du har nått gränsen för antal kampanjkoder",
-  "signup_usertype_subtitle": "Föräldrar, välj inte barn här. Det kommer inte fungera!",
+  "signup_usertype_subtitle": "Här väljer du vilket konto du vill skapa.",
   "signup_usertype_kid_title": "Jag är ett barn",
   "signup_usertype_kid_1": "🤑 Tjäna pengar genom uppgifter",
   "signup_usertype_kid_2": "🌈 Spara till en dröm",
