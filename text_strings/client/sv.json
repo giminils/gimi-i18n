@@ -3167,5 +3167,6 @@
   "chores_to_do_first_time_parent": "Lär ditt barn att hårt arbete lönar sig. Att få betalt för uppgifter är nödvändigt för att förstå hur man tjänar pengar. Skapa en uppgift för att komma igång!",
   "chores_to_pending_time_parent": "Här godkänner du uppgifterna. När barnet har slutfört en uppgift, så skickas den hit för godkännande.",
   "chores_done_first_time_parent": "Godkända uppgifter = mer pengar. Den intjänade summan adderas automatiskt till nästa Payday. Vi räknar åt er!",
-  "chore_was_deleted": "PLZ_CHECK Chore was deleted!"
+  "chore_was_deleted": "PLZ_CHECK Chore was deleted!",
+  "chore_was_reactivated": "PLZ_CHECK Chore was reactivated!"
 }

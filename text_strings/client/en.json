@@ -3167,5 +3167,6 @@
   "chores_to_do_first_time_parent": "Teach your child that hard work pays off. Doing chores is necessary to understand the concept of earning money. Add a chore to get started!",
   "chores_to_pending_time_parent": "This is where you approve chores. Once your child has completed a chore, it's sent here for approval.",
   "chores_done_first_time_parent": "Approved chores = more money. The earned amount will be automatically added to the next Payday. We'll do the counting!",
-  "chore_was_deleted":"Chore was deleted!"
+  "chore_was_deleted":"Chore was deleted!",
+  "chore_was_reactivated":"Chore was reactivated!"
 }
