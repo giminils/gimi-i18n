@@ -3168,5 +3168,7 @@
   "chores_to_pending_time_parent": "PLZ_TRANSLATE This is where you approve chores. Once your child has completed a chore, it's sent here for approval.",
   "chores_done_first_time_parent": "PLZ_TRANSLATE Approved chores = more money. The earned amount will be automatically added to the next Payday. We'll do the counting!",
   "chore_was_deleted": "PLZ_TRANSLATE Chore was deleted!",
-  "chore_was_reactivated": "PLZ_TRANSLATE Chore was reactivated!"
+  "chore_was_reactivated": "PLZ_TRANSLATE Chore was reactivated!",
+  "chore_sent_for_approval_from_rejected": "PLZ_TRANSLATE Chore was sent for approval!",
+  "chore_suggestion_sent_for_approval": "PLZ_TRANSLATE Chore was sent for approval"
 }
