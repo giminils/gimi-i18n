@@ -3125,10 +3125,10 @@
   "chore_successfully_deleted": "Chore was deleted",
   "chore_successfully_updated": "Chore was updated",
   "general_approved_plural": "Approved",
-  "chore_was_sent_for_approval": "Chore is sent for approval!",
-  "chore_was_rejected": "Chore was rejected",
-  "chore_was_approved": "Chore was approved",
-  "chore_suggestion_accepted": "Chore suggestion was accepted",
+  "chore_was_sent_for_approval": "PLZ_COPY Well done! Chore was sent for approval.",
+  "chore_was_rejected": "PLZ_COPY Chore rejected!",
+  "chore_was_approved": "PLZ_COPY Chore approved!",
+  "chore_suggestion_accepted": "PLZ_COPY Suggested chore was added!",
   "chores_to_be_done_status_message": "Nice! You only got %1$d chores left. You can do it.",
   "chores_to_be_done_status_message_singular": "Nice! You only got %1$d chore left. You can do it.",
   "chores_to_be_done_status_message_done": "All chores are done, suggest a chore to earn more money!",
@@ -3167,8 +3167,8 @@
   "chores_to_do_first_time_parent": "Teach your child that hard work pays off. Doing chores is necessary to understand the concept of earning money. Add a chore to get started!",
   "chores_to_pending_time_parent": "This is where you approve chores. Once your child has completed a chore, it's sent here for approval.",
   "chores_done_first_time_parent": "Approved chores = more money. The earned amount will be automatically added to the next Payday. We'll do the counting!",
-  "chore_was_deleted":"Chore was deleted!",
-  "chore_was_reactivated":"Chore was reactivated!",
-  "chore_sent_for_approval_from_rejected":"Chore was sent for approval!",
-  "chore_suggestion_sent_for_approval":"Chore was sent for approval"
+  "chore_was_deleted": "PLZ_COPY Chore deleted!",
+  "chore_was_reactivated": "PLZ_COPY Chore reactivated!",
+  "chore_sent_for_approval_from_rejected": "PLZ_COPY Nice! Hope it gets approved this time.",
+  "chore_suggestion_sent_for_approval": "PLZ_COPY You suggested a chore!"
 }
