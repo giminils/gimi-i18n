@@ -3123,7 +3123,7 @@
   "swish_not_responding_subtitle": "We had problems confirming your Swish payment. Please wait a bit to see if it went through before you try again.",
   "swish_timeout_intercom_message": "My Swish payment didn't go through! Can you help me?",
   "chore_successfully_deleted": "Chore was deleted",
-  "chore_successfully_updated": "Chore was updated",
+  "chore_successfully_updated": "PLZ_COPY Chore updated!",
   "general_approved_plural": "Approved",
   "chore_was_sent_for_approval": "PLZ_COPY Well done! Chore was sent for approval.",
   "chore_was_rejected": "PLZ_COPY Chore rejected!",
