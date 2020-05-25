@@ -1862,7 +1862,7 @@
   "kid_pay_online_card_details": "Your card details",
   "card_blocked_warning": "You will not be able to pay online because your card is blocked",
   "card_is_on_its_way": "Done! The card is on it's way to you!",
-  "parent_create_chore_action_title": "You just created a chore!👏",
+  "parent_create_chore_action_title": "PLZ_COPY Chore created!",
   "parent_create_chore_action_desc": "%1$d will be notified and reminded!",
   "general_delete_conection": "Delete connection",
   "parentrelation_overview_for_parent_subtitle": "Settings for %1$d",
