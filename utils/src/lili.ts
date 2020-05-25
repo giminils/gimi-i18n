@@ -9,8 +9,9 @@ let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 let copyEn: Array<string> = []
 let removePLzCopy = (enTextFile: {[key: string]: string}): any => {
   Object.keys(enTextFile).forEach(key => {
-    if (enTextFile[key].includes(PLZ_COPY))
+    if (enTextFile[key].includes(PLZ_COPY)) {
       enTextFile[key] = enTextFile[key].replace(PLZ_COPY + ' ', '')
+    }
   })
   return enTextFile
 }
@@ -20,15 +21,14 @@ let removeAndSave = (filePath: string): any => {
   let langPath = getPath('en.json') // Edit here for what language to use
   let enTextFile = fs3.readFileSync(langPath, {encoding: 'utf8'})
   let parsedText: {[key: string]: string} = JSON.parse(enTextFile)
-  let updateEnTextFile = { ...parsedText}
+  let updateEnTextFile = {...parsedText}
 
-  enTextFile = removePLzCopy(updateEnTextFile)
-  updateEnTextFile = {...updateEnTextFile, ...parsedText}
+  updateEnTextFile = removePLzCopy(updateEnTextFile)
   let stringifieddUpdateEnTextFile = JSON.stringify(updateEnTextFile, undefined, 2)
-
   fs3.unlinkSync(langPath)
   fs3.writeFileSync(langPath, stringifieddUpdateEnTextFile, {encoding: 'utf8'})
 }
+
 let runLili = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
   let langPath = getPath('en.json') // Edit here for what language to use
@@ -73,8 +73,8 @@ let runLili = (filePath: string): any => {
     syncTextStrings(languageCode)
   })
 
-  copyEn.forEach(pathsa => {
-    removeAndSave(pathsa)
+  copyEn.forEach(path => {
+    removeAndSave(path)
   })
 
   // lang = JSON.stringify(lang, undefined, 2)
