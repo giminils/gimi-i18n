@@ -3122,7 +3122,6 @@
   "swish_not_responding_title": "Dette gikk ikke helt som planlagt...",
   "swish_not_responding_subtitle": "Vi hadde problemer med å bekrefte Swish-betalingen din. Vent litt for å se om det gikk gjennom før du prøver igjen.",
   "swish_timeout_intercom_message": "Min Swish-betaling gikk ikke! Kan du hjelpe meg?",
-  "chore_successfully_deleted": "PLZ_TRANSLATE Chore was deleted",
   "chore_successfully_updated": "PLZ_TRANSLATE Chore updated!",
   "general_approved_plural": "PLZ_TRANSLATE Approved",
   "chore_was_sent_for_approval": "PLZ_TRANSLATE Well done! Chore was sent for approval.",
