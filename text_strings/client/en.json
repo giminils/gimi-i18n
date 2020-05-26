@@ -3151,7 +3151,7 @@
   "chores_to_do_parent_status_message_more_than_3": "PLZ_COPY %2$d has got %1$d chores to do.",
   "chores_to_do_parent_status_message_less_than_3": "%1$d to go. %2$d is killing it!",
   "chores_to_do_parent_status_message_empty": "Empty here. Want to create a new chore?",
-  "chores_pending_parent_status_message_more_than_3": "%1$d chores to be approved. %2$d is on fire!",
+  "chores_pending_parent_status_message_more_than_3": "%1$d chores waiting to be approved. %2$d is on fire!",
   "chores_pending_parent_status_message_less_than_3": "These chores are hoping to get approved!",
   "chores_pending_parent_status_message_empty": "Nothing here. %1$d is probably busy!",
   "chores_done_parent_status_message_more_than_3": "%1$d completed chores. Impressive!",
