@@ -1481,7 +1481,7 @@
   "confirmation_message_withdraw_success": "%1$d har dragits av",
   "confirmation_message_deposit_success": "%1$d har fyllts på",
   "confirmation_message_suggested_enabled": "Uppgift har lagts till!",
-  "confirmation_message_approved_chore": "Klirr! Uppgift har godkänts!",
+  "confirmation_message_approved_chore": "Uppgift godkänd!",
   "general_needs_minimal_value": "Minsta summa för överföring är %1$d",
   "general_minimal_value": "Du behöver överföra mer än den summan för att det ska gå igenom.",
   "general_getting_data": "Hämtar data...",
