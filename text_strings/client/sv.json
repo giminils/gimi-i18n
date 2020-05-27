@@ -3148,7 +3148,7 @@
   "chores_done_kid_status_message_more_than_3": "Wow! Du har gjort %1$d uppgifter. Jag är imponerad!",
   "chores_done_kid_status_message_less_than_3": "Klar. Du är så snabb!",
   "chores_done_kid_status_message_empty": "Du har inga färdiga uppgifter... ännu!",
-  "chores_to_do_parent_status_message_more_than_3": "%1$d har %2$d uppgifter att göra.",
+  "chores_to_do_parent_status_message_more_than_3": "%2$d har %1$d uppgifter att göra.",
   "chores_to_do_parent_status_message_less_than_3": "%1$d kvar. %2$d är så snabb!",
   "chores_to_do_parent_status_message_empty": "Tomt här. Vill du skapa en ny uppgift?",
   "chores_pending_parent_status_message_more_than_3": "%1$d uppgifter att godkänna. %2$d är snabb!",
