@@ -285,6 +285,7 @@
   "general_assignees": "osallistujat",
   "general_validity": "kuinka usein",
   "general_description": "kuvaus",
+  "general_statistics": "PLZ_TRANSLATE Statistics",
   "require_proof": "kuvatodiste",
   "general_auto_approve": "Hyväksytty automaattisesti",
   "general_suggest_task": "ehdota askare",

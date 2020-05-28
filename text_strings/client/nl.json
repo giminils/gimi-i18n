@@ -285,6 +285,7 @@
   "general_assignees": "deelnemers",
   "general_validity": "hoe vaak",
   "general_description": "beschrijving",
+  "general_statistics": "PLZ_TRANSLATE Statistics",
   "require_proof": "fotobewijs",
   "general_auto_approve": "Automatisch goedgekeurd",
   "general_suggest_task": "suggereer klusje",

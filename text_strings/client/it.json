@@ -285,6 +285,7 @@
   "general_assignees": "partecipanti",
   "general_validity": "quanto spesso",
   "general_description": "descrizione",
+  "general_statistics": "PLZ_TRANSLATE Statistics",
   "require_proof": "foto prova",
   "general_auto_approve": "Approvato automaticamente",
   "general_suggest_task": "suggerisci faccenda",

@@ -285,6 +285,7 @@
   "general_assignees": "participants",
   "general_validity": "tous les combien",
   "general_description": "description",
+  "general_statistics": "PLZ_TRANSLATE Statistics",
   "require_proof": "preuve photo",
   "general_auto_approve": "Approuvé automatiquement",
   "general_suggest_task": "suggérer une tâche",

@@ -285,6 +285,7 @@
   "general_assignees": "Teilnehmer",
   "general_validity": "wie oft",
   "general_description": "Beschreibung",
+  "general_statistics": "PLZ_TRANSLATE Statistics",
   "require_proof": "Bildbeweis",
   "general_auto_approve": "automatisch genehmigt",
   "general_suggest_task": "schlage Arbeit vor",
