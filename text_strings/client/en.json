@@ -673,7 +673,7 @@
   "activate_new_card_show_pin_title": "the PIN code for your new card",
   "activate_card_show_pin_title": "the PIN code for your card",
   "activate_card_show_pin_desc": "...is secret. Don't share it with anyone. Don't let anyone see it. Ready?",
-  "activate_card_showing_pin_desc": "Remember it. Don't write it down. If you forget it you can retrieve it in the app.",
+  "activate_card_showing_pin_desc": "Remember it. Don't write it down. If you forget it you can retrieve it in the app. Doesn't show? Try logging out and back in!",
   "general_show_pin": "show PIN code",
   "card_activation_success_title": "your card is activated!",
   "card_activation_success_desc": "Success! You can now spend your own money",
