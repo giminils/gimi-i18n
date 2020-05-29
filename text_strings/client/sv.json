@@ -673,7 +673,7 @@
   "activate_new_card_show_pin_title": "PIN-koden till Gimi-kortet",
   "activate_card_show_pin_title": "PIN-koden till Gimi-kortet",
   "activate_card_show_pin_desc": "...är hemlig. Dela den inte med någon. Låt ingen annan se den. Redo?",
-  "activate_card_showing_pin_desc": "Kom ihåg den. Skriv inte ned den. Om du glömmer den kan du hitta den i appen.",
+  "activate_card_showing_pin_desc": "Kom ihåg den. Skriv inte ned den. Om du glömmer den kan du hitta den i appen. Visas den inte? Prova att logga ut och in en gång!",
   "general_show_pin": "visa PIN-kod",
   "card_activation_success_title": "ditt kort har blivit aktiverat!",
   "card_activation_success_desc": "Great success! Du kan nu spendera dina egna pengar",
