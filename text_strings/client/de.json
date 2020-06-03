@@ -3191,5 +3191,6 @@
   "chores_update_desc": "PLZ_TRANSLATE We have organized chores better with an improved overview and tabs. This should make it easier for you and your kid to keep track of the weekly chores",
   "general_chores_done": "PLZ_TRANSLATE done",
   "next_weekly_allowance": "PLZ_TRANSLATE Next Allowance",
-  "next_monthly_allowance": "PLZ_TRANSLATE Next Allowance"
+  "next_monthly_allowance": "PLZ_TRANSLATE Next Allowance",
+  "general_accounts": "PLZ_TRANSLATE Accounts"
 }

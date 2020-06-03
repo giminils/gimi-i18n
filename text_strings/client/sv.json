@@ -3191,5 +3191,6 @@
   "chores_update_desc": "Vi har uppdaterat uppgifter-vyn med en förbättrad överblick och flikar. Det kommer att göra det enklare för dig och ditt barn att hålla koll på veckans uppgifter.",
   "general_chores_done": "Godkända",
   "next_weekly_allowance": "Nästa veckopeng",
-  "next_monthly_allowance": "Nästa månadspeng"
+  "next_monthly_allowance": "Nästa månadspeng",
+  "general_accounts": "PLZ_CHECK Accounts"
 }
