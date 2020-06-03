@@ -3189,5 +3189,7 @@
   "chore_suggestion_sent_for_approval": "Du har föreslagit en uppgift!",
   "chores_update_header": "Spana in den nya uppgifter-vyn!",
   "chores_update_desc": "Vi har uppdaterat uppgifter-vyn med en förbättrad överblick och flikar. Det kommer att göra det enklare för dig och ditt barn att hålla koll på veckans uppgifter.",
-  "general_chores_done": "Godkända"
+  "general_chores_done": "Godkända",
+  "next_weekly_allowance": "Nästa veckopeng",
+  "next_monthly_allowance": "Nästa månadspeng"
 }

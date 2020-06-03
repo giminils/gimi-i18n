@@ -3189,5 +3189,7 @@
   "chore_suggestion_sent_for_approval": "PLZ_TRANSLATE You suggested a chore!",
   "chores_update_header": "PLZ_TRANSLATE Chores just got a fresh new look!",
   "chores_update_desc": "PLZ_TRANSLATE We have organized chores better with an improved overview and tabs. This should make it easier for you and your kid to keep track of the weekly chores",
-  "general_chores_done": "PLZ_TRANSLATE done"
+  "general_chores_done": "PLZ_TRANSLATE done",
+  "next_weekly_allowance": "PLZ_TRANSLATE Next Allowance",
+  "next_monthly_allowance": "PLZ_TRANSLATE Next Allowance"
 }
