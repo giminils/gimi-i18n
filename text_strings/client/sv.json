@@ -3201,5 +3201,10 @@
   "general_dream_contribute": "PLZ_CHECK Contribute",
   "setup_allowance_title": "PLZ_CHECK Allowance",
   "setup_allowance_desc": "PLZ_CHECK Setup to get started",
-  "general_setup": "PLZ_CHECK Set up"
+  "general_setup": "PLZ_CHECK Set up",
+  "good_morgning_message": "PLZ_CHECK Good morning %1$d!",
+  "good_day_message": "PLZ_CHECK Good day %1$d!",
+  "good_afternoon_message": "PLZ_CHECK Good afternoon %1$d",
+  "good_night_message": "PLZ_CHECK Good night %1$d",
+  "default_hello_message": "PLZ_CHECK Hello %1$d"
 }

@@ -3201,5 +3201,10 @@
   "general_dream_contribute": "PLZ_TRANSLATE Contribute",
   "setup_allowance_title": "PLZ_TRANSLATE Allowance",
   "setup_allowance_desc": "PLZ_TRANSLATE Setup to get started",
-  "general_setup": "PLZ_TRANSLATE Set up"
+  "general_setup": "PLZ_TRANSLATE Set up",
+  "good_morgning_message": "PLZ_TRANSLATE Good morning %1$d!",
+  "good_day_message": "PLZ_TRANSLATE Good day %1$d!",
+  "good_afternoon_message": "PLZ_TRANSLATE Good afternoon %1$d",
+  "good_night_message": "PLZ_TRANSLATE Good night %1$d",
+  "default_hello_message": "PLZ_TRANSLATE Hello %1$d"
 }

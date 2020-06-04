@@ -3201,5 +3201,11 @@
   "general_dream_contribute":"Contribute",
   "setup_allowance_title":"Allowance",
   "setup_allowance_desc": "Setup to get started",
-  "general_setup":"Set up"
+  "general_setup":"Set up",
+  "good_morgning_message":"Good morning %1$d!",
+  "good_day_message":"Good day %1$d!",
+  "good_afternoon_message":"Good afternoon %1$d",
+  "good_night_message":"Good night %1$d",
+  "default_hello_message":"Hello %1$d"
+
 }
