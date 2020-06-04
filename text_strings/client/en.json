@@ -3192,5 +3192,7 @@
   "general_chores_done": "done",
   "next_weekly_allowance": "Next Allowance",
   "next_monthly_allowance": "Next Allowance",
-  "general_accounts":"Accounts"
+  "general_accounts":"Accounts",
+  "general_active_at":"Active %1$d",
+  "has_not_logged_in":"Has not logged in"
 }

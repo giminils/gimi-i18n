@@ -3192,5 +3192,7 @@
   "general_chores_done": "Godkända",
   "next_weekly_allowance": "Nästa veckopeng",
   "next_monthly_allowance": "Nästa månadspeng",
-  "general_accounts": "PLZ_CHECK Accounts"
+  "general_accounts": "PLZ_CHECK Accounts",
+  "general_active_at": "PLZ_CHECK Active %1$d",
+  "has_not_logged_in": "PLZ_CHECK Has not logged in"
 }

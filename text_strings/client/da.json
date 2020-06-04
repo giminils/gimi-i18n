@@ -3192,5 +3192,7 @@
   "general_chores_done": "PLZ_TRANSLATE done",
   "next_weekly_allowance": "PLZ_TRANSLATE Next Allowance",
   "next_monthly_allowance": "PLZ_TRANSLATE Next Allowance",
-  "general_accounts": "PLZ_TRANSLATE Accounts"
+  "general_accounts": "PLZ_TRANSLATE Accounts",
+  "general_active_at": "PLZ_TRANSLATE Active %1$d",
+  "has_not_logged_in": "PLZ_TRANSLATE Has not logged in"
 }
