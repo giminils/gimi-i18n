@@ -3194,5 +3194,9 @@
   "next_monthly_allowance": "PLZ_TRANSLATE Next Allowance",
   "general_accounts": "PLZ_TRANSLATE Accounts",
   "general_active_at": "PLZ_TRANSLATE Active %1$d",
-  "has_not_logged_in": "PLZ_TRANSLATE Has not logged in"
+  "has_not_logged_in": "PLZ_TRANSLATE Has not logged in",
+  "general_card_balance": "PLZ_TRANSLATE Card balance",
+  "general_amount": "PLZ_TRANSLATE Amount",
+  "update_amount": "PLZ_TRANSLATE Update amount",
+  "general_dream_contribute": "PLZ_TRANSLATE Contribute"
 }

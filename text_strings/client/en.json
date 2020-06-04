@@ -3194,5 +3194,9 @@
   "next_monthly_allowance": "Next Allowance",
   "general_accounts":"Accounts",
   "general_active_at":"Active %1$d",
-  "has_not_logged_in":"Has not logged in"
+  "has_not_logged_in":"Has not logged in",
+  "general_card_balance":"Card balance",
+  "general_amount":"Amount",
+  "update_amount":"Update amount",
+  "general_dream_contribute":"Contribute"
 }
