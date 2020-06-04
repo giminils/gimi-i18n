@@ -3198,5 +3198,8 @@
   "general_card_balance": "PLZ_CHECK Card balance",
   "general_amount": "PLZ_CHECK Amount",
   "update_amount": "PLZ_CHECK Update amount",
-  "general_dream_contribute": "PLZ_CHECK Contribute"
+  "general_dream_contribute": "PLZ_CHECK Contribute",
+  "setup_allowance_title": "PLZ_CHECK Allowance",
+  "setup_allowance_desc": "PLZ_CHECK Setup to get started",
+  "general_setup": "PLZ_CHECK Set up"
 }

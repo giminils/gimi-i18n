@@ -3198,5 +3198,8 @@
   "general_card_balance":"Card balance",
   "general_amount":"Amount",
   "update_amount":"Update amount",
-  "general_dream_contribute":"Contribute"
+  "general_dream_contribute":"Contribute",
+  "setup_allowance_title":"Allowance",
+  "setup_allowance_desc": "Setup to get started",
+  "general_setup":"Set up"
 }

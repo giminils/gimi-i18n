@@ -3198,5 +3198,8 @@
   "general_card_balance": "PLZ_TRANSLATE Card balance",
   "general_amount": "PLZ_TRANSLATE Amount",
   "update_amount": "PLZ_TRANSLATE Update amount",
-  "general_dream_contribute": "PLZ_TRANSLATE Contribute"
+  "general_dream_contribute": "PLZ_TRANSLATE Contribute",
+  "setup_allowance_title": "PLZ_TRANSLATE Allowance",
+  "setup_allowance_desc": "PLZ_TRANSLATE Setup to get started",
+  "general_setup": "PLZ_TRANSLATE Set up"
 }
