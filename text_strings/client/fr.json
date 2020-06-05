@@ -3207,5 +3207,6 @@
   "good_afternoon_message": "PLZ_TRANSLATE Good afternoon %1$d!",
   "good_night_message": "PLZ_TRANSLATE Good night %1$d!",
   "default_hello_message": "PLZ_TRANSLATE Hello %1$d!",
-  "max_amount_of_kids_hint": "PLZ_TRANSLATE Have up to %1$d children"
+  "max_amount_of_kids_hint": "PLZ_TRANSLATE Have up to %1$d children",
+  "chat_with_piggy": "PLZ_TRANSLATE Chat with Piggy"
 }
