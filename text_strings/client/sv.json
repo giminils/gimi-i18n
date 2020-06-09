@@ -1537,7 +1537,7 @@
   "card_was_online_payment_blocked_confirmation_message": "Betalningar online har spärrats",
   "card_was_atm_unblocked_confirmation_message": "Uttag från bankomat upplåst",
   "card_was_atm_blocked_confirmation_message": "Uttag från bankomat låst",
-  "general_complete": "Utförd",
+  "general_complete": "Klar",
   "rejected_chore_action_title": "Du godkände inte %1$d",
   "rejected_chore_action_desc": "%1$d kommer ges en ny chans att utföra uppgiften!",
   "error_fetching_card_subscription_prices": "Kunde inte hämta priserna för Gimi Master.",
