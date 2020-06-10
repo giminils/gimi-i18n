@@ -3208,5 +3208,6 @@
   "good_night_message": "God natt %1$d!",
   "default_hello_message": "Hej %1$d!",
   "max_amount_of_kids_hint": "Lägg till upp till %1$d barn",
-  "chat_with_piggy": "Chatta med Piggy"
+  "chat_with_piggy": "Chatta med Piggy",
+  "general_for_chores": "PLZ_CHECK For chores"
 }

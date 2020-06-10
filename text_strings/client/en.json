@@ -3208,5 +3208,6 @@
   "good_night_message": "Good night %1$d!",
   "default_hello_message": "Hello %1$d!",
   "max_amount_of_kids_hint": "Have up to %1$d children",
-  "chat_with_piggy":"PLZ_COPY Chat with Piggy"
+  "chat_with_piggy":"PLZ_COPY Chat with Piggy",
+  "general_for_chores": "For chores"
 }
