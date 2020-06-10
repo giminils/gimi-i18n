@@ -3211,5 +3211,6 @@
   "chat_with_piggy": "Chatta med Piggy",
   "general_for_chores": "PLZ_CHECK For chores",
   "general_earned_this_month": "PLZ_CHECK Earned this month",
-  "general_earned_this_year": "PLZ_CHECK Earned this year"
+  "general_earned_this_year": "PLZ_CHECK Earned this year",
+  "wish_list_desc": "PLZ_CHECK What do you want the second most?"
 }

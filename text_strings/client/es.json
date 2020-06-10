@@ -3211,5 +3211,6 @@
   "chat_with_piggy": "PLZ_TRANSLATE Chat with Piggy",
   "general_for_chores": "PLZ_TRANSLATE For chores",
   "general_earned_this_month": "PLZ_TRANSLATE Earned this month",
-  "general_earned_this_year": "PLZ_TRANSLATE Earned this year"
+  "general_earned_this_year": "PLZ_TRANSLATE Earned this year",
+  "wish_list_desc": "PLZ_TRANSLATE What do you want the second most?"
 }
