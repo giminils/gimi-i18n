@@ -3212,5 +3212,10 @@
   "general_for_chores": "For chores",
   "general_earned_this_month":"Earned this month",
   "general_earned_this_year": "Earned this year",
-  "wish_list_desc":"What do you want the second most?"
+  "wish_list_desc":"What do you want the second most?",
+  "card_not_ordered": "Not ordered",
+  "card_is_issued": "Card is on its way",
+  "card_is_lost_stolen": "Card is locked",
+  "accounts_total": "Accounts total %1$d%2$d",
+  "accounts_ask_for_card": "Ask for card"
 }

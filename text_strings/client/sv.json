@@ -3212,5 +3212,10 @@
   "general_for_chores": "PLZ_CHECK For chores",
   "general_earned_this_month": "PLZ_CHECK Earned this month",
   "general_earned_this_year": "PLZ_CHECK Earned this year",
-  "wish_list_desc": "PLZ_CHECK What do you want the second most?"
+  "wish_list_desc": "PLZ_CHECK What do you want the second most?",
+  "card_not_ordered": "PLZ_CHECK Not ordered",
+  "card_is_issued": "PLZ_CHECK Card is on its way",
+  "card_is_lost_stolen": "PLZ_CHECK Card is locked",
+  "accounts_total": "PLZ_CHECK Accounts total %1$d%2$d",
+  "accounts_ask_for_card": "PLZ_CHECK Ask for card"
 }

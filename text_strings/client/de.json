@@ -3212,5 +3212,10 @@
   "general_for_chores": "PLZ_TRANSLATE For chores",
   "general_earned_this_month": "PLZ_TRANSLATE Earned this month",
   "general_earned_this_year": "PLZ_TRANSLATE Earned this year",
-  "wish_list_desc": "PLZ_TRANSLATE What do you want the second most?"
+  "wish_list_desc": "PLZ_TRANSLATE What do you want the second most?",
+  "card_not_ordered": "PLZ_TRANSLATE Not ordered",
+  "card_is_issued": "PLZ_TRANSLATE Card is on its way",
+  "card_is_lost_stolen": "PLZ_TRANSLATE Card is locked",
+  "accounts_total": "PLZ_TRANSLATE Accounts total %1$d%2$d",
+  "accounts_ask_for_card": "PLZ_TRANSLATE Ask for card"
 }
