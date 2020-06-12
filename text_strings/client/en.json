@@ -3217,5 +3217,10 @@
   "card_is_issued": "Card is on its way",
   "card_is_lost_stolen": "Card is locked",
   "accounts_total": "Accounts total %1$d%2$d",
-  "accounts_ask_for_card": "Ask for card"
+  "accounts_ask_for_card": "Ask for card",
+  "accounts_gimi_card": "Gimi card",
+  "accounts_vault": "Vault",
+  "accounts_piggy_back": "Piggy bank",
+  "accounts_no_spending_history": "No spending history...",
+  "accounts_no_purchases": "No purchases yet..."
 }
