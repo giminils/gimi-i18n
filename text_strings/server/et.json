@@ -490,5 +490,6 @@
   "ADGEPU016_notification_title": "PLZ_TRANSLATE {child.nickname} passed the card test, check out the score 🎖",
   "ADGEPU016_push_title": "PLZ_TRANSLATE {child.nickname} nailed the test! 👏",
   "ADGEPU017_notification_title": "PLZ_TRANSLATE {child.nickname} failed the card test. Better practice before getting a card",
-  "ADGEON007_notification_title": "PLZ_TRANSLATE Still no child connected. Send another invite?"
+  "ADGEON007_notification_title": "PLZ_TRANSLATE Still no child connected. Send another invite?",
+  "ADGERE004_push_title": "PLZ_TRANSLATE {child.nickname} is done with {chore.title}. Will be auto approved in 24h"
 }
