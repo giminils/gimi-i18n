@@ -489,5 +489,6 @@
   "CHGEON032_push_title": "Testa dina spenderarskills med Gimis test 🛍",
   "ADGEPU016_notification_title": "{child.nickname} klarade korttestet, spana in resultatet 🎖",
   "ADGEPU016_push_title": "{child.nickname} klarade testet! 👏",
-  "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet"
+  "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet",
+  "ADGEON007_notification_title": "PLZ_CHECK Still no child connected. Send another invite?"
 }

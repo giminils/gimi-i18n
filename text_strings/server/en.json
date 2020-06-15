@@ -489,5 +489,6 @@
   "CHGEON032_push_title": "Test your spending skills with Gimi’s test 🛍",
   "ADGEPU016_notification_title": "{child.nickname} passed the card test, check out the score 🎖",
   "ADGEPU016_push_title": "{child.nickname} nailed the test! 👏",
-  "ADGEPU017_notification_title": "{child.nickname} failed the card test. Better practice before getting a card"
+  "ADGEPU017_notification_title": "{child.nickname} failed the card test. Better practice before getting a card",
+  "ADGEON007_notification_title": "Still no child connected. Send another invite?"
 }
