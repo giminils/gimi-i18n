@@ -3220,5 +3220,6 @@
   "accounts_ask_for_card": "Ask for card",
   "subscription_error_in_validation": "Subscriptionis in validation, please contact support if problem persists",
   "subscription_error_already_has_sub":"Kid already has a sub...",
-  "subscription_error_general":"Error validating subscription, please contact support"
+  "subscription_error_general":"Error validating subscription, please contact support",
+  "no_goal_parent_home":"No goal set"
 }

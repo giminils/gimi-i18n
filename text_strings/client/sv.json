@@ -3220,5 +3220,6 @@
   "accounts_ask_for_card": "PLZ_CHECK Ask for card",
   "subscription_error_in_validation": "PLZ_CHECK Subscriptionis in validation, please contact support if problem persists",
   "subscription_error_already_has_sub": "PLZ_CHECK Kid already has a sub...",
-  "subscription_error_general": "PLZ_CHECK Error validating subscription, please contact support"
+  "subscription_error_general": "PLZ_CHECK Error validating subscription, please contact support",
+  "no_goal_parent_home": "PLZ_CHECK No goal set"
 }
