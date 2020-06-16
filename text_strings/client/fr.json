@@ -3217,5 +3217,8 @@
   "card_is_issued": "PLZ_TRANSLATE Card is on its way",
   "card_is_lost_stolen": "PLZ_TRANSLATE Card is locked",
   "accounts_total": "PLZ_TRANSLATE Accounts total %1$d%2$d",
-  "accounts_ask_for_card": "PLZ_TRANSLATE Ask for card"
+  "accounts_ask_for_card": "PLZ_TRANSLATE Ask for card",
+  "subscription_error_in_validation": "PLZ_TRANSLATE Subscriptionis in validation, please contact support if problem persists",
+  "subscription_error_already_has_sub": "PLZ_TRANSLATE Kid already has a sub...",
+  "subscription_error_general": "PLZ_TRANSLATE Error validating subscription, please contact support"
 }

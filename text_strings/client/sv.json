@@ -3217,5 +3217,8 @@
   "card_is_issued": "PLZ_CHECK Card is on its way",
   "card_is_lost_stolen": "PLZ_CHECK Card is locked",
   "accounts_total": "PLZ_CHECK Accounts total %1$d%2$d",
-  "accounts_ask_for_card": "PLZ_CHECK Ask for card"
+  "accounts_ask_for_card": "PLZ_CHECK Ask for card",
+  "subscription_error_in_validation": "PLZ_CHECK Subscriptionis in validation, please contact support if problem persists",
+  "subscription_error_already_has_sub": "PLZ_CHECK Kid already has a sub...",
+  "subscription_error_general": "PLZ_CHECK Error validating subscription, please contact support"
 }
