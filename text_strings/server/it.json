@@ -489,5 +489,14 @@
   "CHGEON032_push_title": "Metti alla prova le tue abilità di guadagno con il test di Gimi 🛍",
   "ADGEPU016_notification_title": "PLZ_TRANSLATE {child.nickname} passed the card test, check out the score 🎖",
   "ADGEPU016_push_title": "PLZ_TRANSLATE {child.nickname} nailed the test! 👏",
-  "ADGEPU017_notification_title": "PLZ_TRANSLATE {child.nickname} failed the card test. Better practice before getting a card"
+  "ADGEPU017_notification_title": "PLZ_TRANSLATE {child.nickname} failed the card test. Better practice before getting a card",
+  "ADGEON007_notification_title": "PLZ_TRANSLATE Still no child connected. Send another invite?",
+  "ADGERE004_push_title": "PLZ_TRANSLATE {child.nickname} is done with {chore.title}. Will be auto approved in 24h",
+  "ADGERE042_notification_title": "PLZ_TRANSLATE You got a request from {child.nickname}! 💳",
+  "ADPRON010_notification_title": "PLZ_TRANSLATE {child.nickname} made a first purchase with the Gimi card",
+  "ADPRRE005_notification_title": "PLZ_TRANSLATE {child.nickname} marked card as lost",
+  "ADPRRE006_notification_title": "PLZ_TRANSLATE Order new card here",
+  "CHGECU001_push_title": "PLZ_TRANSLATE Your Gimi account has been deleted. Welcome back anytime!",
+  "CHGERE032_notification_title": "PLZ_TRANSLATE {parent.nickname} disconnected from you!",
+  "CHPRRE013_notification_title": "PLZ_TRANSLATE {parent.nickname} marked your card as lost"
 }

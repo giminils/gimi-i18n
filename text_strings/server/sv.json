@@ -489,5 +489,14 @@
   "CHGEON032_push_title": "Testa dina spenderarskills med Gimis test 🛍",
   "ADGEPU016_notification_title": "{child.nickname} klarade korttestet, spana in resultatet 🎖",
   "ADGEPU016_push_title": "{child.nickname} klarade testet! 👏",
-  "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet"
+  "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet",
+  "ADGEON007_notification_title": "PLZ_CHECK Still no child connected. Send another invite?",
+  "ADGERE004_push_title": "PLZ_CHECK {child.nickname} is done with {chore.title}. Will be auto approved in 24h",
+  "ADGERE042_notification_title": "PLZ_CHECK You got a request from {child.nickname}! 💳",
+  "ADPRON010_notification_title": "PLZ_CHECK {child.nickname} made a first purchase with the Gimi card",
+  "ADPRRE005_notification_title": "PLZ_CHECK {child.nickname} marked card as lost",
+  "ADPRRE006_notification_title": "PLZ_CHECK Order new card here",
+  "CHGECU001_push_title": "PLZ_CHECK Your Gimi account has been deleted. Welcome back anytime!",
+  "CHGERE032_notification_title": "PLZ_CHECK {parent.nickname} disconnected from you!",
+  "CHPRRE013_notification_title": "PLZ_CHECK {parent.nickname} marked your card as lost"
 }
