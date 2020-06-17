@@ -3231,5 +3231,6 @@
   "milestones_stats_desc": "PLZ_CHECK Milestones help you stay motivated.",
   "goal_stats_to_next": "PLZ_CHECK To the next one",
   "goal_stats_reached": "PLZ_CHECK Reached",
-  "goal_stats_per_milestone": "PLZ_CHECK Per milestone"
+  "goal_stats_per_milestone": "PLZ_CHECK Per milestone",
+  "accounts_get_gimi_card": "PLZ_CHECK Get the Gimi card to unlock"
 }
