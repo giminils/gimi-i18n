@@ -3232,5 +3232,7 @@
   "goal_stats_to_next":"To the next one",
   "goal_stats_reached":"Reached",
   "goal_stats_per_milestone":"Per milestone",
-  "accounts_get_gimi_card": "Get the Gimi card to unlock"
+  "accounts_get_gimi_card": "Get the Gimi card to unlock",
+  "accounts_action_top_up_card": "Top-up card",
+  "accounts_action_pay_online": "Pay online"
 }
