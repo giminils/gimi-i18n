@@ -3228,5 +3228,8 @@
   "subscription_error_general":"Error validating subscription, please contact support",
   "no_goal_parent_home":"No goal set",
   "general_milestones":"Milestones",
-  "milestones_stats_desc":"Milestones help you stay motivated."
+  "milestones_stats_desc":"Milestones help you stay motivated.",
+  "goal_stats_to_next":"To the next one",
+  "goal_stats_reached":"Reached",
+  "goal_stats_per_milestone":"Per milestone"
 }

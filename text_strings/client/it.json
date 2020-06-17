@@ -3228,5 +3228,8 @@
   "subscription_error_general": "PLZ_TRANSLATE Error validating subscription, please contact support",
   "no_goal_parent_home": "PLZ_TRANSLATE No goal set",
   "general_milestones": "PLZ_TRANSLATE Milestones",
-  "milestones_stats_desc": "PLZ_TRANSLATE Milestones help you stay motivated."
+  "milestones_stats_desc": "PLZ_TRANSLATE Milestones help you stay motivated.",
+  "goal_stats_to_next": "PLZ_TRANSLATE To the next one",
+  "goal_stats_reached": "PLZ_TRANSLATE Reached",
+  "goal_stats_per_milestone": "PLZ_TRANSLATE Per milestone"
 }

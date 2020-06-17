@@ -3228,5 +3228,8 @@
   "subscription_error_general": "PLZ_CHECK Error validating subscription, please contact support",
   "no_goal_parent_home": "PLZ_CHECK No goal set",
   "general_milestones": "PLZ_CHECK Milestones",
-  "milestones_stats_desc": "PLZ_CHECK Milestones help you stay motivated."
+  "milestones_stats_desc": "PLZ_CHECK Milestones help you stay motivated.",
+  "goal_stats_to_next": "PLZ_CHECK To the next one",
+  "goal_stats_reached": "PLZ_CHECK Reached",
+  "goal_stats_per_milestone": "PLZ_CHECK Per milestone"
 }
