@@ -3226,5 +3226,7 @@
   "subscription_error_in_validation": "PLZ_TRANSLATE Subscriptionis in validation, please contact support if problem persists",
   "subscription_error_already_has_sub": "PLZ_TRANSLATE Kid already has a sub...",
   "subscription_error_general": "PLZ_TRANSLATE Error validating subscription, please contact support",
-  "no_goal_parent_home": "PLZ_TRANSLATE No goal set"
+  "no_goal_parent_home": "PLZ_TRANSLATE No goal set",
+  "general_milestones": "PLZ_TRANSLATE Milestones",
+  "milestones_stats_desc": "PLZ_TRANSLATE Milestones help you stay motivated."
 }
