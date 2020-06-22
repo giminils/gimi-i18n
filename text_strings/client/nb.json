@@ -3162,7 +3162,7 @@
   "chores_pending_kid_status_message_more_than_3": "%1$d oppgaver venter. Minn dere supporters!",
   "chores_pending_kid_status_message_less_than_3": "Disse oppgavene håper å bli godkjent!",
   "chores_pending_kid_status_message_empty": "Ingen oppgaver venter på godkjenning. Hyggelig, ikke sant?",
-  "chores_done_kid_status_message_more_than_3": "Wow! Du har fullført tre oppgaver. Jeg er imponert!",
+  "chores_done_kid_status_message_more_than_3": "Wow! Du har fullført %1$d oppgaver. Jeg er imponert!",
   "chores_done_kid_status_message_less_than_3": "Ferdig. Du er så rask!",
   "chores_done_kid_status_message_empty": "Du har ingen fullførte oppgaver ... ennå!",
   "chores_to_do_parent_status_message_more_than_3": "%2$d har %1$d gjøremål å gjøre.",
