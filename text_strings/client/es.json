@@ -3239,5 +3239,10 @@
   "share_wishlist": "PLZ_TRANSLATE Share wishlist",
   "share_wishes_title": "PLZ_TRANSLATE My wishlist",
   "goal_plan": "PLZ_TRANSLATE Goal plan",
-  "goal_plan_desc": "PLZ_TRANSLATE Estimated time when your goal is reached."
+  "goal_plan_desc": "PLZ_TRANSLATE Estimated time when your goal is reached.",
+  "goal_plan_started_saving": "PLZ_TRANSLATE Started saving",
+  "goal_plan_days_ago": "PLZ_TRANSLATE days ago",
+  "goal_plan_have_saved": "PLZ_TRANSLATE Have saved",
+  "goal_plan_over_plan": "PLZ_TRANSLATE over plan",
+  "goal_plan_will_be_reached_in": "PLZ_TRANSLATE Will be reached in"
 }

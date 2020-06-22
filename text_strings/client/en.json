@@ -3239,5 +3239,10 @@
   "share_wishlist": "Share wishlist",
   "share_wishes_title": "My wishlist",
   "goal_plan":"Goal plan",
-  "goal_plan_desc":"Estimated time when your goal is reached."
+  "goal_plan_desc":"Estimated time when your goal is reached.",
+  "goal_plan_started_saving":"Started saving",
+  "goal_plan_days_ago":"days ago",
+  "goal_plan_have_saved":"Have saved",
+  "goal_plan_over_plan":"over plan",
+  "goal_plan_will_be_reached_in":"Will be reached in"
 }

@@ -3239,5 +3239,10 @@
   "share_wishlist": "PLZ_CHECK Share wishlist",
   "share_wishes_title": "PLZ_CHECK My wishlist",
   "goal_plan": "PLZ_CHECK Goal plan",
-  "goal_plan_desc": "PLZ_CHECK Estimated time when your goal is reached."
+  "goal_plan_desc": "PLZ_CHECK Estimated time when your goal is reached.",
+  "goal_plan_started_saving": "PLZ_CHECK Started saving",
+  "goal_plan_days_ago": "PLZ_CHECK days ago",
+  "goal_plan_have_saved": "PLZ_CHECK Have saved",
+  "goal_plan_over_plan": "PLZ_CHECK over plan",
+  "goal_plan_will_be_reached_in": "PLZ_CHECK Will be reached in"
 }
