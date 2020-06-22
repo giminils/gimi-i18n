@@ -3244,5 +3244,7 @@
   "goal_plan_days_ago": "PLZ_TRANSLATE days ago",
   "goal_plan_have_saved": "PLZ_TRANSLATE Have saved",
   "goal_plan_over_plan": "PLZ_TRANSLATE over plan",
-  "goal_plan_will_be_reached_in": "PLZ_TRANSLATE Will be reached in"
+  "goal_plan_will_be_reached_in": "PLZ_TRANSLATE Will be reached in",
+  "goal_plan_average_save": "PLZ_TRANSLATE You have saved an avergage of",
+  "goal_plan_average_per_day": "PLZ_TRANSLATE Per day"
 }
