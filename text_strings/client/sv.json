@@ -3237,5 +3237,7 @@
   "accounts_action_pay_online": "PLZ_CHECK Pay online",
   "goal_achivement_hint": "PLZ_CHECK Don’t forget your achivements!",
   "share_wishlist": "PLZ_CHECK Share wishlist",
-  "share_wishes_title": "PLZ_CHECK My wishlist"
+  "share_wishes_title": "PLZ_CHECK My wishlist",
+  "goal_plan": "PLZ_CHECK Goal plan",
+  "goal_plan_desc": "PLZ_CHECK Estimated time when your goal is reached."
 }

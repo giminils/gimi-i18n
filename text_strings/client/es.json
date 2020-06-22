@@ -3237,5 +3237,7 @@
   "accounts_action_pay_online": "PLZ_TRANSLATE Pay online",
   "goal_achivement_hint": "PLZ_TRANSLATE Don’t forget your achivements!",
   "share_wishlist": "PLZ_TRANSLATE Share wishlist",
-  "share_wishes_title": "PLZ_TRANSLATE My wishlist"
+  "share_wishes_title": "PLZ_TRANSLATE My wishlist",
+  "goal_plan": "PLZ_TRANSLATE Goal plan",
+  "goal_plan_desc": "PLZ_TRANSLATE Estimated time when your goal is reached."
 }
