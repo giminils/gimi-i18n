@@ -3253,5 +3253,6 @@
   "goal_piggy_message_is_reached": "PLZ_CHECK Your goal is reached!",
   "card_settings_not_main_parent_title": "PLZ_CHECK Settings are locked…",
   "card_settings_not_main_parent_desc": "PLZ_CHECK Only supporter who has an active subscription can change settings…",
-  "new_connection_invitation_expired": "PLZ_CHECK Invitation has expired"
+  "new_connection_invitation_expired": "PLZ_CHECK Invitation has expired",
+  "goal_cant_be_reached": "PLZ_CHECK You need an allowance for me to calculate when you will reach your goal..."
 }
