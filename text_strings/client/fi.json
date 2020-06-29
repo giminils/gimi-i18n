@@ -3249,5 +3249,6 @@
   "goal_plan_average_per_day": "PLZ_TRANSLATE Per day",
   "goal_piggy_message_reached_in_days": "PLZ_TRANSLATE My calculations say you will reach your goal in %1$d days. Hang in there!",
   "account_interest_card_required": "PLZ_TRANSLATE Inactive, card required",
-  "go_to_goalmap": "PLZ_TRANSLATE Start the climb on your goal map!"
+  "go_to_goalmap": "PLZ_TRANSLATE Start the climb on your goal map!",
+  "goal_piggy_message_is_reached": "PLZ_TRANSLATE Your goal is reached!"
 }
