@@ -917,7 +917,7 @@
   "chores_for_n": "chores for %1$d",
   "add_from_popular_chore_package": "Add from popular",
   "custom_notification_secure_account": "secure your user account",
-  "custom_notification_connect_children": "invite a child.",
+  "custom_notification_connect_children": "PLZ_COPY invite a child",
   "custom_notification__connection_request": "you've got an invitation",
   "custom_notification_add_profile_pic": "add a profile picture",
   "custom_notification_set_allowance": "Set up allowance",
