@@ -3252,5 +3252,6 @@
   "go_to_goalmap": "Start the climb on your goal map!",
   "goal_piggy_message_is_reached":"Your goal is reached!",
   "card_settings_not_main_parent_title": "Settings are locked…",
-  "card_settings_not_main_parent_desc": "Only supporter who has an active subscription can change settings…"
+  "card_settings_not_main_parent_desc": "Only supporter who has an active subscription can change settings…",
+  "new_connection_invitation_expired": "Invitation has expired"
 }
