@@ -3257,5 +3257,6 @@
   "goal_cant_be_reached": "Du trenger en uke-/månedpeng for meg for å finne ut planen for målet ditt!",
   "piggy_bank_active": "PLZ_TRANSLATE Active",
   "piggy_bank_requires_parent": "PLZ_TRANSLATE Add supporter to unlock",
-  "invite_supporter_overlay": "PLZ_TRANSLATE You need to invite a supporter to start using Gimi! Without supporters, you can't earn money."
+  "invite_supporter_overlay": "PLZ_TRANSLATE You need to invite a supporter to start using Gimi! Without supporters, you can't earn money.",
+  "custom_notification_new_look": "PLZ_TRANSLATE Gimi is getting a new and fresh look, learn more!"
 }

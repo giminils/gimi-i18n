@@ -3248,6 +3248,7 @@
   "goal_plan_average_save": "Har sparat i genomsnitt",
   "goal_plan_average_per_day": "Per dag",
   "goal_piggy_message_reached_in_days": "Enligt mina beräkningar kommer du nå ditt mål om %1$d dagar. Jag tror på dig!",
+  "account_interest_card_required": "PLZ_CHECK Inactive, card required",
   "go_to_goalmap": "Klättra mot ditt mål på sparkartan!",
   "goal_piggy_message_is_reached": "Ditt mål är uppnått!",
   "card_settings_not_main_parent_title": "PLZ_CHECK Settings are locked",
@@ -3256,5 +3257,6 @@
   "goal_cant_be_reached": "Du behöver en vecko-/månadspeng för att jag ska kunna räkna ut tidsplanen för ditt mål!",
   "piggy_bank_active": "PLZ_CHECK Active",
   "piggy_bank_requires_parent": "PLZ_CHECK Add supporter to unlock",
-  "invite_supporter_overlay": "PLZ_CHECK You need to invite a supporter to start using Gimi! Without supporters, you can't earn money."
+  "invite_supporter_overlay": "PLZ_CHECK You need to invite a supporter to start using Gimi! Without supporters, you can't earn money.",
+  "custom_notification_new_look": "PLZ_CHECK Gimi is getting a new and fresh look, learn more!"
 }
