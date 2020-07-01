@@ -7,7 +7,7 @@
   "general_to": "til",
   "general_general": "generelt",
   "general_from": "fra",
-  "general_save": "PLZ_TRANSLATE goal",
+  "general_save": "mål",
   "general_approve": "godkend",
   "general_approved": "godkendt",
   "general_delete_account": "slet brugerkonto",
@@ -17,7 +17,7 @@
   "general_chore": "opgave",
   "general_chores": "opgaver",
   "general_card": "kort",
-  "general_dream": "PLZ_TRANSLATE goal",
+  "general_dream": "mål",
   "general_transactions": "transaktioner",
   "general_name": "navn",
   "general_send": "send",
@@ -3011,7 +3011,7 @@
   "general_see_subs": "Se abonnementer",
   "invite_kid_to_buy_sub": "Du har ikke et barn endnu! \nInviter nogen og kom tilbage.",
   "invalid_phone_no_err_box": "Tjek venligst dit telefonnummer!",
-  "save_dream_btn": "PLZ_TRANSLATE Save as goal",
+  "save_dream_btn": "Gem som mål",
   "save_wish_btn": "Gem som et ønske",
   "per_month": " /måned",
   "per_year": " /år",
@@ -3258,5 +3258,5 @@
   "piggy_bank_active": "PLZ_TRANSLATE Active",
   "piggy_bank_requires_parent": "PLZ_TRANSLATE Add supporter to unlock",
   "invite_supporter_overlay": "PLZ_TRANSLATE You need to invite a supporter to start using Gimi! Without supporters, you can't earn money.",
-  "custom_notification_new_look": "PLZ_TRANSLATE It's time for Gimi to get a new and fresh look! Want to learn more?"
+  "custom_notification_new_look": "Det er tid for Gimi at få et nyt, cool look! Vil du vide mere?"
 }
