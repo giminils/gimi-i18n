@@ -3271,5 +3271,6 @@
   "email_invite_subtitle": "PLZ_CHECK If the user dosn't have a phone",
   "qr_invite_subtitle": "PLZ_CHECK If you're close to each other",
   "get_contacts_title": "PLZ_CHECK Search contacts",
-  "get_contacts_subtitle": "PLZ_CHECK Want to send a text message to a contact? Allow us to open your contacts!"
+  "get_contacts_subtitle": "PLZ_CHECK Want to send a text message to a contact? Allow us to open your contacts!",
+  "contacts_in_gimi": "PLZ_CHECK Contacts in Gimi"
 }
