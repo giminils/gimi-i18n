@@ -3272,6 +3272,6 @@
   "qr_invite_subtitle": "If you're close to each other",
   "get_contacts_title":"Search contacts",
   "get_contacts_subtitle":"Want to send a text message to a contact? Allow us to open your contacts!",
-  "contacts_in_gimi":"Contacts in Gimi"
-
+  "contacts_in_gimi":"Contacts in Gimi",
+  "general_connect_with_sms":"Connect with SMS"
 }
