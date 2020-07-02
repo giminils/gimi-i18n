@@ -3269,6 +3269,8 @@
   "general_most_popular":"Most popular!",
   "sms_invite_subtitle":"Send an SMS with a link!",
   "email_invite_subtitle": "If the user dosn't have a phone",
-  "qr_invite_subtitle": "If you're close to each other"
+  "qr_invite_subtitle": "If you're close to each other",
+  "get_contacts_title":"Search contacts",
+  "get_contacts_subtitle":"Want to send a text message to a contact? Allow us to open your contacts!"
 
 }
