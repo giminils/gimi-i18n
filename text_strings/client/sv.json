@@ -3258,5 +3258,6 @@
   "piggy_bank_active": "PLZ_CHECK Active",
   "piggy_bank_requires_parent": "PLZ_CHECK Add supporter to unlock",
   "invite_supporter_overlay": "PLZ_CHECK You need to invite a supporter to start using Gimi! Without supporters, you can't earn money.",
-  "custom_notification_new_look": "Det är dags för Gimi att få en ny, cool look! Vill du veta mer?"
+  "custom_notification_new_look": "Det är dags för Gimi att få en ny, cool look! Vill du veta mer?",
+  "general_invite_contact": "PLZ_CHECK Invite contact"
 }
