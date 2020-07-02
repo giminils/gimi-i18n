@@ -3263,6 +3263,12 @@
   "general_invite_pending":"Request pending",
   "general_connect":"Connect",
   "connect_picker_subtitle_parent": "You can only connect to children, not other supporters!",
-  "connect_picker_subtitle_kid": "You can only connect to children, not other supporters!"
+  "connect_picker_subtitle_kid": "You can only connect to children, not other supporters!",
+  "general_sms":"SMS",
+  "general_scan_qr": "Scan QR",
+  "general_most_popular":"Most popular!",
+  "sms_invite_subtitle":"Send an SMS with a link!",
+  "email_invite_subtitle": "If the user dosn't have a phone",
+  "qr_invite_subtitle": "If you're close to each other"
 
 }

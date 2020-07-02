@@ -3263,5 +3263,11 @@
   "general_invite_pending": "PLZ_TRANSLATE Request pending",
   "general_connect": "PLZ_TRANSLATE Connect",
   "connect_picker_subtitle_parent": "PLZ_TRANSLATE You can only connect to children, not other supporters!",
-  "connect_picker_subtitle_kid": "PLZ_TRANSLATE You can only connect to children, not other supporters!"
+  "connect_picker_subtitle_kid": "PLZ_TRANSLATE You can only connect to children, not other supporters!",
+  "general_sms": "PLZ_TRANSLATE SMS",
+  "general_scan_qr": "PLZ_TRANSLATE Scan QR",
+  "general_most_popular": "PLZ_TRANSLATE Most popular!",
+  "sms_invite_subtitle": "PLZ_TRANSLATE Send an SMS with a link!",
+  "email_invite_subtitle": "PLZ_TRANSLATE If the user dosn't have a phone",
+  "qr_invite_subtitle": "PLZ_TRANSLATE If you're close to each other"
 }
