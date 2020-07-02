@@ -3262,5 +3262,6 @@
   "general_invite_contact": "PLZ_TRANSLATE Invite contact",
   "general_invite_pending": "PLZ_TRANSLATE Request pending",
   "general_connect": "PLZ_TRANSLATE Connect",
-  "connect_picker_subtitle": "PLZ_TRANSLATE Only children and supporters can connect with each other"
+  "connect_picker_subtitle_parent": "PLZ_TRANSLATE You can only connect to children, not other supporters!",
+  "connect_picker_subtitle_kid": "PLZ_TRANSLATE You can only connect to children, not other supporters!"
 }
