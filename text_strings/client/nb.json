@@ -3261,5 +3261,6 @@
   "custom_notification_new_look": "Det er på tide at Gimi får et nytt, kult utseende! Vil du vite mer?",
   "general_invite_contact": "PLZ_TRANSLATE Invite contact",
   "general_invite_pending": "PLZ_TRANSLATE Request pending",
-  "general_connect": "PLZ_TRANSLATE Connect"
+  "general_connect": "PLZ_TRANSLATE Connect",
+  "connect_picker_subtitle": "PLZ_TRANSLATE Only children and supporters can connect with each other"
 }

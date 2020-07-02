@@ -3261,5 +3261,6 @@
   "custom_notification_new_look": "Det är dags för Gimi att få en ny, cool look! Vill du veta mer?",
   "general_invite_contact": "PLZ_CHECK Invite contact",
   "general_invite_pending": "PLZ_CHECK Request pending",
-  "general_connect": "PLZ_CHECK Connect"
+  "general_connect": "PLZ_CHECK Connect",
+  "connect_picker_subtitle": "PLZ_CHECK Only children and supporters can connect with each other"
 }

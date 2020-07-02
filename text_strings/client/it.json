@@ -3261,5 +3261,6 @@
   "custom_notification_new_look": "PLZ_TRANSLATE It's time for Gimi to get a new and fresh look! Want to learn more?",
   "general_invite_contact": "PLZ_TRANSLATE Invite contact",
   "general_invite_pending": "PLZ_TRANSLATE Request pending",
-  "general_connect": "PLZ_TRANSLATE Connect"
+  "general_connect": "PLZ_TRANSLATE Connect",
+  "connect_picker_subtitle": "PLZ_TRANSLATE Only children and supporters can connect with each other"
 }
