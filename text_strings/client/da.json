@@ -3260,5 +3260,6 @@
   "invite_supporter_overlay": "Du skal invitere en supporter til at begynde at bruge Gimi! Uden supporters kan du ikke tjene penge.",
   "custom_notification_new_look": "Det er tid for Gimi at få et nyt, cool look! Vil du vide mere?",
   "general_invite_contact": "PLZ_TRANSLATE Invite contact",
-  "general_invite_pending": "PLZ_TRANSLATE Request pending"
+  "general_invite_pending": "PLZ_TRANSLATE Request pending",
+  "general_connect": "PLZ_TRANSLATE Connect"
 }

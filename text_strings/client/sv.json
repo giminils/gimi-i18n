@@ -3260,5 +3260,6 @@
   "invite_supporter_overlay": "PLZ_CHECK You need to invite a supporter to start using Gimi! Without supporters, you can't earn money.",
   "custom_notification_new_look": "Det är dags för Gimi att få en ny, cool look! Vill du veta mer?",
   "general_invite_contact": "PLZ_CHECK Invite contact",
-  "general_invite_pending": "PLZ_CHECK Request pending"
+  "general_invite_pending": "PLZ_CHECK Request pending",
+  "general_connect": "PLZ_CHECK Connect"
 }
