@@ -3270,8 +3270,8 @@
   "sms_invite_subtitle": "PLZ_CHECK Send an SMS with a link",
   "email_invite_subtitle": "PLZ_CHECK If the user doesn't have a phone",
   "qr_invite_subtitle": "PLZ_CHECK If you're close to each other",
-  "get_contacts_title": "PLZ_CHECK Search contacts",
-  "get_contacts_subtitle": "PLZ_CHECK Want to invite someone with a text message? Allow us to open your contacts!",
+  "get_contacts_title": "Sök i kontaktlistan",
+  "get_contacts_subtitle": "Vill du bjuda in någon med SMS? Ge oss åtkomst till dina kontakter!",
   "contacts_in_gimi": "Kontakter i Gimi",
   "general_connect_with_sms": "Koppla ihop med SMS",
   "accounts_connection_lost": "PLZ_CHECK Connection lost"
