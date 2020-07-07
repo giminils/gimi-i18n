@@ -3271,7 +3271,7 @@
   "email_invite_subtitle": "If the user doesn't have a phone",
   "qr_invite_subtitle": "If you're close to each other",
   "get_contacts_title": "Search contacts",
-  "get_contacts_subtitle": "Want to invite someone with a text message? Allow us to open your contacts!",
+  "get_contacts_subtitle": "Want to invite someone with a SMS? Allow us to open your contacts!",
   "contacts_in_gimi": "Contacts in Gimi",
   "general_connect_with_sms": "Connect with SMS",
   "accounts_connection_lost": "Connection lost"
