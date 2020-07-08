@@ -1460,7 +1460,7 @@
   "qr_scanned_existing_popover_title": "You're already connected to %1$d",
   "qr_scanned_existing_popover_text": "Maybe invite someone else while you're at it?",
   "title_on_what_day": "What day?",
-  "desc_payday_set_to": "The money will be paid out on...",
+  "desc_payday_set_to": "The money will be paid out every...",
   "in_n_day": "in %1$d day",
   "day_to_next_pay": "days until \nPayday",
   "suggested_chores": "Suggested chores",
