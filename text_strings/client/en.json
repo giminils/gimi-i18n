@@ -3275,5 +3275,5 @@
   "contacts_in_gimi": "Contacts in Gimi",
   "general_connect_with_sms": "Connect with SMS",
   "accounts_connection_lost": "Connection lost",
-  "dream_subtitle_emptystate_parent":"%1$d hasn't created a dream yet!"
+  "dream_subtitle_emptystate_parent":"PLZ_COPY %1$d hasn't created a goal yet!"
 }
