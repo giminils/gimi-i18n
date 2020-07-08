@@ -2274,7 +2274,7 @@
   "contacts_permissions_restricted": "Tillgång till dina kontakter har begränsats",
   "camera_permissions_restricted": "Tillgång till din kamera har begränsats",
   "no_digits_error": "Inga siffror i kommentaren...",
-  "chore_description_placeholder": "Ingen beskrivning på den här uppgifter. Vill du lägga till en? Tryck på ändra-knappen här nere!",
+  "chore_description_placeholder": "PLZ_CHECK No description for this chore. Want to add one? Click the edit button up top!",
   "chore_active_days": "Aktiveras",
   "pin_loading_screen_title_parent": "Koden till kortet...",
   "activate_card_show_pin_title_parent": "Koden till kortet",

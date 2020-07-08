@@ -2274,7 +2274,7 @@
   "contacts_permissions_restricted": "Access to contacts were restricted",
   "camera_permissions_restricted": "Access to camera was restricted",
   "no_digits_error": "ingen tal støttet i input",
-  "chore_description_placeholder": "Ingen beskrivelse for denne opgave. Vil du tilføje en? Klik rediger knappen herunder!",
+  "chore_description_placeholder": "PLZ_TRANSLATE No description for this chore. Want to add one? Click the edit button up top!",
   "chore_active_days": "Aktiveret",
   "pin_loading_screen_title_parent": "Koden til kortet...",
   "activate_card_show_pin_title_parent": "PIN koden for kortet",

@@ -2274,7 +2274,7 @@
   "contacts_permissions_restricted": "L'accès aux contacts a eté restreint",
   "camera_permissions_restricted": "L'accès à l'appareil photo a eté restreint",
   "no_digits_error": "Aucun chiffre n'a été pris en compte",
-  "chore_description_placeholder": "Aucune description pour cette tâche. Voulez-vous en ajouter une? Cliquez sur le bouton d'édition ci-dessous!",
+  "chore_description_placeholder": "PLZ_TRANSLATE No description for this chore. Want to add one? Click the edit button up top!",
   "chore_active_days": "Activé",
   "pin_loading_screen_title_parent": "Le code de la carte...",
   "activate_card_show_pin_title_parent": "Le code PIN de la carte",

@@ -2274,7 +2274,7 @@
   "contacts_permissions_restricted": "L'accesso ai contatti è limitato",
   "camera_permissions_restricted": "L'accesso alla fotocamera è limitato",
   "no_digits_error": "nessuna cifra immessa supportata",
-  "chore_description_placeholder": "Nessuna descrizione per questa faccenda. Vuoi aggiungerne una? Clicca sul tasto modifica di sotto!",
+  "chore_description_placeholder": "PLZ_TRANSLATE No description for this chore. Want to add one? Click the edit button up top!",
   "chore_active_days": "Attivata",
   "pin_loading_screen_title_parent": "Il codice della carta...",
   "activate_card_show_pin_title_parent": "Il codice PIN per la carta",

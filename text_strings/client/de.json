@@ -2274,7 +2274,7 @@
   "contacts_permissions_restricted": "Zugang zu Kontakten wurde abgelehnt",
   "camera_permissions_restricted": "Zugang zu Kamera wurde abgelehnt",
   "no_digits_error": "Keine Ziffern zur Eingabe akzeptiert",
-  "chore_description_placeholder": "Für diese Aufgabe gibt es keine Beschreibung. Möchtest Du eine hinzufügen? Klicke unten auf den Bearbeiten Button!",
+  "chore_description_placeholder": "PLZ_TRANSLATE No description for this chore. Want to add one? Click the edit button up top!",
   "chore_active_days": "Aktiviert",
   "pin_loading_screen_title_parent": "Der Code für die Karte...",
   "activate_card_show_pin_title_parent": "der PIN Code für die Karte",
