@@ -3274,5 +3274,6 @@
   "get_contacts_subtitle": "Vill du bjuda in någon med SMS? Ge oss åtkomst till dina kontakter!",
   "contacts_in_gimi": "Kontakter i Gimi",
   "general_connect_with_sms": "Koppla ihop med SMS",
-  "accounts_connection_lost": "PLZ_CHECK Connection lost"
+  "accounts_connection_lost": "PLZ_CHECK Connection lost",
+  "dream_subtitle_emptystate_parent": "PLZ_CHECK %1$d hasn't created a dream yet!"
 }

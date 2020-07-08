@@ -3274,5 +3274,6 @@
   "get_contacts_subtitle": "Want to invite someone with a SMS? Allow us to open your contacts!",
   "contacts_in_gimi": "Contacts in Gimi",
   "general_connect_with_sms": "Connect with SMS",
-  "accounts_connection_lost": "Connection lost"
+  "accounts_connection_lost": "Connection lost",
+  "dream_subtitle_emptystate_parent":"%1$d hasn't created a dream yet!"
 }
