@@ -498,5 +498,6 @@
   "ADPRRE006_notification_title": "PLZ_TRANSLATE Order new card here",
   "CHGECU001_push_title": "PLZ_TRANSLATE Your Gimi account has been deleted. Welcome back anytime!",
   "CHGERE032_notification_title": "PLZ_TRANSLATE {parent.nickname} disconnected from you!",
-  "CHPRRE013_notification_title": "PLZ_TRANSLATE {parent.nickname} marked your card as lost"
+  "CHPRRE013_notification_title": "PLZ_TRANSLATE {parent.nickname} marked your card as lost",
+  "ADGERE001_push_title": "PLZ_TRANSLATE You're now connected with {child.nickname}!"
 }

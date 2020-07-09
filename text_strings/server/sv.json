@@ -498,5 +498,6 @@
   "ADPRRE006_notification_title": "Beställ ett nytt kort här",
   "CHGECU001_push_title": "Ditt Gimi-konto har raderats. Välkommen tillbaka när du vill!",
   "CHGERE032_notification_title": "{parent.nickname} har kopplats ifrån dig!",
-  "CHPRRE013_notification_title": "{parent.nickname} har markerat ditt kort som försvunnet"
+  "CHPRRE013_notification_title": "{parent.nickname} har markerat ditt kort som försvunnet",
+  "ADGERE001_push_title": "PLZ_CHECK You're now connected with {child.nickname}!"
 }
