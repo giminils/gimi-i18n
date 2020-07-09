@@ -499,5 +499,7 @@
   "CHGECU001_push_title": "Ditt Gimi-konto har raderats. Välkommen tillbaka när du vill!",
   "CHGERE032_notification_title": "{parent.nickname} har kopplats ifrån dig!",
   "CHPRRE013_notification_title": "{parent.nickname} har markerat ditt kort som försvunnet",
-  "ADGERE001_push_title": "PLZ_CHECK You're now connected with {child.nickname}!"
+  "ADGERE001_push_title": "PLZ_CHECK You're now connected with {child.nickname}!",
+  "CHGERE010_notification_title": "PLZ_CHECK {task.title} was approved, you earned {task.value}",
+  "CHGERE023_notification_title_v2": "PLZ_CHECK {task.title} was approved, you earned {task.value}"
 }

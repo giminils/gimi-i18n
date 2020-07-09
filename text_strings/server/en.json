@@ -499,5 +499,7 @@
   "CHGECU001_push_title": "Your Gimi account has been deleted. Welcome back anytime!",
   "CHGERE032_notification_title": "{parent.nickname} disconnected from you!",
   "CHPRRE013_notification_title": "{parent.nickname} marked your card as lost",
-  "ADGERE001_push_title": "You're now connected with {child.nickname}!"
+  "ADGERE001_push_title": "You're now connected with {child.nickname}!",
+  "CHGERE010_notification_title": "{task.title} was approved, you earned {task.value}",
+  "CHGERE023_notification_title_v2": "{task.title} was approved, you earned {task.value}"
 }

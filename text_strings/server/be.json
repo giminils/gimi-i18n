@@ -499,5 +499,7 @@
   "CHGECU001_push_title": "PLZ_TRANSLATE Your Gimi account has been deleted. Welcome back anytime!",
   "CHGERE032_notification_title": "PLZ_TRANSLATE {parent.nickname} disconnected from you!",
   "CHPRRE013_notification_title": "PLZ_TRANSLATE {parent.nickname} marked your card as lost",
-  "ADGERE001_push_title": "PLZ_TRANSLATE You're now connected with {child.nickname}!"
+  "ADGERE001_push_title": "PLZ_TRANSLATE You're now connected with {child.nickname}!",
+  "CHGERE010_notification_title": "PLZ_TRANSLATE {task.title} was approved, you earned {task.value}",
+  "CHGERE023_notification_title_v2": "PLZ_TRANSLATE {task.title} was approved, you earned {task.value}"
 }
