@@ -3277,5 +3277,7 @@
   "accounts_connection_lost": "PLZ_CHECK Connection lost",
   "dream_subtitle_emptystate_parent": "PLZ_CHECK %1$d hasn't created a goal yet!",
   "add_suggested_chore_title": "PLZ_CHECK Suggested chore",
-  "general_add_suggest_chore": "PLZ_CHECK Add suggested chore"
+  "general_add_suggest_chore": "PLZ_CHECK Add suggested chore",
+  "goal_map_graph_title": "PLZ_CHECK Progress",
+  "goal_map_graph_desc": "PLZ_CHECK The highs and lows are both a part of the progress!"
 }

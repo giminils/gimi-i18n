@@ -3277,5 +3277,7 @@
   "accounts_connection_lost": "PLZ_TRANSLATE Connection lost",
   "dream_subtitle_emptystate_parent": "PLZ_TRANSLATE %1$d hasn't created a goal yet!",
   "add_suggested_chore_title": "PLZ_TRANSLATE Suggested chore",
-  "general_add_suggest_chore": "PLZ_TRANSLATE Add suggested chore"
+  "general_add_suggest_chore": "PLZ_TRANSLATE Add suggested chore",
+  "goal_map_graph_title": "PLZ_TRANSLATE Progress",
+  "goal_map_graph_desc": "PLZ_TRANSLATE The highs and lows are both a part of the progress!"
 }

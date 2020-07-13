@@ -3277,5 +3277,7 @@
   "accounts_connection_lost": "Connection lost",
   "dream_subtitle_emptystate_parent": "%1$d hasn't created a goal yet!",
   "add_suggested_chore_title": "Suggested chore",
-  "general_add_suggest_chore": "Add suggested chore"
+  "general_add_suggest_chore": "Add suggested chore",
+  "goal_map_graph_title":"Progress",
+  "goal_map_graph_desc":"The highs and lows are both a part of the progress!"
 }
