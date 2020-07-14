@@ -3279,5 +3279,7 @@
   "add_suggested_chore_title": "PLZ_TRANSLATE Suggested chore",
   "general_add_suggest_chore": "PLZ_TRANSLATE Add suggested chore",
   "goal_map_graph_title": "PLZ_TRANSLATE Progress",
-  "goal_map_graph_desc": "PLZ_TRANSLATE The highs and lows are both a part of the progress!"
+  "goal_map_graph_desc": "PLZ_TRANSLATE The highs and lows are both a part of the progress!",
+  "general_saved_freemium": "PLZ_TRANSLATE Saved",
+  "general_saved_premium": "PLZ_TRANSLATE Saved in Vault"
 }
