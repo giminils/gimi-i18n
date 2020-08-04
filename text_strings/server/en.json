@@ -359,7 +359,7 @@
   "ADPRRE032_notification_title": "Master subscription for {child.nickname} has been cancelled, and will expire on {expires_at}",
   "ADPRRE033_notification_title": "The Master subscription for {child.nickname} will expire in 2 days",
   "ADPRRE033_push_title": "Master subscription will expire in 2 days",
-  "ADPRRE034_notification_title": "Master subscription for {child.nickname} has expired, and the account has been reset",
+  "ADPRRE034_notification_title": "Gimi Master subscription for {child.nickname} has expired, and the account has been downgraded",
   "event_wrong_pin": "The Gimi card was blocked because of 3 failed PIN code attempts. Contact us to unblock it!",
   "push_wrong_pin": "The card has been blocked!",
   "event_child_wrong_pin": "Your card was blocked because of 3 failed PIN code attempts. Contact us to unblock it!",
