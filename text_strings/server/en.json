@@ -159,7 +159,7 @@
   "event_transfer_money_to_card": "You have money in your accout! Want to spend some? Just transfer it to your card.",
   "event_name_blocked_your_card": "{parent.nickname} blocked your card",
   "push_name_blocked_your_card": "Your card has been blocked by {parent.nickname}",
-  "event_name_unblocked_your_card": "{parent.nickname} unblocked your card",
+  "event_name_unblocked_your_card": "PLZ_COPY {parent.nickname} unblocked your card",
   "push_name_unblocked_your_card": "Your card was unblocked by {parent.nickname}",
   "push_today_pay_day": "Today is payday! 🎉",
   "event_today_pay_day": "Today is payday!",
