@@ -1,4 +1,4 @@
-Hej!Skriv in koden i Gimi-appen: {{ verification_token.code }}
+Skriv in koden i Gimi-appen: {{ verification_token.code }}
 
 {% if add_verification_url %}
 {{ verification_token.verification_url }}
