@@ -1597,7 +1597,7 @@
   "kid_next_payment": "Payday",
   "kyc_method_coming_soon": "Coming soon!",
   "kyc_method_coming_soon_description": "Currently we only support ID verification with Instantor. We will redirect you!",
-  "updated_money_settings_for_kid_title": "New money settings from %1$d!",
+  "updated_money_settings_for_kid_title": "This is what you'll get from %1$d!",
   "updated_money_settings_for_kid_subtitle": "Check them out:",
   "updated_money_settings_for_kid_allowance_title": "Allowance from %1$d",
   "updated_money_settings_for_kid_weekly_allowance_title": "Allowance from %1$d",
