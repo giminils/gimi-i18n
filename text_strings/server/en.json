@@ -300,7 +300,7 @@
   "CHGEON026_push_title": "{parent.nickname} wants to connect with you!",
   "push_card_purchase_decline": "🚫Purchase was declined for {child.nickname} because of low card balance!",
   "CHPRPU002_notification_title": "Low balance on your Gimi Card! Top-up your card now!",
-  "push_name_made_deposit_to_account": "You got money from {parent.nickname}",
+  "push_name_made_deposit_to_account": "PLZ_COPY It's Payday! You got money from {parent.nickname}",
   "ADPRPU002_notification_title": "Card purchase at {pfstransactionstatement.merchant_name} was declined for {pfstransactionstatement.card.user.nickname} because of low balance on card",
   "CHGEON009_notification_title": "Create your goal",
   "CHGERE020_notification_title": "{parent.nickname} denied your chore suggestion: {task.title}. Suggest new one?",
