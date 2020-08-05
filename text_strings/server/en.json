@@ -259,7 +259,7 @@
   "CHGERE030_notification_title": "{parent.nickname} has accepted your chore suggestion!",
   "push_add_chores": "{child.nickname} has no chores yet. We have some chore suggestions!",
   "CHGERE031_notification_title": "You have a chore to do today!",
-  "event_send_invite_reminder": "Your invite has not been accepted. Send a reminder!",
+  "event_send_invite_reminder": "Your invite has not been accepted yet. Send a reminder?",
   "ADPRON016_notification_title": "Now you can upgrade to Gimi Master and order the card in the app!",
   "ADPRON016_notification_title_v2": "Included in your Gimi Master subscription is a Gimi card. Order it now!",
   "ADPRON016_push_title": "Have you checked out the Gimi Card?",
