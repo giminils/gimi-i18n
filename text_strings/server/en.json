@@ -165,7 +165,7 @@
   "event_today_pay_day": "Today is payday!",
   "push_name_deposit_to_account": "You got money from {parent.nickname}!",
   "event_name_deposit_to_account": "You got money from {parent.nickname}",
-  "event_name_made_deposit_to_account": "You got money from {parent.nickname}",
+  "event_name_made_deposit_to_account": "PLZ_COPY It's Payday! You got money from {parent.nickname}",
   "push_give_chores_to_children": "Remember your chores!",
   "push_verify_phone_to_custom_account": "Verify your phone number",
   "push_chores_waiting": "You have {x} chores waiting. Go earn some money!",
