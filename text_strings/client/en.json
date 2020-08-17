@@ -3226,7 +3226,7 @@
   "subscription_error_in_validation": "Subscription is in validation, please contact support if problem persists",
   "subscription_error_already_has_sub": "This child already has a subscription",
   "subscription_error_general": "Error validating subscription, please contact support!",
-  "no_goal_parent_home": "No goal set",
+  "no_goal_parent_home": "PLZ_COPY Not set",
   "general_milestones": "Milestones",
   "milestones_stats_desc": "Milestones help you stay motivated",
   "goal_stats_to_next": "To the next one",
