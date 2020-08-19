@@ -499,10 +499,10 @@
   "CHGECU001_push_title": "Ditt Gimi-konto har raderats. Välkommen tillbaka när du vill!",
   "CHGERE032_notification_title": "{parent.nickname} har kopplats ifrån dig!",
   "CHPRRE013_notification_title": "{parent.nickname} har markerat ditt kort som försvunnet",
-  "ADGERE001_push_title": "PLZ_CHECK You're now connected with {child.nickname}!",
-  "CHGERE010_notification_title": "PLZ_CHECK {task.title} was approved, you earned {task.value}",
-  "CHGERE023_notification_title_v2": "PLZ_CHECK {task.title} was approved, you earned {task.value}",
-  "CHPRON016_notification_title": "PLZ_CHECK You have a negative card balance, top-up your card right away",
-  "CHPRON015_notification_title": "PLZ_CHECK You're card is activated. First time you buy something, make sure to use PIN-code and you can then start blipping",
-  "CHPRRE045_push_title": "PLZ_CHECK Check out your balance in the Gimi app!"
+  "ADGERE001_push_title": "Du är nu ihopkopplad med {child.nickname}!",
+  "CHGERE010_notification_title": "{task.title} har godkänts, du tjänade {task.value}",
+  "CHGERE023_notification_title_v2": "{task.title} har godkänts, du tjänade {task.value}",
+  "CHPRON016_notification_title": "Du har ett negativt saldo på Gimi-kortet, fyll på det direkt",
+  "CHPRON015_notification_title": "Ditt kort är aktiverat. Första gången du köper något, kom ihåg att använda PIN-koden. Sen kan du börja blippa!",
+  "CHPRRE045_push_title": "Spana in Gimi-kortets saldo i appen!"
 }
