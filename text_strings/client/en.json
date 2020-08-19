@@ -205,7 +205,7 @@
   "question_birthday_parent": "when was %1$d born?",
   "settings_for": "settings for %1$d",
   "next_payout": "Payday",
-  "will_be_payed_out_in_n_days": "will be paid out in %1$d days",
+  "will_be_payed_out_in_n_days": "in %1$d days",
   "general_breakdown_parent": "breakdown",
   "general_breakdown_child": "breakdown",
   "general_interest": "Bonus",
