@@ -3282,9 +3282,9 @@
   "goal_map_graph_desc": "Både upp- och nedgångar är en del av framstegen!",
   "general_saved_freemium": "Sparat",
   "general_saved_premium": "Sparat i Valvet",
-  "signup_birthday_subtitle": "PLZ_CHECK Age is just a number!",
-  "signup_usertype_kid_subtitle": "PLZ_CHECK We’re guessing based on your age. You can swap below if we’re incorrect!",
-  "signup_usertype_parent_subtitle": "PLZ_CHECK We’re guessing based on your age. You can swap below if we’re incorrect!",
-  "general_im_a_kid": "PLZ_CHECK I’m a child",
-  "general_im_a_parent": "PLZ_CHECK I’m an adult"
+  "signup_birthday_subtitle": "Ålder är bara en siffra!",
+  "signup_usertype_kid_subtitle": "Vi gissar baserat på din ålder. Du kan byta nedan om vi har fel!",
+  "signup_usertype_parent_subtitle": "Vi gissar baserat på din ålder. Du kan byta nedan om vi har fel!",
+  "general_im_a_kid": "Jag är ett barn",
+  "general_im_a_parent": "Jag är vuxen"
 }
