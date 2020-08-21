@@ -3281,5 +3281,6 @@
   "goal_map_graph_title": "PLZ_TRANSLATE Progress",
   "goal_map_graph_desc": "PLZ_TRANSLATE The highs and lows are both a part of the progress!",
   "general_saved_freemium": "PLZ_TRANSLATE Saved",
-  "general_saved_premium": "PLZ_TRANSLATE Saved in Vault"
+  "general_saved_premium": "PLZ_TRANSLATE Saved in Vault",
+  "signup_birthday_subtitle": "PLZ_TRANSLATE We need to calculate what kind of account you should create!"
 }

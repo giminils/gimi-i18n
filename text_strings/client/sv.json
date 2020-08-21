@@ -3281,5 +3281,6 @@
   "goal_map_graph_title": "Framsteg",
   "goal_map_graph_desc": "Både upp- och nedgångar är en del av framstegen!",
   "general_saved_freemium": "Sparat",
-  "general_saved_premium": "Sparat i Valvet"
+  "general_saved_premium": "Sparat i Valvet",
+  "signup_birthday_subtitle": "PLZ_CHECK We need to calculate what kind of account you should create!"
 }
