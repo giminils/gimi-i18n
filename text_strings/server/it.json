@@ -12,7 +12,7 @@
   "dashboard_goal_completed": "Hai completato {goal.title}",
   "event_complete_card_order": "La carta è in arrivo! Riceverai una carta da Gimi. Vai all'app per ulteriori informazioni",
   "sms_app_download": "Benvenuto su Gimi!\n http://onelink.to/gimi_se",
-  "push_assignment_approved_parent": "{assignment.approved_by.name} ha approvato il compito di {assignment.task.title}. ({assignment.str_value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved the chore {assignment.task.title}",
   "push_weekly_allowance_pre_payout_parent_0": "È il momento della paghetta settimanale di {child}",
   "push_weekly_allowance_pre_payout_parent_1": "È il momento della paghetta settimanale di {child}",
   "push_weekly_allowance_pre_payout_parent_2": "È il momento della paghetta settimanale di {child}",

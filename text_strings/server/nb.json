@@ -12,7 +12,7 @@
   "dashboard_goal_completed": "Du har fullført {goal.title}",
   "event_complete_card_order": "Et kort er på vei! Du vil motta et kort fra Gimi. Åpne appen for mer informasjon",
   "sms_app_download": "Velkommen til Gimi!\n http://onelink.to/gimi_se",
-  "push_assignment_approved_parent": "{assignment.approved_by.name} Godkjent oppgave {assignment.task.title} ({assignment.str_value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved the chore {assignment.task.title}",
   "push_weekly_allowance_pre_payout_parent_0": "Tiden er inne for {child}s ukepenger",
   "push_weekly_allowance_pre_payout_parent_1": "Tiden er inne for {child}s ukepenger",
   "push_weekly_allowance_pre_payout_parent_2": "Tiden er inne for {child}s ukepenger",

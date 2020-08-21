@@ -12,7 +12,7 @@
   "dashboard_goal_completed": "PLZ_TRANSLATE You have completed {goal.title}",
   "event_complete_card_order": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "sms_app_download": "PLZ_TRANSLATE Welcome to Gimi!\n http://onelink.to/gimi_se",
-  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved task {assignment.task.title}. ({assignment.str_value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved the chore {assignment.task.title}",
   "push_weekly_allowance_pre_payout_parent_0": "PLZ_TRANSLATE Time for {child}'s weekly allowance",
   "push_weekly_allowance_pre_payout_parent_1": "PLZ_TRANSLATE Time for {child}'s weekly allowance",
   "push_weekly_allowance_pre_payout_parent_2": "PLZ_TRANSLATE Time for {child}'s weekly allowance",

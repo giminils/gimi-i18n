@@ -12,7 +12,7 @@
   "dashboard_goal_completed": "Olet saavuttanut tavoitteen {goal.title}",
   "event_complete_card_order": "Kortti on matkalla! Olet saamassa kortin Gimiltä. Löydät lisätietoja sovelluksesta",
   "sms_app_download": "Tervetuloa Gimi-sovellukseen!\n http://onelink.to/gimi_se",
-  "push_assignment_approved_parent": "{assignment.approved_by.name} on hyväksynyt askareen {assignment.task.title} ({assignment.str_value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved the chore {assignment.task.title}",
   "push_weekly_allowance_pre_payout_parent_0": "({child}) viikkorahan aika",
   "push_weekly_allowance_pre_payout_parent_1": "({child}) viikkorahan aika",
   "push_weekly_allowance_pre_payout_parent_2": "({child}) viikkorahan aika",

@@ -12,7 +12,7 @@
   "dashboard_goal_completed": "Je hebt {goal.title} voltooid",
   "event_complete_card_order": "Een kaart is onderweg! Je krijgt een kaart van Gimi. Ga naar de app voor meer info.",
   "sms_app_download": "Welkom bij Gimi!\n http://onelink.to/gimi_se",
-  "push_assignment_approved_parent": "{assignment.approved_by.name} heeft {assignment.task.title} goedgekeurd. ({assignment.str_value})",
+  "push_assignment_approved_parent": "PLZ_TRANSLATE {assignment.approved_by.name} approved the chore {assignment.task.title}",
   "push_weekly_allowance_pre_payout_parent_0": "Tijd voor {child}'s  wekelijkse zakgeld",
   "push_weekly_allowance_pre_payout_parent_1": "Tijd voor {child}'s wekelijkse zakgeld",
   "push_weekly_allowance_pre_payout_parent_2": "Tijd voor {child}'s wekelijkse zakgeld",
