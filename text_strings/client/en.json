@@ -620,7 +620,7 @@
   "error_maintenance_title": "Sorry about the mess, we are rebuilding!",
   "error_maintenance_desc": "The work will soon be done, then you can use the app as usual!",
   "spending_categories": "Saved & spent",
-  "general_spending": "spending",
+  "general_spending": "PLZ_COPY Spending categories",
   "verify_identity_bank_id": "Verify your identity with BankID",
   "general_remove": "delete user account",
   "complete_connection": "Complete connection",
