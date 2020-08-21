@@ -2311,7 +2311,7 @@
   "start_lysa_autogiro_button": "Aloita kuukausittain säästäminen",
   "card_on_its_way_transfer_money": "siirrä rahaa",
   "savings_account_intro_subtitle": "Tilillä on nyt oikeaa rahaa! Kortti on tarkoitettu rahojen käyttöön ja tili on säästämiseen. Maksat edelleen korkoa, rohkaistaksesi %1$d säästämään rahaa!",
-  "connect_with_non_existing_phone_popover_connect_button": "Yhdistä",
+  "connect_with_non_existing_phone_popover_connevct_button": "PLZ_TRANSLATE Connect",
   "shareable_today_is_payday_title": "Tänään on tilipäivä!",
   "shareable_card_activated_title": "Minulla on Gimi-kortti!",
   "shareable_upgraded_to_master_title": "Gimi Master otettu käyttöön",
@@ -3286,5 +3286,7 @@
   "signup_usertype_kid_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
   "general_im_a_kid": "PLZ_TRANSLATE I’m a child",
-  "general_im_a_parent": "PLZ_TRANSLATE I’m an adult"
+  "general_im_a_parent": "PLZ_TRANSLATE I’m an adult",
+  "interest_average_for_weekly": "PLZ_TRANSLATE Average interest for weekly allowance is %1$d%",
+  "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%"
 }

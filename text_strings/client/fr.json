@@ -2311,7 +2311,7 @@
   "start_lysa_autogiro_button": "Commencez à économiser chaque mois",
   "card_on_its_way_transfer_money": "Transférer de l'argent",
   "savings_account_intro_subtitle": "Ce compte contient maintenant de l'argent réel! La carte est pour les dépenses, ce compte est pour les économies. Vous devez toujours payer les intérêts pour encourager %1$d à économiser de l'argent!",
-  "connect_with_non_existing_phone_popover_connect_button": "Connecter",
+  "connect_with_non_existing_phone_popover_connevct_button": "PLZ_TRANSLATE Connect",
   "shareable_today_is_payday_title": "C'est Payday!",
   "shareable_card_activated_title": "J'ai une carte Gimi!",
   "shareable_upgraded_to_master_title": "Surclasser à Gimi Master",
@@ -3286,5 +3286,7 @@
   "signup_usertype_kid_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
   "general_im_a_kid": "PLZ_TRANSLATE I’m a child",
-  "general_im_a_parent": "PLZ_TRANSLATE I’m an adult"
+  "general_im_a_parent": "PLZ_TRANSLATE I’m an adult",
+  "interest_average_for_weekly": "PLZ_TRANSLATE Average interest for weekly allowance is %1$d%",
+  "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%"
 }

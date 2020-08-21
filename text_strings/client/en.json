@@ -3286,5 +3286,7 @@
   "signup_usertype_kid_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
   "general_im_a_kid": "I’m a child",
-  "general_im_a_parent": "I’m an adult"
+  "general_im_a_parent": "I’m an adult",
+  "interest_average_for_weekly": "Average interest for weekly allowance is %1$d%",
+  "interest_average_for_monthly": "Average interest for monthly allowance is %1$d%"
 }
