@@ -3282,5 +3282,9 @@
   "goal_map_graph_desc": "PLZ_TRANSLATE The highs and lows are both a part of the progress!",
   "general_saved_freemium": "PLZ_TRANSLATE Saved",
   "general_saved_premium": "PLZ_TRANSLATE Saved in Vault",
-  "signup_birthday_subtitle": "PLZ_TRANSLATE We need to calculate what kind of account you should create!"
+  "signup_birthday_subtitle": "PLZ_TRANSLATE We need to calculate what kind of account you should create!",
+  "signup_usertype_kid_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
+  "signup_usertype_parent_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
+  "general_im_a_kid": "PLZ_TRANSLATE I’m a child",
+  "general_im_a_parent": "PLZ_TRANSLATE I’m an adult"
 }

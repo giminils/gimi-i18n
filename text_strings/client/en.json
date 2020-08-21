@@ -3072,11 +3072,11 @@
   "iap_could_not_bind_error": "Could not bind purchase, please contact support",
   "promo_code_limit_reached": "You've reached the promo code use limit",
   "signup_usertype_subtitle": "This is where you choose your account type.",
-  "signup_usertype_kid_title": "I'm a child",
+  "signup_usertype_kid_title": "Let’s set up your child account!",
   "signup_usertype_kid_1": "🤑 Earn money by doing chores",
   "signup_usertype_kid_2": "🌈 Save for a goal",
   "signup_usertype_kid_3": "🛍️ Practice smart spending",
-  "signup_usertype_parent_title": "I'm a parent or a supporter",
+  "signup_usertype_parent_title": "Let’s set up your supporter account!",
   "signup_usertype_parent_1": "💰 Manage children's money",
   "signup_usertype_parent_2": "🎓 Teach children about money",
   "signup_usertype_parent_3": "💳 Order the Gimi card",
@@ -3282,5 +3282,9 @@
   "goal_map_graph_desc": "The highs and lows are both a part of the progress!",
   "general_saved_freemium": "Saved",
   "general_saved_premium": "Saved in Vault",
-  "signup_birthday_subtitle":"PLZ_COPY Age is just a number!"
+  "signup_birthday_subtitle":"PLZ_COPY Age is just a number!",
+  "signup_usertype_kid_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
+  "signup_usertype_parent_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
+  "general_im_a_kid": "I’m a child",
+  "general_im_a_parent": "I’m an adult"
 }
