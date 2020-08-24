@@ -3205,7 +3205,7 @@
   "good_morgning_message": "Good morning %1$d!",
   "good_day_message": "Good day %1$d!",
   "good_afternoon_message": "Good afternoon %1$d!",
-  "good_night_message": "Good night %1$d!",
+  "good_night_message": "Good evening %1$d!",
   "default_hello_message": "Hello %1$d!",
   "max_amount_of_kids_hint": "Have up to %1$d children",
   "chat_with_piggy": "Chat with Piggy",
