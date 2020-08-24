@@ -3205,7 +3205,7 @@
   "good_morgning_message": "God morgon %1$d!",
   "good_day_message": "God dag %1$d!",
   "good_afternoon_message": "God eftermiddag %1$d!",
-  "good_night_message": "God natt %1$d!",
+  "good_night_message": "God kväll %1$d!",
   "default_hello_message": "Hej %1$d!",
   "max_amount_of_kids_hint": "Lägg till upp till %1$d barn",
   "chat_with_piggy": "Chatta med Piggy",
