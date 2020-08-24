@@ -185,7 +185,7 @@
   "event_you_are_connected": "You're now connected with {child.nickname}!",
   "event_how_premium_work": "How Gimi Master works",
   "push_card_decline_unlock": "A purchase at {pfstransactionstatement.merchant_name} was declined because the Gimi card is blocked.",
-  "event_cloud_created": "Get to know Gimi!",
+  "event_cloud_created": "Get to know Gimi in 20 seconds!",
   "event_add_email_change_number": "Add your email! It's nice to have if you change your number...",
   "push_receive_first_money": "You got your first money!",
   "event_got_weekly_allowance": "You now have a weekly allowance",
