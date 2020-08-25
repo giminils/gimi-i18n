@@ -3284,10 +3284,10 @@
   "signup_birthday_subtitle": "We need to calculate what kind of account you should create!",
   "signup_usertype_kid_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
-  "general_im_a_kid": "Let's set up your child account!",
-  "general_im_a_parent": "Let's set up your supporter account!",
+  "general_im_a_kid": "PLZ_COPY I'm a child",
+  "general_im_a_parent": "PLZ_COPY I'm an adult",
   "interest_average_for_weekly": "Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "Average interest for monthly allowance is %1$d%",
-  "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account",
-  "cloud_transactions":"Transactions"
+  "card_settings_payday_target_account": "Allowance target account",
+  "cloud_transactions":"PLZ_COPY Events"
 }
