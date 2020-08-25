@@ -1985,7 +1985,7 @@
   "chore_waiting_for_approval": "Waiting for approval",
   "new_supporter_connection_text": "Congratulations! %1$d accepted your invitation. Maybe suggest a chore?",
   "new_kid_connection_text": "%1$d accepted your invitation. Set up allowance, bonus and chores now!",
-  "kid_got_new_connection_success_title": "More supporters means more opportunities to earn money! Maybe you should suggest a chore to %1$d?",
+  "kid_got_new_connection_success_title": "PLZ_COPY More supporters means more opportunities to earn money! Do you want to connect with %1$d?",
   "one_month_free": "1 month free",
   "there_after_x_per_year": "Then %1$d/year",
   "allowance_day_settings_row": "Payday",
