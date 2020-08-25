@@ -3288,5 +3288,6 @@
   "general_im_a_parent": "Dags att skapa ditt supporter-konto!",
   "interest_average_for_weekly": "Snittet för veckopeng är %1$d%",
   "interest_average_for_monthly": "Snittet för månadspeng är %1$d%",
-  "card_settings_payday_target_account": "Payday-konto"
+  "card_settings_payday_target_account": "Payday-konto",
+  "cloud_transactions": "PLZ_CHECK Transactions"
 }

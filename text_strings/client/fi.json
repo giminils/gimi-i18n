@@ -3288,5 +3288,6 @@
   "general_im_a_parent": "PLZ_TRANSLATE Let's set up your supporter account!",
   "interest_average_for_weekly": "PLZ_TRANSLATE Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%",
-  "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account"
+  "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account",
+  "cloud_transactions": "PLZ_TRANSLATE Transactions"
 }
