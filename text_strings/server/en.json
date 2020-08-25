@@ -89,7 +89,7 @@
   "event_chore_is_deleted": "{chore.title} has been deleted",
   "event_interest_rate_is_changed_to_x": "Bonus has been changed to {x}%",
   "push_create_new_dream": "Create a new goal!",
-  "event_withdrawal_made_from_your_cloud": "{parent.nickname} deducted from your piggybank.",
+  "event_withdrawal_made_from_your_cloud": "{parent.nickname} deducted from your piggybank",
   "event_deposit_made_to_your_cloud": "{parent.nickname} added to your piggybank",
   "event_share_your_cravings_for_your_birthday": "Share your cravings for your birthday",
   "event_share_your_cravings": "Share your cravings",
