@@ -427,7 +427,7 @@
   "days_to_next_pay": "days until \nPayday",
   "search_results": "search results",
   "name_accepted_your_invite": "%1$d has accepted your invite!",
-  "accepted_invite_setup_flow_description": "Set up an allowance, bonus and chores for %1$d now!",
+  "accepted_invite_setup_flow_description": "To get started, set up an allowance and savings bonus for %1$d right away!",
   "recommended_chore_package": "recommended chore package",
   "accepted_invite_setup_flow_done_description": "Done! You have completed the settings for %1$d.",
   "delete_task": "delete chore",
