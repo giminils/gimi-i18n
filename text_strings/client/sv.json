@@ -2118,7 +2118,7 @@
   "general_continue": "Fortsätt",
   "new_connection_infoview_title_kid": "Du är nu kopplad till %1$d!",
   "new_connection_infoview_title_parent": "Du är nu kopplad till %1$d!",
-  "accepted_invite_setup_flow_description_kid": "PLZ_CHECK More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
+  "accepted_invite_setup_flow_description_kid": "Fler supporters betyder fler möjligheter att tjäna pengar! Vill du acceptera inbjudan från %1$d?",
   "confirm_delete_chore_popover_title": "Säker på att du vill ta bort den här uppgiften?",
   "confirm_delete_chore_popover_text": "Du kommer inte kunna ångra dig. Den här uppgiften försvinner för alltid!",
   "onfido_notification_success": "ID-verifieringen klar! Nu kan du beställa kortet...",
