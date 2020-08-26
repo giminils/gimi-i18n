@@ -2468,7 +2468,7 @@
   "notification_payment_ignored": "Ignored",
   "internal_transfer_error_title": "Oh no... Something went wrong",
   "internal_transfer_error_subtitle": "We could not transfer your money. Give us a moment and try again soon!",
-  "chore_to_be_suggested_overview_title": "Suggest a chore!",
+  "chore_to_be_suggested_overview_title": "Your suggested chore",
   "select_kid_for_chore_copy_title": "Choose child",
   "select_kid_for_chore_copy_subtitle": "Who do you want to assign the copy of this chore to?",
   "add_chore_image_proof_to_complete": "Add picture proof to complete!",
