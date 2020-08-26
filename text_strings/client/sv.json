@@ -1985,7 +1985,7 @@
   "chore_waiting_for_approval": "Väntar på godkännande",
   "new_supporter_connection_text": "Grattis! %1$d accepterade din inbjudan. Kanske dags föreslå en uppgift?",
   "new_kid_connection_text": "%1$d accepterade din inbjudan. Sätt upp veckopeng, bonus och uppgifter nu!",
-  "kid_got_new_connection_success_title": "Fler supporters betyder fler möjligheter att tjäna extra pengar! Du kanske ska föreslå en uppgift till %1$d?",
+  "kid_got_new_connection_success_title": "PLZ_CHECK More supporters means more opportunities to earn money! Do you want to connect with %1$d?",
   "one_month_free": "1 månad gratis",
   "there_after_x_per_year": "Sen %1$d/år",
   "allowance_day_settings_row": "Payday",
@@ -2118,7 +2118,7 @@
   "general_continue": "Fortsätt",
   "new_connection_infoview_title_kid": "Du är nu kopplad till %1$d!",
   "new_connection_infoview_title_parent": "Du är nu kopplad till %1$d!",
-  "accepted_invite_setup_flow_description_kid": "Fler supporters betyder fler möjligheter att tjäna pengar! Föreslå en uppgift till %1$d?",
+  "accepted_invite_setup_flow_description_kid": "PLZ_CHECK More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
   "confirm_delete_chore_popover_title": "Säker på att du vill ta bort den här uppgiften?",
   "confirm_delete_chore_popover_text": "Du kommer inte kunna ångra dig. Den här uppgiften försvinner för alltid!",
   "onfido_notification_success": "ID-verifieringen klar! Nu kan du beställa kortet...",
@@ -3284,10 +3284,10 @@
   "signup_birthday_subtitle": "Vi behöver räkna ut vilken typ av konto du borde skapa!",
   "signup_usertype_kid_subtitle": "Vi gissar baserat på din ålder. Du kan byta nedan om vi har fel!",
   "signup_usertype_parent_subtitle": "Vi gissar baserat på din ålder. Du kan byta nedan om vi har fel!",
-  "general_im_a_kid": "Dags att skapa ditt barn-konto!",
-  "general_im_a_parent": "Dags att skapa ditt supporter-konto!",
+  "general_im_a_kid": "PLZ_CHECK I'm a child",
+  "general_im_a_parent": "PLZ_CHECK I'm an adult",
   "interest_average_for_weekly": "Snittet för veckopeng är %1$d%",
   "interest_average_for_monthly": "Snittet för månadspeng är %1$d%",
   "card_settings_payday_target_account": "Payday-konto",
-  "cloud_transactions": "PLZ_CHECK Transactions"
+  "cloud_transactions": "PLZ_CHECK Events"
 }

@@ -1985,7 +1985,7 @@
   "chore_waiting_for_approval": "Odottaa hyväksyntää",
   "new_supporter_connection_text": "Onneksi olkoon! %1$d hyväksyi kutsusi. Ehdota askaretta?",
   "new_kid_connection_text": "%1$d hyväksyi kutsusi. Aseta viikko- tai kuukausiraha, korko ja askareet!",
-  "kid_got_new_connection_success_title": "Mitä enemmän tukijoita, sitä enemmän mahdollisuuksia tienata rahaa! Haluatko ehdottaa askaretta käyttäjälle %1$d?",
+  "kid_got_new_connection_success_title": "PLZ_TRANSLATE More supporters means more opportunities to earn money! Do you want to connect with %1$d?",
   "one_month_free": "1 kuukausi ilmaiseksi",
   "there_after_x_per_year": "Sen jälkeen %1$d/vuosi",
   "allowance_day_settings_row": "PLZ_TRANSLATE Payday",
@@ -2118,7 +2118,7 @@
   "general_continue": "Jatka",
   "new_connection_infoview_title_kid": "Sinut on yhdistetty käyttäjään %1$d!",
   "new_connection_infoview_title_parent": "Sinut on yhdistetty käyttäjään %1$d!",
-  "accepted_invite_setup_flow_description_kid": "Enemmän tukijoita tarkoittaa enemmän mahdollisuuksia tienata rahaa! Ehdota askaretta henkilölle %1$d?",
+  "accepted_invite_setup_flow_description_kid": "PLZ_TRANSLATE More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
   "confirm_delete_chore_popover_title": "Haluatko varmasti poistaa askareita?",
   "confirm_delete_chore_popover_text": "Et voi perua tätä, askare poistetaan lopullisesti!",
   "onfido_notification_success": "Henkilöllisyysvahvistus on valmis! Tilaa kortti nyt...",
@@ -3284,10 +3284,10 @@
   "signup_birthday_subtitle": "PLZ_TRANSLATE We need to calculate what kind of account you should create!!",
   "signup_usertype_kid_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
-  "general_im_a_kid": "PLZ_TRANSLATE Let's set up your child account!",
-  "general_im_a_parent": "PLZ_TRANSLATE Let's set up your supporter account!",
+  "general_im_a_kid": "PLZ_TRANSLATE I'm a child",
+  "general_im_a_parent": "PLZ_TRANSLATE I'm an adult",
   "interest_average_for_weekly": "PLZ_TRANSLATE Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%",
   "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account",
-  "cloud_transactions": "PLZ_TRANSLATE Transactions"
+  "cloud_transactions": "PLZ_TRANSLATE Events"
 }

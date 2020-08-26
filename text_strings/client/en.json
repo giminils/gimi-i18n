@@ -1985,7 +1985,7 @@
   "chore_waiting_for_approval": "Waiting for approval",
   "new_supporter_connection_text": "Congratulations! %1$d accepted your invitation. Maybe suggest a chore?",
   "new_kid_connection_text": "%1$d accepted your invitation. Set up allowance, bonus and chores now!",
-  "kid_got_new_connection_success_title": "PLZ_COPY More supporters means more opportunities to earn money! Do you want to connect with %1$d?",
+  "kid_got_new_connection_success_title": "More supporters means more opportunities to earn money! Do you want to connect with %1$d?",
   "one_month_free": "1 month free",
   "there_after_x_per_year": "Then %1$d/year",
   "allowance_day_settings_row": "Payday",
@@ -2118,7 +2118,7 @@
   "general_continue": "Continue",
   "new_connection_infoview_title_kid": "You're connected to %1$d!",
   "new_connection_infoview_title_parent": "You're connected to %1$d!",
-  "accepted_invite_setup_flow_description_kid": "PLZ_COPY More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
+  "accepted_invite_setup_flow_description_kid": "More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
   "confirm_delete_chore_popover_title": "Sure you want to delete this chore?",
   "confirm_delete_chore_popover_text": "You will not be able to undo this, this chore will be forever deleted!",
   "onfido_notification_success": "ID verification completed! Order the card now...",
@@ -3284,10 +3284,10 @@
   "signup_birthday_subtitle": "We need to calculate what kind of account you should create!",
   "signup_usertype_kid_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "We’re guessing based on your age. You can swap below if we’re incorrect!",
-  "general_im_a_kid": "PLZ_COPY I'm a child",
-  "general_im_a_parent": "PLZ_COPY I'm an adult",
+  "general_im_a_kid": "I'm a child",
+  "general_im_a_parent": "I'm an adult",
   "interest_average_for_weekly": "Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "Average interest for monthly allowance is %1$d%",
   "card_settings_payday_target_account": "Allowance target account",
-  "cloud_transactions":"PLZ_COPY Events"
+  "cloud_transactions": "Events"
 }

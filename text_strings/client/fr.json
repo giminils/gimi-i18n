@@ -1985,7 +1985,7 @@
   "chore_waiting_for_approval": "En attente d'approbation",
   "new_supporter_connection_text": "Félicitations! %1$d a accepté votre invitation. Suggérez peut-être une corvée?",
   "new_kid_connection_text": "%1$d a accepté votre invitation. Maintenant, mettez en place l'indemnité, les intérêts et les tâches!",
-  "kid_got_new_connection_success_title": "Plus de supporteurs signifie plus d'opportunités de gagner de l'argent! Vous devriez peut-être suggérer une corvée à %1$d?",
+  "kid_got_new_connection_success_title": "PLZ_TRANSLATE More supporters means more opportunities to earn money! Do you want to connect with %1$d?",
   "one_month_free": "1 mois gratuit",
   "there_after_x_per_year": "Ensuite %1$d/an",
   "allowance_day_settings_row": "PLZ_TRANSLATE Payday",
@@ -2118,7 +2118,7 @@
   "general_continue": "Continuez",
   "new_connection_infoview_title_kid": "Vous êtes connecté à %1$d!",
   "new_connection_infoview_title_parent": "Vous êtes connecté à %1$d!",
-  "accepted_invite_setup_flow_description_kid": "Plus de supporteurs signifie plus d'opportunités de gagner de l'argent! Suggérer une corvée à %1$d?",
+  "accepted_invite_setup_flow_description_kid": "PLZ_TRANSLATE More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
   "confirm_delete_chore_popover_title": "Êtes-vous sûr de vouloir supprimer cette corvée?",
   "confirm_delete_chore_popover_text": "Vous ne pourrez pas revenir en arrière sur cela, cette tâche sera définitivement supprimée!",
   "onfido_notification_success": "Vérification de l'identité terminée! Commandez la carte maintenant...",
@@ -3284,10 +3284,10 @@
   "signup_birthday_subtitle": "PLZ_TRANSLATE We need to calculate what kind of account you should create!!",
   "signup_usertype_kid_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
   "signup_usertype_parent_subtitle": "PLZ_TRANSLATE We’re guessing based on your age. You can swap below if we’re incorrect!",
-  "general_im_a_kid": "PLZ_TRANSLATE Let's set up your child account!",
-  "general_im_a_parent": "PLZ_TRANSLATE Let's set up your supporter account!",
+  "general_im_a_kid": "PLZ_TRANSLATE I'm a child",
+  "general_im_a_parent": "PLZ_TRANSLATE I'm an adult",
   "interest_average_for_weekly": "PLZ_TRANSLATE Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%",
   "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account",
-  "cloud_transactions": "PLZ_TRANSLATE Transactions"
+  "cloud_transactions": "PLZ_TRANSLATE Events"
 }
