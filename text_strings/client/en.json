@@ -2118,7 +2118,7 @@
   "general_continue": "Continue",
   "new_connection_infoview_title_kid": "You're connected to %1$d!",
   "new_connection_infoview_title_parent": "You're connected to %1$d!",
-  "accepted_invite_setup_flow_description_kid": "More supporters means more opportunities to earn money! Suggest a chore to %1$d?",
+  "accepted_invite_setup_flow_description_kid": "PLZ_COPY More supporters means more opportunities to earn money! Want to accept the invite from %1$d?",
   "confirm_delete_chore_popover_title": "Sure you want to delete this chore?",
   "confirm_delete_chore_popover_text": "You will not be able to undo this, this chore will be forever deleted!",
   "onfido_notification_success": "ID verification completed! Order the card now...",
