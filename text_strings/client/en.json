@@ -3220,7 +3220,7 @@
   "accounts_gimi_card": "Gimi card",
   "accounts_vault": "Vault",
   "accounts_piggy_back": "Piggybank",
-  "accounts_no_spending_history": "No spending history...",
+  "accounts_no_spending_history": "No spending history this month...",
   "accounts_no_purchases": "No purchases yet...",
   "subscription_error_in_validation": "Subscription is in validation, please contact support if problem persists",
   "subscription_error_already_has_sub": "This child already has a subscription",
