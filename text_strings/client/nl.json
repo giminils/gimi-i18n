@@ -3290,5 +3290,8 @@
   "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%",
   "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account",
   "cloud_transactions": "PLZ_TRANSLATE Events",
-  "general_suggest_chore": "PLZ_TRANSLATE Suggest chore"
+  "general_suggest_chore": "PLZ_TRANSLATE Suggest chore",
+  "general_gimi_master": "PLZ_TRANSLATE Gimi Master",
+  "general_upgrade_to": "PLZ_TRANSLATE Upgrade to",
+  "master_selling_slogan": "PLZ_TRANSLATE Teach real money habits. A lesson that lasts for life."
 }
