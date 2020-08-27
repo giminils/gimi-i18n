@@ -3289,5 +3289,6 @@
   "interest_average_for_weekly": "Snittet för veckopeng är %1$d%",
   "interest_average_for_monthly": "Snittet för månadspeng är %1$d%",
   "card_settings_payday_target_account": "Payday-konto",
-  "cloud_transactions": "Händelser"
+  "cloud_transactions": "Händelser",
+  "kid_chore_inspo": "PLZ_CHECK Suggest chore"
 }

@@ -3289,5 +3289,6 @@
   "interest_average_for_weekly": "Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "Average interest for monthly allowance is %1$d%",
   "card_settings_payday_target_account": "Allowance target account",
-  "cloud_transactions": "Events"
+  "cloud_transactions": "Events",
+  "kid_chore_inspo":"Suggest chore"
 }

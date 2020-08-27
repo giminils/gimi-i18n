@@ -3289,5 +3289,6 @@
   "interest_average_for_weekly": "PLZ_TRANSLATE Average interest for weekly allowance is %1$d%",
   "interest_average_for_monthly": "PLZ_TRANSLATE Average interest for monthly allowance is %1$d%",
   "card_settings_payday_target_account": "PLZ_TRANSLATE Allowance target account",
-  "cloud_transactions": "PLZ_TRANSLATE Events"
+  "cloud_transactions": "PLZ_TRANSLATE Events",
+  "kid_chore_inspo": "PLZ_TRANSLATE Suggest chore"
 }
