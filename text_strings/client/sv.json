@@ -3312,5 +3312,8 @@
   "premium_offer_subtitle_8": "PLZ_CHECK offer subtitle 8",
   "price_offer_1_month_free": "PLZ_CHECK Right now! Try one month for free.",
   "general_view_deals": "PLZ_CHECK View deals",
-  "plan_for_kid": "PLZ_CHECK Choose a plan for %1$d"
+  "plan_for_kid": "PLZ_CHECK Choose a plan for %1$d",
+  "goal_plan_reached_in": "PLZ_CHECK Reached in",
+  "days_if_you_save_weekly": "PLZ_CHECK days if you save your weekly allowance",
+  "days_if_you_save_monthly": "PLZ_CHECK days if you save your monthly allowance"
 }

@@ -3312,5 +3312,8 @@
   "premium_offer_subtitle_8": "PLZ_TRANSLATE offer subtitle 8",
   "price_offer_1_month_free": "PLZ_TRANSLATE Right now! Try one month for free.",
   "general_view_deals": "PLZ_TRANSLATE View deals",
-  "plan_for_kid": "PLZ_TRANSLATE Choose a plan for %1$d"
+  "plan_for_kid": "PLZ_TRANSLATE Choose a plan for %1$d",
+  "goal_plan_reached_in": "PLZ_TRANSLATE Reached in",
+  "days_if_you_save_weekly": "PLZ_TRANSLATE days if you save your weekly allowance",
+  "days_if_you_save_monthly": "PLZ_TRANSLATE days if you save your monthly allowance"
 }

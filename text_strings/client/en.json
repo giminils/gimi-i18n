@@ -3312,5 +3312,8 @@
   "premium_offer_subtitle_8": "offer subtitle 8",
   "price_offer_1_month_free": "Right now! Try one month for free.",
   "general_view_deals": "View deals",
-  "plan_for_kid": "Choose a plan for %1$d"
+  "plan_for_kid": "Choose a plan for %1$d",
+  "goal_plan_reached_in": "Reached in",
+  "days_if_you_save_weekly":"days if you save your weekly allowance",
+  "days_if_you_save_monthly": "days if you save your monthly allowance"
 }
