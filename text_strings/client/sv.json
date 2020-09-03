@@ -3290,9 +3290,9 @@
   "interest_average_for_monthly": "Snittet för månadspeng är %1$d%",
   "card_settings_payday_target_account": "Payday-konto",
   "cloud_transactions": "Händelser",
-  "general_suggest_chore": "PLZ_CHECK Suggest chore",
-  "general_gimi_master": "PLZ_CHECK Gimi Master",
-  "general_upgrade_to": "PLZ_CHECK Upgrade to",
+  "general_suggest_chore": "Föreslå uppgift",
+  "general_gimi_master": "Gimi Master",
+  "general_upgrade_to": "Uppgradera till",
   "master_selling_slogan": "PLZ_CHECK Teach real money habits.\nA lesson that lasts for life.",
   "premium_offer_title_1": "PLZ_CHECK Med lärande för livet",
   "premium_offer_subtitle_1": "PLZ_CHECK offer subtitle 1",
@@ -3313,7 +3313,7 @@
   "price_offer_1_month_free": "PLZ_CHECK Right now! Try one month for free.",
   "general_view_deals": "PLZ_CHECK View deals",
   "plan_for_kid": "PLZ_CHECK Choose a plan for %1$d",
-  "goal_plan_reached_in": "PLZ_CHECK Reached in",
-  "days_if_you_save_weekly": "PLZ_CHECK days if you save your weekly allowance",
-  "days_if_you_save_monthly": "PLZ_CHECK days if you save your monthly allowance"
+  "goal_plan_reached_in": "Nås om",
+  "days_if_you_save_weekly": "dagar om du sparar din veckopeng",
+  "days_if_you_save_monthly": "dagar om du sparar din månadspeng"
 }
