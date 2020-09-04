@@ -3315,5 +3315,14 @@
   "plan_for_kid": "PLZ_CHECK Choose a plan for %1$d",
   "goal_plan_reached_in": "Nås om",
   "days_if_you_save_weekly": "dagar om du sparar din veckopeng",
-  "days_if_you_save_monthly": "dagar om du sparar din månadspeng"
+  "days_if_you_save_monthly": "dagar om du sparar din månadspeng",
+  "general_selling_point": "PLZ_CHECK Real money habits, a lesson that lasts for life.",
+  "about_premium_info": "PLZ_CHECK Let your child earn, save and spend money independently using the Gimi card and the smart vault.",
+  "how_it_works_start_a_sub": "PLZ_CHECK Start a subscription",
+  "how_it_works_order_card": "PLZ_CHECK Order the card",
+  "how_it_works_delivery": "PLZ_CHECK Delivery 7-14 days",
+  "general_award_winning_app": "PLZ_CHECK Award-winning app",
+  "no_commitment_cancel_any_time": "PLZ_CHECK No commitment - cancel anytime",
+  "first_month_free": "PLZ_CHECK Get your first month for free!",
+  "general_how_it_works": "PLZ_CHECK How it works"
 }
