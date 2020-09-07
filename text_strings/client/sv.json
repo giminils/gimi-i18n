@@ -1201,7 +1201,7 @@
   "card_lost_stolen_confirmation_title": "Ditt nya kort är på väg!",
   "card_lost_stolen_confirmation_text": "Ingen fara. Ditt gamla kort har avaktiverats och dina pengar är säkra. När ditt nya kort kommer måste du aktivera det innan du kan använda det.",
   "proof_required_chore_summary": "Bevis krävs",
-  "general_no_active_goal": "Inget aktivt mål ännu",
+  "general_no_active_goal": "PLZ_CHECK No goal added",
   "something_went_wrong_parent": "Åh nej...\nnågonting gick fel",
   "something_went_wrong_child": "Åh nej...\nnågonting gick fel",
   "general_tell_us": "Berätta för oss!",
@@ -3220,7 +3220,7 @@
   "accounts_gimi_card": "Gimi-kort",
   "accounts_vault": "Valv",
   "accounts_piggy_back": "Spargris",
-  "accounts_no_spending_history": "Ingen spenderingshistorik denna månad...",
+  "accounts_no_spending_history": "PLZ_CHECK Nothing purchased this month...",
   "accounts_no_purchases": "Inga köp har gjorts än!",
   "subscription_error_in_validation": "Prenumerationen valideras, kontakta support om problemet kvarstår",
   "subscription_error_already_has_sub": "Det här barnet har redan en prenumeration",
@@ -3327,5 +3327,6 @@
   "general_how_it_works": "PLZ_CHECK How it works",
   "best_finance_app_teaser": "PLZ_CHECK “Best personal finance app”",
   "by_aftonbladet": "PLZ_CHECK - Aftonbladet",
-  "general_what_was_purchased": "PLZ_CHECK What was purchased?"
+  "general_what_was_purchased": "PLZ_CHECK What was purchased?",
+  "add_picture_subtitle": "PLZ_CHECK Your profile picture is only visible to users you're connected to!"
 }

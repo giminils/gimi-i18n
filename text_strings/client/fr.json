@@ -1201,7 +1201,7 @@
   "card_lost_stolen_confirmation_title": "Votre nouvelle carte est en route!",
   "card_lost_stolen_confirmation_text": "Ne vous inquiétez-pas. Votre ancienne carte a été bloquée, et votre argent est donc sûr. Vous devrez activer votre nouvelle carte lorsqu'elle arrive avant de pouvoir vous en servir.",
   "proof_required_chore_summary": "Preuve requise",
-  "general_no_active_goal": "PLZ_TRANSLATE No active goal yet",
+  "general_no_active_goal": "PLZ_TRANSLATE No goal added",
   "something_went_wrong_parent": "Oh non....\nune erreur s'est produite",
   "something_went_wrong_child": "Oh non....\nune erreur s'est produite",
   "general_tell_us": "Dites-le nous!",
@@ -3220,7 +3220,7 @@
   "accounts_gimi_card": "PLZ_TRANSLATE Gimi card",
   "accounts_vault": "PLZ_TRANSLATE Vault",
   "accounts_piggy_back": "PLZ_TRANSLATE Piggybank",
-  "accounts_no_spending_history": "PLZ_TRANSLATE No spending history...",
+  "accounts_no_spending_history": "PLZ_TRANSLATE Nothing purchased this month...",
   "accounts_no_purchases": "PLZ_TRANSLATE No purchases yet...",
   "subscription_error_in_validation": "PLZ_TRANSLATE Subscription is in validation, please contact support if problem persists",
   "subscription_error_already_has_sub": "PLZ_TRANSLATE This child already has a subscription",
@@ -3327,5 +3327,6 @@
   "general_how_it_works": "PLZ_TRANSLATE How it works",
   "best_finance_app_teaser": "PLZ_TRANSLATE “Best personal finance app”",
   "by_aftonbladet": "PLZ_TRANSLATE - Aftonbladet",
-  "general_what_was_purchased": "PLZ_TRANSLATE What was purchased?"
+  "general_what_was_purchased": "PLZ_TRANSLATE What was purchased?",
+  "add_picture_subtitle": "PLZ_TRANSLATE Your profile picture is only visible to users you're connected to!"
 }

@@ -1201,7 +1201,7 @@
   "card_lost_stolen_confirmation_title": "Your new card is on its way!",
   "card_lost_stolen_confirmation_text": "Don’t worry. Your old card has been disabled so your money is safe. You will need to activate your new card when it arrives before you can use it.",
   "proof_required_chore_summary": "Proof required",
-  "general_no_active_goal": "PLZ_COPY No goal added",
+  "general_no_active_goal": "No goal added",
   "something_went_wrong_parent": "Oh no...\nsomething went wrong",
   "something_went_wrong_child": "Oh no...\nsomething went wrong",
   "general_tell_us": "Tell us!",
@@ -3220,7 +3220,7 @@
   "accounts_gimi_card": "Gimi card",
   "accounts_vault": "Vault",
   "accounts_piggy_back": "Piggybank",
-  "accounts_no_spending_history": "PLZ_COPY Nothing purchased this month...",
+  "accounts_no_spending_history": "Nothing purchased this month...",
   "accounts_no_purchases": "No purchases yet...",
   "subscription_error_in_validation": "Subscription is in validation, please contact support if problem persists",
   "subscription_error_already_has_sub": "This child already has a subscription",
@@ -3325,7 +3325,8 @@
   "no_commitment_cancel_any_time": "No commitment - cancel anytime",
   "first_month_free": "Get your first month for free!",
   "general_how_it_works": "How it works",
-  "best_finance_app_teaser":"“Best personal finance app”",
-  "by_aftonbladet":"- Aftonbladet",
-  "general_what_was_purchased":"What was purchased?"
+  "best_finance_app_teaser": "“Best personal finance app”",
+  "by_aftonbladet": "- Aftonbladet",
+  "general_what_was_purchased": "What was purchased?",
+  "add_picture_subtitle": "Your profile picture is only visible to users you're connected to!"
 }
