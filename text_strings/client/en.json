@@ -3294,22 +3294,22 @@
   "general_gimi_master": "Gimi Master",
   "general_upgrade_to": "Upgrade to",
   "master_selling_slogan": "Teach real money habits.\nA lesson that lasts for life.",
-  "premium_offer_title_1": "Med lärande för livet",
-  "premium_offer_subtitle_1": "offer subtitle 1",
-  "premium_offer_title_2": "Det första egna kortet",
-  "premium_offer_subtitle_2": "offer subtitle 2",
-  "premium_offer_title_3": "Master support",
-  "premium_offer_subtitle_3": "offer subtitle 3",
-  "premium_offer_title_4": "Hela familjen får hänga med",
-  "premium_offer_subtitle_4": "offer subtitle 4",
-  "premium_offer_title_5": "Toggle online purchases",
-  "premium_offer_subtitle_5": "offer subtitle 5",
-  "premium_offer_title_6": "Kategorisering i real-tid",
-  "premium_offer_subtitle_6": "offer subtitle 6",
-  "premium_offer_title_7": "Barnets egna PIN-kod",
-  "premium_offer_subtitle_7": "offer subtitle 7",
-  "premium_offer_title_8": "Introducing the Smart Vault",
-  "premium_offer_subtitle_8": "offer subtitle 8",
+  "premium_offer_title_1": "PLZ_COPY A lesson for life",
+  "premium_offer_subtitle_1": "PLZ_COPY Equip your child with skills they will appreciate forever.",
+  "premium_offer_title_2": "PLZ_COPY The card for children",
+  "premium_offer_subtitle_2": "PLZ_COPY Let your child spend their money independently.",
+  "premium_offer_title_3": "PLZ_COPY Master support",
+  "premium_offer_subtitle_3": "PLZ_COPY When you’re struggling, we’re here to help.",
+  "premium_offer_title_4": "PLZ_COPY Include the entire family",
+  "premium_offer_subtitle_4": "PLZ_COPY Grandma can use Gimi too. Birthday cash goes digital!",
+  "premium_offer_title_5": "PLZ_COPY Control online purchases",
+  "premium_offer_subtitle_5": "PLZ_COPY Allow or disallow them, you’re the one in charge.",
+  "premium_offer_title_6": "PLZ_COPY Real-time categorization",
+  "premium_offer_subtitle_6": "PLZ_COPY Get notifications when your child spends their money.",
+  "premium_offer_title_7": "PLZ_COPY Your child’s own PIN code",
+  "premium_offer_subtitle_7": "PLZ_COPY If forgotten, it can always be found it in the app.",
+  "premium_offer_title_8": "PLZ_COPY Introducing the Vault",
+  "premium_offer_subtitle_8": "PLZ_COPY The money are kept in the Vault, but are spent with the Card.",
   "price_offer_1_month_free": "Right now! Try one month for free.",
   "general_view_deals": "View deals",
   "plan_for_kid": "Choose a plan for %1$d",
@@ -3376,10 +3376,4 @@
   "premium_offer_selling_point_12": "ATM withdrawals",
   "premium_offer_selling_point_13": "Loadings with Swish",
   "premium_offer_selling_point_14": "Purchase evaluation"
-
-
-  
-
-
-
 }
