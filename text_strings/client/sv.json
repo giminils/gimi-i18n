@@ -3335,5 +3335,7 @@
   "child_safe_info_2": "PLZ_CHECK Trusted by thousands of parents",
   "child_safe_info_desc_2": "PLZ_CHECK We want the best for your child too.",
   "child_safe_info_3": "PLZ_CHECK No sharing of personal data",
-  "child_safe_info_desc_3": "PLZ_CHECK Your data is safe with us."
+  "child_safe_info_desc_3": "PLZ_CHECK Your data is safe with us.",
+  "developed_with_kids_title": "PLZ_CHECK Developed in collaboration with",
+  "developed_with_kids_subtitle": "PLZ_CHECK children"
 }
