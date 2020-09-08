@@ -3375,5 +3375,8 @@
   "premium_offer_selling_point_11": "PLZ_CHECK Easy order directly in-app",
   "premium_offer_selling_point_12": "PLZ_CHECK ATM withdrawals",
   "premium_offer_selling_point_13": "PLZ_CHECK Loadings with Swish",
-  "premium_offer_selling_point_14": "PLZ_CHECK Purchase evaluation"
+  "premium_offer_selling_point_14": "PLZ_CHECK Purchase evaluation",
+  "note_from_ceo": "PLZ_CHECK A note from the CEO",
+  "premium_offer_by_philip": "PLZ_CHECK “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+  "signed_by_philip": "PLZ_CHECK - Philip Haglund, CEO"
 }

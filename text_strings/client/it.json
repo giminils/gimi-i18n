@@ -3375,5 +3375,8 @@
   "premium_offer_selling_point_11": "PLZ_TRANSLATE Easy order directly in-app",
   "premium_offer_selling_point_12": "PLZ_TRANSLATE ATM withdrawals",
   "premium_offer_selling_point_13": "PLZ_TRANSLATE Loadings with Swish",
-  "premium_offer_selling_point_14": "PLZ_TRANSLATE Purchase evaluation"
+  "premium_offer_selling_point_14": "PLZ_TRANSLATE Purchase evaluation",
+  "note_from_ceo": "PLZ_TRANSLATE A note from the CEO",
+  "premium_offer_by_philip": "PLZ_TRANSLATE “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+  "signed_by_philip": "PLZ_TRANSLATE - Philip Haglund, CEO"
 }
