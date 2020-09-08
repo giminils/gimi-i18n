@@ -3361,5 +3361,19 @@
   "premium_offer_money_cant_buy_2": "PLZ_CHECK Stay in control",
   "premium_offer_money_cant_buy_2_desc": "PLZ_CHECK Track everything, block if needed.",
   "premium_offer_money_cant_buy_3": "PLZ_CHECK Simple - not like traditional banks",
-  "premium_offer_money_cant_buy_3_desc": "PLZ_CHECK Get a virtual card in 5 minutes."
+  "premium_offer_money_cant_buy_3_desc": "PLZ_CHECK Get a virtual card in 5 minutes.",
+  "premium_offer_selling_point_1": "PLZ_CHECK Schedule allowance",
+  "premium_offer_selling_point_2": "PLZ_CHECK Chores & dream",
+  "premium_offer_selling_point_3": "PLZ_CHECK Gimi Card ",
+  "premium_offer_selling_point_4": "PLZ_CHECK Gimi account",
+  "premium_offer_selling_point_5": "PLZ_CHECK Direct, free in-app transfers ",
+  "premium_offer_selling_point_6": "PLZ_CHECK Spending notifications",
+  "premium_offer_selling_point_7": "PLZ_CHECK Spending categories",
+  "premium_offer_selling_point_8": "PLZ_CHECK Spending limits",
+  "premium_offer_selling_point_9": "PLZ_CHECK Direct in-app premium support",
+  "premium_offer_selling_point_10": "PLZ_CHECK Personalised PIN-code",
+  "premium_offer_selling_point_11": "PLZ_CHECK Easy order directly in-app",
+  "premium_offer_selling_point_12": "PLZ_CHECK ATM withdrawals",
+  "premium_offer_selling_point_13": "PLZ_CHECK Loadings with Swish",
+  "premium_offer_selling_point_14": "PLZ_CHECK Purchase evaluation"
 }
