@@ -2809,6 +2809,8 @@
   "premium_info_faq_answer_5": "De Gimi-kaart is meer dan een kind, ze leert je kinderen slim om te gaan met geld. De kaart is zowel met de opvoedkundige Gimi app van je kinderen als met je ouder app verbonden. We verkopen geen gegevens en tonen geen advertenties in de app, daarom is er een betaalde versie voor gebuikers die onze missie willen ondersteunen.",
   "premium_info_faq_question_6": "Is het veilig?",
   "premium_info_faq_answer_6": "Gimi gebruikt tweefactor-authenticatie om je geld te beschermen. We gebruiken een telefoonnummer in plaats van BankID. Met het telefoonnummer stelt je kind een wachtwoord voor de app in.",
+  "premium_info_faq_question_7": "PLZ_TRANSLATE How does promo codes work?",
+  "premium_info_faq_answer_7": "PLZ_TRANSLATE A promo code will give you Gimi Master a certain number of months for free. After the free months, you will be charged according to your chosen subscription model.",
   "settings_enable_cloud": "Toon spaarvarken",
   "parent_help_card_master_title": "Is je kind klaar voor echt geld?",
   "parent_help_card_master_text": "Begin met je gratis maand!",

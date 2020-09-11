@@ -2809,6 +2809,8 @@
   "premium_info_faq_answer_5": "Gimi-kortti on enemmän kuin kortti, se myös opettaa lapsille järkeviä rahatapoja. Gimi-kortti yhdistetään sekä lapsen, että vanhemman Gimi-sovellukseen. Emme myy tietojasi tai näytä mainoksia sovelluksessa, joten rahoittaaksemme palvelua tarjoamme maksullista versiota käyttäjille, jotka haluavat tukea tavoitettamme.",
   "premium_info_faq_question_6": "Onko se turvallinen?",
   "premium_info_faq_answer_6": "Gimi käyttää 2-vaiheista tunnistautumista pitääkseen rahasi turvassa. Käytämme puhelinnumeroa pankkitunnistuksen sijaan. Puhelinnumeron avulla lapsi asettaa sovellukseen turvakoodin.",
+  "premium_info_faq_question_7": "PLZ_TRANSLATE How does promo codes work?",
+  "premium_info_faq_answer_7": "PLZ_TRANSLATE A promo code will give you Gimi Master a certain number of months for free. After the free months, you will be charged according to your chosen subscription model.",
   "settings_enable_cloud": "Näytä säästöpossu",
   "parent_help_card_master_title": "Onko lapsesi valmis käyttämään oikeaa rahaa?",
   "parent_help_card_master_text": "Aloita ilmainen kuukautesi!",

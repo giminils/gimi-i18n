@@ -2809,6 +2809,8 @@
   "premium_info_faq_answer_5": "Gimikortet er mere end et kort, det lærer også dine børn smarte pengevaner. Kortet er forbundet til både dit barns uddannelsesmæssige Gimi App og din forælder app. Vi sælger ikke dine data eller reklamerer i appen, hvilket er hvorfor vi tilbyder en betalende version for brugere, der gerne vil støtte vores mission.",
   "premium_info_faq_question_6": "Er det sikret?",
   "premium_info_faq_answer_6": "Gimi bruger 2-faktor-godkendelse for at holde dine penge sikre. Vi bruger et telefonnummer i stedet for BankID. Med telefonnummeret opretter dit barn en app-adgangskode.",
+  "premium_info_faq_question_7": "PLZ_TRANSLATE How does promo codes work?",
+  "premium_info_faq_answer_7": "PLZ_TRANSLATE A promo code will give you Gimi Master a certain number of months for free. After the free months, you will be charged according to your chosen subscription model.",
   "settings_enable_cloud": "Vis sparegris",
   "parent_help_card_master_title": "Er dit barn klar til rigtige penge?",
   "parent_help_card_master_text": "Start din gratis måned!",

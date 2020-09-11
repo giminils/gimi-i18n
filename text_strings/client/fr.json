@@ -2809,6 +2809,8 @@
   "premium_info_faq_answer_5": "La carte Gimi est plus qu'une carte, elle enseigne également à vos enfants des habitudes d'argent intelligentes. La carte est connectée à l'application éducative Gimi de votre enfant et à l'application parent. Nous ne vendons pas vos données ni ne faisons de publicité dans l'application, c'est pourquoi nous proposons une version payante aux utilisateurs qui souhaitent soutenir notre mission.",
   "premium_info_faq_question_6": "Est-ce sécurisé?",
   "premium_info_faq_answer_6": "Gimi utilise une authentification à 2 facteurs pour protéger votre argent. Nous utilisons un numéro de téléphone au lieu de BankID. Avec le numéro de téléphone, votre enfant configurera un code d'accès à l'application.",
+  "premium_info_faq_question_7": "PLZ_TRANSLATE How does promo codes work?",
+  "premium_info_faq_answer_7": "PLZ_TRANSLATE A promo code will give you Gimi Master a certain number of months for free. After the free months, you will be charged according to your chosen subscription model.",
   "settings_enable_cloud": "Afficher les économies de la tirelire",
   "parent_help_card_master_title": "Votre enfant est-il prêt pour de l'argent réel?",
   "parent_help_card_master_text": "Commencez votre mois gratuit!",
