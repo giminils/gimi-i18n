@@ -190,7 +190,7 @@
   "push_receive_first_money": "Du har fått dina första pengar!",
   "event_got_weekly_allowance": "Du får nu veckopeng på Payday",
   "event_got_monthly_allowance": "Du får nu månadspeng på Payday",
-  "event_got_a_new_chore": "{parent.nickname} la till en ny uppgift",
+  "event_got_a_new_chore": "{parent.nickname} lade till en ny uppgift",
   "push_got_a_new_chore": "Du har fått en ny uppgift från {parent.nickname}",
   "push_chore_was_not_approved": "{chore.title} godkändes inte av {parent.nickname}",
   "push_chore_was_approved": "{chore.title} godkändes av {parent.nickname}",
