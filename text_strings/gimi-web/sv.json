@@ -791,5 +791,6 @@
   "pages.limits.table.section3.row5.col1": "Maxbelopp kort/kontosaldo",
   "pages.limits.table.section3.row5.col2": "15.000 (under 15 år)",
   "pages.limits.table.section3.row6.col1": "Maxbelopp kort/kontosaldo",
-  "pages.limits.table.section3.row6.col2": "30.000 (15 år och äldre)"
+  "pages.limits.table.section3.row6.col2": "30.000 (15 år och äldre)",
+  "critical.server.error.text": "PLZ_CHECK Vi är nere för underhåll och det tar lite längre tid än väntat. Vi är snart tillbaka, vi lovar!"
 }
