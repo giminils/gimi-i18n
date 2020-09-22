@@ -1338,7 +1338,7 @@
   "parent_block_card_title": "The card has been blocked",
   "parent_block_card_desc": "... and can only be unblocked by the same person who blocked it",
   "premium_allowance_subtitle": "The Gimi card only supports a monthly allowance.",
-  "kid_dream_achived": "%1$d achived a goal!",
+  "kid_dream_achived": "%1$d achived a goal",
   "kid_dream_achived_desc": "Congratulate %1$d on the achievement and keep encouraging saving!",
   "custom_transfer_amount": "Custom amount",
   "general_enter_amount": "Enter amount",
