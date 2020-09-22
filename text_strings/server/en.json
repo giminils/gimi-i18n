@@ -113,7 +113,7 @@
   "event_you_have_got_x_new_chores_child": "{parent.nickname} sent you {x} new chores",
   "event_you_have_got_an_interest_rate_of_x_parent": "{child.nickname} got a bonus of {child.total_interest_rate}%",
   "event_you_have_got_an_interest_rate_of_x_child": "Your bonus has been updated to {child.total_interest_rate}%",
-  "event_done_with_chore_parent": "{assignment.child.nickname} has completed {assignment.task.title}",
+  "event_done_with_chore_parent": "{assignment.child.nickname} is done with {assignment.task.title}. Assess it now!",
   "event_done_with_chore_child": "You are done with {assignment.task.title}",
   "push_payday_child": "Payday! You got money!",
   "push_suggest_chore_to_parents": "Want to earn more money? Suggest a chore!",
