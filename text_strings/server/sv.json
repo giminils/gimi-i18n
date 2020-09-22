@@ -192,7 +192,7 @@
   "event_got_monthly_allowance": "Du får nu månadspeng på Payday",
   "event_got_a_new_chore": "{parent.nickname} lade till en ny uppgift",
   "push_got_a_new_chore": "Du har fått en ny uppgift från {parent.nickname}",
-  "push_chore_was_not_approved": "{chore.title} godkändes inte av {parent.nickname}",
+  "push_chore_was_not_approved": "{chore.title} godkändes inte av {parent.nickname}. Försök igen!",
   "push_chore_was_approved": "{chore.title} godkändes av {parent.nickname}",
   "event_you_have_reached_a_dream_parent": "{goal.child.nickname} har nått ett mål!",
   "event_you_have_reached_a_dream_child": "Du har nått ett mål",
