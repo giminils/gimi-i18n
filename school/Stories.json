@@ -2,40 +2,58 @@
     "data": [
         {
             "id": 1,
+            "isEnabled": true,
             "screens": [
                 {
                     "titleLangKey":  "",
                     "subTitleLangKey": "",
+                    "imageUrl": "",
                     "buttons": [
-                        {},
-                        {}
+                        {
+                            "langKey": ""
+                        },
+                        {
+                            "langKey": ""
+                        }
                     ]
                 },
                 {
                     "titleLangKey": "",
                     "subTitleLangKey": "",
+                    "imageUrl": "",
                     "buttons": [
-                        {}
+                        {
+                            "langKey": ""
+                        }
                     ]
                 }
             ]
         },
         {
             "id": 2,
+            "isEnabled": true,
             "screens": [
                 {
                     "titleLangKey": "",
                     "subTitleLangKey": "",
+                    "imageUrl": "",
                     "buttons": [
-                        {},
-                        {}
+                        {
+                            "langKey": ""
+                        },
+                        {
+                            "langKey": ""
+                        }
                     ]
                 },
                 {
                     "titleLangKey": "",
                     "subTitleLangKey": "",
+                    "imageUrl": "",
                     "buttons": [
-                        {}
+                        {
+                            "langKey": ""
+                        }
                     ]
                 }
             ]

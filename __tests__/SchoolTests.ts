@@ -28,6 +28,21 @@ describe('School tests', () => {
             story.screens.map((screen) => expect(screen.subTitleLangKey).toBeDefined())
         })
     })
+    test('story should have imageUrl', () => {
+        let sotries = getStories()
+        sotries.map((story) => {
+            story.screens.map((screen) => expect(screen.imageUrl).toBeDefined())
+        })
+    })
+    test('story should have button langKeys', () => {
+        let sotries = getStories()
+        sotries.map((story) => {
+            story.screens.map((screen) => {
+                screen.buttons.map((button) => expect(button.langKey).toBeDefined())
+            })
+        })
+    })
+
     test('stories should have uniqueIDs', () => {
         let sotries = getStories()
         let ids: Array<Number> = []
