@@ -5,25 +5,44 @@
             "isEnabled": true,
             "screens": [
                 {
-                    "titleLangKey":  "",
-                    "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "titleLangKey":  "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button1"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button2"
                         }
                     ]
                 },
                 {
-                    "titleLangKey": "",
-                    "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button1"
+                        }
+                    ]
+                },
+                {
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        },
+                        {
+                            "langKey": "school_screen_button3"
+                        },
+                        {
+                            "langKey": "school_screen_button4"
                         }
                     ]
                 }
@@ -34,25 +53,28 @@
             "isEnabled": true,
             "screens": [
                 {
-                    "titleLangKey": "",
-                    "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button1"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button2"
                         }
-                    ]
+                    ]                
                 },
                 {
-                    "titleLangKey": "",
-                    "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
                         }
                     ]
                 }
