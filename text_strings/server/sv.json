@@ -127,6 +127,7 @@
   "event_pfs_card_unblocked_by_parent": "Ditt kort är aktivt igen",
   "push_pfs_card_blocked_by_parent": "Ditt kort har spärrats av {pfs_card.updated_by.nickname}",
   "push_pfs_card_unblocked_by_parent": "Ditt kort har aktiverats av {pfs_card.updated_by.nickname}",
+  "event_payday_child": "Payday",
   "event_payday_parent": "Payday lades till i {child.nickname}'s spargris!",
   "event_premium_payday_child": "Payday!",
   "push_you_got_a_chore_suggestion": "{task.created_by.nickname} har föreslagit en uppgift!",
