@@ -10,7 +10,7 @@ export let getAllLessons = () => {
     let quizzes = getQuizzes()
     return stories.map((story) => {
         let quizForStory = quizzes.find(quiz => quiz.id == story.id)
-        return {id: story.id, story, quiz: quizForStory}
+        return {id: story.id, isEnabled: story.isEnabled, story, quiz: quizForStory}
     })
 }
 

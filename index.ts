@@ -12,6 +12,18 @@ import es from './text_strings/client/es.json'
 import de from './text_strings/client/de.json'
 import _default from './text_strings/client/default.json'
 
+// school
+import svSchool from './text_strings/school/sv.json'
+import enSchool from './text_strings/school/en.json'
+import noSchool from './text_strings/school/nb.json'
+import daSchool from './text_strings/school/da.json'
+import frSchool from './text_strings/school/fr.json'
+import nlSchool from './text_strings/school/nl.json'
+import fiSchool from './text_strings/school/fi.json'
+import itSchool from './text_strings/school/it.json'
+import esSchool from './text_strings/school/es.json'
+import deSchool from './text_strings/school/de.json'
+
 // client_new_structure
 import svNewStructure from './text_strings/client_new_structure/sv.json'
 import enNewStructure from './text_strings/client_new_structure/en.json'
@@ -162,17 +174,17 @@ export const getEducationStrings = (lang: string) => {
 
 export const getTextStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv': return {..._default, ...sv, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ} // sweden
+    case 'sv': return {..._default, ...sv, ...svBot, ...svBotSurvey, ...svEducate, ...svFAQ, ...svSchool} // sweden
     case 'nb':
-    case 'nn': return {..._default, ...no, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ} // norway
-    case 'da': return {..._default, ...da, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ} // danish
-    case 'fr': return {..._default, ...fr, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ} // france
-    case 'nl': return {..._default, ...nl, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ} // netherlands
-    case 'fi': return {..._default, ...fi, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ} // finish
-    case 'it': return {..._default, ...it, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ} // italian
-    case 'es': return {..._default, ...es, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ} // spanish
-    case 'de': return {..._default, ...de, ...deBot, ...deBotSurvey, ...deEducate, ...deFAQ} // german
-    default: return {..._default, ...en, ...enBot, ...enBotSurvey, ...enEducate, ...enFAQ}
+    case 'nn': return {..._default, ...no, ...noBot, ...noBotSurvey, ...noEducate, ...noFAQ, ...noSchool} // norway
+    case 'da': return {..._default, ...da, ...daBot, ...daBotSurvey, ...daEducate, ...daFAQ, ...daSchool} // danish
+    case 'fr': return {..._default, ...fr, ...frBot, ...frBotSurvey, ...frEducate, ...frFAQ, ...frSchool} // france
+    case 'it': return {..._default, ...it, ...itBot, ...itBotSurvey, ...itEducate, ...itFAQ, ...itSchool} // Italian
+    case 'nl': return {..._default, ...nl, ...nlBot, ...nlBotSurvey, ...nlEducate, ...nlFAQ, ...nlSchool} // netherlands
+    case 'fi': return {..._default, ...fi, ...fiBot, ...fiBotSurvey, ...fiEducate, ...fiFAQ, ...fiSchool} // finish
+    case 'es': return {..._default, ...es, ...esBot, ...esBotSurvey, ...esEducate, ...esFAQ, ...esSchool} // spanish
+    case 'de': return {..._default, ...de, ...deBot, ...deBotSurvey, ...deEducate, ...deFAQ, ...deSchool} // german
+    default: return {..._default, ...en, ...enBot, ...enBotSurvey, ...enEducate, ...enFAQ, ...enSchool}
   }
 }
 

@@ -5,8 +5,7 @@ import jsonValidator from 'json-dup-key-validator'
 jest.disableAutomock()
 
 describe('JSON files', () => {
-  it('LOL', () => { })
-
+  it('NEED THIS TO PASS', () => { })
   let dirs
   try {
     dirs = fs.readdirSync('./text_strings/')
@@ -17,10 +16,11 @@ describe('JSON files', () => {
   dirs.forEach((dir: string) => {
     if (!fs.existsSync(dir)) return
     try {
-      if (dir === '.DS_Store' || dir === 'ios') return
+      if (dir === '.DS_Store' || dir === 'ios' || dir === 'school') return
       fs.readdirSync(dir).forEach((file: string) => {
         if (file === '.DS_Store') return
         const path = `${dir}/${file}`
+        console.warn(path)
         it(`it should have valid JSON for ${path}`, () => {
           const json = fs.readFileSync(path, {
             encoding: 'utf8'
