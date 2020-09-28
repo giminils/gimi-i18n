@@ -1,6 +1,14 @@
 import { getQuizzes, getStories, getAllLessons, getLesson} from '../school/Lessons'
 jest.disableAutomock()
 const QUIZ_TYPES = ['ROCKET', 'BANK']
+
+let warnStoryId = (story: { id: number }, prop: string) => {
+    console.warn(`Story with id: ${story.id} having problems with: ${prop} `)
+}
+
+let warnQuizId = (Quiz: { id: number }, prop: string) => {
+    console.warn(`Quiz with id: ${Quiz.id} having problems with: ${prop} `)
+}
 describe('School tests', () => {
     // STORIES
     test('it should return number of stories', () => {
@@ -8,37 +16,64 @@ describe('School tests', () => {
     })
     test('stories should have multiple screens', () => {
         let sotries = getStories()
-        sotries.map((story) => expect(story.screens.length).toBeGreaterThan(0))
+        sotries.map((story) => {
+            if (story.screens.length === 0) warnStoryId(story, 'screens length')
+            expect(story.screens.length).toBeGreaterThan(0)
+        })
     })
     test('story buttons should be array', () => {
         let sotries = getStories()
         sotries.map((story) => {
-            story.screens.map((screen) => expect(screen.buttons.length).toBeGreaterThan(0))
+            story.screens.map((screen) => {
+                if (screen.buttons.length === 0) warnStoryId(story, 'button length')
+                expect(screen.buttons.length).toBeGreaterThan(0)
+            })
         })
     })
     test('story should have titleLangKey', () => {
         let sotries = getStories()
         sotries.map((story) => {
-            story.screens.map((screen) => expect(screen.titleLangKey).toBeDefined())
+            story.screens.map((screen) => {
+                if (!screen.titleLangKey) warnStoryId(story, 'titleLangKey')
+                expect(screen.titleLangKey).toBeDefined()
+            })
         })
     })
     test('story should have subTitleLangKey', () => {
         let sotries = getStories()
         sotries.map((story) => {
-            story.screens.map((screen) => expect(screen.subTitleLangKey).toBeDefined())
+            story.screens.map((screen) => {
+                if (!screen.subTitleLangKey) warnStoryId(story, 'subTitleLangKey')
+                expect(screen.subTitleLangKey).toBeDefined()
+            })
         })
     })
     test('story should have imageUrl', () => {
         let sotries = getStories()
         sotries.map((story) => {
-            story.screens.map((screen) => expect(screen.imageUrl).toBeDefined())
+            story.screens.map((screen) => {
+                if (!screen.imageUrl) warnStoryId(story, 'imageUrl')
+                expect(screen.imageUrl).toBeDefined()
+            })
         })
     })
     test('story should have button langKeys', () => {
         let sotries = getStories()
         sotries.map((story) => {
             story.screens.map((screen) => {
-                screen.buttons.map((button) => expect(button.langKey).toBeDefined())
+                screen.buttons.map((button) => {
+                    if (!button.langKey) warnStoryId(story, 'langKey')
+                    expect(button.langKey).toBeDefined()
+                })
+            })
+        })
+    })
+    test('story should have a type', () => {
+        let sotries = getStories()
+        sotries.map((story) => {
+            story.screens.map((screen) => {
+                if (!screen.type) warnStoryId(story, 'type')
+                expect(screen.type).toBeDefined()
             })
         })
     })
@@ -64,6 +99,7 @@ describe('School tests', () => {
         let quizzes = getQuizzes()
         let types: Array<String> = []
         quizzes.map((quiz) => {
+            if (QUIZ_TYPES.indexOf(quiz.type) === -1) warnQuizId(quiz, 'type')
             expect(QUIZ_TYPES.indexOf(quiz.type)).toBeGreaterThan(-1)
         })
     })
