@@ -1,4 +1,5 @@
 {
+  "root": true,
   "extends": ["standard-flow", "standard", "standard-react"],
   "parser": "babel-eslint",
   "env": {
