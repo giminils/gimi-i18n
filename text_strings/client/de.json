@@ -3383,6 +3383,6 @@
   "signed_by_philip": "PLZ_TRANSLATE - Philip Haglund, CEO",
   "general_completed_chores": "PLZ_TRANSLATE Completed",
   "cant_approve_archived_chores": "PLZ_TRANSLATE Chores in archive can’t be approved. \nCreate a new chore instead!",
-  "setup_kid_allowance_freq_title": "PLZ_TRANSLATE Let’s set up %1$d allowance",
+  "setup_kid_allowance_freq_title": "PLZ_TRANSLATE Let’s set up allowance for %1$d",
   "PLZ_COPY setup_kid_allowance_freq_title": "Let’s set up %1$d% allowance"
 }
