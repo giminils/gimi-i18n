@@ -3384,5 +3384,6 @@
   "general_completed_chores": "PLZ_CHECK Completed",
   "cant_approve_archived_chores": "PLZ_CHECK Chores in archive can’t be approved. \nCreate a new chore instead!",
   "setup_kid_allowance_freq_title": "PLZ_CHECK Let’s set up allowance for %1$d",
-  "PLZ_COPY setup_kid_allowance_freq_title": "Let’s set up %1$d% allowance"
+  "what_day_of_week": "PLZ_CHECK What day of the week?",
+  "what_day_of_month": "PLZ_CHECK What day of the month?"
 }
