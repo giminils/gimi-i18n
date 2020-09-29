@@ -3387,5 +3387,8 @@
   "what_day_of_week": "PLZ_TRANSLATE What day of the week?",
   "what_day_of_month": "PLZ_TRANSLATE What day of the month?",
   "general_how_much": "PLZ_TRANSLATE How much?",
-  "general_add_bonus": "PLZ_TRANSLATE Add bonus rate?"
+  "general_add_bonus": "PLZ_TRANSLATE Add bonus rate?",
+  "kid_setup_done": "PLZ_TRANSLATE All set!",
+  "kid_setup_done_subtitle": "PLZ_TRANSLATE Here is a summary of your allowance settings.",
+  "done_lets_go": "PLZ_TRANSLATE Done, let's go!"
 }

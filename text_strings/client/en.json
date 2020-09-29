@@ -3387,5 +3387,8 @@
   "what_day_of_week":"What day of the week?",
   "what_day_of_month":"What day of the month?",
   "general_how_much":"How much?",
-  "general_add_bonus":"Add bonus rate?"
+  "general_add_bonus":"Add bonus rate?",
+  "kid_setup_done":"All set!",
+  "kid_setup_done_subtitle":"Here is a summary of your allowance settings.",
+  "done_lets_go":"Done, let's go!"
 }

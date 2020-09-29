@@ -3387,5 +3387,8 @@
   "what_day_of_week": "PLZ_CHECK What day of the week?",
   "what_day_of_month": "PLZ_CHECK What day of the month?",
   "general_how_much": "PLZ_CHECK How much?",
-  "general_add_bonus": "PLZ_CHECK Add bonus rate?"
+  "general_add_bonus": "PLZ_CHECK Add bonus rate?",
+  "kid_setup_done": "PLZ_CHECK All set!",
+  "kid_setup_done_subtitle": "PLZ_CHECK Here is a summary of your allowance settings.",
+  "done_lets_go": "PLZ_CHECK Done, let's go!"
 }
