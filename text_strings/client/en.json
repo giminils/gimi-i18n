@@ -3385,5 +3385,6 @@
   "cant_approve_archived_chores": "Chores in archive can’t be approved. \nCreate a new chore instead!",
   "setup_kid_allowance_freq_title": "Let’s set up allowance for %1$d",
   "what_day_of_week":"What day of the week?",
-  "what_day_of_month":"What day of the month?"
+  "what_day_of_month":"What day of the month?",
+  "general_how_much":"How much?"
 }

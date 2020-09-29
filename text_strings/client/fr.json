@@ -3385,5 +3385,6 @@
   "cant_approve_archived_chores": "PLZ_TRANSLATE Chores in archive can’t be approved. \nCreate a new chore instead!",
   "setup_kid_allowance_freq_title": "PLZ_TRANSLATE Let’s set up allowance for %1$d",
   "what_day_of_week": "PLZ_TRANSLATE What day of the week?",
-  "what_day_of_month": "PLZ_TRANSLATE What day of the month?"
+  "what_day_of_month": "PLZ_TRANSLATE What day of the month?",
+  "general_how_much": "PLZ_TRANSLATE How much?"
 }
