@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 1,
-            "isEnabled": true,
+            "quizId": 1,
             "screens": [
                 {
                     "id": 1,
@@ -74,7 +74,7 @@
         },
         {
             "id": 2,
-            "isEnabled": true,
+            "quizId": 2,
             "screens": [
                 {
                     "id": 1,
@@ -90,6 +90,213 @@
                             "langKey": "school_screen_button2"
                         }
                     ]                
+                },
+                {
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "quizId": 3,
+            "screens": [
+                {
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "quizId": 4,
+            "screens": [
+                {
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "quizId": 5,
+            "screens": [
+                {
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
                 },
                 {
                     "id": 2,

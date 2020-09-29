@@ -1,4 +1,4 @@
-import { getQuizzes, getStories, getAllLessons, getLesson} from '../school/Lessons'
+import {quizzes, stories, getAllLessons, getLesson} from '../school/School'
 jest.disableAutomock()
 const QUIZ_TYPES = ['ROCKET', 'BANK']
 
@@ -12,18 +12,16 @@ let warnQuizId = (Quiz: { id: number }, prop: string) => {
 describe('School tests', () => {
     // STORIES
     test('it should return number of stories', () => {
-        expect(getStories().length).toBeGreaterThan(0)
+        expect(stories.length).toBeGreaterThan(0)
     })
     test('stories should have multiple screens', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             if (story.screens.length === 0) warnStoryId(story, 'screens length')
             expect(story.screens.length).toBeGreaterThan(0)
         })
     })
     test('story buttons should be array', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             story.screens.map((screen) => {
                 if (screen.buttons.length === 0) warnStoryId(story, 'button length')
                 expect(screen.buttons.length).toBeGreaterThan(0)
@@ -31,8 +29,7 @@ describe('School tests', () => {
         })
     })
     test('story should have titleLangKey', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             story.screens.map((screen) => {
                 if (!screen.titleLangKey) warnStoryId(story, 'titleLangKey')
                 expect(screen.titleLangKey).toBeDefined()
@@ -40,8 +37,7 @@ describe('School tests', () => {
         })
     })
     test('story should have subTitleLangKey', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             story.screens.map((screen) => {
                 if (!screen.subTitleLangKey) warnStoryId(story, 'subTitleLangKey')
                 expect(screen.subTitleLangKey).toBeDefined()
@@ -49,8 +45,7 @@ describe('School tests', () => {
         })
     })
     test('story should have imageUrl', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             story.screens.map((screen) => {
                 if (!screen.imageUrl) warnStoryId(story, 'imageUrl')
                 expect(screen.imageUrl).toBeDefined()
@@ -58,8 +53,7 @@ describe('School tests', () => {
         })
     })
     test('story should have button langKeys', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             story.screens.map((screen) => {
                 screen.buttons.map((button) => {
                     if (!button.langKey) warnStoryId(story, 'langKey')
@@ -69,8 +63,7 @@ describe('School tests', () => {
         })
     })
     test('story should have a type', () => {
-        let sotries = getStories()
-        sotries.map((story) => {
+        stories.map((story) => {
             story.screens.map((screen) => {
                 if (!screen.type) warnStoryId(story, 'type')
                 expect(screen.type).toBeDefined()
@@ -79,24 +72,21 @@ describe('School tests', () => {
     })
 
     test('stories should have uniqueIDs', () => {
-        let sotries = getStories()
         let ids: Array<Number> = []
-        sotries.map((story) => ids.push(story.id))
+        stories.map((story) => ids.push(story.id))
         expect([...new Set(ids)].length === ids.length).toBeTruthy()
     })
     
     // QUIZZES
     test('it should return number of quizzes', () => {
-        expect(getQuizzes().length).toBeGreaterThan(0)
+        expect(quizzes.length).toBeGreaterThan(0)
     })
     test('quizzes should have uniqueIDs', () => {
-        let quizzes = getQuizzes()
         let ids: Array<Number> = []
         quizzes.map((quiz) => ids.push(quiz.id))
         expect([...new Set(ids)].length === ids.length).toBeTruthy()
     })
     test('quizzes should have an existing type', () => {
-        let quizzes = getQuizzes()
         let types: Array<String> = []
         quizzes.map((quiz) => {
             if (QUIZ_TYPES.indexOf(quiz.type) === -1) warnQuizId(quiz, 'type')
@@ -105,13 +95,6 @@ describe('School tests', () => {
     })
 
     // LESSONS
-    test('Should be able to pare story with quiz', () => {
-        let stories = getStories()
-        let quizzes = getQuizzes()
-        stories.map((story) => {
-            expect(quizzes.find(quiz => quiz.id === story.id)).toBeDefined()
-        })
-    })
     test('getAllLessons should return multiple lessons', () => {
         expect(getAllLessons().length).toBeGreaterThan(0)
     })

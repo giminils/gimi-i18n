@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "isEnabled": true,
+            "titleLangKey": "lesson_1_title",
+            "subtitleLangKey": "lesson_1_subtitle",
+            "type": "DEFAULT",
+            "storyId": 1,
+            "quizId": 1
+        },
+        {
+            "id": 2,
+            "isEnabled": true,
+            "titleLangKey": "lesson_2_title",
+            "subtitleLangKey": "lesson_2_subtitle",
+            "type": "DEFAULT",
+            "storyId": 2,
+            "quizId": 2
+        },
+        {
+            "id": 3,
+            "isEnabled": true,
+            "titleLangKey": "lesson_3_title",
+            "subtitleLangKey": "lesson_3_subtitle",
+            "type": "DEFAULT",
+            "storyId": 3,
+            "quizId": 3
+        },
+        {
+            "id": 4,
+            "isEnabled": true,
+            "titleLangKey": "lesson_4_title",
+            "subtitleLangKey": "lesson_4_subtitle",
+            "type": "DEFAULT",
+            "storyId": 4,
+            "quizId": 4
+        },
+        {
+            "id": 5,
+            "isEnabled": true,
+            "titleLangKey": "lesson_5_title",
+            "subtitleLangKey": "lesson_5_subtitle",
+            "type": "QUIZ",
+            "quizId": 5
+        },
+        {
+            "id": 6,
+            "isEnabled": true,
+            "titleLangKey": "lesson_6_title",
+            "subtitleLangKey": "lesson_6_subtitle",
+            "type": "QUIZ",
+            "quizId": 6
+        }
+    ]
+}

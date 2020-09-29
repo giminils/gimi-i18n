@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "isLocked": false,
+            "titleLangKey": "chapter_1_title",
+            "subtitleLangKey": "chapter_1_subtitle",
+            "imageUrl": "",
+            "lessonIds": [1, 2, 3, 4, 5, 6]
+        },
+        {
+            "id": 2,
+            "isLocked": true,
+            "titleLangKey": "chapter_2_title",
+            "subtitleLangKey": "chapter_2_subtitle",
+            "imageUrl": "",
+            "lessonIds": []
+        },
+        {
+            "id": 3,
+            "isLocked": true,
+            "titleLangKey": "chapter_3_title",
+            "subtitleLangKey": "chapter_3_subtitle",
+            "imageUrl": "",
+            "lessonIds": []
+        }
+    ]
+}

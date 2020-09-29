@@ -125,7 +125,7 @@ const countryCodes2PhoneNumberPrefixes = require('./countryCodes2PhoneNumberPref
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
 import ExperimentalCourses from './Education'
-import * as School from './school/Lessons'
+import * as School from './school/School'
 export let supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 export let gimiWebLanguageCodes = ['en', 'sv', 'no']
 export let supportedTimeZonesAndroid =
@@ -440,5 +440,4 @@ export function formatDecimals (value: number): number {
   return 2
 }
 
-export const getLesson = (id: number) => School.getLesson(id)
-export const getAllLessons = () => School.getAllLessons()
+export const SchoolHelper = School

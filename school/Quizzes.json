@@ -7,6 +7,22 @@
         {
             "id": 2,
             "type": "BANK"
+        },
+        {
+            "id": 3,
+            "type": "ROCKET"
+        },
+        {
+            "id": 4,
+            "type": "BANK"
+        },
+        {
+            "id": 5,
+            "type": "ROCKET"
+        },
+        {
+            "id": 6,
+            "type": "BANK"
         }
     ]
 }
