@@ -3390,5 +3390,6 @@
   "general_add_bonus": "PLZ_TRANSLATE Add bonus rate?",
   "kid_setup_done": "PLZ_TRANSLATE All set!",
   "kid_setup_done_subtitle": "PLZ_TRANSLATE Here is a summary of your allowance settings.",
-  "done_lets_go": "PLZ_TRANSLATE Done, let's go!"
+  "done_lets_go": "PLZ_TRANSLATE Done, let's go!",
+  "no_chores_added": "PLZ_TRANSLATE No chores added..."
 }
