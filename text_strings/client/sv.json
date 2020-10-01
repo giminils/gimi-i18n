@@ -3391,5 +3391,6 @@
   "kid_setup_done": "PLZ_CHECK All set!",
   "kid_setup_done_subtitle": "PLZ_CHECK Here is a summary of your allowance settings.",
   "done_lets_go": "PLZ_CHECK Done, let's go!",
-  "no_chores_added": "PLZ_CHECK No chores added..."
+  "no_chores_added": "PLZ_CHECK No chores added...",
+  "general_clear_all": "PLZ_CHECK Clear all"
 }
