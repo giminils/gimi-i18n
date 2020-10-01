@@ -3384,12 +3384,12 @@
   "general_completed_chores": "Completed",
   "cant_approve_archived_chores": "Chores in archive can’t be approved. \nCreate a new chore instead!",
   "setup_kid_allowance_freq_title": "Let’s set up allowance for %1$d",
-  "what_day_of_week":"What day of the week?",
-  "what_day_of_month":"What day of the month?",
-  "general_how_much":"How much?",
-  "general_add_bonus":"Add bonus rate?",
-  "kid_setup_done":"All set!",
-  "kid_setup_done_subtitle":"Here is a summary of your allowance settings.",
-  "done_lets_go":"Done, let's go!",
-  "no_chores_added":"No chores added..."
+  "what_day_of_week": "What day of the week?",
+  "what_day_of_month": "What day of the month?",
+  "general_how_much": "How much?",
+  "general_add_bonus": "Add bonus rate?",
+  "kid_setup_done": "All set!",
+  "kid_setup_done_subtitle": "Here is a summary of your allowance settings.",
+  "done_lets_go": "Done, let's go!",
+  "no_chores_added": "No chores added..."
 }
