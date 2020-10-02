@@ -94,7 +94,6 @@
   "event_share_your_cravings_for_your_birthday": "Dela dina cravings lagom till din födelsedag",
   "event_share_your_cravings": "Dela dina cravings!",
   "push_you_have_a_new_connection": "Du har en ny kontakt!",
-  "CHGERE002_push_title": "PLZ_CHECK You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "Du har fått en inbjudan av {connectiontoken.created_by.nickname}",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Du kommer att få vecko- eller månadspeng. Spana in hur mycket du kommer få!",
   "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i spargrisen.",
@@ -506,5 +505,7 @@
   "CHGERE023_notification_title_v3": "PLZ_CHECK {task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "Du har ett negativt saldo på Gimi-kortet, fyll på det direkt",
   "CHPRON015_notification_title": "Ditt kort är aktiverat. Första gången du köper något, kom ihåg att använda PIN-koden. Sen kan du börja blippa!",
-  "CHPRRE045_push_title": "Spana in Gimi-kortets saldo i appen!"
+  "CHPRRE045_push_title": "Spana in Gimi-kortets saldo i appen!",
+  "CHGERE002_push_title": "PLZ_CHECK You’re now connected with {parent.nickname}!",
+  "CHGERE007_notification_title": "PLZ_CHECK {task.title} was sent to you by {parent.nickname}"
 }

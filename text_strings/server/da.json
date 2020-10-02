@@ -94,7 +94,6 @@
   "event_share_your_cravings_for_your_birthday": "Del dine cravings for din fødselsdag",
   "event_share_your_cravings": "Del dine cravings",
   "push_you_have_a_new_connection": "Du har en ny forbindelse! ",
-  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "Du har en invitation fra {connectiontoken.created_by.nickname} til at oprette forbindelse",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Dine lommepenge er sat op! Tjek det ud i appen!",
   "push_payday_parent": "Payday for {child.nickname}. Tjek hvor mange penge der blev tilføjet til sparegrisen!",
@@ -506,5 +505,7 @@
   "CHGERE023_notification_title_v3": "PLZ_TRANSLATE {task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "PLZ_TRANSLATE You have a negative card balance, top-up your card right away",
   "CHPRON015_notification_title": "PLZ_TRANSLATE You're card is activated. First time you buy something, make sure to use PIN-code and you can then start blipping",
-  "CHPRRE045_push_title": "PLZ_TRANSLATE Check out your balance in the Gimi app!"
+  "CHPRRE045_push_title": "PLZ_TRANSLATE Check out your balance in the Gimi app!",
+  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
+  "CHGERE007_notification_title": "PLZ_TRANSLATE {task.title} was sent to you by {parent.nickname}"
 }
