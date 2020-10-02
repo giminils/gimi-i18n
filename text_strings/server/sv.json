@@ -512,6 +512,6 @@
   "CHGERE002_push_title": "PLZ_CHECK You’re now connected with {parent.nickname}!",
   "CHGERE007_notification_title": "PLZ_CHECK {task.title} was sent to you by {parent.nickname}",
   "ADFRRE001_notification_title": "PLZ_CHECK Payday for {child.nickname}! {payday_amount} was added to their piggybank",
-  "CHGEON014_notification_title": "PLZ_CHECK {parent.nickname} is now giving you {allowance_frequency}!",
-  "CHGEON014_push_title": "PLZ_CHECK {parent.nickname} is now giving you {allowance_frequency}!"
+  "CHGEON014_notification_title": "PLZ_CHECK {parent.nickname} is now giving you {allowance_frequency} allowance!",
+  "CHGEON014_push_title": "PLZ_CHECK {parent.nickname} is now giving you {allowance_frequency} allowance!"
 }
