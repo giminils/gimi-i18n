@@ -94,6 +94,7 @@
   "event_share_your_cravings_for_your_birthday": "Partagez vos envies pour votre anniversaire",
   "event_share_your_cravings": "Partagez vos envies",
   "push_you_have_a_new_connection": "Vous avez un nouveau contact! ",
+  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "Vous avez reçu une invitation de {connectiontoken.created_by.nickname} pour vous connecter",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Une allocation a été établie pour vous! Consultez-la dans l'appli!",
   "push_payday_parent": "Payday pour {child.nickname}. Découvrez combien d'argent a été ajouté à votre tirelire!",

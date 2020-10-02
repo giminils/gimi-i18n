@@ -94,6 +94,7 @@
   "event_share_your_cravings_for_your_birthday": "Jaa syntymäpäivätoiveesi",
   "event_share_your_cravings": "Jaa toiveesi",
   "push_you_have_a_new_connection": "Sinulla on uusi kontakti! ",
+  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "{connectiontoken.created_by.nickname} haluaisi kutsua sinut",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Sinulle asetettiin taskuraha! Avaa sovellus ja tsekkaa!",
   "push_payday_parent": "Tänään on lapsen {child.nickname} tilipäivä. Tsekkaa kuinka paljon hänen säästöpossunsa kasvoi!",

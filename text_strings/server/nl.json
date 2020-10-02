@@ -94,6 +94,7 @@
   "event_share_your_cravings_for_your_birthday": "Deel je wensen voor je verjaardag",
   "event_share_your_cravings": "Deel je wensen",
   "push_you_have_a_new_connection": "Je hebt een nieuwe verbinding! ",
+  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "Je hebt eeen uitnodiging van {connectiontoken.created_by.nickname} om te verbinden",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Zakgeld is ingesteld voor jou! Controleer het in de app!",
   "push_payday_parent": "Payday voor {child.nickname}. Controleer hoeveel geld eraan het spaarvarken is toegevoegd!",

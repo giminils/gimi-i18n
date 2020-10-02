@@ -94,6 +94,7 @@
   "event_share_your_cravings_for_your_birthday": "Dela dina cravings lagom till din födelsedag",
   "event_share_your_cravings": "Dela dina cravings!",
   "push_you_have_a_new_connection": "Du har en ny kontakt!",
+  "CHGERE002_push_title": "PLZ_CHECK You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "Du har fått en inbjudan av {connectiontoken.created_by.nickname}",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Du kommer att få vecko- eller månadspeng. Spana in hur mycket du kommer få!",
   "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i spargrisen.",

@@ -94,6 +94,7 @@
   "event_share_your_cravings_for_your_birthday": "Comparte tus deseos para tu cumpleaños",
   "event_share_your_cravings": "Comparte tus deseos",
   "push_you_have_a_new_connection": "¡Tienes una nueva conexión!",
+  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "Tienes una invitación de {connectiontoken.created_by.nickname} para conectarte",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "¡La recompensa es configurada para ti. ¡Verifícalo en la aplicación!",
   "push_payday_parent": "Payday para {child.nickname}. ¡Verifica cuánto dinero ha sido añadido a tu Piggyhucha!",

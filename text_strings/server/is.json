@@ -94,6 +94,7 @@
   "event_share_your_cravings_for_your_birthday": "PLZ_TRANSLATE Share your cravings for your birthday",
   "event_share_your_cravings": "PLZ_TRANSLATE Share your cravings",
   "push_you_have_a_new_connection": "PLZ_TRANSLATE You have a new connection! ",
+  "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "push_you_have_got_an_invitation_to_connect": "PLZ_TRANSLATE You have got an invitation from {connectiontoken.created_by.nickname} to connect",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "PLZ_TRANSLATE Allowance is set for you! Check it out in the app!",
   "push_payday_parent": "PLZ_TRANSLATE Payday for {child.nickname}. Check out how much money was added to Savings!",
