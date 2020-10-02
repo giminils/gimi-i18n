@@ -502,6 +502,7 @@
   "ADGERE001_push_title": "Du är nu ihopkopplad med {child.nickname}!",
   "CHGERE010_notification_title": "{task.title} har godkänts, du tjänade {task.value}",
   "CHGERE023_notification_title_v2": "{task.title} har godkänts, du tjänade {task.value}",
+  "CHGERE023_notification_title_v3": "PLZ_CHECK {task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "Du har ett negativt saldo på Gimi-kortet, fyll på det direkt",
   "CHPRON015_notification_title": "Ditt kort är aktiverat. Första gången du köper något, kom ihåg att använda PIN-koden. Sen kan du börja blippa!",
   "CHPRRE045_push_title": "Spana in Gimi-kortets saldo i appen!"

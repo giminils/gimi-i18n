@@ -502,6 +502,7 @@
   "ADGERE001_push_title": "You're now connected with {child.nickname}!",
   "CHGERE010_notification_title": "{task.title} was approved, you earned {task.value}",
   "CHGERE023_notification_title_v2": "{task.title} was approved, you earned {task.value}",
+  "CHGERE023_notification_title_v3": "{task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "You have a negative card balance, top-up your card right away",
   "CHPRON015_notification_title": "Your card is activated. First time you buy something, make sure to use PIN-code and you can then start blipping",
   "CHPRRE045_push_title": "Check out your balance in the Gimi app!"
