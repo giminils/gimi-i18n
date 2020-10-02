@@ -3392,5 +3392,21 @@
   "kid_setup_done_subtitle": "Here is a summary of your allowance settings.",
   "done_lets_go": "Done, let's go!",
   "no_chores_added": "No chores added...",
-  "general_clear_all":"Clear all"
+  "general_clear_all":"Clear all",
+  "currency_sek": "Swedish Krona",
+  "currency_nok": "Norwegian Krone",
+  "currency_dkk": "Danish Krone",
+  "currency_gbp": "Pound Sterling",
+  "currency_usd": "US Dollar",
+  "currency_eur": "Euro",
+  "currency_inr": "Indian Rupee",
+  "currency_aud": "Australian Dollar",
+  "currency_cad": "Canadian Dollar",
+  "currency_nzd": "New Zealand Dollar",
+  "currency_zar": "Rand",
+  "currency_is": "Iceland Krona",
+  "currency_thb": "Thai Baht",
+  "currency_idr": "Indonesian Rupiahs",
+  "currency_chf": "Swiss Franc",
+  "currency_cop": "Colombian Peso"
 }

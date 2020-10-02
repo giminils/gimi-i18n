@@ -3392,5 +3392,21 @@
   "kid_setup_done_subtitle": "PLZ_TRANSLATE Here is a summary of your allowance settings.",
   "done_lets_go": "PLZ_TRANSLATE Done, let's go!",
   "no_chores_added": "PLZ_TRANSLATE No chores added...",
-  "general_clear_all": "PLZ_TRANSLATE Clear all"
+  "general_clear_all": "PLZ_TRANSLATE Clear all",
+  "currency_sek": "PLZ_TRANSLATE Swedish Krona",
+  "currency_nok": "PLZ_TRANSLATE Norwegian Krone",
+  "currency_dkk": "PLZ_TRANSLATE Danish Krone",
+  "currency_gbp": "PLZ_TRANSLATE Pound Sterling",
+  "currency_usd": "PLZ_TRANSLATE US Dollar",
+  "currency_eur": "PLZ_TRANSLATE Euro",
+  "currency_inr": "PLZ_TRANSLATE Indian Rupee",
+  "currency_aud": "PLZ_TRANSLATE Australian Dollar",
+  "currency_cad": "PLZ_TRANSLATE Canadian Dollar",
+  "currency_nzd": "PLZ_TRANSLATE New Zealand Dollar",
+  "currency_zar": "PLZ_TRANSLATE Rand",
+  "currency_is": "PLZ_TRANSLATE Iceland Krona",
+  "currency_thb": "PLZ_TRANSLATE Thai Baht",
+  "currency_idr": "PLZ_TRANSLATE Indonesian Rupiahs",
+  "currency_chf": "PLZ_TRANSLATE Swiss Franc",
+  "currency_cop": "PLZ_TRANSLATE Colombian Peso"
 }

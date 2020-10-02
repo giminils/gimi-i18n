@@ -3392,5 +3392,21 @@
   "kid_setup_done_subtitle": "PLZ_CHECK Here is a summary of your allowance settings.",
   "done_lets_go": "PLZ_CHECK Done, let's go!",
   "no_chores_added": "PLZ_CHECK No chores added...",
-  "general_clear_all": "PLZ_CHECK Clear all"
+  "general_clear_all": "PLZ_CHECK Clear all",
+  "currency_sek": "PLZ_CHECK Swedish Krona",
+  "currency_nok": "PLZ_CHECK Norwegian Krone",
+  "currency_dkk": "PLZ_CHECK Danish Krone",
+  "currency_gbp": "PLZ_CHECK Pound Sterling",
+  "currency_usd": "PLZ_CHECK US Dollar",
+  "currency_eur": "PLZ_CHECK Euro",
+  "currency_inr": "PLZ_CHECK Indian Rupee",
+  "currency_aud": "PLZ_CHECK Australian Dollar",
+  "currency_cad": "PLZ_CHECK Canadian Dollar",
+  "currency_nzd": "PLZ_CHECK New Zealand Dollar",
+  "currency_zar": "PLZ_CHECK Rand",
+  "currency_is": "PLZ_CHECK Iceland Krona",
+  "currency_thb": "PLZ_CHECK Thai Baht",
+  "currency_idr": "PLZ_CHECK Indonesian Rupiahs",
+  "currency_chf": "PLZ_CHECK Swiss Franc",
+  "currency_cop": "PLZ_CHECK Colombian Peso"
 }
