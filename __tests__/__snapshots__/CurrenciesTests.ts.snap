@@ -4,66 +4,82 @@ exports[`Currencies it should return supported supportedCurrencyCodes 1`] = `
 Array [
   Object {
     "code": "SEK",
+    "langKey": "currency_sek",
     "name": "Swedish Krona",
   },
   Object {
     "code": "NOK",
+    "langKey": "currency_nok",
     "name": "Norwegian Krone",
   },
   Object {
     "code": "DKK",
+    "langKey": "currency_dkk",
     "name": "Danish Krone",
   },
   Object {
     "code": "GBP",
+    "langKey": "currency_gbp",
     "name": "Pound Sterling",
   },
   Object {
     "code": "USD",
+    "langKey": "currency_usd",
     "name": "US Dollar",
   },
   Object {
     "code": "EUR",
+    "langKey": "currency_eur",
     "name": "Euro",
   },
   Object {
+    "code": "INR",
+    "langKey": "currency_inr",
+    "name": "Indian Rupee",
+  },
+  Object {
     "code": "AUD",
+    "langKey": "currency_aud",
     "name": "Australian Dollar",
   },
   Object {
     "code": "CAD",
+    "langKey": "currency_cad",
     "name": "Canadian Dollar",
   },
   Object {
     "code": "NZD",
+    "langKey": "currency_nzd",
     "name": "New Zealand Dollar",
   },
   Object {
-    "code": "INR",
-    "name": "Indian Rupee",
-  },
-  Object {
     "code": "ZAR",
+    "langKey": "currency_zar",
     "name": "Rand",
   },
   Object {
     "code": "ISK",
+    "langKey": "currency_isk",
     "name": "Iceland Krona",
   },
   Object {
     "code": "THB",
+    "langKey": "currency_thb",
     "name": "Thai Baht",
   },
   Object {
     "code": "IDR",
+    "langKey": "currency_idr",
     "name": "Indonesian Rupiahs",
   },
   Object {
     "code": "CHF",
+    "langKey": "currency_chf",
     "name": "Swiss Franc",
   },
   Object {
     "code": "COP",
+    "langKey": "currency_cop",
     "name": "Colombian Peso",
   },
 ]
