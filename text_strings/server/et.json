@@ -501,6 +501,7 @@
   "CHPRRE013_notification_title": "PLZ_TRANSLATE {parent.nickname} marked your card as lost",
   "ADGERE001_push_title": "PLZ_TRANSLATE You're now connected with {child.nickname}!",
   "CHGERE010_notification_title": "PLZ_TRANSLATE {task.title} was approved, you earned {task.value}",
+  "CHGERE010_notification_title_v2": "PLZ_TRANSLATE {task.title} was approved, you earned {formatted_value}",
   "CHGERE023_notification_title_v2": "PLZ_TRANSLATE {task.title} was approved, you earned {task.value}",
   "CHGERE023_notification_title_v3": "PLZ_TRANSLATE {task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "PLZ_TRANSLATE You have a negative card balance, top-up your card right away",
