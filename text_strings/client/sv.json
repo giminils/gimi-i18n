@@ -3419,5 +3419,13 @@
   "piggy_bank_intro_subtitle": "PLZ_CHECK The piggybank is a tracker that represents what you owe your child. When your child want to buy something using their piggybank money, you pay and deduct the amount in Gimi.",
   "general_supporter": "PLZ_CHECK Supporter",
   "day_of_allowance": "PLZ_CHECK Day of allowance",
-  "change_allowance_freq_desc": "PLZ_CHECK Changing the allowance settings will override already existing settings."
+  "change_allowance_freq_desc": "PLZ_CHECK Changing the allowance settings will override already existing settings.",
+  "get_started_for_kid_title": "PLZ_CHECK Get %1$d started with Gimi!",
+  "get_started_for_kid_desc": "PLZ_CHECK Don’t know where to start? Here are some recommendations from us!",
+  "get_started_card_1_title": "PLZ_CHECK Make your first load to the Gimi card",
+  "get_started_card_1_subtitle": "PLZ_CHECK Set up Swish or card first ",
+  "get_started_card_2_title": "PLZ_CHECK Help your child earn more money!",
+  "get_started_card_2_subtitle": "PLZ_CHECK Add a chore!",
+  "get_started_card_3_title": "PLZ_CHECK Make Penny happy with a top up",
+  "get_started_card_3_subtitle": "PLZ_CHECK Top up the piggybank!"
 }
