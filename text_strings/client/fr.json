@@ -3408,5 +3408,13 @@
   "currency_thb": "PLZ_TRANSLATE Thai Baht",
   "currency_idr": "PLZ_TRANSLATE Indonesian Rupiahs",
   "currency_chf": "PLZ_TRANSLATE Swiss Franc",
-  "currency_cop": "PLZ_TRANSLATE Colombian Peso"
+  "currency_cop": "PLZ_TRANSLATE Colombian Peso",
+  "want_to_setup_allowance": "PLZ_TRANSLATE Want to set up an allowance?",
+  "setup_allowance_second_parent": "PLZ_TRANSLATE You can add a recurring allowance and a savings bonus now, or later if you want to!",
+  "general_set_allowance": "PLZ_TRANSLATE Set up allowance",
+  "allowance_settings_setup_title": "PLZ_TRANSLATE %1$d already has allowance settings",
+  "allowance_settings_setup_subtitle": "PLZ_TRANSLATE You can add an additonal allowance in the next step",
+  "dont_add_allowance": "PLZ_TRANSLATE Don’t add allowance",
+  "piggy_bank_intro_title": "PLZ_TRANSLATE Let us introduce the piggybank!",
+  "piggy_bank_intro_subtitle": "PLZ_TRANSLATE The piggybank is a tracker that represents what you owe your child. When your child want to buy something using their piggybank money, you pay and deduct the amount in Gimi."
 }

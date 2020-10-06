@@ -3408,5 +3408,13 @@
   "currency_thb": "Thai Baht",
   "currency_idr": "Indonesian Rupiahs",
   "currency_chf": "Swiss Franc",
-  "currency_cop": "Colombian Peso"
+  "currency_cop": "Colombian Peso",
+  "want_to_setup_allowance":"Want to set up an allowance?",
+  "setup_allowance_second_parent": "You can add a recurring allowance and a savings bonus now, or later if you want to!",
+  "general_set_allowance":"Set up allowance",
+  "allowance_settings_setup_title":"%1$d already has allowance settings",
+  "allowance_settings_setup_subtitle":"You can add an additonal allowance in the next step",
+  "dont_add_allowance":"Don’t add allowance",
+  "piggy_bank_intro_title": "Let us introduce the piggybank!",
+  "piggy_bank_intro_subtitle": "The piggybank is a tracker that represents what you owe your child. When your child want to buy something using their piggybank money, you pay and deduct the amount in Gimi."
 }
