@@ -3416,5 +3416,7 @@
   "allowance_settings_setup_subtitle": "PLZ_CHECK You can add an additonal allowance in the next step",
   "dont_add_allowance": "PLZ_CHECK Don’t add allowance",
   "piggy_bank_intro_title": "PLZ_CHECK Let us introduce the piggybank!",
-  "piggy_bank_intro_subtitle": "PLZ_CHECK The piggybank is a tracker that represents what you owe your child. When your child want to buy something using their piggybank money, you pay and deduct the amount in Gimi."
+  "piggy_bank_intro_subtitle": "PLZ_CHECK The piggybank is a tracker that represents what you owe your child. When your child want to buy something using their piggybank money, you pay and deduct the amount in Gimi.",
+  "general_supporter": "PLZ_CHECK Supporter",
+  "day_of_allowance": "PLZ_CHECK Day of allowance"
 }
