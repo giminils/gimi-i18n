@@ -2507,7 +2507,7 @@
   "app_settings_parent_settings_row": "Currency, language, timezone",
   "about_me_parent_settings_row": "Name, email, phone number",
   "help_parent_settings_row": "Questions & answers",
-  "settings_app": "App settings",
+  "settings_app": "General",
   "card_cant_change_status_error_title": "Can't activate card...",
   "card_cant_change_status_error_desc": "Contact support and we will help you sort this out!",
   "where_is_the_card_hint": "Looking for the Gimi card? Invite a child first!",
