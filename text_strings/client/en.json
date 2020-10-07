@@ -1220,7 +1220,7 @@
   "payday_takeover_text_parent": "%1$d has been added to the piggybank",
   "accept_email_contact": "Yes, you can contact me over email",
   "money_saved": "Saved",
-  "transaction_note_placeholder": "Write something",
+  "transaction_note_placeholder": "What was the money spent on?",
   "general_notes": "notes",
   "completion_date": "Completion date",
   "activate_task_again": "Reactivate",
