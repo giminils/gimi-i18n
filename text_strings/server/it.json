@@ -289,7 +289,7 @@
   "CHGERE017_notification_title": "Il tuo invito è stato respinto. Invita qualcun altro?",
   "ADGERE016_notification_title": "Il tuo invito è stato respinto. Invita qualcun altro?",
   "ADGEON005_push_title": "Aggiungi un'immagile del profilo!",
-  "CHFRRE001_notification_title": "Oggi è Giorno di paga! 🤩",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! Check out how much you got",
   "CHFRRE001_notification_title_v2": "PLZ_TRANSLATE Today is Payday! {formatted_amount} was added to your piggybank",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a goal",
   "CHGERE033_push_title": "Non dimenticare che hai {savings_balance} nel Salvadanaio! ✌️",
