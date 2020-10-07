@@ -289,7 +289,7 @@
   "CHGERE017_notification_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
   "ADGERE016_notification_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
   "ADGEON005_push_title": "Füge ein Profilbild hinzu!",
-  "CHFRRE001_notification_title": "Heute ist Payday! 🤩",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! Check out how much you got",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a goal",
   "CHGERE033_push_title": "Vergiss nicht, dass Du {savings_balance} in Deinem Sparschwein hast! ✌️",
   "CHGERE028_push_title": "Du und {ConnectionToken.used_by.nickname} seid verbunden!",

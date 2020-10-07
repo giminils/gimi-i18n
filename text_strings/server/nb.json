@@ -289,7 +289,7 @@
   "CHGERE017_notification_title": "Invitasjonen din ble avvist. Ønsker du å invitere andre?",
   "ADGERE016_notification_title": "Invitasjonen din ble avvist. Ønsker du å invitere andre?",
   "ADGEON005_push_title": "Legg til et profilbilde.",
-  "CHFRRE001_notification_title": "I dag er det Payday! 🤩",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! Check out how much you got",
   "ADGERE011_notification_title": "{child.nickname} har nådd et mål",
   "CHGERE033_push_title": "Ikke glem at du har {savings_balance} i sparegrisen! ✌️",
   "CHGERE028_push_title": "Du er forbundet med {ConnectionToken.used_by.nickname}!",

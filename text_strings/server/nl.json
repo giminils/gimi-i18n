@@ -289,7 +289,7 @@
   "CHGERE017_notification_title": "Je uitnodiging is afgewezen. Wil je iemand anders uitnodigen?",
   "ADGERE016_notification_title": "Je uitnodiging is afgewezen. Wil je iemand anders uitnodigen?",
   "ADGEON005_push_title": "Voeg een profielfoto toe!",
-  "CHFRRE001_notification_title": "Vandaag is Payday! 🤩",
+  "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! Check out how much you got",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a goal",
   "CHGERE033_push_title": "Vergeet niet dat je saldo in het spaarvarken {savings_balance} is! ✌️",
   "CHGERE028_push_title": "Jij en {ConnectionToken.used_by.nickname} zijn verbonden!",
