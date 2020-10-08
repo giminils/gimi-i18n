@@ -3393,9 +3393,9 @@
   "done_lets_go": "Done, let's go!",
   "no_chores_added": "No chores added...",
   "general_clear_all": "Clear all",
-  "currency_sek": "PLZ_COPY Svensk Krona",
-  "currency_nok": "PLZ_COPY Norsk Krone",
-  "currency_dkk": "PLZ_COPY Dansk Krone",
+  "currency_sek": "Svensk Krona",
+  "currency_nok": "Norsk Krone",
+  "currency_dkk": "Dansk Krone",
   "currency_gbp": "Pound Sterling",
   "currency_usd": "US Dollar",
   "currency_eur": "Euro",
@@ -3404,7 +3404,7 @@
   "currency_cad": "Canadian Dollar",
   "currency_nzd": "New Zealand Dollar",
   "currency_zar": "Rand",
-  "currency_isk": "PLZ_COPY Íslensk Króna",
+  "currency_isk": "Íslensk Króna",
   "currency_thb": "Thai Baht",
   "currency_idr": "Indonesian Rupiahs",
   "currency_chf": "Swiss Franc",
@@ -3433,6 +3433,6 @@
   "flash_card_education_title": "Teach %1$d the value of money",
   "flash_card_education_subtitle": "Go to Education tab >",
   "kid_next_payday_flash_card_subtitle": "Find out >",
-  "invite_is_pending":"Pending invite",
-  "accept_invite_question":"Accept invite?"
+  "invite_is_pending": "Invite is pending...",
+  "accept_invite_question": "Accept invite?"
 }
