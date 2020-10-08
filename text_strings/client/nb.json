@@ -2756,7 +2756,7 @@
   "kid_help_card_influencer_title": "Vil du være en ambassadør for Gimi?",
   "general_read_more_arrow": "Les mer >",
   "influencer_portal_url": "https://gimitheapp.com/no/influencers",
-  "kid_payday_explainer_removable_card_title": "Hva er Payday",
+  "kid_payday_explainer_removable_card_title": "PLZ_TRANSLATE What is Payday? I wan't my money now!",
   "kid_payday_explainer_removable_card_weekly_text": "Du får penger en gang per uke. Sørg for at de varer!",
   "kid_payday_explainer_removable_card_monthly_text": "Du får penger en gang per måned. Sørg for at de varer!",
   "share_piggy_title": "Hvordan har du det i dag?",
@@ -3426,11 +3426,11 @@
   "get_started_card_1_subtitle": "PLZ_TRANSLATE Set up Swish or card first ",
   "get_started_card_2_title": "PLZ_TRANSLATE Help your child earn more money!",
   "get_started_card_2_subtitle": "PLZ_TRANSLATE Add a chore!",
-  "get_started_card_3_title": "PLZ_TRANSLATE Make Penny happy with a top up",
+  "get_started_card_3_title": "PLZ_TRANSLATE Make %1$d happy with a top up",
   "get_started_card_3_subtitle": "PLZ_TRANSLATE Top up the piggybank!",
   "hehe_noo_way": "PLZ_TRANSLATE hehe noo way man...",
   "code_placeholder": "PLZ_TRANSLATE Code",
-  "flash_card_education_title": "PLZ_TRANSLATE Teach Penny the value of money",
+  "flash_card_education_title": "PLZ_TRANSLATE Teach %1$d the value of money",
   "flash_card_education_subtitle": "PLZ_TRANSLATE Go to Education tab",
-  "kid_next_payday_flash_card_subtitle": "PLZ_TRANSLATE check what it is"
+  "kid_next_payday_flash_card_subtitle": "PLZ_TRANSLATE Find out >"
 }

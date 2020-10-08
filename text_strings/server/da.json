@@ -517,5 +517,5 @@
   "ADFRRE001_notification_title": "PLZ_TRANSLATE Payday for {child.nickname}! {payday_amount} was added to their piggybank",
   "CHGEON014_notification_title": "PLZ_TRANSLATE {parent.nickname} is now giving you {allowance_frequency} allowance!",
   "CHGEON014_push_title": "PLZ_TRANSLATE {parent.nickname} is now giving you {allowance_frequency} allowance!",
-  "ADGERE009_push_title": "PLZ_TRANSLATE Chore suggestion from {child.nickname}"
+  "ADGERE009_push_title": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}. Check it out!"
 }
