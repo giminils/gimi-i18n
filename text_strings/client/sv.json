@@ -3432,5 +3432,7 @@
   "code_placeholder": "PLZ_CHECK Code",
   "flash_card_education_title": "Lär %1$d värdet av pengar",
   "flash_card_education_subtitle": "Gå till Utbilda-delen",
-  "kid_next_payday_flash_card_subtitle": "Vi förklarar här >"
+  "kid_next_payday_flash_card_subtitle": "Vi förklarar här >",
+  "invite_is_pending": "PLZ_CHECK Pending invite",
+  "accept_invite_question": "PLZ_CHECK Accept invite?"
 }

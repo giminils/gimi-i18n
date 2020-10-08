@@ -3432,5 +3432,7 @@
   "code_placeholder": "Code",
   "flash_card_education_title": "Teach %1$d the value of money",
   "flash_card_education_subtitle": "Go to Education tab >",
-  "kid_next_payday_flash_card_subtitle": "Find out >"
+  "kid_next_payday_flash_card_subtitle": "Find out >",
+  "invite_is_pending":"Pending invite",
+  "accept_invite_question":"Accept invite?"
 }
