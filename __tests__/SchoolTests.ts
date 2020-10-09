@@ -52,12 +52,12 @@ describe('School tests', () => {
             })
         })
     })
-    test('story should have button langKeys', () => {
+    test('story should have button langKey or imageUrl', () => {
         stories.map((story) => {
             story.screens.map((screen) => {
-                screen.buttons.map((button) => {
-                    if (!button.langKey) warnStoryId(story, 'langKey')
-                    expect(button.langKey).toBeDefined()
+                screen.buttons.forEach((button: {langKey?: string, imageUrl?: string}) => {
+                    if (!button.langKey || !button.imageUrl) warnStoryId(story, 'langKey')
+                    expect(button.langKey || button.imageUrl).toBeDefined()
                 })
             })
         })

@@ -27,7 +27,13 @@
                     "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
-                            "langKey": "school_screen_button1"
+                            "imageUrl": "https://picsum.photos/300/300"
+                        },
+                        {
+                            "imageUrl": "https://picsum.photos/300/300"
+                        },
+                        {
+                            "imageUrl": "https://picsum.photos/300/300"
                         }
                     ]
                 },
