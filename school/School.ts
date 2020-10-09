@@ -29,7 +29,8 @@ export let getAllLessonsInChapter = (id: number) => {
     let chapter = chapters.find((chapter) => chapter.id === id)
     let lessons = getAllLessons()
     return lessons.filter((lesson) => {
-        !!chapter && !!chapter.lessonIds && chapter.lessonIds.indexOf(lesson.id) !== -1
+        if (!chapter || !chapter.lessonIds) return []
+        return chapter.lessonIds.indexOf(lesson.id) !== -1
     })
 }
 
