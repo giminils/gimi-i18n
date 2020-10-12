@@ -41,7 +41,7 @@
             "type": "BANK",
             "product": {
                 "titleLangKey": "challange_example_title",
-                "price": 3200,
+                "price": 600,
                 "imageUrl": "https://loremflickr.com/320/320/taco"
             }
         },
@@ -50,7 +50,7 @@
             "type": "BANK",
             "product": {
                 "titleLangKey": "challange_example_title",
-                "price": 5000,
+                "price": 250,
                 "imageUrl": "https://loremflickr.com/320/320/house"
             }
         }
