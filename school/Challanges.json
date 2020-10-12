@@ -4,54 +4,54 @@
             "id": 1,
             "type": "BANK",
             "product": {
-                "titleLangKey": "",
-                "price": 200,
-                "imageUrl": ""
+                "titleLangKey": "challange_example_title",
+                "price": 100,
+                "imageUrl": "https://loremflickr.com/320/320/groceries"
             }
         },
         {
             "id": 2,
             "type": "BANK",
             "product": {
-                "titleLangKey": "",
+                "titleLangKey": "challange_example_title",
                 "price": 200,
-                "imageUrl": ""
+                "imageUrl": "https://loremflickr.com/320/320/groceries"
             }
         },
         {
             "id": 3,
             "type": "BANK",
             "product": {
-                "titleLangKey": "",
-                "price": 200,
-                "imageUrl": ""
+                "titleLangKey": "challange_example_title",
+                "price": 400,
+                "imageUrl": "https://loremflickr.com/320/320/groceries"
             }
         },
         {
             "id": 4,
             "type": "BANK",
             "product": {
-                "titleLangKey": "",
-                "price": 200,
-                "imageUrl": ""
+                "titleLangKey": "challange_example_title",
+                "price": 1200,
+                "imageUrl": "https://loremflickr.com/320/320/groceries"
             }
         },
         {
             "id": 5,
             "type": "BANK",
             "product": {
-                "titleLangKey": "",
-                "price": 200,
-                "imageUrl": ""
+                "titleLangKey": "challange_example_title",
+                "price": 3200,
+                "imageUrl": "https://loremflickr.com/320/320/groceries"
             }
         },
         {
             "id": 6,
             "type": "BANK",
             "product": {
-                "titleLangKey": "",
-                "price": 200,
-                "imageUrl": ""
+                "titleLangKey": "challange_example_title",
+                "price": 125,
+                "imageUrl": "https://loremflickr.com/320/320/groceries"
             }
         }
     ]
