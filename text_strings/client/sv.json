@@ -3434,5 +3434,7 @@
   "flash_card_education_subtitle": "Gå till Utbilda-delen",
   "kid_next_payday_flash_card_subtitle": "Vi förklarar här >",
   "invite_is_pending": "PLZ_CHECK Invite is pending...",
-  "accept_invite_question": "PLZ_CHECK Accept invite?"
+  "accept_invite_question": "PLZ_CHECK Accept invite?",
+  "challange_missing_product_title": "PLZ_CHECK Something went wrong...",
+  "challange_missing_product_desc": "PLZ_CHECK Looks like this challange is broken..."
 }

@@ -3434,5 +3434,7 @@
   "flash_card_education_subtitle": "Go to Education tab >",
   "kid_next_payday_flash_card_subtitle": "Find out >",
   "invite_is_pending": "Invite is pending...",
-  "accept_invite_question": "Accept invite?"
+  "accept_invite_question": "Accept invite?",
+  "challange_missing_product_title":"Something went wrong...",
+  "challange_missing_product_desc": "Looks like this challange is broken..."
 }
