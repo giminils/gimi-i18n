@@ -2,27 +2,57 @@
     "data": [
         {
             "id": 1,
-            "type": "ROCKET"
+            "type": "BANK",
+            "product": {
+                "titleLangKey": "",
+                "price": 200,
+                "imageUrl": ""
+            }
         },
         {
             "id": 2,
-            "type": "BANK"
+            "type": "BANK",
+            "product": {
+                "titleLangKey": "",
+                "price": 200,
+                "imageUrl": ""
+            }
         },
         {
             "id": 3,
-            "type": "ROCKET"
+            "type": "BANK",
+            "product": {
+                "titleLangKey": "",
+                "price": 200,
+                "imageUrl": ""
+            }
         },
         {
             "id": 4,
-            "type": "BANK"
+            "type": "BANK",
+            "product": {
+                "titleLangKey": "",
+                "price": 200,
+                "imageUrl": ""
+            }
         },
         {
             "id": 5,
-            "type": "ROCKET"
+            "type": "BANK",
+            "product": {
+                "titleLangKey": "",
+                "price": 200,
+                "imageUrl": ""
+            }
         },
         {
             "id": 6,
-            "type": "BANK"
+            "type": "BANK",
+            "product": {
+                "titleLangKey": "",
+                "price": 200,
+                "imageUrl": ""
+            }
         }
     ]
 }
