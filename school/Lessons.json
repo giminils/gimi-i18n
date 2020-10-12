@@ -7,7 +7,7 @@
             "subtitleLangKey": "lesson_1_subtitle",
             "type": "DEFAULT",
             "storyId": 1,
-            "quizId": 1
+            "challangeId": 1
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "subtitleLangKey": "lesson_2_subtitle",
             "type": "DEFAULT",
             "storyId": 2,
-            "quizId": 2
+            "challangeId": 2
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "subtitleLangKey": "lesson_3_subtitle",
             "type": "DEFAULT",
             "storyId": 3,
-            "quizId": 3
+            "challangeId": 3
         },
         {
             "id": 4,
@@ -34,23 +34,23 @@
             "subtitleLangKey": "lesson_4_subtitle",
             "type": "DEFAULT",
             "storyId": 4,
-            "quizId": 4
+            "challangeId": 4
         },
         {
             "id": 5,
             "isEnabled": true,
             "titleLangKey": "lesson_5_title",
             "subtitleLangKey": "lesson_5_subtitle",
-            "type": "QUIZ",
-            "quizId": 5
+            "type": "CHALLANGE",
+            "challangeId": 5
         },
         {
             "id": 6,
             "isEnabled": true,
             "titleLangKey": "lesson_6_title",
             "subtitleLangKey": "lesson_6_subtitle",
-            "type": "QUIZ",
-            "quizId": 6
+            "type": "CHALLANGE",
+            "challangeId": 6
         }
     ]
 }

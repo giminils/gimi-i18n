@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 1,
-            "quizId": 1,
+            "challangeId": 1,
             "screens": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 2,
-            "quizId": 2,
+            "challangeId": 2,
             "screens": [
                 {
                     "id": 1,
@@ -149,7 +149,7 @@
         },
         {
             "id": 3,
-            "quizId": 3,
+            "challangeId": 3,
             "screens": [
                 {
                     "id": 1,
@@ -218,7 +218,7 @@
         },
         {
             "id": 4,
-            "quizId": 4,
+            "challangeId": 4,
             "screens": [
                 {
                     "id": 1,
@@ -287,7 +287,7 @@
         },
         {
             "id": 5,
-            "quizId": 5,
+            "challangeId": 5,
             "screens": [
                 {
                     "id": 1,

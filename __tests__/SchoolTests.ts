@@ -1,13 +1,13 @@
-import {quizzes, stories, getAllLessons, getLesson} from '../school/School'
+import {challanges, stories, getAllLessons, getLesson} from '../school/School'
 jest.disableAutomock()
-const QUIZ_TYPES = ['ROCKET', 'BANK']
+const CHALLANGE_TYPES = ['ROCKET', 'BANK']
 
 let warnStoryId = (story: { id: number }, prop: string) => {
     console.warn(`Story with id: ${story.id} having problems with: ${prop} `)
 }
 
-let warnQuizId = (Quiz: { id: number }, prop: string) => {
-    console.warn(`Quiz with id: ${Quiz.id} having problems with: ${prop} `)
+let warnchallangeId = (CHALLANGE: { id: number }, prop: string) => {
+    console.warn(`CHALLANGE with id: ${CHALLANGE.id} having problems with: ${prop} `)
 }
 describe('School tests', () => {
     // STORIES
@@ -77,20 +77,20 @@ describe('School tests', () => {
         expect([...new Set(ids)].length === ids.length).toBeTruthy()
     })
     
-    // QUIZZES
-    test('it should return number of quizzes', () => {
-        expect(quizzes.length).toBeGreaterThan(0)
+    // challanges
+    test('it should return number of challanges', () => {
+        expect(challanges.length).toBeGreaterThan(0)
     })
-    test('quizzes should have uniqueIDs', () => {
+    test('challanges should have uniqueIDs', () => {
         let ids: Array<Number> = []
-        quizzes.map((quiz) => ids.push(quiz.id))
+        challanges.map((challange) => ids.push(challange.id))
         expect([...new Set(ids)].length === ids.length).toBeTruthy()
     })
-    test('quizzes should have an existing type', () => {
+    test('challanges should have an existing type', () => {
         let types: Array<String> = []
-        quizzes.map((quiz) => {
-            if (QUIZ_TYPES.indexOf(quiz.type) === -1) warnQuizId(quiz, 'type')
-            expect(QUIZ_TYPES.indexOf(quiz.type)).toBeGreaterThan(-1)
+        challanges.map((challange) => {
+            if (CHALLANGE_TYPES.indexOf(challange.type) === -1) warnchallangeId(challange, 'type')
+            expect(CHALLANGE_TYPES.indexOf(challange.type)).toBeGreaterThan(-1)
         })
     })
 
