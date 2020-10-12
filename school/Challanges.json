@@ -6,7 +6,7 @@
             "product": {
                 "titleLangKey": "challange_example_title",
                 "price": 100,
-                "imageUrl": "https://loremflickr.com/320/320/groceries"
+                "imageUrl": "https://loremflickr.com/320/320/car"
             }
         },
         {
@@ -15,7 +15,7 @@
             "product": {
                 "titleLangKey": "challange_example_title",
                 "price": 200,
-                "imageUrl": "https://loremflickr.com/320/320/groceries"
+                "imageUrl": "https://loremflickr.com/320/320/bike"
             }
         },
         {
@@ -24,7 +24,7 @@
             "product": {
                 "titleLangKey": "challange_example_title",
                 "price": 400,
-                "imageUrl": "https://loremflickr.com/320/320/groceries"
+                "imageUrl": "https://loremflickr.com/320/320/boat"
             }
         },
         {
@@ -33,7 +33,7 @@
             "product": {
                 "titleLangKey": "challange_example_title",
                 "price": 1200,
-                "imageUrl": "https://loremflickr.com/320/320/groceries"
+                "imageUrl": "https://loremflickr.com/320/320/fish"
             }
         },
         {
@@ -42,7 +42,7 @@
             "product": {
                 "titleLangKey": "challange_example_title",
                 "price": 3200,
-                "imageUrl": "https://loremflickr.com/320/320/groceries"
+                "imageUrl": "https://loremflickr.com/320/320/taco"
             }
         },
         {
@@ -50,8 +50,8 @@
             "type": "BANK",
             "product": {
                 "titleLangKey": "challange_example_title",
-                "price": 125,
-                "imageUrl": "https://loremflickr.com/320/320/groceries"
+                "price": 5000,
+                "imageUrl": "https://loremflickr.com/320/320/house"
             }
         }
     ]
