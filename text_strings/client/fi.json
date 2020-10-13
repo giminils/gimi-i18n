@@ -913,7 +913,7 @@
   "connected_popover_text": "Aseta viikko-/kuukausiraha, askareita ja korko lapselle %1$d nyt?",
   "general_now": "nyt",
   "general_important": "tärkeä",
-  "choosing_chores_for_kid_subtitle": "Voit muuttaa sitä myöhemmin",
+  "choosing_chores_for_kid_subtitle": "PLZ_TRANSLATE The amount earned from chores will also be paid out together with the weekly allowance",
   "chores_for_n": "askareet käyttäjälle %1$d",
   "add_from_popular_chore_package": "Lisää suosituista",
   "custom_notification_secure_account": "Suojaa tilisi",
@@ -3389,7 +3389,7 @@
   "general_how_much": "PLZ_TRANSLATE How much?",
   "general_add_bonus": "PLZ_TRANSLATE Add bonus rate?",
   "kid_setup_done": "PLZ_TRANSLATE All set!",
-  "kid_setup_done_subtitle": "PLZ_TRANSLATE Here is a summary of your allowance settings.",
+  "kid_setup_done_subtitle": "PLZ_TRANSLATE Here is a summary of your allowance settings",
   "done_lets_go": "PLZ_TRANSLATE Done, let's go!",
   "no_chores_added": "PLZ_TRANSLATE No chores added...",
   "general_clear_all": "PLZ_TRANSLATE Clear all",
@@ -3435,6 +3435,6 @@
   "kid_next_payday_flash_card_subtitle": "PLZ_TRANSLATE Find out >",
   "invite_is_pending": "PLZ_TRANSLATE Invite is pending...",
   "accept_invite_question": "PLZ_TRANSLATE Accept invite?",
-  "challange_missing_product_title": "PLZ_TRANSLATE Something went wrong...",
-  "challange_missing_product_desc": "PLZ_TRANSLATE Looks like this challange is broken..."
+  "challange_missing_product_title": "PLZ_TRANSLATE Oh no! Something went wrong",
+  "challange_missing_product_desc": "PLZ_TRANSLATE We'll take care of it. While waiting, you can read the story again!"
 }

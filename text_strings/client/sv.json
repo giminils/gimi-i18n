@@ -913,7 +913,7 @@
   "connected_popover_text": "Ställ in vecko-/månadspeng, uppgifter och bonus för %1$d nu?",
   "general_now": "nu",
   "general_important": "viktigt",
-  "choosing_chores_for_kid_subtitle": "Du kan ändra det här senare",
+  "choosing_chores_for_kid_subtitle": "PLZ_CHECK The amount earned from chores will also be paid out together with the weekly allowance",
   "chores_for_n": "Uppgifter till %1$d",
   "add_from_popular_chore_package": "Lägg till från populära",
   "custom_notification_secure_account": "säkra ditt användarkonto",
@@ -3389,7 +3389,7 @@
   "general_how_much": "PLZ_CHECK How much?",
   "general_add_bonus": "PLZ_CHECK Add bonus rate?",
   "kid_setup_done": "PLZ_CHECK All set!",
-  "kid_setup_done_subtitle": "PLZ_CHECK Here is a summary of your allowance settings.",
+  "kid_setup_done_subtitle": "PLZ_CHECK Here is a summary of your allowance settings",
   "done_lets_go": "PLZ_CHECK Done, let's go!",
   "no_chores_added": "PLZ_CHECK No chores added...",
   "general_clear_all": "Rensa alla",
@@ -3435,6 +3435,6 @@
   "kid_next_payday_flash_card_subtitle": "Vi förklarar här",
   "invite_is_pending": "Väntar på godkännande...",
   "accept_invite_question": "Acceptera?",
-  "challange_missing_product_title": "PLZ_CHECK Something went wrong...",
-  "challange_missing_product_desc": "PLZ_CHECK Looks like this challange is broken..."
+  "challange_missing_product_title": "PLZ_CHECK Oh no! Something went wrong",
+  "challange_missing_product_desc": "PLZ_CHECK We'll take care of it. While waiting, you can read the story again!"
 }
