@@ -3383,7 +3383,7 @@
   "signed_by_philip": "- Philip Haglund, CEO",
   "general_completed_chores": "Utförda",
   "cant_approve_archived_chores": "Uppgifter i arkivet kan inte godkännas. \nSkapa en ny uppgift istället!",
-  "setup_kid_allowance_freq_title": "PLZ_CHECK Let’s set up allowance for %1$d",
+  "setup_kid_allowance_freq_title": "PLZ_CHECK First, set up the allowance",
   "what_day_of_week": "PLZ_CHECK What day of the week?",
   "what_day_of_month": "PLZ_CHECK What day of the month?",
   "general_how_much": "PLZ_CHECK How much?",
