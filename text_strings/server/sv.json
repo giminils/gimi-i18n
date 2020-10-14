@@ -385,7 +385,7 @@
   "ADGERE039_push_title": "Du har ett nytt förslag på uppgift från {tasksuggestion.child.nickname}",
   "ADGERE039_notification_title": "{child.nickname} har föreslagit en uppgift",
   "CHGERE037_push_title": "Du har en ny uppgift som väntar på dig!",
-  "CHGERE037_notification_title": "{parent.nickname} har accepterat ditt förslag på uppgift!✌️",
+  "CHGERE037_notification_title": "{parent.nickname} har accepterat ditt förslag på uppgift!",
   "CHGERE036_notification_title": "{parent.nickname} accepterade inte ditt förslag på uppgift: {tasksuggestion.title}. Försök med något annat?",
   "CHGERE036_push_title": "Förslag på uppgift avslogs!",
   "CHGEPU038_push_title": "Åh nej! Uppdatera Gimi i App Store nu!",
