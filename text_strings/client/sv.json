@@ -3436,5 +3436,6 @@
   "invite_is_pending": "Väntar på godkännande...",
   "accept_invite_question": "Acceptera?",
   "challange_missing_product_title": "PLZ_CHECK Oh no! Something went wrong",
-  "challange_missing_product_desc": "PLZ_CHECK We'll take care of it. While waiting, you can read the story again!"
+  "challange_missing_product_desc": "PLZ_CHECK We'll take care of it. While waiting, you can read the story again!",
+  "setup_kid_allowance_subtitle": "PLZ_CHECK It’s based on your child’s piggybank savings, and will be paid out together with the weekly allowance!"
 }
