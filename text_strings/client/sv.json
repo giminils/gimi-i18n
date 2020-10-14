@@ -384,7 +384,7 @@
   "remove_permissions": "ta bort",
   "confirm_exit_app": "vill du verkligen stänga appen?",
   "question_sure": "är du säker?",
-  "yes_sure": "ja, jag är säker",
+  "yes_sure": "ja, säker",
   "delete_kid_history_warning": "Om du fortsätter kommer all historik (transaktioner, mål och uppgifter) att försvinna. Vecko/månadspengen, liksom saldon, kommer att nollställas. Kontakter och kortinformation kommer att behållas.",
   "invite_kids": "Bjud in någon",
   "invite_kid_help_text": "när du bjuder in ett barn skickas ett meddelande till barnet om att ladda ned Gimi-appen. När barnet har laddat ned appen och skapat ett konto kommer inbjudan vänta på att bli accepterad.",
