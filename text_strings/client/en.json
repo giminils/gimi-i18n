@@ -1470,7 +1470,7 @@
   "card_good_to_know_limit_desc": "Financial apps are required to use 2-factor authentication to keep the money safe. We use a phone number instead of BankID. With the phone number, your child will setup an app passcode.",
   "chore_cant_be_completed_popover_title": "This chore cannot be completed yet!",
   "chore_cant_be_completed_popover_text": "This chore is not due yet, so you can't complete it today. Come back later!",
-  "edit_interest_for_name": "Add a bonus for %1$d",
+  "edit_interest_for_name": "PLZ_COPY Edit the bonus for %1$d",
   "enable_gimi_premium_beta": "Enable Gimi Master [Beta]",
   "about_gimi_settings_label": "About Gimi",
   "custom_notification_choose_payday": "Choose day for Payday!",
