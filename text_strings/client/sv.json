@@ -1854,7 +1854,7 @@
   "name_has_existing_connection_popover_title": "Du är redan ihopkopplad med den här användaren",
   "no_convert_currency_popover_title": "Vi omvandlar inte valutor",
   "no_convert_currency_popover_desc": "Vi kommer bara att ändra valutan, inte själva summan!",
-  "weekly_payout_week_x": "Veckopengen vecka %1$d",
+  "weekly_payout_week_x": "Veckopeng vecka %1$d",
   "monthly_payout_month_x": "Månadspeng i %1$d",
   "transfer_now": "Gör insättning",
   "custom_notif_invite_to_kids": "Bjud in fler supporters till dina barn!",
