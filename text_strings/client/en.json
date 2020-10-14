@@ -3389,7 +3389,7 @@
   "general_how_much": "How much?",
   "general_add_bonus": "Add bonus rate?",
   "kid_setup_done": "All set!",
-  "kid_setup_done_subtitle": "Here is a summary of your allowance settings",
+  "kid_setup_done_subtitle": "PLZ_COPY Here's a summary of your child's settings. You can change them later if you want to!",
   "done_lets_go": "Done, let's go!",
   "no_chores_added": "No chores added...",
   "general_clear_all": "Clear all",
