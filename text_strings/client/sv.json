@@ -1828,7 +1828,7 @@
   "instantor_fail_container_text": "Men det finns ett annat sätt att verifiera din identitet, med ditt ID-kort.",
   "instantor_fail_container_button": "Fortsätt",
   "pin_entered_too_many_times_error": "För många försök. Din PIN är avstängd i 1 timme.",
-  "withdraw_from_freemium_savings_title": "Dra av",
+  "withdraw_from_freemium_savings_title": "Dra av från spargrisen",
   "deposit_to_freemium_savings_title": "Fyll på i spargrisen",
   "withdraw_from_premium_savings_title": "Dra av från valvet",
   "deposit_to_premium_savings_title": "Insättning",
