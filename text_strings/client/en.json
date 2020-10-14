@@ -1513,7 +1513,7 @@
   "general_apology": "Apology",
   "added_dream_without_parent_takeover_title": "Your goal is added!",
   "added_dream_without_parent_takeover_text": "But you need a supporter to get money for your goal!",
-  "parent_no_kids_header": "Invite your children in here!",
+  "parent_no_kids_header": "PLZ_COPY Welcome to Gimi!",
   "parent_no_kids_desc": "Get started and watch your children get Financial Superskills",
   "cant_delete_premium_kid_popover_title": "You cannot delete %1$d",
   "cant_delete_premium_kid_popover_text": "You have an active Master subscription, so you cannot delete this connection.",
