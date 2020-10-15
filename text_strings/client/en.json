@@ -3440,5 +3440,6 @@
   "setup_kid_allowance_subtitle": "It’s based on your child’s piggybank savings, and will be paid out together with the weekly allowance!",
   "get_started_card_order_card_title": "Try Gimi with real money, for free",
   "get_started_card_order_card_subtitle": "Order the Gimi card!",
-  "general_allowance_amount": "Amount"
+  "general_allowance_amount": "Amount",
+  "goal_statistics_title": "My goal"
 }

@@ -1515,7 +1515,7 @@
   "added_dream_without_parent_takeover_text": "Men du behöver en supporter för att tjäna pengar till ditt mål.",
   "parent_no_kids_header": "Välkommen till Gimi!",
   "parent_no_kids_desc": "Kom igång och ge dina barn Financial Superskills",
-  "cant_delete_premium_kid_popover_title":f "Du kan inte radera %1$d",
+  "cant_delete_premium_kid_popover_title": "Du kan inte radera %1$d",
   "cant_delete_premium_kid_popover_text": "Du har en aktiv prenumeration, så du kan inte ta bort den här kontakten.",
   "cant_delete_own_premium_account_popover_title": "Du kan inte radera ditt konto",
   "cant_delete_own_premium_account_popover_text": "Du har aktiverat Gimi Master, så du kan inte radera ditt konto.",
@@ -3440,5 +3440,6 @@
   "setup_kid_allowance_subtitle": "PLZ_CHECK It’s based on your child’s piggybank savings, and will be paid out together with the weekly allowance!",
   "get_started_card_order_card_title": "PLZ_CHECK Try Gimi with real money, for free",
   "get_started_card_order_card_subtitle": "PLZ_CHECK Order the Gimi card!",
-  "general_allowance_amount": "Summa"
+  "general_allowance_amount": "Summa",
+  "goal_statistics_title": "PLZ_CHECK My goal"
 }
