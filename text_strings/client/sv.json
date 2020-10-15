@@ -3435,11 +3435,11 @@
   "kid_next_payday_flash_card_subtitle": "Vi förklarar här",
   "invite_is_pending": "Väntar på godkännande...",
   "accept_invite_question": "Acceptera?",
-  "challange_missing_product_title": "PLZ_CHECK Oh no! Something went wrong",
-  "challange_missing_product_desc": "PLZ_CHECK We'll take care of it. While waiting, you can read the story again!",
+  "challange_missing_product_title": "Åh nej! Något gick snett",
+  "challange_missing_product_desc": "Vi försöker fixa felet. Medan du väntar kan du läsa berättelsen igen!",
   "setup_kid_allowance_subtitle": "PLZ_CHECK It’s based on your child’s piggybank savings, and will be paid out together with the weekly allowance!",
-  "get_started_card_order_card_title": "PLZ_CHECK Try Gimi with real money, for free",
-  "get_started_card_order_card_subtitle": "PLZ_CHECK Order the Gimi card!",
+  "get_started_card_order_card_title": "Testa Gimi med riktiga pengar, gratis",
+  "get_started_card_order_card_subtitle": "Beställ Gimi-kortet!",
   "general_allowance_amount": "Summa",
-  "goal_statistics_title": "PLZ_CHECK My goal"
+  "goal_statistics_title": "Mitt mål"
 }
