@@ -913,7 +913,7 @@
   "connected_popover_text": "Set up allowance, chores and a bonus for %1$d now?",
   "general_now": "now",
   "general_important": "important",
-  "choosing_chores_for_kid_subtitle": "The amount earned from chores will also be paid out together with the weekly allowance",
+  "choosing_chores_for_kid_subtitle": "PLZ_COPY The amount earned from chores will also be paid out together with the allowance",
   "chores_for_n": "chores for %1$d",
   "add_from_popular_chore_package": "Add from popular",
   "custom_notification_secure_account": "secure your user account",
