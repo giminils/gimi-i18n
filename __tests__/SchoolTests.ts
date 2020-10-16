@@ -44,7 +44,7 @@ describe('School tests', () => {
             })
         })
     })
-    test('story should have imageUrl', () => {
+    test.skip('story should have imageUrl as a string', () => {
         stories.map((story) => {
             story.screens.map((screen) => {
                 if (!screen.imageUrl) warnStoryId(story, 'imageUrl')
