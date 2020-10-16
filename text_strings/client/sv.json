@@ -3446,5 +3446,6 @@
   "payday_status_to_be_paid": "PLZ_CHECK To be paid out today!",
   "payday_status_late": "PLZ_CHECK %1$d late. Pay today!",
   "payday_status_paid": "PLZ_CHECK You’ve paid this one. All set!",
-  "total_amount_in": "PLZ_CHECK Total %1$d"
+  "total_amount_in": "PLZ_CHECK Total %1$d",
+  "general_included": "PLZ_CHECK Included"
 }
