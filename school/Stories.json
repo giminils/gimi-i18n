@@ -75,6 +75,38 @@
                             "langKey": "school_screen_button4"
                         }
                     ]
+                },
+                {
+                    "id": 5,
+                    "type": "PAUSE",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        },
+                        {
+                            "langKey": "school_screen_button3"
+                        },
+                        {
+                            "langKey": "school_screen_button4"
+                        }
+                    ]
                 }
             ]
         },
