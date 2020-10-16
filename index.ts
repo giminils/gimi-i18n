@@ -24,18 +24,6 @@ import itSchool from './text_strings/school/it.json'
 import esSchool from './text_strings/school/es.json'
 import deSchool from './text_strings/school/de.json'
 
-// client_new_structure
-import svNewStructure from './text_strings/client_new_structure/sv.json'
-import enNewStructure from './text_strings/client_new_structure/en.json'
-import noNewStructure from './text_strings/client_new_structure/nb.json'
-import daNewStructure from './text_strings/client_new_structure/da.json'
-import frNewStructure from './text_strings/client_new_structure/fr.json'
-import nlNewStructure from './text_strings/client_new_structure/nl.json'
-import fiNewStructure from './text_strings/client_new_structure/fi.json'
-import itNewStructure from './text_strings/client_new_structure/it.json'
-import esNewStructure from './text_strings/client_new_structure/es.json'
-import deNewStructure from './text_strings/client_new_structure/de.json'
-
 // bot
 import svBot from './text_strings/bot/sv.json'
 import enBot from './text_strings/bot/en.json'
@@ -335,22 +323,6 @@ export let getClienStrings = (lang: string) => {
     case 'es': return es // spanish
     case 'de': return de // german
     default: return en
-  }
-}
-
-export let getClientNewStructureStrings = (lang: string): string => {
-  switch (lang.substring(0, 2)) {
-    case 'sv': return flatten(svNewStructure) // sweden
-    case 'nb':
-    case 'nn': return flatten(noNewStructure) // norway
-    case 'da': return flatten(daNewStructure) // danish
-    case 'fr': return flatten(frNewStructure) // france
-    case 'nl': return flatten(nlNewStructure) // netherlands
-    case 'fi': return flatten(fiNewStructure) // finish
-    case 'it': return flatten(itNewStructure) // italian
-    case 'es': return flatten(esNewStructure) // spanish
-    case 'de': return flatten(deNewStructure) // german
-    default: return flatten(enNewStructure)
   }
 }
 

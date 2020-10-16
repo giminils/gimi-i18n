@@ -24,8 +24,7 @@ describe('TextStrings', () => {
   })
 
   test('should not have duplicate keys in textStrings', () => {
-    findDuplicateJSONKeysInFolders('./text_strings/', (dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux' && dir !== 'bot_new_structure' && dir !== 'client_new_structure' && dir !== 'shared'
-    )
+    findDuplicateJSONKeysInFolders('./text_strings/', (dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux' && dir !== 'bot_new_structure' && dir !== 'shared')
   })
   test('all textstrings should have a equivalent string in all other languages', () => {
     compareKeysForLanguages(supportedLanguageCodes, getTextStrings, languageCodes)
