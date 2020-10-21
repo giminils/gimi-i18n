@@ -1898,7 +1898,7 @@
   "parent_cloud_debt_explainer_subtitle": "%1$d got a real money account, and supporters can now send real money. The balance in the piggybank is a debt, waiting to be settled by the supporters.",
   "kid_cloud_debt_explainer_remind_button": "Remind them!",
   "card_on_its_way_activate": "Your card is on its way! Until then, it's locked.",
-  "general_activate_it": "Activate it!",
+  "general_activate_it": "PLZ_COPY Activate",
   "test_debitcard_charge_popover_title": "We will make a authorisation charge of 1kr...",
   "test_debitcard_charge_popover_text": "...to confirm that the card is valid. But we won't charge you anything! The money will be returned as a chargeback.",
   "no_gimi_children_in_phone_contacts": "No Gimi children in your contacts",
