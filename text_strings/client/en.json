@@ -2462,7 +2462,7 @@
   "help_row_where_money_goes": "Where does the money go?",
   "help_row_allowance": "How does allowance work?",
   "help_row_interest": "Why a bonus?",
-  "set_card_name_help_text": "Write the full name of %1$d, as it will appear on the card.",
+  "set_card_name_help_text": "PLZ_COPY If the full name doesn't fit, use initials for the first name(s).",
   "notification_waiting_hour_glass": "Waiting...",
   "notification_payment_failed": "Failed",
   "notification_payment_ignored": "Ignored",
