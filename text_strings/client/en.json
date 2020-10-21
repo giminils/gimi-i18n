@@ -3447,5 +3447,14 @@
   "payday_status_late": "%1$d late. Pay today!",
   "payday_status_paid": "You’ve paid this one. All set!",
   "total_amount_in": "Total %1$d",
-  "general_included": "Included"
+  "general_included": "Included",
+  "pin_added_message": "Pin added",
+  "change_pin_confirmed": "Code confirmed",
+  "forgot_pin_code_confirmed": "Code confirmed",
+  "expense_added_message": "Expense added",
+  "allowance_paid_message_multiple": "Its paid!",
+  "allowance_paid_message_single": "Its paid!",
+  "premium_deposit_message": "Deposit done!",
+  "request_money_message": "Request sent!",
+  "send_money_to_friend_message": "Money transfered"
 }

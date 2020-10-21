@@ -3447,5 +3447,14 @@
   "payday_status_late": "PLZ_CHECK %1$d late. Pay today!",
   "payday_status_paid": "PLZ_CHECK You’ve paid this one. All set!",
   "total_amount_in": "PLZ_CHECK Total %1$d",
-  "general_included": "PLZ_CHECK Included"
+  "general_included": "PLZ_CHECK Included",
+  "pin_added_message": "PLZ_CHECK Pin added",
+  "change_pin_confirmed": "PLZ_CHECK Code confirmed",
+  "forgot_pin_code_confirmed": "PLZ_CHECK Code confirmed",
+  "expense_added_message": "PLZ_CHECK Expense added",
+  "allowance_paid_message_multiple": "PLZ_CHECK Its paid!",
+  "allowance_paid_message_single": "PLZ_CHECK Its paid!",
+  "premium_deposit_message": "PLZ_CHECK Deposit done!",
+  "request_money_message": "PLZ_CHECK Request sent!",
+  "send_money_to_friend_message": "PLZ_CHECK Money transfered"
 }
