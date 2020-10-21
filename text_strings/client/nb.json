@@ -1998,7 +1998,7 @@
   "shareable_recieved_money_title": "jeg fikk nettopp...",
   "general_shared_confirmation": "Delt vellykket!",
   "onfido_start_info_title": "Skann pass eller ID",
-  "onfido_start_info_desc": " ☝️Skann passet ditt eller nasjonalt ID-kort (bank-ID fungerer ikke!)\n\n✌️Sørg for å ta et klart bilde, uten uskarphet eller refleksjon!\n\n🖐Vis hele dokumentet, og hold fingrene unna!\n Sørg for å ta et klart bilde, uten uskarphet!",
+  "onfido_start_info_desc": "• Skann passet ditt eller nasjonalt ID-kort (bank-ID fungerer ikke!)\n\n• Sørg for å ta et klart bilde, uten uskarphet eller refleksjon!\n\n• Vis hele dokumentet, og hold fingrene unna!\n Sørg for å ta et klart bilde, uten uskarphet!",
   "general_how_does_it_work": "Hvordan virker det?",
   "broken_bank_popover_title": "BankID med %1$d virker ikke…",
   "broken_bank_popover_text": "%1$d krever at du skanner en QR-kode på deres nettside med BankID-appen. Dessverre virker dette ikke i en app, så her er en annen, bedre måte å identifisere din identitet på!",
