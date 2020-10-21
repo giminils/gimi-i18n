@@ -1,6 +1,6 @@
 import {challanges, stories, getAllLessons, getLesson} from '../school/School'
 jest.disableAutomock()
-const CHALLANGE_TYPES = ['ROCKET', 'BANK']
+const CHALLANGE_TYPES = ['ROCKET', 'BANK', 'QUIZ']
 
 let warnStoryId = (story: { id: number }, prop: string) => {
     console.warn(`Story with id: ${story.id} having problems with: ${prop} `)

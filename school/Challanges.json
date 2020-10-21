@@ -11,12 +11,22 @@
         },
         {
             "id": 2,
-            "type": "BANK",
-            "product": {
-                "titleLangKey": "challange_example_title",
-                "price": 200,
-                "imageUrl": "https://loremflickr.com/320/320/bike"
-            }
+            "type": "QUIZ",
+            "titleLangKey": "",
+            "answers": [
+                {
+                    "titleLangKey": "",
+                    "isCorrect": true
+                },
+                {
+                    "titleLangKey": "",
+                    "isCorrect": false
+                },
+                {
+                    "titleLangKey": "",
+                    "isCorrect": false
+                }
+            ]
         },
         {
             "id": 3,
