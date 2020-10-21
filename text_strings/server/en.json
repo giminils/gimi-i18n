@@ -171,7 +171,7 @@
   "push_give_chores_to_children": "Create some chores to help your child earn money!",
   "push_verify_phone_to_custom_account": "Verify your phone number",
   "push_chores_waiting": "You have {x} chores waiting. Go earn some money!",
-  "event_add_card": "Add your debit card so you can send to your children!",
+  "event_add_card": "PLZ_COPY Register a debit card or Swish to send money to your children!",
   "event_child_spend": "You spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "event_got_money_back": " {statement.merchant_name} has sent some money back.",
   "push_got_money_back": "You got some money from {statement.merchant_name}!",
