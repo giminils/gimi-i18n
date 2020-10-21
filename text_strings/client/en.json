@@ -1998,7 +1998,7 @@
   "shareable_recieved_money_title": "I just got...",
   "general_shared_confirmation": "Sharing successful!",
   "onfido_start_info_title": "Scan your passport or ID",
-  "onfido_start_info_desc": "☝️Scan your passport, or national ID card (bank ID doesn't work!)\n\n✌️Make sure to take a clear picture, no blur or reflection!\n\n🖐Show the full document, and keep your fingers off!\nMake sure to take a clear picture, no blur!",
+  "onfido_start_info_desc": "• Scan your passport, or national ID card (bank ID doesn't work!)\n\n• Make sure to take a clear picture, no blur or reflection!\n\n• Show the full document, and keep your fingers off!\nMake sure to take a clear picture, no blur!",
   "general_how_does_it_work": "How does this work?",
   "broken_bank_popover_title": "BankID with %1$d is not working…",
   "broken_bank_popover_text": "%1$d requires you to scan a QR code on their website with the BankID app. This is cumbersome and doesn't really work well, so here's another, better way to identify your identity!",
