@@ -206,7 +206,7 @@
   "CHGERE026_push_title": "{parent.nickname} deducted {formatted_amount} from your piggybank",
   "push_deposit_made_to_your_cloud": "Money has been added to your piggybank!",
   "CHGERE027_push_title": "{parent.nickname} added {formatted_amount} to your piggybank",
-  "event_upgraded_to_premium": "You have been upgraded to Gimi Master",
+  "event_upgraded_to_premium": "PLZ_COPY It's your lucky day - you've been upgraded to Gimi Master!",
   "push_upgraded_to_premium": "The Gimi card is on its way!",
   "event_not_paid_card_locked": "You have not paid the subscription for {child.nickname}. Their account will be locked until you pay.",
   "event_influence_use_gimi": "Check out how influencers are using Gimi! ",
