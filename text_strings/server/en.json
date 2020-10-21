@@ -343,7 +343,7 @@
   "ADGERE038_notification_title": "{assignment.task.title} done by {child.nickname} has been auto-approved!",
   "ADGERE038_push_title": "{assignment.task.title} has been auto-approved!",
   "CHPRRE019_notification_title": "You got a deposit from {pfspayment.parent.nickname}",
-  "CHPRRE019_push_title": "Deposit from {pfspayment.parent.nickname}!",
+  "CHPRRE019_push_title": "PLZ_COPY You received a deposit from {pfspayment.parent.nickname}, check it out!",
   "ADGEPU012_notification_title": "School start 2020. Upgrade from cash to a Gimi card",
   "ADGEPU012_push_title": "School start 1989: Cash - School start 2020: Card",
   "ADGEPU007_notification_title": "Connect your children with more supporters!",
