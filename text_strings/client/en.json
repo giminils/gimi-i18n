@@ -506,7 +506,7 @@
   "add_pin_success_title": "Done! From now on you have a passcode.",
   "you_can_change_it_in_settings": "You can always change it in settings.",
   "question_how_to_pay": "How do you want to pay?",
-  "pay_for_card_options_description": "This is how you deposit money to children with Gimi Master accounts",
+  "pay_for_card_options_description": "PLZ_COPY Choose how you want to deposit money to the Gimi card and vault",
   "payment_option_debit_card": "Debit card",
   "payment_option_swish_soon": "Swish: coming soon!",
   "payment_option_apple_pay_soon": "Apple Pay: coming soon!",
