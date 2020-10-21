@@ -289,7 +289,7 @@
   "CHGERE017_notification_title": "Your invitation wasn't accepted. Invite someone else?",
   "ADGERE016_notification_title": "Your invitation wasn't accepted. Invite someone else?",
   "ADGEON005_push_title": "Add a profile picture!",
-  "CHFRRE001_notification_title": "Today is Payday! Check out how much you got",
+  "CHFRRE001_notification_title": "PLZ_COPY Today is Payday! Check out the piggybank to see what you got",
   "CHFRRE001_notification_title_v2": "Today is Payday! {formatted_amount} was added to your piggybank",
   "ADGERE011_notification_title": "{child.nickname} has reached a goal",
   "CHGERE033_push_title": "Don't forget you have {savings_balance} in the piggybank! ✌️",
