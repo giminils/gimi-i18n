@@ -6,7 +6,7 @@
             "titleLangKey": "chapter_1_title",
             "subtitleLangKey": "chapter_1_subtitle",
             "imageUrl": "",
-            "lessonIds": [1, 2, 3, 4, 5, 6]
+            "lessonIds": [1, 2, 3]
         },
         {
             "id": 2,
