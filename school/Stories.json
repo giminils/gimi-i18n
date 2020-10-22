@@ -19,7 +19,7 @@
                         }
                     ]
                 },
-                {
+                                {
                     "id": 2,
                     "type": "DEFAULT",
                     "titleLangKey": "school_screen_title",
@@ -27,20 +27,23 @@
                     "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "langKey": "school_screen_button1"
                         },
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "langKey": "school_screen_button1"
                         },
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "langKey": "school_screen_button1"
+                        },
+                                                {
+                            "langKey": "school_screen_button1"
                         }
                     ]
                 },
                 {
                     "id": 3,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_screen_title",
+                    "titleLangKey":  "school_screen_title",
                     "subTitleLangKey": "school_screen_subtitle",
                     "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
@@ -48,10 +51,7 @@
                             "langKey": "school_screen_button1"
                         },
                         {
-                            "langKey": "school_screen_button1"
-                        },
-                        {
-                            "langKey": "school_screen_button1"
+                            "langKey": "school_screen_button2"
                         }
                     ]
                 },
@@ -67,17 +67,47 @@
                         },
                         {
                             "langKey": "school_screen_button2"
-                        },
-                        {
-                            "langKey": "school_screen_button3"
-                        },
-                        {
-                            "langKey": "school_screen_button4"
                         }
                     ]
                 },
                 {
                     "id": 5,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "imageUrl": "https://picsum.photos/300/300"
+                        },
+                        {
+                            "imageUrl": "https://picsum.photos/300/300"
+                        },
+                        {
+                            "imageUrl": "https://picsum.photos/300/300"
+                        },
+                                                {
+                            "imageUrl": "https://picsum.photos/300/300"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_screen_title",
+                    "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button1"
+                        },
+                        {
+                            "langKey": "school_screen_button2"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
                     "type": "PAUSE",
                     "titleLangKey": "school_screen_title",
                     "subTitleLangKey": "school_screen_subtitle",
@@ -88,7 +118,7 @@
                     ]
                 },
                 {
-                    "id": 6,
+                    "id": 8,
                     "type": "DEFAULT",
                     "titleLangKey": "school_screen_title",
                     "subTitleLangKey": "school_screen_subtitle",
