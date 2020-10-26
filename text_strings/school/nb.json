@@ -78,15 +78,5 @@
   "school_challenge_1_title": "Challenge 1",
   "school_challenge_1_subtitle": "Byteshandel",
   "school_challange_example_title": "Betala för prylen",
-  "school_bank_challange_hint": "Dra pengarna hit!!",
-  "chapter_1_title": "PLZ_TRANSLATE Chapter 1 title",
-  "chapter_1_subtitle": "PLZ_TRANSLATE Chapter 1 subtitle",
-  "chapter_2_title": "PLZ_TRANSLATE Chapter 2 title",
-  "chapter_2_subtitle": "PLZ_TRANSLATE Chapter 2 subtitle",
-  "chapter_3_title": "PLZ_TRANSLATE Chapter 3 title",
-  "chapter_3_subtitle": "PLZ_TRANSLATE Chapter 3 subtitle",
-  "school_screen_title": "PLZ_TRANSLATE School screen title",
-  "school_screen_subtitle": "PLZ_TRANSLATE School screen subtitle",
-  "challange_example_title": "PLZ_TRANSLATE Betala för prylen",
-  "bank_challange_hint": "PLZ_TRANSLATE Dra pengarna hit!!"
+  "school_bank_challange_hint": "Dra pengarna hit!!"
 }

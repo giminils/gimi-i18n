@@ -3456,5 +3456,6 @@
   "allowance_paid_message_single": "PLZ_CHECK Allowance was paid out successfully!",
   "premium_deposit_message": "PLZ_CHECK A deposit was made!",
   "request_money_message": "PLZ_CHECK Request was sent successfully!",
-  "send_money_to_friend_message": "PLZ_CHECK Your money was sent!"
+  "send_money_to_friend_message": "PLZ_CHECK Your money was sent!",
+  "included_chores_in_allowance": "PLZ_CHECK Chores included"
 }
