@@ -98,7 +98,7 @@
   "push_you_have_a_new_connection": "Du har en ny kontakt!",
   "push_you_have_got_an_invitation_to_connect": "Du har fått en inbjudan av {connectiontoken.created_by.nickname}",
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Du kommer att få vecko- eller månadspeng. Spana in hur mycket du kommer få!",
-  "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i spargrisen.",
+  "push_payday_parent": "Payday för {child.nickname}! Se hur mycket som fyllts på i spargrisen",
   "push_child_has_reached_a_dream": "{child.nickname} har nått ett mål",
   "event_add_email": "Vill du få viktig information på mejlen?",
   "event_chore_title_or_amount_changed": "{parent.nickname} uppdaterade {chore.title}",
