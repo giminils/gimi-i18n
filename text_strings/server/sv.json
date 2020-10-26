@@ -167,7 +167,7 @@
   "event_today_pay_day": "Idag är det Payday!",
   "push_name_deposit_to_account": "Du har fått pengar från {parent.nickname}!",
   "event_name_deposit_to_account": "Du har fått pengar från {parent.nickname}!",
-  "event_name_made_deposit_to_account": "Det är dags för utbetalning! Du har fått pengar från {parent.nickname}",
+  "event_name_made_deposit_to_account": "Det är dags för Payday! Du har fått pengar från {parent.nickname}",
   "push_give_chores_to_children": "Skapa uppgifter för att hjälpa ditt barn tjäna pengar!",
   "push_verify_phone_to_custom_account": "Verifiera ditt telefonnummer",
   "push_chores_waiting": "Du har {x} uppgifter som väntar! Gå och tjäna extra penagr!",
