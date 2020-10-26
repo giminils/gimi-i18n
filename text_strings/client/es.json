@@ -3448,13 +3448,13 @@
   "payday_status_paid": "PLZ_TRANSLATE You’ve paid this one. All set!",
   "total_amount_in": "PLZ_TRANSLATE Total %1$d",
   "general_included": "PLZ_TRANSLATE Included",
-  "pin_added_message": "PLZ_TRANSLATE Pin added",
-  "change_pin_confirmed": "PLZ_TRANSLATE Code confirmed",
-  "forgot_pin_code_confirmed": "PLZ_TRANSLATE Code confirmed",
-  "expense_added_message": "PLZ_TRANSLATE Expense added",
-  "allowance_paid_message_multiple": "PLZ_TRANSLATE Its paid!",
-  "allowance_paid_message_single": "PLZ_TRANSLATE Its paid!",
-  "premium_deposit_message": "PLZ_TRANSLATE Deposit done!",
-  "request_money_message": "PLZ_TRANSLATE Request sent!",
-  "send_money_to_friend_message": "PLZ_TRANSLATE Money transfered"
+  "pin_added_message": "PLZ_TRANSLATE Passcode added!",
+  "change_pin_confirmed": "PLZ_TRANSLATE Your passcode was changed!",
+  "forgot_pin_code_confirmed": "PLZ_TRANSLATE Your passcode is now confirmed!",
+  "expense_added_message": "PLZ_TRANSLATE You added an expense!",
+  "allowance_paid_message_multiple": "PLZ_TRANSLATE Allowances were paid out successfully!",
+  "allowance_paid_message_single": "PLZ_TRANSLATE Allowance was paid out successfully!",
+  "premium_deposit_message": "PLZ_TRANSLATE A deposit was made!",
+  "request_money_message": "PLZ_TRANSLATE Request was sent successfully!",
+  "send_money_to_friend_message": "PLZ_TRANSLATE Your money was sent!"
 }

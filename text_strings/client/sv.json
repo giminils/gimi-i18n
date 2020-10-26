@@ -3448,13 +3448,13 @@
   "payday_status_paid": "PLZ_CHECK You’ve paid this one. All set!",
   "total_amount_in": "PLZ_CHECK Total %1$d",
   "general_included": "PLZ_CHECK Included",
-  "pin_added_message": "PLZ_CHECK Pin added",
-  "change_pin_confirmed": "PLZ_CHECK Code confirmed",
-  "forgot_pin_code_confirmed": "PLZ_CHECK Code confirmed",
-  "expense_added_message": "PLZ_CHECK Expense added",
-  "allowance_paid_message_multiple": "PLZ_CHECK Its paid!",
-  "allowance_paid_message_single": "PLZ_CHECK Its paid!",
-  "premium_deposit_message": "PLZ_CHECK Deposit done!",
-  "request_money_message": "PLZ_CHECK Request sent!",
-  "send_money_to_friend_message": "PLZ_CHECK Money transfered"
+  "pin_added_message": "PLZ_CHECK Passcode added!",
+  "change_pin_confirmed": "PLZ_CHECK Your passcode was changed!",
+  "forgot_pin_code_confirmed": "PLZ_CHECK Your passcode is now confirmed!",
+  "expense_added_message": "PLZ_CHECK You added an expense!",
+  "allowance_paid_message_multiple": "PLZ_CHECK Allowances were paid out successfully!",
+  "allowance_paid_message_single": "PLZ_CHECK Allowance was paid out successfully!",
+  "premium_deposit_message": "PLZ_CHECK A deposit was made!",
+  "request_money_message": "PLZ_CHECK Request was sent successfully!",
+  "send_money_to_friend_message": "PLZ_CHECK Your money was sent!"
 }

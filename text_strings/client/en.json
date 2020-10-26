@@ -3448,13 +3448,13 @@
   "payday_status_paid": "You’ve paid this one. All set!",
   "total_amount_in": "Total %1$d",
   "general_included": "Included",
-  "pin_added_message": "PLZ_COPY Passcode added!",
-  "change_pin_confirmed": "PLZ_COPY Your passcode was changed!",
-  "forgot_pin_code_confirmed": "PLZ_COPY Your passcode is now confirmed!",
-  "expense_added_message": "PLZ_COPY You added an expense!",
-  "allowance_paid_message_multiple": "PLZ_COPY Allowances were paid out successfully!",
-  "allowance_paid_message_single": "PLZ_COPY Allowance was paid out successfully!",
-  "premium_deposit_message": "PLZ_COPY A deposit was made!",
-  "request_money_message": "PLZ_COPY Request was sent successfully!",
-  "send_money_to_friend_message": "PLZ_COPY Your money was sent!"
+  "pin_added_message": "Passcode added!",
+  "change_pin_confirmed": "Your passcode was changed!",
+  "forgot_pin_code_confirmed": "Your passcode is now confirmed!",
+  "expense_added_message": "You added an expense!",
+  "allowance_paid_message_multiple": "Allowances were paid out successfully!",
+  "allowance_paid_message_single": "Allowance was paid out successfully!",
+  "premium_deposit_message": "A deposit was made!",
+  "request_money_message": "Request was sent successfully!",
+  "send_money_to_friend_message": "Your money was sent!"
 }
