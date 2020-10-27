@@ -3457,5 +3457,7 @@
   "premium_deposit_message": "PLZ_TRANSLATE A deposit was made!",
   "request_money_message": "PLZ_TRANSLATE Request was sent successfully!",
   "send_money_to_friend_message": "PLZ_TRANSLATE Your money was sent!",
-  "included_chores_in_allowance": "PLZ_TRANSLATE Chores included"
+  "included_chores_in_allowance": "PLZ_TRANSLATE Chores included",
+  "allowance_summary": "PLZ_TRANSLATE Allowance summary",
+  "general_details": "PLZ_TRANSLATE Details"
 }
