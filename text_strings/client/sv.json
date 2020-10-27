@@ -3459,5 +3459,6 @@
   "send_money_to_friend_message": "PLZ_CHECK Your money was sent!",
   "included_chores_in_allowance": "PLZ_CHECK Chores included",
   "allowance_summary": "PLZ_CHECK Allowance summary",
-  "general_details": "PLZ_CHECK Details"
+  "general_details": "PLZ_CHECK Details",
+  "allowance_summary_desc": "PLZ_CHECK To be paid by your supporters"
 }

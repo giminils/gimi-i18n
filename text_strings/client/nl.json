@@ -3459,5 +3459,6 @@
   "send_money_to_friend_message": "PLZ_TRANSLATE Your money was sent!",
   "included_chores_in_allowance": "PLZ_TRANSLATE Chores included",
   "allowance_summary": "PLZ_TRANSLATE Allowance summary",
-  "general_details": "PLZ_TRANSLATE Details"
+  "general_details": "PLZ_TRANSLATE Details",
+  "allowance_summary_desc": "PLZ_TRANSLATE To be paid by your supporters"
 }

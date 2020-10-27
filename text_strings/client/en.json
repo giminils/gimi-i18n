@@ -3459,5 +3459,6 @@
   "send_money_to_friend_message": "Your money was sent!",
   "included_chores_in_allowance":"Chores included",
   "allowance_summary":"Allowance summary",
-  "general_details":"Details"
+  "general_details":"Details",
+  "allowance_summary_desc":"To be paid by your supporters"
 }
