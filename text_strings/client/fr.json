@@ -3445,7 +3445,6 @@
   "payday_status_upcoming": "PLZ_TRANSLATE Coming up. Check back on %1$d",
   "payday_status_to_be_paid": "PLZ_TRANSLATE To be paid out today!",
   "payday_status_late": "PLZ_TRANSLATE %1$d late. Pay today!",
-  "payday_status_paid": "PLZ_TRANSLATE You’ve paid this one. All set!",
   "total_amount_in": "PLZ_TRANSLATE Total %1$d",
   "general_included": "PLZ_TRANSLATE Included",
   "pin_added_message": "PLZ_TRANSLATE Passcode added!",
@@ -3460,5 +3459,7 @@
   "included_chores_in_allowance": "PLZ_TRANSLATE Chores included",
   "allowance_summary": "PLZ_TRANSLATE Allowance summary",
   "general_details": "PLZ_TRANSLATE Details",
-  "allowance_summary_desc": "PLZ_TRANSLATE To be paid by your supporters"
+  "allowance_summary_desc": "PLZ_TRANSLATE To be paid by your supporters",
+  "payday_status_paid_parent": "PLZ_TRANSLATE You’ve paid this one. All set!",
+  "payday_status_paid_kid": "PLZ_TRANSLATE Paid and delivered"
 }
