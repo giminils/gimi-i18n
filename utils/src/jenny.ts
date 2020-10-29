@@ -83,9 +83,9 @@ let keysToDelete: Array<string> = []
 let removeMatchedKeys: Array<string> = []
 let rootDir = '..'
 let dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers', 'consts']
-let textStringsSvFilePath = './text_strings/client/sv.json'
+let textStringsEnFilePath = './text_strings/client/en.json'
 let storeUnUsedTextStrings = './cleanup_strings/unusedLangkeys.json'
-let TextStrings = fs1.readFileSync(textStringsSvFilePath, {encoding: 'utf8'})
+let TextStrings = fs1.readFileSync(textStringsEnFilePath, {encoding: 'utf8'})
 let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
 let foundKeys = 0
 let matchedKeys = 0
@@ -157,31 +157,27 @@ console.log('****** Begin Scan ********\n')
 Object.keys(parsedTextStrings).forEach(key => checkIfTextStringIsObsolete(key))
 
 console.log('****** Scan Complete ********')
-console.log(
-  `
+console.log(`
   Ignored text_strings: ${ignoredKeys}
   Found text_strings to delete: ${foundKeys}`)
 if (process.argv.some(x => x === 'f')) {
   /** ****** Deleting TextStrings *******/
-  console.log(`Removing ${foundKeys} text_strings from ${textStringsSvFilePath} ..`)
-
+  console.log(`Removing ${foundKeys} text_strings from ${textStringsEnFilePath}..`)
+  console.warn()
   keysToDelete.forEach((key) => {
     delete parsedTextStrings[key]
   })
 
-  TextStrings = JSON.stringify(TextStrings, undefined, 2)
-  fs1.unlinkSync(textStringsSvFilePath)
-  fs1.writeFileSync(textStringsSvFilePath, TextStrings, {encoding: 'utf8'})
+  let stringifieddUpdateEnTextFile = JSON.stringify(parsedTextStrings, undefined, 2)
+  fs1.unlinkSync(textStringsEnFilePath)
+  fs1.writeFileSync(textStringsEnFilePath, stringifieddUpdateEnTextFile, {encoding: 'utf8'})
 
   console.log(`Done`)
-} else
-  console.log(`
-  run with f to remove ${foundKeys} text_strings from ${textStringsSvFilePath}
-  `)
+} else console.log(`run with f to remove ${foundKeys} text_strings from ${textStringsEnFilePath}`)
 
   if (process.argv.some(x => x === 's')) {
   /** ****** Storing TextStrings that can be matched  to new enviroment *******/
-  console.log(`Storing ${foundKeys} text_strings from ${textStringsSvFilePath} to ${textStringsSvFilePath} ..`)
+  console.log(`Storing ${foundKeys} text_strings from ${textStringsEnFilePath} to ${textStringsEnFilePath} ..`)
   let storeStrings = fs1.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
   let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
 
@@ -198,7 +194,7 @@ if (process.argv.some(x => x === 'f')) {
 
 if (process.argv.some(x => x === 'm')) {
 /** ****** Matching Text strings and removing used strings *******/
-  console.log(`Matching text_strings from ${textStringsSvFilePath} to saved strings ${storeUnUsedTextStrings}`)
+  console.log(`Matching text_strings from ${textStringsEnFilePath} to saved strings ${storeUnUsedTextStrings}`)
   let storeStrings = fs1.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
   let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
   Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
@@ -212,14 +208,11 @@ if (process.argv.some(x => x === 'm')) {
   fs1.writeFileSync(storeStringsToSave, storeStrings, {encoding: 'utf8'})
 
   console.log(`Done`)
-} else
-  console.log(`
-  run with d to remove ${matchedKeys} text_strings from ${storeUnUsedTextStrings}
-  `)
+} else console.log(`run with d to remove ${matchedKeys} text_strings from ${storeUnUsedTextStrings}`)
 
 if (process.argv.some(x => x === 'd')) {
   /** ****** Deleting TextStrings *******/
-  console.log(`Removing ${matchedKeys} text_strings from ${textStringsSvFilePath} ..`)
+  console.log(`Removing ${matchedKeys} text_strings from ${textStringsEnFilePath} ..`)
   let storeStrings = fs1.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
   let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
   Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
@@ -234,8 +227,8 @@ if (process.argv.some(x => x === 'd')) {
   fs1.writeFileSync(storeUnUsedTextStrings, storeStrings, {encoding: 'utf8'})
 
   TextStrings = JSON.stringify(TextStrings, undefined, 2)
-  fs1.unlinkSync(textStringsSvFilePath)
-  fs1.writeFileSync(textStringsSvFilePath, TextStrings, {encoding: 'utf8'})
+  fs1.unlinkSync(textStringsEnFilePath)
+  fs1.writeFileSync(textStringsEnFilePath, TextStrings, {encoding: 'utf8'})
   console.log(`run with f to remove found strings`)
   console.log(`run with s to store found strings`)
   console.log(`run with m match strings found and stored`)
