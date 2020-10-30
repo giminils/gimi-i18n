@@ -219,8 +219,8 @@
                 {
                     "id": 1,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_screen_title",
-                    "subTitleLangKey": "school_screen_subtitle",
+                    "titleLangKey": "school_story_start_2_title",
+                    "subTitleLangKey": "school_story_start_2_subtitle",
                     "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
@@ -234,38 +234,171 @@
                 {
                     "id": 2,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_screen_title",
-                    "subTitleLangKey": "school_screen_subtitle",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "titleLangKey": "school_story_2_screen_text1",
+                    "subTitleLangKey": "school_story_2_screen_text2",
+                    "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_screen_button1"
-                        },
-                        {
-                            "langKey": "school_screen_button2"
+                            "langKey": "school_screen_button6"
                         }
                     ]
                 },
                 {
                     "id": 3,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_screen_title",
-                    "subTitleLangKey": "school_screen_subtitle",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "titleLangKey": "school_story_2_screen_text3",
+                    "subTitleLangKey": "school_story_2_screen_text4",
+                    "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_screen_button1"
+                            "langKey": "school_screen_button7"
                         },
                         {
-                            "langKey": "school_screen_button2"
-                        },
-                        {
-                            "langKey": "school_screen_button2"
+                            "langKey": "school_screen_button8"
                         }
                     ]
                 },
                 {
                     "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text5",
+                    "subTitleLangKey": "school_story_2_screen_text6",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_iunderstand"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text7",
+                    "subTitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button9"
+                        },
+                        {
+                            "langKey": "school_answer_general_nice"
+                        }
+                     ]
+                  },
+                  {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text8",
+                    "subTitleLangKey": "school_story_2_screen_text9",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_noidea"
+                        },
+                        {
+                            "langKey": "school_screen_button10"
+                        },
+                        {
+                            "langKey": "school_screen_button11"
+                        },
+                        {
+                            "langKey": "school_screen_button12"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text10",
+                    "subTitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_yesrightanswer"
+                        },
+                        {
+                            "langKey": "school_screen_button13"
+                        },
+                         {
+                    "id": 8,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text11",
+                    "subTitleLangKey": "school_story_2_screen_text12",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_smart"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text13",
+                    "subTitleLangKey": "",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_yup"
+                        },
+                        {
+                            "langKey": "school_screen_button14"
+                        },
+                         {
+                    "id": 10,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text14",
+                    "subTitleLangKey": "school_story_2_screen_text15",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_cool"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text16",
+                    "subTitleLangKey": "",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_okidoki"
+                        },
+                        {
+                            "langKey": "school_answer_general_iknew"
+                        },
+                         {
+                    "id": 12,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text17",
+                    "subTitleLangKey": "school_story_2_screen_text18",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_idnk"
+                        },
+                        {
+                            "langKey": "school_screen_button15"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text19",
+                    "subTitleLangKey": "school_story_2_screen_text20",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button16"
+                        },
+                        {
+                            "langKey": "school_screen_button17"
+                        },
+                         {
+                    "id": 14,
                     "type": "DEFAULT",
                     "titleLangKey": "school_screen_title",
                     "subTitleLangKey": "school_screen_subtitle",
