@@ -2226,6 +2226,5 @@
   "payday_status_paid_kid": "PLZ_CHECK Paid and delivered",
   "expense_by_you": "PLZ_CHECK Expense by you",
   "general_suggested": "PLZ_CHECK Suggested",
-  "general_do_every": "PLZ_CHECK Do every",
-  "new_recurring_chore_status_type": "PLZ_CHECK Monday"
+  "general_do_every": "PLZ_CHECK Do every"
 }
