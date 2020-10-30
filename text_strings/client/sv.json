@@ -2224,5 +2224,8 @@
   "allowance_summary_desc": "PLZ_CHECK To be paid by your supporters",
   "payday_status_paid_parent": "PLZ_CHECK You’ve paid this one. All set!",
   "payday_status_paid_kid": "PLZ_CHECK Paid and delivered",
-  "expense_by_you": "PLZ_CHECK Expense by you"
+  "expense_by_you": "PLZ_CHECK Expense by you",
+  "general_suggested": "PLZ_CHECK Suggested",
+  "general_do_every": "PLZ_CHECK Do every",
+  "new_recurring_chore_status_type": "PLZ_CHECK Monday"
 }
