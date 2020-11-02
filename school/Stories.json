@@ -318,8 +318,10 @@
                         },
                         {
                             "langKey": "school_screen_button13"
-                        },
-                         {
+                        }
+                    ]
+                },
+                {
                     "id": 8,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text11",
@@ -343,8 +345,10 @@
                         },
                         {
                             "langKey": "school_screen_button14"
-                        },
-                         {
+                        }
+                    ]
+                },
+                {
                     "id": 10,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text14",
@@ -368,8 +372,10 @@
                         },
                         {
                             "langKey": "school_answer_general_iknew"
-                        },
-                         {
+                        }
+                    ]
+                },
+                {
                     "id": 12,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text17",
@@ -396,8 +402,10 @@
                         },
                         {
                             "langKey": "school_screen_button17"
-                        },
-                         {
+                        }
+                    ]
+                },
+                {
                     "id": 14,
                     "type": "DEFAULT",
                     "titleLangKey": "school_screen_title",
