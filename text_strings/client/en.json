@@ -1611,7 +1611,7 @@
   "payday_target_account": "To vault",
   "payday_target_to_card": "To card",
   "payday_target_to_account": "To vault",
-  "payday_target_account_settings": "Payday target account",
+  "payday_target_account_settings": "PLZ_COPY Allowance target account",
   "kyc_identity_verification_success_title": "Your identity has been verified!",
   "kyc_identity_verification_success_subtitle": "You can send money to your children",
   "kyc_identity_verification_success_button": "Transfer now",
