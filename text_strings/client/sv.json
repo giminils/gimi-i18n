@@ -233,7 +233,7 @@
   "question_ready_for_card": "Redo för Gimi-kortet? Bevisa det då! ✌️",
   "general_start": "starta",
   "add_dream_placeholader": "titel",
-  "set_price": "PLZ_CHECK Set the reward",
+  "set_price": "Hur mycket?",
   "choose_task_price": "Sätt belöning för uppgiften",
   "correct_answers": "rätt svar",
   "correct_answer_here": "här svarade du rätt",
@@ -2010,7 +2010,7 @@
   "goal_stats_per_milestone": "Per delmål",
   "accounts_get_gimi_card": "Skaffa Gimi Master för åtkomst",
   "accounts_action_top_up_card": "Fyll på kort",
-  "accounts_action_pay_online": "PLZ_CHECK Card details",
+  "accounts_action_pay_online": "Kortuppgifter",
   "goal_achivement_hint": "Glöm inte dina prestationer!",
   "share_wishlist": "Dela önskelista",
   "share_wishes_title": "Min önskelista",
@@ -2225,6 +2225,6 @@
   "payday_status_paid_parent": "PLZ_CHECK You’ve paid this one. All set!",
   "payday_status_paid_kid": "PLZ_CHECK Paid and delivered",
   "expense_by_you": "PLZ_CHECK Expense by you",
-  "general_suggested": "PLZ_CHECK Suggested",
-  "general_do_every": "PLZ_CHECK Do every"
+  "general_suggested": "Föreslagen",
+  "general_do_every": "Gör varje"
 }
