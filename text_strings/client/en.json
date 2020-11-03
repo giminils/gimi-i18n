@@ -2226,5 +2226,6 @@
   "payday_status_paid_kid": "Paid and delivered",
   "expense_by_you": "Expense by you",
   "general_suggested": "Suggested",
-  "general_do_every": "Do every"
+  "general_do_every": "Do every",
+  "pay_allowance_button":"Pay %1$d now"
 }

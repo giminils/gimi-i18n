@@ -2226,5 +2226,6 @@
   "payday_status_paid_kid": "Betald",
   "expense_by_you": "Utgift från dig",
   "general_suggested": "Föreslagen",
-  "general_do_every": "Gör varje"
+  "general_do_every": "Gör varje",
+  "pay_allowance_button": "PLZ_CHECK Pay %1$d now"
 }
