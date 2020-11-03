@@ -2227,5 +2227,6 @@
   "expense_by_you": "PLZ_TRANSLATE Expense by you",
   "general_suggested": "PLZ_TRANSLATE Suggested",
   "general_do_every": "PLZ_TRANSLATE Do every",
-  "pay_allowance_button": "PLZ_TRANSLATE Pay %1$d now"
+  "pay_allowance_button": "PLZ_TRANSLATE Pay %1$d now",
+  "skip_allowance": "PLZ_TRANSLATE Skip this allowance"
 }

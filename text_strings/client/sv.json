@@ -2227,5 +2227,6 @@
   "expense_by_you": "Utgift från dig",
   "general_suggested": "Föreslagen",
   "general_do_every": "Gör varje",
-  "pay_allowance_button": "PLZ_CHECK Pay %1$d now"
+  "pay_allowance_button": "PLZ_CHECK Pay %1$d now",
+  "skip_allowance": "PLZ_CHECK Skip this allowance"
 }
