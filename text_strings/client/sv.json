@@ -1611,7 +1611,7 @@
   "payday_target_account": "Till valvet",
   "payday_target_to_card": "Till kortet",
   "payday_target_to_account": "till valvet",
-  "payday_target_account_settings": "Payday-konto",
+  "payday_target_account_settings": "PLZ_CHECK Allowance target account",
   "kyc_identity_verification_success_title": "Din identitet har verifierats!",
   "kyc_identity_verification_success_subtitle": "Du kan skicka pengar till dina barn ✌️",
   "kyc_identity_verification_success_button": "För över nu",
