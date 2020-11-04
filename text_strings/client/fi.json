@@ -2242,5 +2242,11 @@
   "general_suggested": "PLZ_TRANSLATE Suggested",
   "general_do_every": "PLZ_TRANSLATE Do every",
   "pay_allowance_button": "PLZ_TRANSLATE Pay %1$d now",
-  "skip_allowance": "PLZ_TRANSLATE Skip this allowance"
+  "skip_allowance": "PLZ_TRANSLATE Skip this allowance",
+  "chore_tab_1_parent": "PLZ_TRANSLATE to be done",
+  "chore_tab_2_parent": "PLZ_TRANSLATE to approve",
+  "chore_tab_3_parent": "PLZ_TRANSLATE done",
+  "chore_tab_1_kid": "PLZ_TRANSLATE to do",
+  "chore_tab_2_kid": "PLZ_TRANSLATE to be approved",
+  "chore_tab_3_kid": "PLZ_TRANSLATE done"
 }

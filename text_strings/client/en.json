@@ -2242,5 +2242,11 @@
   "general_suggested": "Suggested",
   "general_do_every": "Do every",
   "pay_allowance_button": "Pay %1$d now",
-  "skip_allowance":"Skip this allowance"
+  "skip_allowance":"Skip this allowance",
+  "chore_tab_1_parent": "to be done",
+  "chore_tab_2_parent": "to approve",
+  "chore_tab_3_parent": "done",
+  "chore_tab_1_kid": "to do",
+  "chore_tab_2_kid": "to be approved",
+  "chore_tab_3_kid": "done"
 }

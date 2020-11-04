@@ -2242,5 +2242,11 @@
   "general_suggested": "Föreslagen",
   "general_do_every": "Gör varje",
   "pay_allowance_button": "Betala %1$d nu",
-  "skip_allowance": "Hoppa över"
+  "skip_allowance": "Hoppa över",
+  "chore_tab_1_parent": "PLZ_CHECK to be done",
+  "chore_tab_2_parent": "PLZ_CHECK to approve",
+  "chore_tab_3_parent": "PLZ_CHECK done",
+  "chore_tab_1_kid": "PLZ_CHECK to do",
+  "chore_tab_2_kid": "PLZ_CHECK to be approved",
+  "chore_tab_3_kid": "PLZ_CHECK done"
 }
