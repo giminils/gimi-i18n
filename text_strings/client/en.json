@@ -1124,7 +1124,7 @@
   "onfido_explainer_popover_desc": "When BankID is not working, we use a UK based identify verification service called Onfido. They scan your ID card to make sure it is real, and that it matches the data we get from SPAR based on your personal number.",
   "using_hotmail_outlook_warning": "Using Hotmail and Outlook? Sorry, but your email provider is blocking our emails.",
   "cloud_withdraw_from_self": "You deducted from the piggybank",
-  "cloud_insertion_from_self": "You added to the piggybank",
+  "cloud_insertion_from_self": "PLZ_COPY You topped up the piggybank",
   "welcome_tutorial_title": "Hi! Welcome to Gimi",
   "education_start_chapter": "Let’s go!",
   "personal_number_no_exist_title": "Something went wrong...",
