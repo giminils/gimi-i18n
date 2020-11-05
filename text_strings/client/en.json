@@ -2245,8 +2245,8 @@
   "skip_allowance": "Skip this allowance",
   "chore_tab_1_parent": "to be done",
   "chore_tab_2_parent": "to approve",
-  "chore_tab_3_parent": "done",
+  "chore_tab_3_parent": "PLZ_COPY approved",
   "chore_tab_1_kid": "to do",
   "chore_tab_2_kid": "to be approved",
-  "chore_tab_3_kid": "done"
+  "chore_tab_3_kid": "PLZ_COPY approved"
 }
