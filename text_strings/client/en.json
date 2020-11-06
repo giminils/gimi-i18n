@@ -2249,5 +2249,6 @@
   "chore_tab_1_kid": "to do",
   "chore_tab_2_kid": "to be approved",
   "chore_tab_3_kid": "approved",
-  "payday_status_upcoming_freemium": "Will be added to the piggybank %1$d"
+  "payday_status_upcoming_freemium": "Will be added to the piggybank %1$d",
+  "payday_status_paid_parent_freemium":"Already added to the piggybank!"
 }

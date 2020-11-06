@@ -2249,5 +2249,6 @@
   "chore_tab_1_kid": "Att göra",
   "chore_tab_2_kid": "Ska godkännas",
   "chore_tab_3_kid": "PLZ_CHECK approved",
-  "payday_status_upcoming_freemium": "PLZ_CHECK Will be added to the piggybank %1$d"
+  "payday_status_upcoming_freemium": "PLZ_CHECK Will be added to the piggybank %1$d",
+  "payday_status_paid_parent_freemium": "PLZ_CHECK Already added to the piggybank!"
 }
