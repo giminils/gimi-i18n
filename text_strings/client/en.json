@@ -783,8 +783,8 @@
   "confirmation_message_number_verified": "Your number has been sucessfully verified",
   "confirmation_message_withdraw_success": "%1$d was deducted",
   "confirmation_message_deposit_success": "%1$d was added",
-  "confirmation_message_suggested_enabled": "PLZ_COPY Chore added!",
-  "confirmation_message_approved_chore": "PLZ_COPY Chore approved!",
+  "confirmation_message_suggested_enabled": "Chore added!",
+  "confirmation_message_approved_chore": "Chore approved!",
   "setup_kid_change_no_allowance_change_later_popover_title": "If you change your mind...",
   "setup_kid_change_no_allowance_change_later_popover_text": "...you can always update your settings for %1$d!",
   "cash_payout_withdraw_popover_title": "You just deducted money from %1$d",
@@ -1124,7 +1124,7 @@
   "onfido_explainer_popover_desc": "When BankID is not working, we use a UK based identify verification service called Onfido. They scan your ID card to make sure it is real, and that it matches the data we get from SPAR based on your personal number.",
   "using_hotmail_outlook_warning": "Using Hotmail and Outlook? Sorry, but your email provider is blocking our emails.",
   "cloud_withdraw_from_self": "You deducted from the piggybank",
-  "cloud_insertion_from_self": "PLZ_COPY You topped up the piggybank",
+  "cloud_insertion_from_self": "You topped up the piggybank",
   "welcome_tutorial_title": "Hi! Welcome to Gimi",
   "education_start_chapter": "Let’s go!",
   "personal_number_no_exist_title": "Something went wrong...",
@@ -2245,8 +2245,9 @@
   "skip_allowance": "Skip this allowance",
   "chore_tab_1_parent": "to be done",
   "chore_tab_2_parent": "to approve",
-  "chore_tab_3_parent": "PLZ_COPY approved",
+  "chore_tab_3_parent": "approved",
   "chore_tab_1_kid": "to do",
   "chore_tab_2_kid": "to be approved",
-  "chore_tab_3_kid": "PLZ_COPY approved"
+  "chore_tab_3_kid": "approved",
+  "payday_status_upcoming_freemium": "Will be added to the piggybank %1$d"
 }

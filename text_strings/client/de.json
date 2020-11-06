@@ -783,8 +783,8 @@
   "confirmation_message_number_verified": "Deine Nummer wurde erfolgreich verifiziert",
   "confirmation_message_withdraw_success": "%1$d wurde abgebucht",
   "confirmation_message_deposit_success": "%1$d wurde eingezahlt",
-  "confirmation_message_suggested_enabled": "Aufgabe hinzugefügt!",
-  "confirmation_message_approved_chore": "Erledigte Aufgabe wurde genehmigt!",
+  "confirmation_message_suggested_enabled": "PLZ_TRANSLATE Chore added!",
+  "confirmation_message_approved_chore": "PLZ_TRANSLATE Chore approved!",
   "setup_kid_change_no_allowance_change_later_popover_title": "Falls Du Deine Meinung ändern solltest...",
   "setup_kid_change_no_allowance_change_later_popover_text": "...kannst Du jederzeit Deine Einstellungen für %1$d ändern!",
   "cash_payout_withdraw_popover_title": "Du hast gerade Geld von %1$d abgebucht",
@@ -1124,7 +1124,7 @@
   "onfido_explainer_popover_desc": "Wenn BankID nicht funktioniert, verwenden wir den britischen Überprüfungsdienst Onfido. Dein Personalausweis wird gescannt um sicherzustellen, dass er echt ist und um zu kontrollieren, dass er mit den von SPAR auf Basis Deiner Personennummer erhaltenen persönlichen Daten über Dich übereinstimmt.",
   "using_hotmail_outlook_warning": "Verwendest Du Hotmail und Outlook? Leider blockiert Dein Email-Provider unsere Mails.",
   "cloud_withdraw_from_self": "Abbuchung von Dir",
-  "cloud_insertion_from_self": "Eingezahlt von Dir",
+  "cloud_insertion_from_self": "PLZ_TRANSLATE You topped up the piggybank",
   "welcome_tutorial_title": "Hi! Willkommen bei Gimi 👋",
   "education_start_chapter": "Herausforderung annehmen",
   "personal_number_no_exist_title": "Etwas ist schief gegangen...",
@@ -2245,8 +2245,9 @@
   "skip_allowance": "PLZ_TRANSLATE Skip this allowance",
   "chore_tab_1_parent": "PLZ_TRANSLATE to be done",
   "chore_tab_2_parent": "PLZ_TRANSLATE to approve",
-  "chore_tab_3_parent": "PLZ_TRANSLATE done",
+  "chore_tab_3_parent": "PLZ_TRANSLATE approved",
   "chore_tab_1_kid": "PLZ_TRANSLATE to do",
   "chore_tab_2_kid": "PLZ_TRANSLATE to be approved",
-  "chore_tab_3_kid": "PLZ_TRANSLATE done"
+  "chore_tab_3_kid": "PLZ_TRANSLATE approved",
+  "payday_status_upcoming_freemium": "PLZ_TRANSLATE Will be added to the piggybank %1$d"
 }

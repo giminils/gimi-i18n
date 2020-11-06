@@ -783,8 +783,8 @@
   "confirmation_message_number_verified": "Puhelinnumerosi on vahvistettu onnistuneesti",
   "confirmation_message_withdraw_success": "%1$d nostettiin",
   "confirmation_message_deposit_success": "%1$d talletettiin",
-  "confirmation_message_suggested_enabled": "Askare on lisätty!",
-  "confirmation_message_approved_chore": "Askare on hyväksytty!",
+  "confirmation_message_suggested_enabled": "PLZ_TRANSLATE Chore added!",
+  "confirmation_message_approved_chore": "PLZ_TRANSLATE Chore approved!",
   "setup_kid_change_no_allowance_change_later_popover_title": "Jos muutat mielesi...",
   "setup_kid_change_no_allowance_change_later_popover_text": " ...voit aina muuttaa sen %1$d asetuksista!",
   "cash_payout_withdraw_popover_title": "Nostit rahaa lapsen %1$d säästöpossusta.",
@@ -1124,7 +1124,7 @@
   "onfido_explainer_popover_desc": "Kun pankkitunnistautuminen ei onnistu, käytämme brittiläistä tunnistautumispalvelua nimeltä Onfido. He skannaavat henkilökorttisi varmistaakseen, että se vastaa SPAR:ilta saamiamme tietoja.",
   "using_hotmail_outlook_warning": "Käytätkö Hotmailia tai Outlookia? Valitettavasti sähköpostintarjoajasi estää viestimme.",
   "cloud_withdraw_from_self": "Sinun tekemäsi nosto",
-  "cloud_insertion_from_self": "Sinun tekemäsi talletus",
+  "cloud_insertion_from_self": "PLZ_TRANSLATE You topped up the piggybank",
   "welcome_tutorial_title": "Hei! Tervetuloa Gimiin 👋",
   "education_start_chapter": "Aloita harjoitus",
   "personal_number_no_exist_title": "Jotain meni pieleen...",
@@ -2245,8 +2245,9 @@
   "skip_allowance": "PLZ_TRANSLATE Skip this allowance",
   "chore_tab_1_parent": "PLZ_TRANSLATE to be done",
   "chore_tab_2_parent": "PLZ_TRANSLATE to approve",
-  "chore_tab_3_parent": "PLZ_TRANSLATE done",
+  "chore_tab_3_parent": "PLZ_TRANSLATE approved",
   "chore_tab_1_kid": "PLZ_TRANSLATE to do",
   "chore_tab_2_kid": "PLZ_TRANSLATE to be approved",
-  "chore_tab_3_kid": "PLZ_TRANSLATE done"
+  "chore_tab_3_kid": "PLZ_TRANSLATE approved",
+  "payday_status_upcoming_freemium": "PLZ_TRANSLATE Will be added to the piggybank %1$d"
 }

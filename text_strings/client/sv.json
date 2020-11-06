@@ -783,8 +783,8 @@
   "confirmation_message_number_verified": "Ditt telefonnummer har bekräftats",
   "confirmation_message_withdraw_success": "%1$d har dragits av",
   "confirmation_message_deposit_success": "%1$d har fyllts på",
-  "confirmation_message_suggested_enabled": "Uppgift har lagts till!",
-  "confirmation_message_approved_chore": "Uppgift godkänd!",
+  "confirmation_message_suggested_enabled": "PLZ_CHECK Chore added!",
+  "confirmation_message_approved_chore": "PLZ_CHECK Chore approved!",
   "setup_kid_change_no_allowance_change_later_popover_title": "Om du ändrar dig...",
   "setup_kid_change_no_allowance_change_later_popover_text": "...kan du alltid uppdatera dina inställningar för %1$d!",
   "cash_payout_withdraw_popover_title": "Du har precis dragit av från %1$d",
@@ -1124,7 +1124,7 @@
   "onfido_explainer_popover_desc": "När BankID inte funkar, så använder vi oss av en engelsk tjänst för identitetsverifiering, Onfido. De skannar ditt ID-kort för att kontrollera att det är äkta, och att det matchar din personliga data som vi hämtat från SPAR.",
   "using_hotmail_outlook_warning": "Hotmail and Outlook? Tråkigt, men de filtrerar bort mejlen som vi skickar till dig.",
   "cloud_withdraw_from_self": "Du drog av från spargrisen",
-  "cloud_insertion_from_self": "Du fyllde på spargrisen",
+  "cloud_insertion_from_self": "PLZ_CHECK You topped up the piggybank",
   "welcome_tutorial_title": "Hej! Välkommen till Gimi",
   "education_start_chapter": "Nu kör vi!",
   "personal_number_no_exist_title": "Något gick fel här...",
@@ -2245,8 +2245,9 @@
   "skip_allowance": "Hoppa över",
   "chore_tab_1_parent": "Ska göras",
   "chore_tab_2_parent": "Att godkänna",
-  "chore_tab_3_parent": "PLZ_CHECK done",
+  "chore_tab_3_parent": "PLZ_CHECK approved",
   "chore_tab_1_kid": "Att göra",
   "chore_tab_2_kid": "Ska godkännas",
-  "chore_tab_3_kid": "PLZ_CHECK done"
+  "chore_tab_3_kid": "PLZ_CHECK approved",
+  "payday_status_upcoming_freemium": "PLZ_CHECK Will be added to the piggybank %1$d"
 }
