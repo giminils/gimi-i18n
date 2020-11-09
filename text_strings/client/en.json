@@ -2250,5 +2250,13 @@
   "chore_tab_2_kid": "to be approved",
   "chore_tab_3_kid": "approved",
   "payday_status_upcoming_freemium": "Will be added to the piggybank %1$d",
-  "payday_status_paid_parent_freemium":"Already added to the piggybank!"
+  "payday_status_paid_parent_freemium":"Already added to the piggybank!",
+  "start_container_title_1_se_market": "Veckopeng i mobilen",
+  "start_container_subtitle_1_se_market": "Spendera riktiga pengar med Gimi-kortet, eller öva med den digitala spargrisen",
+  "start_container_title_1":"Manage pocket money",
+  "start_container_subtitle_1": "No more cash, keep track of the allowance digitally",
+  "start_container_title_2": "Gather the family",
+  "start_container_subtitle_2": "Connect in the app and watch the savings grow together",
+  "start_container_title_3": "Earn, save, spend",
+  "start_container_subtitle_3": "Create chores, savings goals and keep track of expenses"
 }

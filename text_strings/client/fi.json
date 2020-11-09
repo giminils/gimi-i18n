@@ -2250,5 +2250,13 @@
   "chore_tab_2_kid": "PLZ_TRANSLATE to be approved",
   "chore_tab_3_kid": "PLZ_TRANSLATE approved",
   "payday_status_upcoming_freemium": "PLZ_TRANSLATE Will be added to the piggybank %1$d",
-  "payday_status_paid_parent_freemium": "PLZ_TRANSLATE Already added to the piggybank!"
+  "payday_status_paid_parent_freemium": "PLZ_TRANSLATE Already added to the piggybank!",
+  "start_container_title_1_se_market": "PLZ_TRANSLATE Veckopeng i mobilen",
+  "start_container_subtitle_1_se_market": "PLZ_TRANSLATE Spendera riktiga pengar med Gimi-kortet, eller öva med den digitala spargrisen",
+  "start_container_title_1": "PLZ_TRANSLATE Manage pocket money",
+  "start_container_subtitle_1": "PLZ_TRANSLATE No more cash, keep track of the allowance digitally",
+  "start_container_title_2": "PLZ_TRANSLATE Gather the family",
+  "start_container_subtitle_2": "PLZ_TRANSLATE Connect in the app and watch the savings grow together",
+  "start_container_title_3": "PLZ_TRANSLATE Earn, save, spend",
+  "start_container_subtitle_3": "PLZ_TRANSLATE Create chores, savings goals and keep track of expenses"
 }
