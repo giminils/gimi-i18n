@@ -53,34 +53,14 @@ Array [
     "name": "New Zealand Dollar",
   },
   Object {
-    "code": "ZAR",
-    "langKey": "currency_zar",
-    "name": "Rand",
-  },
-  Object {
     "code": "ISK",
     "langKey": "currency_isk",
     "name": "Iceland Krona",
   },
   Object {
-    "code": "THB",
-    "langKey": "currency_thb",
-    "name": "Thai Baht",
-  },
-  Object {
-    "code": "IDR",
-    "langKey": "currency_idr",
-    "name": "Indonesian Rupiahs",
-  },
-  Object {
     "code": "CHF",
     "langKey": "currency_chf",
     "name": "Swiss Franc",
-  },
-  Object {
-    "code": "COP",
-    "langKey": "currency_cop",
-    "name": "Colombian Peso",
   },
 ]
 `;

@@ -23,8 +23,4 @@ export default {
   'DE': 'EUR', // Germany,
   'EE': 'EUR', // Estonia
   'IS': 'ISK', // Iceland
-  'TH': 'THB',
-  'ID': 'IDR', // Indonesia
-  'CH': 'CHF',
-  'CO': 'COP'
 }
