@@ -9,18 +9,13 @@ import ConfigNZD from '../config/config_NZD.json'
 import ConfigSEK from '../config/config_SEK.json'
 import ConfigUSD from '../config/config_USD.json'
 import ConfigISK from '../config/config_ISK.json'
-import ConfigDEF from '../config/config_DEF.json'
-import ConfigTHB from '../config/config_THB.json'
-import ConfigIDR from '../config/config_IDR.json'
 import ConfigCHF from '../config/config_CHF.json'
-import ConfigCOP from '../config/config_COP.json'
 
 export const getCurrencyConfig = (currencyCode: string | undefined) => {
   switch (currencyCode) {
-    case 'COP': return {...ConfigCOP, currencyCode}
+  
+    case 'EUR': return { ...ConfigEUR, currencyCode }
     case 'CHF': return {...ConfigCHF, currencyCode}
-    case 'IDR': return {...ConfigIDR, currencyCode}
-    case 'DEF': return {...ConfigDEF, currencyCode}
     case 'NOK': return {...ConfigNOK, currencyCode}
     case 'DKK': return {...ConfigDKK, currencyCode}
     case 'SEK': return {...ConfigSEK, currencyCode}
@@ -31,7 +26,6 @@ export const getCurrencyConfig = (currencyCode: string | undefined) => {
     case 'NZD': return {...ConfigNZD, currencyCode}
     case 'INR': return {...ConfigINR, currencyCode}
     case 'ISK': return {...ConfigISK, currencyCode}
-    case 'THB': return {...ConfigTHB, currencyCode}
     default : return {...ConfigEUR, currencyCode: 'EUR'}
   }
 }

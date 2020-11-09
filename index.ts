@@ -127,21 +127,17 @@ export const languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 
 
 export const getSupportedCurrencyInfos = (): Array<{code: string, name: string, langKey: string}> => [
   {code: 'SEK', name: 'Swedish Krona', langKey: 'currency_sek'},
-  { code: 'NOK', name: 'Norwegian Krone', langKey: 'currency_nok'},
-  { code: 'DKK', name: 'Danish Krone', langKey: 'currency_dkk'},
-  { code: 'GBP', name: 'Pound Sterling', langKey: 'currency_gbp'},
-  { code: 'USD', name: 'US Dollar', langKey: 'currency_usd'},
-  { code: 'EUR', name: 'Euro', langKey: 'currency_eur'},
-  { code: 'INR', name: 'Indian Rupee', langKey: 'currency_inr'},
-  { code: 'AUD', name: 'Australian Dollar', langKey: 'currency_aud'},
-  { code: 'CAD', name: 'Canadian Dollar', langKey: 'currency_cad'},
-  { code: 'NZD', name: 'New Zealand Dollar', langKey: 'currency_nzd'},
-  { code: 'ZAR', name: 'Rand', langKey: 'currency_zar'},
-  { code: 'ISK', name: 'Iceland Krona', langKey: 'currency_isk'},
-  { code: 'THB', name: 'Thai Baht', langKey: 'currency_thb'},
-  { code: 'IDR', name: 'Indonesian Rupiahs', langKey: 'currency_idr'},
-  { code: 'CHF', name: 'Swiss Franc', langKey: 'currency_chf'},
-  { code: 'COP', name: 'Colombian Peso', langKey: 'currency_cop'}
+  {code: 'NOK', name: 'Norwegian Krone', langKey: 'currency_nok'},
+  {code: 'DKK', name: 'Danish Krone', langKey: 'currency_dkk'},
+  {code: 'GBP', name: 'Pound Sterling', langKey: 'currency_gbp'},
+  {code: 'USD', name: 'US Dollar', langKey: 'currency_usd'},
+  {code: 'EUR', name: 'Euro', langKey: 'currency_eur'},
+  {code: 'INR', name: 'Indian Rupee', langKey: 'currency_inr'},
+  {code: 'AUD', name: 'Australian Dollar', langKey: 'currency_aud'},
+  {code: 'CAD', name: 'Canadian Dollar', langKey: 'currency_cad'},
+  {code: 'NZD', name: 'New Zealand Dollar', langKey: 'currency_nzd'},
+  {code: 'ISK', name: 'Iceland Krona', langKey: 'currency_isk'},
+  {code: 'CHF', name: 'Swiss Franc', langKey: 'currency_chf'},
 ]
 
 export const getEducationStrings = (lang: string) => {
