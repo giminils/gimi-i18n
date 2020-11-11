@@ -2258,5 +2258,7 @@
   "start_container_title_2": "PLZ_TRANSLATE Gather the family",
   "start_container_subtitle_2": "PLZ_TRANSLATE Connect in the app and watch the savings grow together",
   "start_container_title_3": "PLZ_TRANSLATE Earn, save, spend",
-  "start_container_subtitle_3": "PLZ_TRANSLATE Create chores, savings goals and keep track of expenses"
+  "start_container_subtitle_3": "PLZ_TRANSLATE Create chores, savings goals and keep track of expenses",
+  "general_upcoming_weekly_allowance": "PLZ_TRANSLATE Next weekly allowance",
+  "general_upcoming_monthly_allowance": "PLZ_TRANSLATE Next monthly allowance"
 }

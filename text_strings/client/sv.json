@@ -2258,5 +2258,7 @@
   "start_container_title_2": "För hela familjen",
   "start_container_subtitle_2": "Koppla ihop er med varandra och se besparingarna växa",
   "start_container_title_3": "Tjäna, spara, spendera",
-  "start_container_subtitle_3": "Skapa uppgifter, sparmål och håll koll på utgifterna"
+  "start_container_subtitle_3": "Skapa uppgifter, sparmål och håll koll på utgifterna",
+  "general_upcoming_weekly_allowance": "PLZ_CHECK Next weekly allowance",
+  "general_upcoming_monthly_allowance": "PLZ_CHECK Next monthly allowance"
 }
