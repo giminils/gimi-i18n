@@ -2260,5 +2260,7 @@
   "start_container_title_3": "Tjäna, spara, spendera",
   "start_container_subtitle_3": "Skapa uppgifter, sparmål och håll koll på utgifterna",
   "general_upcoming_weekly_allowance": "Nästa veckopeng",
-  "general_upcoming_monthly_allowance": "Nästa månadspeng"
+  "general_upcoming_monthly_allowance": "Nästa månadspeng",
+  "allowance_summary_desc_parent": "PLZ_CHECK nanting?",
+  "allowance_summary_desc_kid": "PLZ_CHECK From your supporters"
 }

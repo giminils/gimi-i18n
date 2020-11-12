@@ -2260,5 +2260,7 @@
   "start_container_title_3": "PLZ_TRANSLATE Earn, save, spend",
   "start_container_subtitle_3": "PLZ_TRANSLATE Create chores, savings goals and keep track of expenses",
   "general_upcoming_weekly_allowance": "PLZ_TRANSLATE Next weekly allowance",
-  "general_upcoming_monthly_allowance": "PLZ_TRANSLATE Next monthly allowance"
+  "general_upcoming_monthly_allowance": "PLZ_TRANSLATE Next monthly allowance",
+  "allowance_summary_desc_parent": "PLZ_TRANSLATE nanting?",
+  "allowance_summary_desc_kid": "PLZ_TRANSLATE From your supporters"
 }

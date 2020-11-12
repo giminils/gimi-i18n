@@ -2260,5 +2260,7 @@
   "start_container_title_3": "Earn, save, spend",
   "start_container_subtitle_3": "Create chores, savings goals and keep track of expenses",
   "general_upcoming_weekly_allowance":"Next weekly allowance",
-  "general_upcoming_monthly_allowance": "Next monthly allowance"
+  "general_upcoming_monthly_allowance": "Next monthly allowance",
+  "allowance_summary_desc_parent": "nanting?",
+  "allowance_summary_desc_kid":"From your supporters"
 }
