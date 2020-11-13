@@ -2262,5 +2262,6 @@
   "general_upcoming_weekly_allowance": "Next weekly allowance",
   "general_upcoming_monthly_allowance": "Next monthly allowance",
   "allowance_summary_desc_parent": "nanting?",
-  "allowance_summary_desc_kid": "From your supporters"
+  "allowance_summary_desc_kid": "From your supporters",
+  "add_suggested_chore":"Add chore"
 }
