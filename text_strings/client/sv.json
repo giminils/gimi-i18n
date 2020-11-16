@@ -1693,7 +1693,7 @@
   "parent_help_card_invite_text": "Bjud in dina barn till Gimi",
   "kid_profile_dreams_section_title": "Mål",
   "kid_profile_counter_dreams": "Avklarade mål",
-  "kid_profile_counter_connections": "PLZ_CHECK Supporters",
+  "kid_profile_counter_connections": "Supporters",
   "kid_profile_counter_chores": "Utförda uppgifter",
   "kid_profile_empty_state_dreams": "Du har inte lagt till ett mål... än!",
   "kid_friend_profile_empty_state_dreams": "%1$d har inte lagt till ett mål än!",
@@ -2251,8 +2251,8 @@
   "chore_tab_3_kid": "Godkända",
   "payday_status_upcoming_freemium": "Läggs till i spargrisen %1$d",
   "payday_status_paid_parent_freemium": "Har redan lagts till i spargrisen!",
-  "start_container_title_1_se_market": "PLZ_CHECK Manage pocket money",
-  "start_container_subtitle_1_se_market": "PLZ_CHECK Use real money with the Gimi Card, or practice with the digital piggybank",
+  "start_container_title_1_se_market": "Veckopeng i mobilen",
+  "start_container_subtitle_1_se_market": "Använd riktiga pengar med Gimi-kortet, eller öva med den digitala spargrisen",
   "start_container_title_1": "Manage pocket money",
   "start_container_subtitle_1": "No more cash, keep track of the allowance digitally",
   "start_container_title_2": "För hela familjen",
@@ -2262,7 +2262,7 @@
   "general_upcoming_weekly_allowance": "Nästa veckopeng",
   "general_upcoming_monthly_allowance": "Nästa månadspeng",
   "allowance_summary_desc_parent": "PLZ_CHECK nanting?",
-  "allowance_summary_desc_kid": "PLZ_CHECK From your supporters",
-  "add_suggested_chore": "PLZ_CHECK Add chore",
-  "general_summary": "PLZ_CHECK Summary"
+  "allowance_summary_desc_kid": "Från dina supporters",
+  "add_suggested_chore": "Lägg till",
+  "general_summary": "Summering"
 }
