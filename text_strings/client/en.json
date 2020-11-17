@@ -2265,5 +2265,6 @@
   "allowance_summary_desc_kid": "From your supporters",
   "add_suggested_chore": "Add chore",
   "general_summary": "Summary",
-  "general_reject": "Reject"
+  "general_reject": "Reject",
+  "chores_update_notification":"Update to chores"
 }

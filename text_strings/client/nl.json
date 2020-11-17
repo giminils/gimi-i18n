@@ -2265,5 +2265,6 @@
   "allowance_summary_desc_kid": "PLZ_TRANSLATE From your supporters",
   "add_suggested_chore": "PLZ_TRANSLATE Add chore",
   "general_summary": "PLZ_TRANSLATE Summary",
-  "general_reject": "PLZ_TRANSLATE Reject"
+  "general_reject": "PLZ_TRANSLATE Reject",
+  "chores_update_notification": "PLZ_TRANSLATE Update to chores"
 }

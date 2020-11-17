@@ -2265,5 +2265,6 @@
   "allowance_summary_desc_kid": "Från dina supporters",
   "add_suggested_chore": "Lägg till",
   "general_summary": "Summering",
-  "general_reject": "PLZ_CHECK Reject"
+  "general_reject": "PLZ_CHECK Reject",
+  "chores_update_notification": "PLZ_CHECK Update to chores"
 }
