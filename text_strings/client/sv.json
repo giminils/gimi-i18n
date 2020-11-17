@@ -2264,5 +2264,6 @@
   "allowance_summary_desc_parent": "PLZ_CHECK nanting?",
   "allowance_summary_desc_kid": "Från dina supporters",
   "add_suggested_chore": "Lägg till",
-  "general_summary": "Summering"
+  "general_summary": "Summering",
+  "general_reject": "PLZ_CHECK Reject"
 }
