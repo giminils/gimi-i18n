@@ -2266,5 +2266,7 @@
   "add_suggested_chore": "PLZ_TRANSLATE Add chore",
   "general_summary": "PLZ_TRANSLATE Summary",
   "general_reject": "PLZ_TRANSLATE Reject",
-  "chores_update_notification": "PLZ_TRANSLATE Update to chores"
+  "chores_update_notification": "PLZ_TRANSLATE Update to chores",
+  "chores_news_title": "PLZ_TRANSLATE We've updated recurring chores!",
+  "chores_news_desc": "PLZ_TRANSLATE Instead of includinig several days in one chore, you'll choose one day of the week which the chore should be completed on. It will still reccur every week. If you want a chore to be completed more often that that, make it Always availabel in the chore settings!"
 }
