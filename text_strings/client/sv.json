@@ -2269,5 +2269,6 @@
   "chores_update_notification": "Vi har förenklat återkommande uppgifter, här kommer en förklaring!",
   "chores_news_title": "Vi har uppdaterat återkommande uppgifter",
   "chores_news_desc": "Istället för att inkludera flera dagar i en uppgift, så kommer ni få välja 1 veckodag som den ska utföras på. Den kommer fortfarande att återkomma varje vecka. Om ni vill att uppgiften ska utföras oftare, gör den Alltid tillgänglig i inställningarna!",
-  "skip_payday_message": "PLZ_CHECK Payday skipped"
+  "skip_payday_message": "PLZ_CHECK Payday skipped",
+  "general_skipped": "PLZ_CHECK Skipped"
 }
