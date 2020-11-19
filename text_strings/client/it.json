@@ -2271,5 +2271,6 @@
   "chores_news_desc": "PLZ_TRANSLATE Instead of including several days in one chore, you'll choose one day of the week which the chore should be completed on. It will still reccur every week. If you want a chore to be completed more often that that, make it Always available in the chore settings!",
   "skip_payday_message": "PLZ_TRANSLATE Payday skipped",
   "general_skipped": "PLZ_TRANSLATE Skipped",
-  "general_paid": "PLZ_TRANSLATE Paid"
+  "general_paid": "PLZ_TRANSLATE Paid",
+  "general_recurring_day": "PLZ_TRANSLATE Recurring day"
 }

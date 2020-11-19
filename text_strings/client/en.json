@@ -2271,5 +2271,6 @@
   "chores_news_desc": "Instead of including several days in one chore, you'll choose one day of the week which the chore should be completed on. It will still reccur every week. If you want a chore to be completed more often that that, make it Always available in the chore settings!",
   "skip_payday_message":"Payday skipped",
   "general_skipped":"Skipped",
-  "general_paid":"Paid"
+  "general_paid":"Paid",
+  "general_recurring_day":"Recurring day"
 }
