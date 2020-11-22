@@ -1108,7 +1108,7 @@
   "chore_waiting_for_approval": "Waiting for approval",
   "one_month_free": "1 month free",
   "there_after_x_per_year": "Then %1$d/year",
-  "allowance_day_settings_row": "Payday",
+  "allowance_day_settings_row": "PLZ_COPY Day of allowance",
   "maintenance_title": "Gimi is closed for maintenance...",
   "maintenance_subtitle": "...but we'll be back up again really soon! We hope to see you again in a few minutes.",
   "general_pending_chores": "Pending",
