@@ -732,7 +732,7 @@
   "kid_allowance_status_desc": "%1$d already has a %2$d, want to add more?",
   "share_the_app_message": "Check out this cool app",
   "general_share_gimi": "Share Gimi",
-  "money_settings": "Payday, allowance and bonus",
+  "money_settings": "PLZ_COPY Allowance and bonus",
   "kid_invite_parent": "Hey there! You need some supporters in here to make it work…",
   "delete_recurring_popover_title": "You sure you want to delete %1$d?",
   "delete_recurring_popover_text": "This means deleting it on all its active days, as well as all completed chores. It will also deduct the money previously earned through this chore from Payday. If you only want to change the frequency, go to chore settings!",
