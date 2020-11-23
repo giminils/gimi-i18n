@@ -515,11 +515,11 @@
   "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "CHGERE007_notification_title": "PLZ_TRANSLATE {task.title} was sent to you by {parent.nickname}",
   "ADFRRE001_notification_title": "PLZ_TRANSLATE Payday for {child.nickname}! {payday_amount} was added to their piggybank",
-  "ADFRRE001_notification_title_v2": "PLZ_TRANSLATE It's time for {allowance_frequency} allowance for {child.nickname}! {formatted_payday_amount} was added to their piggybank",
+  "ADFRRE001_notification_title_v2": "PLZ_TRANSLATE It's time for {allowance_frequency} for {child.nickname}! {formatted_payday_amount} was added to their piggybank",
   "CHGEON014_notification_title": "PLZ_TRANSLATE {parent.nickname} is now giving you {allowance_frequency} allowance!",
   "CHGEON014_push_title": "PLZ_TRANSLATE {parent.nickname} is now giving you {allowance_frequency} allowance!",
   "ADGERE009_push_title": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}. Check it out!",
-  "weekly": "PLZ_TRANSLATE weekly",
-  "monthly": "PLZ_TRANSLATE monthly",
+  "weekly_allowance": "PLZ_TRANSLATE weekly allowance",
+  "monthly_allowance": "PLZ_TRANSLATE monthly allowance",
   "ADFRRE001_push_title": "PLZ_TRANSLATE It's time for {allowance_frequency} for {child.nickname}! Check out how much money was added to their piggybank"
 }
