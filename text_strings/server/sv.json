@@ -521,5 +521,7 @@
   "ADGERE009_push_title": "Du har fått ett förslag på uppgift från {child.nickname}. Spana in den!",
   "weekly_allowance": "PLZ_CHECK weekly allowance",
   "monthly_allowance": "PLZ_CHECK monthly allowance",
-  "ADFRRE001_push_title": "PLZ_CHECK It's time for {allowance_frequency} for {child.nickname}! Check out how much money was added to their piggybank"
+  "ADFRRE001_push_title": "PLZ_CHECK It's time for {allowance_frequency} for {child.nickname}! Check out how much money was added to their piggybank",
+  "CHPRRE002_notification_title": "PLZ_CHECK Your {allowance_frequency} has been paid out by {parent.nickname}",
+  "CHPRRE002_push_title": "PLZ_CHECK It's Payday! You got money from {parent.nickname}"
 }
