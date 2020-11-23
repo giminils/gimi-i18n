@@ -2272,5 +2272,6 @@
   "skip_payday_message":"Payday skipped",
   "general_skipped":"Skipped",
   "general_paid":"Paid",
-  "general_recurring_day":"Recurring day"
+  "general_recurring_day":"Recurring day",
+  "general_already_done":"Already done!"
 }
