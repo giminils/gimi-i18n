@@ -523,5 +523,7 @@
   "monthly_allowance": "PLZ_CHECK monthly allowance",
   "ADFRRE001_push_title": "PLZ_CHECK It's time for {allowance_frequency} for {child.nickname}! Check out how much money was added to their piggybank",
   "CHPRRE002_notification_title": "PLZ_CHECK Your {allowance_frequency} has been paid out by {parent.nickname}",
-  "CHPRRE002_push_title": "PLZ_CHECK Your {allowance_frequency} has been paid out by {parent.nickname}"
+  "CHPRRE002_push_title": "PLZ_CHECK Your {allowance_frequency} has been paid out by {parent.nickname}",
+  "ADPRRE028_notification_title": "PLZ_CHECK It's time to pay out {allowance_frequency} to {child.nickname}!",
+  "ADPRRE028_push_title": "PLZ_CHECK It's time to pay out {allowance_frequency} to {child.nickname}!"
 }
