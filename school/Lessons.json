@@ -3,8 +3,8 @@
         {
             "id": 1,
             "isEnabled": true,
-            "titleLangKey": "lesson_1_title",
-            "subtitleLangKey": "lesson_1_subtitle",
+            "titleLangKey": "school_lesson_1_title",
+            "subtitleLangKey": "school_lesson_1_subtitle",
             "type": "DEFAULT",
             "storyId": 1,
             "challangeId": 1
@@ -12,17 +12,17 @@
         {
             "id": 2,
             "isEnabled": true,
-            "titleLangKey": "lesson_2_title",
-            "subtitleLangKey": "lesson_2_subtitle",
+            "titleLangKey": "school_lesson_2_title",
+            "subtitleLangKey": "school_lesson_2_subtitle",
             "type": "DEFAULT",
             "storyId": 2,
             "challangeId": 2
         },
         {
             "id": 3,
-            "isEnabled": true,
-            "titleLangKey": "lesson_3_title",
-            "subtitleLangKey": "lesson_3_subtitle",
+            "isEnabled": false,
+            "titleLangKey": "school_lesson_3_title",
+            "subtitleLangKey": "school_lesson_3_subtitle",
             "type": "DEFAULT",
             "storyId": 3,
             "challangeId": 3
@@ -30,8 +30,8 @@
         {
             "id": 4,
             "isEnabled": true,
-            "titleLangKey": "lesson_4_title",
-            "subtitleLangKey": "lesson_4_subtitle",
+            "titleLangKey": "school_lesson_4_title",
+            "subtitleLangKey": "school_lesson_4_subtitle",
             "type": "DEFAULT",
             "storyId": 4,
             "challangeId": 4
@@ -39,16 +39,16 @@
         {
             "id": 5,
             "isEnabled": true,
-            "titleLangKey": "lesson_5_title",
-            "subtitleLangKey": "lesson_5_subtitle",
+            "titleLangKey": "school_lesson_5_title",
+            "subtitleLangKey": "school_lesson_5_subtitle",
             "type": "CHALLANGE",
             "challangeId": 5
         },
         {
             "id": 6,
             "isEnabled": true,
-            "titleLangKey": "lesson_6_title",
-            "subtitleLangKey": "lesson_6_subtitle",
+            "titleLangKey": "school_lesson_6_title",
+            "subtitleLangKey": "school_lesson_6_subtitle",
             "type": "CHALLANGE",
             "challangeId": 6
         }
