@@ -2060,7 +2060,7 @@
   "general_connect_with_sms": "Connect with SMS",
   "accounts_connection_lost": "Connection lost",
   "dream_subtitle_emptystate_parent": "%1$d hasn't created a goal yet!",
-  "add_suggested_chore_title": "PLZ_COPY You suggested a chore!",
+  "add_suggested_chore_title": "You suggested a chore!",
   "general_add_suggest_chore": "Add suggested chore",
   "goal_map_graph_title": "Progress",
   "general_saved_freemium": "Saved",
