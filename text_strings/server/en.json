@@ -510,6 +510,7 @@
   "ADGERE001_push_title": "You're now connected with {child.nickname}!",
   "CHGERE010_notification_title": "{task.title} was approved, you earned {task.value}",
   "CHGERE010_notification_title_v2": "{task.title} was approved, you earned {formatted_value}",
+  "CHGERE010_notification_title_v3": "{task.title} was approved and {formatted_value} was added to your next {allowance_frequency}",
   "CHGERE023_notification_title_v2": "{task.title} was approved, you earned {task.value}",
   "CHGERE023_notification_title_v3": "{task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "You have a negative card balance, top-up your card right away",
