@@ -291,6 +291,8 @@
   "ADGEON005_push_title": "PLZ_TRANSLATE Add a profile picture!",
   "CHFRRE001_notification_title": "PLZ_TRANSLATE Today is Payday! Check out the piggybank to see what you got",
   "CHFRRE001_notification_title_v2": "PLZ_TRANSLATE Today is Payday! {formatted_amount} was added to your piggybank",
+  "CHFRRE001_notification_title_v3": "PLZ_TRANSLATE It's time for {allowance_frequency}! {formatted_amount} was added to your piggybank",
+  "CHFRRE001_push_title": "PLZ_TRANSLATE Your {allowance_frequency} has been added to the piggybank - see how much you got!",
   "ADGERE011_notification_title": "PLZ_TRANSLATE {child.nickname} has reached a goal",
   "CHGERE033_push_title": "PLZ_TRANSLATE Don't forget you have {savings_balance} in savings! ✌️",
   "CHGERE028_push_title": "PLZ_TRANSLATE You and {ConnectionToken.used_by.nickname} are connected!",
