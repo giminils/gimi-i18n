@@ -3,11 +3,18 @@
         {
             "id": 1,
             "type": "BANK",
-            "product": {
-                "titleLangKey": "school_challange_example_title",
-                "price": 100,
-                "imageUrl": "https://loremflickr.com/320/320/car"
-            }
+            "products": [
+                {
+                    "titleLangKey": "school_challange_example_title",
+                    "price": 100,
+                    "imageUrl": "https://loremflickr.com/320/320/car"
+                },
+                {
+                    "titleLangKey": "school_challange_example_title",
+                    "price": 100,
+                    "imageUrl": "https://loremflickr.com/320/320/car"
+                }
+            ]
         },
         {
             "id": 2,
