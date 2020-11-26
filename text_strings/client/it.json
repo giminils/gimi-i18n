@@ -2273,5 +2273,6 @@
   "general_skipped": "PLZ_TRANSLATE Skipped",
   "general_paid": "PLZ_TRANSLATE Paid",
   "general_recurring_day": "PLZ_TRANSLATE Recurring day",
-  "general_already_done": "PLZ_TRANSLATE Old notification, already done!"
+  "general_already_done": "PLZ_TRANSLATE Old notification, already done!",
+  "suggested_chore_parent_title": "PLZ_TRANSLATE Add suggested chore"
 }

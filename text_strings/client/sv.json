@@ -2273,5 +2273,6 @@
   "general_skipped": "PLZ_CHECK Skipped",
   "general_paid": "PLZ_CHECK Paid",
   "general_recurring_day": "Återkommande dag",
-  "general_already_done": "Gammal notis, redan klar!"
+  "general_already_done": "Gammal notis, redan klar!",
+  "suggested_chore_parent_title": "PLZ_CHECK Add suggested chore"
 }

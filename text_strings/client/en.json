@@ -2273,5 +2273,6 @@
   "general_skipped": "Skipped",
   "general_paid": "Paid",
   "general_recurring_day": "Recurring day",
-  "general_already_done": "Old notification, already done!"
+  "general_already_done": "Old notification, already done!",
+  "suggested_chore_parent_title":"Add suggested chore"
 }
