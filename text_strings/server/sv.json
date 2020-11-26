@@ -381,6 +381,7 @@
   "ADPRRE036_push_title": "Det är Payday för {child.nickname}, men inga pengar den här gången...",
   "ADPRON004_notification_title": "Glöm inte att beställa Gimi-kortet till {child.nickname}, det ingår i din prenumeration!",
   "CHGERE035_notification_title": "{parent.nickname} la till ett utlägg. Det blir avdrag från Payday...",
+  "CHGERE035_notification_title_v2": "PLZ_CHECK {parent.nickname} added an expense. It'll be deducted from your {allowance_frequency}!",
   "CHGERE035_push_title": "{parent.nickname} la till ett utlägg!",
   "active_email_subject": "Fortsätt att ställa in ditt kort med {wallet_provider}",
   "ADGERE021_notification_title_v2": "Lägg till vecko- eller månadspeng för {child.nickname}",

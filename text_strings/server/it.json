@@ -381,6 +381,7 @@
   "ADPRRE036_push_title": "È il giorno di paga per {child.nickname}, bma non ha guadagnato soldi.",
   "ADPRON004_notification_title": "Non dimenticare di ordinare la Carta Gimi per {child.nickname}, è inclusa nel tuo abbonamento!",
   "CHGERE035_notification_title": "{parent.nickname} ha aggiunto una spesa. Riceverai meno il giorno di paga...",
+  "CHGERE035_notification_title_v2": "PLZ_TRANSLATE {parent.nickname} added an expense. It'll be deducted from your {allowance_frequency}!",
   "CHGERE035_push_title": "{parent.nickname} ha aggiunto una spesa!",
   "active_email_subject": "Completa la configurazione della tua carta con {wallet_provider}",
   "ADGERE021_notification_title_v2": "Imposta un'indennità settimanale o mensile per {child.nickname}",

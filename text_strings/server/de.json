@@ -381,6 +381,7 @@
   "ADPRRE036_push_title": "Es ist Payday für {child.nickname}, aber es wurde kein Geld verdient.",
   "ADPRON004_notification_title": "Vergiss nicht die Gimi Card für {child.nickname} zu bestellen, sie ist in Deinem Abonnement beinhalten!",
   "CHGERE035_notification_title": "{parent.nickname} hat eine Ausgabe hinzugefügt! Du erhälst weniger am Payday...",
+  "CHGERE035_notification_title_v2": "PLZ_TRANSLATE {parent.nickname} added an expense. It'll be deducted from your {allowance_frequency}!",
   "CHGERE035_push_title": "{parent.nickname} hat eine Ausgabe hinzugefügt!",
   "active_email_subject": "Beende das Einricten der Karte mit {wallet_provider}",
   "ADGERE021_notification_title_v2": "Richte wöchentliches oder monatliches Taschengeld für {child.nickname} ein",

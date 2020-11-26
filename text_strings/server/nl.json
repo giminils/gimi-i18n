@@ -381,6 +381,7 @@
   "ADPRRE036_push_title": "Het is Payday voor {child.nickname}, maar er is geen geld verdiend.",
   "ADPRON004_notification_title": "Vergeet niet de Gimi-kaart voor {child.nickname} te bestellen, ze is inbegrepen bij je abonnement!",
   "CHGERE035_notification_title": "{parent.nickname} heeft onkosten toegevoegd. Je krijgt minder op payday...",
+  "CHGERE035_notification_title_v2": "PLZ_TRANSLATE {parent.nickname} added an expense. It'll be deducted from your {allowance_frequency}!",
   "CHGERE035_push_title": "{parent.nickname} heeft onkosten toegevoegd!",
   "active_email_subject": "Voltooi de instellingen van je kaart met {wallet_provider}",
   "ADGERE021_notification_title_v2": "Stel wekelijks of maandelijks zakgeld in voor {child.nickname}",
