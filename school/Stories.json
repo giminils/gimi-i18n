@@ -108,6 +108,7 @@
                     "type": "PAUSE",
                     "titleLangKey": "school_screen_title",
                     "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
                             "langKey": "school_screen_button1"
@@ -527,6 +528,7 @@
                     "type": "PAUSE",
                     "titleLangKey": "school_screen_title",
                     "subTitleLangKey": "school_screen_subtitle",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
                             "langKey": "school_screen_button1"
