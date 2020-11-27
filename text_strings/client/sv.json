@@ -2060,7 +2060,7 @@
   "general_connect_with_sms": "Bjud in med SMS",
   "accounts_connection_lost": "Connection lost",
   "dream_subtitle_emptystate_parent": "%1$d har inte skapat ett mål än!",
-  "add_suggested_chore_title": "PLZ_CHECK You suggested a chore!",
+  "add_suggested_chore_title": "Du föreslog en uppgift!",
   "general_add_suggest_chore": "Lägg till föreslagen uppgift",
   "goal_map_graph_title": "Framsteg",
   "general_saved_freemium": "Sparat",
@@ -2270,9 +2270,9 @@
   "chores_news_title": "Vi har uppdaterat återkommande uppgifter",
   "chores_news_desc": "Istället för att inkludera flera dagar i en uppgift, så kommer ni få välja 1 veckodag som den ska utföras på. Den kommer fortfarande att återkomma varje vecka. Om ni vill att uppgiften ska utföras oftare, gör den Alltid tillgänglig i inställningarna!",
   "skip_payday_message": "PLZ_CHECK Payday skipped",
-  "general_skipped": "PLZ_CHECK Skipped",
-  "general_paid": "PLZ_CHECK Paid",
+  "general_skipped": "Skippad",
+  "general_paid": "Betalad",
   "general_recurring_day": "Återkommande dag",
   "general_already_done": "Gammal notis, redan klar!",
-  "suggested_chore_parent_title": "PLZ_CHECK Add suggested chore"
+  "suggested_chore_parent_title": "Lägg till föreslagen uppgift"
 }
