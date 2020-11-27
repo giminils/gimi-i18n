@@ -12,7 +12,8 @@ export let getAllLessons = () => {
     return lessons.map((lesson) => {
         let story = stories.find((story) => story.id === lesson.storyId)
         let challange = challanges.find((challange) => challange.id === lesson.challangeId)
-        return { id: lesson.id, type: lesson.type, isEnabled: lesson.isEnabled, titleLangKey: lesson.titleLangKey, subtitleLangKey: lesson.subtitleLangKey, story, challange}
+        const {id, type, isEnabled, titleLangKey, subtitleLangKey,imageUrl} = lesson
+        return {id, type, isEnabled, titleLangKey, subtitleLangKey, imageUrl, story, challange}
     })
 }
 
