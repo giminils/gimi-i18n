@@ -160,5 +160,11 @@
   "school_challange_quiz_1_text4": "PLZ_TRANSLATE Pants vere the most expensive thing in the past, because the people just decided it that way.",
   "school_challange_quiz_1_text5": "PLZ_TRANSLATE A laptop is more expensive than bread because the parts are very expensive but flour is not.",
   "school_do_again": "PLZ_TRANSLATE Do again",
-  "school_locked": "PLZ_TRANSLATE Locked"
+  "school_locked": "PLZ_TRANSLATE Locked",
+  "school_challange": "PLZ_TRANSLATE Utmaning",
+  "school_to_challange": "PLZ_TRANSLATE Till Utmaningen",
+  "school_redo_challange": "PLZ_TRANSLATE Gör om övningen",
+  "school_start_story": "PLZ_TRANSLATE Starta Berättelsen",
+  "school_go_to_chapters": "PLZ_TRANSLATE Till kapitelkartan",
+  "school_go_back_to_chapters": "PLZ_TRANSLATE Tillbaka till kapitelkarta"
 }
