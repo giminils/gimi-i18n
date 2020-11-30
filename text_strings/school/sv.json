@@ -172,5 +172,6 @@
   "school_redo_challange": "PLZ_CHECK Gör om övningen",
   "school_start_story": "PLZ_CHECK Starta Berättelsen",
   "school_go_to_chapters": "PLZ_CHECK Till kapitelkartan",
-  "school_go_back_to_chapters": "PLZ_CHECK Tillbaka till kapitelkarta"
+  "school_go_back_to_chapters": "PLZ_CHECK Tillbaka till kapitelkarta",
+  "school_challenge_subtitle": "PLZ_CHECK Nu kan du göra utmaningen för att se vad du kan! Kom ihåg att du alltid kan gå igen berättelsen igen om du inte kommer ihåg."
 }
