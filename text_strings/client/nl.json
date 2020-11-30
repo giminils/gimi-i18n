@@ -2274,5 +2274,12 @@
   "general_paid": "PLZ_TRANSLATE Paid",
   "general_recurring_day": "PLZ_TRANSLATE Recurring day",
   "general_already_done": "PLZ_TRANSLATE Old notification, already done!",
-  "suggested_chore_parent_title": "PLZ_TRANSLATE Add suggested chore"
+  "suggested_chore_parent_title": "PLZ_TRANSLATE Add suggested chore",
+  "premium_receipt_paid_status": "PLZ_TRANSLATE Paid on %1$d",
+  "freemium_receipt_paid_status": "PLZ_TRANSLATE Added to the piggybank",
+  "premium_receipt_skipped_status": "PLZ_TRANSLATE Skipped",
+  "receipt_pay_today_status": "PLZ_TRANSLATE To be paid out today",
+  "receipt_failed_status": "PLZ_TRANSLATE Failed, try again!",
+  "receipt_overdue_status": "PLZ_TRANSLATE Overdue %1$d day(s)",
+  "receipt_coming_up_status": "PLZ_TRANSLATE Coming up"
 }
