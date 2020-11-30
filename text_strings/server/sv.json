@@ -291,7 +291,7 @@
   "ADGEON005_push_title": "Lägg till en profilbild!",
   "CHFRRE001_notification_title": "Idag är det Payday! Gå till spargrisen för att se hur mycket du har fått",
   "CHFRRE001_notification_title_v2": "Idag är det Payday! {formatted_amount} har lagts till i spargrisen",
-  "CHFRRE001_notification_title_v3": "PLZ_CHECK It's time for {allowance_frequency}! {formatted_amount} was added to your piggybank",
+  "CHFRRE001_notification_title_v3": "Dags för {allowance_frequency}! {formatted_amount} har lagts till i spargrisen",
   "CHFRRE001_push_title": "PLZ_CHECK Your {allowance_frequency} has been added to the piggybank - see how much you got!",
   "ADGERE011_notification_title": "{child.nickname} har nått ett mål",
   "CHGERE033_push_title": "Glöm inte att du har {savings_balance} i spargrisen! ✌️",
