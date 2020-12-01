@@ -173,5 +173,10 @@
   "school_start_story": "PLZ_TRANSLATE Starta Berättelsen",
   "school_go_to_chapters": "PLZ_TRANSLATE Till kapitelkartan",
   "school_go_back_to_chapters": "PLZ_TRANSLATE Tillbaka till kapitelkarta",
-  "school_challenge_subtitle": "PLZ_TRANSLATE Nu kan du göra utmaningen för att se vad du kan! Kom ihåg att du alltid kan gå igen berättelsen igen om du inte kommer ihåg."
+  "shool_xp_value": "PLZ_TRANSLATE %1$d XP",
+  "school_challenge_subtitle": "PLZ_TRANSLATE Nu kan du göra utmaningen för att se vad du kan! Kom ihåg att du alltid kan gå igen berättelsen igen om du inte kommer ihåg.",
+  "school_challenge_grade_failed": "PLZ_TRANSLATE You can do better than that! Try redoing the exercise!",
+  "school_challenge_grade_bronze": "PLZ_TRANSLATE You made it!\nGo to the next exercise to continue learning!",
+  "school_challenge_grade_silver": "PLZ_TRANSLATE Good work!\nGo to the next exercise to continue learning!",
+  "school_challenge_grade_gold": "PLZ_TRANSLATE Excellent!!!\nGo to the next exercise to continue learning!"
 }
