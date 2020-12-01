@@ -2276,10 +2276,10 @@
   "general_already_done": "Gammal notis, redan klar!",
   "suggested_chore_parent_title": "Lägg till föreslagen uppgift",
   "premium_receipt_paid_status": "PLZ_CHECK Paid on %1$d",
-  "freemium_receipt_paid_status": "PLZ_CHECK Added to the piggybank",
-  "premium_receipt_skipped_status": "PLZ_CHECK Skipped",
-  "receipt_pay_today_status": "PLZ_CHECK To be paid out today",
-  "receipt_failed_status": "PLZ_CHECK Failed, try again!",
-  "receipt_overdue_status": "PLZ_CHECK Overdue %1$d day(s)",
-  "receipt_coming_up_status": "PLZ_CHECK Coming up"
+  "freemium_receipt_paid_status": "Lagts till i spargrisen",
+  "premium_receipt_skipped_status": "Skippad",
+  "receipt_pay_today_status": "Ska betalas ut idag",
+  "receipt_failed_status": "Misslyckades, försök igen!",
+  "receipt_overdue_status": "Försenad %1$d dag(ar)",
+  "receipt_coming_up_status": "Snart dags"
 }
