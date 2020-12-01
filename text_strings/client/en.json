@@ -615,8 +615,8 @@
   "general_tell_us": "Tell us!",
   "take_me_back": "Take me back!",
   "interest_from": "bonus from %1$d",
-  "weekly_allowance_from": "allowance from %1$d",
-  "monthly_allowance_from": "allowance from %1$d",
+  "weekly_allowance_from": "weekly allowance from %1$d",
+  "monthly_allowance_from": "monthly allowance from %1$d",
   "why_we_ask_for_phone": "Why do we need your number?",
   "explainer_why_phone_title": "Do we really need your phone number?",
   "explainer_why_phone_desc": "Adults need a phone number to signup, but children can use an email. We never use your number for marketing, or share it with 3rd parties !",
@@ -2291,5 +2291,7 @@
   "allowance_settings": "Allowance",
   "general_add_interest": "Add a bonus",
   "from_other_supporters": "From other supporters",
-  "allowance_not_set": "No allowance setup from %1$d"
+  "allowance_not_set": "No allowance setup from %1$d",
+  "monthly_from":"Monthly from %1$d",
+  "weekly_from": "Weekly from %1$d"
 }
