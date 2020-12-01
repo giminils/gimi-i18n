@@ -2288,5 +2288,6 @@
   "setup_kid_monthly_subtitle": "PLZ_TRANSLATE On the 1st day of every month, the allowance will be paid out automatically to the piggybank.",
   "use_weekly": "PLZ_TRANSLATE Use weekly instead",
   "use_monthly": "PLZ_TRANSLATE Use monthly instead",
-  "allowance_settings": "PLZ_TRANSLATE Allowance"
+  "allowance_settings": "PLZ_TRANSLATE Allowance",
+  "general_add_interest": "PLZ_TRANSLATE Add a bonus"
 }

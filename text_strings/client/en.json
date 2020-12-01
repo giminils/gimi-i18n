@@ -2288,5 +2288,6 @@
   "setup_kid_monthly_subtitle": "On the 1st day of every month, the allowance will be paid out automatically to the piggybank.",
   "use_weekly":"Use weekly instead",
   "use_monthly":"Use monthly instead",
-  "allowance_settings":"Allowance"
+  "allowance_settings":"Allowance",
+  "general_add_interest":"Add a bonus"
 }
