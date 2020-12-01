@@ -2287,5 +2287,6 @@
   "setup_kid_monthly_title": "PLZ_CHECK Set up monthly allowance for %1$d",
   "setup_kid_monthly_subtitle": "PLZ_CHECK On the 1st day of every month, the allowance will be paid out automatically to the piggybank.",
   "use_weekly": "PLZ_CHECK Use weekly instead",
-  "use_monthly": "PLZ_CHECK Use monthly instead"
+  "use_monthly": "PLZ_CHECK Use monthly instead",
+  "allowance_settings": "PLZ_CHECK Allowance"
 }
