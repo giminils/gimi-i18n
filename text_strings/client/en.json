@@ -2281,5 +2281,9 @@
   "receipt_pay_today_status":"To be paid out today",
   "receipt_failed_status":"Failed, try again!",
   "receipt_overdue_status": "Overdue %1$d day(s)",
-  "receipt_coming_up_status":"Coming up"
+  "receipt_coming_up_status":"Coming up",
+  "setup_kid_weekly_title":"Set up weekly allowance for %1$d",
+  "setup_kid_weekly_subtitle": "Every Monday, the allowance wil be paid automatically to the piggybank.",
+  "setup_kid_monthly_title": "Set up monthly allowance for %1$d",
+  "setup_kid_monthly_subtitle": "On the 1st day of every month, the allowance will be paid out automatically to the piggybank."
 }

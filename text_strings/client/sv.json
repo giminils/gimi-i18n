@@ -2281,5 +2281,9 @@
   "receipt_pay_today_status": "Ska betalas ut idag",
   "receipt_failed_status": "Misslyckades, försök igen!",
   "receipt_overdue_status": "Försenad %1$d dag(ar)",
-  "receipt_coming_up_status": "Snart dags"
+  "receipt_coming_up_status": "Snart dags",
+  "setup_kid_weekly_title": "PLZ_CHECK Set up weekly allowance for %1$d",
+  "setup_kid_weekly_subtitle": "PLZ_CHECK Every Monday, the allowance wil be paid automatically to the piggybank.",
+  "setup_kid_monthly_title": "PLZ_CHECK Set up monthly allowance for %1$d",
+  "setup_kid_monthly_subtitle": "PLZ_CHECK On the 1st day of every month, the allowance will be paid out automatically to the piggybank."
 }
