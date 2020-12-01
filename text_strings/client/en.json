@@ -2289,5 +2289,6 @@
   "use_weekly":"Use weekly instead",
   "use_monthly":"Use monthly instead",
   "allowance_settings":"Allowance",
-  "general_add_interest":"Add a bonus"
+  "general_add_interest":"Add a bonus",
+  "from_other_supporters":"From other supporters"
 }
