@@ -2290,5 +2290,6 @@
   "use_monthly": "PLZ_CHECK Use monthly instead",
   "allowance_settings": "PLZ_CHECK Allowance",
   "general_add_interest": "PLZ_CHECK Add a bonus",
-  "from_other_supporters": "PLZ_CHECK From other supporters"
+  "from_other_supporters": "PLZ_CHECK From other supporters",
+  "allowance_not_set": "PLZ_CHECK No allowance setup"
 }

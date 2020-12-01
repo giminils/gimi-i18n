@@ -2290,5 +2290,6 @@
   "use_monthly":"Use monthly instead",
   "allowance_settings":"Allowance",
   "general_add_interest":"Add a bonus",
-  "from_other_supporters":"From other supporters"
+  "from_other_supporters":"From other supporters",
+  "allowance_not_set":"No allowance setup"
 }
