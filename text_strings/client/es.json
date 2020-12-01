@@ -2285,5 +2285,7 @@
   "setup_kid_weekly_title": "PLZ_TRANSLATE Set up weekly allowance for %1$d",
   "setup_kid_weekly_subtitle": "PLZ_TRANSLATE Every Monday, the allowance wil be paid automatically to the piggybank.",
   "setup_kid_monthly_title": "PLZ_TRANSLATE Set up monthly allowance for %1$d",
-  "setup_kid_monthly_subtitle": "PLZ_TRANSLATE On the 1st day of every month, the allowance will be paid out automatically to the piggybank."
+  "setup_kid_monthly_subtitle": "PLZ_TRANSLATE On the 1st day of every month, the allowance will be paid out automatically to the piggybank.",
+  "use_weekly": "PLZ_TRANSLATE Use weekly instead",
+  "use_monthly": "PLZ_TRANSLATE Use monthly instead"
 }
