@@ -2291,5 +2291,5 @@
   "allowance_settings": "PLZ_CHECK Allowance",
   "general_add_interest": "PLZ_CHECK Add a bonus",
   "from_other_supporters": "PLZ_CHECK From other supporters",
-  "allowance_not_set": "PLZ_CHECK No allowance setup"
+  "allowance_not_set": "PLZ_CHECK No allowance setup from %1$d"
 }

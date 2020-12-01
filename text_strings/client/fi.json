@@ -2291,5 +2291,5 @@
   "allowance_settings": "PLZ_TRANSLATE Allowance",
   "general_add_interest": "PLZ_TRANSLATE Add a bonus",
   "from_other_supporters": "PLZ_TRANSLATE From other supporters",
-  "allowance_not_set": "PLZ_TRANSLATE No allowance setup"
+  "allowance_not_set": "PLZ_TRANSLATE No allowance setup from %1$d"
 }
