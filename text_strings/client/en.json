@@ -2292,6 +2292,6 @@
   "general_add_interest": "Add a bonus",
   "from_other_supporters": "From other supporters",
   "allowance_not_set": "No allowance setup from %1$d",
-  "monthly_from":"Monthly from %1$d",
+  "monthly_from": "Monthly from %1$d",
   "weekly_from": "Weekly from %1$d"
 }
