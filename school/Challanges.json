@@ -129,12 +129,12 @@
                     "buttons": [
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/basketball%402x.png",
+                            "imageUrl": "/static/school/food+and+merch/basketball.png",
                             "isCorrect": true
                         },
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter%402x.png",
+                            "imageUrl": "/static/school/food+and+merch/breadButter.png",
                             "isCorrect": false
                         }
                     ]
@@ -205,84 +205,84 @@
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 10,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/pen.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 145,
-                    "imageUrl": ""
+                    "imageUrl": "static/school/food+and+merch/basketball.png"
                 },
                                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 25,
-                    "imageUrl": ""
+                    "imageUrl": "static/school/food+and+merch/icecream.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 65,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/candyBag.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 350,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/pants.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 1995,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/headphones2.png"
                 },
                                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 80,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/pizza.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 455,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/game.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 2450,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/computer.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 990,
-                    "imageUrl": ""
+                    "imageUrl": "/static/school/food+and+merch/sneakers.png"
                 }
-            ]
+            ]*
         },
         {
             "id": 3,
             "type": "QUIZ",
-            "titleLangKey": "",
-            "subtitleLangKey": "",
+            "titleLangKey": "school_challenge_3_title",
+            "subtitleLangKey": "school_challenge_3_subtitle",
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_boldheader_inorcost",
+                    "titleLangKey":  "school_challenge_3_text1",
                     "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/money/incomeCost.png",
                     "buttons": [
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/pants.png",
-                            "isCorrect": true
+                            "langKey": "school_challenge_button_income",
+                            "imageUrl": "",
+                            "isCorrect": false
                         },
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter.png",
-                            "isCorrect": false
+                            "langKey": "school_challenge_button_cost",
+                            "imageUrl": "",
+                            "isCorrect": true
                         }
                     ]
                 },
                 {
                     "id": 2,
                     "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text1",
+                    "titleLangKey": "school_challenge_3_text2",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -298,21 +298,21 @@
                         }
                     ]
                 },
-                {                    
+                {
                     "id": 3,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
+                    "boldTitleLangKey": "school_challenge_boldheader_inorcost",
                     "titleLangKey":  "",
-                    "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "subTitleLangKey": "school_challenge_3_text3",
+                    "imageUrl": "/static/school/money/incomeCost.png",
                     "buttons": [
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter.png",
+                            "langKey": "school_challenge_button_income",
+                            "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/headphones2.png",
+                            "langKey": "school_challenge_button_cost",
+                            "imageUrl": "",
                             "isCorrect": true
                         }
                     ]
@@ -320,45 +320,45 @@
                 {
                     "id": 4,
                     "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text2",
+                    "titleLangKey": "school_challenge_3_text4",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_True",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "langKey": "school_challenge_button_False",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         }
                     ]
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_boldheader_inorcost",
+                    "titleLangKey":  "school_challenge_3_text5",
                     "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/money/incomeCost.png",
                     "buttons": [
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/basketball.png",
-                            "isCorrect": false
+                            "langKey": "school_challenge_button_income",
+                            "imageUrl": "",
+                            "isCorrect": true
                         },
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/pants.png",
-                            "isCorrect": true
+                            "langKey": "school_challenge_button_cost",
+                            "imageUrl": "",
+                            "isCorrect": false
                         }
                     ]
                 },
                 {
                     "id": 6,
                     "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text3",
+                    "titleLangKey": "school_challenge_3_text6",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -376,27 +376,27 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_boldheader_inorcost",
+                    "titleLangKey":  "school_challenge_3_text7",
                     "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/money/incomeCost.png",
                     "buttons": [
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/basketball%402x.png",
-                            "isCorrect": true
+                            "langKey": "school_challenge_button_income",
+                            "imageUrl": "",
+                            "isCorrect": false
                         },
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter%402x.png",
-                            "isCorrect": false
+                            "langKey": "school_challenge_button_cost",
+                            "imageUrl": "",
+                            "isCorrect": true
                         }
                     ]
                 },
                 {
                     "id": 8,
                     "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text4",
+                    "titleLangKey": "school_challenge_3_text8",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -414,39 +414,39 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_boldheader_inorcost",
+                    "titleLangKey":  "school_challenge_3_text9",
                     "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/money/incomeCost.png",
                     "buttons": [
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/pizza.png",
-                            "isCorrect": false
+                            "langKey": "school_challenge_button_income",
+                            "imageUrl": "",
+                            "isCorrect": true
                         },
                         {
-                            "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/computer.png",
-                            "isCorrect": true
+                            "langKey": "school_challenge_button_cost",
+                            "imageUrl": "",
+                            "isCorrect": false
                         }
                     ]
                 },
                 {
                     "id": 10,
                     "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text5",
+                    "titleLangKey": "school_challenge_3_text10",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_True",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "langKey": "school_challenge_button_False",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         }
                     ]
                 }
