@@ -9,7 +9,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_1_screen_text1",
                     "subTitleLangKey": "school_story_1_screen_text2",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button1"
@@ -60,7 +60,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text7",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/breadButter.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_iunderstand"
@@ -93,7 +93,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_1_screen_text9",
                     "subTitleLangKey": "school_story_1_screen_text10",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/diamond.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_nowronganswer"
@@ -108,7 +108,7 @@
                     "type": "PAUSE",
                     "titleLangKey": "school_story_1_pause_title",
                     "subTitleLangKey": "school_story_1_pause_subtitle",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/piggySwim.png",
                     "buttons": [
                         {
                             "langKey": "school_story_1_pause_button"
@@ -147,7 +147,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text14",
                     "subTitleLangKey": "school_story_1_screen_text15",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/flour.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_nowunderstand"
@@ -163,7 +163,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text16",
                     "subTitleLangKey": "school_story_1_screen_text17",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/fabric.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button3"
@@ -187,7 +187,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text19",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/breadPile.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_unresonable"
@@ -220,32 +220,20 @@
                 {
                     "id": 1,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_story_start_2_title",
-                    "subTitleLangKey": "school_story_start_2_subtitle",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "titleLangKey": "school_story_2_screen_text1",
+                    "subTitleLangKey": "school_story_2_screen_text2",
+                    "imageUrl": "/static/school/tradeBoat.png",
                     "buttons": [
                         {
-                            "langKey": "school_screen_button1"
+                            "langKey": "school_screen_button6"
                         },
                         {
-                            "langKey": "school_screen_button2"
+                            "langKey": ""
                         }
                     ]                
                 },
                 {
                     "id": 2,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_2_screen_text1",
-                    "subTitleLangKey": "school_story_2_screen_text2",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button6"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text3",
                     "subTitleLangKey": "school_story_2_screen_text4",
@@ -260,11 +248,11 @@
                     ]
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text5",
                     "subTitleLangKey": "school_story_2_screen_text6",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_iunderstand"
@@ -272,26 +260,23 @@
                     ]
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text7",
                     "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/whaleTooth.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button9"
-                        },
-                        {
-                            "langKey": "school_answer_general_nice"
                         }
-                     ]
-                  },
-                  {
-                    "id": 6,
+                    ]
+                },
+                {
+                    "id": 5,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text8",
                     "subTitleLangKey": "school_story_2_screen_text9",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_noidea"
@@ -305,20 +290,32 @@
                         {
                             "langKey": "school_screen_button12"
                         }
+                     ]
+                  },
+                  {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_2_screen_text10",
+                    "subTitleLangKey": "",
+                    "imageUrl": "https://picsum.photos/200/300",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button13"
+                        },
+                        {
+                            "langKey": "school_answer_general_yesrightanswer"
+                        }
                     ]
                 },
                 {
                     "id": 7,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_2_screen_text10",
-                    "subTitleLangKey": "",
-                    "imageUrl": "",
+                    "type": "PAUSE",
+                    "titleLangKey": "school_story_1_pause_title",
+                    "subTitleLangKey": "school_story_1_pause_subtitle",
+                    "imageUrl": "/static/school/piggySwim.png",
                     "buttons": [
                         {
-                            "langKey": "school_answer_general_yesrightanswer"
-                        },
-                        {
-                            "langKey": "school_screen_button13"
+                            "langKey": "school_story_1_pause_button"
                         }
                     ]
                 },
@@ -339,7 +336,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text13",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/coinPouch.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_yup"
@@ -354,7 +351,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text14",
                     "subTitleLangKey": "school_story_2_screen_text15",
-                    "imageUrl": "",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_cool"
@@ -366,13 +363,10 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text16",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/receipt1.png",
                     "buttons": [
                         {
-                            "langKey": "school_answer_general_okidoki"
-                        },
-                        {
-                            "langKey": "school_answer_general_iknew"
+                            "langKey": "school_answer_general_okay"
                         }
                     ]
                 },
@@ -380,8 +374,8 @@
                     "id": 12,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text17",
-                    "subTitleLangKey": "school_story_2_screen_text18",
-                    "imageUrl": "",
+                    "subTitleLangKey": "",
+                    "imageUrl": "https://picsum.photos/200/300",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_idnk"
@@ -394,30 +388,27 @@
                 {
                     "id": 13,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_story_2_screen_text19",
-                    "subTitleLangKey": "school_story_2_screen_text20",
-                    "imageUrl": "",
+                    "titleLangKey": "school_story_2_screen_text18",
+                    "subTitleLangKey": "",
+                    "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
-                            "langKey": "school_screen_button16"
-                        },
-                        {
-                            "langKey": "school_screen_button17"
+                            "langKey": "school_answer_general_thatcrazy"
                         }
                     ]
                 },
                 {
                     "id": 14,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_screen_title",
-                    "subTitleLangKey": "school_screen_subtitle",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "titleLangKey": "school_story_2_screen_text19",
+                    "subTitleLangKey": "school_story_2_screen_text20",
+                    "imageUrl": "taoiletPaper2",
                     "buttons": [
                         {
-                            "langKey": "school_screen_button1"
+                            "langKey": "school_screen_button16"
                         },
                         {
-                            "langKey": "school_screen_button2"
+                            "langKey": "school_screen_button17"
                         }
                     ]
                 }
@@ -432,7 +423,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_3_screen_text1",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button18"
@@ -480,7 +471,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3_screen_text6",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/moneyDigital.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button22"
@@ -513,7 +504,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_3_screen_text8",
                     "subTitleLangKey": "school_story_3_screen_text9",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/moneyMagic.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button26"
@@ -525,18 +516,6 @@
                 },
                 {
                     "id": 7,
-                    "type": "PAUSE",
-                    "titleLangKey": "school_story_3_pause_title",
-                    "subTitleLangKey": "school_story_3_pause_subtitle",
-                    "imageUrl": "https://picsum.photos/200/300",
-                    "buttons": [
-                        {
-                            "langKey": "school_story_3_pause_button"
-                        }
-                    ]
-                },
-                {
-                    "id": 8,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3_screen_text10",
                     "subTitleLangKey": "",
@@ -546,6 +525,18 @@
                             "langKey": "school_answer_general_iunderstand"
                         }
                      ]
+                },
+                {
+                    "id": 8,
+                    "type": "PAUSE",
+                    "titleLangKey": "school_story_1_pause_subtitle",
+                    "subTitleLangKey": "",
+                    "imageUrl": "/static/school/piggySwim.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_1_pause_button"
+                        }
+                    ]
                 },
                 {
                     "id": 9,
@@ -570,7 +561,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3_screen_text12",
                     "subTitleLangKey": "school_story_3_screen_text13",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/budget.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button31"
@@ -586,7 +577,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3_screen_text14",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/incomeCost.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_yup"
@@ -610,7 +601,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3_screen_text16",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "/static/school/shopping.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button32"
