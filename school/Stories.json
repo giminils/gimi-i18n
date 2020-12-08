@@ -75,16 +75,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "imageUrl": "static/school/food and merch/headphones2.png"
                         },
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "imageUrl": "/static/school/diamond.png"
                         },
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "imageUrl": "static/school/food and merch/candyBag.png"
                         },
                         {
-                            "imageUrl": "https://picsum.photos/300/300"
+                            "imageUrl": "static/school/food and merch/computer.png"
                         }
                     ]
                 },
@@ -226,9 +226,6 @@
                     "buttons": [
                         {
                             "langKey": "school_screen_button6"
-                        },
-                        {
-                            "langKey": ""
                         }
                     ]                
                 },
@@ -297,7 +294,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text10",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_screen_button13"
@@ -351,7 +348,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text14",
                     "subTitleLangKey": "school_story_2_screen_text15",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_cool"
@@ -375,7 +372,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text17",
                     "subTitleLangKey": "",
-                    "imageUrl": "https://picsum.photos/200/300",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_idnk"
