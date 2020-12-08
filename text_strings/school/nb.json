@@ -107,6 +107,7 @@
   "school_answer_general_tellme": "Tell me!",
   "school_answer_general_smart": "Smart!",
   "school_answer_general_sometimes": "Sometimes",
+  "school_answer_general_thatcrazy": "PLZ_TRANSLATE That's crazy!",
   "school_answer_general_thatsmart": "Thats smart!",
   "school_answer_general_true": "True",
   "school_answer_general_unresonable": "Unresonable!",
@@ -194,5 +195,9 @@
   "school_challenge_grade_failed": "PLZ_TRANSLATE You can do better than that! Try redoing the exercise!",
   "school_challenge_grade_bronze": "PLZ_TRANSLATE You made it!\nGo to the next exercise to continue learning!",
   "school_challenge_grade_silver": "PLZ_TRANSLATE Good work!\nGo to the next exercise to continue learning!",
-  "school_challenge_grade_gold": "PLZ_TRANSLATE Excellent!!!\nGo to the next exercise to continue learning!"
+  "school_challenge_grade_gold": "PLZ_TRANSLATE Excellent!!!\nGo to the next exercise to continue learning!",
+  "school_piggy_chapters_title": "PLZ_TRANSLATE Här ser du en översikt över alla kapitel",
+  "school_piggy_chapters_subtitle": "PLZ_TRANSLATE Klicka på ett kapitel för att se mer! Om du klickar på din profil till vänster, så kan du se dina framsteg.",
+  "school_piggy_lessons_title": "PLZ_TRANSLATE Det här är kapitlets alla lektioner",
+  "school_piggy_lessons_subtitle": "PLZ_TRANSLATE När du har låst upp kapitlets alla delar, så kommer du till Raketen. Vad som händer där är hemligt just nu..."
 }
