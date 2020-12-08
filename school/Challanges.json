@@ -8,27 +8,27 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
+                    "boldTitleLangKey": "school_challenge_boldheader_worthmore",
                     "titleLangKey":  "",
                     "subTitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/pants.png",
+                            "imageUrl": "/static/school/food and merch/pants.png",
                             "isCorrect": true
                         },
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter.png",
+                            "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text1",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
+                    "titleLangKey": "school_challenge_1_text1",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -46,27 +46,27 @@
                 },
                 {                    
                     "id": 3,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
+                    "boldTitleLangKey": "school_challenge_boldheader_worthmore",
                     "titleLangKey":  "",
                     "subTitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter.png",
+                            "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         },
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/headphones2.png",
+                            "imageUrl": "/static/school/food and merch/headphones2.png",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text2",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
+                    "titleLangKey": "school_challenge_1_text2",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -84,27 +84,27 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
+                    "boldTitleLangKey": "school_challenge_boldheader_worthmore",
                     "titleLangKey":  "",
                     "subTitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/basketball.png",
+                            "imageUrl": "/static/school/food and merch/basketball.png",
                             "isCorrect": false
                         },
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/pants.png",
+                            "imageUrl": "/static/school/food and merch/pants.png",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text3",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
+                    "titleLangKey": "school_challenge_1_text3",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -122,27 +122,27 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
+                    "boldTitleLangKey": "school_challenge_boldheader_worthmore",
                     "titleLangKey":  "",
                     "subTitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/basketball.png",
+                            "imageUrl": "/static/school/food and merch/basketball.png",
                             "isCorrect": true
                         },
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/breadButter.png",
+                            "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text4",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
+                    "titleLangKey": "school_challenge_1_text4",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -160,27 +160,27 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challange_boldheader_worthmore",
+                    "boldTitleLangKey": "school_challenge_boldheader_worthmore",
                     "titleLangKey":  "",
                     "subTitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/pizza.png",
+                            "imageUrl": "/static/school/food and merch/pizza.png",
                             "isCorrect": false
                         },
                         {
                             "langKey": "",
-                            "imageUrl": "/static/school/food+and+merch/computer.png",
+                            "imageUrl": "/static/school/food and merch/computer.png",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
-                    "titleLangKey": "school_challange_1_text5",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
+                    "titleLangKey": "school_challenge_1_text5",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -205,52 +205,52 @@
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 10,
-                    "imageUrl": "/static/school/food+and+merch/pen.png"
+                    "imageUrl": "/static/school/food and merch/pen.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 145,
-                    "imageUrl": "static/school/food+and+merch/basketball.png"
+                    "imageUrl": "/static/school/food and merch/basketball.png"
                 },
                                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 25,
-                    "imageUrl": "static/school/food+and+merch/icecream.png"
+                    "imageUrl": "/static/school/food and merch/icecream.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 65,
-                    "imageUrl": "/static/school/food+and+merch/candyBag.png"
+                    "imageUrl": "/static/school/food and merch/candyBag.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 350,
-                    "imageUrl": "/static/school/food+and+merch/pants.png"
+                    "imageUrl": "/static/school/food and merch/pants.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 1995,
-                    "imageUrl": "/static/school/food+and+merch/headphones2.png"
+                    "imageUrl": "/static/school/food and merch/headphones2.png"
                 },
                                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 80,
-                    "imageUrl": "/static/school/food+and+merch/pizza.png"
+                    "imageUrl": "/static/school/food and merch/pizza.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 455,
-                    "imageUrl": "/static/school/food+and+merch/game.png"
+                    "imageUrl": "/static/school/food and merch/game.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 2450,
-                    "imageUrl": "/static/school/food+and+merch/computer.png"
+                    "imageUrl": "/static/school/food and merch/computer.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank_title",
                     "price": 990,
-                    "imageUrl": "/static/school/food+and+merch/sneakers.png"
+                    "imageUrl": "/static/school/food and merch/sneakers.png"
                 }
             ]
         },
@@ -281,7 +281,7 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
                     "titleLangKey": "school_challenge_3_text2",
                     "subtitleLangKey": "",
                     "imageUrl": "",
@@ -319,7 +319,7 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
                     "titleLangKey": "school_challenge_3_text4",
                     "subtitleLangKey": "",
                     "imageUrl": "",
@@ -357,7 +357,7 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
                     "titleLangKey": "school_challenge_3_text6",
                     "subtitleLangKey": "",
                     "imageUrl": "",
@@ -395,7 +395,7 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
                     "titleLangKey": "school_challenge_3_text8",
                     "subtitleLangKey": "",
                     "imageUrl": "",
@@ -433,7 +433,7 @@
                 },
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challange_boldheader_torf",
+                    "boldTitleLangKey": "school_challenge_boldheader_torf",
                     "titleLangKey": "school_challenge_3_text10",
                     "subtitleLangKey": "",
                     "imageUrl": "",

@@ -60,7 +60,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text7",
                     "subTitleLangKey": "",
-                    "imageUrl": "/static/school/breadButter.png",
+                    "imageUrl": "/static/school/food and merch/breadButter.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_iunderstand"
@@ -147,7 +147,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text14",
                     "subTitleLangKey": "school_story_1_screen_text15",
-                    "imageUrl": "/static/school/flour.png",
+                    "imageUrl": "/static/school/food and merch/flour.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_nowunderstand"
@@ -163,7 +163,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text16",
                     "subTitleLangKey": "school_story_1_screen_text17",
-                    "imageUrl": "/static/school/fabric.png",
+                    "imageUrl": "/static/school/food and merch/fabric.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button3"
@@ -187,7 +187,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1_screen_text19",
                     "subTitleLangKey": "",
-                    "imageUrl": "/static/school/breadPile.png",
+                    "imageUrl": "/static/school/food and merch/breadPile.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_unresonable"
@@ -402,7 +402,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2_screen_text19",
                     "subTitleLangKey": "school_story_2_screen_text20",
-                    "imageUrl": "taoiletPaper2",
+                    "imageUrl": "/static/school/toiletPaper2.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button16"
