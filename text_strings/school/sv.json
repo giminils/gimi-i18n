@@ -157,7 +157,7 @@
   "school_challenge_2_subtitle": "Shop til' you drop",
   "school_challenge_3_title": "Challenge 3",
   "school_challenge_3_subtitle": "Money today",
-  "c": "Is it an income or a cost?",
+  "school_challenge_boldheader_inorcost": "PLZ_CHECK Is it an income or a cost?",
   "school_challenge_boldheader_torf": "True or False?",
   "school_challenge_boldheader_worthmore": "What is worth more?",
   "school_challenge_1_text1": "Pants are more expensive than bread because the raw materials are more expensive.",
