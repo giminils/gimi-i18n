@@ -2294,5 +2294,6 @@
   "allowance_not_set": "PLZ_CHECK No allowance setup from %1$d",
   "monthly_from": "PLZ_CHECK Monthly from %1$d",
   "weekly_from": "PLZ_CHECK Weekly from %1$d",
-  "general_my_children": "PLZ_CHECK My children"
+  "general_my_children": "PLZ_CHECK My children",
+  "activate_new_card_parent": "PLZ_CHECK Activate card"
 }

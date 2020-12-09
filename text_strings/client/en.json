@@ -2294,5 +2294,6 @@
   "allowance_not_set": "No allowance setup from %1$d",
   "monthly_from": "Monthly from %1$d",
   "weekly_from": "Weekly from %1$d",
-  "general_my_children":"My children"
+  "general_my_children":"My children",
+  "activate_new_card_parent":"Activate card"
 }

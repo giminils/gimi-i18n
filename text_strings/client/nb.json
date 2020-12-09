@@ -2294,5 +2294,6 @@
   "allowance_not_set": "PLZ_TRANSLATE No allowance setup from %1$d",
   "monthly_from": "PLZ_TRANSLATE Monthly from %1$d",
   "weekly_from": "PLZ_TRANSLATE Weekly from %1$d",
-  "general_my_children": "PLZ_TRANSLATE My children"
+  "general_my_children": "PLZ_TRANSLATE My children",
+  "activate_new_card_parent": "PLZ_TRANSLATE Activate card"
 }
