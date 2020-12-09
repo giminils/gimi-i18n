@@ -2295,5 +2295,8 @@
   "monthly_from": "Monthly from %1$d",
   "weekly_from": "Weekly from %1$d",
   "general_my_children":"My children",
-  "activate_new_card_parent":"Activate card"
+  "activate_new_card_parent":"Activate card",
+  "general_report_lost":"Report lost",
+  "kid_card_action_button_unblock":"Unblock",
+  "kid_card_action_button_block": "Block"
 }

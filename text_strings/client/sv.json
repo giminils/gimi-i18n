@@ -2295,5 +2295,8 @@
   "monthly_from": "PLZ_CHECK Monthly from %1$d",
   "weekly_from": "PLZ_CHECK Weekly from %1$d",
   "general_my_children": "PLZ_CHECK My children",
-  "activate_new_card_parent": "PLZ_CHECK Activate card"
+  "activate_new_card_parent": "PLZ_CHECK Activate card",
+  "general_report_lost": "PLZ_CHECK Report lost",
+  "kid_card_action_button_unblock": "PLZ_CHECK Unblock",
+  "kid_card_action_button_block": "PLZ_CHECK Block"
 }
