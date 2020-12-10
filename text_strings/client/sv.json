@@ -2298,5 +2298,7 @@
   "activate_new_card_parent": "PLZ_CHECK Activate card",
   "general_report_lost": "PLZ_CHECK Report lost",
   "kid_card_action_button_unblock": "PLZ_CHECK Unblock",
-  "kid_card_action_button_block": "PLZ_CHECK Block"
+  "kid_card_action_button_block": "PLZ_CHECK Block",
+  "due_payday_for_one_kid": "PLZ_CHECK It’s time to pay %1$d",
+  "due_payday_for_multiple_kids": "PLZ_CHECK You have %1$d allowances to pay"
 }

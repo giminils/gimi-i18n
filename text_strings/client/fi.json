@@ -2298,5 +2298,7 @@
   "activate_new_card_parent": "PLZ_TRANSLATE Activate card",
   "general_report_lost": "PLZ_TRANSLATE Report lost",
   "kid_card_action_button_unblock": "PLZ_TRANSLATE Unblock",
-  "kid_card_action_button_block": "PLZ_TRANSLATE Block"
+  "kid_card_action_button_block": "PLZ_TRANSLATE Block",
+  "due_payday_for_one_kid": "PLZ_TRANSLATE It’s time to pay %1$d",
+  "due_payday_for_multiple_kids": "PLZ_TRANSLATE You have %1$d allowances to pay"
 }
