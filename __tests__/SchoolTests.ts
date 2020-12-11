@@ -23,8 +23,8 @@ describe('School tests', () => {
     test('stories should have multiple screens', () => {
         stories.map((story) => {
             const {screens} = story
-            if (screens?.length === 0) warnStoryId(story, 'screens length')
-            expect(screens?.length).toBeGreaterThan(0)
+            if (!screens || screens.length === 0) warnStoryId(story, 'screens length')
+            expect(screens.length).toBeGreaterThan(0)
         })
     })
     test('story screen should have one of: titleLangKey, subTitleLangKey', () => {
@@ -32,7 +32,7 @@ describe('School tests', () => {
             story.screens.map((screen) => {
                 const {titleLangKey, subTitleLangKey} = screen
                 if (!titleLangKey && !subTitleLangKey) warnStoryId(story, 'titleLangKey and subTitleLangKey')
-                expect(titleLangKey?.length || titleLangKey?.length).toBeGreaterThan(0)
+                expect(titleLangKey || subTitleLangKey).toBeDefined()
             })
         })
     })
@@ -40,8 +40,8 @@ describe('School tests', () => {
         stories.map((story) => {
             story.screens.map((screen) => {
                 const {buttons} = screen
-                if (buttons?.length === 0) warnStoryId(story, 'button length')
-                expect(buttons?.length).toBeGreaterThan(0)
+                if (!buttons || buttons.length === 0) warnStoryId(story, 'button length')
+                expect(buttons.length).toBeGreaterThan(0)
             })
         })
     })
@@ -52,7 +52,7 @@ describe('School tests', () => {
                 buttons.forEach((button: {langKey?: string, imageUrl?: string}) => {
                     const {langKey, imageUrl} = button
                     if (!langKey && !imageUrl) warnStoryId(story, 'button langKey and imageUrl')
-                    expect(langKey?.length || imageUrl?.length).toBeGreaterThan(0)
+                    expect(langKey || imageUrl).toBeDefined()
                 })
             })
         })
@@ -83,11 +83,11 @@ describe('School tests', () => {
             expect(CHALLANGE_TYPES.indexOf(type)).toBeGreaterThan(-1)
         })
     })
-    test('challanges should have multiple screens or products', () => {
+    test('challanges should have screens or products', () => {
         challanges.map((challange) => {
             const {screens, products} = challange
             if((!screens || screens.length === 0) && (!products || products.length === 0)) warnchallangeId(challange, 'screens and products')
-            expect(screens?.length || products?.length).toBeGreaterThan(0)
+            expect(screens || products).toBeDefined()
         })
     })
 
