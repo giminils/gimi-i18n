@@ -931,7 +931,7 @@
   "custom_notification_old_client_warning": "Din telefon verkar ha gammal mjukvara, så Gimi kommer snart att sluta funka...",
   "gimi_beta_active_custom_note": "Välkommen till Gimi Beta! Beställ ett Gimi-kort nu.",
   "card_is_on_its_way_takeover_title": "Gimi-kortet är på väg!",
-  "card_is_on_its_way_takeover_subtitle": "Det tar vanligtvis upp till två veckor, men på grund av pandemin och juletider så kan leveransen bli något försenad.",
+  "card_is_on_its_way_takeover_subtitle": "PLZ_CHECK It takes up to two weeks. We sent an order to the card factory, they print your name on it and send it with snail mail.",
   "order_card_done_alternative_title": "Tack för din beställning!",
   "order_card_done_alternative_subtitle": "Gimi-kortet är redo att användas, du kan fylla på kortet direkt!",
   "identity_verified_confirmation_message": "Identitet verifierad!",

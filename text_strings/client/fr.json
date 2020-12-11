@@ -931,7 +931,7 @@
   "custom_notification_old_client_warning": "Votre téléphone fonctionne sur un ancien logiciel, alors Gimi va bientôt cesser de fonctionner pour vous ",
   "gimi_beta_active_custom_note": "Bienvenue sur Gimi Beta! Commander une carte maintenant",
   "card_is_on_its_way_takeover_title": "La carte est en route!",
-  "card_is_on_its_way_takeover_subtitle": "PLZ_TRANSLATE It normally takes up to two weeks, but due to the pandemic and Christmas season it might be a bit delayed. ",
+  "card_is_on_its_way_takeover_subtitle": "PLZ_TRANSLATE It takes up to two weeks. We sent an order to the card factory, they print your name on it and send it with snail mail.",
   "order_card_done_alternative_title": "Commande de carte effectuée titre alternatif",
   "order_card_done_alternative_subtitle": "Commande de carte effectuée sous-titre alternatif",
   "identity_verified_confirmation_message": "Identité vérifiée",

@@ -931,7 +931,7 @@
   "custom_notification_old_client_warning": "Je telefoon draait op oude software, dus Gimi zal spoedig niet meer voor je werken",
   "gimi_beta_active_custom_note": "Welkom bij Gimi Beta! Bestel nu een kaart",
   "card_is_on_its_way_takeover_title": "De kaart is onderweg!",
-  "card_is_on_its_way_takeover_subtitle": "PLZ_TRANSLATE It normally takes up to two weeks, but due to the pandemic and Christmas season it might be a bit delayed. ",
+  "card_is_on_its_way_takeover_subtitle": "PLZ_TRANSLATE It takes up to two weeks. We sent an order to the card factory, they print your name on it and send it with snail mail.",
   "order_card_done_alternative_title": "kaartbestelling gereed alternatieve titel",
   "order_card_done_alternative_subtitle": "kaartbestelling gereed alternative subtitel",
   "identity_verified_confirmation_message": "Identiteit vastgesteld",
