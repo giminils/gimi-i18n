@@ -249,7 +249,7 @@
   "edit_description": "redigera beskrivning",
   "question_frequency": "hur ofta?",
   "chore_recurring_desc": "Uppgiften kommer att dyka upp på nytt i början av varje vecka, men du kan välja vilken veckodag den är tänkt att utföras på:",
-  "chore_always_available_desc": "PLZ_CHECK For the chores you want to be done every day!",
+  "chore_always_available_desc": "För uppgifter du vill ska göras varje dag!",
   "general_go_back": "tillbaka",
   "payment": "betalning för %1$d",
   "connection_error_title": "kan inte ansluta till Gimi",
