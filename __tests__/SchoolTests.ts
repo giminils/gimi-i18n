@@ -1,5 +1,6 @@
 import {challanges, stories, getAllLessons, getLesson} from '../school/School'
 jest.disableAutomock()
+const STORYSCREEN_TYPES = ['DEFAULT', 'PAUSE']
 const CHALLANGE_TYPES = ['ROCKET', 'BANK', 'QUIZ']
 
 let warnStoryId = (story: { id: number }, prop: string) => {
@@ -14,67 +15,56 @@ describe('School tests', () => {
     test('it should return number of stories', () => {
         expect(stories.length).toBeGreaterThan(0)
     })
+    test('stories should have uniqueIDs', () => {
+        let ids: Array<Number> = []
+        stories.map((story) => ids.push(story.id))
+        expect([...new Set(ids)].length === ids.length).toBeTruthy()
+    })
     test('stories should have multiple screens', () => {
         stories.map((story) => {
-            if (story.screens.length === 0) warnStoryId(story, 'screens length')
-            expect(story.screens.length).toBeGreaterThan(0)
+            const {screens} = story
+            if (screens?.length === 0) warnStoryId(story, 'screens length')
+            expect(screens?.length).toBeGreaterThan(0)
+        })
+    })
+    test('story screen should have one of: titleLangKey, subTitleLangKey', () => {
+        stories.map((story) => {
+            story.screens.map((screen) => {
+                const {titleLangKey, subTitleLangKey} = screen
+                if (!titleLangKey && !subTitleLangKey) warnStoryId(story, 'titleLangKey and subTitleLangKey')
+                expect(titleLangKey?.length || titleLangKey?.length).toBeGreaterThan(0)
+            })
         })
     })
     test('story buttons should be array', () => {
         stories.map((story) => {
             story.screens.map((screen) => {
-                if (screen.buttons.length === 0) warnStoryId(story, 'button length')
-                expect(screen.buttons.length).toBeGreaterThan(0)
+                const {buttons} = screen
+                if (buttons?.length === 0) warnStoryId(story, 'button length')
+                expect(buttons?.length).toBeGreaterThan(0)
             })
         })
     })
-    test('story should have titleLangKey', () => {
+    test('story button should have at least one of: langKey, imageUrl', () => {
         stories.map((story) => {
             story.screens.map((screen) => {
-                if (!screen.titleLangKey) warnStoryId(story, 'titleLangKey')
-                expect(screen.titleLangKey).toBeDefined()
-            })
-        })
-    })
-    test('story should have subTitleLangKey', () => {
-        stories.map((story) => {
-            story.screens.map((screen) => {
-                if (!screen.subTitleLangKey) warnStoryId(story, 'subTitleLangKey')
-                expect(screen.subTitleLangKey).toBeDefined()
-            })
-        })
-    })
-    test.skip('story should have imageUrl as a string', () => {
-        stories.map((story) => {
-            story.screens.map((screen) => {
-                if (!screen.imageUrl) warnStoryId(story, 'imageUrl')
-                expect(screen.imageUrl).toBeDefined()
-            })
-        })
-    })
-    test('story should have button langKey or imageUrl', () => {
-        stories.map((story) => {
-            story.screens.map((screen) => {
-                screen.buttons.forEach((button: {langKey?: string, imageUrl?: string}) => {
-                    if (!button.langKey || !button.imageUrl) warnStoryId(story, 'langKey')
-                    expect(button.langKey || button.imageUrl).toBeDefined()
+                const {buttons} = screen
+                buttons.forEach((button: {langKey?: string, imageUrl?: string}) => {
+                    const {langKey, imageUrl} = button
+                    if (!langKey && !imageUrl) warnStoryId(story, 'button langKey and imageUrl')
+                    expect(langKey?.length || imageUrl?.length).toBeGreaterThan(0)
                 })
             })
         })
     })
-    test('story should have a type', () => {
+    test('story screen should have an existing type', () => {
         stories.map((story) => {
             story.screens.map((screen) => {
-                if (!screen.type) warnStoryId(story, 'type')
-                expect(screen.type).toBeDefined()
+                const {type} = screen
+                if (!type || STORYSCREEN_TYPES.indexOf(type) === -1) warnStoryId(story, 'type')
+                expect(STORYSCREEN_TYPES.indexOf(type)).toBeGreaterThan(-1)
             })
         })
-    })
-
-    test('stories should have uniqueIDs', () => {
-        let ids: Array<Number> = []
-        stories.map((story) => ids.push(story.id))
-        expect([...new Set(ids)].length === ids.length).toBeTruthy()
     })
     
     // challanges
@@ -87,10 +77,17 @@ describe('School tests', () => {
         expect([...new Set(ids)].length === ids.length).toBeTruthy()
     })
     test('challanges should have an existing type', () => {
-        let types: Array<String> = []
         challanges.map((challange) => {
-            if (CHALLANGE_TYPES.indexOf(challange.type) === -1) warnchallangeId(challange, 'type')
-            expect(CHALLANGE_TYPES.indexOf(challange.type)).toBeGreaterThan(-1)
+            const {type} = challange
+            if (CHALLANGE_TYPES.indexOf(type) === -1) warnchallangeId(challange, 'type')
+            expect(CHALLANGE_TYPES.indexOf(type)).toBeGreaterThan(-1)
+        })
+    })
+    test('challanges should have multiple screens or products', () => {
+        challanges.map((challange) => {
+            const {screens, products} = challange
+            if((!screens || screens.length === 0) && (!products || products.length === 0)) warnchallangeId(challange, 'screens and products')
+            expect(screens?.length || products?.length).toBeGreaterThan(0)
         })
     })
 
