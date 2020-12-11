@@ -2268,7 +2268,7 @@
   "general_reject": "Försök igen",
   "chores_update_notification": "Vi har förenklat återkommande uppgifter, här kommer en förklaring!",
   "chores_news_title": "Vi har uppdaterat återkommande uppgifter",
-  "chores_news_desc": "PLZ_CHECK Instead of including several days in one chore, you'll choose one day of the week which the chore should be completed on. It will still reccur every week. If you want a chore to be completed every day, choose the category Every day in the chore settings!",
+  "chores_news_desc": "Istället för att inkludera flera dagar i en uppgift, så väljer du 1 dag i veckan som uppgiften ska utföras på. Den kommer fortfarande återkomma varje vecka. Om du vill att uppgiften ska utföras varje dag, välj kategorin Varje dag i inställningarna!",
   "skip_payday_message": "PLZ_CHECK Payday skipped",
   "general_skipped": "Skippad",
   "general_paid": "Betalad",
