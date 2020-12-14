@@ -207,5 +207,6 @@
   "school_general_tutorial_text_3": "In here, I’ll teach you loads of stuff you need to know about money. And the more you learn, the bigger the perks!",
   "school_general_tutorial_text_4": "Are you ready? I hope so! And hey - whenever you need help: just click on me and I’ll explain.",
   "school_earn_more_xp": "Earn more XP in the Superskills Adventure!",
-  "school_continue_on_chapter": "Continue on chapter %1$d"
+  "school_continue_on_chapter": "Continue on chapter %1$d",
+  "school_xp_value": "%1$d XP"
 }
