@@ -2300,5 +2300,6 @@
   "kid_card_action_button_unblock": "PLZ_TRANSLATE Unblock",
   "kid_card_action_button_block": "PLZ_TRANSLATE Block",
   "due_payday_for_one_kid": "PLZ_TRANSLATE It’s time to pay %1$d",
-  "due_payday_for_multiple_kids": "PLZ_TRANSLATE You have %1$d allowances to pay"
+  "due_payday_for_multiple_kids": "PLZ_TRANSLATE You have %1$d allowances to pay",
+  "general_total": "PLZ_TRANSLATE Total"
 }
