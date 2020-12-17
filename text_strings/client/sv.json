@@ -2214,7 +2214,7 @@
   "challange_missing_product_title": "Åh nej! Något gick snett",
   "challange_missing_product_desc": "Vi försöker fixa felet. Medan du väntar kan du läsa berättelsen igen!",
   "setup_kid_allowance_subtitle": "Den baseras på summan i ditt barns spargris, och betalas ut tillsammans med vecko-/månadspengen!",
-  "get_started_card_order_card_title": "Testa Gimi med riktiga pengar, gratis",
+  "get_started_card_order_card_title": "PLZ_CHECK Try Gimi with real money",
   "get_started_card_order_card_subtitle": "Beställ Gimi-kortet!",
   "general_allowance_amount": "Summa",
   "goal_statistics_title": "Mitt mål",
@@ -2305,5 +2305,6 @@
   "allowance_settings_setup_title_monthly": "%1$d får redan månadspeng",
   "allowance_settings_setup_title_weekly": "%1$d får redan veckopeng",
   "allowance_settings_setup_subtitle_weekly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
-  "allowance_settings_setup_subtitle_monthly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg"
+  "allowance_settings_setup_subtitle_monthly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
+  "i_redid_it": "PLZ_CHECK I redid it"
 }
