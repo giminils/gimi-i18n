@@ -2301,5 +2301,9 @@
   "kid_card_action_button_block": "Block",
   "due_payday_for_one_kid": "It’s time to pay %1$d",
   "due_payday_for_multiple_kids": "You have %1$d allowances to pay",
-  "general_total":"Total"
+  "general_total":"Total",
+  "allowance_settings_setup_title_monthly": "%1$d already has monthly allowance",
+  "allowance_settings_setup_title_weekly": "%1$d already has weekly allowance",
+  "allowance_settings_setup_subtitle_weekly": "You can add an additonal allowance in the next step",
+  "allowance_settings_setup_subtitle_monthly": "You can add an additonal allowance in the next step"
 }
