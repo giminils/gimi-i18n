@@ -208,5 +208,6 @@
   "school_general_tutorial_text_4": "PLZ_CHECK Are you ready? I hope so! And hey - whenever you need help: just click on me and I’ll explain.",
   "school_earn_more_xp": "PLZ_CHECK Earn more XP in the Superskills Adventure!",
   "school_continue_on_chapter": "PLZ_CHECK Continue on chapter %1$d",
-  "school_xp_value": "PLZ_CHECK %1$d XP"
+  "school_xp_value": "PLZ_CHECK %1$d XP",
+  "school_xp_value_out_of": "PLZ_CHECK %1$d/%2$d XP"
 }
