@@ -2307,7 +2307,12 @@
   "allowance_settings_setup_subtitle_weekly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
   "allowance_settings_setup_subtitle_monthly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
   "i_redid_it": "Gjort om",
-  "premium_add_money_desc": "PLZ_CHECK What was the money spent on?",
-  "freemium_add_money_desc": "PLZ_CHECK What was the money spent on?",
-  "freemium_deduct_money_desc": "PLZ_CHECK What was the money spent on?"
+  "premium_add_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "freemium_add_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "freemium_deduct_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "payday_expense_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "request_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "send_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "kid_cloud_deduct_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
+  "make_transaction_default_placeholder": "PLZ_CHECK What was the money spent on?"
 }
