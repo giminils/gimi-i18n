@@ -2306,5 +2306,8 @@
   "allowance_settings_setup_title_weekly": "%1$d already has weekly allowance",
   "allowance_settings_setup_subtitle_weekly": "You can add an additonal allowance in the next step",
   "allowance_settings_setup_subtitle_monthly": "You can add an additonal allowance in the next step",
-  "i_redid_it": "I redid it"
+  "i_redid_it": "I redid it",
+  "premium_add_money_desc":"What was the money spent on?",
+  "freemium_add_money_desc":"What was the money spent on?",
+  "freemium_deduct_money_desc": "What was the money spent on?"
 }
