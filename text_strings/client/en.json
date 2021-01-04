@@ -931,7 +931,7 @@
   "custom_notification_old_client_warning": "Your phone is running on old software, so Gimi will soon stop working for you",
   "gimi_beta_active_custom_note": "Welcome to Gimi Beta! Order a card now",
   "card_is_on_its_way_takeover_title": "The card is on its way!",
-  "card_is_on_its_way_takeover_subtitle": "It normally takes up to two weeks, but due to the pandemic and Christmas season it might be a bit delayed.",
+  "card_is_on_its_way_takeover_subtitle": "PLZ_COPY It normally takes 7-14 days before the card reaches your mailbox.",
   "order_card_done_alternative_title": "Thanks for your order!",
   "order_card_done_alternative_subtitle": "The Gimi Card is ready to use, you can deposit money right away!",
   "identity_verified_confirmation_message": "Identity verified",
