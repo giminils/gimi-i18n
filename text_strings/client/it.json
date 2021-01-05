@@ -931,7 +931,7 @@
   "custom_notification_old_client_warning": "Il tuo telefono sta usando un software vecchio, per cui Gimi smetteràdi lavorare per te presto",
   "gimi_beta_active_custom_note": "Benvenuto alla Beta di Gimi! Ordina una carta ora",
   "card_is_on_its_way_takeover_title": "La carta sta arrivando!",
-  "card_is_on_its_way_takeover_subtitle": "PLZ_TRANSLATE It normally takes up to two weeks, but due to the pandemic and Christmas season it might be a bit delayed.",
+  "card_is_on_its_way_takeover_subtitle": "PLZ_TRANSLATE It normally takes 7-14 days before the card reaches your mailbox.",
   "order_card_done_alternative_title": "ordine della carta fatto titolo alternativo",
   "order_card_done_alternative_subtitle": "ordine della carta fatto sottotitolo alternativo",
   "identity_verified_confirmation_message": "Identità verificata",
@@ -2307,12 +2307,12 @@
   "allowance_settings_setup_subtitle_weekly": "PLZ_TRANSLATE You can add an additonal allowance in the next step",
   "allowance_settings_setup_subtitle_monthly": "PLZ_TRANSLATE You can add an additonal allowance in the next step",
   "i_redid_it": "PLZ_TRANSLATE I redid it",
-  "premium_add_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
-  "freemium_add_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
+  "premium_add_money_desc_placeholder": "PLZ_TRANSLATE Where does the money come from?",
+  "freemium_add_money_desc_placeholder": "PLZ_TRANSLATE Where does the money come from?",
   "freemium_deduct_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
   "payday_expense_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
-  "request_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
-  "send_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
+  "request_money_desc_placeholder": "PLZ_TRANSLATE Why do you want the money?",
+  "send_money_desc_placeholder": "PLZ_TRANSLATE Write something to remember!",
   "kid_cloud_deduct_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
-  "make_transaction_default_placeholder": "PLZ_TRANSLATE What was the money spent on?"
+  "make_transaction_default_placeholder": "PLZ_TRANSLATE Write something to remember!"
 }

@@ -931,7 +931,7 @@
   "custom_notification_old_client_warning": "Your phone is running on old software, so Gimi will soon stop working for you",
   "gimi_beta_active_custom_note": "Welcome to Gimi Beta! Order a card now",
   "card_is_on_its_way_takeover_title": "The card is on its way!",
-  "card_is_on_its_way_takeover_subtitle": "PLZ_COPY It normally takes 7-14 days before the card reaches your mailbox.",
+  "card_is_on_its_way_takeover_subtitle": "It normally takes 7-14 days before the card reaches your mailbox.",
   "order_card_done_alternative_title": "Thanks for your order!",
   "order_card_done_alternative_subtitle": "The Gimi Card is ready to use, you can deposit money right away!",
   "identity_verified_confirmation_message": "Identity verified",
@@ -2307,12 +2307,12 @@
   "allowance_settings_setup_subtitle_weekly": "You can add an additonal allowance in the next step",
   "allowance_settings_setup_subtitle_monthly": "You can add an additonal allowance in the next step",
   "i_redid_it": "I redid it",
-  "premium_add_money_desc_placeholder": "PLZ_COPY Where does the money come from?",
-  "freemium_add_money_desc_placeholder": "PLZ_COPY Where does the money come from?",
+  "premium_add_money_desc_placeholder": "Where does the money come from?",
+  "freemium_add_money_desc_placeholder": "Where does the money come from?",
   "freemium_deduct_money_desc_placeholder": "What was the money spent on?",
   "payday_expense_desc_placeholder": "What was the money spent on?",
-  "request_money_desc_placeholder": "PLZ_COPY Why do you want the money?",
-  "send_money_desc_placeholder": "PLZ_COPY Write something to remember!",
+  "request_money_desc_placeholder": "Why do you want the money?",
+  "send_money_desc_placeholder": "Write something to remember!",
   "kid_cloud_deduct_money_desc_placeholder": "What was the money spent on?",
-  "make_transaction_default_placeholder": "PLZ_COPY Write something to remember!"
+  "make_transaction_default_placeholder": "Write something to remember!"
 }
