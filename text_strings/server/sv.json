@@ -527,6 +527,8 @@
   "ADGERE009_push_title": "Du har fått ett förslag på uppgift från {child.nickname}. Spana in den!",
   "weekly_allowance": "Veckopeng",
   "monthly_allowance": "Månadspeng",
+  "weekly_allowance_v2": "veckopeng",
+  "monthly_allowance_v2": "månadspeng",
   "ADFRRE001_push_title": "Dags för {allowance_frequency} för {child.nickname}! Se hur mycket som har lagts till i spargrisen",
   "CHPRRE002_notification_title": "Din {allowance_frequency} har betalats ut av {parent.nickname}",
   "CHPRRE002_push_title": "Din {allowance_frequency} har betalats ut av {parent.nickname}",

@@ -527,6 +527,8 @@
   "ADGERE009_push_title": "PLZ_TRANSLATE You got a chore suggestion from {child.nickname}. Check it out!",
   "weekly_allowance": "PLZ_TRANSLATE weekly allowance",
   "monthly_allowance": "PLZ_TRANSLATE monthly allowance",
+  "weekly_allowance_v2": "PLZ_TRANSLATE weekly allowance",
+  "monthly_allowance_v2": "PLZ_TRANSLATE monthly allowance",
   "ADFRRE001_push_title": "PLZ_TRANSLATE It's time for {allowance_frequency} for {child.nickname}! Check out how much money was added to their piggybank",
   "CHPRRE002_notification_title": "PLZ_TRANSLATE Your {allowance_frequency} has been paid out by {parent.nickname}",
   "CHPRRE002_push_title": "PLZ_TRANSLATE Your {allowance_frequency} has been paid out by {parent.nickname}",
