@@ -107,7 +107,7 @@
                     "id": 7,
                     "type": "PAUSE",
                     "titleLangKey": "school_story_1_pause_title",
-                    "subTitleLangKey": "school_story_1_pause_subtitle",
+                    "subTitleLangKey": "",
                     "imageUrl": "/static/school/piggySwim.png",
                     "buttons": [
                         {
@@ -308,7 +308,7 @@
                     "id": 7,
                     "type": "PAUSE",
                     "titleLangKey": "school_story_1_pause_title",
-                    "subTitleLangKey": "school_story_1_pause_subtitle",
+                    "subTitleLangKey": "",
                     "imageUrl": "/static/school/piggySwim.png",
                     "buttons": [
                         {
@@ -526,7 +526,7 @@
                 {
                     "id": 8,
                     "type": "PAUSE",
-                    "titleLangKey": "school_story_1_pause_subtitle",
+                    "titleLangKey": "",
                     "subTitleLangKey": "",
                     "imageUrl": "/static/school/piggySwim.png",
                     "buttons": [
