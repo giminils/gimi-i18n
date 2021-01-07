@@ -14,12 +14,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "",
+                            "langKey": "Pants",
                             "imageUrl": "/static/school/food and merch/pants.png",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "",
+                            "langKey": "Bread",
                             "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         }
@@ -52,12 +52,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "",
+                            "langKey": "Bread",
                             "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "",
+                            "langKey": "Head phones",
                             "imageUrl": "/static/school/food and merch/headphones2.png",
                             "isCorrect": true
                         }
@@ -90,12 +90,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "",
+                            "langKey": "Basketball",
                             "imageUrl": "/static/school/food and merch/basketball.png",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "",
+                            "langKey": "Pants",
                             "imageUrl": "/static/school/food and merch/pants.png",
                             "isCorrect": true
                         }
@@ -128,12 +128,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "",
+                            "langKey": "Basketball",
                             "imageUrl": "/static/school/food and merch/basketball.png",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "",
+                            "langKey": "Bread",
                             "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         }
@@ -166,12 +166,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "",
+                            "langKey": "Pizza",
                             "imageUrl": "/static/school/food and merch/pizza.png",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "",
+                            "langKey": "Computer",
                             "imageUrl": "/static/school/food and merch/computer.png",
                             "isCorrect": true
                         }
@@ -203,52 +203,52 @@
             "type": "BANK",
             "products": [
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title1",
                     "price": 10,
                     "imageUrl": "/static/school/food and merch/pen.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title2",
                     "price": 145,
                     "imageUrl": "/static/school/food and merch/basketball.png"
                 },
                                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title3",
                     "price": 25,
                     "imageUrl": "/static/school/food and merch/icecream.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title4",
                     "price": 65,
                     "imageUrl": "/static/school/food and merch/candyBag.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title5",
                     "price": 350,
                     "imageUrl": "/static/school/food and merch/pants.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title6",
                     "price": 1995,
                     "imageUrl": "/static/school/food and merch/headphones2.png"
                 },
                                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title7",
                     "price": 80,
                     "imageUrl": "/static/school/food and merch/pizza.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title8",
                     "price": 455,
                     "imageUrl": "/static/school/food and merch/game.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title9",
                     "price": 2450,
                     "imageUrl": "/static/school/food and merch/computer.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_bank_title",
+                    "titleLangKey": "school_challenge_bank1_title10",
                     "price": 990,
                     "imageUrl": "/static/school/food and merch/sneakers.png"
                 }
