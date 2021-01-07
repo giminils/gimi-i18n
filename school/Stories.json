@@ -206,7 +206,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_answer_general_okidoki"
+                            "langKey": "school_answer_general_cool"
                         }
 
                     ]
@@ -378,7 +378,7 @@
                             "langKey": "school_answer_general_idnk"
                         },
                         {
-                            "langKey": "school_screen_button15"
+                            "langKey": "school_answer_general_thatcrazy"
                         }
                     ]
                 },
@@ -390,7 +390,7 @@
                     "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
-                            "langKey": "school_answer_general_thatcrazy"
+                            "langKey": "school_screen_button15"
                         }
                     ]
                 },
