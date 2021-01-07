@@ -75,19 +75,19 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "Head phones",
+                            "langKey": "school_picture_title_headphones2",
                             "imageUrl": "/static/school/food and merch/headphones2.png"
                         },
                         {
-                            "langKey": "Diamond",
+                            "langKey": "school_picture_title_diamond1",
                             "imageUrl": "/static/school/diamond.png"
                         },
                         {
-                            "langKey": "Bag of candy",
+                            "langKey": "school_picture_title_candy1",
                             "imageUrl": "/static/school/food and merch/candyBag.png"
                         },
                         {
-                            "langKey": "Computer",
+                            "langKey": "school_picture_title_computer1",
                             "imageUrl": "/static/school/food and merch/computer.png"
                         }
                     ]
