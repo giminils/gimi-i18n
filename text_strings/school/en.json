@@ -223,8 +223,13 @@
   "school_general_tutorial_text_2": "To get rich, you need to learn some hacks on how to handle money wisely. Lucky for you, I know a lot.",
   "school_general_tutorial_text_3": "In here, I’ll teach you loads of stuff you need to know about money. And the more you learn, the bigger the perks!",
   "school_general_tutorial_text_4": "Are you ready? I hope so! And hey - whenever you need help: just click on me and I’ll explain.",
+  "school_start_earn_xp": "Start earning XP in the Superskills Adventure!",
   "school_earn_more_xp": "Earn more XP in the Superskills Adventure!",
+  "school_no_more_xp_to_earn": "No more XP to earn in the Superskills Adventure!",
+  "school_click_to_get_started": "Click here to get started",
   "school_continue_on_chapter": "Continue on Chapter %1$d",
+  "school_beat_your_old_scores": "Try to beat your old scores",
+  "school_redo_chapters_anyway": "Redo the chapters anyway",
   "school_xp_value": "%1$d XP",
   "school_xp_value_out_of": "%1$d/%2$d XP"
 }
