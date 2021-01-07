@@ -2220,7 +2220,7 @@
   "goal_statistics_title": "Mitt mål",
   "payday_status_upcoming": "Inte dags än. Kom tillbaka %1$d",
   "payday_status_to_be_paid": "Ska betalas ut idag!",
-  "payday_status_late": "PLZ_CHECK %1$d days(s) late. Pay today!",
+  "payday_status_late": "PLZ_CHECK %1$d day(s) late. Pay today!",
   "total_amount_in": "Totalt %1$d",
   "general_included": "Inkluderat",
   "pin_added_message": "Lösenkod tillagd!",

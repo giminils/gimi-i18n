@@ -2220,7 +2220,7 @@
   "goal_statistics_title": "My goal",
   "payday_status_upcoming": "Coming up. Check back on %1$d",
   "payday_status_to_be_paid": "To be paid out today!",
-  "payday_status_late": "PLZ_COPY %1$d day(s) late. Pay today!",
+  "payday_status_late": "%1$d day(s) late. Pay today!",
   "total_amount_in": "Total %1$d",
   "general_included": "Included",
   "pin_added_message": "Passcode added!",
