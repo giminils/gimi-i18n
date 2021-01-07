@@ -14,12 +14,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "Pants",
+                            "langKey": "school_picture_title_pants1",
                             "imageUrl": "/static/school/food and merch/pants.png",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "Bread",
+                            "langKey": "school_picture_title_bread1",
                             "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         }
@@ -52,12 +52,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "Bread",
+                            "langKey": "school_picture_title_bread1",
                             "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "Head phones",
+                            "langKey": "school_picture_title_headphones2",
                             "imageUrl": "/static/school/food and merch/headphones2.png",
                             "isCorrect": true
                         }
@@ -90,12 +90,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "Basketball",
+                            "langKey": "school_picture_title_basketball1",
                             "imageUrl": "/static/school/food and merch/basketball.png",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "Pants",
+                            "langKey": "school_picture_title_pants1",
                             "imageUrl": "/static/school/food and merch/pants.png",
                             "isCorrect": true
                         }
@@ -128,12 +128,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "Basketball",
+                            "langKey": "school_picture_title_basketball1",
                             "imageUrl": "/static/school/food and merch/basketball.png",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "Bread",
+                            "langKey": "school_picture_title_bread1",
                             "imageUrl": "/static/school/food and merch/breadButter.png",
                             "isCorrect": false
                         }
@@ -166,12 +166,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "Pizza",
+                            "langKey": "school_picture_title_pizza1",
                             "imageUrl": "/static/school/food and merch/pizza.png",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "Computer",
+                            "langKey": "school_picture_title_computer1",
                             "imageUrl": "/static/school/food and merch/computer.png",
                             "isCorrect": true
                         }
