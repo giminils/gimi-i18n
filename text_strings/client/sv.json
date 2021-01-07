@@ -2307,12 +2307,12 @@
   "allowance_settings_setup_subtitle_weekly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
   "allowance_settings_setup_subtitle_monthly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
   "i_redid_it": "Gjort om",
-  "premium_add_money_desc_placeholder": "PLZ_CHECK Where does the money come from?",
-  "freemium_add_money_desc_placeholder": "PLZ_CHECK Where does the money come from?",
-  "freemium_deduct_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
-  "payday_expense_desc_placeholder": "PLZ_CHECK What was the money spent on?",
-  "request_money_desc_placeholder": "PLZ_CHECK Why do you want the money?",
-  "send_money_desc_placeholder": "PLZ_CHECK Write something to remember!",
-  "kid_cloud_deduct_money_desc_placeholder": "PLZ_CHECK What was the money spent on?",
-  "make_transaction_default_placeholder": "PLZ_CHECK Write something to remember!"
+  "premium_add_money_desc_placeholder": "Var kommer pengarna ifrån?",
+  "freemium_add_money_desc_placeholder": "Var kommer pengarna ifrån?",
+  "freemium_deduct_money_desc_placeholder": "Vad spenderades pengarna på?",
+  "payday_expense_desc_placeholder": "Vad spenderades pengarna på?",
+  "request_money_desc_placeholder": "Varför vill du ha pengarna?",
+  "send_money_desc_placeholder": "Skriv något för att komma ihåg!",
+  "kid_cloud_deduct_money_desc_placeholder": "Vad spenderades pengarna på?",
+  "make_transaction_default_placeholder": "Skriv något för att komma ihåg!"
 }
