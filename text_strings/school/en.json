@@ -231,5 +231,7 @@
   "school_beat_your_old_scores": "Try to beat your old scores",
   "school_redo_chapters_anyway": "Redo the chapters anyway",
   "school_xp_value": "%1$d XP",
-  "school_xp_value_out_of": "%1$d/%2$d XP"
+  "school_xp_value_out_of": "%1$d/%2$d XP",
+  "school_shop_intro_title": "Welcome to the Gimi store! It’s time to shop.",
+  "school_shop_intro_subtitle": "In Gimi we use a currency called Piggybucks (PB). It’s the same for all countries in the world!"
 }
