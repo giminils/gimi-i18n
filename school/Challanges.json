@@ -379,7 +379,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_inorcost",
                     "titleLangKey":  "school_challenge_3_text7",
                     "subTitleLangKey": "",
-                    "imageUrl": "/static/school/sodaBulle.png",
+                    "imageUrl": "/static/school/food and merch/sodaBulle.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_income",
