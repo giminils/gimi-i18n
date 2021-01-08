@@ -449,6 +449,9 @@
                         },
                         {
                             "langKey": "school_answer_general_idk"
+                        },
+                         {
+                            "langKey": "school_answer_general_sometimes"
                         }
                     ]
                 },
@@ -550,9 +553,6 @@
                             "langKey": "school_answer_general_nowunderstand"
                         },
                         {
-                            "langKey": "school_answer_general_okidoki"
-                        },
-                        {
                             "langKey": "school_answer_general_weird"
                         }
                    ]
@@ -572,6 +572,9 @@
                         },
                         {
                             "langKey": "school_screen_button30"
+                        },
+                        {
+                            "langKey": "school_answer_general_idnk"
                         }
 
                     ]
