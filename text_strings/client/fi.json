@@ -2316,5 +2316,5 @@
   "kid_cloud_deduct_money_desc_placeholder": "PLZ_TRANSLATE What was the money spent on?",
   "make_transaction_default_placeholder": "PLZ_TRANSLATE Write something to remember!",
   "chore_suggestion_deleted": "PLZ_TRANSLATE Already deleted",
-  "chore_suggestion_deleted_added": "PLZ_TRANSLATE Already added"
+  "chore_suggestion_added": "PLZ_TRANSLATE Already added"
 }
