@@ -2314,5 +2314,7 @@
   "request_money_desc_placeholder": "Why do you want the money?",
   "send_money_desc_placeholder": "Write something to remember!",
   "kid_cloud_deduct_money_desc_placeholder": "What was the money spent on?",
-  "make_transaction_default_placeholder": "Write something to remember!"
+  "make_transaction_default_placeholder": "Write something to remember!",
+  "chore_suggestion_deleted":"Already deleted",
+  "chore_suggestion_deleted_added":"Already added"
 }

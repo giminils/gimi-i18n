@@ -2314,5 +2314,7 @@
   "request_money_desc_placeholder": "Varför vill du ha pengarna?",
   "send_money_desc_placeholder": "Skriv något för att komma ihåg!",
   "kid_cloud_deduct_money_desc_placeholder": "Vad spenderades pengarna på?",
-  "make_transaction_default_placeholder": "Skriv något för att komma ihåg!"
+  "make_transaction_default_placeholder": "Skriv något för att komma ihåg!",
+  "chore_suggestion_deleted": "PLZ_CHECK Already deleted",
+  "chore_suggestion_deleted_added": "PLZ_CHECK Already added"
 }
