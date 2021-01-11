@@ -86,7 +86,7 @@
   "event_child_could_not_be_connected": "Ihopkoppling misslyckades",
   "event_chore_was_not_approved": "{rejected_by.nickname} godkände inte {chore.title}",
   "event_reminder_of_chore": "Påminnelse om {chore.title}",
-  "event_chore_is_deleted": "{chore.title} har raderats",
+  "event_chore_is_deleted": "PLZ_CHECK {chore.title} has been deleted. Suggest another chore!",
   "event_interest_rate_is_changed_to_x": "Bonusen på ditt sparande har ändrats till {x}%",
   "push_create_new_dream": "Skapa ett nytt mål!",
   "event_withdrawal_made_from_your_cloud": "{parent.nickname} drog av från spargrisen",

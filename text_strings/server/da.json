@@ -86,7 +86,7 @@
   "event_child_could_not_be_connected": "Der kunne ikke oprettes forbindelse til barnet",
   "event_chore_was_not_approved": "{rejected_by.nickname} har afvist {chore.title}",
   "event_reminder_of_chore": "Påmindelse for {chore.title}",
-  "event_chore_is_deleted": "{chore.title} er slettet",
+  "event_chore_is_deleted": "PLZ_TRANSLATE {chore.title} has been deleted. Suggest another chore!",
   "event_interest_rate_is_changed_to_x": " Renten er ændret til {x}%",
   "push_create_new_dream": "PLZ_TRANSLATE Create a new goal!",
   "event_withdrawal_made_from_your_cloud": "{parent.nickname} fratrukket fra din sparegris.",
