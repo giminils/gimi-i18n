@@ -14,7 +14,7 @@
             "titleLangKey": "school_chapter_2_title",
             "subtitleLangKey": "school_chapter_2_subtitle",
             "imageUrl": "",
-            "lessonIds": []
+            "lessonIds": [4, 5, 6]
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "titleLangKey": "school_chapter_3_title",
             "subtitleLangKey": "school_chapter_3_subtitle",
             "imageUrl": "",
-            "lessonIds": []
+            "lessonIds": [7, 8, 9]
         }
     ]
 }
