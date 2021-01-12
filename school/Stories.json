@@ -79,7 +79,7 @@
                             "imageUrl": "/static/school/food and merch/headphones2.png"
                         },
                         {
-                            "langKey": "school_picture_title_diamond1",
+                            "langKey": "school_picture_title_bread1",
                             "imageUrl": "/static/school/diamond.png"
                         },
                         {
@@ -97,7 +97,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_1_screen_text9",
                     "subTitleLangKey": "school_story_1_screen_text10",
-                    "imageUrl": "/static/school/diamond.png",
+                    "imageUrl": "/static/school/food and merch/computer.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_nowronganswer"
