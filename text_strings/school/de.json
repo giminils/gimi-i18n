@@ -233,5 +233,9 @@
   "school_xp_value": "PLZ_TRANSLATE %1$d XP",
   "school_xp_value_out_of": "PLZ_TRANSLATE %1$d/%2$d XP",
   "school_shop_intro_title": "PLZ_TRANSLATE Welcome to the Gimi store! It’s time to shop.",
-  "school_shop_intro_subtitle": "PLZ_TRANSLATE In Gimi we use a currency called Piggybucks (PB). It’s the same for all countries in the world!"
+  "school_shop_intro_subtitle": "PLZ_TRANSLATE In Gimi we use a currency called Piggybucks (PB). It’s the same for all countries in the world!",
+  "school_chapter_disabled_title": "PLZ_TRANSLATE This chapter isn’t released yet",
+  "school_chapter_disabled_subtitle": "PLZ_TRANSLATE Good things comes to those who wait. Redo the other chapters while waiting!",
+  "school_lesson_disabled_title": "PLZ_TRANSLATE This part is locked until you’ve completed the previous one",
+  "school_lesson_disabled_subtitle": "PLZ_TRANSLATE You’re doing so good, keep up with that!"
 }

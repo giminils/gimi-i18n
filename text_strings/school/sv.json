@@ -233,5 +233,9 @@
   "school_xp_value": "%1$d XP",
   "school_xp_value_out_of": "%1$d/%2$d XP",
   "school_shop_intro_title": "Välkommen till Gimi-affären! Det är dags att shoppa.",
-  "school_shop_intro_subtitle": "Här i Gimi använder vi en valuta som heter Piggybucks (PB). Valuta är ett annat ord för pengar!"
+  "school_shop_intro_subtitle": "Här i Gimi använder vi en valuta som heter Piggybucks (PB). Valuta är ett annat ord för pengar!",
+  "school_chapter_disabled_title": "PLZ_CHECK This chapter isn’t released yet",
+  "school_chapter_disabled_subtitle": "PLZ_CHECK Good things comes to those who wait. Redo the other chapters while waiting!",
+  "school_lesson_disabled_title": "PLZ_CHECK This part is locked until you’ve completed the previous one",
+  "school_lesson_disabled_subtitle": "PLZ_CHECK You’re doing so good, keep up with that!"
 }
