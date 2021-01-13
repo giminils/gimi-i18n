@@ -42,3 +42,7 @@ export let getChapter = (id: number) => {
 export let getAvailableChapters = () => {
   return chapters.filter((chapter) => !chapter.isLocked)
 }
+
+export let getChapterByLessonId = (id: number) => {
+  return chapters.find((chapter) => chapter.lessonIds.includes(id))
+}
