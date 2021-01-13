@@ -90,6 +90,28 @@ describe('School tests', () => {
       expect(screens || products).toBeDefined()
     })
   })
+  test('quiz challenges should have exactly 1 correct answer', () => {
+    challanges.map((challange) => {
+      const {screens} = challange
+      if (screens)
+        screens.map((screen) => {
+          const {buttons} = screen
+          const correctAnwers = buttons.filter((button) => button.isCorrect === true).length
+          if (correctAnwers !== 1) warnchallangeId(challange, 'correct answers')
+          expect(correctAnwers).toBe(1)
+        })
+    })
+  })
+  test('bank challenges price should be Int bigger than 0', () => {
+    challanges.map((challange) => {
+      const {products} = challange
+      if (products)
+        products.map(({price}: {price: number}) => {
+          if (!price || !Number.isInteger(price) || price < 1) warnchallangeId(challange, 'price')
+          expect(!!price && Number.isInteger(price) && price > 0).toBeTruthy()
+        })
+    })
+  })
 
   // LESSONS
   test('getAllLessons should return multiple lessons', () => {
