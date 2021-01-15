@@ -8,7 +8,7 @@
             "imageUrl": "/static/school/piggyDucky.png",
             "type": "DEFAULT",
             "storyId": 1,
-            "challangeId": 1
+            "challengeId": 1
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "imageUrl": "/static/school/piggyBreadLoad.png",
             "type": "DEFAULT",
             "storyId": 2,
-            "challangeId": 2
+            "challengeId": 2
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "imageUrl": "/static/school/piggyPortal.png",
             "type": "DEFAULT",
             "storyId": 3,
-            "challangeId": 3
+            "challengeId": 3
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "imageUrl": "https://picsum.photos/200/300",
             "type": "DEFAULT",
             "storyId": 4,
-            "challangeId": 4
+            "challengeId": 4
         },
         {
             "id": 5,
@@ -46,8 +46,8 @@
             "titleLangKey": "school_lesson_5_title",
             "subtitleLangKey": "school_lesson_5_subtitle",
             "imageUrl": "https://picsum.photos/200/300",
-            "type": "CHALLANGE",
-            "challangeId": 5
+            "type": "challenge",
+            "challengeId": 5
         },
         {
             "id": 6,
@@ -55,8 +55,8 @@
             "titleLangKey": "school_lesson_6_title",
             "subtitleLangKey": "school_lesson_6_subtitle",
             "imageUrl": "https://picsum.photos/200/300",
-            "type": "CHALLANGE",
-            "challangeId": 6
+            "type": "challenge",
+            "challengeId": 6
         }
     ]
 }

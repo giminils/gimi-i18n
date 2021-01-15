@@ -1,19 +1,19 @@
 import * as Chapters from './Chapters.json'
 import * as Lessons from './Lessons.json'
 import * as Stories from './Stories.json'
-import * as Challanges from './Challanges.json'
+import * as Challenges from './Challenges.json'
 
 export const stories = Stories.data
-export const challanges = Challanges.data
+export const challenges = Challenges.data
 export const chapters = Chapters.data
 export const lessons = Lessons.data
 
 export let getAllLessons = () => {
   return lessons.map((lesson) => {
     let story = stories.find((story) => story.id === lesson.storyId)
-    let challange = challanges.find((challange) => challange.id === lesson.challangeId)
+    let challenge = challenges.find((challenge) => challenge.id === lesson.challengeId)
     const {id, type, isEnabled, titleLangKey, subtitleLangKey, imageUrl} = lesson
-    return {id, type, isEnabled, titleLangKey, subtitleLangKey, imageUrl, story, challange}
+    return {id, type, isEnabled, titleLangKey, subtitleLangKey, imageUrl, story, challenge}
   })
 }
 

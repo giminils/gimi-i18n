@@ -1,14 +1,14 @@
-import {challanges, stories, getAllLessons, getLesson} from '../school/School'
+import {challenges, stories, getAllLessons, getLesson} from '../school/School'
 jest.disableAutomock()
 const STORYSCREEN_TYPES = ['DEFAULT', 'PAUSE']
-const CHALLANGE_TYPES = ['ROCKET', 'BANK', 'QUIZ']
+const CHALLENGE_TYPES = ['ROCKET', 'BANK', 'QUIZ']
 
 let warnStoryId = (story: { id: number }, prop: string) => {
   console.warn(`Story with id: ${story.id} having problems with: ${prop} `)
 }
 
-let warnchallangeId = (CHALLANGE: { id: number }, prop: string) => {
-  console.warn(`CHALLANGE with id: ${CHALLANGE.id} having problems with: ${prop} `)
+let warnChallengeId = (challenge: { id: number }, prop: string) => {
+  console.warn(`Challenge with id: ${challenge.id} having problems with: ${prop} `)
 }
 describe('School tests', () => {
   // STORIES
@@ -50,25 +50,25 @@ describe('School tests', () => {
     })
   })
 
-  // challanges
-  test('it should return number of challanges', () => {
-    expect(challanges.length).toBeGreaterThan(0)
+  // Challenge
+  test('it should return number of challenges', () => {
+    expect(challenges.length).toBeGreaterThan(0)
   })
-  test('challanges should have uniqueIDs', () => {
+  test('challenges should have uniqueIDs', () => {
     let ids: Array<Number> = []
-    challanges.map((challange) => ids.push(challange.id))
+    challenges.map((challenge) => ids.push(challenge.id))
     expect([...new Set(ids)].length === ids.length).toBeTruthy()
   })
-  challanges.map((challange) => {
-    const {type, screens, products} = challange
-    test('challanges should have an existing type', () => {
-      if (CHALLANGE_TYPES.indexOf(type) === -1) warnchallangeId(challange, 'type')
-      expect(CHALLANGE_TYPES.indexOf(type)).toBeGreaterThan(-1)
+  challenges.map((challenge) => {
+    const {type, screens, products} = challenge
+    test('challenges should have an existing type', () => {
+      if (CHALLENGE_TYPES.indexOf(type) === -1) warnChallengeId(challenge, 'type')
+      expect(CHALLENGE_TYPES.indexOf(type)).toBeGreaterThan(-1)
     })
     switch (type) {
       case 'QUIZ':
         test('quiz challenges should have screens', () => {
-          if ((!screens || screens.length === 0)) warnchallangeId(challange, 'screens')
+          if ((!screens || screens.length === 0)) warnChallengeId(challenge, 'screens')
           expect(screens).toBeDefined()
         })
         test('quiz challenge screen should have exactly 1 correct answer', () => {
@@ -76,20 +76,20 @@ describe('School tests', () => {
             screens.map((screen) => {
               const {buttons} = screen
               const correctAnwers = buttons.filter((button) => button.isCorrect === true).length
-              if (correctAnwers !== 1) warnchallangeId(challange, 'correct answers')
+              if (correctAnwers !== 1) warnChallengeId(challenge, 'correct answers')
               expect(correctAnwers).toBe(1)
             })
         })
         break
       case 'BANK':
         test('bank challenges should have products', () => {
-          if (!products || products.length === 0) warnchallangeId(challange, 'products')
+          if (!products || products.length === 0) warnChallengeId(challenge, 'products')
           expect(products).toBeDefined()
         })
         test('bank challenge product price should be Int bigger than 0', () => {
           if (products)
             products.map(({price}: {price: number}) => {
-              if (!price || !Number.isInteger(price) || price < 1) warnchallangeId(challange, 'price')
+              if (!price || !Number.isInteger(price) || price < 1) warnChallengeId(challenge, 'price')
               expect(!!price && Number.isInteger(price) && price > 0).toBeTruthy()
             })
         })
