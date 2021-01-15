@@ -102,7 +102,6 @@ import esNativeErrorMessages from './native/error-messages/es.json'
 import deNativeErrorMessages from './native/error-messages/de.json'
 
 const Accounting = require('accounting')
-import flatten from 'flat'
 const CountryCodes = require('./CountryCodes.json')
 import Regions from './Regions.json'
 import {getCardQuestion, getCardAnswer, getInfluencerPortalAnswer, getFinLitQuestion, getFinLitAnswer} from './SharedStrings'
@@ -114,6 +113,8 @@ import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
 import ExperimentalCourses from './Education'
 import * as School from './school/School'
+import AllowanceSuggestions from './AllowanceSuggestions'
+
 export let supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
 export let gimiWebLanguageCodes = ['en', 'sv', 'no']
 export let supportedTimeZonesAndroid =
@@ -137,7 +138,7 @@ export const getSupportedCurrencyInfos = (): Array<{code: string, name: string, 
   {code: 'CAD', name: 'Canadian Dollar', langKey: 'currency_cad'},
   {code: 'NZD', name: 'New Zealand Dollar', langKey: 'currency_nzd'},
   {code: 'ISK', name: 'Iceland Krona', langKey: 'currency_isk'},
-  {code: 'CHF', name: 'Swiss Franc', langKey: 'currency_chf'},
+  {code: 'CHF', name: 'Swiss Franc', langKey: 'currency_chf'}
 ]
 
 export const getEducationStrings = (lang: string) => {
@@ -409,3 +410,5 @@ export function formatDecimals (value: number): number {
 }
 
 export const SchoolHelper = School
+
+export const AllowanceSuggestionsByCountry = AllowanceSuggestions

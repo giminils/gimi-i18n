@@ -1,6 +1,6 @@
 // @flow
 export default {
-  default: {
+  'default': {
     'weekly': {
       '8': 2.0,
       '9': 2.5,
