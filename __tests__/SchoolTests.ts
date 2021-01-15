@@ -27,14 +27,14 @@ describe('School tests', () => {
       expect(screens.length).toBeGreaterThan(0)
     })
     screens.map((screen) => {
-      const {type, titleLangKey, subTitleLangKey, buttons} = screen
+      const {type, titleLangKey, subtitleLangKey, buttons} = screen
       test('story screen should have an existing type', () => {
         if (!type || STORYSCREEN_TYPES.indexOf(type) === -1) warnStoryId(story, 'type')
         expect(STORYSCREEN_TYPES.indexOf(type)).toBeGreaterThan(-1)
       })
-      test('story screen should have one of: titleLangKey, subTitleLangKey', () => {
-        if (!titleLangKey && !subTitleLangKey) warnStoryId(story, 'titleLangKey and subTitleLangKey')
-        expect(titleLangKey || subTitleLangKey).toBeDefined()
+      test('story screen should have one of: titleLangKey, subtitleLangKey', () => {
+        if (!titleLangKey && !subtitleLangKey) warnStoryId(story, 'titleLangKey and subtitleLangKey')
+        expect(titleLangKey || subtitleLangKey).toBeDefined()
       })
       test('story buttons should be array', () => {
         if (!buttons || buttons.length === 0) warnStoryId(story, 'button length')
