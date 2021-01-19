@@ -2317,5 +2317,5 @@
   "make_transaction_default_placeholder": "Write something to remember!",
   "chore_suggestion_deleted": "Already deleted",
   "chore_suggestion_added": "Already added",
-  "no_chore_set":"No chore set"
+  "no_chore_set":"PLZ_COPY No chores yet"
 }
