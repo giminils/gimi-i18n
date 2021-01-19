@@ -237,6 +237,6 @@
   "school_chapter_disabled_title": "This chapter isn’t released yet",
   "school_chapter_disabled_subtitle": "Good things comes to those who wait. Redo the other chapters while waiting!",
   "school_lesson_disabled_title": "This part is locked until you’ve completed the previous one",
-  "school_lesson_disabled_subtitle": "You’re doing so good, keep up with that!"
-
+  "school_lesson_disabled_subtitle": "You’re doing so good, keep up with that!",
+  "school_undo": "Undo"
 }
