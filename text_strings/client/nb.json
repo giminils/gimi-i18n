@@ -2321,5 +2321,12 @@
   "general_completed_on": "PLZ_TRANSLATE Was completed on %1$d",
   "gimi_tutorial_4_steps": "PLZ_TRANSLATE How to use Gimi in 4 steps",
   "tutorial_peek_instructions": "PLZ_TRANSLATE Click and hold the thumbnails to see more!",
-  "gimi_tutorial_3_steps": "PLZ_TRANSLATE How to use Gimi in 3 steps"
+  "gimi_tutorial_3_steps": "PLZ_TRANSLATE How to use Gimi in 3 steps",
+  "tutorial_invite_child": "PLZ_TRANSLATE Invite a child",
+  "tutorial_setup_allowance": "PLZ_TRANSLATE Set up an allowance",
+  "tutorial_create_chore": "PLZ_TRANSLATE Create a chore",
+  "tutorial_order_card": "PLZ_TRANSLATE Order the Gimi Card",
+  "tutorial_invite_parent": "PLZ_TRANSLATE Invite a parent",
+  "tutorial_suggest_chore": "PLZ_TRANSLATE Suggest a chore",
+  "tutorial_create_goal": "PLZ_TRANSLATE Create a goal"
 }

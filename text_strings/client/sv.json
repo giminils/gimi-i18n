@@ -2321,5 +2321,12 @@
   "general_completed_on": "PLZ_CHECK Was completed on %1$d",
   "gimi_tutorial_4_steps": "PLZ_CHECK How to use Gimi in 4 steps",
   "tutorial_peek_instructions": "PLZ_CHECK Click and hold the thumbnails to see more!",
-  "gimi_tutorial_3_steps": "PLZ_CHECK How to use Gimi in 3 steps"
+  "gimi_tutorial_3_steps": "PLZ_CHECK How to use Gimi in 3 steps",
+  "tutorial_invite_child": "PLZ_CHECK Invite a child",
+  "tutorial_setup_allowance": "PLZ_CHECK Set up an allowance",
+  "tutorial_create_chore": "PLZ_CHECK Create a chore",
+  "tutorial_order_card": "PLZ_CHECK Order the Gimi Card",
+  "tutorial_invite_parent": "PLZ_CHECK Invite a parent",
+  "tutorial_suggest_chore": "PLZ_CHECK Suggest a chore",
+  "tutorial_create_goal": "PLZ_CHECK Create a goal"
 }
