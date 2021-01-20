@@ -2060,7 +2060,7 @@
   "general_connect_with_sms": "PLZ_TRANSLATE Connect with SMS",
   "accounts_connection_lost": "PLZ_TRANSLATE Connection lost",
   "dream_subtitle_emptystate_parent": "PLZ_TRANSLATE %1$d hasn't created a goal yet!",
-  "add_suggested_chore_title": "PLZ_TRANSLATE This is a suggested chore",
+  "add_suggested_chore_title": "PLZ_TRANSLATE You suggested a chore!",
   "general_add_suggest_chore": "PLZ_TRANSLATE Add suggested chore",
   "goal_map_graph_title": "PLZ_TRANSLATE Progress",
   "general_saved_freemium": "PLZ_TRANSLATE Saved",
@@ -2317,5 +2317,5 @@
   "make_transaction_default_placeholder": "PLZ_TRANSLATE Write something to remember!",
   "chore_suggestion_deleted": "PLZ_TRANSLATE Already deleted",
   "chore_suggestion_added": "PLZ_TRANSLATE Already added",
-  "no_chore_set": "PLZ_TRANSLATE No chore set"
+  "no_chore_set": "PLZ_TRANSLATE No chores yet"
 }

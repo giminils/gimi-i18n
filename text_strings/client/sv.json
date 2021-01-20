@@ -2060,7 +2060,7 @@
   "general_connect_with_sms": "Bjud in med SMS",
   "accounts_connection_lost": "Connection lost",
   "dream_subtitle_emptystate_parent": "%1$d har inte skapat ett mål än!",
-  "add_suggested_chore_title": "Föreslagen uppgift",
+  "add_suggested_chore_title": "PLZ_CHECK You suggested a chore!",
   "general_add_suggest_chore": "Lägg till föreslagen uppgift",
   "goal_map_graph_title": "Framsteg",
   "general_saved_freemium": "Sparat",
@@ -2317,5 +2317,5 @@
   "make_transaction_default_placeholder": "Skriv något för att komma ihåg!",
   "chore_suggestion_deleted": "Uppgiften är redan raderad",
   "chore_suggestion_added": "Uppgiften är redan tillagd",
-  "no_chore_set": "PLZ_CHECK No chore set"
+  "no_chore_set": "PLZ_CHECK No chores yet"
 }
