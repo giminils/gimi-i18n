@@ -2320,5 +2320,6 @@
   "no_chore_set": "PLZ_TRANSLATE No chores yet",
   "general_completed_on": "PLZ_TRANSLATE Was completed on %1$d",
   "gimi_tutorial_4_steps": "PLZ_TRANSLATE How to use Gimi in 4 steps",
-  "tutorial_peek_instructions": "PLZ_TRANSLATE Click and hold the thumbnails to see more!"
+  "tutorial_peek_instructions": "PLZ_TRANSLATE Click and hold the thumbnails to see more!",
+  "gimi_tutorial_3_steps": "PLZ_TRANSLATE How to use Gimi in 3 steps"
 }
