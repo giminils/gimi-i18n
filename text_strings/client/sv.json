@@ -2317,5 +2317,6 @@
   "make_transaction_default_placeholder": "Skriv något för att komma ihåg!",
   "chore_suggestion_deleted": "Uppgiften är redan raderad",
   "chore_suggestion_added": "Uppgiften är redan tillagd",
-  "no_chore_set": "PLZ_CHECK No chores yet"
+  "no_chore_set": "PLZ_CHECK No chores yet",
+  "general_completed_on": "PLZ_CHECK Completed on %1$d"
 }

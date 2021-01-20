@@ -2317,5 +2317,6 @@
   "make_transaction_default_placeholder": "PLZ_TRANSLATE Write something to remember!",
   "chore_suggestion_deleted": "PLZ_TRANSLATE Already deleted",
   "chore_suggestion_added": "PLZ_TRANSLATE Already added",
-  "no_chore_set": "PLZ_TRANSLATE No chores yet"
+  "no_chore_set": "PLZ_TRANSLATE No chores yet",
+  "general_completed_on": "PLZ_TRANSLATE Completed on %1$d"
 }
