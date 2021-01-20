@@ -2328,5 +2328,6 @@
   "tutorial_order_card": "PLZ_CHECK Order the Gimi Card",
   "tutorial_invite_parent": "PLZ_CHECK Invite a parent",
   "tutorial_suggest_chore": "PLZ_CHECK Suggest a chore",
-  "tutorial_create_goal": "PLZ_CHECK Create a goal"
+  "tutorial_create_goal": "PLZ_CHECK Create a goal",
+  "general_step_n": "PLZ_CHECK Step %1$d"
 }

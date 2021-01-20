@@ -2328,5 +2328,6 @@
   "tutorial_order_card": "PLZ_TRANSLATE Order the Gimi Card",
   "tutorial_invite_parent": "PLZ_TRANSLATE Invite a parent",
   "tutorial_suggest_chore": "PLZ_TRANSLATE Suggest a chore",
-  "tutorial_create_goal": "PLZ_TRANSLATE Create a goal"
+  "tutorial_create_goal": "PLZ_TRANSLATE Create a goal",
+  "general_step_n": "PLZ_TRANSLATE Step %1$d"
 }

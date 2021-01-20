@@ -2328,5 +2328,6 @@
   "tutorial_order_card":"Order the Gimi Card",
   "tutorial_invite_parent":"Invite a parent",
   "tutorial_suggest_chore":"Suggest a chore",
-  "tutorial_create_goal":"Create a goal"
+  "tutorial_create_goal":"Create a goal",
+  "general_step_n":"Step %1$d"
 }
