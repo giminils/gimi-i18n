@@ -2318,5 +2318,7 @@
   "chore_suggestion_deleted": "Uppgiften är redan raderad",
   "chore_suggestion_added": "Uppgiften är redan tillagd",
   "no_chore_set": "PLZ_CHECK No chores yet",
-  "general_completed_on": "PLZ_CHECK Was completed on %1$d"
+  "general_completed_on": "PLZ_CHECK Was completed on %1$d",
+  "gimi_tutorial_4_steps": "PLZ_CHECK How to use Gimi in 4 steps",
+  "tutorial_peek_instructions": "PLZ_CHECK Click and hold the thumbnails to see more!"
 }

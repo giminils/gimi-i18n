@@ -2318,5 +2318,7 @@
   "chore_suggestion_deleted": "Already deleted",
   "chore_suggestion_added": "Already added",
   "no_chore_set": "No chores yet",
-  "general_completed_on": "Was completed on %1$d"
+  "general_completed_on": "Was completed on %1$d",
+  "gimi_tutorial_4_steps":"How to use Gimi in 4 steps",
+  "tutorial_peek_instructions":"Click and hold the thumbnails to see more!"
 }
