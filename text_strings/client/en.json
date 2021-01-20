@@ -2318,5 +2318,5 @@
   "chore_suggestion_deleted": "Already deleted",
   "chore_suggestion_added": "Already added",
   "no_chore_set": "No chores yet",
-  "general_completed_on":"Completed on %1$d"
+  "general_completed_on": "Was completed on %1$d"
 }
