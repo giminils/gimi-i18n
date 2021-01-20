@@ -104,7 +104,7 @@ describe('School tests', () => {
         })
         if (screens) screens.forEach(({buttons}: {buttons: Array<Object>}) => {
           if (type === 'SELECT_MULTIPLE') test('select multiple challenge screen should have at least 1 correct answer', () => {
-            const isButtonsValid = buttons.some((button: {isCorrect?: boolean}) => button?.isCorrect === true)
+            const isButtonsValid = buttons.some((button: {isCorrect?: boolean}) => button.isCorrect === true)
             if (!isButtonsValid) warnChallengeId(challenge, 'correct answers')
             expect(isButtonsValid).toBeTruthy()
           })
