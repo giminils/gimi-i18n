@@ -2317,7 +2317,7 @@
   "make_transaction_default_placeholder": "PLZ_TRANSLATE Write something to remember!",
   "chore_suggestion_deleted": "PLZ_TRANSLATE Already deleted",
   "chore_suggestion_added": "PLZ_TRANSLATE Already added",
-  "no_chore_set": "PLZ_TRANSLATE No chores yet",
+  "no_chore_set": "PLZ_TRANSLATE No chores",
   "general_completed_on": "PLZ_TRANSLATE Was completed on %1$d",
   "gimi_tutorial_4_steps": "PLZ_TRANSLATE How to use Gimi in 4 steps",
   "tutorial_peek_instructions": "PLZ_TRANSLATE Click and hold the thumbnails to see more!",
