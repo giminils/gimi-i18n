@@ -73,7 +73,7 @@ describe('School tests', () => {
         })
         if (screens) test('quiz challenge screen should have exactly 1 correct answer', () => {
           screens.forEach(({buttons}: {buttons: Array<Object>}) => {
-            const correctAnwers = buttons.filter((button: {isCorrect?: boolean}) => button.isCorrect === true).length
+            const correctAnwers = buttons.filter((button: {isCorrect?: boolean}) => button?.isCorrect === true).length
             if (correctAnwers !== 1) warnChallengeId(challenge, 'correct answers')
             expect(correctAnwers).toBe(1)
           })
