@@ -2329,5 +2329,6 @@
   "tutorial_invite_parent": "Bjud in en förälder",
   "tutorial_suggest_chore": "Föreslå en uppgift",
   "tutorial_create_goal": "Skapa ett mål",
-  "general_step_n": "Steg %1$d"
+  "general_step_n": "Steg %1$d",
+  "add_photo_proof": "PLZ_CHECK Add photo proof"
 }
