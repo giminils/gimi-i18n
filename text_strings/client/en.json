@@ -2330,5 +2330,6 @@
   "tutorial_suggest_chore": "Suggest a chore",
   "tutorial_create_goal": "Create a goal",
   "general_step_n": "Step %1$d",
-  "add_photo_proof":"Add photo proof"
+  "add_photo_proof":"Add photo proof",
+  "general_add_photo": "Add photo"
 }

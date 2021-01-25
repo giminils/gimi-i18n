@@ -2330,5 +2330,6 @@
   "tutorial_suggest_chore": "Föreslå en uppgift",
   "tutorial_create_goal": "Skapa ett mål",
   "general_step_n": "Steg %1$d",
-  "add_photo_proof": "PLZ_CHECK Add photo proof"
+  "add_photo_proof": "PLZ_CHECK Add photo proof",
+  "general_add_photo": "PLZ_CHECK Add photo"
 }

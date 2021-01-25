@@ -2330,5 +2330,6 @@
   "tutorial_suggest_chore": "PLZ_TRANSLATE Suggest a chore",
   "tutorial_create_goal": "PLZ_TRANSLATE Create a goal",
   "general_step_n": "PLZ_TRANSLATE Step %1$d",
-  "add_photo_proof": "PLZ_TRANSLATE Add photo proof"
+  "add_photo_proof": "PLZ_TRANSLATE Add photo proof",
+  "general_add_photo": "PLZ_TRANSLATE Add photo"
 }
