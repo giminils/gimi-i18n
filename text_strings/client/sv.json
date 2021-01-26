@@ -2300,7 +2300,7 @@
   "kid_card_action_button_unblock": "Lås upp",
   "kid_card_action_button_block": "Lås kort",
   "due_payday_for_one_kid": "Dags att betala %1$d",
-  "due_payday_for_multiple_kids": "Du har %1$d vecko-/månadspengar att betala",
+  "due_payday_for_multiple_kids": "PLZ_CHECK You have %1$d allowance(s) to pay",
   "general_total": "Totalt",
   "allowance_settings_setup_title_monthly": "%1$d får redan månadspeng",
   "allowance_settings_setup_title_weekly": "%1$d får redan veckopeng",
