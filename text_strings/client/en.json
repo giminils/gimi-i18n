@@ -2333,5 +2333,6 @@
   "add_photo_proof": "Add photo proof",
   "general_add_photo": "Add photo",
   "parent_add_bonus_flash_card_title": "Encourage saving with a bonus!",
-  "parent_add_bonus_flash_card_text": "Add a bonus here"
+  "parent_add_bonus_flash_card_text": "Add a bonus here",
+  "you_will_allowance_from":"You will get allowance from %1$d"
 }
