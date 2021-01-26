@@ -2300,7 +2300,7 @@
   "kid_card_action_button_unblock": "Lås upp",
   "kid_card_action_button_block": "Lås kort",
   "due_payday_for_one_kid": "Dags att betala %1$d",
-  "due_payday_for_multiple_kids": "PLZ_CHECK You have %1$d allowance(s) to pay",
+  "due_payday_for_multiple_kids": "Du har %1$d utbetalning(ar) som väntar",
   "general_total": "Totalt",
   "allowance_settings_setup_title_monthly": "%1$d får redan månadspeng",
   "allowance_settings_setup_title_weekly": "%1$d får redan veckopeng",
@@ -2330,8 +2330,8 @@
   "tutorial_suggest_chore": "Föreslå en uppgift",
   "tutorial_create_goal": "Skapa ett mål",
   "general_step_n": "Steg %1$d",
-  "add_photo_proof": "PLZ_CHECK Add photo proof",
-  "general_add_photo": "Lägg till bildbe",
-  "parent_add_bonus_flash_card_title": "PLZ_CHECK Encourage saving with a bonus!",
-  "parent_add_bonus_flash_card_text": "PLZ_CHECK Add a bonus here"
+  "add_photo_proof": "Lägg till bildbevis",
+  "general_add_photo": "Lägg till bildbevis",
+  "parent_add_bonus_flash_card_title": "Uppmuntra sparande med en bonus!",
+  "parent_add_bonus_flash_card_text": "Lägg till en bonus här"
 }
