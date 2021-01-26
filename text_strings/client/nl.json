@@ -2332,6 +2332,6 @@
   "general_step_n": "PLZ_TRANSLATE Step %1$d",
   "add_photo_proof": "PLZ_TRANSLATE Add photo proof",
   "general_add_photo": "PLZ_TRANSLATE Add photo",
-  "parent_add_bonus_flash_card_title": "PLZ_TRANSLATE Encourage saving with a weekly bonus!",
-  "parent_add_bonus_flash_card_text": "PLZ_TRANSLATE Add a bonus here!"
+  "parent_add_bonus_flash_card_title": "PLZ_TRANSLATE Encourage saving with a bonus!",
+  "parent_add_bonus_flash_card_text": "PLZ_TRANSLATE Add a bonus here"
 }

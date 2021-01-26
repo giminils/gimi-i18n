@@ -2300,7 +2300,7 @@
   "kid_card_action_button_unblock": "Unblock",
   "kid_card_action_button_block": "Block",
   "due_payday_for_one_kid": "It’s time to pay %1$d",
-  "due_payday_for_multiple_kids": "PLZ_COPY You have %1$d allowance(s) to pay",
+  "due_payday_for_multiple_kids": "You have %1$d allowance(s) to pay",
   "general_total": "Total",
   "allowance_settings_setup_title_monthly": "%1$d already has monthly allowance",
   "allowance_settings_setup_title_weekly": "%1$d already has weekly allowance",
@@ -2332,6 +2332,6 @@
   "general_step_n": "Step %1$d",
   "add_photo_proof": "Add photo proof",
   "general_add_photo": "Add photo",
-  "parent_add_bonus_flash_card_title": "PLZ_COPY Encourage saving with a bonus!",
-  "parent_add_bonus_flash_card_text": "PLZ_COPY Add a bonus here"
+  "parent_add_bonus_flash_card_title": "Encourage saving with a bonus!",
+  "parent_add_bonus_flash_card_text": "Add a bonus here"
 }

@@ -2332,6 +2332,6 @@
   "general_step_n": "Steg %1$d",
   "add_photo_proof": "PLZ_CHECK Add photo proof",
   "general_add_photo": "Lägg till bildbe",
-  "parent_add_bonus_flash_card_title": "PLZ_CHECK Encourage saving with a weekly bonus!",
-  "parent_add_bonus_flash_card_text": "PLZ_CHECK Add a bonus here!"
+  "parent_add_bonus_flash_card_title": "PLZ_CHECK Encourage saving with a bonus!",
+  "parent_add_bonus_flash_card_text": "PLZ_CHECK Add a bonus here"
 }
