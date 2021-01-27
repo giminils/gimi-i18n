@@ -2345,5 +2345,7 @@
   "general_week_days_4": "Thursdays",
   "general_week_days_5":"Fridays",
   "general_week_days_6": "Saturdays",
-  "general_week_days_7": "Sundays"
+  "general_week_days_7": "Sundays",
+  "what_can_you_buy_for_n":"What can you buy for %1$d",
+  "what_can_you_buy_save":"What you can buy if you save"
 }
