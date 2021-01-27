@@ -2334,5 +2334,16 @@
   "general_add_photo": "PLZ_TRANSLATE Add photo",
   "parent_add_bonus_flash_card_title": "PLZ_TRANSLATE Encourage saving with a bonus!",
   "parent_add_bonus_flash_card_text": "PLZ_TRANSLATE Add a bonus here",
-  "you_will_allowance_from": "PLZ_TRANSLATE You will get allowance from %1$d"
+  "you_will_allowance_from": "PLZ_TRANSLATE You will get allowance from %1$d",
+  "general_every_week": "PLZ_TRANSLATE Every week",
+  "general_every_month": "PLZ_TRANSLATE Every month",
+  "on_week_day_n": "PLZ_TRANSLATE On %1$d",
+  "on_month_day_n": "PLZ_TRANSLATE On the %1$d",
+  "general_mondays": "PLZ_TRANSLATE Mondays",
+  "general_tuesdays": "PLZ_TRANSLATE Tuesdays",
+  "general_wednesdays": "PLZ_TRANSLATE Wednesdays",
+  "general_thursdays": "PLZ_TRANSLATE Thursdays",
+  "general_fridays": "PLZ_TRANSLATE Fridays",
+  "general_saturdays": "PLZ_TRANSLATE Saturdays",
+  "general_sundays": "PLZ_TRANSLATE Sundays"
 }

@@ -2334,5 +2334,16 @@
   "general_add_photo": "Lägg till bildbevis",
   "parent_add_bonus_flash_card_title": "Uppmuntra sparande med en bonus!",
   "parent_add_bonus_flash_card_text": "Lägg till en bonus här",
-  "you_will_allowance_from": "PLZ_CHECK You will get allowance from %1$d"
+  "you_will_allowance_from": "PLZ_CHECK You will get allowance from %1$d",
+  "general_every_week": "PLZ_CHECK Every week",
+  "general_every_month": "PLZ_CHECK Every month",
+  "on_week_day_n": "PLZ_CHECK On %1$d",
+  "on_month_day_n": "PLZ_CHECK On the %1$d",
+  "general_mondays": "PLZ_CHECK Mondays",
+  "general_tuesdays": "PLZ_CHECK Tuesdays",
+  "general_wednesdays": "PLZ_CHECK Wednesdays",
+  "general_thursdays": "PLZ_CHECK Thursdays",
+  "general_fridays": "PLZ_CHECK Fridays",
+  "general_saturdays": "PLZ_CHECK Saturdays",
+  "general_sundays": "PLZ_CHECK Sundays"
 }
