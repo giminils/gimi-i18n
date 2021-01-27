@@ -2367,5 +2367,6 @@
   "general_game": "Game",
   "general_games": "%1$d Games",
   "general_chocolate_bar": "1 Chocolate bar",
-  "general_chocolate_bars": "%1$d Chocolate bars"
+  "general_chocolate_bars": "%1$d Chocolate bars",
+  "updated_allowance_piggy_message":"Spend your money right away or save them to buy something you really want later!"
 }

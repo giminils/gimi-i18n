@@ -2367,5 +2367,6 @@
   "general_game": "PLZ_CHECK Game",
   "general_games": "PLZ_CHECK %1$d Games",
   "general_chocolate_bar": "PLZ_CHECK Chocolate bar",
-  "general_chocolate_bars": "PLZ_CHECK %1$d Chocolate bars"
+  "general_chocolate_bars": "PLZ_CHECK %1$d Chocolate bars",
+  "updated_allowance_piggy_message": "PLZ_CHECK Spend your money right away or save them to buy something you really want later!"
 }
