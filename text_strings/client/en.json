@@ -2339,11 +2339,11 @@
   "general_every_month": "Every month",
   "on_week_day_n":"On %1$d",
   "on_month_day_n": "On the %1$d",
-  "general_mondays": "Mondays",
-  "general_tuesdays": "Tuesdays",
-  "general_wednesdays": "Wednesdays",
-  "general_thursdays": "Thursdays",
-  "general_fridays":"Fridays",
-  "general_saturdays": "Saturdays",
-  "general_sundays": "Sundays"
+  "general_week_days_1": "Mondays",
+  "general_week_days_2": "Tuesdays",
+  "general_week_days_3": "Wednesdays",
+  "general_week_days_4": "Thursdays",
+  "general_week_days_5":"Fridays",
+  "general_week_days_6": "Saturdays",
+  "general_week_days_7": "Sundays"
 }

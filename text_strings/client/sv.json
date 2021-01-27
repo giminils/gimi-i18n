@@ -2339,11 +2339,11 @@
   "general_every_month": "PLZ_CHECK Every month",
   "on_week_day_n": "PLZ_CHECK On %1$d",
   "on_month_day_n": "PLZ_CHECK On the %1$d",
-  "general_mondays": "PLZ_CHECK Mondays",
-  "general_tuesdays": "PLZ_CHECK Tuesdays",
-  "general_wednesdays": "PLZ_CHECK Wednesdays",
-  "general_thursdays": "PLZ_CHECK Thursdays",
-  "general_fridays": "PLZ_CHECK Fridays",
-  "general_saturdays": "PLZ_CHECK Saturdays",
-  "general_sundays": "PLZ_CHECK Sundays"
+  "general_week_days_1": "PLZ_CHECK Mondays",
+  "general_week_days_2": "PLZ_CHECK Tuesdays",
+  "general_week_days_3": "PLZ_CHECK Wednesdays",
+  "general_week_days_4": "PLZ_CHECK Thursdays",
+  "general_week_days_5": "PLZ_CHECK Fridays",
+  "general_week_days_6": "PLZ_CHECK Saturdays",
+  "general_week_days_7": "PLZ_CHECK Sundays"
 }
