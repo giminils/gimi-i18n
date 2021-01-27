@@ -2365,5 +2365,7 @@
   "general_fika": "PLZ_CHECK Fika",
   "general_fikas": "PLZ_CHECK Fikas",
   "general_game": "PLZ_CHECK Game",
-  "general_games": "PLZ_CHECK Games"
+  "general_games": "PLZ_CHECK Games",
+  "general_chocolate_bar": "PLZ_CHECK Chocolate bar",
+  "general_chocolate_bars": "PLZ_CHECK Chocolate bars"
 }
