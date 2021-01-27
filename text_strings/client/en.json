@@ -2368,5 +2368,10 @@
   "general_games": "%1$d Games",
   "general_chocolate_bar": "1 Chocolate bar",
   "general_chocolate_bars": "%1$d Chocolate bars",
-  "updated_allowance_piggy_message":"Spend your money right away or save them to buy something you really want later!"
+  "updated_allowance_piggy_message":"Spend your money right away or save them to buy something you really want later!",
+  "allow_push_notifications_title": "Want the important notifications?",
+  "allow_push_notifications_parent_subtitle": "Your child has completed a chore!",
+  "allow_push_notifications_child_subtitle": "It’s time for your weekly allowance!",
+  "min_ago": "%1$dm ago"
+
 }

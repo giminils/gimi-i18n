@@ -2368,5 +2368,9 @@
   "general_games": "PLZ_CHECK %1$d Games",
   "general_chocolate_bar": "PLZ_CHECK Chocolate bar",
   "general_chocolate_bars": "PLZ_CHECK %1$d Chocolate bars",
-  "updated_allowance_piggy_message": "PLZ_CHECK Spend your money right away or save them to buy something you really want later!"
+  "updated_allowance_piggy_message": "PLZ_CHECK Spend your money right away or save them to buy something you really want later!",
+  "allow_push_notifications_title": "PLZ_CHECK Want the important notifications?",
+  "allow_push_notifications_parent_subtitle": "PLZ_CHECK Your child has completed a chore!",
+  "allow_push_notifications_child_subtitle": "PLZ_CHECK It’s time for your weekly allowance!",
+  "min_ago": "PLZ_CHECK %1$dm ago"
 }
