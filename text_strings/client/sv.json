@@ -2372,5 +2372,7 @@
   "allow_push_notifications_title": "PLZ_CHECK Want the important notifications?",
   "allow_push_notifications_parent_subtitle": "PLZ_CHECK Your child has completed a chore!",
   "allow_push_notifications_child_subtitle": "PLZ_CHECK It’s time for your weekly allowance!",
-  "min_ago": "PLZ_CHECK %1$dm ago"
+  "min_ago": "PLZ_CHECK %1$dm ago",
+  "updated_allowance_piggy_message_empty": "PLZ_CHECK You don’t get a fixed allowance, but don’t worry! You can earn money doing chores instead.",
+  "updated_allowance_piggy_message_low": "PLZ_CHECK Instead of spending your money, try to save them so you can afford something cool later!"
 }
