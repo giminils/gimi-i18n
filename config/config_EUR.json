@@ -16,7 +16,7 @@
   "prefix": "€",
   "suffix": "",
   "thousandsSeparator": ".",
-  "decimalMark": ".",
+  "decimalMark": ",",
   "minimumSavingsBonusAmountCents": 1,
   "minimumTransactionAmount": 0.1,
   "maximumSavingsBonusAmount": 10000,

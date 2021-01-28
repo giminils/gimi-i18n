@@ -18,7 +18,7 @@
   "prefix": "",
   "suffix": " kr",
   "thousandsSeparator": ".",
-  "decimalMark": ".",
+  "decimalMark": ",",
   "minimumSavingsBonusAmountCents": 50,
   "minimumTransactionAmount": 1,
   "maximumSavingsBonusAmount": 10000,
