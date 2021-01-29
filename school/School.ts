@@ -23,7 +23,10 @@ export let getLesson = (id: number) => {
 }
 
 export let getAllChapters = () => {
-  return chapters
+  return chapters.map((chapter) => {
+    const chapterLessons = lessons.filter((lesson) => chapter.lessonIds.indexOf(lesson.id) !== -1)
+    return {...chapter, lessons: chapterLessons}
+  })
 }
 
 export let getAllLessonsInChapter = (id: number) => {
