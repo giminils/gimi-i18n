@@ -1087,7 +1087,7 @@
   "cant_access_card_info_without_passcode_err_text": "Du behöver en lösenkod för att göra det här, och många andra funktioner i appen. Sätt upp den nu!",
   "cant_access_card_info_without_passcode_err_button": "Skapa lösenkod",
   "add_a_card_parent_settings_row": "Lägg till ett kort!",
-  "kid_card_action_button_card": "Kortuppgifter",
+  "kid_card_action_button_card": "Uppgifter",
   "kid_card_action_button_cloud": "Överför",
   "kid_card_action_button_pin": "Visa PIN",
   "kid_card_action_button_settings": "Inställningar",
