@@ -329,7 +329,7 @@ export function formatMoney (value: number, currencyCode: string | undefined): s
     // no decimals
     case 'SEK':
     case 'DKK':
-    case 'NOK': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '.', ',', '%v%s')
+    case 'NOK': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), ' ', ',', '%v%s')
     case 'ISK': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '.', ',', '%v%s')
     case 'THB': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), ',', '.', '%s%v')
     case 'GBP': return Accounting.formatMoney(value, currencySymbol, formatDecimals(value), '.', ',', '%s%v')
