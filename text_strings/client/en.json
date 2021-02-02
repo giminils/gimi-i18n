@@ -2376,5 +2376,6 @@
   "updated_allowance_piggy_message_empty": "You don’t get a fixed allowance, but don’t worry! You can earn money doing chores instead.",
   "updated_allowance_piggy_message_low": "Instead of spending your money, try to save them so you can afford something cool later!",
   "you_will_get_weekly_allowance_from":"You will get weekly allowance from %1$d",
-  "you_will_get_monthly_allowance_from": "You will get monthly allowance from %1$d"
+  "you_will_get_monthly_allowance_from": "You will get monthly allowance from %1$d",
+  "go_to_goalmap_parent":"View the savings progress on the goal map!"
 }
