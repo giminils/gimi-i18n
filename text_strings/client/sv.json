@@ -2385,5 +2385,7 @@
   "setup_open_banking_info_title_2": "PLZ_CHECK Top-up from the Gimi app",
   "setup_open_banking_info_desc_2": "PLZ_CHECK Quick, easy and completely free!",
   "setup_open_banking_info_title_3": "PLZ_CHECK Compatible with Gimi features",
-  "setup_open_banking_info_desc_3": "PLZ_CHECK The savings goal progress is based on the bank account amount"
+  "setup_open_banking_info_desc_3": "PLZ_CHECK The savings goal progress is based on the bank account amount",
+  "choose_kid_open_banking_title": "PLZ_CHECK For which kid?",
+  "choose_kid_open_banking_subtitle": "PLZ_CHECK Choose one child now, you can connect more accounts later!"
 }
