@@ -2378,5 +2378,6 @@
   "you_will_get_weekly_allowance_from": "PLZ_TRANSLATE You will get weekly allowance from %1$d",
   "you_will_get_monthly_allowance_from": "PLZ_TRANSLATE You will get monthly allowance from %1$d",
   "go_to_goalmap_parent": "PLZ_TRANSLATE View the savings progress on the goal map!",
-  "general_setup_tink": "PLZ_TRANSLATE Connect bank card"
+  "general_setup_tink": "PLZ_TRANSLATE Connect bank card",
+  "setup_open_banking_title": "PLZ_TRANSLATE Connect an existing bank account to Gimi"
 }
