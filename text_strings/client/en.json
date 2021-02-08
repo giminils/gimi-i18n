@@ -2390,5 +2390,7 @@
   "choose_kid_open_banking_subtitle":"Choose one child now, you can connect more accounts later!",
   "general_add_goal": "Add goal",
   "open_banking_account_connected_title":"Account %1$d is connected!",
-  "open_banking_account_connected_subtitle":"Both you and %1$d can now see the account in your Gimi apps!"
+  "open_banking_account_connected_subtitle":"Both you and %1$d can now see the account in your Gimi apps!",
+  "open_banking_choose_account_title":"Which account do you want to connect?",
+  "open_banking_choose_account_subtitle":"Log in to your mobile banking app to see the accout number!"
 }
