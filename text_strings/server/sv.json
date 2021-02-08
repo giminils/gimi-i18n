@@ -535,5 +535,7 @@
   "CHPRRE002_notification_title": "Din {allowance_frequency} har betalats ut av {parent.nickname}",
   "CHPRRE002_push_title": "Din {allowance_frequency} har betalats ut av {parent.nickname}",
   "ADPRRE028_notification_title": "Dags att betala ut {allowance_frequency} till {child.nickname}!",
-  "ADPRRE028_push_title": "Dags att betala ut {allowance_frequency} till {child.nickname}!"
+  "ADPRRE028_push_title": "Dags att betala ut {allowance_frequency} till {child.nickname}!",
+  "ADGERE043_push_title": "PLZ_CHECK {child.nickname} has deducted {formatted_amount} from the piggybank!",
+  "ADGERE043_notification_title": "PLZ_CHECK {child.nickname} has deducted {formatted_amount} from the piggybank!"
 }

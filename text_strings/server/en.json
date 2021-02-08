@@ -535,5 +535,7 @@
   "CHPRRE002_notification_title": "Your {allowance_frequency} has been paid out by {parent.nickname}",
   "CHPRRE002_push_title": "Your {allowance_frequency} has been paid out by {parent.nickname}",
   "ADPRRE028_notification_title": "It's time to pay out {allowance_frequency} to {child.nickname}!",
-  "ADPRRE028_push_title": "It's time to pay out {allowance_frequency} to {child.nickname}!"
+  "ADPRRE028_push_title": "It's time to pay out {allowance_frequency} to {child.nickname}!",
+  "ADGERE043_push_title": "{child.nickname} has deducted {formatted_amount} from the piggybank!",
+  "ADGERE043_notification_title": "{child.nickname} has deducted {formatted_amount} from the piggybank!"
 }
