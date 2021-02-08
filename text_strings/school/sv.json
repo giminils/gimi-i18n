@@ -238,5 +238,8 @@
   "school_chapter_disabled_subtitle": "Den som väntar på något gott... Gör om de andra kapitlen så länge!",
   "school_lesson_disabled_title": "Detta är låst tills du har gjort färdigt förra.",
   "school_lesson_disabled_subtitle": "Det går bra för dig, fortsätt kämpa!",
-  "school_undo": "PLZ_CHECK Undo"
+  "school_undo": "PLZ_CHECK Undo",
+  "school_rocket_test": "PLZ_CHECK Rocket test",
+  "school_chapter_number": "PLZ_CHECK Chapter %1$d",
+  "school_start_rocket_test": "PLZ_CHECK Start rocket test"
 }

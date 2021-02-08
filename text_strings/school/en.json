@@ -238,5 +238,8 @@
   "school_chapter_disabled_subtitle": "Good things comes to those who wait. Redo the other chapters while waiting!",
   "school_lesson_disabled_title": "This part is locked until you’ve completed the previous one",
   "school_lesson_disabled_subtitle": "You’re doing so good, keep up with that!",
-  "school_undo": "Undo"
+  "school_undo": "Undo",
+  "school_rocket_test": "Rocket test",
+  "school_chapter_number": "Chapter %1$d",
+  "school_start_rocket_test": "Start rocket test"
 }
