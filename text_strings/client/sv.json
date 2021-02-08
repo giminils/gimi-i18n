@@ -2392,5 +2392,8 @@
   "open_banking_account_connected_title": "PLZ_CHECK Account %1$d is connected!",
   "open_banking_account_connected_subtitle": "PLZ_CHECK Both you and %1$d can now see the account in your Gimi apps!",
   "open_banking_choose_account_title": "PLZ_CHECK Which account do you want to connect?",
-  "open_banking_choose_account_subtitle": "PLZ_CHECK Log in to your mobile banking app to see the accout number!"
+  "open_banking_choose_account_subtitle": "PLZ_CHECK Log in to your mobile banking app to see the accout number!",
+  "goal_time_spent_saving": "PLZ_CHECK Time spent saving",
+  "goal_amount_saved_per_day": "PLZ_CHECK Average amount saved per day",
+  "general_days": "PLZ_CHECK Days"
 }
