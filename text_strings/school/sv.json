@@ -208,7 +208,7 @@
   "school_go_back_to_chapters": "Tillbaka till kapitelkartan",
   "shool_xp_value": "%1$d XP",
   "school_challenge_title": "Redo för utmaningen?",
-  "school_challenge_subtitle": "Bra jobbat! Nu kan du göra utmaningen för att öva. Kom ihåg att du alltid kan läsa berettelsen igen om du inte minns allt.",
+  "school_challenge_subtitle": "Bra jobbat! Nu kan du göra utmaningen för att öva. Kom ihåg att du alltid kan läsa berättelsen igen om du inte minns allt.",
   "school_challenge_grade_failed": "Du kan säkert bättre. Försök att göra om berättelsen!",
   "school_challenge_grade_bronze": "Du klarade det!\nGå till nästa berättelse för att lära dig mer.",
   "school_challenge_grade_silver": "Bra jobbat!\nGå till nästa berättelse för att lära dig mer.",
@@ -235,7 +235,7 @@
   "school_shop_intro_title": "Välkommen till Gimi-affären! Det är dags att shoppa.",
   "school_shop_intro_subtitle": "Här i Superskills-äventyret används en valutan Piggybucks (PB). Valuta är ett annat ord för pengar.",
   "school_chapter_disabled_title": "Detta kapitel är inte släppt än",
-  "school_chapter_disabled_subtitle": "Den som väntar på något got... Gör om de andra kapitlen så länge!",
+  "school_chapter_disabled_subtitle": "Den som väntar på något gott... Gör om de andra kapitlen så länge!",
   "school_lesson_disabled_title": "Detta är låst tills du har gjort färdigt förra.",
   "school_lesson_disabled_subtitle": "Det går bra för dig, fortsätt kämpa!",
   "school_undo": "PLZ_CHECK Undo"
