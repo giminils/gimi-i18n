@@ -2401,5 +2401,6 @@
   "ok_skip": "PLZ_CHECK OK, Skip!",
   "supporters_list_name_owes_money": "PLZ_CHECK Money keepers",
   "supporters_list_you_owe_money": "PLZ_CHECK Money keepers",
-  "general_connect_bank_account": "PLZ_CHECK Connect bank account"
+  "general_connect_bank_account": "PLZ_CHECK Connect bank account",
+  "dream_name": "PLZ_CHECK Dream name"
 }

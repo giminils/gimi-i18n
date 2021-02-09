@@ -2401,5 +2401,6 @@
   "ok_skip":"OK, Skip!",
   "supporters_list_name_owes_money":"Money keepers",
   "supporters_list_you_owe_money":"Money keepers",
-  "general_connect_bank_account":"Connect bank account"
+  "general_connect_bank_account":"Connect bank account",
+  "dream_name": "Dream name"
 }
