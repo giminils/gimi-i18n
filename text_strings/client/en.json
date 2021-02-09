@@ -2395,5 +2395,7 @@
   "open_banking_choose_account_subtitle": "Log in to your mobile banking app to see the accout number!",
   "goal_time_spent_saving": "Time spent saving",
   "goal_amount_saved_per_day": "Average amount saved per day",
-  "general_days": "Days"
+  "general_days": "Days",
+  "payday_too_low_title":"The amount is too low!",
+  "payday_too_low_desc":"The minimum deposit amount is 3kr, but you can skip this alowance and make a manual deposit instead!"
 }
