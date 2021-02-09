@@ -645,16 +645,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
+                            "langKey": "school_answer_general_tellme"
                         }
                     ]
                 },
@@ -666,16 +657,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button35"
                         },
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                         {
-                            "langKey": ""
+                            "langKey": "school_answer_general_iknew"
                         }
                     ]
                 },
@@ -687,16 +672,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button36"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button37"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button38"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button39"
                         }
                     ]
                 },
@@ -708,16 +693,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button40"
                         },
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button41"
                         }
                     ]
                 },
@@ -729,16 +708,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button42"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button43"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button44"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_answer_general_tellmemore"
                         }
                     ]
                 },
@@ -750,16 +729,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                         {
-                            "langKey": ""
+                            "langKey": "school_answer_general_okay"
                         }
                     ]
                 },
@@ -771,16 +741,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
+                            "langKey": "school_answer_general_yup"
                         }
                     ]
                 },
@@ -792,16 +753,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button45"
                         },
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                         {
-                            "langKey": ""
+                            "langKey": "school_answer_general_go"
                         }
                     ]
                 },
@@ -825,16 +780,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_answer_general_iunderstand"
                         },
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
+                            "langKey": "school_answer_general_canusplainmore"
                         }
                     ]
                 },
@@ -846,16 +795,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button46"
                         }
                     ]
                 },
@@ -867,16 +807,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button47"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button48"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button49"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button50"
                         }
                     ]
                 },
@@ -888,16 +828,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button51"
                         },
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button52"
                         }
                     ]
                 },
@@ -909,16 +843,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
+                            "langKey": "school_answer_general_okay"
                         }
                     ]
                 },
@@ -930,16 +855,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button53"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_screen_button54"
                         },
                         {
-                            "langKey": ""
+                            "langKey": "school_answer_general_no"
                         },
                          {
-                            "langKey": ""
+                            "langKey": "school_screen_button55"
                         }
                     ]
                 },
@@ -951,16 +876,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
-                        },
-                        {
-                            "langKey": ""
+                            "langKey": "school_screen_button56"
                         }
                     ]
                 }
