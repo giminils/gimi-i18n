@@ -2397,5 +2397,6 @@
   "goal_amount_saved_per_day": "Average amount saved per day",
   "general_days": "Days",
   "payday_too_low_title":"The amount is too low!",
-  "payday_too_low_desc":"The minimum deposit amount is 3kr, but you can skip this alowance and make a manual deposit instead!"
+  "payday_too_low_desc":"The minimum deposit amount is 3kr, but you can skip this alowance and make a manual deposit instead!",
+  "ok_skip":"OK, Skip!"
 }

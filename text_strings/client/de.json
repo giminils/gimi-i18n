@@ -2397,5 +2397,6 @@
   "goal_amount_saved_per_day": "PLZ_TRANSLATE Average amount saved per day",
   "general_days": "PLZ_TRANSLATE Days",
   "payday_too_low_title": "PLZ_TRANSLATE The amount is too low!",
-  "payday_too_low_desc": "PLZ_TRANSLATE The minimum deposit amount is 3kr, but you can skip this alowance and make a manual deposit instead!"
+  "payday_too_low_desc": "PLZ_TRANSLATE The minimum deposit amount is 3kr, but you can skip this alowance and make a manual deposit instead!",
+  "ok_skip": "PLZ_TRANSLATE OK, Skip!"
 }
