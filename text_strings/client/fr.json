@@ -2402,5 +2402,7 @@
   "supporters_list_name_owes_money": "PLZ_TRANSLATE Money keepers",
   "supporters_list_you_owe_money": "PLZ_TRANSLATE Money keepers",
   "general_connect_bank_account": "PLZ_TRANSLATE Connect bank account",
-  "dream_name": "PLZ_TRANSLATE Dream name"
+  "dream_name": "PLZ_TRANSLATE Dream name",
+  "cancel_sub_to_access_open_banking": "PLZ_TRANSLATE Cancel the Gimi Master subscription to connect to a bank account",
+  "general_change_account": "PLZ_TRANSLATE Change account"
 }

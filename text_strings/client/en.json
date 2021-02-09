@@ -2402,5 +2402,7 @@
   "supporters_list_name_owes_money":"Money keepers",
   "supporters_list_you_owe_money":"Money keepers",
   "general_connect_bank_account":"Connect bank account",
-  "dream_name": "Dream name"
+  "dream_name": "Dream name",
+  "cancel_sub_to_access_open_banking": "Cancel the Gimi Master subscription to connect to a bank account",
+  "general_change_account": "Change account"
 }
