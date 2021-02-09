@@ -2400,5 +2400,6 @@
   "payday_too_low_desc": "PLZ_TRANSLATE The minimum deposit amount is 3kr, but you can skip this alowance and make a manual deposit instead!",
   "ok_skip": "PLZ_TRANSLATE OK, Skip!",
   "supporters_list_name_owes_money": "PLZ_TRANSLATE Money keepers",
-  "supporters_list_you_owe_money": "PLZ_TRANSLATE Money keepers"
+  "supporters_list_you_owe_money": "PLZ_TRANSLATE Money keepers",
+  "general_connect_bank_account": "PLZ_TRANSLATE Connect bank account"
 }
