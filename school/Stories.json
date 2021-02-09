@@ -634,232 +634,14 @@
             ]
         },
         {
-            "id": 3,
-            "challengeId": 3,
-            "screens": [
-                {
-                    "id": 1,
-                    "type": "DEFAULT",
-                    "titleLangKey":  "school_story_3_screen_text1",
-                    "subtitleLangKey": "",
-                    "imageUrl": "/static/school/money.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button18"
-                        },
-                        {
-                            "langKey": "school_answer_general_iknew"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text2",
-                    "subtitleLangKey": "school_story_3_screen_text3",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button19"
-                        },
-                        {
-                            "langKey": "school_screen_button20"
-                        },
-                        {
-                            "langKey": "school_answer_general_idk"
-                        },
-                         {
-                            "langKey": "school_answer_general_sometimes"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "type": "DEFAULT",
-                    "titleLangKey":  "school_story_3_screen_text4",
-                    "subtitleLangKey": "school_story_3_screen_text5",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_answer_general_okaygo"
-                        },
-                        {
-                            "langKey": "school_screen_button21"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text6",
-                    "subtitleLangKey": "",
-                    "imageUrl": "/static/school/moneyDigital.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button22"
-                        }
-                    ]
-                },
-                {
-                    "id": 5,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text7",
-                    "subtitleLangKey": "",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_answer_general_smileycool"
-                        },
-                        {
-                            "langKey": "school_screen_button23"
-                        },
-                        {
-                            "langKey": "school_screen_button24"
-                        },
-                        {
-                            "langKey": "school_screen_button25"
-                        }
-                    ]
-                },
-                {
-                    "id": 6,
-                    "type": "DEFAULT",
-                    "titleLangKey":  "school_story_3_screen_text8",
-                    "subtitleLangKey": "school_story_3_screen_text9",
-                    "imageUrl": "/static/school/moneyMagic.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button26"
-                        },
-                        {
-                            "langKey": "school_screen_button27"
-                        }
-                    ]
-                },
-                {
-                    "id": 7,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text10",
-                    "subtitleLangKey": "",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_answer_general_iunderstand"
-                        }
-                     ]
-                },
-                {
-                    "id": 8,
-                    "type": "PAUSE",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "school_story_1_pause_title",
-                    "imageUrl": "/static/school/piggySwim.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_story_1_pause_button"
-                        }
-                    ]
-                },
-                {
-                    "id": 9,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text11",
-                    "subtitleLangKey": "",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_answer_general_nowunderstand"
-                        },
-                        {
-                            "langKey": "school_answer_general_weird"
-                        }
-                   ]
-                },
-                {
-                    "id": 10,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text12",
-                    "subtitleLangKey": "school_story_3_screen_text13",
-                    "imageUrl": "/static/school/budget.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button28"
-                        },
-                        {
-                            "langKey": "school_screen_button29"
-                        },
-                        {
-                            "langKey": "school_screen_button30"
-                        },
-                        {
-                            "langKey": "school_answer_general_idnk"
-                        }
-
-                    ]
-                },
-                {
-                    "id": 11,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text14",
-                    "subtitleLangKey": "",
-                    "imageUrl": "/static/school/incomeCost.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_answer_general_yup"
-                        }
-                    ]
-                },
-                {
-                    "id": 12,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text15",
-                    "subtitleLangKey": "",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_answer_general_smileycool"
-                        }
-                    ]
-                },
-                {
-                    "id": 13,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text16",
-                    "subtitleLangKey": "",
-                    "imageUrl": "/static/school/shopping.png",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button32"
-                        },
-                        {
-                            "langKey": "school_screen_button33"
-                        }
-
-                    ]
-                },
-                {
-                    "id": 14,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_3_screen_text17",
-                    "subtitleLangKey": "school_story_3_screen_text18",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_screen_button34"
-                        }
-                    ]
-                }
-            ]
-        }
-        {
             "id": 4,
             "challengeId": 4,
             "screens": [
                 {
                     "id": 1,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
-                    "subtitleLangKey": "",
+                    "titleLangKey":  "school_story_4_screen_text1",
+                    "subtitleLangKey": "school_story_4_screen_text2",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -879,8 +661,8 @@
                 {
                     "id": 2,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text3",
+                    "subtitleLangKey": "school_story_4_screen_text4",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -900,8 +682,8 @@
                 {
                     "id": 3,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
-                    "subtitleLangKey": "",
+                    "titleLangKey":  "school_story_4_screen_text5",
+                    "subtitleLangKey": "school_story_4_screen_text6",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -921,8 +703,8 @@
                 {
                     "id": 4,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text7",
+                    "subtitleLangKey": "school_story_4_screen_text8",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -942,7 +724,7 @@
                 {
                     "id": 5,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
+                    "titleLangKey":  "school_story_4_screen_text9",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -963,8 +745,8 @@
                 {
                     "id": 6,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text10",
+                    "subtitleLangKey": "school_story_4_screen_text11",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -984,8 +766,8 @@
                 {
                     "id": 7,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
-                    "subtitleLangKey": "",
+                    "titleLangKey":  "school_story_4_screen_text12",
+                    "subtitleLangKey": "school_story_4_screen_text13",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1005,7 +787,7 @@
                 {
                     "id": 8,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text14",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -1038,8 +820,8 @@
                 {
                     "id": 10,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
-                    "subtitleLangKey": "",
+                    "titleLangKey":  "school_story_4_screen_text15",
+                    "subtitleLangKey": "school_story_4_screen_text16",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1059,8 +841,8 @@
                 {
                     "id": 11,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text17",
+                    "subtitleLangKey": "school_story_4_screen_text18",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1080,8 +862,8 @@
                 {
                     "id": 12,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
-                    "subtitleLangKey": "",
+                    "titleLangKey":  "school_story_4_screen_text19",
+                    "subtitleLangKey": "school_story_4_screen_text20",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1101,8 +883,8 @@
                 {
                     "id": 13,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text21",
+                    "subtitleLangKey": "school_story_4_screen_text22",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1122,7 +904,7 @@
                 {
                     "id": 14,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
+                    "titleLangKey":  "school_story_4_screen_text23",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -1143,8 +925,8 @@
                 {
                     "id": 15,
                     "type": "DEFAULT",
-                    "titleLangKey": "",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_4_screen_text24",
+                    "subtitleLangKey": "school_story_4_screen_text25",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1164,8 +946,8 @@
                 {
                     "id": 16,
                     "type": "DEFAULT",
-                    "titleLangKey":  "",
-                    "subtitleLangKey": "",
+                    "titleLangKey":  "school_story_4_screen_text26",
+                    "subtitleLangKey": "school_story_4_screen_text27",
                     "imageUrl": "",
                     "buttons": [
                         {
