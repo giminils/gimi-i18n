@@ -57,6 +57,34 @@
             "imageUrl": "https://picsum.photos/200/300",
             "type": "challenge",
             "challengeId": 6
+        },
+        {
+            "id": 7,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_7_title",
+            "subtitleLangKey": "school_lesson_7_subtitle",
+            "imageUrl": "https://picsum.photos/200/300",
+            "type": "DEFAULT",
+            "storyId": 7,
+            "challengeId": 7
+        },
+        {
+            "id": 8,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_8_title",
+            "subtitleLangKey": "school_lesson_8_subtitle",
+            "imageUrl": "https://picsum.photos/200/300",
+            "type": "challenge",
+            "challengeId": 8
+        },
+        {
+            "id": 8,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_8_title",
+            "subtitleLangKey": "school_lesson_8_subtitle",
+            "imageUrl": "https://picsum.photos/200/300",
+            "type": "challenge",
+            "challengeId": 8
         }
     ]
 }

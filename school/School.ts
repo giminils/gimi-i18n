@@ -24,7 +24,7 @@ export let getLesson = (id: number) => {
 
 export let getAllChapters = () => {
   return chapters.map((chapter) => {
-    const chapterLessons = lessons.filter((lesson) => chapter.lessonIds.indexOf(lesson.id) !== -1)
+    const chapterLessons = lessons.filter((lesson) => chapter.lessonIds.indexOf(lesson.id) !== -1 && lesson.isEnabled)
     return {...chapter, lessons: chapterLessons}
   })
 }
