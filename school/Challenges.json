@@ -583,7 +583,123 @@
                             "isCorrect": false
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "CLICK_TO_CHOOSE_ORDER",
+            "titleLangKey": "school_challenge_5_title",
+            "subtitleLangKey": "school_challenge_5_subtitle",
+            "screens": [
+                {
+                    "id": 1,
+                    "titleLangKey":  "school_challenge_select_in_order1_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 5,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 6,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        }
+                    ]
                 },
+                {
+                    "id": 2,
+                    "titleLangKey":  "school_challenge_select_in_order1_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 5,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 6,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titleLangKey":  "school_challenge_select_in_order1_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 5,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 6,
+                            "langKey": "school_challenge_select_in_order_item",
+                            "imageUrl": ""
+                        }
+                    ]
+                }
             ]
         }
     ]
