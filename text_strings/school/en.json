@@ -308,5 +308,8 @@
   "school_undo": "Undo",
   "school_rocket_test": "Rocket test",
   "school_chapter_number": "Chapter %1$d",
-  "school_start_rocket_test": "Start rocket test"
+  "school_start_rocket_test": "Start rocket test",
+  "school_rocket_gas_liter": "%1$d L",
+  "school_rocket_correct_answer": "Correct!",
+  "school_rocket_wrong_answer": "Wrong answer"
 }

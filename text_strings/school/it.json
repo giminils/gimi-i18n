@@ -241,5 +241,8 @@
   "school_undo": "PLZ_TRANSLATE Undo",
   "school_rocket_test": "PLZ_TRANSLATE Rocket test",
   "school_chapter_number": "PLZ_TRANSLATE Chapter %1$d",
-  "school_start_rocket_test": "PLZ_TRANSLATE Start rocket test"
+  "school_start_rocket_test": "PLZ_TRANSLATE Start rocket test",
+  "school_rocket_gas_liter": "PLZ_TRANSLATE %1$d L",
+  "school_rocket_correct_answer": "PLZ_TRANSLATE Correct!",
+  "school_rocket_wrong_answer": "PLZ_TRANSLATE Wrong answer"
 }
