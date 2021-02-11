@@ -881,6 +881,207 @@
                     ]
                 }
             ]
+        },
+        {
+    "id": 5,
+    "challengeId": 5,
+    "screens": [
+        {
+            "id": 1,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text1",
+            "subtitleLangKey": "",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button56"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text2",
+            "subtitleLangKey": "school_story_5_screen_text3",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button57"
+                },
+                {
+                    "langKey": "school_screen_button58"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text4",
+            "subtitleLangKey": "school_story_5_screen_text5",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_answer_general_okay"
+                },
+                {
+                    "langKey": "school_answer_general_splainmorepiggy"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text6",
+            "subtitleLangKey": "",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button59"
+                },
+                {
+                    "langKey": "school_screen_button60"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text7",
+            "subtitleLangKey": "",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_answer_general_iunderstand"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text8",
+            "subtitleLangKey": "school_story_5_screen_text9",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button61"
+                },
+                {
+                    "langKey": "school_screen_button62"
+                },
+                {
+                    "langKey": "school_screen_button63"
+                },
+                {
+                    "langKey": "school_screen_button64"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "type": "PAUSE",
+            "titleLangKey": "",
+            "subtitleLangKey": "school_story_1_pause_title",
+            "imageUrl": "/static/school/piggySwim.png",
+            "buttons": [
+                {
+                    "langKey": "school_story_1_pause_button"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text10",
+            "subtitleLangKey": "school_story_5_screen_text11",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button65"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text12",
+            "subtitleLangKey": "school_story_5_screen_text13",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button66"
+                },
+                {
+                    "langKey": "school_screen_button67"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text14",
+            "subtitleLangKey": "",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button68"
+                },
+                {
+                    "langKey": "school_screen_button69"
+                },
+                {
+                    "langKey": "school_screen_button70"
+                },
+                {
+                    "langKey": "school_screen_button71"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text15",
+            "subtitleLangKey": "",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button72"
+                },
+                {
+                    "langKey": "school_screen_button73"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "type": "DEFAULT",
+            "titleLangKey":  "school_story_5_screen_text16",
+            "subtitleLangKey": "school_story_5_screen_text17",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button74"
+                },
+                {
+                    "langKey": "school_screen_button75"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "type": "DEFAULT",
+            "titleLangKey": "school_story_5_screen_text18",
+            "subtitleLangKey": "school_story_5_screen_text19",
+            "imageUrl": "",
+            "buttons": [
+                {
+                    "langKey": "school_screen_button76"
+                },
+                {
+                    "langKey": "school_screen_button77"
+                }
+            ]
         }
+    ]
+}
     ]   
 }
