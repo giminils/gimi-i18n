@@ -345,5 +345,6 @@
   "school_start_rocket_test": "Start rocket test",
   "school_rocket_gas_liter": "%1$d L",
   "school_rocket_correct_answer": "Correct!",
-  "school_rocket_wrong_answer": "Wrong answer"
+  "school_rocket_wrong_answer": "Wrong answer",
+  "school_yes_i_will": "Yes, I will!"
 }
