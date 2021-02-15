@@ -2406,5 +2406,6 @@
   "cancel_sub_to_access_open_banking": "Cancel the Gimi Master subscription to connect to a bank account",
   "general_change_account": "Change account",
   "goal_what_do_you_save_for": "What are you saving for?",
-  "general_ok_short_expressive": "OK!"
+  "general_ok_short_expressive": "OK!",
+  "what_can_you_buy_save_emptystate":"What you can afford if you reach %1$d in savings"
 }
