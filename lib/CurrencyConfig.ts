@@ -13,8 +13,7 @@ import ConfigCHF from '../config/config_CHF.json'
 
 export const getCurrencyConfig = (currencyCode: string | undefined) => {
   switch (currencyCode) {
-  
-    case 'EUR': return { ...ConfigEUR, currencyCode }
+    case 'EUR': return {...ConfigEUR, currencyCode}
     case 'CHF': return {...ConfigCHF, currencyCode}
     case 'NOK': return {...ConfigNOK, currencyCode}
     case 'DKK': return {...ConfigDKK, currencyCode}
