@@ -2407,5 +2407,7 @@
   "general_change_account": "PLZ_TRANSLATE Change account",
   "goal_what_do_you_save_for": "PLZ_TRANSLATE What are you saving for?",
   "general_ok_short_expressive": "PLZ_TRANSLATE OK!",
-  "what_can_you_buy_save_emptystate": "PLZ_TRANSLATE What you can afford if you reach %1$d in savings"
+  "what_can_you_buy_save_emptystate": "PLZ_TRANSLATE What you can afford if you reach %1$d in savings",
+  "goto_play_store": "PLZ_TRANSLATE Go to PlayStore",
+  "goto_app_store": "PLZ_TRANSLATE Go to AppStore"
 }

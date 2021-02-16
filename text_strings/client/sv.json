@@ -2407,5 +2407,7 @@
   "general_change_account": "PLZ_CHECK Change account",
   "goal_what_do_you_save_for": "PLZ_CHECK What are you saving for?",
   "general_ok_short_expressive": "PLZ_CHECK OK!",
-  "what_can_you_buy_save_emptystate": "PLZ_CHECK What you can afford if you reach %1$d in savings"
+  "what_can_you_buy_save_emptystate": "PLZ_CHECK What you can afford if you reach %1$d in savings",
+  "goto_play_store": "PLZ_CHECK Go to PlayStore",
+  "goto_app_store": "PLZ_CHECK Go to AppStore"
 }
