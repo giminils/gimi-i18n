@@ -72,8 +72,8 @@ describe('School tests', () => {
           expect(screens).toBeDefined()
         })
         if (screens) test('quiz challenge screen should have exactly 1 correct answer', () => {
-          screens.forEach(({buttons}: {buttons?: Array<Object>}) => {
-            const correctAnwers = buttons?.filter((button: {isCorrect?: boolean}) => button.isCorrect === true).length
+          screens.forEach(({buttons}: {buttons: Array<Object>}) => {
+            const correctAnwers = buttons.filter((button: {isCorrect?: boolean}) => button.isCorrect === true).length
             if (correctAnwers !== 1) warnChallengeId(challenge, 'correct answers')
             expect(correctAnwers).toBe(1)
           })
@@ -97,20 +97,20 @@ describe('School tests', () => {
           expect(screens).toBeDefined()
         })
         if (screens) test('click to choose multiple/in order challenges screen should have at multiple buttons', () => {
-          screens.forEach(({buttons}: {buttons?: Array<Object>}) => {
+          screens.forEach(({buttons}: {buttons: Array<Object>}) => {
             if (!buttons || buttons.length < 1) warnChallengeId(challenge, 'buttons')
-            expect(buttons?.length).toBeGreaterThan(1)
+            expect(buttons.length).toBeGreaterThan(1)
           })
         })
-        if (screens) screens.forEach(({buttons}: {buttons?: Array<Object>}) => {
+        if (screens) screens.forEach(({buttons}: {buttons: Array<Object>}) => {
           if (type === 'CLICK_TO_CHOOSE_MULTIPLE') test('click to choose multiple challenge screen should have at least 1 correct answer', () => {
-            const isButtonsValid = buttons?.some((button: {isCorrect?: boolean}) => button.isCorrect === true)
+            const isButtonsValid = buttons.some((button: {isCorrect?: boolean}) => button.isCorrect === true)
             if (!isButtonsValid) warnChallengeId(challenge, 'correct answers')
             expect(isButtonsValid).toBeTruthy()
           })
           let ids: Array<Number> = []
           test('click to choose multiple/in order challenges buttons should have id', () => {
-            buttons?.forEach((button: {id?: number}) => {
+            buttons.forEach((button: {id?: number}) => {
               ids.push(button.id ? button.id : 0)
               if (!button.id || button.id < 1) warnChallengeId(challenge, 'button id')
               expect(button.id).toBeGreaterThan(0)
