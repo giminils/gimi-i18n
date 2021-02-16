@@ -1,0 +1,119 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "subtitleLangKey": "",
+            "screens": [
+                {
+                    "id": 1,
+                    "titleLangKey":  "rocket_screen_title",
+                    "buttons": [
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "rocket_button_correct",
+                            "isCorrect": true,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titleLangKey":  "rocket_screen_title",
+                    "buttons": [
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "rocket_button_correct",
+                            "isCorrect": true,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titleLangKey":  "rocket_screen_title",
+                    "buttons": [
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "rocket_button_correct",
+                            "isCorrect": true,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "rocket_button",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
