@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Vain %1$d voi tallettaa rahaa Gimi-korttiin täältä. Muista, että sinä maksan bonukset!",
   "phone_verification_sent_to_kid_phone": "Vahvistuskoodi on lähetetty lapsesi uuteen puhelinnumeroon",
   "education_title": "Harjoituksia",
-  "education_n_out_of_n_completed": "%1$d/%2$d suoritettu",
+  "education_n_out_of_n_completed": "PLZ_TRANSLATE %1$d/%2$d approved",
   "education_more_chapters_coming_soon": "Lisää tulossa!",
   "spending_categories_item_explainer_kid": "Käytit %1$d %2$d varten tässä kuussa",
   "spending_categories_item_explainer_parent": "%1$d käytti %2$d %3$d varten tässä kuussa",

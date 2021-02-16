@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Only %1$d can top-up the Gimi card from here. Remember, you still pay the bonus!",
   "phone_verification_sent_to_kid_phone": "A verification code has been sent to your child’s new phone number",
   "education_title": "Educate",
-  "education_n_out_of_n_completed": "PLZ_COPY %1$d/%2$d approved",
+  "education_n_out_of_n_completed": "%1$d/%2$d approved",
   "education_more_chapters_coming_soon": "More coming soon!",
   "spending_categories_item_explainer_kid": "You spent %1$d on %2$d this month",
   "spending_categories_item_explainer_parent": "%1$d spent %2$d on %3$d this month",
@@ -2407,5 +2407,5 @@
   "general_change_account": "Change account",
   "goal_what_do_you_save_for": "What are you saving for?",
   "general_ok_short_expressive": "OK!",
-  "what_can_you_buy_save_emptystate":"What you can afford if you reach %1$d in savings"
+  "what_can_you_buy_save_emptystate": "What you can afford if you reach %1$d in savings"
 }

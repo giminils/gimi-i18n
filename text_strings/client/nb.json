@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Det er bare %1$d som kan fylle på Gimi-kortet fra nå. Husk at du fortsatt betaler bonusen!",
   "phone_verification_sent_to_kid_phone": "Verifiseringskode er sendt til ditt barns nye telefonnummer",
   "education_title": "Øvelser",
-  "education_n_out_of_n_completed": "%1$d/%2$d fullført",
+  "education_n_out_of_n_completed": "PLZ_TRANSLATE %1$d/%2$d approved",
   "education_more_chapters_coming_soon": "Mer kommer snart!",
   "spending_categories_item_explainer_kid": "Du brukte %1$d på %2$d denne måneden",
   "spending_categories_item_explainer_parent": "%1$d brukte %2$d på %3$d denne måneden",

@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Seulement %1$d peux recharger la carte Gimi d'ici. Rappelez-vous, vous devez toujours payez le bonus!",
   "phone_verification_sent_to_kid_phone": "Le code de vérification est envoyé au nouveau numéro de téléphone de votre enfant",
   "education_title": "Éduquer",
-  "education_n_out_of_n_completed": "%1$d/%2$d completé",
+  "education_n_out_of_n_completed": "PLZ_TRANSLATE %1$d/%2$d approved",
   "education_more_chapters_coming_soon": "Plus à venir bientôt!",
   "spending_categories_item_explainer_kid": "Vous avez depensé %1$d en %2$d ce mois",
   "spending_categories_item_explainer_parent": "%1$d a depensé %2$d en %3$d ce mois",

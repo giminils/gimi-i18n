@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Bara %1$d kan ladda Gimi-kortet från det här kontot. Nu betalar du sparbonus på det här kontot!",
   "phone_verification_sent_to_kid_phone": "En verifikationskod har skickats till ditt barns nya telefonnummer",
   "education_title": "Utbilda",
-  "education_n_out_of_n_completed": "%1$d/%2$d utförda",
+  "education_n_out_of_n_completed": "PLZ_CHECK %1$d/%2$d approved",
   "education_more_chapters_coming_soon": "Mer kommer snart!",
   "spending_categories_item_explainer_kid": "Du spenderade %1$d på %2$d den här månaden",
   "spending_categories_item_explainer_parent": "%1$d spenderade %2$d på %3$d den här månaden",

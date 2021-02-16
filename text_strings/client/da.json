@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Kun %1$d kan tanke Gimi-kortet op her. Husk, at du stadig betaler bonus!",
   "phone_verification_sent_to_kid_phone": "Verificeringskoden er sendt til dit barns nye telefonnummer",
   "education_title": "Uddan",
-  "education_n_out_of_n_completed": "%1$d/%2$d færdiggjort",
+  "education_n_out_of_n_completed": "PLZ_TRANSLATE %1$d/%2$d approved",
   "education_more_chapters_coming_soon": "Der kommer snart mere!",
   "spending_categories_item_explainer_kid": "Du har brugt %1$d på %2$d denne måned",
   "spending_categories_item_explainer_parent": "%1$d har brugt %2$d på %3$d denne måned",
