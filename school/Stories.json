@@ -883,483 +883,485 @@
             ]
         },
         {
-    "id": 5,
-    "challengeId": 5,
-    "screens": [
-        {
-            "id": 1,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text1",
-            "subtitleLangKey": "",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button56"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text2",
-            "subtitleLangKey": "school_story_5_screen_text3",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button57"
-                },
-                {
-                    "langKey": "school_screen_button58"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text4",
-            "subtitleLangKey": "school_story_5_screen_text5",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_okay"
-                },
-                {
-                    "langKey": "school_answer_general_splainmorepiggy"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text6",
-            "subtitleLangKey": "",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button59"
-                },
-                {
-                    "langKey": "school_screen_button60"
-                }
-            ]
-        },
-        {
             "id": 5,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text7",
-            "subtitleLangKey": "",
-            "imageUrl": "",
-            "buttons": [
+            "challengeId": 5,
+            "screens": [
                 {
-                    "langKey": "school_answer_general_iunderstand"
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text1",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button56"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text2",
+                    "subtitleLangKey": "school_story_5_screen_text3",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button57"
+                        },
+                        {
+                            "langKey": "school_screen_button58"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text4",
+                    "subtitleLangKey": "school_story_5_screen_text5",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_okay"
+                        },
+                        {
+                            "langKey": "school_answer_general_splainmorepiggy"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text6",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button59"
+                        },
+                        {
+                            "langKey": "school_screen_button60"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text7",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_iunderstand"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text8",
+                    "subtitleLangKey": "school_story_5_screen_text9",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button61"
+                        },
+                        {
+                            "langKey": "school_screen_button62"
+                        },
+                        {
+                            "langKey": "school_screen_button63"
+                        },
+                        {
+                            "langKey": "school_screen_button64"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "type": "PAUSE",
+                    "titleLangKey": "",
+                    "subtitleLangKey": "school_story_1_pause_title",
+                    "imageUrl": "/static/school/piggySwim.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_1_pause_button"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text10",
+                    "subtitleLangKey": "school_story_5_screen_text11",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button65"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text12",
+                    "subtitleLangKey": "school_story_5_screen_text13",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button66"
+                        },
+                        {
+                            "langKey": "school_screen_button67"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text14",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button68"
+                        },
+                        {
+                            "langKey": "school_screen_button69"
+                        },
+                        {
+                            "langKey": "school_screen_button70"
+                        },
+                        {
+                            "langKey": "school_screen_button71"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text15",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button72"
+                        },
+                        {
+                            "langKey": "school_screen_button73"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_5_screen_text16",
+                    "subtitleLangKey": "school_story_5_screen_text17",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button74"
+                        },
+                        {
+                            "langKey": "school_screen_button75"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5_screen_text18",
+                    "subtitleLangKey": "school_story_5_screen_text19",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button76"
+                        },
+                        {
+                            "langKey": "school_screen_button77"
+                        }
+                    ]
                 }
             ]
         },
         {
             "id": 6,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text8",
-            "subtitleLangKey": "school_story_5_screen_text9",
-            "imageUrl": "",
-            "buttons": [
+            "challengeId": 6,
+            "screens": [
                 {
-                    "langKey": "school_screen_button61"
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text1",
+                    "subtitleLangKey": "school_story_6_screen_text2",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button78"
+                        },
+                        {
+                            "langKey": "school_screen_button79"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button62"
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text3",
+                    "subtitleLangKey": "",
+                    "imageUrl": "/static/school/budget.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_okay"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button63"
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text4",
+                    "subtitleLangKey": "",
+                    "imageUrl": "/static/school/budget.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button80"
+                        },
+                        {
+                            "langKey": "school_screen_button81"
+                        },
+                        {
+                            "langKey": "school_screen_button82"
+                        },
+                        {
+                            "langKey": "school_answer_general_idk"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button64"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "type": "PAUSE",
-            "titleLangKey": "",
-            "subtitleLangKey": "school_story_1_pause_title",
-            "imageUrl": "/static/school/piggySwim.png",
-            "buttons": [
-                {
-                    "langKey": "school_story_1_pause_button"
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text10",
-            "subtitleLangKey": "school_story_5_screen_text11",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button65"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text12",
-            "subtitleLangKey": "school_story_5_screen_text13",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button66"
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text5",
+                    "subtitleLangKey": "school_story_6_screen_text6",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_iunderstand"
+                        },
+                        {
+                            "langKey": "school_screen_button83"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button67"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text14",
-            "subtitleLangKey": "",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button68"
+                    "id": 5,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text7",
+                    "subtitleLangKey": "school_story_6_screen_text8",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_okay?"
+                        },
+                        {
+                            "langKey": "school_screen_button84"
+                        },
+                        {
+                            "langKey": "school_screen_button85"
+                        },
+                        {
+                            "langKey": "school_screen_button86"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button69"
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text9",
+                    "subtitleLangKey": "school_story_6_screen_text10",
+                    "imageUrl": "/static/school/budget.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button87"
+                        },
+                        {
+                            "langKey": "school_screen_button88"
+                        },
+                        {
+                            "langKey": "school_screen_button89"
+                        },
+                        {
+                            "langKey": "school_screen_button90"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button70"
+                    "id": 7,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text11",
+                    "subtitleLangKey": "school_story_6_screen_text12",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_tellmemore"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button71"
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text15",
-            "subtitleLangKey": "",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button72"
+                    "id": 8,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text13",
+                    "subtitleLangKey": "school_story_6_screen_text14",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_okaygo"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button73"
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_5_screen_text16",
-            "subtitleLangKey": "school_story_5_screen_text17",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button74"
+                    "id": 9,
+                    "type": "PAUSE",
+                    "titleLangKey": "",
+                    "subtitleLangKey": "school_story_1_pause_title",
+                    "imageUrl": "/static/school/piggySwim.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_1_pause_button"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button75"
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "type": "DEFAULT",
-            "titleLangKey": "school_story_5_screen_text18",
-            "subtitleLangKey": "school_story_5_screen_text19",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button76"
+                    "id": 10,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text15",
+                    "subtitleLangKey": "school_story_6_screen_text16",
+                    "imageUrl": "/static/school/budget.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button91"
+                        },
+                        {
+                            "langKey": "school_screen_button92"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button77"
-                }
-            ]
-        }
-    ]
-},
-{
-    "id": 6,
-    "challengeId": 6,
-    "screens": [
-        {
-            "id": 1,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text1",
-            "subtitleLangKey": "school_story_6_screen_text2",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button78"
+                    "id": 11,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text17",
+                    "subtitleLangKey": "school_story_6_screen_text18",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button93"
+                        },
+                        {
+                            "langKey": "school_answer_general_why?"
+                        },
+                        {
+                            "langKey": "school_answer_general_idk"
+                        },
+                        {
+                            "langKey": "school_screen_button94"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button79"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text3",
-            "subtitleLangKey": "",
-            "imageUrl": "/static/school/budget.png",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_okay"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text4",
-            "subtitleLangKey": "",
-            "imageUrl": "/static/school/budget.png",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button80"
+                    "id": 12,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text19",
+                    "subtitleLangKey": "school_story_6_screen_text20",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_iwaswrong"
+                        },
+                        {
+                            "langKey": "school_answer_general_yesrightanswer"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button81"
+                    "id": 13,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text21",
+                    "subtitleLangKey": "school_story_6_screen_text22",
+                    "imageUrl": "/static/school/budget.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button95"
+                        },
+                        {
+                            "langKey": "school_screen_button96"
+                        },
+                        {
+                            "langKey": "school_screen_button97"
+                        },
+                        {
+                            "langKey": "school_screen_button98"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button82"
+                    "id": 14,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text23",
+                    "subtitleLangKey": "school_story_6_screen_text24",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button99"
+                        },
+                        {
+                            "langKey": "school_answer_general_iknow"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_answer_general_idk"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text5",
-            "subtitleLangKey": "school_story_6_screen_text6",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_iunderstand"
+                    "id": 15,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text25",
+                    "subtitleLangKey": "school_story_6_screen_text26",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button100"
+                        },
+                        {
+                            "langKey": "school_screen_button101"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button83"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text7",
-            "subtitleLangKey": "school_story_6_screen_text8",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_okay?"
+                    "id": 16,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_6_screen_text27",
+                    "subtitleLangKey": "school_story_6_screen_text28",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_screen_button102"
+                        },
+                        {
+                            "langKey": "school_screen_button103"
+                        },
+                        {
+                            "langKey": "school_screen_button104"
+                        },
+                        {
+                            "langKey": "school_screen_button105"
+                        }
+                    ]
                 },
                 {
-                    "langKey": "school_screen_button84"
-                },
-                {
-                    "langKey": "school_screen_button85"
-                },
-                {
-                    "langKey": "school_screen_button86"
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text9",
-            "subtitleLangKey": "school_story_6_screen_text10",
-            "imageUrl": "/static/school/budget.png",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button87"
-                },
-                {
-                    "langKey": "school_screen_button88"
-                },
-                {
-                    "langKey": "school_screen_button89"
-                },
-                {
-                    "langKey": "school_screen_button90"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text11",
-            "subtitleLangKey": "school_story_6_screen_text12",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_tellmemore"
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text13",
-            "subtitleLangKey": "school_story_6_screen_text14",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_okaygo"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "type": "PAUSE",
-            "titleLangKey": "",
-            "subtitleLangKey": "school_story_1_pause_title",
-            "imageUrl": "/static/school/piggySwim.png",
-            "buttons": [
-                {
-                    "langKey": "school_story_1_pause_button"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text15",
-            "subtitleLangKey": "school_story_6_screen_text16",
-            "imageUrl": "/static/school/budget.png",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button91"
-                },
-                {
-                    "langKey": "school_screen_button92"
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text17",
-            "subtitleLangKey": "school_story_6_screen_text18",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button93"
-                },
-                {
-                    "langKey": "school_answer_general_why?"
-                },
-                {
-                    "langKey": "school_answer_general_idk"
-                },
-                {
-                    "langKey": "school_screen_button94"
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text19",
-            "subtitleLangKey": "school_story_6_screen_text20",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_iwaswrong"
-                },
-                {
-                    "langKey": "school_answer_general_yesrightanswer"
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text21",
-            "subtitleLangKey": "school_story_6_screen_text22",
-            "imageUrl": "/static/school/budget.png",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button95"
-                },
-                {
-                    "langKey": "school_screen_button96"
-                },
-                {
-                    "langKey": "school_screen_button97"
-                },
-                {
-                    "langKey": "school_screen_button98"
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text23",
-            "subtitleLangKey": "school_story_6_screen_text24",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button99"
-                },
-                {
-                    "langKey": "school_answer_general_iknow"
-                }
-            ]
-        },
-        {
-            "id": 15,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text25",
-            "subtitleLangKey": "school_story_6_screen_text26",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button100"
-                },
-                {
-                    "langKey": "school_screen_button101"
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "type": "DEFAULT",
-            "titleLangKey":  "school_story_6_screen_text27",
-            "subtitleLangKey": "school_story_6_screen_text28",
-            "imageUrl": "",
-            "buttons": [
-                {
-                    "langKey": "school_screen_button102"
-                },
-                {
-                    "langKey": "school_screen_button103"
-                },
-                {
-                    "langKey": "school_screen_button104"
-                },
-                {
-                    "langKey": "school_screen_button105"
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "type": "DEFAULT",
-            "titleLangKey": "school_story_6_screen_text29",
-            "subtitleLangKey": "",
-            "imageUrl": "/static/school/budget.png",
-            "buttons": [
-                {
-                    "langKey": "school_answer_general_okay"
+                    "id": 17,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_6_screen_text29",
+                    "subtitleLangKey": "",
+                    "imageUrl": "/static/school/budget.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_answer_general_okay"
+                        }
+                    ]
                 }
             ]
         }
