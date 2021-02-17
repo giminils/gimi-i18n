@@ -690,7 +690,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_4_screen_text7",
                     "subtitleLangKey": "school_story_4_screen_text8",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/pants.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button40"
@@ -726,7 +726,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_4_screen_text10",
                     "subtitleLangKey": "school_story_4_screen_text11",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/breadPile.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_okay"
@@ -738,7 +738,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_4_screen_text12",
                     "subtitleLangKey": "school_story_4_screen_text13",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/peopleInLine.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_yup"
@@ -777,7 +777,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_4_screen_text15",
                     "subtitleLangKey": "school_story_4_screen_text16",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_iunderstand"
@@ -804,7 +804,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_4_screen_text19",
                     "subtitleLangKey": "school_story_4_screen_text20",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/shopping.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button47"
@@ -840,7 +840,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_4_screen_text23",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyTeacher.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_okay"
