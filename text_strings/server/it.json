@@ -516,7 +516,7 @@
   "CHGERE023_notification_title_v2": "PLZ_TRANSLATE {task.title} was approved, you earned {task.value}",
   "CHGERE023_notification_title_v3": "PLZ_TRANSLATE {task.title} was approved, you earned {formatted_value}",
   "CHPRON016_notification_title": "PLZ_TRANSLATE You have a negative card balance, top-up your card right away",
-  "CHPRON015_notification_title": "PLZ_TRANSLATE You're card is activated. First time you buy something, make sure to use PIN-code and you can then start blipping",
+  "CHPRON015_notification_title": "PLZ_TRANSLATE Your card is activated. You have to use the PIN-code the first time, then you can start blipping!",
   "CHPRRE045_push_title": "PLZ_TRANSLATE Check out your balance in the Gimi app!",
   "CHGERE002_push_title": "PLZ_TRANSLATE You’re now connected with {parent.nickname}!",
   "CHGERE007_notification_title": "PLZ_TRANSLATE {task.title} was sent to you by {parent.nickname}",
