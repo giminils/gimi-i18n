@@ -46,7 +46,8 @@
             "titleLangKey": "school_lesson_5_title",
             "subtitleLangKey": "school_lesson_5_subtitle",
             "imageUrl": "https://picsum.photos/200/300",
-            "type": "challenge",
+            "type": "DEFAULT",
+            "storyId": 5,
             "challengeId": 5
         },
         {
@@ -55,7 +56,8 @@
             "titleLangKey": "school_lesson_6_title",
             "subtitleLangKey": "school_lesson_6_subtitle",
             "imageUrl": "https://picsum.photos/200/300",
-            "type": "challenge",
+            "type": "DEFAULT",
+            "storyId": 6,
             "challengeId": 6
         },
         {
