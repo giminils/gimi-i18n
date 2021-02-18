@@ -2410,5 +2410,8 @@
   "what_can_you_buy_save_emptystate": "PLZ_TRANSLATE What you can afford if you reach %1$d in savings",
   "goto_play_store": "PLZ_TRANSLATE Go to PlayStore",
   "goto_app_store": "PLZ_TRANSLATE Go to AppStore",
-  "successes_and_regrets": "PLZ_TRANSLATE Sucesses & Regrets"
+  "successes_and_regrets": "PLZ_TRANSLATE Sucesses & Regrets",
+  "general_successes": "Successes",
+  "general_regrets": "Regrets",
+  "success_regrets_help": "PLZ_TRANSLATE Swipe left to mark an event as success, and swipe right to mark it as a regret!"
 }
