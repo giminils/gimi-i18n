@@ -2413,5 +2413,7 @@
   "successes_and_regrets": "Sucesses & Regrets",
   "general_successes": "Successes",
   "general_regrets": "Regrets",
-  "success_regrets_help": "Swipe left to mark an event as success, and swipe right to mark it as a regret!"
+  "success_regrets_help": "Swipe left to mark an event as success, and swipe right to mark it as a regret!",
+  "general_make_regret":"Make regret",
+  "general_make_success": "Make success"
 }
