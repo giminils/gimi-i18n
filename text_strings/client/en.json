@@ -2409,5 +2409,9 @@
   "general_ok_short_expressive": "OK!",
   "what_can_you_buy_save_emptystate": "What you can afford if you reach %1$d in savings",
   "goto_play_store": "Go to PlayStore",
-  "goto_app_store": "Go to AppStore"
+  "goto_app_store": "Go to AppStore",
+  "successes_and_regrets":"Sucesses & Regrets",
+  "general_successes":"Successes",
+  "general_regrets":"Regrets",
+  "success_regrets_help":"Swipe left to mart an event as success, and swipe right to mark it as a regret!"
 }

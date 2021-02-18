@@ -2409,5 +2409,6 @@
   "general_ok_short_expressive": "PLZ_TRANSLATE OK!",
   "what_can_you_buy_save_emptystate": "PLZ_TRANSLATE What you can afford if you reach %1$d in savings",
   "goto_play_store": "PLZ_TRANSLATE Go to PlayStore",
-  "goto_app_store": "PLZ_TRANSLATE Go to AppStore"
+  "goto_app_store": "PLZ_TRANSLATE Go to AppStore",
+  "successes_and_regrets": "PLZ_TRANSLATE Sucesses & Regrets"
 }
