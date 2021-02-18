@@ -2415,5 +2415,7 @@
   "general_regrets": "Regrets",
   "success_regrets_help": "PLZ_CHECK Swipe left to mark an event as success, and swipe right to mark it as a regret!",
   "general_make_regret": "PLZ_CHECK Make regret",
-  "general_make_success": "PLZ_CHECK Make success"
+  "general_make_success": "PLZ_CHECK Make success",
+  "general_made_success": "PLZ_CHECK Marked as success!",
+  "general_made_regret": "PLZ_CHECK Marked as regret!"
 }

@@ -2415,5 +2415,7 @@
   "general_regrets": "Regrets",
   "success_regrets_help": "PLZ_TRANSLATE Swipe left to mark an event as success, and swipe right to mark it as a regret!",
   "general_make_regret": "PLZ_TRANSLATE Make regret",
-  "general_make_success": "PLZ_TRANSLATE Make success"
+  "general_make_success": "PLZ_TRANSLATE Make success",
+  "general_made_success": "PLZ_TRANSLATE Marked as success!",
+  "general_made_regret": "PLZ_TRANSLATE Marked as regret!"
 }
