@@ -463,7 +463,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_1",
                     "titleLangKey":  "",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/pants.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_1",
@@ -549,7 +549,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_2",
                     "titleLangKey":  "",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/shopping.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_5",
@@ -625,7 +625,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_3",
                     "titleLangKey":  "",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/breadButter.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_7",
@@ -1189,25 +1189,25 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_pricetag10pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_pricetag25pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pricetag36pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_pricetag11pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": false
                         }
                     ]
@@ -1219,25 +1219,25 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_pricetag500pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/backpack.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_pricetag250pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/backpack.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pricetag852pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/backpack.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_pricetag460pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/backpack.png",
                             "isCorrect": false
                         }
                     ]
@@ -1249,25 +1249,25 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_pricetag80pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pizza.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_pricetag100pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pizza.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pricetag120pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pizza.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_pricetag95pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pizza.png",
                             "isCorrect": false
                         }
                     ]
@@ -1279,37 +1279,37 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_pricetag6pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_pricetag10pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pricetag15pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_pricetag3pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": true
                         },
                         {
                             "id": 5,
                             "langKey": "school_picture_title_pricetag18pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
                             "langKey": "school_picture_title_pricetag11pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         }
                     ]
@@ -1321,37 +1321,37 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_pricetag6000pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartphone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "sschool_picture_title_pricetag5680pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartphone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pricetag10090pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartphone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_pricetag7800pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartphone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 5,
                             "langKey": "school_picture_title_pricetag4500pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartphone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
                             "langKey": "school_picture_title_pricetag8349pb",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartphone.png",
                             "isCorrect": false
                         }
                     ]
