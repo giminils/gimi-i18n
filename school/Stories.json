@@ -654,7 +654,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_4_screen_text3",
                     "subtitleLangKey": "school_story_4_screen_text4",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/pantsApple.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button35"
@@ -705,7 +705,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_4_screen_text9",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button42"
@@ -891,7 +891,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text1",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/book.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button56"
@@ -918,7 +918,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text4",
                     "subtitleLangKey": "school_story_5_screen_text5",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/priceLower.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_okay"
@@ -933,7 +933,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text6",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/appleTree.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button59"
@@ -948,7 +948,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text7",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/appleCheap.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_iunderstand"
@@ -993,7 +993,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text10",
                     "subtitleLangKey": "school_story_5_screen_text11",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/priceHigher.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button65"
@@ -1020,7 +1020,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text14",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/gameConsole2020.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button68"
@@ -1041,7 +1041,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_5_screen_text15",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/gameConsole1990.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button72"
@@ -1107,7 +1107,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_6_screen_text3",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/budget.png",
+                    "imageUrl": "/static/school/coinPouch.png",
                     "buttons": [
                         {
                             "langKey": "school_answer_general_okay"
@@ -1119,7 +1119,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_6_screen_text4",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/budget.png",
+                    "imageUrl": "/static/school/electricCar.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button80"
@@ -1176,7 +1176,7 @@
                     "type": "DEFAULT",
                     "titleLangKey":  "school_story_6_screen_text9",
                     "subtitleLangKey": "school_story_6_screen_text10",
-                    "imageUrl": "/static/school/budget.png",
+                    "imageUrl": "/static/school/priceCompare.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button87"
