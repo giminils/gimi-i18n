@@ -680,7 +680,7 @@
                     "id": 1,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text8",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "/static/school/supplyDemand.png",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -699,7 +699,7 @@
                     "id": 2,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text9",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "/static/school/supplyDemand.png",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -718,7 +718,7 @@
                     "id": 3,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text10",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "/static/school/supplyDemand.png",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -737,7 +737,7 @@
                     "id": 4,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text11",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "/static/school/supplyDemand.png",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -756,7 +756,7 @@
                     "id": 5,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text12",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "/static/school/supplyDemand.png",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -775,7 +775,7 @@
                     "id": 6,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text13",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "/static/school/supplyDemand.png",
                     "imageUrl": "",
                     "buttons": [
                         {
