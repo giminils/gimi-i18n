@@ -490,5 +490,7 @@
   "school_rocket_gas_liter": "%1$d L",
   "school_rocket_correct_answer": "Correct!",
   "school_rocket_wrong_answer": "Wrong answer",
-  "school_yes_i_will": "Yes, I will!"
+  "school_yes_i_will": "Yes, I will!",
+  "school_rocket_alien_intro": "Introducing Alien...",
+  "school_rocket_will_you_help_alien": "Will you help Alien through the rocket test?"
 }

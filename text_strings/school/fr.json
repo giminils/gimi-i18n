@@ -490,5 +490,7 @@
   "school_rocket_gas_liter": "PLZ_TRANSLATE %1$d L",
   "school_rocket_correct_answer": "PLZ_TRANSLATE Correct!",
   "school_rocket_wrong_answer": "PLZ_TRANSLATE Wrong answer",
-  "school_yes_i_will": "PLZ_TRANSLATE Yes, I will!"
+  "school_yes_i_will": "PLZ_TRANSLATE Yes, I will!",
+  "school_rocket_alien_intro": "PLZ_TRANSLATE Introducing Alien...",
+  "school_rocket_will_you_help_alien": "PLZ_TRANSLATE Will you help Alien through the rocket test?"
 }
