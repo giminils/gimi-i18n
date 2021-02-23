@@ -2417,5 +2417,11 @@
   "general_make_regret": "PLZ_CHECK Regret",
   "general_make_success": "PLZ_CHECK Success",
   "general_made_success": "PLZ_CHECK Marked as success!",
-  "general_made_regret": "PLZ_CHECK Marked as regret!"
+  "general_made_regret": "PLZ_CHECK Marked as regret!",
+  "money_converter_title": "PLZ_CHECK Savings\nconverter",
+  "money_converter_products": "PLZ_CHECK Products",
+  "money_converter_currencies": "PLZ_CHECK Currencies",
+  "money_converter_product_examples": "PLZ_CHECK These are only examples of things you can buy. Dream of buying something else? Create a goal!",
+  "money_converter_currency_examples": "PLZ_CHECK Most game currencies are sold in  packs, but this shows roughly how much they’re worth!",
+  "money_converter_you_afford": "PLZ_CHECK You afford"
 }

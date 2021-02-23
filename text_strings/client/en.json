@@ -2417,5 +2417,11 @@
   "general_make_regret": "Regret",
   "general_make_success": "Success",
   "general_made_success": "Marked as success!",
-  "general_made_regret": "Marked as regret!"
+  "general_made_regret": "Marked as regret!",
+  "money_converter_title": "Savings\nconverter",
+  "money_converter_products": "Products",
+  "money_converter_currencies": "Currencies",
+  "money_converter_product_examples": "These are only examples of things you can buy. Dream of buying something else? Create a goal!",
+  "money_converter_currency_examples": "Most game currencies are sold in  packs, but this shows roughly how much they’re worth!",
+  "money_converter_you_afford": "You afford"
 }
