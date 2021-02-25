@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "isLocked": false,
+            "isLocked": true,
             "titleLangKey": "school_chapter_2_title",
             "subtitleLangKey": "school_chapter_2_subtitle",
             "imageUrl": "",
@@ -19,7 +19,7 @@
         },
         {
             "id": 3,
-            "isLocked": false,
+            "isLocked": true,
             "titleLangKey": "school_chapter_3_title",
             "subtitleLangKey": "school_chapter_3_subtitle",
             "imageUrl": "",
