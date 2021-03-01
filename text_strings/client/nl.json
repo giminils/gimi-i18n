@@ -2459,5 +2459,19 @@
   "money_converter_electric_car": "PLZ_TRANSLATE Electric car",
   "money_converter_electric_car_multiple": "PLZ_TRANSLATE %1$d Electric cars",
   "money_converter_space_travel": "PLZ_TRANSLATE Space travel",
-  "money_converter_space_travel_multiple": "PLZ_TRANSLATE %1$d Space travels"
+  "money_converter_space_travel_multiple": "PLZ_TRANSLATE %1$d Space travels",
+  "open_banking_action_parent_pin_title": "PLZ_TRANSLATE Gimi doesn’t have access to the PIN!",
+  "open_banking_action_parent_pin_desc": "PLZ_TRANSLATE Login to yours / your child’s bank app to see if you can view it there.",
+  "open_banking_action_parent_card_details_title": "PLZ_TRANSLATE View the card details in the bank app!",
+  "open_banking_action_parent_card_details_desc": "PLZ_TRANSLATE Gimi doesn’t have access to them.",
+  "open_banking_action_parent_report_lost_title": "PLZ_TRANSLATE Report it lost in the bank app!",
+  "open_banking_action_parent_report_lost_desc": "PLZ_TRANSLATE You can’t do it in Gimi.",
+  "open_banking_action_kid_report_lost_title": "PLZ_TRANSLATE Report it lost in your bank app!",
+  "open_banking_action_kid_report_lost_desc": "PLZ_TRANSLATE You can’t do it from the Gimi app.Ask an adult if you need help!",
+  "open_banking_action_kid_block_card_title": "PLZ_TRANSLATE Deactivate your card in your bank app!",
+  "open_banking_action_kid_block_card_desc": "PLZ_TRANSLATE You can’t do it from the Gimi app.Ask an adult if you need help!",
+  "open_banking_action_kid_card_details_title": "PLZ_TRANSLATE View your card details in your bank app!",
+  "open_banking_action_kid_card_details_desc": "PLZ_TRANSLATE Gimi doesn’t have access to them.Ask an adult if you need help!",
+  "open_banking_action_kid_pin_title": "PLZ_TRANSLATE Gimi doesn’t have access to your PIN!",
+  "open_banking_action_kid_pin_desc": "PLZ_TRANSLATE Login to your bank app to see if you can view it there, or ask an adult for help."
 }
