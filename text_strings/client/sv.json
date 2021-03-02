@@ -2475,5 +2475,6 @@
   "open_banking_action_kid_pin_title": "PLZ_CHECK Gimi doesn’t have access to your PIN!",
   "open_banking_action_kid_pin_desc": "PLZ_CHECK Login to your bank app to see if you can view it there, or ask an adult for help.",
   "open_banking_not_connected_info": "PLZ_CHECK No active connection",
-  "general_connect_open_banking": "PLZ_CHECK Connect bank account"
+  "general_connect_open_banking": "PLZ_CHECK Connect bank account",
+  "go_to_master_settings": "PLZ_CHECK Go to Gimi Master settings"
 }
