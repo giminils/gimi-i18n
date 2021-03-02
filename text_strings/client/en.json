@@ -2473,5 +2473,7 @@
   "open_banking_action_kid_card_details_title": "View your card details in your bank app!",
   "open_banking_action_kid_card_details_desc": "Gimi doesn’t have access to them.Ask an adult if you need help!",
   "open_banking_action_kid_pin_title": "Gimi doesn’t have access to your PIN!",
-  "open_banking_action_kid_pin_desc": "Login to your bank app to see if you can view it there, or ask an adult for help."
+  "open_banking_action_kid_pin_desc": "Login to your bank app to see if you can view it there, or ask an adult for help.",
+  "open_banking_not_connected_info":"No active connection",
+  "general_connect_open_banking":"Connect bank account"
 }

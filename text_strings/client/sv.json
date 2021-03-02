@@ -2473,5 +2473,7 @@
   "open_banking_action_kid_card_details_title": "PLZ_CHECK View your card details in your bank app!",
   "open_banking_action_kid_card_details_desc": "PLZ_CHECK Gimi doesn’t have access to them.Ask an adult if you need help!",
   "open_banking_action_kid_pin_title": "PLZ_CHECK Gimi doesn’t have access to your PIN!",
-  "open_banking_action_kid_pin_desc": "PLZ_CHECK Login to your bank app to see if you can view it there, or ask an adult for help."
+  "open_banking_action_kid_pin_desc": "PLZ_CHECK Login to your bank app to see if you can view it there, or ask an adult for help.",
+  "open_banking_not_connected_info": "PLZ_CHECK No active connection",
+  "general_connect_open_banking": "PLZ_CHECK Connect bank account"
 }
