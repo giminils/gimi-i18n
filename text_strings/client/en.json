@@ -2476,5 +2476,6 @@
   "open_banking_action_kid_pin_desc": "Login to your bank app to see if you can view it there, or ask an adult for help.",
   "open_banking_not_connected_info":"No active connection",
   "general_connect_open_banking":"Connect bank account",
-  "go_to_master_settings":"Go to Gimi Master settings"
+  "go_to_master_settings":"Go to Gimi Master settings",
+  "general_short_remove":"Remove"
 }
