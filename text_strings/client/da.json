@@ -2479,5 +2479,7 @@
   "go_to_master_settings": "PLZ_TRANSLATE Go to Gimi Master settings",
   "general_short_remove": "PLZ_TRANSLATE Remove",
   "card_activation_success_parent_title": "PLZ_TRANSLATE This card is now activated!",
-  "card_activation_success_parent_desc": "PLZ_TRANSLATE Success! Your child can now spend their own money!"
+  "card_activation_success_parent_desc": "PLZ_TRANSLATE Success! Your child can now spend their own money!",
+  "general_unmarked_evaluation": "PLZ_TRANSLATE Unmarked transaction",
+  "general_unmark": "PLZ_TRANSLATE Unmark"
 }
