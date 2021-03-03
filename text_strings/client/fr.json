@@ -2477,5 +2477,7 @@
   "open_banking_not_connected_info": "PLZ_TRANSLATE No active connection",
   "general_connect_open_banking": "PLZ_TRANSLATE Connect bank account",
   "go_to_master_settings": "PLZ_TRANSLATE Go to Gimi Master settings",
-  "general_short_remove": "PLZ_TRANSLATE Remove"
+  "general_short_remove": "PLZ_TRANSLATE Remove",
+  "card_activation_success_parent_title": "PLZ_TRANSLATE This card is now activated!",
+  "card_activation_success_parent_desc": "PLZ_TRANSLATE Success! Your child can now spend their own money!"
 }
