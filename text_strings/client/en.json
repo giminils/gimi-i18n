@@ -2461,7 +2461,7 @@
   "money_converter_space_travel": "Space travel",
   "money_converter_space_travel_multiple": "%1$d Space travels",
   "open_banking_action_parent_pin_title": "Gimi doesn’t have access to the PIN!",
-  "open_banking_action_parent_pin_desc": "Login to yours / your child’s bank app to see if you can view it there.",
+  "open_banking_action_parent_pin_desc": "PLZ_COPY Login to yours/your child’s bank app to see if you can view it there.",
   "open_banking_action_parent_card_details_title": "View the card details in the bank app!",
   "open_banking_action_parent_card_details_desc": "Gimi doesn’t have access to them.",
   "open_banking_action_parent_report_lost_title": "Report it lost in the bank app!",
