@@ -2480,7 +2480,7 @@
   "general_short_remove": "Remove",
   "card_activation_success_parent_title": "This card is now activated!",
   "card_activation_success_parent_desc":"Success! Your child can now spend their own money!",
-  "general_unmarked_evaluation":"Unmarked transaction",
+  "general_unmarked_evaluation":"PLZ_COPY You unmarked the event!",
   "general_unmark": "Unmark"
 
 }
