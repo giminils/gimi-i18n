@@ -205,51 +205,61 @@
                 {
                     "titleLangKey": "school_challenge_bank1_title1",
                     "price": 10,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/pen.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title2",
                     "price": 145,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/basketball.png"
                 },
                                 {
                     "titleLangKey": "school_challenge_bank1_title3",
                     "price": 25,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/icecream.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title4",
                     "price": 65,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/candyBag.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title5",
                     "price": 350,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/pants.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title6",
                     "price": 1995,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/headphones2.png"
                 },
                                 {
                     "titleLangKey": "school_challenge_bank1_title7",
                     "price": 80,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/pizza.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title8",
                     "price": 455,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/game.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title9",
                     "price": 2450,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/computer.png"
                 },
                 {
                     "titleLangKey": "school_challenge_bank1_title10",
                     "price": 990,
+                    "currencyCode": "",
                     "imageUrl": "/static/school/sneakers.png"
                 }
             ]
