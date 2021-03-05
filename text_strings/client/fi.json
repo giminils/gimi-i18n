@@ -2478,8 +2478,8 @@
   "general_connect_open_banking": "PLZ_TRANSLATE Connect bank account",
   "go_to_master_settings": "PLZ_TRANSLATE Go to Gimi Master settings",
   "general_short_remove": "PLZ_TRANSLATE Remove",
-  "card_activation_success_parent_title": "PLZ_TRANSLATE This card is now activated!",
-  "card_activation_success_parent_desc": "PLZ_TRANSLATE Success! Your child can now spend their own money!",
+  "card_activation_success_parent_title": "PLZ_TRANSLATE The card is now activated!",
+  "card_activation_success_parent_desc": "PLZ_TRANSLATE Nice one! The child can now start using the card online and in stores.",
   "general_unmarked_evaluation": "PLZ_TRANSLATE You unmarked the event!",
   "general_unmark": "PLZ_TRANSLATE Unmark"
 }

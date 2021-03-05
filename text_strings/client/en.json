@@ -2478,8 +2478,8 @@
   "general_connect_open_banking": "Connect bank account",
   "go_to_master_settings": "Go to Gimi Master settings",
   "general_short_remove": "Remove",
-  "card_activation_success_parent_title": "PLZ_COPY The card is now activated!",
-  "card_activation_success_parent_desc": "PLZ_COPY Nice one! The child can now start using the card online and in stores.",
+  "card_activation_success_parent_title": "The card is now activated!",
+  "card_activation_success_parent_desc": "Nice one! The child can now start using the card online and in stores.",
   "general_unmarked_evaluation": "You unmarked the event!",
   "general_unmark": "Unmark"
 }
