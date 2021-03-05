@@ -1557,118 +1557,68 @@
             ]
         },
         {
-            "id": 11,
-            "type": "CLICK_TO_CHOOSE_ORDER",
-            "titleLangKey": "school_challenge_5_title",
-            "subtitleLangKey": "school_challenge_5_subtitle",
-            "screens": [
+            "id": 8,
+            "type": "BANK",
+            "products": [
                 {
-                    "id": 1,
-                    "titleLangKey":  "school_challenge_select_in_order1_title",
-                    "buttons": [
-                        {
-                            "id": 1,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 2,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 3,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 4,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 5,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 6,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        }
-                    ]
+                    "titleLangKey": "school_challenge_8_bank_screen_title1",
+                    "price": 25,
+                    "currencyCode": "PLN",
+                    "imageUrl": "/static/school/socks.png"
                 },
                 {
-                    "id": 2,
-                    "titleLangKey":  "school_challenge_select_in_order1_title",
-                    "buttons": [
-                        {
-                            "id": 1,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 2,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 3,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 4,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 5,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 6,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        }
-                    ]
+                    "titleLangKey": "school_challenge_8_bank_screen_title2",
+                    "price": 20,
+                    "currencyCode": "",
+                    "imageUrl": "/static/school//chocolate.png"
                 },
                 {
-                    "id": 3,
-                    "titleLangKey":  "school_challenge_select_in_order1_title",
-                    "buttons": [
-                        {
-                            "id": 1,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 2,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 3,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 4,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 5,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        },
-                        {
-                            "id": 6,
-                            "langKey": "school_challenge_select_in_order_item",
-                            "imageUrl": ""
-                        }
-                    ]
+                    "titleLangKey": "school_challenge_8_bank_screen_title3",
+                    "price": 50,
+                    "currencyCode": "NOK",
+                    "imageUrl": "/static/school//flowerboquet.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title4",
+                    "price": 55,
+                    "currencyCode": "EUR",
+                    "imageUrl": "/static/school//backpack.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title5",
+                    "price": 150,
+                    "currencyCode": "DKK",
+                    "imageUrl": "/static/school//icehockeystick.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title6",
+                    "price": 4500,
+                    "currencyCode": "",
+                    "imageUrl": "/static/school//smartwatch.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title7",
+                    "price": 4090,
+                    "currencyCode": "SEK",
+                    "imageUrl": "/static/school//computer.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title8",
+                    "price": 3250,
+                    "currencyCode": "",
+                    "imageUrl": "/static/school/gamingConcole2020.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title9",
+                    "price": 1200,
+                    "currencyCode": "USD",
+                    "imageUrl": "/static/school/pony.png"
+                },
+                {
+                    "titleLangKey": "school_challenge_8_bank_screen_title10",
+                    "price": 800,
+                    "currencyCode": "EUR",
+                    "imageUrl": "/static/school/smartPhone.png"
                 }
             ]
         }
