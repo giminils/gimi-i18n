@@ -1415,7 +1415,7 @@
                     "id": 4,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7_screen_4_title",
-                    "subtitleLangKey": "school_story_7_screen_4_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "/static/school/piggyBook.png",
                     "buttons": [
                         {
@@ -1493,7 +1493,7 @@
                     "id": 9,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7_screen_9_title",
-                    "subtitleLangKey": "school_story_7_screen_9_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1526,7 +1526,7 @@
                     "id": 11,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7_screen_11_title",
-                    "subtitleLangKey": "school_story_7_screen_11_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "/static/school/toiletPaper2.png",
                     "buttons": [
                         {
@@ -1538,7 +1538,7 @@
                     "id": 12,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7_screen_12_title",
-                    "subtitleLangKey": "school_story_7_screen_12_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "/static/school/piggyBillReceipt.png",
                     "buttons": [
                         {
@@ -1592,7 +1592,7 @@
                     "id": 15,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7_screen_15_title",
-                    "subtitleLangKey": "school_story_7_screen_15_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "/static/school/piggyDucky.png",
                     "buttons": [
                         {
@@ -1709,7 +1709,7 @@
                     "id": 4,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_8_screen_4_title",
-                    "subtitleLangKey": "school_story_8_screen_4_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1928,7 +1928,7 @@
                     "id": 18,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_8_screen_18_title",
-                    "subtitleLangKey": "school_story_8_screen_18_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1982,7 +1982,7 @@
                     "id": 22,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_8_screen_22_title",
-                    "subtitleLangKey": "school_story_8_screen_22_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
