@@ -759,6 +759,13 @@
   "school_rocket_correct_answer": "PLZ_TRANSLATE Correct!",
   "school_rocket_wrong_answer": "PLZ_TRANSLATE Wrong answer",
   "school_yes_i_will": "PLZ_TRANSLATE Yes, I will!",
-  "school_rocket_alien_intro": "PLZ_TRANSLATE Introducing Alien...",
-  "school_rocket_will_you_help_alien": "PLZ_TRANSLATE Will you help Alien through the rocket test?"
+  "school_yes_lets_go": "PLZ_TRANSLATE Yes, let’s go!",
+  "school_rocket_tutorial_screen_1_title": "PLZ_TRANSLATE Hello again!\nGood job on getting through the destinations and meeting up with me here for the Rocket Launch!",
+  "school_rocket_tutorial_screen_1_subtitle": "PLZ_TRANSLATE For us to be able to go to the next planet, we have to get fuel!",
+  "school_rocket_tutorial_screen_2_title": "PLZ_TRANSLATE Here at the station we can get it by answering correctly to some questions about finance.",
+  "school_rocket_tutorial_screen_2_subtitle": "PLZ_TRANSLATE Can you please help me? You seem to have some financial superskills! ",
+  "school_rocket_tutorial_screen_3_title": "PLZ_TRANSLATE You will get ten questions. The meter will fill up with one liter per correct answer.",
+  "school_rocket_tutorial_screen_3_subtitle": "PLZ_TRANSLATE For the rocket to launch we need at least 5 liters of fuel!",
+  "school_rocket_tutorial_screen_4_title": "PLZ_TRANSLATE If we can't launch you can go back to Piggy at the destinations and then we try again. And remember, you have a time limit for answering the questions!",
+  "school_rocket_tutorial_screen_4_subtitle": "PLZ_TRANSLATE I'm ready! Are you ready to try and see if we can launch to the next planet!?"
 }
