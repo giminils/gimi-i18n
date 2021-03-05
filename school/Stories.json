@@ -1377,10 +1377,10 @@
                     "imageUrl": "/static/school/stacksCurrencies.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_1_button_1_title"
+                            "langKey": "school_story_7_screen_1_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_1_button_2_title"
+                            "langKey": "school_story_7_screen_1_button_2_title"
                         }
                     ]
                 },
@@ -1392,10 +1392,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_2_button_1_title"
+                            "langKey": "school_story_7_screen_2_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_2_button_2_title"
+                            "langKey": "school_story_7_screen_2_button_2_title"
                         }
                     ]
                 },
@@ -1407,7 +1407,7 @@
                     "imageUrl": "/static/school/differentCurrencies.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_3_button_1_title"
+                            "langKey": "school_story_7_screen_3_button_1_title"
                         }
                     ]
                 },
@@ -1419,10 +1419,10 @@
                     "imageUrl": "/static/school/piggyBook.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_4_button_1_title"
+                            "langKey": "school_story_7_screen_4_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_4_button_2_title"
+                            "langKey": "school_story_7_screen_4_button_2_title"
                         }
                     ]
                 },
@@ -1434,10 +1434,10 @@
                     "imageUrl": "/static/school/USAdollar.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_5_button_1_title"
+                            "langKey": "school_story_7_screen_5_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_5_button_2_title"
+                            "langKey": "school_story_7_screen_5_button_2_title"
                         }
                     ]
                 },
@@ -1449,16 +1449,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_6_button_1_title"
+                            "langKey": "school_story_7_screen_6_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_6_button_2_title"
+                            "langKey": "school_story_7_screen_6_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_6_button_3_title"
+                            "langKey": "school_story_7_screen_6_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_6_button_4_title"
+                            "langKey": "school_story_7_screen_6_button_4_title"
                         }
                     ]
                 },
@@ -1470,7 +1470,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_7_button_1_title"
+                            "langKey": "school_story_7_screen_7_button_1_title"
                         }
                     ]
                 },
@@ -1482,10 +1482,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_8_button_1_title"
+                            "langKey": "school_story_7_screen_8_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_8_button_2_title"
+                            "langKey": "school_story_7_screen_8_button_2_title"
                         }
                     ]
                 },
@@ -1497,16 +1497,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_9_button_1_title"
+                            "langKey": "school_story_7_screen_9_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_9_button_2_title"
+                            "langKey": "school_story_7_screen_9_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_9_button_3_title"
+                            "langKey": "school_story_7_screen_9_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_9_button_4_title"
+                            "langKey": "school_story_7_screen_9_button_4_title"
                         }
                     ]
                 },
@@ -1530,7 +1530,7 @@
                     "imageUrl": "/static/school/toiletPaper2.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_11_button_1_title"
+                            "langKey": "school_story_7_screen_11_button_1_title"
                         }
                     ]
                 },
@@ -1542,7 +1542,7 @@
                     "imageUrl": "/static/school/piggyBillReceipt.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_12_button_1_title"
+                            "langKey": "school_story_7_screen_12_button_1_title"
                         }
                     ]
                 },
@@ -1554,16 +1554,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_13_button_1_title"
+                            "langKey": "school_story_7_screen_13_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_13_button_2_title"
+                            "langKey": "school_story_7_screen_13_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_13_button_3_title"
+                            "langKey": "school_story_7_screen_13_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_13_button_4_title"
+                            "langKey": "school_story_7_screen_13_button_4_title"
                         }
                     ]
                 },
@@ -1575,16 +1575,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_14_button_1_title"
+                            "langKey": "school_story_7_screen_14_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_14_button_2_title"
+                            "langKey": "school_story_7_screen_14_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_14_button_3_title"
+                            "langKey": "school_story_7_screen_14_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_14_button_4_title"
+                            "langKey": "school_story_7_screen_14_button_4_title"
                         }
                     ]
                 },
@@ -1596,7 +1596,7 @@
                     "imageUrl": "/static/school/piggyDucky.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_15_button_1_title"
+                            "langKey": "school_story_7_screen_15_button_1_title"
                         }
                     ]
                 },
@@ -1608,7 +1608,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_16_button_1_title"
+                            "langKey": "school_story_7_screen_16_button_1_title"
                         }
                     ]
                 },
@@ -1620,10 +1620,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_17_button_1_title"
+                            "langKey": "school_story_7_screen_17_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_17_button_2_title"
+                            "langKey": "school_story_7_screen_17_button_2_title"
                         }
                     ]
                 },
@@ -1635,10 +1635,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_18_button_1_title"
+                            "langKey": "school_story_7_screen_18_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_7_screen_18_button_2_title"
+                            "langKey": "school_story_7_screen_18_button_2_title"
                         }
                     ]
                 },
@@ -1650,7 +1650,7 @@
                     "imageUrl": "/static/school/exchangeRates.png",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_7_screen_19_button_1_title"
+                            "langKey": "school_story_7_screen_19_button_1_title"
                         }
                     ]
                 }
@@ -1668,7 +1668,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_1_button_1_title"
+                            "langKey": "school_story_8_screen_1_button_1_title"
                         }
                     ]
                 },
@@ -1680,7 +1680,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_2_button_1_title"
+                            "langKey": "school_story_8_screen_2_button_1_title"
                         }
                     ]
                 },
@@ -1692,16 +1692,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_3_button_1_title"
+                            "langKey": "school_story_8_screen_3_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_3_button_2_title"
+                            "langKey": "school_story_8_screen_3_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_3_button_3_title"
+                            "langKey": "school_story_8_screen_3_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_3_button_4_title"
+                            "langKey": "school_story_8_screen_3_button_4_title"
                         }
                     ]
                 },
@@ -1713,10 +1713,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_4_button_1_title"
+                            "langKey": "school_story_8_screen_4_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_4_button_2_title"
+                            "langKey": "school_story_8_screen_4_button_2_title"
                         }
                     ]
                 },
@@ -1728,7 +1728,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_5_button_1_title"
+                            "langKey": "school_story_8_screen_5_button_1_title"
                         }
                     ]
                 },
@@ -1740,10 +1740,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_6_button_1_title"
+                            "langKey": "school_story_8_screen_6_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_6_button_2_title"
+                            "langKey": "school_story_8_screen_6_button_2_title"
                         }
                     ]
                 },
@@ -1755,10 +1755,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_7_button_1_title"
+                            "langKey": "school_story_8_screen_7_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_7_button_2_title"
+                            "langKey": "school_story_8_screen_7_button_2_title"
                         }
                     ]
                 },
@@ -1770,10 +1770,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_8_button_1_title"
+                            "langKey": "school_story_8_screen_8_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_8_button_2_title"
+                            "langKey": "school_story_8_screen_8_button_2_title"
                         }
                     ]
                 },
@@ -1785,10 +1785,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_9_button_1_title"
+                            "langKey": "school_story_8_screen_9_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_9_button_2_title"
+                            "langKey": "school_story_8_screen_9_button_2_title"
                         }
                     ]
                 },
@@ -1800,7 +1800,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_10_button_1_title"
+                            "langKey": "school_story_8_screen_10_button_1_title"
                         }
                     ]
                 },
@@ -1824,10 +1824,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_12_button_1_title"
+                            "langKey": "school_story_8_screen_12_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_12_button_2_title"
+                            "langKey": "school_story_8_screen_12_button_2_title"
                         }
                     ]
                 },
@@ -1839,10 +1839,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_13_button_1_title"
+                            "langKey": "school_story_8_screen_13_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_13_button_2_title"
+                            "langKey": "school_story_8_screen_13_button_2_title"
                         }
                     ]
                 },
@@ -1854,16 +1854,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_14_button_1_title"
+                            "langKey": "school_story_8_screen_14_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_14_button_2_title"
+                            "langKey": "school_story_8_screen_14_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_14_button_3_title"
+                            "langKey": "school_story_8_screen_14_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_14_button_4_title"
+                            "langKey": "school_story_8_screen_14_button_4_title"
                         }
                     ]
                 },
@@ -1875,16 +1875,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_15_button_1_title"
+                            "langKey": "school_story_8_screen_15_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_15_button_2_title"
+                            "langKey": "school_story_8_screen_15_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_15_button_3_title"
+                            "langKey": "school_story_8_screen_15_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_15_button_4_title"
+                            "langKey": "school_story_8_screen_15_button_4_title"
                         }
                     ]
                 },
@@ -1896,16 +1896,16 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_16_button_1_title"
+                            "langKey": "school_story_8_screen_16_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_16_button_2_title"
+                            "langKey": "school_story_8_screen_16_button_2_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_16_button_3_title"
+                            "langKey": "school_story_8_screen_16_button_3_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_16_button_4_title"
+                            "langKey": "school_story_8_screen_16_button_4_title"
                         }
                     ]
                 },
@@ -1917,10 +1917,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_17_button_1_title"
+                            "langKey": "school_story_8_screen_17_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_17_button_2_title"
+                            "langKey": "school_story_8_screen_17_button_2_title"
                         }
                     ]
                 },
@@ -1932,7 +1932,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_18_button_1_title"
+                            "langKey": "school_story_8_screen_18_button_1_title"
                         }
                     ]
                 },
@@ -1944,10 +1944,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_19_button_1_title"
+                            "langKey": "school_story_8_screen_19_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_19_button_2_title"
+                            "langKey": "school_story_8_screen_19_button_2_title"
                         }
                     ]
                 },
@@ -1959,7 +1959,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_20_button_1_title"
+                            "langKey": "school_story_8_screen_20_button_1_title"
                         }
                     ]
                 },
@@ -1971,10 +1971,10 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_21_button_1_title"
+                            "langKey": "school_story_8_screen_21_button_1_title"
                         },
                         {
-                            "titleLangKey": "school_story_8_screen_21_button_2_title"
+                            "langKey": "school_story_8_screen_21_button_2_title"
                         }
                     ]
                 },
@@ -1986,7 +1986,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "titleLangKey": "school_story_8_screen_22_button_1_title"
+                            "langKey": "school_story_8_screen_22_button_1_title"
                         }
                     ]
                 }
