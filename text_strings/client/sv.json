@@ -2481,5 +2481,17 @@
   "card_activation_success_parent_title": "PLZ_CHECK The card is now activated!",
   "card_activation_success_parent_desc": "PLZ_CHECK Nice one! The child can now start using the card online and in stores.",
   "general_unmarked_evaluation": "Du har avmarkerat händelsen!",
-  "general_unmark": "Avmarkera"
+  "general_unmark": "Avmarkera",
+  "your_bonus_from": "PLZ_CHECK Your bonus from %1$d",
+  "bonus_current_savings": "PLZ_CHECK Current savings",
+  "bonus_in_your_piggybank": "PLZ_CHECK In your piggybank",
+  "bonus_rate": "PLZ_CHECK Bonus rate",
+  "bonus_added_to_next_allowance": "PLZ_CHECK Added to next allowance",
+  "bonus_calculated_by": "PLZ_CHECK Calculation: %1$d =",
+  "bonus_from_other_supporters": "PLZ_CHECK From other supporters",
+  "bonus_total": "PLZ_CHECK Total bonus: %1$d",
+  "bonus_piggy_info": "PLZ_CHECK The more money you have in your piggybank, the more bonus you will get every %1$d!",
+  "no_bonus_added": "PLZ_CHECK No bonus added...",
+  "bonus_next_allowance": "PLZ_CHECK Next allowance: %1$d",
+  "bonus_from_other_supporter": "PLZ_CHECK %1$d from %2$d"
 }

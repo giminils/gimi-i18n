@@ -2481,5 +2481,17 @@
   "card_activation_success_parent_title": "The card is now activated!",
   "card_activation_success_parent_desc": "Nice one! The child can now start using the card online and in stores.",
   "general_unmarked_evaluation": "You unmarked the event!",
-  "general_unmark": "Unmark"
+  "general_unmark": "Unmark",
+  "your_bonus_from": "Your bonus from %1$d",
+  "bonus_current_savings": "Current savings",
+  "bonus_in_your_piggybank": "In your piggybank",
+  "bonus_rate": "Bonus rate",
+  "bonus_added_to_next_allowance": "Added to next allowance",
+  "bonus_calculated_by": "Calculation: %1$d =",
+  "bonus_from_other_supporters": "From other supporters",
+  "bonus_total": "Total bonus: %1$d",
+  "bonus_piggy_info": "The more money you have in your piggybank, the more bonus you will get every %1$d!",
+  "no_bonus_added": "No bonus added...",
+  "bonus_next_allowance": "Next allowance: %1$d",
+  "bonus_from_other_supporter": "%1$d from %2$d"
 }

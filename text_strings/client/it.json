@@ -2481,5 +2481,17 @@
   "card_activation_success_parent_title": "PLZ_TRANSLATE The card is now activated!",
   "card_activation_success_parent_desc": "PLZ_TRANSLATE Nice one! The child can now start using the card online and in stores.",
   "general_unmarked_evaluation": "PLZ_TRANSLATE You unmarked the event!",
-  "general_unmark": "PLZ_TRANSLATE Unmark"
+  "general_unmark": "PLZ_TRANSLATE Unmark",
+  "your_bonus_from": "PLZ_TRANSLATE Your bonus from %1$d",
+  "bonus_current_savings": "PLZ_TRANSLATE Current savings",
+  "bonus_in_your_piggybank": "PLZ_TRANSLATE In your piggybank",
+  "bonus_rate": "PLZ_TRANSLATE Bonus rate",
+  "bonus_added_to_next_allowance": "PLZ_TRANSLATE Added to next allowance",
+  "bonus_calculated_by": "PLZ_TRANSLATE Calculation: %1$d =",
+  "bonus_from_other_supporters": "PLZ_TRANSLATE From other supporters",
+  "bonus_total": "PLZ_TRANSLATE Total bonus: %1$d",
+  "bonus_piggy_info": "PLZ_TRANSLATE The more money you have in your piggybank, the more bonus you will get every %1$d!",
+  "no_bonus_added": "PLZ_TRANSLATE No bonus added...",
+  "bonus_next_allowance": "PLZ_TRANSLATE Next allowance: %1$d",
+  "bonus_from_other_supporter": "PLZ_TRANSLATE %1$d from %2$d"
 }
