@@ -876,6 +876,18 @@
                     "imageUrl": "",
                     "buttons": [
                         {
+                            "langKey": "school_answer_general_okay"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "type": "DEFAULT",
+                    "titleLangKey":  "school_story_4_screen_text28",
+                    "subtitleLangKey": "school_story_4_screen_text29",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
                             "langKey": "school_screen_button56"
                         }
                     ]
