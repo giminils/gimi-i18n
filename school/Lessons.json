@@ -34,8 +34,8 @@
             "id": 4,
             "isEnabled": true,
             "titleLangKey": "school_lesson_4_title",
-            "subtitleLangKey": "school_lesson_4_subtitle",
-            "imageUrl": "https://picsum.photos/200/300",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyShopping.png",
             "type": "DEFAULT",
             "storyId": 4,
             "challengeId": 4
@@ -44,8 +44,8 @@
             "id": 5,
             "isEnabled": true,
             "titleLangKey": "school_lesson_5_title",
-            "subtitleLangKey": "school_lesson_5_subtitle",
-            "imageUrl": "https://picsum.photos/200/300",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggySupplyDemand.png",
             "type": "DEFAULT",
             "storyId": 5,
             "challengeId": 5
@@ -54,8 +54,8 @@
             "id": 6,
             "isEnabled": true,
             "titleLangKey": "school_lesson_6_title",
-            "subtitleLangKey": "school_lesson_6_subtitle",
-            "imageUrl": "https://picsum.photos/200/300",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyPizzaMenu.png",
             "type": "DEFAULT",
             "storyId": 6,
             "challengeId": 6
@@ -64,8 +64,8 @@
             "id": 7,
             "isEnabled": true,
             "titleLangKey": "school_lesson_7_title",
-            "subtitleLangKey": "school_lesson_7_subtitle",
-            "imageUrl": "https://picsum.photos/200/300",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyCurrency.png",
             "type": "DEFAULT",
             "storyId": 7,
             "challengeId": 7
@@ -74,7 +74,27 @@
             "id": 8,
             "isEnabled": true,
             "titleLangKey": "school_lesson_8_title",
-            "subtitleLangKey": "school_lesson_8_subtitle",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyTravel.png",
+            "type": "DEFAULT",
+            "storyId": 8,
+            "challengeId": 8
+        },
+        {
+            "id": 9,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_9_title",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyCryptoCurrencies.png",
+            "type": "DEFAULT",
+            "storyId": 9,
+            "challengeId": 9
+        },
+        {
+            "id": 8,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_8_title",
+            "subtitleLangKey": "school_lesson_subtitle1",
             "imageUrl": "https://picsum.photos/200/300",
             "type": "challenge",
             "challengeId": 8
