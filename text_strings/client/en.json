@@ -2486,13 +2486,15 @@
   "bonus_current_savings": "Current savings",
   "bonus_in_your_piggybank": "In your piggybank",
   "bonus_rate": "Bonus rate",
-  "bonus_added_to_next_allowance": "Added to next allowance",
+  "bonus_added_to_next_weekly_allowance": "Added to next weekly allowance",
+  "bonus_added_to_next_monthly_allowance": "Added to next monthly allowance",
   "bonus_calculated_by": "Calculation: %1$d =",
   "bonus_from_other_supporters": "From other supporters",
   "bonus_total": "Total bonus: %1$d",
   "bonus_piggy_info": "The more money you have in your piggybank, the more bonus you will get every %1$d!",
   "no_bonus_added": "No bonus added...",
-  "bonus_next_allowance": "Next allowance: %1$d",
+  "bonus_next_weekly_allowance": "Next weekly allowance: %1$d",
+  "bonus_next_monthly_allowance": "Next monthly allowance: %1$d",
   "bonus_from_other_supporter": "%1$d from %2$d",
   "who_paid_kid_withdrawal": "Who paid for you?"
 }

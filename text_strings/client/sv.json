@@ -2486,13 +2486,15 @@
   "bonus_current_savings": "Nuvarande sparsumma",
   "bonus_in_your_piggybank": "I din spargris",
   "bonus_rate": "Bonusprocent",
-  "bonus_added_to_next_allowance": "PLZ_CHECK Added to next allowance",
+  "bonus_added_to_next_weekly_allowance": "PLZ_CHECK Added to next weekly allowance",
+  "bonus_added_to_next_monthly_allowance": "PLZ_CHECK Added to next monthly allowance",
   "bonus_calculated_by": "Uträkning: %1$d =",
   "bonus_from_other_supporters": "Från andra supporters",
   "bonus_total": "Total bonus: %1$d",
   "bonus_piggy_info": "Ju mer pengar du har i din spargris, ju mer bonus får du varje %1$d!",
   "no_bonus_added": "Ingen bonus tillagd...",
-  "bonus_next_allowance": "PLZ_CHECK Next allowance: %1$d",
+  "bonus_next_weekly_allowance": "PLZ_CHECK Next weekly allowance: %1$d",
+  "bonus_next_monthly_allowance": "PLZ_CHECK Next monthly allowance: %1$d",
   "bonus_from_other_supporter": "%1$d från %2$d",
   "who_paid_kid_withdrawal": "PLZ_CHECK Who paid for you?"
 }
