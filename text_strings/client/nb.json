@@ -2493,5 +2493,6 @@
   "bonus_piggy_info": "PLZ_TRANSLATE The more money you have in your piggybank, the more bonus you will get every %1$d!",
   "no_bonus_added": "PLZ_TRANSLATE No bonus added...",
   "bonus_next_allowance": "PLZ_TRANSLATE Next allowance: %1$d",
-  "bonus_from_other_supporter": "PLZ_TRANSLATE %1$d from %2$d"
+  "bonus_from_other_supporter": "PLZ_TRANSLATE %1$d from %2$d",
+  "who_paid_kid_withdrawal": "PLZ_TRANSLATE Who paid for you?"
 }

@@ -2493,5 +2493,6 @@
   "bonus_piggy_info": "Ju mer pengar du har i din spargris, ju mer bonus får du varje %1$d!",
   "no_bonus_added": "Ingen bonus tillagd...",
   "bonus_next_allowance": "PLZ_CHECK Next allowance: %1$d",
-  "bonus_from_other_supporter": "%1$d från %2$d"
+  "bonus_from_other_supporter": "%1$d från %2$d",
+  "who_paid_kid_withdrawal": "PLZ_CHECK Who paid for you?"
 }
