@@ -2496,5 +2496,11 @@
   "bonus_next_weekly_allowance": "Next weekly allowance: %1$d",
   "bonus_next_monthly_allowance": "Next monthly allowance: %1$d",
   "bonus_from_other_supporter": "%1$d from %2$d",
-  "who_paid_kid_withdrawal": "Who paid for you?"
+  "who_paid_kid_withdrawal": "Who paid for you?",
+  "add_a_bonus_rate": "Add a bonus rate?",
+  "bonus_is_paid_togheter_with_allowance": "The bonus will be paid out together with the %1$d allowance!",
+  "bonus_added_to_next_allowance_based_on_piggybank_amount": "Added to next %1$d allowance based on current piggybank amount: %2$d",
+  "bonus_how_is_this_calculated": "How is this calculated?",
+  "the_more_savings_the_bigger_bonus": "The more savings, the bigger the bonus!",
+  "current_amount_in_piggybank_with_calculation": "Current amount in the piggybank: %1$d\n\n%1$d x %2$d% = %3$d"
 }
