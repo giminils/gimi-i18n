@@ -89,24 +89,6 @@
             "type": "DEFAULT",
             "storyId": 9,
             "challengeId": 9
-        },
-        {
-            "id": 8,
-            "isEnabled": true,
-            "titleLangKey": "school_lesson_8_title",
-            "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "https://picsum.photos/200/300",
-            "type": "challenge",
-            "challengeId": 8
-        },
-        {
-            "id": 8,
-            "isEnabled": true,
-            "titleLangKey": "school_lesson_8_title",
-            "subtitleLangKey": "school_lesson_8_subtitle",
-            "imageUrl": "https://picsum.photos/200/300",
-            "type": "challenge",
-            "challengeId": 8
         }
     ]
 }
