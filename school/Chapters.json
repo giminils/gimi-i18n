@@ -23,7 +23,26 @@
             "titleLangKey": "school_chapter_3_title",
             "subtitleLangKey": "school_chapter_3_subtitle",
             "imageUrl": "",
-            "lessonIds": [7, 8, 9]
+            "lessonIds": [7, 8, 9],
+            "rocketId": 2
+        },
+        {
+            "id": 4,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_4_title",
+            "subtitleLangKey": "school_chapter_4_subtitle",
+            "imageUrl": "",
+            "lessonIds": [10, 11, 12],
+            "rocketId": 3
+        },
+        {
+            "id": 5,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_5_title",
+            "subtitleLangKey": "school_chapter_5_subtitle",
+            "imageUrl": "",
+            "lessonIds": [13, 14, 15],
+            "rocketId": 4
         }
     ]
 }
