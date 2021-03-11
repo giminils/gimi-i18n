@@ -1571,61 +1571,61 @@
             "type": "BANK",
             "products": [
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title1",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_1",
                     "price": 25,
                     "currencyCode": "PLN",
                     "imageUrl": "/static/school/socks.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title2",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_2",
                     "price": 20,
                     "currencyCode": "",
                     "imageUrl": "/static/school//chocolate.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title3",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_3",
                     "price": 50,
                     "currencyCode": "NOK",
                     "imageUrl": "/static/school//flowerboquet.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title4",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_4",
                     "price": 55,
                     "currencyCode": "EUR",
                     "imageUrl": "/static/school//backpack.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title5",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_5",
                     "price": 150,
                     "currencyCode": "DKK",
                     "imageUrl": "/static/school//icehockeystick.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title6",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_6",
                     "price": 4500,
                     "currencyCode": "",
                     "imageUrl": "/static/school//smartwatch.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title7",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_7",
                     "price": 4090,
                     "currencyCode": "SEK",
                     "imageUrl": "/static/school//computer.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title8",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_8",
                     "price": 3250,
                     "currencyCode": "",
                     "imageUrl": "/static/school/gamingConcole2020.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title9",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_9",
                     "price": 1200,
                     "currencyCode": "USD",
                     "imageUrl": "/static/school/pony.png"
                 },
                 {
-                    "titleLangKey": "school_challenge_8_bank_screen_title10",
+                    "titleLangKey": "school_challenge_8_bank_screen_title_10",
                     "price": 800,
                     "currencyCode": "EUR",
                     "imageUrl": "/static/school/smartPhone.png"
