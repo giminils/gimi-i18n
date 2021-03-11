@@ -491,7 +491,7 @@
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_picture_title_button_4",
+                            "langKey": "school_challenge_button_4",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -690,7 +690,7 @@
                     "id": 1,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text8",
-                    "subtitleLangKey": "/static/school/supplyDemand.png",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -709,7 +709,7 @@
                     "id": 2,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text9",
-                    "subtitleLangKey": "/static/school/supplyDemand.png",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -728,7 +728,7 @@
                     "id": 3,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text10",
-                    "subtitleLangKey": "/static/school/supplyDemand.png",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -747,7 +747,7 @@
                     "id": 4,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text11",
-                    "subtitleLangKey": "/static/school/supplyDemand.png",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -766,7 +766,7 @@
                     "id": 5,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text12",
-                    "subtitleLangKey": "/static/school/supplyDemand.png",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -785,7 +785,7 @@
                     "id": 6,
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text13",
-                    "subtitleLangKey": "/static/school/supplyDemand.png",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -1331,37 +1331,37 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_pricetag6000pb",
-                            "imageUrl": "/static/school/smartphone.png",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "sschool_picture_title_pricetag5680pb",
-                            "imageUrl": "/static/school/smartphone.png",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pricetag10090pb",
-                            "imageUrl": "/static/school/smartphone.png",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_pricetag7800pb",
-                            "imageUrl": "/static/school/smartphone.png",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 5,
                             "langKey": "school_picture_title_pricetag4500pb",
-                            "imageUrl": "/static/school/smartphone.png",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
                             "langKey": "school_picture_title_pricetag8349pb",
-                            "imageUrl": "/static/school/smartphone.png",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         }
                     ]

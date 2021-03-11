@@ -1000,7 +1000,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_5_screen_text10",
                     "subtitleLangKey": "school_story_5_screen_text11",
-                    "imageUrl": "/static/school/priceHigher.png",
+                    "imageUrl": "/static/school/pricehigher.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button65"
@@ -1027,7 +1027,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_5_screen_text14",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/gameConsole2020.png",
+                    "imageUrl": "/static/school/gamingConcole2020.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button68"
@@ -1048,7 +1048,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_5_screen_text15",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/gameConsole1990.png",
+                    "imageUrl": "/static/school/gamingConsole1990.png",
                     "buttons": [
                         {
                             "langKey": "school_screen_button72"
