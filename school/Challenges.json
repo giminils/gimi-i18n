@@ -1382,12 +1382,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_1",
+                            "langKey": "school_challenge_7_screen_button_1",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_2",
+                            "langKey": "school_challenge_7_screen_button_2",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1439,12 +1439,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_1",
+                            "langKey": "school_challenge_7_screen_button_1",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_2",
+                            "langKey": "school_challenge_7_screen_button_2",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1496,12 +1496,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_1",
+                            "langKey": "school_challenge_7_screen_button_1",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_2",
+                            "langKey": "school_challenge_7_screen_button_2",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1553,12 +1553,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_1",
+                            "langKey": "school_challenge_7_screen_button_1",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_2",
+                            "langKey": "school_challenge_7_screen_button_2",
                             "imageUrl": "",
                             "isCorrect": false
                         }
