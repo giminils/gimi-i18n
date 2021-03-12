@@ -870,6 +870,8 @@
   "school_start_story": "PLZ_TRANSLATE To the story",
   "school_go_to_chapters": "PLZ_TRANSLATE To chapter map",
   "school_go_back_to_chapters": "PLZ_TRANSLATE Back to chapter map",
+  "school_go_to_destinations": "PLZ_TRANSLATE To destination map",
+  "school_back_to_destinations": "PLZ_TRANSLATE Back to destination map",
   "shool_xp_value": "PLZ_TRANSLATE %1$d XP",
   "school_challenge_title": "PLZ_TRANSLATE Ready for the challenge?",
   "school_challenge_subtitle": "PLZ_TRANSLATE Good job! Now you can do the challenge to practice. Remember that you can always redo the story if you don't recall everything.",

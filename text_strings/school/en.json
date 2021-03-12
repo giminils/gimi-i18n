@@ -870,6 +870,8 @@
   "school_start_story": "To the story",
   "school_go_to_chapters": "To planet map",
   "school_go_back_to_chapters": "Back to planet map",
+  "school_go_to_destinations": "To destination map",
+  "school_back_to_destinations": "Back to destination map",
   "shool_xp_value": "%1$d XP",
   "school_challenge_title": "Ready for the challenge?",
   "school_challenge_subtitle": "Good job! Now you can do the challenge to practice. Remember that you can always redo the story if you don't recall everything.",

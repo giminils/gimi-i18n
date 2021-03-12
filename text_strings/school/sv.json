@@ -870,6 +870,8 @@
   "school_start_story": "Till berättelsen",
   "school_go_to_chapters": "Till planetkartan",
   "school_go_back_to_chapters": "Tillbaka till planetkartan",
+  "school_go_to_destinations": "PLZ_CHECK To destination map",
+  "school_back_to_destinations": "PLZ_CHECK Back to destination map",
   "shool_xp_value": "%1$d XP",
   "school_challenge_title": "Redo för utmaningen?",
   "school_challenge_subtitle": "Bra jobbat! Nu kan du göra utmaningen för att öva. Kom ihåg att du alltid kan läsa berättelsen igen om du inte minns allt.",
