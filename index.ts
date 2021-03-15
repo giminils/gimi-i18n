@@ -394,4 +394,4 @@ export function formatDecimals (value: number): number {
 
 export const SchoolHelper = School
 
-export const AllowanceSuggestionsByCountry = AllowanceSuggestions
+export const AllowanceSuggestionsByCurrency = AllowanceSuggestions
