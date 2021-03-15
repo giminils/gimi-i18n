@@ -30,7 +30,7 @@
   "school_story_1_screen_text3": "Förr i tiden, innan pengar fanns, bytte man istället saker med varandra. Byteshandel kallades det! ",
   "school_story_1_screen_text4": "Du kanske har bytt något med en kompis eller ett syskon?",
   "school_story_1_screen_text5": "Om man var duktig på att baka bröd, men ville ha kött, så kunde de byta sitt bröd mot kött med en slaktare i byn man levde i.",
-  "school_story_1_screen_text6": "Bra va?!",
+  "school_story_1_screen_text6": "Bra va?",
   "school_story_1_screen_text7": "Men man kunde ju inte byta ett bröd mot vad som helst, för vissa saker är ju värda mer.",
   "school_story_1_screen_text8": "Vad tror du är värt mest?",
   "school_story_1_screen_text9": "Rätt svar är:",
@@ -443,7 +443,7 @@
   "school_screen_button6": "Gott med bröd ju!",
   "school_screen_button7": "Kylskåp är en bra grej",
   "school_screen_button8": "Menar du pengar?",
-  "school_screen_button9": "Valtänder?! Usch!",
+  "school_screen_button9": "Valtänder? Usch!",
   "school_screen_button10": "Mynt",
   "school_screen_button11": "Staty av mig",
   "school_screen_button12": "Robux!",
@@ -452,7 +452,7 @@
   "school_screen_button15": "Jag har massor med papper hemma!",
   "school_screen_button16": "Vad knäppt!",
   "school_screen_button17": "Haha",
-  "school_screen_button18": "Fanns inte Swish?!",
+  "school_screen_button18": "Fanns inte Swish?",
   "school_screen_button19": "Hela tiden",
   "school_screen_button20": "Coolare med kort",
   "school_screen_button21": "Vad snålt...",
@@ -926,5 +926,5 @@
   "school_rocket_tutorial_screen_3_title": "Du kommer få tio frågor. Mätaren kommer fyllas på en liter för varje rätt svar.",
   "school_rocket_tutorial_screen_3_subtitle": "För att raketen ska kunna lyfta behöver vi minst 5 liter bränsle!",
   "school_rocket_tutorial_screen_4_title": "Om vi inte lyckas lyfta, kan du gå tillbaka till Piggy på destinationerna sen kan vi prova igen. Tänk på att du bara har en viss tid på dig att svara på en fråga!",
-  "school_rocket_tutorial_screen_4_subtitle": "Jag är redo! Är du redo att försöka så ser vi om vi kan lyfta och åka till nästa planet!?"
+  "school_rocket_tutorial_screen_4_subtitle": "Jag är redo! Är du redo att försöka så ser vi om vi kan lyfta och åka till nästa planet?"
 }
