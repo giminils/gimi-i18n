@@ -30,7 +30,7 @@
   "school_story_1_screen_text3": "In the past, before there even was money, people exchanged things with each other. It was called barter!",
   "school_story_1_screen_text4": "Have you exchanged something with a friend or sibling?",
   "school_story_1_screen_text5": "If you happened to be good at baking, but wanted meat as well, you could exchange your bread for meat with a butcher.",
-  "school_story_1_screen_text6": "Isn't that great?!",
+  "school_story_1_screen_text6": "Isn't that great?",
   "school_story_1_screen_text7": "But you couldn't exchange one loaf of bread for just anything, some things were worth more.",
   "school_story_1_screen_text8": "What do you think is worth the most?",
   "school_story_1_screen_text9": "The right answer is:",
@@ -441,7 +441,7 @@
   "school_screen_button4": "Oh! that's why pants are more expensive",
   "school_screen_button5": "I don't want any more pants",
   "school_screen_button6": "But bread is tasty!",
-  "school_screen_button7": "They didn't have fridges?!",
+  "school_screen_button7": "They didn't have fridges?",
   "school_screen_button8": "Do you mean money?",
   "school_screen_button9": "Whale teeth? Grose!",
   "school_screen_button10": "Coins",
@@ -452,7 +452,7 @@
   "school_screen_button15": "I have a lot of paper...",
   "school_screen_button16": "That's so funny!",
   "school_screen_button17": "Haha!",
-  "school_screen_button18": "You could't pay with your phone?!",
+  "school_screen_button18": "You could't pay with your phone?",
   "school_screen_button19": "All the time",
   "school_screen_button20": "A card is cooler...",
   "school_screen_button21": "That's a bit stingy...",
@@ -926,5 +926,5 @@
   "school_rocket_tutorial_screen_3_title": "You will get ten questions. The meter will fill up with one liter per correct answer.",
   "school_rocket_tutorial_screen_3_subtitle": "For the rocket to launch we need at least 5 liters of fuel!",
   "school_rocket_tutorial_screen_4_title": "If we can't launch, you can go back to Piggy at the destinations and then we try again. And remember, you have a time limit for answering the questions!",
-  "school_rocket_tutorial_screen_4_subtitle": "I'm ready! Are you ready to try and see if we can launch to the next planet!?"
+  "school_rocket_tutorial_screen_4_subtitle": "I'm ready! Are you ready to try and see if we can launch to the next planet?"
 }
