@@ -691,7 +691,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text8",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_supply",
@@ -710,7 +710,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text9",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_supply",
@@ -729,7 +729,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text10",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_supply",
@@ -748,7 +748,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text11",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_supply",
@@ -767,7 +767,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text12",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_supply",
@@ -786,7 +786,7 @@
                     "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
                     "titleLangKey":  "school_challenge_4_text13",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_button_supply",
@@ -1025,25 +1025,25 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_apple",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/appleCheap.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_smartwatch",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartwatch.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_pizza1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pizza.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_computer1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/computer.png",
                             "isCorrect": false
                         }
                     ]
@@ -1055,25 +1055,25 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_smartphone",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_scooter",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/scooter.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_movieticket",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/ticket.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_candy1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/candyBag.png",
                             "isCorrect": false
                         }
                     ]
@@ -1085,25 +1085,25 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_smartphone",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_computer1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/computer.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_jeans",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pants.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_icecream",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         }
                     ]
@@ -1115,13 +1115,13 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_smartwatch",
-                            "imageUrl": "",
+                            "imageUrl": "smartwatch",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_flippers",
-                            "imageUrl": "",
+                            "imageUrl": "smartwatch",
                             "isCorrect": false
                         },
                         {
