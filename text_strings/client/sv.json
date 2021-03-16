@@ -2505,5 +2505,10 @@
   "bonus_how_is_this_calculated": "Hur är detta uträknat?",
   "the_more_savings_the_bigger_bonus": "Ju mer sparpengar, desto mer i bonus!",
   "current_amount_in_piggybank_with_calculation": "Nuvarande summa i spargrisen: %1$d\n\n%1$d x %2$d% = %3$d",
-  "bonus_is_zero_if_amount_is_negative": "PLZ_CHECK Bonus is 0 if the amount is negative!"
+  "bonus_is_zero_if_amount_is_negative": "PLZ_CHECK Bonus is 0 if the amount is negative!",
+  "bonus_rates_from_your_supporters": "PLZ_CHECK Bonus rates from your supporters",
+  "total_bonus_rate": "PLZ_CHECK Total bonus rate",
+  "totally_added_to_next_weekly_allowance": "PLZ_CHECK Totally added to next weekly allowance",
+  "totally_added_to_next_monthly_allowance": "PLZ_CHECK Totally added to next monthly allowance",
+  "divided_between_your_supporters": "PLZ_CHECK Divided between your supporters"
 }
