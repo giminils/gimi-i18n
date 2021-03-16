@@ -1025,7 +1025,7 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_apple",
-                            "imageUrl": "/static/school/appleCheap.png",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": true
                         },
                         {
@@ -1336,7 +1336,7 @@
                         },
                         {
                             "id": 2,
-                            "langKey": "sschool_picture_title_pricetag5680pb",
+                            "langKey": "school_picture_title_pricetag5680pb",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
@@ -1580,25 +1580,25 @@
                     "titleLangKey": "school_challenge_8_bank_screen_title_2",
                     "price": 20,
                     "currencyCode": "",
-                    "imageUrl": "/static/school//chocolate.png"
+                    "imageUrl": "/static/school/chocolate.png"
                 },
                 {
                     "titleLangKey": "school_challenge_8_bank_screen_title_3",
                     "price": 50,
                     "currencyCode": "NOK",
-                    "imageUrl": "/static/school//flowerboquet.png"
+                    "imageUrl": "/static/school/flowerboquet.png"
                 },
                 {
                     "titleLangKey": "school_challenge_8_bank_screen_title_4",
                     "price": 55,
                     "currencyCode": "EUR",
-                    "imageUrl": "/static/school//backpack.png"
+                    "imageUrl": "/static/school/backpack.png"
                 },
                 {
                     "titleLangKey": "school_challenge_8_bank_screen_title_5",
                     "price": 150,
                     "currencyCode": "DKK",
-                    "imageUrl": "/static/school//icehockeystick.png"
+                    "imageUrl": "/static/school/icehockeystick.png"
                 },
                 {
                     "titleLangKey": "school_challenge_8_bank_screen_title_6",
@@ -1610,7 +1610,7 @@
                     "titleLangKey": "school_challenge_8_bank_screen_title_7",
                     "price": 4090,
                     "currencyCode": "SEK",
-                    "imageUrl": "/static/school//computer.png"
+                    "imageUrl": "/static/school/computer.png"
                 },
                 {
                     "titleLangKey": "school_challenge_8_bank_screen_title_8",
