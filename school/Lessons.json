@@ -75,7 +75,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_8_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "/static/school/piggyTravel.png",
+            "imageUrl": "/static/school/piggyEurope.png",
             "type": "DEFAULT",
             "storyId": 8,
             "challengeId": 8
