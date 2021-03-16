@@ -1115,37 +1115,37 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_smartwatch",
-                            "imageUrl": "smartwatch",
+                            "imageUrl": "/static/school/smartwatch.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_flippers",
-                            "imageUrl": "smartwatch",
+                            "imageUrl": "/static/school/flippers.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_computer1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/computer.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_apple",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 5,
                             "langKey": "school_picture_title_jeans",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/pants.png",
                             "isCorrect": false
                         },
                         {
                             "id": 6,
                             "langKey": "school_picture_title_chocolate",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/chocolate.png",
                             "isCorrect": false
                         }
                     ]
@@ -1157,37 +1157,37 @@
                         {
                             "id": 1,
                             "langKey": "school_picture_title_basketball1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/basketball.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_picture_title_headphones2",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/headphones2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_picture_title_scooter",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/scooter.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_picture_title_icecream",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 5,
                             "langKey": "school_picture_title_icehockeystick",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/icehockeystick.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
                             "langKey": "school_picture_title_candy1",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/candyBag.png",
                             "isCorrect": true
                         }
                     ]
