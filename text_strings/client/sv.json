@@ -2504,5 +2504,6 @@
   "bonus_added_to_next_monthly_allowance_based_on_piggybank_amount": "Adderas till nästa månadspeng baserat på nuvarande summa i spargrisen: %1$d",
   "bonus_how_is_this_calculated": "Hur är detta uträknat?",
   "the_more_savings_the_bigger_bonus": "Ju mer sparpengar, desto mer i bonus!",
-  "current_amount_in_piggybank_with_calculation": "Nuvarande summa i spargrisen: %1$d\n\n%1$d x %2$d% = %3$d"
+  "current_amount_in_piggybank_with_calculation": "Nuvarande summa i spargrisen: %1$d\n\n%1$d x %2$d% = %3$d",
+  "bonus_is_zero_if_amount_is_negative": "PLZ_CHECK Bonus is 0 if the amount is negative!"
 }

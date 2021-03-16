@@ -2504,5 +2504,6 @@
   "bonus_added_to_next_monthly_allowance_based_on_piggybank_amount": "PLZ_TRANSLATE Added to next monthly allowance based on current piggybank amount: %1$d",
   "bonus_how_is_this_calculated": "PLZ_TRANSLATE How is this calculated?",
   "the_more_savings_the_bigger_bonus": "PLZ_TRANSLATE The more savings, the bigger the bonus!",
-  "current_amount_in_piggybank_with_calculation": "PLZ_TRANSLATE Current amount in the piggybank: %1$d\n\n%1$d x %2$d% = %3$d"
+  "current_amount_in_piggybank_with_calculation": "PLZ_TRANSLATE Current amount in the piggybank: %1$d\n\n%1$d x %2$d% = %3$d",
+  "bonus_is_zero_if_amount_is_negative": "PLZ_TRANSLATE Bonus is 0 if the amount is negative!"
 }
