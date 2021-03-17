@@ -56,3 +56,7 @@ export let getChapterByLessonId = (id: number) => {
 export let getRocketById = (id: number) => {
   return rockets.find((rocket) => rocket.id === id)
 }
+
+export let getChapterByRocketId = (id: number) => {
+  return chapters.find((chapter) => chapter.rocketId && chapter.rocketId === id)
+}
