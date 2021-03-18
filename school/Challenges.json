@@ -201,6 +201,8 @@
         {
             "id": 2,
             "type": "BANK",
+            "introTitleLangKey": "school_shop_intro_title",
+            "introSubtitleLangKey": "school_shop_intro_subtitle",
             "products": [
                 {
                     "titleLangKey": "school_challenge_bank1_title1",
@@ -1569,6 +1571,8 @@
         {
             "id": 8,
             "type": "BANK",
+            "introTitleLangKey": "school_shop_intro_title",
+            "introSubtitleLangKey": "school_challenge_8_intro_subtitle",
             "products": [
                 {
                     "titleLangKey": "school_challenge_8_bank_screen_title_1",
