@@ -927,5 +927,6 @@
   "school_rocket_tutorial_screen_3_title": "PLZ_TRANSLATE You will get ten questions. The meter will fill up with one liter per correct answer.",
   "school_rocket_tutorial_screen_3_subtitle": "PLZ_TRANSLATE For the rocket to launch we need at least 5 liters of fuel!",
   "school_rocket_tutorial_screen_4_title": "PLZ_TRANSLATE If we can't launch you can go back to Piggy at the destinations and then we try again. And remember, you have a time limit for answering the questions!",
-  "school_rocket_tutorial_screen_4_subtitle": "PLZ_TRANSLATE I'm ready! Are you ready to try and see if we can launch to the next planet!?"
+  "school_rocket_tutorial_screen_4_subtitle": "PLZ_TRANSLATE I'm ready! Are you ready to try and see if we can launch to the next planet!?",
+  "school_read_the_tutorial": "PLZ_TRANSLATE Read the tutorial"
 }
