@@ -923,10 +923,10 @@
   "school_rocket_tutorial_screen_1_title": "Hej igen!\nBra jobbat med att gå igenom destinationerna och möta upp mig här för Raketen!",
   "school_rocket_tutorial_screen_1_subtitle": "För att vi ska ta oss till nästa planet behöver vi bränsle...!",
   "school_rocket_tutorial_screen_2_title": "Här på stationen kan vi få det om vi svarar rätt på några frågor om finans.",
-  "school_rocket_tutorial_screen_2_subtitle": "Kan du snäll hjälpa mig? Du verkar ha några finansiella superskills!",
-  "school_rocket_tutorial_screen_3_title": "Du kommer få tio frågor. Mätaren kommer fyllas på en liter för varje rätt svar.",
+  "school_rocket_tutorial_screen_2_subtitle": "Du verkar ha lite finansiella superskills! Kan du snälla hjälpa mig?",
+  "school_rocket_tutorial_screen_3_title": "Du kommer få tio frågor. Bränslemätaren fylls på en liter för varje rätt svar.",
   "school_rocket_tutorial_screen_3_subtitle": "För att raketen ska kunna lyfta behöver vi minst 5 liter bränsle!",
-  "school_rocket_tutorial_screen_4_title": "Om vi inte lyckas lyfta, kan du gå tillbaka till Piggy på destinationerna sen kan vi prova igen. Tänk på att du bara har en viss tid på dig att svara på en fråga!",
-  "school_rocket_tutorial_screen_4_subtitle": "Jag är redo! Är du redo att försöka så ser vi om vi kan lyfta och åka till nästa planet?",
-  "school_read_the_tutorial": "PLZ_CHECK Read the tutorial"
+  "school_rocket_tutorial_screen_4_title": "Om vi inte lyckas lyfta, kan du gå tillbaka till Piggy på destinationerna sen kan vi prova igen. Tänk på att du bara har en viss tid på dig att svara på varje fråga!",
+  "school_rocket_tutorial_screen_4_subtitle": "Jag är redo! Är du? Försök, så ser vi om vi kan lyfta och åka till nästa planet!",
+  "school_read_the_tutorial": "Läs inledningen"
 }
