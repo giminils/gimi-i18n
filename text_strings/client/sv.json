@@ -1948,7 +1948,7 @@
   "swish_timeout_intercom_message": "Min Swish-betalning gick inte igenom! Kan ni hjälpa mig?",
   "chore_successfully_updated": "Uppgift uppdaterad!",
   "general_approved_plural": "Godkända",
-  "chore_was_sent_for_approval": "Bra jobbat! Uppgiften väntar nu på godkännande.",
+  "chore_was_sent_for_approval": "PLZ_CHECK Chore was sent for approval!",
   "chore_was_rejected": "Uppgift nekad!",
   "chore_suggestion_accepted": "Föreslagen uppgift tillagd!",
   "suggested_chore_status_parent": "%1$d har föreslagit den här uppgiften.",
