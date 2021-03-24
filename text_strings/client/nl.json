@@ -2511,5 +2511,6 @@
   "totally_added_to_next_weekly_allowance": "PLZ_TRANSLATE Totally added to next weekly allowance",
   "totally_added_to_next_monthly_allowance": "PLZ_TRANSLATE Totally added to next monthly allowance",
   "divided_between_your_supporters": "PLZ_TRANSLATE Divided between your supporters",
-  "success_changed_account": "PLZ_TRANSLATE Changed account"
+  "success_changed_account": "PLZ_TRANSLATE Changed account",
+  "delete_tink_account_kid": "PLZ_TRANSLATE Disconnected account"
 }

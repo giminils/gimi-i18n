@@ -2511,5 +2511,6 @@
   "totally_added_to_next_weekly_allowance": "Totally added to next weekly allowance",
   "totally_added_to_next_monthly_allowance": "Totally added to next monthly allowance",
   "divided_between_your_supporters": "Divided between your supporters",
-  "success_changed_account":"Changed account"
+  "success_changed_account":"Changed account",
+  "delete_tink_account_kid": "Disconnected account"
 }
