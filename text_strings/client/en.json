@@ -1948,7 +1948,7 @@
   "swish_timeout_intercom_message": "My Swish payment didn't go through! Can you help me?",
   "chore_successfully_updated": "Chore updated!",
   "general_approved_plural": "Approved",
-  "chore_was_sent_for_approval": "Well done! Chore was sent for approval",
+  "chore_was_sent_for_approval": "PLZ_COPY Chore was sent for approval!",
   "chore_was_rejected": "Chore rejected!",
   "chore_suggestion_accepted": "Suggested chore was added!",
   "suggested_chore_status_parent": "%1$d has suggested this chore.",
