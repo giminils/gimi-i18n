@@ -1948,7 +1948,7 @@
   "swish_timeout_intercom_message": "Min Swish-betalning gick inte igenom! Kan ni hjälpa mig?",
   "chore_successfully_updated": "Uppgift uppdaterad!",
   "general_approved_plural": "Godkända",
-  "chore_was_sent_for_approval": "PLZ_CHECK Chore was sent for approval!",
+  "chore_was_sent_for_approval": "Uppgiften skickad för godkännande!",
   "chore_was_rejected": "Uppgift nekad!",
   "chore_suggestion_accepted": "Föreslagen uppgift tillagd!",
   "suggested_chore_status_parent": "%1$d har föreslagit den här uppgiften.",
@@ -2511,6 +2511,6 @@
   "totally_added_to_next_weekly_allowance": "Totalt adderat till nästa veckopeng",
   "totally_added_to_next_monthly_allowance": "Totalt adderat till nästa månadspeng",
   "divided_between_your_supporters": "Uppdelat mellan dina supporters",
-  "success_changed_account": "PLZ_CHECK Changed account",
+  "success_changed_account": "Du har bytt konto!",
   "delete_tink_account_kid": "PLZ_CHECK Disconnected account"
 }
