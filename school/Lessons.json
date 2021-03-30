@@ -89,6 +89,66 @@
             "type": "DEFAULT",
             "storyId": 9,
             "challengeId": 9
+        },
+        {
+            "id": 10,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_10_title",
+            "subtitleLangKey": "school_lesson_10_subtitle",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 10,
+            "challengeId": 10
+        },
+        {
+            "id": 11,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_11_title",
+            "subtitleLangKey": "school_lesson_11_subtitle",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 11,
+            "challengeId": 11
+        },
+        {
+            "id": 12,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_12_title",
+            "subtitleLangKey": "school_lesson_12_subtitle",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 12,
+            "challengeId": 12
+        },
+        {
+            "id": 13,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_13_title",
+            "subtitleLangKey": "school_lesson_13_subtitle",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 13,
+            "challengeId": 13
+        },
+        {
+            "id": 14,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_14_title",
+            "subtitleLangKey": "school_lesson_14_subtitle",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 14,
+            "challengeId": 14
+        },
+        {
+            "id": 15,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_15_title",
+            "subtitleLangKey": "school_lesson_15_subtitle",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 15,
+            "challengeId": 15
         }
     ]
 }
