@@ -2512,5 +2512,6 @@
   "totally_added_to_next_monthly_allowance": "Totalt adderat till nästa månadspeng",
   "divided_between_your_supporters": "Uppdelat mellan dina supporters",
   "success_changed_account": "Du har bytt konto!",
-  "delete_tink_account_kid": "PLZ_CHECK Disconnected account"
+  "delete_tink_account_kid": "PLZ_CHECK Disconnected account",
+  "parent_connections_needs_setup": "PLZ_CHECK Setup needed"
 }

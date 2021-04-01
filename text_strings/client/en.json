@@ -2512,5 +2512,6 @@
   "totally_added_to_next_monthly_allowance": "Totally added to next monthly allowance",
   "divided_between_your_supporters": "Divided between your supporters",
   "success_changed_account": "PLZ_COPY You have changed the account!",
-  "delete_tink_account_kid": "PLZ_COPY You have disconnected the account!"
+  "delete_tink_account_kid": "PLZ_COPY You have disconnected the account!",
+  "parent_connections_needs_setup": "Setup needed"
 }
