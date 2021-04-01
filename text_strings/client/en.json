@@ -574,7 +574,7 @@
   "spend_notifs_daily": "Daily",
   "spend_notifs_weekly": "Weekly",
   "spend_notifs_monthly": "Monthly",
-  "card_is_active": "Card is active",
+  "card_is_active": "PLZ_COPY Active",
   "spending_limit_header": "How much can %1$d spend %2$d?",
   "add_pin_code": "Add passcode",
   "spending_notifications": "Spending notifications",
