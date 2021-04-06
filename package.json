@@ -61,11 +61,6 @@
     "ts-jest": "26.5.4",
     "typescript": "4.2.3"
   },
-  "husky": {
-    "hooks": {
-      "pre-push": "jest && tsc"
-    }
-  },
   "dependencies": {
     "accounting": "0.4.1",
     "babel-preset-node6": "11.0.0"
