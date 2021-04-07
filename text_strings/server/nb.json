@@ -300,6 +300,7 @@
   "CHGERE028_notification_title": "Du er nå forbundet med {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "Du er nå forbundet med {child.nickname}!",
   "ADGERE021_push_title": "Du er forbundet med {child.nickname}!",
+  "ADGERE021_push_title_v2": "PLZ_TRANSLATE Don't forget to set up the allowance to {child.nickname} in the app",
   "ADGEON005_notification_title": "Legg til et profilbilde.",
   "event_settle_your_debt": "Betal det du skylder {child.nickname}",
   "ADPRON012_notification_title": "Opprett en app-kode",

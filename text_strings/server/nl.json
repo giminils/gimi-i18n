@@ -300,6 +300,7 @@
   "CHGERE028_notification_title": "Jij bent nu verbonden met {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "Jij bent nu verbonden met {child.nickname}!",
   "ADGERE021_push_title": "Jij en {child.nickname} zijn verbonden!",
+  "ADGERE021_push_title_v2": "PLZ_TRANSLATE Don't forget to set up the allowance to {child.nickname} in the app",
   "ADGEON005_notification_title": "Voeg een profielfoto toe!",
   "event_settle_your_debt": "Voldoe je schuld aan {child.nickname}",
   "ADPRON012_notification_title": "Stel een wachtwoord voor de app in",

@@ -300,6 +300,7 @@
   "CHGERE028_notification_title": "PLZ_TRANSLATE You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "PLZ_TRANSLATE You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "PLZ_TRANSLATE You and {child.nickname} are connected!",
+  "ADGERE021_push_title_v2": "PLZ_TRANSLATE Don't forget to set up the allowance to {child.nickname} in the app",
   "ADGEON005_notification_title": "PLZ_TRANSLATE Add a profile pic!",
   "event_settle_your_debt": "PLZ_TRANSLATE Settle your debt to {child.nickname}",
   "ADPRON012_notification_title": "PLZ_TRANSLATE Setup an app passcode",

@@ -300,6 +300,7 @@
   "CHGERE028_notification_title": "{ConnectionToken.used_by.nickname} on lisätty kontakteihisi!",
   "ADGERE021_notification_title": "{child.nickname} on lisätty kontakteihisi!",
   "ADGERE021_push_title": "{child.nickname} on lisätty kontakteihisi!",
+  "ADGERE021_push_title_v2": "PLZ_TRANSLATE Don't forget to set up the allowance to {child.nickname} in the app",
   "ADGEON005_notification_title": "Lisää profiilikuva!",
   "event_settle_your_debt": "Sovittele velkasi lapsesi {child.nickname} kanssa",
   "ADPRON012_notification_title": "Aseta sovellukselle salasana",

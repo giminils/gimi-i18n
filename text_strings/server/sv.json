@@ -300,6 +300,7 @@
   "CHGERE028_notification_title": "Du har blivit ihopkopplad med {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "Du har blivit ihopkopplad med {child.nickname}!",
   "ADGERE021_push_title": "Du har blivit ihopkopplad med {child.nickname}!",
+  "ADGERE021_push_title_v2": "PLZ_CHECK Don't forget to set up the allowance to {child.nickname} in the app",
   "ADGEON005_notification_title": "Lägg till en profilbild!",
   "event_settle_your_debt": "{child.nickname} har uppgraderats till Master, för över riktiga pengar i appen för att betala din skuld!",
   "ADPRON012_notification_title": "Skapa en lösenkod",

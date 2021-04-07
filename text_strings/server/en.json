@@ -300,6 +300,7 @@
   "CHGERE028_notification_title": "You are now connected with {ConnectionToken.used_by.nickname}!",
   "ADGERE021_notification_title": "You are now connected with {child.nickname}!",
   "ADGERE021_push_title": "You and {child.nickname} are connected!",
+  "ADGERE021_push_title_v2": "Don't forget to set up the allowance to {child.nickname} in the app",
   "ADGEON005_notification_title": "Add a profile pic!",
   "event_settle_your_debt": "{child.nickname} has been upgraded to Master, transfer real money in the app to settle your debt!",
   "ADPRON012_notification_title": "Setup an app passcode",
