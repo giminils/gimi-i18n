@@ -45,6 +45,12 @@ describe('School challenge tests', () => {
             expect(!!price && Number.isInteger(price) && price > 0).toBeTruthy()
           })
         })
+        if (products) test('bank challenge currencyValues length should be 5 or 0', () => {
+          products.map(({currencyValues}: {currencyValues: Array<number>}) => {
+            if (!currencyValues || (currencyValues.length !== 0 && currencyValues.length !== 5)) warnChallengeId(challenge, 'currencyValues')
+            expect(!!currencyValues && (currencyValues.length === 0 || currencyValues.length === 5)).toBeTruthy()
+          })
+        })
         break
       case type === 'CLICK_TO_CHOOSE_MULTIPLE' || type === 'CLICK_TO_CHOOSE_ORDER' : {
         test('click to choose multiple/in order challenges should have screens', () => {
