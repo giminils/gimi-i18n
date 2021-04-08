@@ -2516,5 +2516,6 @@
   "parent_connections_needs_setup": "PLZ_TRANSLATE Setup allowance",
   "your_bank_account_is_connected": "PLZ_TRANSLATE Your bank account is connected!",
   "your_bank_account_is_connected_desc": "PLZ_TRANSLATE You can now follow all the transactions from your %1$d card directly in the Gimi app. Cool, huh?",
-  "due_allowance_parent_kid_item": "PLZ_TRANSLATE To be paid out"
+  "due_allowance_parent_kid_item": "PLZ_TRANSLATE To be paid out",
+  "general_bank_account": "PLZ_TRANSLATE Bank account"
 }
