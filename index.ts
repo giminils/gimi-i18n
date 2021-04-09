@@ -101,6 +101,19 @@ import itNativeErrorMessages from './native/error-messages/it.json'
 import esNativeErrorMessages from './native/error-messages/es.json'
 import deNativeErrorMessages from './native/error-messages/de.json'
 
+// dictionary
+import defaultDictionary from './text_strings/dictionary/default.json'
+import svDictionary from './text_strings/dictionary/sv.json'
+import enDictionary from './text_strings/dictionary/en.json'
+import noDictionary from './text_strings/dictionary/nb.json'
+import daDictionary from './text_strings/dictionary/da.json'
+import frDictionary from './text_strings/dictionary/fr.json'
+import nlDictionary from './text_strings/dictionary/nl.json'
+import fiDictionary from './text_strings/dictionary/fi.json'
+import itDictionary from './text_strings/dictionary/it.json'
+import esDictionary from './text_strings/dictionary/es.json'
+import deDictionary from './text_strings/dictionary/de.json'
+
 const Accounting = require('accounting')
 const CountryCodes = require('./CountryCodes.json')
 import Regions from './Regions.json'
@@ -205,6 +218,22 @@ export const getFAQStrings = (lang: string): object => {
     case 'es': return esFAQ // spanish
     case 'de': return deFAQ // german
     default: return enFAQ
+  }
+}
+
+export const getDictionaryStrings = (lang: string): object => {
+  switch (lang.substring(0, 2)) {
+    case 'sv': return svDictionary // sweden
+    case 'nb':
+    case 'nn': return noDictionary // norway
+    case 'da': return daDictionary // danish
+    case 'fr': return frDictionary // france
+    case 'nl': return nlDictionary // Netherlands
+    case 'fi': return fiDictionary // finish
+    case 'it': return itDictionary // italian
+    case 'es': return esDictionary // spanish
+    case 'de': return deDictionary // german
+    default: return enDictionary
   }
 }
 
