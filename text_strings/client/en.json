@@ -2516,6 +2516,6 @@
   "parent_connections_needs_setup": "Setup allowance",
   "your_bank_account_is_connected": "Your bank account is connected!",
   "your_bank_account_is_connected_desc": "You can now follow all the transactions from your %1$d card directly in the Gimi app. Cool, huh?",
-  "due_allowance_parent_kid_item":"To be paid out",
-  "general_bank_account":"Bank account"
+  "due_allowance_parent_kid_item": "To be paid out",
+  "general_bank_account": "Bank account"
 }
