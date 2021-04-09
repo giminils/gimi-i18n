@@ -1,1 +1,8 @@
-{}
+{
+  "objective_value": "PLZ_CHECK Objective value",
+  "objective_value_description": "PLZ_CHECK Objective value is this and that!",
+  "subjective_value": "PLZ_CHECK Subjective value",
+  "subjective_value_description": "PLZ_CHECK Subjective value is not this and that!",
+  "hyperinflation": "PLZ_CHECK Hyperinflation",
+  "hyperinflation_description": "PLZ_CHECK Hyperinflation is something.."
+}

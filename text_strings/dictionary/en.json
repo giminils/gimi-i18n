@@ -1,1 +1,8 @@
-{}
+{
+  "objective_value": "Objective value",
+  "objective_value_description": "Objective value is this and that!",
+  "subjective_value": "Subjective value",
+  "subjective_value_description": "Subjective value is not this and that!",
+  "hyperinflation": "Hyperinflation",
+  "hyperinflation_description": "Hyperinflation is something.."
+}
