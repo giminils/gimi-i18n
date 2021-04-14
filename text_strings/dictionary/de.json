@@ -1,8 +1,8 @@
 {
-  "objective_value": "PLZ_TRANSLATE Objective value",
-  "objective_value_description": "PLZ_TRANSLATE Objective value is this and that!",
-  "subjective_value": "PLZ_TRANSLATE Subjective value",
-  "subjective_value_description": "PLZ_TRANSLATE Subjective value is not this and that!",
-  "hyperinflation": "PLZ_TRANSLATE Hyperinflation",
-  "hyperinflation_description": "PLZ_TRANSLATE Hyperinflation is something.."
+  "dictionary_chapter_1_money": "PLZ_TRANSLATE Money",
+  "dictionary_chapter_1_money_description": "PLZ_TRANSLATE Explaining money real good!",
+  "dictionary_chapter_2_expensive": "PLZ_TRANSLATE Expensive",
+  "dictionary_chapter_2_expensive_description": "PLZ_TRANSLATE Explaining expensive..",
+  "dictionary_chapter_3_currency": "PLZ_TRANSLATE Currency",
+  "dictionary_chapter_3_currency_description": "PLZ_TRANSLATE Currency is explained here!"
 }
