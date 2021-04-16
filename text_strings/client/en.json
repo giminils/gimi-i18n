@@ -2196,7 +2196,7 @@
   "piggy_bank_intro_subtitle": "The piggybank is a tracker that represents what you owe your child. When your child wants to buy something using their piggybank money, you pay and deduct the amount in Gimi.",
   "general_supporter": "Supporter",
   "day_of_allowance": "Day of allowance",
-  "change_allowance_freq_desc": "Changing the allowance settings will override already existing settings.",
+  "change_allowance_freq_desc": "PLZ_COPY If you change the allowance frequency, you will change it for all supporters.",
   "get_started_for_kid_title": "Get %1$d started with Gimi!",
   "get_started_for_kid_desc": "Don’t know where to start? Here are some recommendations from us!",
   "get_started_card_1_title": "Make your first load to the Gimi card",
