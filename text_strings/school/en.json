@@ -5,9 +5,9 @@
   "school_chapter_2_subtitle": "Level: Basic",
   "school_chapter_3_title": "Currencies & crypto currency",
   "school_chapter_3_subtitle": "Level: Basic",
-  "school_chapter_4_title": "Earning Money",
+  "school_chapter_4_title": "Basic earning",
   "school_chapter_4_subtitle": "Level: Basic",
-  "school_chapter_5_title": "What is saving",
+  "school_chapter_5_title": "Basic saving",
   "school_chapter_5_subtitle": "Level: Basic",
   "school_lesson_1_title": "Barter",
   "school_lesson_subtitle1": "Read the story to unlock the challenge. Take all the time you need and you can always redo them if you need to.",
@@ -22,6 +22,12 @@
   "school_lesson_7_title": "What is currency?",
   "school_lesson_8_title": "Currencies in the world",
   "school_lesson_9_title": "Crypto currecies",
+  "school_lesson_10_title": "
+  "school_lesson_11_title": "
+  "school_lesson_12_title": "
+  "school_lesson_13_title": "
+  "school_lesson_14_title": "
+  "school_lesson_15_title": "
   "school_story_midpoint_subtitle": "Hey! You are already half way through. Nice!",
   "school_story_end1_title": "Ready for the challenge?",
   "school_story_end1_subtitle": "Good job! Now you can do the challenge to test what you learned. Remember that you can always redo the story if you dont recall everything.",
@@ -725,7 +731,7 @@
   "school_story_14_screen_8_subtitle": "Interest is a percentage of money the bank gives you for keeping your money there.",
   "school_story_14_screen_8_button_1_title": "Wait, the bank gives me money?",
   "school_story_14_screen_9_title": "You can say that. What happens is that by keeping your money in the bank, you actually loan your money to them.",
-  "school_story_14_screen_9_subtitle": "And the bank pays you for that loan with an interest on your money. So the longer you keep them there and the more you save, the more you earn!",
+  "school_story_14_screen_9_subtitle": "And the bank pays you for that loan by giving interest on your money. So the longer you keep them there and the more you save, the more you earn!",
   "school_story_14_screen_9_button_1_title": "That sound great!",
   "school_story_14_screen_9_button_2_title": "That seems risky?",
   "school_story_14_screen_10_title": "The banks guarantee that you will get your money back in the regular saving accounts. But you usually lock them for a time, but after you get them all back, + interest!",
