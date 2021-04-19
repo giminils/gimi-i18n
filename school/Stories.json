@@ -2290,7 +2290,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_1_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyPanic2.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_1_button_1_title"
@@ -2317,7 +2317,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_3_title",
                     "subtitleLangKey": "school_story_10_screen_3_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyTeacher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_3_button_1_title"
@@ -2359,7 +2359,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_5_title",
                     "subtitleLangKey": "school_story_10_screen_5_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_5_button_1_title"
@@ -2392,7 +2392,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_7_title",
                     "subtitleLangKey": "school_story_10_screen_7_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/lawnMower.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_7_button_1_title"
@@ -2458,7 +2458,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_12_title",
                     "subtitleLangKey": "school_story_10_screen_12_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/dusterMoney.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_12_button_1_title"
@@ -2506,7 +2506,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_15_title",
                     "subtitleLangKey": "school_story_10_screen_15_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/brain.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_15_button_1_title"
@@ -2521,7 +2521,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_16_title",
                     "subtitleLangKey": "school_story_10_screen_16_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/laundry.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_16_button_1_title"
@@ -2548,7 +2548,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10_screen_18_title",
                     "subtitleLangKey": "school_story_10_screen_18_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/scratcher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_10_screen_18_button_1_title"
