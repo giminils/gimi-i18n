@@ -2509,25 +2509,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_13_screen_3_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/toast.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_13_screen_3_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/chipsBag.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_13_screen_3_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/iceCream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_13_screen_3_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/fries.png",
                             "isCorrect": false
                         }
                     ]
@@ -2539,25 +2539,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_13_screen_4_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/burger.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_13_screen_4_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_13_screen_4_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/milk.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_13_screen_4_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/fries.png",
                             "isCorrect": true
                         }
                     ]
@@ -2569,25 +2569,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_13_screen_5_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/flippers.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_13_screen_5_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/skateboard.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_13_screen_5_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/tennis.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_13_screen_5_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/hockeyStick.png",
                             "isCorrect": true
                         }
                     ]
@@ -2671,25 +2671,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_13_screen_8_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/playButton.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_13_screen_8_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/brokenPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_13_screen_8_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/music.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_13_screen_8_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/game.png",
                             "isCorrect": true
                         }
                     ]
