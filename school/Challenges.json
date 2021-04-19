@@ -2521,7 +2521,7 @@
                         {
                             "id": 3,
                             "langKey": "school_challenge_13_screen_3_button_3_title",
-                            "imageUrl": "/static/school/iceCream.png",
+                            "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
@@ -2805,7 +2805,7 @@
                     "boldTitleLangKey": "school_challenge_14_screen_3_boldheader",
                     "titleLangKey": "school_challenge_14_screen_3_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/incomeCost.png",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_challenge_14_screen_3_button_1",
@@ -2862,7 +2862,7 @@
                     "boldTitleLangKey": "school_challenge_14_screen_6_boldheader",
                     "titleLangKey": "school_challenge_14_screen_6_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/incomeCost.png",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_challenge_14_screen_6_button_1",
@@ -2900,7 +2900,7 @@
                     "boldTitleLangKey": "school_challenge_14_screen_8_boldheader",
                     "titleLangKey": "school_challenge_14_screen_8_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/headPhones2.png",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_challenge_14_screen_8_button_1",
@@ -2919,7 +2919,7 @@
                     "boldTitleLangKey": "school_challenge_14_screen_9_boldheader",
                     "titleLangKey": "school_challenge_14_screen_9_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/incomeCost.png",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_challenge_14_screen_9_button_1",
