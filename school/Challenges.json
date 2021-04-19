@@ -1948,7 +1948,7 @@
                     "boldTitleLangKey": "school_challenge_11_screen_2_boldheader",
                     "titleLangKey": "school_challenge_11_screen_2_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/factory.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_11_screen_2_button_1",
@@ -1986,7 +1986,7 @@
                     "boldTitleLangKey": "school_challenge_11_screen_4_boldheader",
                     "titleLangKey": "school_challenge_11_screen_4_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/scratcher.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_11_screen_4_button_1",
@@ -2024,7 +2024,7 @@
                     "boldTitleLangKey": "school_challenge_11_screen_6_boldheader",
                     "titleLangKey": "school_challenge_11_screen_6_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/bonus.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_11_screen_6_button_1",
@@ -2062,7 +2062,7 @@
                     "boldTitleLangKey": "school_challenge_11_screen_8_boldheader",
                     "titleLangKey": "school_challenge_11_screen_8_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/100bill.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_11_screen_8_button_1",
@@ -2100,7 +2100,7 @@
                     "boldTitleLangKey": "school_challenge_11_screen_10_boldheader",
                     "titleLangKey": "school_challenge_11_screen_10_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/dishes.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_11_screen_10_button_1",
@@ -2129,25 +2129,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_1_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_1_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_1_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_1_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2159,25 +2159,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_2_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_2_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_2_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_2_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2189,25 +2189,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_3_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_3_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_3_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_3_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": true
                         }
                     ]
@@ -2219,25 +2219,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_4_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_4_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_4_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_4_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2249,25 +2249,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_5_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_5_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_5_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_5_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2279,25 +2279,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_6_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_6_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_6_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_6_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": true
                         }
                     ]
@@ -2309,25 +2309,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_7_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_7_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_7_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_7_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2339,25 +2339,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_8_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_8_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_8_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_8_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2369,25 +2369,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_9_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_9_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_9_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_9_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
@@ -2399,25 +2399,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_12_screen_10_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/cardMoney.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_12_screen_10_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/vault2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_12_screen_10_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/lawnMower.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_12_screen_10_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/shopping.png",
                             "isCorrect": false
                         }
                     ]
