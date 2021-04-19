@@ -3205,7 +3205,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_1_title",
                     "subtitleLangKey": "school_story_13_screen_1_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyBank.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_1_button_1_title"
@@ -3247,7 +3247,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_3_title",
                     "subtitleLangKey": "school_story_13_screen_3_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/coinPouch.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_3_button_1_title"
@@ -3331,7 +3331,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_8_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/apple.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_8_button_1_title"
@@ -3346,7 +3346,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_9_title",
                     "subtitleLangKey": "school_story_13_screen_9_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/budget2.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_9_button_1_title"
@@ -3358,7 +3358,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_10_title",
                     "subtitleLangKey": "school_story_13_screen_10_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyTeacher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_10_button_1_title"
@@ -3385,7 +3385,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_12_title",
                     "subtitleLangKey": "school_story_13_screen_12_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/eatenApple.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_12_button_1_title"
@@ -3397,7 +3397,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_13_title",
                     "subtitleLangKey": "school_story_13_screen_13_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/warningSign.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_13_button_1_title"
@@ -3451,7 +3451,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_17_title",
                     "subtitleLangKey": "school_story_13_screen_17_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/moneyDigitalNegative.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_17_button_1_title"
@@ -3493,7 +3493,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_20_title",
                     "subtitleLangKey": "school_story_13_screen_20_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/chocolate.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_20_button_1_title"
@@ -3514,7 +3514,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_13_screen_21_title",
                     "subtitleLangKey": "school_story_13_screen_21_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/vault2.png",
                     "buttons": [
                         {
                             "langKey": "school_story_13_screen_21_button_1_title"
