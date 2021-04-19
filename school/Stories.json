@@ -2875,7 +2875,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_1_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyRelax.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_1_button_1_title"
@@ -2914,7 +2914,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_4_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/coinPouch.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_4_button_1_title"
@@ -2971,7 +2971,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_8_title",
                     "subtitleLangKey": "school_story_12_screen_8_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/yardSale.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_8_button_1_title"
@@ -3046,7 +3046,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_13_title",
                     "subtitleLangKey": "school_story_12_screen_13_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/computer.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_13_button_1_title"
@@ -3097,7 +3097,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_16_title",
                     "subtitleLangKey": "school_story_12_screen_16_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyTeacher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_16_button_1_title"
@@ -3112,7 +3112,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_17_title",
                     "subtitleLangKey": "school_story_12_screen_17_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/priceCompare.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_17_button_1_title"
@@ -3187,7 +3187,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_12_screen_21_title",
                     "subtitleLangKey": "school_story_12_screen_21_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/duster.png",
                     "buttons": [
                         {
                             "langKey": "school_story_12_screen_21_button_1_title"
