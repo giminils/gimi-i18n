@@ -125,7 +125,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_13_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyBasicSavings.png",
             "type": "DEFAULT",
             "storyId": 13,
             "challengeId": 13
@@ -135,7 +135,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_14_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyScooter.png",
             "type": "DEFAULT",
             "storyId": 14,
             "challengeId": 14
@@ -145,7 +145,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_15_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggySavingsHacks.png",
             "type": "DEFAULT",
             "storyId": 15,
             "challengeId": 15

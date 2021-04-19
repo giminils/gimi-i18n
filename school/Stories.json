@@ -3640,7 +3640,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_14_screen_7_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/priceHigher.png",
+                    "imageUrl": "/static/school/pricehigher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_14_screen_7_button_1_title"
@@ -3919,7 +3919,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_15_screen_4_title",
                     "subtitleLangKey": "school_story_15_screen_4_subtitle",
-                    "imageUrl": "/static/school/piggybank.png",
+                    "imageUrl": "/static/school/piggyBank.png",
                     "buttons": [
                         {
                             "langKey": "school_story_15_screen_4_button_1_title"
