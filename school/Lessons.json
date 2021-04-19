@@ -105,7 +105,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_11_title",
             "subtitleLangKey": "school_lesson_11_subtitle",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyEarning2.png",
             "type": "DEFAULT",
             "storyId": 11,
             "challengeId": 11
