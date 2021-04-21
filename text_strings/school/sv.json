@@ -1790,6 +1790,7 @@
   "school_redo_chapters_anyway": "Gör om planeterna i alla fall",
   "school_xp_value": "%1$d XP",
   "school_xp_value_out_of": "%1$d/%2$d XP",
+  "school_xp_value_in_total": "PLZ_CHECK %1$d XP in total",
   "school_shop_intro_title": "Välkommen till Gimi-affären! Det är dags att shoppa.",
   "school_shop_intro_subtitle": "Här i Superskills-äventyret används en valutan Piggybucks (PB). Valuta är ett annat ord för pengar.",
   "school_chapter_disabled_title": "Denna planet är inte släppt än",
@@ -1816,5 +1817,6 @@
   "school_rocket_tutorial_screen_4_title": "Om vi inte lyckas lyfta, gå tillbaka till Piggy på destinationerna och öva, sen kan vi prova igen. Tänk på att du bara har en viss tid på dig att svara på varje fråga!",
   "school_rocket_tutorial_screen_4_subtitle": "Jag är redo! Är du? Försök, så ser vi om vi kan lyfta och åka till nästa planet!",
   "school_read_the_tutorial": "Läs inledningen",
-  "school_dictionary": "PLZ_CHECK Dictionary"
+  "school_dictionary": "PLZ_CHECK Dictionary",
+  "school_universe_title": "PLZ_CHECK SuperVerse"
 }

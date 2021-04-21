@@ -1790,6 +1790,7 @@
   "school_redo_chapters_anyway": "PLZ_TRANSLATE Redo the chapters anyway",
   "school_xp_value": "PLZ_TRANSLATE %1$d XP",
   "school_xp_value_out_of": "PLZ_TRANSLATE %1$d/%2$d XP",
+  "school_xp_value_in_total": "PLZ_TRANSLATE %1$d XP in total",
   "school_shop_intro_title": "PLZ_TRANSLATE Welcome to the Gimi store! It’s time to shop.",
   "school_shop_intro_subtitle": "PLZ_TRANSLATE Here in Superskills Adventure we use a currency called Piggybucks (PB). Currency is another word for money.",
   "school_chapter_disabled_title": "PLZ_TRANSLATE This chapter isn’t released yet",
@@ -1816,5 +1817,6 @@
   "school_rocket_tutorial_screen_4_title": "PLZ_TRANSLATE If we can't launch you can go back to Piggy at the destinations and then we try again. And remember, you have a time limit for answering the questions!",
   "school_rocket_tutorial_screen_4_subtitle": "PLZ_TRANSLATE I'm ready! Are you ready to try and see if we can launch to the next planet!?",
   "school_read_the_tutorial": "PLZ_TRANSLATE Read the tutorial",
-  "school_dictionary": "PLZ_TRANSLATE Dictionary"
+  "school_dictionary": "PLZ_TRANSLATE Dictionary",
+  "school_universe_title": "PLZ_TRANSLATE SuperVerse"
 }
