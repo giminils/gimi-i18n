@@ -2532,7 +2532,7 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_13_screen_3_button_1_title",
-                            "imageUrl": "/static/school/toast.png",
+                            "imageUrl": "/static/school/breadButter.png",
                             "isCorrect": false
                         },
                         {
@@ -2612,7 +2612,7 @@
                         {
                             "id": 4,
                             "langKey": "school_challenge_13_screen_5_button_4_title",
-                            "imageUrl": "/static/school/hockeyStick.png",
+                            "imageUrl": "/static/school/icehockeystick.png",
                             "isCorrect": true
                         }
                     ]
