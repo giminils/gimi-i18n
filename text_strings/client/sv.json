@@ -2517,5 +2517,7 @@
   "your_bank_account_is_connected": "Ditt bankkonto är tillagt!",
   "your_bank_account_is_connected_desc": "Du kan nu följa alla dina transaktioner från ditt %1$d-kort direkt i Gimi-appen. Coolt va?",
   "due_allowance_parent_kid_item": "Ska betalas ut",
-  "general_bank_account": "Bankkonto"
+  "general_bank_account": "Bankkonto",
+  "not_main_parent_warning_title": "PLZ_CHECK You dont have permission to change account!",
+  "not_main_parent_warning_desc": "PLZ_CHECK Only the supporter who connected the bank account can change it. Ask them!"
 }
