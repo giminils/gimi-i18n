@@ -43,6 +43,24 @@
             "imageUrl": "",
             "lessonIds": [13, 14, 15],
             "rocketId": 4
+        },
+        {
+            "id": 6,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_6_title",
+            "subtitleLangKey": "school_chapter_x_subtitle",
+            "imageUrl": "",
+            "lessonIds": [16, 17, 18],
+            "rocketId": 5
+        },
+        {
+            "id": 7,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_7_title",
+            "subtitleLangKey": "school_chapter_x_subtitle",
+            "imageUrl": "",
+            "lessonIds": [19, 20, 21],
+            "rocketId": 6
         }
     ]
 }
