@@ -1826,5 +1826,10 @@
   "school_rocket_tutorial_screen_4_subtitle": "Jag är redo! Är du? Försök, så ser vi om vi kan lyfta och åka till nästa planet!",
   "school_read_the_tutorial": "Läs inledningen",
   "school_dictionary": "PLZ_CHECK Dictionary",
-  "school_universe_title": "PLZ_CHECK SuperVerse"
+  "school_universe_title": "PLZ_CHECK SuperVerse",
+  "school_general_deal_expressive": "PLZ_CHECK Deal!",
+  "school_story_snippet_1_screen_1_title": "PLZ_CHECK You are new here right? I'm Alien. I would also like to travel the SuperVerse. I have a rocket but never been able to get any fuel...",
+  "school_story_snippet_1_screen_2_title": "PLZ_CHECK ..To get fuel in the SuperVerse you have to have mad financial Superskills and I know nothing about money.",
+  "school_story_snippet_1_screen_3_title": "PLZ_CHECK I just have to stay here and watch my rocket get dusty. But hey! Maybe we can help each other!",
+  "school_story_snippet_1_screen_4_title": "PLZ_CHECK If you learn from Piggy, I'll prepare the rocket for travel. Then we can go get fuel together! Deal?"
 }

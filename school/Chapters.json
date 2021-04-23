@@ -15,7 +15,8 @@
             "subtitleLangKey": "school_chapter_2_subtitle",
             "imageUrl": "",
             "lessonIds": [4, 5, 6],
-            "rocketId": 1
+            "rocketId": 1,
+            "storySnippetId": 1
         },
         {
             "id": 3,

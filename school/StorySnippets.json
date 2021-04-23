@@ -1,0 +1,33 @@
+{
+    "data": [
+      {
+            "id": 1,
+            "screens": [
+                {
+                    "langKey": "school_story_snippet_1_screen_1_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttonLangKey": "school_answer_general_next"
+                },
+                {
+                    "langKey": "school_story_snippet_1_screen_2_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttonLangKey": "school_answer_general_next"
+                },
+                {
+                    "langKey": "school_story_snippet_1_screen_3_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttonLangKey": "school_answer_general_next"
+                },
+                {
+                    "langKey": "school_story_snippet_1_screen_4_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttonLangKey": "school_general_deal_expressive"
+                }
+            ]
+        }
+    ]
+}

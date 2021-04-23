@@ -3,12 +3,14 @@ import * as Lessons from './Lessons.json'
 import * as Stories from './Stories.json'
 import * as Challenges from './Challenges.json'
 import * as Rockets from './Rockets.json'
+import * as StorySnippets from './StorySnippets.json'
 
 export const stories = Stories.data
 export const challenges = Challenges.data
 export const chapters = Chapters.data
 export const lessons = Lessons.data
 export const rockets = Rockets.data
+export const storySnippets = StorySnippets.data
 
 export let getAllLessons = () => {
   return lessons.map((lesson) => {
@@ -28,7 +30,8 @@ export let getAllChapters = () => {
   return chapters.map((chapter) => {
     const chapterLessons = lessons.filter((lesson) => chapter.lessonIds.indexOf(lesson.id) !== -1 && lesson.isEnabled)
     const rocket = chapter.rocketId ? getRocketById(chapter.rocketId) : undefined
-    return {...chapter, rocket, lessons: chapterLessons}
+    const storySnippet = chapter.storySnippetId ? getStorySnippetById(chapter.storySnippetId) : undefined
+    return {...chapter, rocket, lessons: chapterLessons, storySnippet}
   })
 }
 
@@ -59,4 +62,8 @@ export let getRocketById = (id: number) => {
 
 export let getChapterByRocketId = (id: number) => {
   return chapters.find((chapter) => chapter.rocketId && chapter.rocketId === id)
+}
+
+export let getStorySnippetById = (id: number) => {
+  return storySnippets.find((storySnippet) => storySnippet.id === id)
 }
