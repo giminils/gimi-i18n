@@ -2188,7 +2188,7 @@
   "currency_thb": "Thai Baht",
   "currency_idr": "Indonesian Rupiahs",
   "currency_chf": "Swiss Franc",
-  "currency_cop": "PColombian Peso",
+  "currency_cop": "Colombian Peso",
   "allowance_settings_setup_title": "%1$d får redan vecko-/månadspeng",
   "allowance_settings_setup_subtitle": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
   "dont_add_allowance": "Lägg inte till",
@@ -2196,7 +2196,7 @@
   "piggy_bank_intro_subtitle": "Spargrisen är en räknare som representerar vad du är skyldig ditt barn. När barnet vill köpa något för pengarna i spargrisen så betalar du och drar av summan i Gimi-appen.",
   "general_supporter": "Supporter",
   "day_of_allowance": "Utbetalningsdag",
-  "change_allowance_freq_desc": "PLZ_CHECK If you change the allowance frequency, you will change it for all supporters.",
+  "change_allowance_freq_desc": "Om du byter mellan vecko-/månadspeng, kommer du att byta för alla supporters!",
   "get_started_for_kid_title": "Se till att %1$d kommer igång med Gimi!",
   "get_started_for_kid_desc": "Är du osäker på vad du ska göra nu? Här är några rekommendationer från oss!",
   "get_started_card_1_title": "Gör din första påfyllning till Gimi-kortet",
@@ -2377,7 +2377,7 @@
   "updated_allowance_piggy_message_low": "Försök att spara dina pengar så att du kan köpa något du verkligen vill ha senare!",
   "you_will_get_weekly_allowance_from": "Du kommer få veckopeng från %1$d",
   "you_will_get_monthly_allowance_from": "Du kommer få månadspeng från %1$d",
-  "go_to_goalmap_parent": "PLZ_CHECK Check out the savings progress!",
+  "go_to_goalmap_parent": "Spana in resan mot sparmålet!",
   "general_setup_tink": "Lägg till bankkonto",
   "setup_open_banking_title": "Lägg till ett existerande bankkonto i Gimi",
   "setup_open_banking_info_title_1": "Se saldo och transaktioner",
@@ -2518,6 +2518,6 @@
   "your_bank_account_is_connected_desc": "Du kan nu följa alla dina transaktioner från ditt %1$d-kort direkt i Gimi-appen. Coolt va?",
   "due_allowance_parent_kid_item": "Ska betalas ut",
   "general_bank_account": "Bankkonto",
-  "not_main_parent_warning_title": "PLZ_CHECK You dont have permission to change account!",
-  "not_main_parent_warning_desc": "PLZ_CHECK Only the supporter who connected the bank account can change it. Ask them!"
+  "not_main_parent_warning_title": "Du har inte tillåtelse att byta konto!",
+  "not_main_parent_warning_desc": "Bara supportern som la till bankkontot kan byta."
 }
