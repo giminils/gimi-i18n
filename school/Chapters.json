@@ -6,7 +6,8 @@
             "titleLangKey": "school_chapter_1_title",
             "subtitleLangKey": "school_chapter_1_subtitle",
             "imageUrl": "",
-            "lessonIds": [1, 2, 3]
+            "lessonIds": [1, 2, 3],
+            "storySnippetId": null
         },
         {
             "id": 2,
@@ -15,7 +16,8 @@
             "subtitleLangKey": "school_chapter_2_subtitle",
             "imageUrl": "",
             "lessonIds": [4, 5, 6],
-            "rocketId": 1
+            "rocketId": 1,
+            "storySnippetId": null
         },
         {
             "id": 3,
@@ -24,7 +26,8 @@
             "subtitleLangKey": "school_chapter_3_subtitle",
             "imageUrl": "",
             "lessonIds": [7, 8, 9],
-            "rocketId": 2
+            "rocketId": 2,
+            "storySnippetId": null
         },
         {
             "id": 4,
@@ -33,7 +36,8 @@
             "subtitleLangKey": "school_chapter_4_subtitle",
             "imageUrl": "",
             "lessonIds": [10, 11, 12],
-            "rocketId": 3
+            "rocketId": 3,
+            "storySnippetId": 2
         },
         {
             "id": 5,
@@ -42,7 +46,8 @@
             "subtitleLangKey": "school_chapter_5_subtitle",
             "imageUrl": "",
             "lessonIds": [13, 14, 15],
-            "rocketId": 4
+            "rocketId": 4,
+            "storySnippetId": null
         },
         {
             "id": 6,
@@ -51,7 +56,8 @@
             "subtitleLangKey": "school_chapter_x_subtitle",
             "imageUrl": "",
             "lessonIds": [16, 17, 18],
-            "rocketId": 5
+            "rocketId": 5,
+            "storieSnippetId": null
         },
         {
             "id": 7,
@@ -60,7 +66,8 @@
             "subtitleLangKey": "school_chapter_x_subtitle",
             "imageUrl": "",
             "lessonIds": [19, 20, 21],
-            "rocketId": 6
+            "rocketId": 6,
+            "storySnippetId": null
         }
     ]
 }
