@@ -155,7 +155,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_16_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyPayingMethods.png",
             "type": "DEFAULT",
             "storyId": 16,
             "challengeId": 16
@@ -165,7 +165,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_17_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyCreditCard.png",
             "type": "DEFAULT",
             "storyId": 17,
             "challengeId": 17
@@ -175,7 +175,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_18_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyInvoice.png",
             "type": "DEFAULT",
             "storyId": 18,
             "challengeId": 18
@@ -185,7 +185,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_19_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyCollection.png",
             "type": "DEFAULT",
             "storyId": 19,
             "challengeId": 19
@@ -195,7 +195,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_20_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyDeclined.png",
             "type": "DEFAULT",
             "storyId": 20,
             "challengeId": 20
@@ -205,7 +205,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_21_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyCreditReporting.png",
             "type": "DEFAULT",
             "storyId": 21,
             "challengeId": 21
