@@ -4909,7 +4909,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_18_screen_2_title",
                     "subtitleLangKey": "school_story_18_screen_2_subtitle",
-                    "imageUrl": "/static/school/piggyreceipt.png",
+                    "imageUrl": "/static/school/piggyReceipt.png",
                     "buttons": [
                         {
                             "langKey": "school_story_18_screen_2_button_1_title"
@@ -5068,7 +5068,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_18_screen_13_title",
                     "subtitleLangKey": "school_story_18_screen_13_subtitle",
-                    "imageUrl": "/static/school/negativeMoneyDigital.png",
+                    "imageUrl": "/static/school/moneyDigitalNegative.png",
                     "buttons": [
                         {
                             "langKey": "school_story_18_screen_13_button_1_title"
@@ -5506,7 +5506,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_19_screen_18_title",
                     "subtitleLangKey": "school_story_19_screen_18_subtitle",
-                    "imageUrl": "/static/school/priceHigher.png",
+                    "imageUrl": "/static/school/pricehigher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_19_screen_18_button_1_title"
@@ -5881,7 +5881,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_6_title",
                     "subtitleLangKey": "school_story_21_screen_6_subtitle",
-                    "imageUrl": "/static/school/smartphone.png",
+                    "imageUrl": "/static/school/smartPhone.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_6_button_1_title"
