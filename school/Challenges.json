@@ -1506,7 +1506,7 @@
                     "titleLangKey": "school_challenge_8_bank_screen_title_7",
                     "price": 4090,
                     "currencyCode": "SEK",
-                    "currencyValues": [10, 50, 500, 1000],
+                    "currencyValues": [],
                     "imageUrl": "/static/school/computer.png"
                 },
                 {
