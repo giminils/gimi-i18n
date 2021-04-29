@@ -5569,7 +5569,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_20_screen_2_title",
                     "subtitleLangKey": "school_story_20_screen_2_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/receiptWarning.png",
                     "buttons": [
                         {
                             "langKey": "school_story_20_screen_2_button_1_title"
@@ -5605,7 +5605,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_20_screen_4_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyPanic.png",
                     "buttons": [
                         {
                             "langKey": "school_story_20_screen_4_button_1_title"
@@ -5668,7 +5668,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_20_screen_8_title",
                     "subtitleLangKey": "school_story_20_screen_8_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/budget.png",
                     "buttons": [
                         {
                             "langKey": "school_story_20_screen_8_button_1_title"
@@ -5731,7 +5731,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_20_screen_12_title",
                     "subtitleLangKey": "school_story_20_screen_12_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/apartment.png",
                     "buttons": [
                         {
                             "langKey": "school_story_20_screen_12_button_1_title"
@@ -5815,7 +5815,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_2_title",
                     "subtitleLangKey": "school_story_21_screen_2_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/pony.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_2_button_1_title"
@@ -5881,7 +5881,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_6_title",
                     "subtitleLangKey": "school_story_21_screen_6_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/smartphone.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_6_button_1_title"
@@ -5902,7 +5902,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_7_title",
                     "subtitleLangKey": "school_story_21_screen_7_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyWarning.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_7_button_1_title"
@@ -5971,7 +5971,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_11_title",
                     "subtitleLangKey": "school_story_21_screen_11_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/receipt2.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_11_button_1_title"
@@ -6022,7 +6022,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_14_title",
                     "subtitleLangKey": "school_story_21_screen_14_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/riskGraph.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_14_button_1_title"
@@ -6055,7 +6055,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_21_screen_16_title",
                     "subtitleLangKey": "school_story_21_screen_16_subtitle",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyPanic.png",
                     "buttons": [
                         {
                             "langKey": "school_story_21_screen_16_button_1_title"
