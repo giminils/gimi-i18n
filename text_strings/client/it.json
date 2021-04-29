@@ -2519,5 +2519,6 @@
   "due_allowance_parent_kid_item": "PLZ_TRANSLATE To be paid out",
   "general_bank_account": "PLZ_TRANSLATE Bank account",
   "not_main_parent_warning_title": "PLZ_TRANSLATE You dont have permission to change account!",
-  "not_main_parent_warning_desc": "PLZ_TRANSLATE Only the supporter who connected the bank account can change it. Ask them!"
+  "not_main_parent_warning_desc": "PLZ_TRANSLATE Only the supporter who connected the bank account can change it. Ask them!",
+  "upcoming_transaction": "PLZ_TRANSLATE Upcoming"
 }

@@ -2519,5 +2519,6 @@
   "due_allowance_parent_kid_item": "To be paid out",
   "general_bank_account": "Bank account",
   "not_main_parent_warning_title":"You dont have permission to change account!",
-  "not_main_parent_warning_desc": "Only the supporter who connected the bank account can change it. Ask them!"
+  "not_main_parent_warning_desc": "Only the supporter who connected the bank account can change it. Ask them!",
+  "upcoming_transaction": "Upcoming"
 }
