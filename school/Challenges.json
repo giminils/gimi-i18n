@@ -2452,7 +2452,7 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_1_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_1_title",
                     "buttons": [
                         {
@@ -2495,7 +2495,7 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_2_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_2_title",
                     "buttons": [
                         {
@@ -2526,7 +2526,7 @@
                 },
                 {
                     "id": 3,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_3_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_3_title",
                     "buttons": [
                         {
@@ -2557,7 +2557,7 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_4_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_4_title",
                     "buttons": [
                         {
@@ -2588,7 +2588,7 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_5_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_5_title",
                     "buttons": [
                         {
@@ -2619,7 +2619,7 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_6_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_6_title",
                     "buttons": [
                         {
@@ -2662,7 +2662,7 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_7_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_7_title",
                     "buttons": [
                         {
@@ -2693,7 +2693,7 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_8_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_8_title",
                     "buttons": [
                         {
@@ -2724,7 +2724,7 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_9_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_9_title",
                     "buttons": [
                         {
@@ -2755,7 +2755,7 @@
                 },
                 {
                     "id": 10,
-                    "boldTitleLangKey": "",
+                    "boldTitleLangKey": "school_challenge_13_screen_10_boldheader",
                     "titleLangKey":  "school_challenge_13_screen_10_title",
                     "buttons": [
                         {
