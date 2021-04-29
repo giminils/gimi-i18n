@@ -37,7 +37,7 @@
             "imageUrl": "",
             "lessonIds": [10, 11, 12],
             "rocketId": 3,
-            "storySnippetId": 2
+            "storySnippetId": null
         },
         {
             "id": 5,
