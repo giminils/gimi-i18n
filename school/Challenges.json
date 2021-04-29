@@ -3926,7 +3926,7 @@
                     "boldTitleLangKey": "school_challenge_19_screen_2_boldheader",
                     "titleLangKey": "school_challenge_19_screen_2_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/receiptWarning.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_19_screen_2_button_1",
@@ -3964,7 +3964,7 @@
                     "boldTitleLangKey": "school_challenge_19_screen_4_boldheader",
                     "titleLangKey": "school_challenge_19_screen_4_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/work.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_19_screen_4_button_1",
@@ -4002,7 +4002,7 @@
                     "boldTitleLangKey": "school_challenge_19_screen_6_boldheader",
                     "titleLangKey": "school_challenge_19_screen_6_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/calendar.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_19_screen_6_button_1",
@@ -4040,7 +4040,7 @@
                     "boldTitleLangKey": "school_challenge_19_screen_8_boldheader",
                     "titleLangKey": "school_challenge_19_screen_8_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/piggyPanic.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_19_screen_8_button_1",
@@ -4078,7 +4078,7 @@
                     "boldTitleLangKey": "school_challenge_19_screen_10_boldheader",
                     "titleLangKey": "school_challenge_19_screen_10_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "",
+                    "imageUrl": "/static/school/collection.png",
                     "buttons": [
                         {
                             "langKey": "school_challenge_19_screen_10_button_1",
