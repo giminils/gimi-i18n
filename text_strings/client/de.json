@@ -2522,5 +2522,6 @@
   "not_main_parent_warning_desc": "PLZ_TRANSLATE Only the supporter who connected the bank account can change it. Ask them!",
   "upcoming_transaction": "PLZ_TRANSLATE Upcoming",
   "pending_transaction": "PLZ_TRANSLATE Pending",
-  "tink_accept_terms_title": "PLZ_TRANSLATE I have read and approve the user terms"
+  "tink_accept_terms_title": "PLZ_TRANSLATE I have read and approve the user terms",
+  "tink_user_terms_link": "PLZ_TRANSLATE https://gimitheapp.com/en/press/account-information-services"
 }

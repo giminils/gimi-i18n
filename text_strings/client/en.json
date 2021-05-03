@@ -2522,5 +2522,6 @@
   "not_main_parent_warning_desc": "Only the supporter who connected the bank account can change it. Ask them!",
   "upcoming_transaction": "Upcoming",
   "pending_transaction": "Pending",
-  "tink_accept_terms_title":"I have read and approve the user terms"
+  "tink_accept_terms_title":"I have read and approve the user terms",
+  "tink_user_terms_link":"https://gimitheapp.com/en/press/account-information-services"
 }
