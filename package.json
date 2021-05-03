@@ -14,8 +14,8 @@
     "jenny": "yarn run babelize && node ./utils/dest/jenny.js",
     "emma": "yarn run babelize && node ./utils/dest/emma.js",
     "taylor": "yarn run babelize && node ./utils/dest/taylor.js",
-    "check": "tsc"
-
+    "check": "tsc",
+    "postinstall": "node ./postinstall.js"
   },
   "repository": {
     "type": "git",
