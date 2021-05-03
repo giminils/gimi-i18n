@@ -2521,5 +2521,6 @@
   "not_main_parent_warning_title": "Du har inte tillåtelse att byta konto!",
   "not_main_parent_warning_desc": "Bara supportern som la till bankkontot kan byta.",
   "upcoming_transaction": "PLZ_CHECK Upcoming",
-  "pending_transaction": "PLZ_CHECK Pending"
+  "pending_transaction": "PLZ_CHECK Pending",
+  "tink_accept_terms_title": "PLZ_CHECK I have read and approve the user terms"
 }

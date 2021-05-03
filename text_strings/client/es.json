@@ -2521,5 +2521,6 @@
   "not_main_parent_warning_title": "PLZ_TRANSLATE You dont have permission to change account!",
   "not_main_parent_warning_desc": "PLZ_TRANSLATE Only the supporter who connected the bank account can change it. Ask them!",
   "upcoming_transaction": "PLZ_TRANSLATE Upcoming",
-  "pending_transaction": "PLZ_TRANSLATE Pending"
+  "pending_transaction": "PLZ_TRANSLATE Pending",
+  "tink_accept_terms_title": "PLZ_TRANSLATE I have read and approve the user terms"
 }
