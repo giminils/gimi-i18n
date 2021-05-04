@@ -2524,5 +2524,6 @@
   "pending_transaction": "PLZ_TRANSLATE Pending",
   "tink_accept_terms_title": "PLZ_TRANSLATE I have read and approve the user terms",
   "tink_user_terms_link": "PLZ_TRANSLATE https://gimitheapp.com/en/press/account-information-services?cookies=false",
-  "avatar_creator_title": "PLZ_TRANSLATE Customize your avatar"
+  "avatar_creator_title": "PLZ_TRANSLATE Customize your avatar",
+  "general_save_word": "PLZ_TRANSLATE Save"
 }
