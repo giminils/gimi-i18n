@@ -2523,5 +2523,6 @@
   "upcoming_transaction": "PLZ_CHECK Upcoming",
   "pending_transaction": "PLZ_CHECK Pending",
   "tink_accept_terms_title": "PLZ_CHECK I have read and approve the user terms",
-  "tink_user_terms_link": "https://gimitheapp.com/sv/press/kontoinformationstjanster?cookies=false"
+  "tink_user_terms_link": "https://gimitheapp.com/sv/press/kontoinformationstjanster?cookies=false",
+  "avatar_creator_title": "PLZ_CHECK Customize your avatar"
 }

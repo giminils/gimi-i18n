@@ -2523,5 +2523,6 @@
   "upcoming_transaction": "Upcoming",
   "pending_transaction": "Pending",
   "tink_accept_terms_title":"I have read and approve the user terms",
-  "tink_user_terms_link":"https://gimitheapp.com/en/press/account-information-services?cookies=false"
+  "tink_user_terms_link":"https://gimitheapp.com/en/press/account-information-services?cookies=false",
+  "avatar_creator_title":"Customize your avatar"
 }
