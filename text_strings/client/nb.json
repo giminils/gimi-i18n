@@ -2530,5 +2530,8 @@
   "tink_pis_fail_error_view_subtitle": "PLZ_TRANSLATE This did not work as expected... Contact the support if thie error persists",
   "school_xp_level": "PLZ_TRANSLATE Level %1$d",
   "x_xp_to_next_level": "PLZ_TRANSLATE %1$d XP needed to next level! ",
-  "general_level_x": "PLZ_TRANSLATE Level %1$d"
+  "general_level_x": "PLZ_TRANSLATE Level %1$d",
+  "kid_profile_tab_skills": "PLZ_TRANSLATE Superskills",
+  "kid_profile_tab_friends": "PLZ_TRANSLATE Friends",
+  "kid_profile_tab_stats": "PLZ_TRANSLATE Statistics"
 }
