@@ -2527,5 +2527,6 @@
   "avatar_creator_title": "Customize your avatar",
   "general_save_word": "Save",
   "tink_pis_fail_error_view_title": "Somehing went wrong...",
-  "tink_pis_fail_error_view_subtitle": "This did not work as expected... Contact the support if thie error persists"
+  "tink_pis_fail_error_view_subtitle": "This did not work as expected... Contact the support if thie error persists",
+  "school_xp_level":"Level %1$d"
 }
