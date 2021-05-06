@@ -2529,5 +2529,6 @@
   "tink_pis_fail_error_view_title": "Somehing went wrong...",
   "tink_pis_fail_error_view_subtitle": "This did not work as expected... Contact the support if thie error persists",
   "school_xp_level":"Level %1$d",
-  "x_xp_to_next_level":"%1$d XP needed to next level! "
+  "x_xp_to_next_level":"%1$d XP needed to next level!",
+  "general_level_x":"Level %1$d"
 }
