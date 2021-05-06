@@ -2528,5 +2528,6 @@
   "general_save_word": "PLZ_CHECK Save",
   "tink_pis_fail_error_view_title": "PLZ_CHECK Somehing went wrong...",
   "tink_pis_fail_error_view_subtitle": "PLZ_CHECK This did not work as expected... Contact the support if thie error persists",
-  "school_xp_level": "PLZ_CHECK Level %1$d"
+  "school_xp_level": "PLZ_CHECK Level %1$d",
+  "x_xp_to_next_level": "PLZ_CHECK %1$d XP needed to next level! "
 }
