@@ -2537,5 +2537,6 @@
   "sucess_regret_help_text_parent": "This is how your child evaluated the events in their piggybank!",
   "sucess_regret_help_text_kid": "This is how you evaluated the events in your piggybank!",
   "add_friends_hint": "Add friends to see their XP!",
-  "general_add_friend":"Add friend"
+  "general_add_friend":"Add friend",
+  "general_my_friends":"My friends"
 }
