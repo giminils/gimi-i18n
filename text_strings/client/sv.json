@@ -2528,10 +2528,10 @@
   "general_save_word": "PLZ_CHECK Save",
   "tink_pis_fail_error_view_title": "PLZ_CHECK Somehing went wrong...",
   "tink_pis_fail_error_view_subtitle": "PLZ_CHECK This did not work as expected... Contact the support if thie error persists",
-  "school_xp_level": "PLZ_CHECK Level %1$d",
-  "x_xp_to_next_level": "PLZ_CHECK %1$d XP needed to next level! ",
-  "general_level_x": "PLZ_CHECK Level %1$d",
-  "kid_profile_tab_skills": "PLZ_CHECK Superskills",
-  "kid_profile_tab_friends": "PLZ_CHECK Friends",
-  "kid_profile_tab_stats": "PLZ_CHECK Statistics"
+  "school_xp_level": "Level %1$d",
+  "x_xp_to_next_level": "%1$d XP kvar till nästa level!",
+  "general_level_x": "Level %1$d",
+  "kid_profile_tab_skills": "Superskills",
+  "kid_profile_tab_friends": "Vänner",
+  "kid_profile_tab_stats": "Statistik"
 }
