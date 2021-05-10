@@ -2541,5 +2541,6 @@
   "general_my_friends": "PLZ_CHECK My friends",
   "general_financial_badges": "PLZ_CHECK Financial badges",
   "general_lessons_title": "PLZ_CHECK Superverse",
-  "general_do_again": "PLZ_CHECK Do again"
+  "general_do_again": "PLZ_CHECK Do again",
+  "general_locked": "PLZ_CHECK Locked"
 }
