@@ -2542,5 +2542,6 @@
   "general_financial_badges": "PLZ_TRANSLATE Financial badges",
   "general_lessons_title": "PLZ_TRANSLATE Superverse",
   "general_do_again": "PLZ_TRANSLATE Do again",
-  "general_locked": "PLZ_TRANSLATE Locked"
+  "general_locked": "PLZ_TRANSLATE Locked",
+  "friends_emptystate_profile": "PLZ_TRANSLATE No friends yet, add them!"
 }

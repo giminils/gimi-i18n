@@ -2542,5 +2542,6 @@
   "general_financial_badges":"Financial badges",
   "general_lessons_title": "Superverse",
   "general_do_again": "Do again",
-  "general_locked":"Locked"
+  "general_locked":"Locked",
+  "friends_emptystate_profile":"No friends yet, add them!"
 }
