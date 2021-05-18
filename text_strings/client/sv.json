@@ -2549,5 +2549,7 @@
   "flash_card_family_missions_title": "PLZ_CHECK Family missions",
   "flash_card_family_missions_desc": "PLZ_CHECK Go through the basics of personal finances together with your child!",
   "flash_card_card_instructions_title": "PLZ_CHECK Card instructions",
-  "flash_card_card_instructions_desc": "PLZ_CHECK Teach your child how to use a debit card properly"
+  "flash_card_card_instructions_desc": "PLZ_CHECK Teach your child how to use a debit card properly",
+  "card_instructions_title": "PLZ_CHECK Card instructions",
+  "card_instructions_desc": "PLZ_CHECK Watch the instruction films on how to use a card together with your child!"
 }
