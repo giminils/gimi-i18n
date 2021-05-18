@@ -2545,5 +2545,9 @@
   "general_locked": "Locked",
   "friends_emptystate_profile": "No friends yet, add them!",
   "general_connect_kid_bank_account": "Connect kids bank account",
-  "kid_profile_tab_adventures": "Adventures"
+  "kid_profile_tab_adventures": "Adventures",
+  "flash_card_family_missions_title":"Family missions",
+  "flash_card_family_missions_desc": "Go through the basics of personal finances together with your child!",
+  "flash_card_card_instructions_title":"Card instructions",
+  "flash_card_card_instructions_desc": "Teach your child how to use a debit card properly"
 }

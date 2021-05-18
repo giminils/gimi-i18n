@@ -2545,5 +2545,9 @@
   "general_locked": "PLZ_CHECK Locked",
   "friends_emptystate_profile": "PLZ_CHECK No friends yet, add them!",
   "general_connect_kid_bank_account": "PLZ_CHECK Connect kids bank account",
-  "kid_profile_tab_adventures": "PLZ_CHECK Adventures"
+  "kid_profile_tab_adventures": "PLZ_CHECK Adventures",
+  "flash_card_family_missions_title": "PLZ_CHECK Family missions",
+  "flash_card_family_missions_desc": "PLZ_CHECK Go through the basics of personal finances together with your child!",
+  "flash_card_card_instructions_title": "PLZ_CHECK Card instructions",
+  "flash_card_card_instructions_desc": "PLZ_CHECK Teach your child how to use a debit card properly"
 }
