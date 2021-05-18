@@ -2544,5 +2544,6 @@
   "general_do_again": "PLZ_CHECK Do again",
   "general_locked": "PLZ_CHECK Locked",
   "friends_emptystate_profile": "PLZ_CHECK No friends yet, add them!",
-  "general_connect_kid_bank_account": "PLZ_CHECK Connect kids bank account"
+  "general_connect_kid_bank_account": "PLZ_CHECK Connect kids bank account",
+  "kid_profile_tab_adventures": "PLZ_CHECK Adventures"
 }

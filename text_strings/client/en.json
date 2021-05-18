@@ -2544,5 +2544,6 @@
   "general_do_again": "Do again",
   "general_locked": "Locked",
   "friends_emptystate_profile": "No friends yet, add them!",
-  "general_connect_kid_bank_account": "Connect kids bank account"
+  "general_connect_kid_bank_account": "Connect kids bank account",
+  "kid_profile_tab_adventures": "Adventures"
 }

@@ -2544,5 +2544,6 @@
   "general_do_again": "PLZ_TRANSLATE Do again",
   "general_locked": "PLZ_TRANSLATE Locked",
   "friends_emptystate_profile": "PLZ_TRANSLATE No friends yet, add them!",
-  "general_connect_kid_bank_account": "PLZ_TRANSLATE Connect kids bank account"
+  "general_connect_kid_bank_account": "PLZ_TRANSLATE Connect kids bank account",
+  "kid_profile_tab_adventures": "PLZ_TRANSLATE Adventures"
 }
