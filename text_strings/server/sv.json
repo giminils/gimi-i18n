@@ -520,7 +520,7 @@
   "CHPRON015_notification_title": "Ditt kort är aktiverat. Kom ihåg att du måste använda PIN-koden första gången, sen kan du blippa!",
   "CHPRRE045_push_title": "Spana in Gimi-kortets saldo i appen!",
   "CHGERE002_push_title": "Du är nu ihopkopplad med {parent.nickname}!",
-  "CHGERE007_notification_title": "Ny uppgift! {parent.nickname} vill att du: {task.title}",
+  "CHGERE007_notification_title": "PLZ_CHECK New chore! {parent.nickname} asks you to: {task.title}",
   "ADFRRE001_notification_title": "Payday för {child.nickname}! {payday_amount} har lagts till i spargrisen",
   "ADFRRE001_notification_title_v2": "{child.nickname} har fått {allowance_frequency}, {formatted_payday_amount} har lagts till i spargrisen!",
   "CHGEON014_notification_title": "Du får nu {allowance_frequency} av {parent.nickname}!",
