@@ -2551,5 +2551,7 @@
   "flash_card_card_instructions_title": "PLZ_TRANSLATE Card instructions",
   "flash_card_card_instructions_desc": "PLZ_TRANSLATE Teach your child how to use a debit card properly",
   "card_instructions_title": "PLZ_TRANSLATE Card instructions",
-  "card_instructions_desc": "PLZ_TRANSLATE Watch the instruction films on how to use a card together with your child!"
+  "card_instructions_desc": "PLZ_TRANSLATE Watch the instruction films on how to use a card together with your child!",
+  "parent_lesson_popover_title": "PLZ_TRANSLATE Only Children can access SuperVerse!",
+  "parent_lesson_popover_desc": "PLZ_TRANSLATE If you want to check it out, login to your child's account or access it through their phone."
 }
