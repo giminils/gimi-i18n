@@ -2540,7 +2540,7 @@
   "general_add_friend": "Lägg till vän",
   "general_my_friends": "Mina vänner",
   "general_financial_badges": "Financial badges",
-  "general_lessons_title": "PLZ_CHECK SuperVerse",
+  "general_lessons_title": "SuperVerse",
   "general_do_again": "Gör om",
   "general_locked": "Låst",
   "friends_emptystate_profile": "Inga vänner här än, bjud in dem!",
@@ -2552,6 +2552,6 @@
   "flash_card_card_instructions_desc": "Lär ditt barn hur man använder ett kort!",
   "card_instructions_title": "Kortinstruktioner",
   "card_instructions_desc": "Se instruktionsfilmerna tillsammans med ditt barn!",
-  "parent_lesson_popover_title": "PLZ_CHECK Only Children can access SuperVerse!",
-  "parent_lesson_popover_desc": "PLZ_CHECK If you want to check it out, login to your child's account or access it through their phone."
+  "parent_lesson_popover_title": "Endast barn har tillgång till SuperVerse!",
+  "parent_lesson_popover_desc": "Om du vill se hur det ser ut, logga in på barnets konto eller låna deras telefon."
 }
