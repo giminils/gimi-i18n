@@ -2553,5 +2553,7 @@
   "card_instructions_title": "Kortinstruktioner",
   "card_instructions_desc": "Se instruktionsfilmerna tillsammans med ditt barn!",
   "parent_lesson_popover_title": "Endast barn har tillgång till SuperVerse!",
-  "parent_lesson_popover_desc": "Om du vill se hur det ser ut, logga in på barnets konto eller låna deras telefon."
+  "parent_lesson_popover_desc": "Om du vill se hur det ser ut, logga in på barnets konto eller låna deras telefon.",
+  "weekly_payout_week_x_from_parent": "PLZ_CHECK Weekly allowance week %1$d from %2$d",
+  "monthly_payout_month_x_from_parent": "PLZ_CHECK Monthly allowance %1$d from %2$d"
 }
