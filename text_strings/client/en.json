@@ -898,7 +898,7 @@
   "savings_account_intro_text": "Only %1$d can top-up the Gimi card from here. Remember, you still pay the bonus!",
   "phone_verification_sent_to_kid_phone": "A verification code has been sent to your child’s new phone number",
   "education_title": "Educate",
-  "education_n_out_of_n_completed": "%1$d/%2$d approved",
+  "education_n_out_of_n_completed": "%1$d/%2$d completed",
   "education_more_chapters_coming_soon": "More coming soon!",
   "spending_categories_item_explainer_kid": "You spent %1$d on %2$d this month",
   "spending_categories_item_explainer_parent": "%1$d spent %2$d on %3$d this month",
@@ -2544,5 +2544,16 @@
   "general_do_again": "Do again",
   "general_locked": "Locked",
   "friends_emptystate_profile": "No friends yet, add them!",
-  "general_connect_kid_bank_account": "Connect kids bank account"
+  "general_connect_kid_bank_account": "Connect kids bank account",
+  "kid_profile_tab_adventures": "Adventures",
+  "flash_card_family_missions_title":"Family missions",
+  "flash_card_family_missions_desc": "Go through the basics of personal finances together with your child!",
+  "flash_card_card_instructions_title":"Card instructions",
+  "flash_card_card_instructions_desc": "Teach your child how to use a debit card properly",
+  "card_instructions_title": "Card instructions",
+  "card_instructions_desc":"Watch the instruction films on how to use a card together with your child!",
+  "parent_lesson_popover_title":"Only Children can access SuperVerse!",
+  "parent_lesson_popover_desc":"If you want to check it out, login to your child's account or access it through their phone.",
+  "weekly_payout_week_x_from_parent":"Weekly allowance week %1$d from %2$d",
+  "monthly_payout_month_x_from_parent": "Monthly allowance %1$d from %2$d"
 }
