@@ -2555,5 +2555,8 @@
   "parent_lesson_popover_title":"Only Children can access SuperVerse!",
   "parent_lesson_popover_desc":"If you want to check it out, login to your child's account or access it through their phone.",
   "weekly_payout_week_x_from_parent":"Weekly allowance week %1$d from %2$d",
-  "monthly_payout_month_x_from_parent": "Monthly allowance %1$d from %2$d"
+  "monthly_payout_month_x_from_parent": "Monthly allowance %1$d from %2$d",
+  "receipts_from_you":"From you",
+  "receipts_from_other": "From other supporters",
+  "receipts_from_other_subtitle":"Not paid out by you!"
 }
