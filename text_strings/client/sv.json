@@ -2554,9 +2554,9 @@
   "card_instructions_desc": "Se instruktionsfilmerna tillsammans med ditt barn!",
   "parent_lesson_popover_title": "Endast barn har tillgång till SuperVerse!",
   "parent_lesson_popover_desc": "Om du vill se hur det ser ut, logga in på barnets konto eller låna deras telefon.",
-  "weekly_payout_week_x_from_parent": "PLZ_CHECK Weekly allowance week %1$d from %2$d",
-  "monthly_payout_month_x_from_parent": "PLZ_CHECK Monthly allowance %1$d from %2$d",
-  "receipts_from_you": "PLZ_CHECK From you",
-  "receipts_from_other": "PLZ_CHECK From other supporters",
-  "receipts_from_other_subtitle": "PLZ_CHECK Not paid out by you!"
+  "weekly_payout_week_x_from_parent": "Veckopeng vecka %1$d från %2$d",
+  "monthly_payout_month_x_from_parent": "Månadspeng %1$d från %2$d",
+  "receipts_from_you": "Från dig",
+  "receipts_from_other": "Från andra supporters",
+  "receipts_from_other_subtitle": "Inte betalt av dig!"
 }
