@@ -2559,5 +2559,7 @@
   "monthly_payout_month_x_from_parent": "Monthly allowance %1$d from %2$d",
   "receipts_from_you": "From you",
   "receipts_from_other": "From other supporters",
-  "receipts_from_other_subtitle": "Not paid out by you!"
+  "receipts_from_other_subtitle": "Not paid out by you!",
+  "only_main_parent_can_disconnect_account_title":"You can’t disconnect this bank account",
+  "only_main_parent_can_disconnect_account_desc": "Only the supporter whi added it can do it. Ask them!"
 }

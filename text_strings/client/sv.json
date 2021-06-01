@@ -2559,5 +2559,7 @@
   "monthly_payout_month_x_from_parent": "Månadspeng %1$d från %2$d",
   "receipts_from_you": "Från dig",
   "receipts_from_other": "Från andra supporters",
-  "receipts_from_other_subtitle": "Inte betalt av dig!"
+  "receipts_from_other_subtitle": "Inte betalt av dig!",
+  "only_main_parent_can_disconnect_account_title": "PLZ_CHECK You can’t disconnect this bank account",
+  "only_main_parent_can_disconnect_account_desc": "PLZ_CHECK Only the supporter whi added it can do it. Ask them!"
 }

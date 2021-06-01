@@ -2559,5 +2559,7 @@
   "monthly_payout_month_x_from_parent": "PLZ_TRANSLATE Monthly allowance %1$d from %2$d",
   "receipts_from_you": "PLZ_TRANSLATE From you",
   "receipts_from_other": "PLZ_TRANSLATE From other supporters",
-  "receipts_from_other_subtitle": "PLZ_TRANSLATE Not paid out by you!"
+  "receipts_from_other_subtitle": "PLZ_TRANSLATE Not paid out by you!",
+  "only_main_parent_can_disconnect_account_title": "PLZ_TRANSLATE You can’t disconnect this bank account",
+  "only_main_parent_can_disconnect_account_desc": "PLZ_TRANSLATE Only the supporter whi added it can do it. Ask them!"
 }
