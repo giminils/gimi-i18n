@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest -w 8",
     "babelize": "npx babel --extensions '.ts' --presets=@babel/preset-typescript ./utils/src -d ./utils/dest",
     "lint": "eslint . --ignore-pattern=/utils/dest/",
     "fix-lint": "npm run lint -- --fix",
