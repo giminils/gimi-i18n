@@ -2475,7 +2475,7 @@
   "open_banking_action_kid_card_details_desc": "PLZ_TRANSLATE Gimi doesn’t have access to them. Ask an adult if you need help!",
   "open_banking_action_kid_pin_title": "PLZ_TRANSLATE Gimi doesn’t have access to your PIN!",
   "open_banking_action_kid_pin_desc": "PLZ_TRANSLATE Login to your bank app to see if you can view it there, or ask an adult for help.",
-  "open_banking_not_connected_info": "PLZ_TRANSLATE No active connection",
+  "open_banking_not_connected_info": "PLZ_TRANSLATE No connected account",
   "general_connect_open_banking": "PLZ_TRANSLATE Connect bank account",
   "go_to_master_settings": "PLZ_TRANSLATE Go to Gimi Master settings",
   "general_short_remove": "PLZ_TRANSLATE Remove",

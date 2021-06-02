@@ -2475,7 +2475,7 @@
   "open_banking_action_kid_card_details_desc": "Gimi har inte tillgång till dem. Fråga en vuxen om du behöver hjälp!",
   "open_banking_action_kid_pin_title": "Gimi har inte tillgång till din PIN-kod!",
   "open_banking_action_kid_pin_desc": "Logga in i din bankapp och kolla om du kan se den där, eller fråga en vuxen om hjälp.",
-  "open_banking_not_connected_info": "Ingen aktiv bankkoppling",
+  "open_banking_not_connected_info": "PLZ_CHECK No connected account",
   "general_connect_open_banking": "Koppla ett bankkonto",
   "go_to_master_settings": "Gå till Gimi Master-inställningarna",
   "general_short_remove": "Ta bort",
