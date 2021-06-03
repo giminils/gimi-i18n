@@ -2578,5 +2578,6 @@
   "tink_crendentials_refreshed_success":"Bank account is refreshed!",
   "delete_tink_account_popover_title":"Are you sure?",
   "delete_tink_account_popover_desc": "This will delete all bak accounts you’ve added to Gimi",
-  "could_not_find_any_accounts_to_connect":"Could not find any accounts to connect..."
+  "could_not_find_any_accounts_to_connect":"Could not find any accounts to connect...",
+  "all_supported_accounts_already_connected":"You have already connected all supported accounts..."
 }
