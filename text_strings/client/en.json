@@ -2575,5 +2575,7 @@
   "general_account_exists": "Does the child have a Gimi account?",
   "yes_invite_subtitle" : "I want to send an invite to connect!",
   "no_invite_subtitle": "I want to add a child to my profile!",
-  "tink_crendentials_refreshed_success":"Bank account is refreshed!"
+  "tink_crendentials_refreshed_success":"Bank account is refreshed!",
+  "delete_tink_account_popover_title":"Are you sure?",
+  "delete_tink_account_popover_desc": "This will delete all bak accounts you’ve added to Gimi"
 }
