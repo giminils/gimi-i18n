@@ -2574,5 +2574,6 @@
   "premium_offer_subtitle_12": "PLZ_CHECK Teach your child that money can grow if they save them.",
   "general_account_exists": "PLZ_CHECK Does the child have a Gimi account?",
   "yes_invite_subtitle": "PLZ_CHECK I want to send an invite to connect!",
-  "no_invite_subtitle": "PLZ_CHECK I want to add a child to my profile!"
+  "no_invite_subtitle": "PLZ_CHECK I want to add a child to my profile!",
+  "tink_crendentials_refreshed_success": "PLZ_CHECK Bank account is refreshed!"
 }

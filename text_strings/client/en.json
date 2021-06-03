@@ -2574,5 +2574,6 @@
   "premium_offer_subtitle_12": "Teach your child that money can grow if they save them.",
   "general_account_exists": "Does the child have a Gimi account?",
   "yes_invite_subtitle" : "I want to send an invite to connect!",
-  "no_invite_subtitle": "I want to add a child to my profile!"
+  "no_invite_subtitle": "I want to add a child to my profile!",
+  "tink_crendentials_refreshed_success":"Bank account is refreshed!"
 }
