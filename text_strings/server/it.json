@@ -544,5 +544,6 @@
   "ADGEON016_push_title": "PLZ_TRANSLATE Add a bonus to encourage {child.nickname} to save!",
   "ADGEON016_notification": "PLZ_TRANSLATE Add a bonus to encourage {child.nickname} to save!",
   "ADGEON017_push_title": "PLZ_TRANSLATE Set up a bonus rate for {child.nickname}",
-  "ADGEON017_notification": "PLZ_TRANSLATE Set up a bonus rate for {child.nickname}"
+  "ADGEON017_notification": "PLZ_TRANSLATE Set up a bonus rate for {child.nickname}",
+  "CHGEON042_notification_title": "PLZ_TRANSLATE Your bank account has been connected"
 }

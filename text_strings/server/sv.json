@@ -544,5 +544,6 @@
   "ADGEON016_push_title": "Lägg till en bonus för att uppmuntra {child.nickname} att spara!",
   "ADGEON016_notification": "Lägg till en bonus för att uppmuntra {child.nickname} att spara!",
   "ADGEON017_push_title": "PLZ_CHECK Set up a bonus rate for {child.nickname}",
-  "ADGEON017_notification": "PLZ_CHECK Set up a bonus rate for {child.nickname}"
+  "ADGEON017_notification": "PLZ_CHECK Set up a bonus rate for {child.nickname}",
+  "CHGEON042_notification_title": "PLZ_CHECK Your bank account has been connected"
 }
