@@ -545,5 +545,7 @@
   "ADGEON016_notification": "Add a bonus to encourage {child.nickname} to save!",
   "ADGEON017_push_title": "Set up a bonus rate for {child.nickname}",
   "ADGEON017_notification": "Set up a bonus rate for {child.nickname}",
-  "CHGEON042_notification_title": "Your bank account has been connected"
+  "CHGEON042_notification_title": "Your bank account has been connected",
+  "CHGEON005_notification_title_v2": "Your bonus has been updated to {child.total_interest_rate}%",
+  "CHGEON005_push_title_v2": "Your bonus has been updated in Gimi, check it out!"
 }
