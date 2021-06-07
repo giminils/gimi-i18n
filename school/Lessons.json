@@ -209,6 +209,36 @@
             "type": "DEFAULT",
             "storyId": 21,
             "challengeId": 21
+        },
+        {
+            "id": 22,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_22_title",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyStartSaving.png",
+            "type": "DEFAULT",
+            "storyId": 22,
+            "challengeId": 22
+        },
+        {
+            "id": 23,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_23_title",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyLoan.png",
+            "type": "DEFAULT",
+            "storyId": 23,
+            "challengeId": 23
+        },
+        {
+            "id": 24,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_24_title",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "/static/school/piggyStocks.png",
+            "type": "DEFAULT",
+            "storyId": 24,
+            "challengeId": 24
         }
     ]
 }

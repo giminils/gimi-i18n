@@ -68,6 +68,16 @@
             "lessonIds": [19, 20, 21],
             "rocketId": 6,
             "storySnippetId": null
+        },
+        {
+            "id": 8,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_8_title",
+            "subtitleLangKey": "school_chapter_x_subtitle",
+            "imageUrl": "",
+            "lessonIds": [22, 23, 24],
+            "rocketId": 7,
+            "storySnippetId": null
         }
     ]
 }
