@@ -13,7 +13,7 @@
   "general_delete_account": "radera användarkonto",
   "general_delete": "radera",
   "general_cancel": "avbryt",
-  "general_skip": "hoppa över",
+  "general_skip": "hoppa över",p
   "general_chore": "uppgift",
   "general_chores": "uppgifter",
   "general_card": "kort",
@@ -2576,7 +2576,7 @@
   "yes_invite_subtitle": "PLZ_CHECK I want to send an invite to connect!",
   "no_invite_subtitle": "PLZ_CHECK I want to add a child to my profile!",
   "tink_crendentials_refreshed_success": "PLZ_CHECK Bank account is refreshed!",
-  "delete_tink_account_popover_title": "PLZ_CHECK Are you sure?",
+  "delete_tink_account_popover_title": "Är du säker?",
   "delete_tink_account_popover_desc": "PLZ_CHECK This will delete all bak accounts you’ve added to Gimi",
   "could_not_find_any_accounts_to_connect": "PLZ_CHECK Could not find any accounts to connect...",
   "all_supported_accounts_already_connected": "PLZ_CHECK You have already connected all supported accounts...",
