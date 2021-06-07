@@ -2562,7 +2562,7 @@
   "receipts_from_other_subtitle": "Not paid out by you!",
   "only_main_parent_can_disconnect_account_title": "You can’t disconnect this bank account",
   "only_main_parent_can_disconnect_account_desc": "Only the supporter whi added it can do it. Ask them!",
-  "delete_connection_entierly":"Delete connection entierly",
+  "delete_connection_entierly": "Delete connection entierly",
   "delete_connection_entierly_desc": "I want to delete my bank connection and all accounts I’ve added to Gimi",
   "premium_offer_title_9": "Reach savings goals",
   "premium_offer_subtitle_9": "Teach the value of putting away money for future use.",
@@ -2573,11 +2573,11 @@
   "premium_offer_title_12": "Reward saving",
   "premium_offer_subtitle_12": "Teach your child that money can grow if they save them.",
   "general_account_exists": "Does the child have a Gimi account?",
-  "yes_invite_subtitle" : "I want to send an invite to connect!",
+  "yes_invite_subtitle": "I want to send an invite to connect!",
   "no_invite_subtitle": "I want to add a child to my profile!",
-  "tink_crendentials_refreshed_success":"Bank account is refreshed!",
-  "delete_tink_account_popover_title":"Are you sure?",
+  "tink_crendentials_refreshed_success": "Bank account is refreshed!",
+  "delete_tink_account_popover_title": "Are you sure?",
   "delete_tink_account_popover_desc": "This will delete all bak accounts you’ve added to Gimi",
-  "could_not_find_any_accounts_to_connect":"Could not find any accounts to connect...",
-  "all_supported_accounts_already_connected":"You have already connected all supported accounts..."
+  "could_not_find_any_accounts_to_connect": "Could not find any accounts to connect...",
+  "all_supported_accounts_already_connected": "You have already connected all supported accounts..."
 }
