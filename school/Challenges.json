@@ -4657,6 +4657,620 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 22,
+            "type": "QUIZ",
+            "titleLangKey": "",
+            "subtitleLangKey": "",
+            "screens": [
+                {
+                    "id": 1,
+                    "boldTitleLangKey": "school_challenge_22_screen_1_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_1_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_1_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_1_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "boldTitleLangKey": "school_challenge_22_screen_2_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_2_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_2_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_2_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "boldTitleLangKey": "school_challenge_22_screen_3_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_3_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_3_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_3_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "boldTitleLangKey": "school_challenge_22_screen_4_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_4_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_4_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_4_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "boldTitleLangKey": "school_challenge_22_screen_5_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_5_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_5_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_5_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "boldTitleLangKey": "school_challenge_22_screen_6_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_6_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_6_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_6_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "boldTitleLangKey": "school_challenge_22_screen_7_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_7_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_7_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_7_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "boldTitleLangKey": "school_challenge_22_screen_8_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_8_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_8_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_8_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "boldTitleLangKey": "school_challenge_22_screen_9_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_9_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_9_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_9_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "boldTitleLangKey": "school_challenge_22_screen_10_boldheader",
+                    "titleLangKey": "school_challenge_22_screen_10_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_22_screen_10_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_22_screen_10_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "type": "QUIZ",
+            "titleLangKey": "",
+            "subtitleLangKey": "",
+            "screens": [
+                {
+                    "id": 1,
+                    "boldTitleLangKey": "school_challenge_23_screen_1_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_1_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_1_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_1_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "boldTitleLangKey": "school_challenge_23_screen_2_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_2_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_2_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_2_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "boldTitleLangKey": "school_challenge_23_screen_3_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_3_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_3_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_3_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "boldTitleLangKey": "school_challenge_23_screen_4_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_4_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_4_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_4_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "boldTitleLangKey": "school_challenge_23_screen_5_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_5_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_5_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_5_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "boldTitleLangKey": "school_challenge_23_screen_6_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_6_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_6_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_6_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "boldTitleLangKey": "school_challenge_23_screen_7_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_7_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_7_button_1",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_7_button_2",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "boldTitleLangKey": "school_challenge_23_screen_8_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_8_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_8_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_8_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "boldTitleLangKey": "school_challenge_23_screen_9_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_9_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_9_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_9_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "boldTitleLangKey": "school_challenge_23_screen_10_boldheader",
+                    "titleLangKey": "school_challenge_23_screen_10_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_challenge_23_screen_10_button_1",
+                            "imageUrl": "",
+                            "isCorrect": false
+                        },
+                        {
+                            "langKey": "school_challenge_23_screen_10_button_2",
+                            "imageUrl": "",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "type": "CLICK_TO_CHOOSE_ORDER",
+            "titleLangKey": "",
+            "subtitleLangKey": "",
+            "screens": [
+                {
+                    "id": 1,
+                    "boldTitleLangKey": "school_challenge_24_screen_1_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_1_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_1_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_1_item_2_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "boldTitleLangKey": "school_challenge_24_screen_2_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_2_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_2_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_2_item_2_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "boldTitleLangKey": "school_challenge_24_screen_3_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_3_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_3_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_3_item_2_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "boldTitleLangKey": "school_challenge_24_screen_4_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_3_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_4_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_4_item_2_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_24_screen_4_item_3_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_24_screen_4_item_4_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "boldTitleLangKey": "school_challenge_24_screen_5_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_5_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_5_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_5_item_2_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "boldTitleLangKey": "school_challenge_24_screen_6_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_6_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_6_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_6_item_2_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_24_screen_6_item_3_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_24_screen_6_item_4_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "boldTitleLangKey": "school_challenge_24_screen_7_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_7_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_7_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_7_item_2_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "boldTitleLangKey": "school_challenge_24_screen_8_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_8_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_8_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_8_item_2_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_24_screen_8_item_3_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_24_screen_8_item_4_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "boldTitleLangKey": "school_challenge_24_screen_9_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_9_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_9_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_9_item_2_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "boldTitleLangKey": "school_challenge_24_screen_10_boldheader",
+                    "titleLangKey":  "school_challenge_24_screen_10_title",
+                    "buttons": [
+                        {
+                            "id": 1,
+                            "langKey": "school_challenge_24_screen_10_item_1_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 2,
+                            "langKey": "school_challenge_24_screen_10_item_2_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 3,
+                            "langKey": "school_challenge_24_screen_10_item_3_title",
+                            "imageUrl": ""
+                        },
+                        {
+                            "id": 4,
+                            "langKey": "school_challenge_24_screen_10_item_4_title",
+                            "imageUrl": ""
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
