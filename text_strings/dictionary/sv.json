@@ -1,8 +1,20 @@
 {
-  "dictionary_chapter_1_money": "PLZ_CHECK Money",
-  "dictionary_chapter_1_money_description": "PLZ_CHECK Explaining money real good!",
-  "dictionary_chapter_2_expensive": "PLZ_CHECK Expensive",
-  "dictionary_chapter_2_expensive_description": "PLZ_CHECK Explaining expensive..",
-  "dictionary_chapter_3_currency": "PLZ_CHECK Currency",
-  "dictionary_chapter_3_currency_description": "PLZ_CHECK Currency is explained here!"
+  "dictionary_chapter_1_barter": "PLZ_CHECK Byteshandel",
+  "dictionary_chapter_1_barter_description": "PLZ_CHECK Att byta en vara eller produkt mot en annan. Innan pengar fanns handlade man saker genom byteshandel.",
+  "dictionary_chapter_1_rawmaterials": "PLZ_CHECK Råvaror",
+  "dictionary_chapter_1_rawMaterials_description": "PLZ_CHECK De delar eller material en produkt är gjord av. Råvarorna omvandlas ofta för att bli en produkt. T.ex. består bröd av råvaror som jäst mjöl, salt. De omvandlas genom att blandas och baks för att bli produkten bröd.",
+  "dictionary_chapter_1_legalTender": "PLZ_CHECK Betalningsmedel",
+  "dictionary_chapter_1_legalTender_description": "PLZ_CHECK Något som man betalar med. Pengar är ett slags betalningsmedel, även bankkort. Lagligt betalningsmedel i ett land, är något som staten bestämt ska kunna gå att betala med i det landet.",
+  "dictionary_chapter_1_balance": "PLZ_CHECK saldo",
+  "dictionary_chapter_1_balance_description": "PLZ_CHECK Hur mycket pengar man har tillgänglig på sitt konto eller betalkort vid ett tillfälle.",
+  "dictionary_chapter_3_budget": "PLZ_CHECK Budget",
+  "dictionary_chapter_3_budget_description": "PLZ_CHECK En beräkning av kommande inkomster och utgifter för att kunna planera sitt sparande och spenderande framåt i tiden",
+  "dictionary_chapter_3_income": "PLZ_CHECK Inkomst",
+  "dictionary_chapter_3_income_description": "PLZ_CHECK De pengar man tjänar. Kan betyda bara lönen man får från arbete, men oftast räknas andra saker in också, som t.ex. arv eller avkastning från aktier. Alltså alla pengar som kommer in under en viss period av tid.",
+  "dictionary_chapter_3_currency": "PLZ_CHECK Valuta",
+  "dictionary_chapter_3_currency_description": "PLZ_CHECK Egentligen ett annat ord för pengar. När man pratar om utländsk valuta så handlar det om de pengar ett visst land använder som betalmedel. De flesta länder i världen har en egen centraliserad valuta, men vissa länder använder samma valuta som andra länder, t.ex. Euro (€). Det finns också Kryptovalutor.",
+  "dictionary_chapter_3_expense": "PLZ_CHECK utgift",
+  "dictionary_chapter_3_expense_description": "PLZ_CHECK De pengar man spenderar. Det kan vara räkningar man betalar, saker man köper eller eller tjänster man betalat. Alla kostnader man har under en viss period.",
+  "dictionary_chapter_4_product": "PLZ_CHECK Produkt",
+  "dictionary_chapter_4_product_description": "PLZ_CHECK En vara eller en tjänst man kan köpa. Företag skapar och tar fram produkter för försäljning, vi som konsumenter kan sedan köpa dessa."
 }
