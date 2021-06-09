@@ -2581,5 +2581,7 @@
   "could_not_find_any_accounts_to_connect": "PLZ_TRANSLATE Could not find any accounts to connect...",
   "all_supported_accounts_already_connected": "PLZ_TRANSLATE You have already connected all supported accounts...",
   "question_nickname": "PLZ_TRANSLATE What's their nickname?",
-  "question_add_age_to_person": "PLZ_TRANSLATE How old is %1$d?"
+  "question_add_age_to_person": "PLZ_TRANSLATE How old is %1$d?",
+  "question_phone_or_email": "PLZ_TRANSLATE Do they have a phone number or email address?",
+  "parent_kid_phone_signup_they_have_email": "PLZ_TRANSLATE They have an email"
 }
