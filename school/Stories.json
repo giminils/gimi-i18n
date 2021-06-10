@@ -6787,7 +6787,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_24_screen_4_title",
                     "subtitleLangKey": "school_story_24_screen_4_subtitle",
-                    "imageUrl": "/static/school/sodaBulle.png",
+                    "imageUrl": "/static/school/piggyBill.png",
                     "buttons": [
                         {
                             "langKey": "school_story_24_screen_4_button_1_title"
@@ -6862,7 +6862,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_24_screen_8_title",
                     "subtitleLangKey": "school_story_24_screen_8_subtitle",
-                    "imageUrl": "/static/school/playButton.png",
+                    "imageUrl": "/static/school/alienHappy.png",
                     "buttons": [
                         {
                             "langKey": "school_story_24_screen_8_button_1_title"
@@ -6877,7 +6877,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_24_screen_9_title",
                     "subtitleLangKey": "school_story_24_screen_9_subtitle",
-                    "imageUrl": "/static/school/stopSign.png",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_24_screen_9_button_1_title"
