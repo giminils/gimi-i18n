@@ -2584,5 +2584,8 @@
   "question_add_age_to_person": "How old is %1$d?",
   "question_phone_or_email": "Do they have a phone number or email address?",
   "parent_kid_phone_signup_they_have_email": "They have an email",
-  "parent_add_kid_no_phone_or_email": "No phone number or email"
+  "parent_add_kid_no_phone_or_email": "No phone number or email",
+  "parent_add_kid_title":  "Let's create an acount for your child!",
+  "parent_add_kid_subtitle": "The account will get automatically connected to you, and your child can login to it later on their own device if they’d like!",
+  "parent_kid_already_have_account": "My child already has an account"
 }
