@@ -6622,7 +6622,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_23_screen_12_title",
                     "subtitleLangKey": "school_story_23_screen_12_subtitle",
-                    "imageUrl": "/static/school/priceHigher.png",
+                    "imageUrl": "/static/school/stacksCurrencies.png",
                     "buttons": [
                         {
                             "langKey": "school_story_23_screen_12_button_1_title"
