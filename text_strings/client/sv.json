@@ -2390,7 +2390,7 @@
   "choose_kid_open_banking_title": "Till vilket barn?",
   "choose_kid_open_banking_subtitle": "Välj ett barn nu, du kan lägga till fler bankkonton senare!",
   "general_add_goal": "Lägg till mål",
-  "open_banking_account_connected_title": "Konto %1$d är tillagt!",
+  "open_banking_account_connected_title": "PLZ_CHECK The bank account is now connected!",
   "open_banking_account_connected_subtitle": "Både du och %1$d kan nu se kontot i era Gimi-appar!",
   "open_banking_choose_account_title": "Vilket konto vill du lägga till?",
   "open_banking_choose_account_subtitle": "Hittar du inte ditt barns bankkonto? Open banking är ett nytt system som uppdateras löpande. Försök om ett tag igen!",
@@ -2587,5 +2587,7 @@
   "parent_add_kid_no_phone_or_email": "PLZ_CHECK No phone number or email",
   "parent_add_kid_title": "PLZ_CHECK Let's create an acount for your child!",
   "parent_add_kid_subtitle": "PLZ_CHECK The account will get automatically connected to you, and your child can login to it later on their own device if they’d like!",
-  "parent_kid_already_have_account": "PLZ_CHECK My child already has an account"
+  "parent_kid_already_have_account": "PLZ_CHECK My child already has an account",
+  "cant_buy_sub_tink_kid_title": "PLZ_CHECK Can't buy subscription...",
+  "cant_buy_sub_tink_kid_desc": "PLZ_CHECK ...for a child connected to bank account."
 }

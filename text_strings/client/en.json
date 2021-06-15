@@ -2390,7 +2390,7 @@
   "choose_kid_open_banking_title": "For which child?",
   "choose_kid_open_banking_subtitle": "Choose one child now, you can connect more accounts later!",
   "general_add_goal": "Add goal",
-  "open_banking_account_connected_title": "PLZ_COPY The bank account is now connected!",
+  "open_banking_account_connected_title": "The bank account is now connected!",
   "open_banking_account_connected_subtitle": "Both you and %1$d can now see the account in your Gimi apps!",
   "open_banking_choose_account_title": "Which account do you want to connect?",
   "open_banking_choose_account_subtitle": "Can’t find your child’s account? Open banking is a new system, and continuously updated. Check back later!",
@@ -2587,5 +2587,7 @@
   "parent_add_kid_no_phone_or_email": "No phone number or email",
   "parent_add_kid_title": "Let's create an acount for your child!",
   "parent_add_kid_subtitle": "The account will get automatically connected to you, and your child can login to it later on their own device if they’d like!",
-  "parent_kid_already_have_account": "My child already has an account"
+  "parent_kid_already_have_account": "My child already has an account",
+  "cant_buy_sub_tink_kid_title": "Can't buy subscription...",
+  "cant_buy_sub_tink_kid_desc": "...for a child connected to bank account."
 }
