@@ -501,6 +501,7 @@
   "ADGEPU016_notification_title": "{child.nickname} klarade korttestet, spana in resultatet",
   "ADGEPU016_push_title": "{child.nickname} klarade testet!",
   "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet",
+  "ADGEPU017_push_title": "PLZ_CHECK {child.nickname} failed the card test. Better practice before getting a card",
   "ADGEON007_notification_title": "Fortfarande inget barn ihopkopplat. Skicka en ny inbjudan?",
   "ADGERE004_push_title": "{child.nickname} är klar med {chore.title}. Den kommer att godkännas inom 24h",
   "ADGERE042_notification_title": "Du har en förfrågan från {child.nickname}!",
