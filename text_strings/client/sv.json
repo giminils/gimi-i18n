@@ -2390,10 +2390,10 @@
   "choose_kid_open_banking_title": "Till vilket barn?",
   "choose_kid_open_banking_subtitle": "Välj ett barn nu, du kan lägga till fler bankkonton senare!",
   "general_add_goal": "Lägg till mål",
-  "open_banking_account_connected_title": "Konto %1$d är tillagt!",
+  "open_banking_account_connected_title": "PLZ_CHECK The bank account is now connected!",
   "open_banking_account_connected_subtitle": "Både du och %1$d kan nu se kontot i era Gimi-appar!",
   "open_banking_choose_account_title": "Vilket konto vill du lägga till?",
-  "open_banking_choose_account_subtitle": "Logga in på din bankapp för att se kontonumret!",
+  "open_banking_choose_account_subtitle": "Hittar du inte ditt barns bankkonto? Open banking är ett nytt system som uppdateras löpande. Försök om ett tag igen!",
   "goal_time_spent_saving": "Så länge sparade du",
   "goal_amount_saved_per_day": "Sparat per dag i snitt",
   "general_days": "Dagar",
@@ -2561,8 +2561,8 @@
   "receipts_from_other": "Från andra supporters",
   "receipts_from_other_subtitle": "Inte betalt av dig!",
   "only_main_parent_can_disconnect_account_title": "Du kan inte koppla från detta bankkonto",
-  "only_main_parent_can_disconnect_account_desc": "PLZ_CHECK Only the supporter whi added it can do it. Ask them!",
-  "delete_connection_entierly": "PLZ_CHECK Delete connection entierly",
+  "only_main_parent_can_disconnect_account_desc": "PLZ_CHECK Only the supporter who added it can do it. Ask them!",
+  "delete_connection_entierly": "PLZ_CHECK Delete connection entirely",
   "delete_connection_entierly_desc": "Jag vill radera min bankkoppling samt alla bankkonton jag har lagt till i Gimi",
   "premium_offer_title_9": "PLZ_CHECK Reach savings goals",
   "premium_offer_subtitle_9": "PLZ_CHECK Teach the value of putting away money for future use.",
@@ -2587,5 +2587,7 @@
   "parent_add_kid_no_phone_or_email": "PLZ_CHECK No phone number or email",
   "parent_add_kid_title": "PLZ_CHECK Let's create an acount for your child!",
   "parent_add_kid_subtitle": "PLZ_CHECK The account will get automatically connected to you, and your child can login to it later on their own device if they’d like!",
-  "parent_kid_already_have_account": "PLZ_CHECK My child already has an account"
+  "parent_kid_already_have_account": "PLZ_CHECK My child already has an account",
+  "cant_buy_sub_tink_kid_title": "PLZ_CHECK Can't buy subscription...",
+  "cant_buy_sub_tink_kid_desc": "PLZ_CHECK ...for a child connected to bank account."
 }
