@@ -2589,5 +2589,14 @@
   "parent_add_kid_subtitle": "The account will get automatically connected to you, and your child can login to it later on their own device if they’d like!",
   "parent_kid_already_have_account": "My child already has an account",
   "cant_buy_sub_tink_kid_title": "Can't buy subscription...",
-  "cant_buy_sub_tink_kid_desc": "...for a child connected to bank account."
+  "cant_buy_sub_tink_kid_desc": "...for a child connected to bank account.",
+  "general_connect_kid_bank_account_kid": "Connect bank account",
+  "setup_open_banking_title_kid":"Connect your bank account",
+  "open_banking_choose_account_title_kid":"Which account do you want to connect?",
+  "setup_open_banking_info_title_1_kid": "COPY PLZ",
+  "setup_open_banking_info_desc_1_kid":"COPY PLZ",
+  "setup_open_banking_info_title_2_kid": "COPY PLZ",
+  "setup_open_banking_info_desc_2_kid": "COPY PLZ",
+  "setup_open_banking_info_title_3_kid": "COPY PLZ",
+  "setup_open_banking_info_desc_3_kid": "COPY PLZ"
 }
