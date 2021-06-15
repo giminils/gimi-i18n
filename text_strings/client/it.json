@@ -2591,5 +2591,6 @@
   "cant_buy_sub_tink_kid_title": "PLZ_TRANSLATE Can't buy subscription...",
   "cant_buy_sub_tink_kid_desc": "PLZ_TRANSLATE ...for a child connected to bank account.",
   "general_connect_kid_bank_account_kid": "PLZ_TRANSLATE Connect bank account",
-  "setup_open_banking_title_kid": "PLZ_TRANSLATE Connect your bank account"
+  "setup_open_banking_title_kid": "PLZ_TRANSLATE Connect your bank account",
+  "open_banking_choose_account_title_kid": "PLZ_TRANSLATE Which account do you want to connect?"
 }
