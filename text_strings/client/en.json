@@ -2592,5 +2592,11 @@
   "cant_buy_sub_tink_kid_desc": "...for a child connected to bank account.",
   "general_connect_kid_bank_account_kid": "Connect bank account",
   "setup_open_banking_title_kid":"Connect your bank account",
-  "open_banking_choose_account_title_kid":"Which account do you want to connect?"
+  "open_banking_choose_account_title_kid":"Which account do you want to connect?",
+  "setup_open_banking_info_title_1_kid": "COPY PLZ",
+  "setup_open_banking_info_desc_1_kid":"COPY PLZ",
+  "setup_open_banking_info_title_2_kid": "COPY PLZ",
+  "setup_open_banking_info_desc_2_kid": "COPY PLZ",
+  "setup_open_banking_info_title_3_kid": "COPY PLZ",
+  "setup_open_banking_info_desc_4_kid": "COPY PLZ"
 }
