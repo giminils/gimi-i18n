@@ -299,7 +299,7 @@ export function getCurrencySymbol (currencyCode: string): string {
     case 'XAF': return 'CFA'
     case 'SLL': return 'Le'
     case 'MUR': return 'Rs'
-    case 'CHF': return 'SFr'
+    case 'CHF': return 'CHF'
     case 'IDR': return 'Rp'
     case 'ZAR': return 'R'
     default: return '€'

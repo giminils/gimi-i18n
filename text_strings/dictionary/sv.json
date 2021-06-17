@@ -1,6 +1,4 @@
 {
-  "dictionary_gimiappen_gimicard": "Gimi-kortet",
-  "dictionary_gimiappen_gimicard_description": "Gimi kortet är ett förbetalt kort man kan beställa för att hantera riktiga pengar och handla med sin veckopeng.",
   "dictionary_chapter_1_barter": "Byteshandel",
   "dictionary_chapter_1_barter_description": "Att byta en vara eller produkt mot en annan. Innan pengar fanns handlade man saker genom byteshandel.",
   "dictionary_chapter_1_rawmaterials": "Råvaror",
@@ -62,7 +60,7 @@
   "dictionary_chapter_6_ocrnumber": "OCR-nummer",
   "dictionary_chapter_6_ocrnumber_description": "En unik serie med siffror som är ett identifikationsnummer för ett företag att kunna spåra vem som betalar en viss fakturan skickat. Numret skriver man när man betalar fakturan så föratget kan se vilken faktura som är betald och vem som betalat den.",
   "dictionary_chapter_6_directdebit": "Autogiro",
-  "dictionary_chapter_6_directdebit_description": "Ett sätt att betala fakturor där pengarna dras automatiskt från ett av dina bankkonto varje månad, på fakturans förfallodatum. Man samtycker till detta och behöver sen inte komma ihåg att betala varje månad eftersom det görs automatiskt.",
+  "dictionary_chapter_6_directdebit_description": "Ett sätt att betala fakturor där pengarna dras automatiskt från ett av dina bankkonto varje månad, på fakturans förfallodag. Man samtycker till detta och behöver sen inte komma ihåg att betala varje månad eftersom det görs automatiskt.",
   "dictionary_chapter_6_duedate": "PLZ_CHECK Due date",
   "dictionary_chapter_6_duedate_description": "PLZ_CHECK A due date is the day something should be done. A due date for invoices is the date on which it must be repaid. All invoices have a due date. The date is when the money must have reached the seller, so you often need to pay some days in advance for the money to be transferred in time.",
   "dictionary_chapter_6_bankgiro": "PLZ_CHECK Bankgiro",
