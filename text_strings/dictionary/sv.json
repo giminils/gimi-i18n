@@ -1,6 +1,4 @@
 {
-  "dictionary_gimiappen_gimicard": "PLZ_CHECK The Gimi card",
-  "dictionary_gimiappen_gimicard_description": "PLZ_CHECK The Gimi card is a prepaid card you can order to handle real money and shop with your weekly allowance.",
   "dictionary_chapter_1_barter": "Byteshandel",
   "dictionary_chapter_1_barter_description": "Att byta en vara eller produkt mot en annan. Innan pengar fanns handlade man saker genom byteshandel.",
   "dictionary_chapter_1_rawmaterials": "Råvaror",
@@ -104,5 +102,7 @@
   "dictionary_chapter_8_fund": "Fond",
   "dictionary_chapter_8_fund_description": "En portfölj eller samling av aktier från flera företag som man kan köpa som en helhet. Det är ett enkelt sätt att göra en riskspridning när man investerar.",
   "dictionary_chapter_8_fundmanager": "Fondförvaltare",
-  "dictionary_chapter_8_fundmanager_description": "Har ansvar över att ta hand om fonder åt en kund. De sköter var kundens pengar ska investeras i fonderna, så kunden inte behöver kolla på det själv."
+  "dictionary_chapter_8_fundmanager_description": "Har ansvar över att ta hand om fonder åt en kund. De sköter var kundens pengar ska investeras i fonderna, så kunden inte behöver kolla på det själv.",
+  "dictionary_gimiappen_gimicard": "PLZ_CHECK The Gimi card",
+  "dictionary_gimiappen_gimicard_description": "PLZ_CHECK The Gimi card is a prepaid card you can order to handle real money and shop with your weekly allowance."
 }

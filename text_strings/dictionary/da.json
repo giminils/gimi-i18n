@@ -1,6 +1,4 @@
 {
-  "dictionary_gimiappen_gimicard": "PLZ_TRANSLATE The Gimi card",
-  "dictionary_gimiappen_gimicard_description": "PLZ_TRANSLATE The Gimi card is a prepaid card you can order to handle real money and shop with your weekly allowance.",
   "dictionary_chapter_1_barter": "PLZ_TRANSLATE Byteshandel",
   "dictionary_chapter_1_barter_description": "PLZ_TRANSLATE Att byta en vara eller produkt mot en annan. Innan pengar fanns handlade man saker genom byteshandel.",
   "dictionary_chapter_1_rawmaterials": "PLZ_TRANSLATE Råvaror",
@@ -104,5 +102,7 @@
   "dictionary_chapter_8_fund": "PLZ_TRANSLATE Fund",
   "dictionary_chapter_8_fund_description": "PLZ_TRANSLATE A portfolio or collection of shares from several companies that you can buy as a whole. Is an easy way of spreading the risk when investing.",
   "dictionary_chapter_8_fundmanager": "PLZ_TRANSLATE Fund manager",
-  "dictionary_chapter_8_fundmanager_description": "PLZ_TRANSLATE Has responsibility for taking care of funds for a customer. They manage where the customer’s money is to be invested in the funds, so the customer does not have to keep track of it themselves."
+  "dictionary_chapter_8_fundmanager_description": "PLZ_TRANSLATE Has responsibility for taking care of funds for a customer. They manage where the customer’s money is to be invested in the funds, so the customer does not have to keep track of it themselves.",
+  "dictionary_gimiappen_gimicard": "PLZ_TRANSLATE The Gimi card",
+  "dictionary_gimiappen_gimicard_description": "PLZ_TRANSLATE The Gimi card is a prepaid card you can order to handle real money and shop with your weekly allowance."
 }
