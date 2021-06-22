@@ -2636,5 +2636,6 @@
   "kid_inactive_lesson_popover_desc": "PLZ_CHECK Only Superskills Pro can access this. Ask your parents to upgrade!",
   "kid_locked_lesson_popover_title": "PLZ_CHECK Its locked",
   "kid_locked_lesson_popover_desc": "PLZ_CHECK You need to earn XPs to unlock this planet",
-  "pro_info_start_trial": "PLZ_CHECK Start my free trial"
+  "pro_info_start_trial": "PLZ_CHECK Start my free trial",
+  "dream_save": "PLZ_CHECK Save"
 }
