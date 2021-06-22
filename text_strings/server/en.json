@@ -521,7 +521,7 @@
   "CHPRON015_notification_title": "Your card is activated. You have to use the PIN-code the first time, then you can start blipping!",
   "CHPRRE045_push_title": "Check out your balance in the Gimi app!",
   "CHGERE002_push_title": "You’re now connected with {parent.nickname}!",
-  "CHGERE007_notification_title": "Ny uppgift! {parent.nickname} ber dig att: {task.title}",
+  "CHGERE007_notification_title": "New chore! {parent.nickname} asks you to: {task.title}",
   "ADFRRE001_notification_title": "Payday for {child.nickname}! {payday_amount} was added to their piggybank",
   "ADFRRE001_notification_title_v2": "{child.nickname} just got their {allowance_frequency}, {formatted_payday_amount} was added to the piggybank!",
   "CHGEON014_notification_title": "{parent.nickname} is now giving you {allowance_frequency} allowance!",
