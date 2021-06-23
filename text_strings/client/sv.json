@@ -2632,10 +2632,8 @@
   "offering_goal_item_2_subtitle": "PLZ_CHECK Research shows that children that save for a goal manage their money better",
   "offering_goal_item_3_title": "PLZ_CHECK No more nagging",
   "offering_goal_item_3_subtitle": "PLZ_CHECK Let your child become responsible for their own saving goals",
-  "kid_inactive_lesson_popover_title": "PLZ_CHECK This is a locked feature",
-  "kid_inactive_lesson_popover_desc": "PLZ_CHECK Only Superskills Pro can access this. Ask your parents to upgrade!",
-  "kid_locked_lesson_popover_title": "PLZ_CHECK Its locked",
-  "kid_locked_lesson_popover_desc": "PLZ_CHECK You need to earn XPs to unlock this planet",
+  "kid_open_locked_pro_feature_title": "PLZ_CHECK This is a locked feature",
+  "kid_open_locked_pro_feature_desc": "PLZ_CHECK Only Superskills Pro can access this. Ask your parents to upgrade!",
   "pro_info_start_trial": "PLZ_CHECK Start my free trial",
   "dream_save": "PLZ_CHECK Save"
 }
