@@ -544,11 +544,11 @@
   "ADPRRE039_push_title": "Dags att betala ut {allowance_frequency} till {child.nickname}!",
   "ADGEON016_push_title": "Lägg till en bonus för att uppmuntra {child.nickname} att spara!",
   "ADGEON016_notification": "Lägg till en bonus för att uppmuntra {child.nickname} att spara!",
-  "ADGEON017_push_title": "PLZ_CHECK Set up a bonus rate for {child.nickname}",
-  "ADGEON017_notification": "PLZ_CHECK Set up a bonus rate for {child.nickname}",
-  "CHGEON042_notification_title": "PLZ_CHECK Your bank account has been connected",
-  "CHGEON005_notification_title_v2": "PLZ_CHECK Your bonus has been updated to {child.total_interest_rate}%",
-  "CHGEON005_push_title_v2": "PLZ_CHECK Your bonus has been updated in Gimi, check it out!",
+  "ADGEON017_push_title": "Lägg till en sparbonus för {child.nickname}",
+  "ADGEON017_notification": "Lägg till en sparbonus för {child.nickname}",
+  "CHGEON042_notification_title": "Ditt bankkonto har lagts till!",
+  "CHGEON005_notification_title_v2": "Din sparbonus har uppdaterats till {child.total_interest_rate}%",
+  "CHGEON005_push_title_v2": "Din sparbonus har uppdaterats, in och kolla i Gimi!",
   "ADGERE044_notification_title": "PLZ_CHECK {child.nickname} turned {child_age}, update allowance?",
   "ADGERE044_push_title": "PLZ_CHECK {child.nickname} turned {child_age}, update allowance?"
 }
