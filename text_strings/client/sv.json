@@ -2522,7 +2522,7 @@
   "not_main_parent_warning_title": "Du har inte tillåtelse att byta konto!",
   "not_main_parent_warning_desc": "Bara supportern som la till bankkontot kan byta.",
   "upcoming_transaction": "Kommande",
-  "pending_transaction": "Väntande",
+  "pending_transaction": "Reservation",
   "tink_accept_terms_title": "Jag har läst och godkänner användarvillkoren",
   "tink_user_terms_link": "https://gimitheapp.com/sv/press/kontoinformationstjänster?cookies=false",
   "avatar_creator_title": "Skapa din egen avatar",
