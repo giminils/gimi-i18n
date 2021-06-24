@@ -233,7 +233,7 @@
   "login_now": "log in now",
   "question_ready_for_card": "Ready for the Gimi Card? Prove it!",
   "general_start": "start",
-  "add_dream_placeholader": "Title",
+  "add_dream_placeholader": "PLZ_COPY Write here",
   "set_price": "Set the reward",
   "choose_task_price": "Set a reward for the chore",
   "correct_answers": "Correct answers",
