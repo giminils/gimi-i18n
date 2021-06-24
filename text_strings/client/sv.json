@@ -2637,5 +2637,6 @@
   "pro_info_start_trial": "Påbörja min gratisperiod",
   "dream_save": "PLZ_CHECK Save",
   "cant_get_tink_for_premium_kid_title": "PLZ_CHECK Cancel the Gimi Master subscription",
-  "cant_get_tink_for_premium_kid_desc": "PLZ_CHECK unfortunately you cant add a bank accoun to a child that has an active Gimi Master subscription. Cancel it first!"
+  "cant_get_tink_for_premium_kid_desc": "PLZ_CHECK unfortunately you cant add a bank accoun to a child that has an active Gimi Master subscription. Cancel it first!",
+  "general_to_settings": "PLZ_CHECK To settings"
 }
