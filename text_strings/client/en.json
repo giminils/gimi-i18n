@@ -233,7 +233,7 @@
   "login_now": "log in now",
   "question_ready_for_card": "Ready for the Gimi Card? Prove it!",
   "general_start": "start",
-  "add_dream_placeholader": "Title",
+  "add_dream_placeholader": "PLZ_COPY Write here",
   "set_price": "Set the reward",
   "choose_task_price": "Set a reward for the chore",
   "correct_answers": "Correct answers",
@@ -2406,7 +2406,7 @@
   "goal_dream_name": "Name of goal",
   "cancel_sub_to_access_open_banking": "You can’t connect a bank account to a child with an active Gimi Master subscription, cancel it first!",
   "general_change_account": "Change account",
-  "goal_what_do_you_save_for": "What are you saving for?",
+  "goal_what_do_you_save_for": "PLZ_COPY Name your goal",
   "general_ok_short_expressive": "OK!",
   "what_can_you_buy_save_emptystate": "What you can afford if you reach %1$d in savings",
   "goto_play_store": "To Play Store",
@@ -2585,7 +2585,7 @@
   "question_phone_or_email": "Do they have a phone number or email address?",
   "parent_kid_phone_signup_they_have_email": "They have an email",
   "parent_add_kid_no_phone_or_email": "No phone number or email",
-  "parent_add_kid_title": "Let's create an acount for your child!",
+  "parent_add_kid_title": "PLZ_COPY Let's create an account for your child!",
   "parent_add_kid_subtitle": "The account will get automatically connected to you, and your child can login to it later on their own device if they’d like!",
   "parent_kid_already_have_account": "My child already has an account",
   "cant_buy_sub_tink_kid_title": "Can't buy subscription...",
@@ -2636,5 +2636,8 @@
   "kid_open_locked_pro_feature_desc": "Only Superskills Pro users can access this. Ask your parents to upgrade!",
   "pro_info_start_trial": "Start my free trial",
   "dream_save": "Save",
-  "general_superskills_pro": "Superskills Pro"
+  "general_superskills_pro": "Superskills Pro",
+  "cant_get_tink_for_premium_kid_title": "Cancel the Gimi Master subscription",
+  "cant_get_tink_for_premium_kid_desc": "PLZ_COPY Unfortunately you can't add a bank account to a child that has an active Gimi Master subscription. Cancel it first!",
+  "general_to_settings": "To settings"
 }

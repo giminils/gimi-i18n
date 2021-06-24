@@ -2636,5 +2636,8 @@
   "kid_open_locked_pro_feature_desc": "PLZ_TRANSLATE Only Superskills Pro users can access this. Ask your parents to upgrade!",
   "pro_info_start_trial": "PLZ_TRANSLATE Start my free trial",
   "dream_save": "PLZ_TRANSLATE Save",
-  "general_superskills_pro": "PLZ_TRANSLATE Superskills Pro"
+  "general_superskills_pro": "PLZ_TRANSLATE Superskills Pro",
+  "cant_get_tink_for_premium_kid_title": "PLZ_TRANSLATE Cancel the Gimi Master subscription",
+  "cant_get_tink_for_premium_kid_desc": "PLZ_TRANSLATE unfortunately you cant add a bank accoun to a child that has an active Gimi Master subscription. Cancel it first!",
+  "general_to_settings": "PLZ_TRANSLATE To settings"
 }
