@@ -3400,7 +3400,7 @@
                         {
                             "id": 2,
                             "langKey": "school_challenge_17_screen_1_button_2_title",
-                            "imageUrl": "/static/school/card2.png",
+                            "imageUrl": "/static/school/card5.png",
                             "isCorrect": false
                         },
                         {
@@ -3462,7 +3462,7 @@
                         {
                             "id": 2,
                             "langKey": "school_challenge_17_screen_3_button_2_title",
-                            "imageUrl": "/static/school/card2.png",
+                            "imageUrl": "/static/school/card5.png",
                             "isCorrect": true
                         },
                         {
@@ -3524,7 +3524,7 @@
                         {
                             "id": 2,
                             "langKey": "school_challenge_17_screen_5_button_2_title",
-                            "imageUrl": "/static/school/card2.png",
+                            "imageUrl": "/static/school/card5.png",
                             "isCorrect": true
                         },
                         {
@@ -3586,7 +3586,7 @@
                         {
                             "id": 2,
                             "langKey": "school_challenge_17_screen_7_button_2_title",
-                            "imageUrl": "/static/school/card2.png",
+                            "imageUrl": "/static/school/card5.png",
                             "isCorrect": true
                         },
                         {
@@ -3648,7 +3648,7 @@
                         {
                             "id": 2,
                             "langKey": "school_challenge_17_screen_9_button_2_title",
-                            "imageUrl": "/static/school/card2.png",
+                            "imageUrl": "/static/school/card5.png",
                             "isCorrect": false
                         },
                         {
