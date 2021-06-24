@@ -2529,9 +2529,9 @@
   "general_save_word": "Spara",
   "tink_pis_fail_error_view_title": "Något gick fel...",
   "tink_pis_fail_error_view_subtitle": "Det här fungerande inte som förväntat. Kontakta supporten om problemet fortsätter!",
-  "school_xp_level": "PLZ_CHECK Lvl %1$d",
+  "school_xp_level": "Lvl %1$d",
   "x_xp_to_next_level": "%1$d XP kvar till nästa level!",
-  "general_level_x": "PLZ_CHECK Lvl %1$d",
+  "general_level_x": "Lvl %1$d",
   "kid_profile_tab_skills": "Superskills",
   "kid_profile_tab_friends": "Vänner",
   "kid_profile_tab_stats": "Statistik",
@@ -2632,8 +2632,8 @@
   "offering_goal_item_2_subtitle": "PLZ_CHECK Research shows that children that save for a goal manage their money better",
   "offering_goal_item_3_title": "PLZ_CHECK No more nagging",
   "offering_goal_item_3_subtitle": "PLZ_CHECK Let your child become responsible for their own savings goals",
-  "kid_open_locked_pro_feature_title": "PLZ_CHECK This is a locked feature",
-  "kid_open_locked_pro_feature_desc": "PLZ_CHECK Only Superskills Pro users can access this. Ask your parents to upgrade!",
-  "pro_info_start_trial": "PLZ_CHECK Start my free trial",
+  "kid_open_locked_pro_feature_title": "Det här är en låst funktion",
+  "kid_open_locked_pro_feature_desc": "Endast Superskills Pro-användare har åtkomst till detta. Be dina föräldrar uppgradera!",
+  "pro_info_start_trial": "Påbörja min gratisperiod",
   "dream_save": "PLZ_CHECK Save"
 }
