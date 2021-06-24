@@ -2406,7 +2406,7 @@
   "goal_dream_name": "Name of goal",
   "cancel_sub_to_access_open_banking": "You can’t connect a bank account to a child with an active Gimi Master subscription, cancel it first!",
   "general_change_account": "Change account",
-  "goal_what_do_you_save_for": "What are you saving for?",
+  "goal_what_do_you_save_for": "PLZ_COPY Name your goal",
   "general_ok_short_expressive": "OK!",
   "what_can_you_buy_save_emptystate": "What you can afford if you reach %1$d in savings",
   "goto_play_store": "To Play Store",
