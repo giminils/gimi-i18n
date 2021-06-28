@@ -2475,8 +2475,8 @@
   "open_banking_action_kid_card_details_desc": "Gimi har inte tillgång till dem. Fråga en vuxen om du behöver hjälp!",
   "open_banking_action_kid_pin_title": "Gimi har inte tillgång till din PIN-kod!",
   "open_banking_action_kid_pin_desc": "Logga in i din bankapp och kolla om du kan se den där, eller fråga en vuxen om hjälp.",
-  "open_banking_not_connected_info": "Inget kopplat bankkonto",
-  "general_connect_open_banking": "Koppla ett bankkonto",
+  "open_banking_not_connected_info": "Inget anslutet bankkonto",
+  "general_connect_open_banking": "Anslut ett bankkonto",
   "go_to_master_settings": "Gå till Gimi Master-inställningarna",
   "general_short_remove": "Ta bort",
   "card_activation_success_parent_title": "Kortet är nu aktiverat!",
@@ -2589,7 +2589,7 @@
   "parent_add_kid_subtitle": "Kontot kommer att kopplas till dig automatiskt, och ditt barn kan logga in på kontot senare på deras mobil/platta om de vill!",
   "parent_kid_already_have_account": "Mitt barn har redan ett Gimi-konto",
   "cant_buy_sub_tink_kid_title": "Radera bankkontot först!",
-  "cant_buy_sub_tink_kid_desc": "Du kan dessvärre inte prenumerera på Gimi Master om ditt barn har ett bankkonto kopplat.",
+  "cant_buy_sub_tink_kid_desc": "Du kan dessvärre inte prenumerera på Gimi Master om ditt barn har ett bankkonto anslutet.",
   "general_connect_kid_bank_account_kid": "Lägg till bankkonto",
   "setup_open_banking_title_kid": "Lägg till ditt bankkonto",
   "open_banking_choose_account_title_kid": "Vilket konto vill du lägga till?",
@@ -2642,6 +2642,6 @@
   "general_to_settings": "Inställningar",
   "refresh_now": "Förnya",
   "refresh_to_unlock": "Förnya uppkopplingen till banken",
-  "bank_connected_expired_title": "Din uppkoppling till banken har gått ut...",
+  "bank_connected_expired_title": "Din anslutning till banken har gått ut...",
   "bank_connected_expired_subtitle": "PLZ_CHECK ...and needs to be refreshed in order for you children's account information to show. Click below to refresh it!"
 }
