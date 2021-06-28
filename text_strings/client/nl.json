@@ -2647,5 +2647,6 @@
   "general_refresh": "Refresh",
   "delete_my_bank_connection": "PLZ_TRANSLATE Delete my bank connection",
   "refresh_tink_emptystate_kid": "PLZ_TRANSLATE Bank connection expired. The supporter who connected it needs to refresh it!",
-  "refresh_tink_emptystate_parent": "PLZ_TRANSLATE bank connecton has expired. Refresh it to see your children's account information!"
+  "refresh_tink_emptystate_parent": "PLZ_TRANSLATE bank connecton has expired. Refresh it to see your children's account information!",
+  "refresh_needed": "PLZ_TRANSLATE Refresh needed"
 }
