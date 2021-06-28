@@ -2643,6 +2643,6 @@
   "refresh_now": "PLZ_TRANSLATE Refresh now",
   "refresh_to_unlock": "PLZ_TRANSLATE Refresh bank connection to unlock",
   "bank_connected_expired_title": "PLZ_TRANSLATE Your bank connection has expired...",
-  "bank_connected_expired_subtitle": "PLZ_TRANSLATE...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
+  "bank_connected_expired_subtitle": "PLZ_TRANSLATE ...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
   "general_refresh": "Refresh"
 }
