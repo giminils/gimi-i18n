@@ -2641,5 +2641,7 @@
   "cant_get_tink_for_premium_kid_desc": "Tyvärr kan du inte lägga till ett bankkonto till ett barn som har en aktiv Gimi Master-prenumeration. Avbryt den först!",
   "general_to_settings": "Inställningar",
   "refresh_now": "PLZ_CHECK Refresh now",
-  "refresh_to_unlock": "PLZ_CHECK Refresh bank connection to unlock"
+  "refresh_to_unlock": "PLZ_CHECK Refresh bank connection to unlock",
+  "bank_connected_expired_title": "PLZ_CHECK Your bank connection has expired...",
+  "bank_connected_expired_subtitle": "PLZ_CHECK ...and needs to be refreshed in order for you children's account information to show. Click below to refresh it!"
 }
