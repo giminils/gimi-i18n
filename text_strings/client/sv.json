@@ -2644,5 +2644,6 @@
   "refresh_to_unlock": "Förnya uppkopplingen till banken",
   "bank_connected_expired_title": "Din anslutning till banken har gått ut...",
   "bank_connected_expired_subtitle": "PLZ_CHECK ...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
-  "general_refresh": "Refresh"
+  "general_refresh": "Refresh",
+  "delete_my_bank_connection": "PLZ_CHECK Delete my bank connection"
 }

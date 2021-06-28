@@ -2644,5 +2644,6 @@
   "refresh_to_unlock": "Refresh bank connection to unlock",
   "bank_connected_expired_title": "Your bank connection has expired...",
   "bank_connected_expired_subtitle": "...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
-  "general_refresh": "Refresh"
+  "general_refresh": "Refresh",
+  "delete_my_bank_connection":"Delete my bank connection"
 }
