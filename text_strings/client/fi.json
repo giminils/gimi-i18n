@@ -2645,5 +2645,7 @@
   "bank_connected_expired_title": "PLZ_TRANSLATE Your bank connection has expired...",
   "bank_connected_expired_subtitle": "PLZ_TRANSLATE ...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
   "general_refresh": "Refresh",
-  "delete_my_bank_connection": "PLZ_TRANSLATE Delete my bank connection"
+  "delete_my_bank_connection": "PLZ_TRANSLATE Delete my bank connection",
+  "refresh_tink_emptystate_kid": "PLZ_TRANSLATE Bank connection expired. The supporter who connected it needs to refresh it!",
+  "refresh_tink_emptystate_parent": "PLZ_TRANSLATE bank connecton has expired. Refresh it to see your children's account information!"
 }
