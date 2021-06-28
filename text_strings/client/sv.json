@@ -2639,5 +2639,7 @@
   "general_superskills_pro": "Superskills Pro",
   "cant_get_tink_for_premium_kid_title": "Avbryt Gimi Master först",
   "cant_get_tink_for_premium_kid_desc": "Tyvärr kan du inte lägga till ett bankkonto till ett barn som har en aktiv Gimi Master-prenumeration. Avbryt den först!",
-  "general_to_settings": "Inställningar"
+  "general_to_settings": "Inställningar",
+  "refresh_now": "PLZ_CHECK Refresh now",
+  "refresh_to_unlock": "PLZ_CHECK Refresh bank connection to unlock"
 }

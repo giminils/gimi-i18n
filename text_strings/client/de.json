@@ -2639,5 +2639,7 @@
   "general_superskills_pro": "PLZ_TRANSLATE Superskills Pro",
   "cant_get_tink_for_premium_kid_title": "PLZ_TRANSLATE Cancel the Gimi Master subscription",
   "cant_get_tink_for_premium_kid_desc": "PLZ_TRANSLATE Unfortunately you can't add a bank account to a child that has an active Gimi Master subscription. Cancel it first!",
-  "general_to_settings": "PLZ_TRANSLATE To settings"
+  "general_to_settings": "PLZ_TRANSLATE To settings",
+  "refresh_now": "PLZ_TRANSLATE Refresh now",
+  "refresh_to_unlock": "PLZ_TRANSLATE Refresh bank connection to unlock"
 }
