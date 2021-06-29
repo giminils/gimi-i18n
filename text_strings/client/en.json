@@ -2649,5 +2649,6 @@
   "refresh_tink_emptystate_kid": "Bank connection expired. The person who connected it needs to refresh it!",
   "refresh_tink_emptystate_parent": "Bank connecton has expired. Refresh it to see the account information!",
   "refresh_needed": "Refresh needed",
-  "refresh_tink_emptystate_second_parent": "Bank connecton has expired. Ask main parent to refresh it to see the account information!"
+  "refresh_tink_emptystate_second_parent": "Bank connecton has expired. Ask main parent to refresh it to see the account information!",
+  "my_bank_account_settings_title": "My bank account settings"
 }
