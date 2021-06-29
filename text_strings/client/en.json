@@ -2646,7 +2646,7 @@
   "bank_connected_expired_subtitle": "...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
   "general_refresh": "Refresh",
   "delete_my_bank_connection":"Delete my bank connection",
-  "refresh_tink_emptystate_kid":"Bank connection expired. The supporter who connected it needs to refresh it!",
-  "refresh_tink_emptystate_parent": "bank connecton has expired. Refresh it to see your children's account information!",
+  "refresh_tink_emptystate_kid":"PLZ_COPY Bank connection expired. The person who connected it needs to refresh it!",
+  "refresh_tink_emptystate_parent": "PLZ_COPY Bank connecton has expired. Refresh it to see the account information!",
   "refresh_needed":"Refresh needed"
 }
