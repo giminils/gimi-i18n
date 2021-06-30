@@ -2649,6 +2649,8 @@
   "refresh_tink_emptystate_kid": "Bank connection expired. The person who connected it needs to refresh it!",
   "refresh_tink_emptystate_parent": "Bank connecton has expired. Refresh it to see the account information!",
   "refresh_needed": "Refresh needed",
-  "refresh_tink_emptystate_second_parent": "PLZ_COPY Bank connecton has expired. The person who connected it needs to refresh it!",
-  "my_bank_account_settings_title": "My bank account settings"
+  "refresh_tink_emptystate_second_parent": "Bank connecton has expired. The person who connected it needs to refresh it!",
+  "my_bank_account_settings_title": "My bank account settings",
+  "type_promo_code_open_banking_title":"Do you have a HSBC promo code",
+  "type_promo_code_open_banking_subtitle": "Enter your promo code to add your MyMoney account to Gimi"
 }
