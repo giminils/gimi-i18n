@@ -3673,25 +3673,25 @@
                         {
                             "id": 1,
                             "langKey": "school_challenge_17_screen_10_button_1_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/card1.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
                             "langKey": "school_challenge_17_screen_10_button_2_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/card5.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
                             "langKey": "school_challenge_17_screen_10_button_3_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/card3.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
                             "langKey": "school_challenge_17_screen_10_button_4_title",
-                            "imageUrl": "",
+                            "imageUrl": "/static/school/card4.png",
                             "isCorrect": true
                         }
                     ]
