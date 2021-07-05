@@ -2651,6 +2651,6 @@
   "refresh_needed": "Förnya nu",
   "refresh_tink_emptystate_second_parent": "Bankanslutningen behöver förnyas. Endast personen som anslöt banken kan göra det!",
   "my_bank_account_settings_title": "Bankkonto-inställningar",
-  "type_promo_code_open_banking_title": "PLZ_CHECK Do you have a HSBC promo code",
-  "type_promo_code_open_banking_subtitle": "PLZ_CHECK Enter your promo code to add your MyMoney account to Gimi"
+  "type_promo_code_open_banking_title": "PLZ_CHECK Do you have a promo code?",
+  "type_promo_code_open_banking_subtitle": "PLZ_CHECK This feature is only available to users with a valid promo code!"
 }
