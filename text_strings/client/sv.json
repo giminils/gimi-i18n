@@ -2651,8 +2651,8 @@
   "refresh_needed": "Förnya nu",
   "refresh_tink_emptystate_second_parent": "Bankanslutningen behöver förnyas. Endast personen som anslöt banken kan göra det!",
   "my_bank_account_settings_title": "Bankkonto-inställningar",
-  "type_promo_code_open_banking_title": "PLZ_CHECK Do you have a promo code?",
-  "type_promo_code_open_banking_subtitle": "PLZ_CHECK This feature is only available to users with a valid promo code!",
-  "tink_spent_on_cat_general": "PLZ_CHECK You have spent %1$d on this category",
-  "spending_cats_help_text": "PLZ_CHECK Click the category to reveal the amount"
+  "type_promo_code_open_banking_title": "Har du en kampanjkod?",
+  "type_promo_code_open_banking_subtitle": "Den här funktionen måste låsas upp med en kampanjkod!",
+  "tink_spent_on_cat_general": "Du har spenderat %1$d i den här kategorin",
+  "spending_cats_help_text": "Klicka på en kategori för att se summan!"
 }
