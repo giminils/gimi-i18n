@@ -2676,5 +2676,6 @@
   "tink_category_atm": "PLZ_TRANSLATE ATM",
   "tink_category_leisure": "PLZ_TRANSLATE Leisure",
   "tink_category_sport": "PLZ_TRANSLATE Sport",
-  "tink_category_pets": "PLZ_TRANSLATE Pets"
+  "tink_category_pets": "PLZ_TRANSLATE Pets",
+  "tink_add_money_desc_placeholder": "PLZ_TRANSLATE Max. 12 characters, only letters and numbers"
 }

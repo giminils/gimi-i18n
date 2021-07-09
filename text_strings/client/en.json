@@ -2676,5 +2676,6 @@
   "tink_category_atm": "ATM",
   "tink_category_leisure": "Leisure",
   "tink_category_sport": "Sport",
-  "tink_category_pets": "Pets"
+  "tink_category_pets": "Pets",
+  "tink_add_money_desc_placeholder":"Max. 12 characters, only letters and numbers"
 }
