@@ -2653,9 +2653,9 @@
   "my_bank_account_settings_title": "My bank account settings",
   "type_promo_code_open_banking_title": "Do you have a promo code?",
   "type_promo_code_open_banking_subtitle": "This feature is only available to users with a valid promo code!",
-  "tink_spent_on_cat_general":"You have spent %1$d on this category",
-  "spending_cats_help_text":"Click the category to reveal the amount",
-  "tink_category_ghost":"GHOST CATEGORY",
+  "tink_spent_on_cat_general": "You have spent %1$d on this category",
+  "spending_cats_help_text": "Click the category to reveal the amount",
+  "tink_category_ghost": "GHOST CATEGORY",
   "tink_category_home": "Home",
   "tink_category_expenses": "Expenses",
   "tink_category_food": "Food",
@@ -2677,6 +2677,6 @@
   "tink_category_leisure": "Leisure",
   "tink_category_sport": "Sport",
   "tink_category_pets": "Pets",
-  "tink_add_money_desc_placeholder":"Max. 12 characters, only letters and numbers",
-  "tink_updated_at":"PLZ_COPY Updated %1$d"
+  "tink_add_money_desc_placeholder": "Max. 12 characters, only letters and numbers",
+  "tink_updated_at": "Updated %1$d"
 }
