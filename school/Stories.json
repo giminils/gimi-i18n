@@ -4357,7 +4357,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_16_screen_9_title",
                     "subtitleLangKey": "school_story_16_screen_9_subtitle",
-                    "imageUrl": "/static/school/smartwatch.png",
+                    "imageUrl": "/static/school/smartPhone.png",
                     "buttons": [
                         {
                             "langKey": "school_story_16_screen_9_button_1_title"
