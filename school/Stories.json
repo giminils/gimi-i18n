@@ -1731,7 +1731,7 @@
                     "id": 5,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_8_screen_5_title",
-                    "subtitleLangKey": "school_story_8_screen_5_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
