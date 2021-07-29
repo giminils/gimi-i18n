@@ -546,5 +546,9 @@
   "CHGEON005_notification_title_v2": "Your bonus has been updated to {child.total_interest_rate}%",
   "CHGEON005_push_title_v2": "Your bonus has been updated in Gimi, check it out!",
   "ADGERE044_notification_title": "{child.nickname} has turned {child_age}! Want to update the allowance?",
-  "ADGERE044_push_title": "{child.nickname} has turned {child_age}! Want to update the allowance?"
+  "ADGERE044_push_title": "{child.nickname} has turned {child_age}! Want to update the allowance?",
+  "CHPRRE047_notification_title": "Please refresh your bank connection",
+  "CHPRRE047_push_title": "Please refresh your bank connection",
+  "ADPRRE047_notification_title": "Please refresh your bank connection",
+  "ADPRRE047_push_title": "Please refresh your bank connection"
 }

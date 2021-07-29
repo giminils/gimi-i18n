@@ -546,5 +546,9 @@
   "CHGEON005_notification_title_v2": "Din sparbonus har uppdaterats till {child.total_interest_rate}%",
   "CHGEON005_push_title_v2": "Din sparbonus har uppdaterats, in och kolla i Gimi!",
   "ADGERE044_notification_title": "PLZ_CHECK {child.nickname} turned {child_age}, update allowance?",
-  "ADGERE044_push_title": "PLZ_CHECK {child.nickname} turned {child_age}, update allowance?"
+  "ADGERE044_push_title": "PLZ_CHECK {child.nickname} turned {child_age}, update allowance?",
+  "CHPRRE047_notification_title": "PLZ_CHECK Please refresh your bank connection",
+  "CHPRRE047_push_title": "PLZ_CHECK Please refresh your bank connection",
+  "ADPRRE047_notification_title": "PLZ_CHECK Please refresh your bank connection",
+  "ADPRRE047_push_title": "PLZ_CHECK Please refresh your bank connection"
 }
