@@ -2678,5 +2678,7 @@
   "tink_category_sport": "PLZ_TRANSLATE Sport",
   "tink_category_pets": "PLZ_TRANSLATE Pets",
   "tink_add_money_desc_placeholder": "PLZ_TRANSLATE Max. 12 characters, only letters and numbers",
-  "tink_updated_at": "PLZ_TRANSLATE Updated %1$d"
+  "tink_updated_at": "PLZ_TRANSLATE Updated %1$d",
+  "flash_card_card_add_bank_account_parent_title": "PLZ_TRANSLATE Add you child’s bank account to Gimi",
+  "flash_card_card_add_bank_account_parent_desc": "PLZ_TRANSLATE Go to bank account settings"
 }
