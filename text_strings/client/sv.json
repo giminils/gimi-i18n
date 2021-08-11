@@ -2680,5 +2680,6 @@
   "tink_add_money_desc_placeholder": "Max 12 tecken, endast bokstäver och nummer!",
   "tink_updated_at": "PLZ_CHECK Updated %1$d",
   "flash_card_card_add_bank_account_parent_title": "PLZ_CHECK Add you child’s bank account to Gimi",
-  "flash_card_card_add_bank_account_parent_desc": "PLZ_CHECK Go to bank account settings"
+  "flash_card_card_add_bank_account_parent_desc": "PLZ_CHECK Go to bank account settings",
+  "general_new_feature": "PLZ_CHECK NEW"
 }
