@@ -276,7 +276,7 @@
   "parent_faq_section_8_category_3_question_4": "Kan barnets andra supporters se bankkontot i deras Gimi-app?",
   "parent_faq_section_8_category_3_answer_4": "Ja! Alla barnets supportrar kommer att kunna se saldo och transaktionshistorik.",
   "parent_faq_section_8_category_3_question_5": "Varför behöver jag uppdatera bankkopplingen var 90:onde dag?",
-  "parent_faq_section_8_category_3_answer_5": "Bank-ID-kopplingen är bara giltig i 90 dagar, vilket innebär att vi behöver ett nytt godkännande efter det. Detta är främst av säkerhetsskäl: Om du slutar använda Gimi-appen, så kommer kopplingen till banken automatiskt upphöra så småningom.",
+  "parent_faq_section_8_category_3_answer_5": "PLZ_CHECK This is a legal requirement for your safety. If you stop using the app, the connection will automatically stop working.",
   "parent_faq_section_8_category_3_question_6": "Mitt barns kort nekades/medgavs ej i kassan. Kan ni hjälpa oss undersöka varför?",
   "parent_faq_section_8_category_3_answer_6": "Nej, det kan vi inte. Gimi har inte tillgång till den typen av information, så du behöver kontakta er bank så att de kan undersöka saken."
 }

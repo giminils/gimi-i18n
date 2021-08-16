@@ -2653,7 +2653,7 @@
   "my_bank_account_settings_title": "My bank account settings",
   "type_promo_code_open_banking_title": "Do you have a promo code?",
   "type_promo_code_open_banking_subtitle": "This feature is only available to users with a valid promo code!",
-  "tink_spent_on_cat_general": "You have spent %1$d on this category",
+  "tink_spent_on_cat_general": "You have spent %1$d on %2$d",
   "spending_cats_help_text": "Click the category to reveal the amount",
   "tink_category_ghost": "GHOST CATEGORY",
   "tink_category_home": "Home",

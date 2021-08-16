@@ -2653,7 +2653,7 @@
   "my_bank_account_settings_title": "Bankkonto-inställningar",
   "type_promo_code_open_banking_title": "Har du en kampanjkod?",
   "type_promo_code_open_banking_subtitle": "Den här funktionen måste låsas upp med en kampanjkod!",
-  "tink_spent_on_cat_general": "Du har spenderat %1$d i den här kategorin",
+  "tink_spent_on_cat_general": "Du har spenderat %1$d på %2$d",
   "spending_cats_help_text": "Klicka på en kategori för att se summan!",
   "tink_category_ghost": "Okänd",
   "tink_category_home": "Hem",
