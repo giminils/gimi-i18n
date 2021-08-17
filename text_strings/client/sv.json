@@ -2068,8 +2068,8 @@
   "general_saved_premium": "Sparat i valvet",
   "signup_usertype_kid_subtitle": "Vi gissar baserat på din ålder. Du kan byta nedan om vi har fel!",
   "signup_usertype_parent_subtitle": "Vi gissar baserat på din ålder. Du kan byta nedan om vi har fel!",
-  "general_im_a_kid": "PLZ_CHECK Change to child account",
-  "general_im_a_parent": "PLZ_CHECK Change to parent account",
+  "general_im_a_kid": "Byt till barnkonto",
+  "general_im_a_parent": "Byt till föräldrakonto",
   "interest_average_for_weekly": "Snittet för barn med veckopeng är %1$d%",
   "interest_average_for_monthly": "Snittet för barn med månadspeng är %1$d%",
   "card_settings_payday_target_account": "Payday-konto",
@@ -2678,9 +2678,9 @@
   "tink_category_sport": "Sport",
   "tink_category_pets": "Husdjur",
   "tink_add_money_desc_placeholder": "Max 12 tecken, endast bokstäver och nummer!",
-  "tink_updated_at": "PLZ_CHECK Updated %1$d",
-  "flash_card_card_add_bank_account_parent_title": "PLZ_CHECK Add you child’s bank account to Gimi",
-  "flash_card_card_add_bank_account_parent_desc": "PLZ_CHECK Go to bank account settings",
-  "general_new_feature": "PLZ_CHECK NEW",
-  "general_reservation": "PLZ_CHECK Reservation"
+  "tink_updated_at": "Uppdaterad %1$d",
+  "flash_card_card_add_bank_account_parent_title": "Anslut ditt barns bankkonto till Gimi",
+  "flash_card_card_add_bank_account_parent_desc": "Gå till bankkonto-inställningar",
+  "general_new_feature": "NEW",
+  "general_reservation": "Reserverat"
 }
