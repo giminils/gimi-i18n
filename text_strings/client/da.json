@@ -2682,5 +2682,7 @@
   "flash_card_card_add_bank_account_parent_title": "PLZ_TRANSLATE Add you child’s bank account to Gimi",
   "flash_card_card_add_bank_account_parent_desc": "PLZ_TRANSLATE Go to bank account settings",
   "general_new_feature": "PLZ_TRANSLATE NEW",
-  "general_reservation": "PLZ_TRANSLATE Reservation"
+  "general_reservation": "PLZ_TRANSLATE Reservation",
+  "parent_no_kids_add_kid": "PLZ_TRANSLATE Add a child to get started!",
+  "parent_no_kids_add_btn": "PLZ_TRANSLATE Add a child!"
 }
