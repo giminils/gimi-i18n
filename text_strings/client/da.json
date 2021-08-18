@@ -2684,5 +2684,6 @@
   "general_new_feature": "PLZ_TRANSLATE NEW",
   "general_reservation": "PLZ_TRANSLATE Reservation",
   "parent_no_kids_add_kid": "PLZ_TRANSLATE Add a child to get started!",
-  "parent_no_kids_add_btn": "PLZ_TRANSLATE Add a child!"
+  "parent_no_kids_add_btn": "PLZ_TRANSLATE Add a child!",
+  "general_order_card": "PLZ_TRANSLATE Order card"
 }
