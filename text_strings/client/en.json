@@ -484,7 +484,7 @@
   "withdraw_parent": "OK",
   "withdraw_child": "OK",
   "general_invite_child": "invite a supporter",
-  "general_invite_parent": "PZ_COPY Add a child",
+  "general_invite_parent": "PLZ_COPY Add a child",
   "max_characters": "Need more than %1$d characters? Add more content to the description later!",
   "chore_suggestion_sent": "Your suggestion of %1$d has been sent to %2$d for approval.",
   "general_redo": "Repeat",
