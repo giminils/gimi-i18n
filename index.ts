@@ -17,16 +17,16 @@ import ExperimentalCourses from './Education'
 import * as School from './school/School'
 import AllowanceSuggestions from './AllowanceSuggestions'
 
-export let supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
+export let supportedLanguageCodes = ['sv', 'nb', 'en']
 export let gimiWebLanguageCodes = ['en', 'sv', 'no']
 export let supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
     'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto',
     'Pacific/Auckland', 'Asia/Calcutta', 'Africa/Cairo']
 
-export let languageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'it', 'es', 'de']
+export let languageCodes = ['sv', 'nb', 'en']
 
-export const languageCodesForTranslation = ['nb', 'de', 'fi', 'fr', 'da', 'nl', 'it', 'es', 'sv', 'en']
+export const languageCodesForTranslation = ['sv', 'nb', 'en']
 
 export const getSupportedCurrencyInfos = (): Array<{code: string, name: string, langKey: string}> => [
   {code: 'SEK', name: 'Swedish Krona', langKey: 'currency_sek'},
@@ -48,13 +48,6 @@ export const getEducationStrings = (lang: string) => {
     case 'sv': return require('./text_strings/education/sv.json')
     case 'nb':
     case 'nn': return require('./text_strings/education/nb.json')
-    case 'da': return require('./text_strings/education/da.json')
-    case 'fr': return require('./text_strings/education/fr.json')
-    case 'nl': return require('./text_strings/education/nl.json')
-    case 'fi': return require('./text_strings/education/fi.json')
-    case 'it': return require('./text_strings/education/it.json')
-    case 'es': return require('./text_strings/education/es.json')
-    case 'de': return require('./text_strings/education/de.json')
     default: return require('./text_strings/education/en.json')
   }
 }
@@ -64,32 +57,15 @@ export const getTextStrings = (lang: string) => {
     case 'sv': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/sv.json'), ...require('./text_strings/bot/sv.json'), ...require('./text_strings/bot-survey/sv.json'), ...require('./text_strings/education/sv.json'), ...require('./text_strings/faq/sv.json'), ...require('./text_strings/school/sv.json')} // sweden
     case 'nb':
     case 'nn': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/nb.json'), ...require('./text_strings/bot/nb.json'), ...require('./text_strings/bot-survey/nb.json'), ...require('./text_strings/education/nb.json'), ...require('./text_strings/faq/nb.json'), ...require('./text_strings/school/nb.json')} // norway
-    case 'da': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/da.json'), ...require('./text_strings/bot/da.json'), ...require('./text_strings/bot-survey/da.json'), ...require('./text_strings/education/da.json'), ...require('./text_strings/faq/da.json'), ...require('./text_strings/school/da.json')} // danish
-    case 'fr': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/fr.json'), ...require('./text_strings/bot/fr.json'), ...require('./text_strings/bot-survey/fr.json'), ...require('./text_strings/education/fr.json'), ...require('./text_strings/faq/fr.json'), ...require('./text_strings/school/fr.json')} // france
-    case 'it': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/it.json'), ...require('./text_strings/bot/it.json'), ...require('./text_strings/bot-survey/it.json'), ...require('./text_strings/education/it.json'), ...require('./text_strings/faq/it.json'), ...require('./text_strings/school/it.json')} // Italian
-    case 'nl': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/nl.json'), ...require('./text_strings/bot/nl.json'), ...require('./text_strings/bot-survey/nl.json'), ...require('./text_strings/education/nl.json'), ...require('./text_strings/faq/nl.json'), ...require('./text_strings/school/nl.json')} // netherlands
-    case 'fi': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/fi.json'), ...require('./text_strings/bot/fi.json'), ...require('./text_strings/bot-survey/fi.json'), ...require('./text_strings/education/fi.json'), ...require('./text_strings/faq/fi.json'), ...require('./text_strings/school/fi.json')} // finish
-    case 'es': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/es.json'), ...require('./text_strings/bot/es.json'), ...require('./text_strings/bot-survey/es.json'), ...require('./text_strings/education/es.json'), ...require('./text_strings/faq/es.json'), ...require('./text_strings/school/es.json')} // spanish
-    case 'de': return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/de.json'), ...require('./text_strings/bot/de.json'), ...require('./text_strings/bot-survey/de.json'), ...require('./text_strings/education/de.json'), ...require('./text_strings/faq/de.json'), ...require('./text_strings/school/de.json')} // german
     default: return {...require('./text_strings/client/default.json'), ...require('./text_strings/client/en.json'), ...require('./text_strings/bot/en.json'), ...require('./text_strings/bot-survey/en.json'), ...require('./text_strings/education/en.json'), ...require('./text_strings/faq/en.json'), ...require('./text_strings/school/en.json')}
   }
 }
 
 export const getCalendarStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
-    case 'sv': return {...defaultCalendar, ...require('./text_strings/calendar/da.json')} // sweden
-    case 'da': return {...defaultCalendar, ...require('./text_strings/calendar/da.json')} // danish
+    case 'sv': return {...defaultCalendar, ...require('./text_strings/calendar/sv.json')} // sweden
     case 'nb':
     case 'nn': return {...defaultCalendar, ...require('./text_strings/calendar/nb.json')} // norway
-    case 'fr': return {...defaultCalendar, ...require('./text_strings/calendar/fr.json')} // france
-    case 'nl': return {...defaultCalendar, ...require('./text_strings/calendar/nl.json')} // netherlands
-    case 'be': return {...defaultCalendar, ...require('./text_strings/calendar/be.json')} // belgian
-    case 'fi': return {...defaultCalendar, ...require('./text_strings/calendar/fi.json')} // finish
-    case 'it': return {...defaultCalendar, ...require('./text_strings/calendar/it.json')} // italian
-    case 'es': return {...defaultCalendar, ...require('./text_strings/calendar/es.json')} // spanish
-    case 'de': return {...defaultCalendar, ...require('./text_strings/calendar/de.json')} // german
-    case 'is': return {...defaultCalendar, ...require('./text_strings/calendar/is.json')} // island
-    case 'et': return {...defaultCalendar, ...require('./text_strings/calendar/et.json')} // Estonia
     default: return {...defaultCalendar, ...require('./text_strings/calendar/en.json')}
   }
 }
@@ -99,13 +75,6 @@ export const getFAQStrings = (lang: string): object => {
     case 'sv': return require('./text_strings/faq/sv.json') // sweden
     case 'nb':
     case 'nn': return require('./text_strings/faq/nb.json') // norway
-    case 'da': return require('./text_strings/faq/da.json') // danish
-    case 'fr': return require('./text_strings/faq/fr.json') // france
-    case 'nl': return require('./text_strings/faq/nl.json') // Netherlands
-    case 'fi': return require('./text_strings/faq/fi.json') // finish
-    case 'it': return require('./text_strings/faq/it.json') // italian
-    case 'es': return require('./text_strings/faq/es.json') // spanish
-    case 'de': return require('./text_strings/faq/de.json') // german
     default: return require('./text_strings/faq/en.json')
   }
 }
@@ -115,13 +84,6 @@ export const getDictionaryStrings = (lang: string): object => {
     case 'sv': return require('./text_strings/dictionary/sv.json') // sweden
     case 'nb':
     case 'nn': return require('./text_strings/dictionary/nb.json') // norway
-    case 'da': return require('./text_strings/dictionary/da.json') // danish
-    case 'fr': return require('./text_strings/dictionary/fr.json') // france
-    case 'nl': return require('./text_strings/dictionary/nl.json') // Netherlands
-    case 'fi': return require('./text_strings/dictionary/fi.json') // finish
-    case 'it': return require('./text_strings/dictionary/it.json') // italian
-    case 'es': return require('./text_strings/dictionary/es.json') // spanish
-    case 'de': return require('./text_strings/dictionary/de.json') // german
     default: return require('./text_strings/dictionary/en.json')
   }
 }
@@ -131,13 +93,6 @@ export const getNativeErrorMessageStrings = (lang: string): {[key: string]: stri
     case 'sv': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/sv.json')} // sweden
     case 'nn':
     case 'nb': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/nb.json')} // norway
-    case 'da': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/da.json')} // danish
-    case 'fr': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/fr.json')} // france
-    case 'nl': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/nl.json')} // Netherlands
-    case 'fi': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/fi.json')} // finish
-    case 'it': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/it.json')} // italian
-    case 'es': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/es.json')} // spanish
-    case 'de': return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/de.json')} // german
     default: return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/en.json')}
   }
 }
@@ -232,13 +187,6 @@ export let getClienStrings = (lang: string) => {
     case 'sv': return require('./text_strings/client/sv.json') // sweden
     case 'nb':
     case 'nn': return require('./text_strings/client/nb.json') // norway
-    case 'da': return require('./text_strings/client/da.json') // danish
-    case 'fr': return require('./text_strings/client/fr.json') // france
-    case 'nl': return require('./text_strings/client/nl.json') // netherlands
-    case 'fi': return require('./text_strings/client/fi.json') // finish
-    case 'it': return require('./text_strings/client/it.json') // italian
-    case 'es': return require('./text_strings/client/es.json') // spanish
-    case 'de': return require('./text_strings/client/de.json') // german
     default: return require('./text_strings/client/en.json')
   }
 }
