@@ -2685,6 +2685,5 @@
   "general_reservation": "PLZ_TRANSLATE Reservation",
   "parent_no_kids_add_kid": "PLZ_TRANSLATE Get going and give your children Financial Superskills",
   "parent_no_kids_add_btn": "PLZ_TRANSLATE Add a child",
-  "general_order_card": "PLZ_TRANSLATE Order card",
-  "challenge_level_failed": "PLZ_TRANSLATE Oh no!\nTry redoing the story and try again, and I think you will do much better!"
+  "general_order_card": "PLZ_TRANSLATE Order card"
 }
