@@ -257,7 +257,7 @@
   "connect_sms_template_parent": "Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app! {connection_token.accept_url}",
   "connect_sms_template_child": "Hi! {connection_token.created_by.nickname} is waiting for you in the Gimi app! {connection_token.accept_url}",
   "ADGEON019_notification_title": "You're on the Gimi Card waitlist!",
-  "event_short_tutorial": "How to use Gimi in 20 seconds",
+  "event_short_tutorial": "PLZ_COPY How to use Gimi!",
   "push_child_spend": "You spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "push_child_spend_to_parent": "{pfstransactionstatement.card.user.nickname} spent {pfstransactionstatement.str_amount} at {pfstransactionstatement.merchant_name}",
   "CHGERE030_push_title": "You have a new chore waiting to be done!",
