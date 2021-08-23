@@ -2685,5 +2685,6 @@
   "general_reservation": "Reservation",
   "parent_no_kids_add_kid": "Get going and give your children Financial Superskills",
   "parent_no_kids_add_btn": "Add a child",
-  "general_order_card": "Order card"
+  "general_order_card": "Order card",
+  "challenge_level_failed": "Oh no!\nTry redoing the story and try again, and I think you will do much better!"
 }
