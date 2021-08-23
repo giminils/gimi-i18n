@@ -2654,7 +2654,7 @@
   "type_promo_code_open_banking_title": "Har du en kampanjkod?",
   "type_promo_code_open_banking_subtitle": "Den här funktionen måste låsas upp med en kampanjkod!",
   "tink_spent_on_cat_general": "Du har spenderat %1$d på %2$d",
-  "spending_cats_help_text": "PLZ_CHECK Statistics from the past 30 days. Click the category to reveal the amount!",
+  "spending_cats_help_text": "Statistik från de senaste 30 dagarna. Klicka på en kategori för att se summan!",
   "tink_category_ghost": "Okänd",
   "tink_category_home": "Hem",
   "tink_category_expenses": "Utgifter",
@@ -2683,7 +2683,7 @@
   "flash_card_card_add_bank_account_parent_desc": "Gå till bankkonto-inställningar",
   "general_new_feature": "NEW",
   "general_reservation": "Reserverat",
-  "parent_no_kids_add_kid": "PLZ_CHECK Get going and give your children Financial Superskills",
-  "parent_no_kids_add_btn": "PLZ_CHECK Add a child",
-  "general_order_card": "PLZ_CHECK Order card"
+  "parent_no_kids_add_kid": "Kom igång och ge dina barn Financial Superskills",
+  "parent_no_kids_add_btn": "Lägg till ett barn",
+  "general_order_card": "Beställ kort"
 }
