@@ -2688,5 +2688,10 @@
   "general_order_card": "Bestill kortet",
   "tink_deposit_success_title": "PLZ_TRANSLATE Your deposit was made successfully",
   "tink_deposit_success_subtitle": "PLZ_TRANSLATE Note that i might take up to 2-3 bank days for the deposit to clear.",
-  "openbanking_spending_summary_title": "PLZ_TRANSLATE Spending summary"
+  "openbanking_spending_summary_title": "PLZ_TRANSLATE Spending summary",
+  "general_total_amount": "PLZ_TRANSLATE Total amount",
+  "general_total_transactions": "PLZ_TRANSLATE Total transactions",
+  "general_all_transactions": "PLZ_TRANSLATE All transactions",
+  "most_expensive_category": "PLZ_TRANSLATE Most expensive category",
+  "nothing_spent_this_week": "PLZ_TRANSLATE Nothing spend this weeek..."
 }
