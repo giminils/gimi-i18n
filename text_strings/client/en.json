@@ -2693,5 +2693,6 @@
   "general_total_transactions":"Total transactions",
   "general_all_transactions":"All transactions",
   "most_expensive_category":"Most expensive category",
-  "nothing_spent_this_week":"Nothing spend this weeek..."
+  "nothing_spent_this_week":"Nothing spend this weeek...",
+  "general_chore_packages":"Chore packages"
 }
