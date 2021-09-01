@@ -2687,13 +2687,13 @@
   "parent_no_kids_add_btn": "Lägg till ett barn",
   "general_order_card": "Beställ kort",
   "tink_deposit_success_title": "Överföringen lyckades!",
-  "tink_deposit_success_subtitle": "PLZ_CHECK Note that it might take up to 2-3 bank days for the deposit to clear.",
-  "openbanking_spending_summary_title": "PLZ_CHECK Spending summary",
-  "general_total_amount": "PLZ_CHECK Total amount",
-  "general_total_transactions": "PLZ_CHECK Total transactions",
-  "general_all_transactions": "PLZ_CHECK All transactions",
-  "most_expensive_category": "PLZ_CHECK Most expensive category",
-  "nothing_spent_this_week": "PLZ_CHECK Nothing spent this week...",
-  "general_chore_packages": "PLZ_CHECK Chore packages",
-  "included_chores": "PLZ_CHECK Included chores"
+  "tink_deposit_success_subtitle": "Notera att det kan ta upp till 2-3 bankdagar för transaktionen att nå kontot.",
+  "openbanking_spending_summary_title": "Veckosummering",
+  "general_total_amount": "Totalt belopp",
+  "general_total_transactions": "Antal transaktioner",
+  "general_all_transactions": "Alla transaktioner",
+  "most_expensive_category": "Dyraste kategorin",
+  "nothing_spent_this_week": "Inga köp denna vecka...",
+  "general_chore_packages": "Uppgiftspaket",
+  "included_chores": "Inkluderade uppgifter"
 }
