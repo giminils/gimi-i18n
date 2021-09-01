@@ -2695,5 +2695,7 @@
   "most_expensive_category": "Dyraste kategorin",
   "nothing_spent_this_week": "Inga köp denna vecka...",
   "general_chore_packages": "Uppgiftspaket",
-  "included_chores": "Inkluderade uppgifter"
+  "included_chores": "Inkluderade uppgifter",
+  "general_select_all": "PLZ_CHECK Select all",
+  "general_deselect_all": "PLZ_CHECK Deselect all"
 }
