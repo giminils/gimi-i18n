@@ -2695,7 +2695,8 @@
   "most_expensive_category": "Den dyreste kategorien",
   "nothing_spent_this_week": "Ingen kjøp denne uken...",
   "general_chore_packages": "Oppgavepakke",
-  "included_chores": "Inkludert oppgaver"
+  "included_chores": "Inkludert oppgaver",
   "general_select_all": "PLZ_TRANSLATE Select all",
-  "general_deselect_all": "PLZ_TRANSLATE Deselect all"
+  "general_deselect_all": "PLZ_TRANSLATE Deselect all",
+  "edit_chore_package_title": "PLZ_TRANSLATE Want to edit your selected chores?"
 }
