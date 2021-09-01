@@ -2687,12 +2687,12 @@
   "parent_no_kids_add_btn": "Add a child",
   "general_order_card": "Order card",
   "tink_deposit_success_title": "Your deposit was made successfully",
-  "tink_deposit_success_subtitle":"PLZ_COPY Note that it might take up to 2-3 bank days for the deposit to clear.",
-  "openbanking_spending_summary_title":"Spending summary",
-  "general_total_amount":"Total amount",
-  "general_total_transactions":"Total transactions",
-  "general_all_transactions":"All transactions",
-  "most_expensive_category":"Most expensive category",
-  "nothing_spent_this_week":"Nothing spend this weeek...",
-  "general_chore_packages":"Chore packages"
+  "tink_deposit_success_subtitle": "Note that it might take up to 2-3 bank days for the deposit to clear.",
+  "openbanking_spending_summary_title": "Spending summary",
+  "general_total_amount": "Total amount",
+  "general_total_transactions": "Total transactions",
+  "general_all_transactions": "All transactions",
+  "most_expensive_category": "Most expensive category",
+  "nothing_spent_this_week": "Nothing spend this weeek...",
+  "general_chore_packages": "Chore packages"
 }

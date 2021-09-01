@@ -2687,7 +2687,7 @@
   "parent_no_kids_add_btn": "Lägg till ett barn",
   "general_order_card": "Beställ kort",
   "tink_deposit_success_title": "Överföringen lyckades!",
-  "tink_deposit_success_subtitle": "PLZ_CHECK Note that i might take up to 2-3 bank days for the deposit to clear.",
+  "tink_deposit_success_subtitle": "PLZ_CHECK Note that it might take up to 2-3 bank days for the deposit to clear.",
   "openbanking_spending_summary_title": "PLZ_CHECK Spending summary",
   "general_total_amount": "PLZ_CHECK Total amount",
   "general_total_transactions": "PLZ_CHECK Total transactions",
