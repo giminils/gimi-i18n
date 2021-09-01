@@ -2694,5 +2694,6 @@
   "general_all_transactions": "PLZ_CHECK All transactions",
   "most_expensive_category": "PLZ_CHECK Most expensive category",
   "nothing_spent_this_week": "PLZ_CHECK Nothing spent this week...",
-  "general_chore_packages": "PLZ_CHECK Chore packages"
+  "general_chore_packages": "PLZ_CHECK Chore packages",
+  "included_chores": "PLZ_CHECK Included chores"
 }
