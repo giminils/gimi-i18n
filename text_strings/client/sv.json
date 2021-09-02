@@ -2696,7 +2696,7 @@
   "nothing_spent_this_week": "Inga köp denna vecka...",
   "general_chore_packages": "Uppgiftspaket",
   "included_chores": "Inkluderade uppgifter",
-  "general_select_all": "PLZ_CHECK Select all",
-  "general_deselect_all": "PLZ_CHECK Deselect all",
-  "edit_chore_package_title": "PLZ_CHECK Want to edit your selected chores?"
+  "general_select_all": "Markera alla",
+  "general_deselect_all": "Avmarkera alla",
+  "edit_chore_package_title": "Vill du ändra något i dina valda uppgifter?"
 }
