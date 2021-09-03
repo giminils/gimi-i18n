@@ -2695,8 +2695,10 @@
   "most_expensive_category": "Dyraste kategorin",
   "nothing_spent_this_week": "Inga köp denna vecka...",
   "general_chore_packages": "Uppgiftspaket",
-  "included_chores": "Inkluderade uppgifter",
+  "included_chores_parent": "PLZ_CHECK Included chores",
   "general_select_all": "Markera alla",
   "general_deselect_all": "Avmarkera alla",
-  "edit_chore_package_title": "Vill du ändra något i dina valda uppgifter?"
+  "edit_chore_package_title": "Vill du ändra något i dina valda uppgifter?",
+  "included_chores_kid": "PLZ_CHECK Included chores",
+  "parent_create_chore_action_title_plural": "PLZ_CHECK Chores created!"
 }
