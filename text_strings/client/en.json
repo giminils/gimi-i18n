@@ -2699,5 +2699,6 @@
   "general_select_all": "Select all",
   "general_deselect_all": "Deselect all",
   "edit_chore_package_title": "Want to edit your selected chores?",
-  "included_chores_kid": "Included chores"
+  "included_chores_kid": "Included chores",
+  "parent_create_chore_action_title_plural": "Chores created!"
 }

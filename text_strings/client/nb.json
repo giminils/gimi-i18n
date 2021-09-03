@@ -2699,5 +2699,6 @@
   "general_select_all": "PLZ_TRANSLATE Select all",
   "general_deselect_all": "PLZ_TRANSLATE Deselect all",
   "edit_chore_package_title": "PLZ_TRANSLATE Want to edit your selected chores?",
-  "included_chores_kid": "PLZ_TRANSLATE Included chores"
+  "included_chores_kid": "PLZ_TRANSLATE Included chores",
+  "parent_create_chore_action_title_plural": "PLZ_TRANSLATE Chores created!"
 }
