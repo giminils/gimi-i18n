@@ -551,8 +551,8 @@
   "CHGEON005_push_title_v2": "Your bonus has been updated in Gimi, check it out!",
   "ADGERE044_notification_title": "{child.nickname} has turned {child_age}! Want to update the allowance?",
   "ADGERE044_push_title": "{child.nickname} has turned {child_age}! Want to update the allowance?",
-  "CHPRRE047_notification_title": "PLZ_COPY Refresh your bank connection, it's about to expire!",
-  "CHPRRE047_push_title": "PLZ_COPY Time to refresh your bank connection!",
-  "ADPRRE047_notification_title": "PLZ_COPY Refresh your bank connection, it's about to expire!",
-  "ADPRRE047_push_title": "PLZ_COPY Time to refresh your bank connection!"
+  "CHPRRE047_notification_title": "Refresh your bank connection, it's about to expire!",
+  "CHPRRE047_push_title": "Time to refresh your bank connection!",
+  "ADPRRE047_notification_title": "Refresh your bank connection, it's about to expire!",
+  "ADPRRE047_push_title": "Time to refresh your bank connection!"
 }
