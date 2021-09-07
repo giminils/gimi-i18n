@@ -2700,5 +2700,6 @@
   "general_deselect_all": "Deselect all",
   "edit_chore_package_title": "Want to edit your selected chores?",
   "included_chores_kid": "PLZ_COPY Choose one to suggest",
-  "parent_create_chore_action_title_plural": "Chores created!"
+  "parent_create_chore_action_title_plural": "Chores created!",
+  "general_view_transactions":"View transactions"
 }
