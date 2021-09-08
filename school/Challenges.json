@@ -482,28 +482,28 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challenge_boldheader_1",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_4_screen_1_boldheader",
+                    "titleLangKey":  "school_challenge_4_screen_1_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/pants.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_1",
+                            "langKey": "school_challenge_4_screen_1_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_2",
+                            "langKey": "school_challenge_4_screen_1_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_3",
+                            "langKey": "school_challenge_4_screen_1_button_3_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_4",
+                            "langKey": "school_challenge_4_screen_1_button_4_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -511,18 +511,18 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text1",
+                    "boldTitleLangKey": "school_challenge_4_screen_2_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_2_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_2_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_2_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -530,18 +530,18 @@
                 },
                 {
                     "id": 3,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text2",
+                    "boldTitleLangKey": "school_challenge_4_screen_3_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_3_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_3_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_3_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -549,18 +549,18 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text3",
+                    "boldTitleLangKey": "school_challenge_4_screen_4_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_4_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_4_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_4_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -568,18 +568,18 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challenge_boldheader_2",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_4_screen_5_boldheader",
+                    "titleLangKey":  "school_challenge_4_screen_5_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/shopping.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_5",
+                            "langKey": "school_challenge_4_screen_5_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_6",
+                            "langKey": "school_challenge_4_screen_5_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -587,18 +587,18 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text4",
+                    "boldTitleLangKey": "school_challenge_4_screen_6_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_6_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_6_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_6_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -606,18 +606,18 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text5",
+                    "boldTitleLangKey": "school_challenge_4_screen_7_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_7_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_7_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_7_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -625,18 +625,18 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text6",
+                    "boldTitleLangKey": "school_challenge_4_screen_8_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_8_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_8_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_8_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -644,28 +644,28 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challenge_boldheader_3",
-                    "titleLangKey":  "",
+                    "boldTitleLangKey": "school_challenge_4_screen_9_boldheader",
+                    "titleLangKey":  "school_challenge_4_screen_9_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/breadButter.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_7",
+                            "langKey": "school_challenge_4_screen_9_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_8",
+                            "langKey": "school_challenge_4_screen_9_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_9",
+                            "langKey": "school_challenge_4_screen_9_button_3_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_10",
+                            "langKey": "school_challenge_4_screen_9_button_4_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -673,18 +673,18 @@
                 },        
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text7",
+                    "boldTitleLangKey": "school_challenge_4_screen_10_boldheader",
+                    "titleLangKey": "school_challenge_4_screen_10_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_4_screen_10_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_4_screen_10_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -700,18 +700,18 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
-                    "titleLangKey":  "school_challenge_4_text8",
+                    "boldTitleLangKey": "school_challenge_5_screen_1_boldheader",
+                    "titleLangKey":  "school_challenge_5_screen_1_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_supply",
+                            "langKey": "school_challenge_5_screen_1_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_demand",
+                            "langKey": "school_challenge_5_screen_1_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -719,18 +719,18 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
-                    "titleLangKey":  "school_challenge_4_text9",
+                    "boldTitleLangKey": "school_challenge_5_screen_2_boldheader",
+                    "titleLangKey":  "school_challenge_5_screen_2_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_supply",
+                            "langKey": "school_challenge_5_screen_2_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_demand",
+                            "langKey": "school_challenge_5_screen_2_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -738,18 +738,18 @@
                 },
                 {
                     "id": 3,
-                    "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
-                    "titleLangKey":  "school_challenge_4_text10",
+                    "boldTitleLangKey": "school_challenge_5_screen_3_boldheader",
+                    "titleLangKey":  "school_challenge_5_screen_3_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_supply",
+                            "langKey": "school_challenge_5_screen_3_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_demand",
+                            "langKey": "school_challenge_5_screen_3_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -757,18 +757,18 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
-                    "titleLangKey":  "school_challenge_4_text11",
+                    "boldTitleLangKey": "school_challenge_5_screen_4_boldheader",
+                    "titleLangKey":  "school_challenge_5_screen_4_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_supply",
+                            "langKey": "school_challenge_5_screen_4_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_demand",
+                            "langKey": "school_challenge_5_screen_4_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -776,18 +776,18 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
-                    "titleLangKey":  "school_challenge_4_text12",
+                    "boldTitleLangKey": "school_challenge_5_screen_5_boldheader",
+                    "titleLangKey":  "school_challenge_5_screen_5_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_supply",
+                            "langKey": "school_challenge_5_screen_5_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_demand",
+                            "langKey": "school_challenge_5_screen_5_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -795,18 +795,18 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challenge_boldheader_supplydemand",
-                    "titleLangKey":  "school_challenge_4_text13",
+                    "boldTitleLangKey": "school_challenge_5_screen_6_boldheader",
+                    "titleLangKey":  "school_challenge_5_screen_6_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/supplyDemand.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_supply",
+                            "langKey": "school_challenge_5_screen_6_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_demand",
+                            "langKey": "school_challenge_5_screen_6_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -814,18 +814,18 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text14",
+                    "boldTitleLangKey": "school_challenge_5_screen_7_boldheader",
+                    "titleLangKey": "school_challenge_5_screen_7_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_5_screen_7_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_5_screen_7_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -833,18 +833,18 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text15",
+                    "boldTitleLangKey": "school_challenge_5_screen_8_boldheader",
+                    "titleLangKey": "school_challenge_5_screen_8_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_5_screen_8_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_5_screen_8_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -852,18 +852,18 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text16",
+                    "boldTitleLangKey": "school_challenge_5_screen_9_boldheader",
+                    "titleLangKey": "school_challenge_5_screen_9_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_5_screen_9_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_5_screen_9_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -871,18 +871,18 @@
                 },        
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_4_text17",
+                    "boldTitleLangKey": "school_challenge_5_screen_10_boldheader",
+                    "titleLangKey": "school_challenge_5_screen_10_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_5_screen_10_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_5_screen_10_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -898,30 +898,30 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader1",
-                    "titleLangKey":  "school_challenge_6_ctcm_title1",
+                    "boldTitleLangKey": "school_challenge_6_screen_1_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_1_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_apple",
+                            "langKey": "school_challenge_6_screen_1_button_1_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_smartwatch",
+                            "langKey": "school_challenge_6_screen_1_button_2_title",
                             "imageUrl": "/static/school/smartwatch.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_pizza1",
+                            "langKey": "school_challenge_6_screen_1_button_3_title",
                             "imageUrl": "/static/school/pizza.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_computer1",
+                            "langKey": "school_challenge_6_screen_1_button_4_title",
                             "imageUrl": "/static/school/computer.png",
                             "isCorrect": false
                         }
@@ -929,30 +929,30 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader2",
-                    "titleLangKey":  "school_challenge_6_ctcm_title2",
+                    "boldTitleLangKey": "school_challenge_6_screen_2_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_2_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_smartphone",
+                            "langKey": "school_challenge_6_screen_2_button_1_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_scooter",
+                            "langKey": "school_challenge_6_screen_2_button_2_title",
                             "imageUrl": "/static/school/scooter.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_movieticket",
+                            "langKey": "school_challenge_6_screen_2_button_3_title",
                             "imageUrl": "/static/school/ticket.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_candy1",
+                            "langKey": "school_challenge_6_screen_2_button_4_title",
                             "imageUrl": "/static/school/candyBag.png",
                             "isCorrect": false
                         }
@@ -960,30 +960,30 @@
                 },
                 {
                     "id": 3,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader3",
-                    "titleLangKey":  "school_challenge_6_ctcm_title3",
+                    "boldTitleLangKey": "school_challenge_6_screen_3_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_3_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_smartphone",
+                            "langKey": "school_challenge_6_screen_3_button_1_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_computer1",
+                            "langKey": "school_challenge_6_screen_3_button_2_title",
                             "imageUrl": "/static/school/computer.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_jeans",
+                            "langKey": "school_challenge_6_screen_3_button_3_title",
                             "imageUrl": "/static/school/pants.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_icecream",
+                            "langKey": "school_challenge_6_screen_3_button_4_title",
                             "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         }
@@ -991,42 +991,42 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader4",
-                    "titleLangKey":  "school_challenge_6_ctcm_title4",
+                    "boldTitleLangKey": "school_challenge_6_screen_4_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_4_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_smartwatch",
+                            "langKey": "school_challenge_6_screen_4_button_1_title",
                             "imageUrl": "/static/school/smartwatch.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_flippers",
+                            "langKey": "school_challenge_6_screen_4_button_2_title",
                             "imageUrl": "/static/school/flippers.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_computer1",
+                            "langKey": "school_challenge_6_screen_4_button_3_title",
                             "imageUrl": "/static/school/computer.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_apple",
+                            "langKey": "school_challenge_6_screen_4_button_4_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 5,
-                            "langKey": "school_picture_title_jeans",
+                            "langKey": "school_challenge_6_screen_4_button_5_title",
                             "imageUrl": "/static/school/pants.png",
                             "isCorrect": false
                         },
                         {
                             "id": 6,
-                            "langKey": "school_picture_title_chocolate",
+                            "langKey": "school_challenge_6_screen_4_button_6_title",
                             "imageUrl": "/static/school/chocolate.png",
                             "isCorrect": false
                         }
@@ -1034,42 +1034,42 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader5",
-                    "titleLangKey":  "school_challenge_6_ctcm_title5",
+                    "boldTitleLangKey": "school_challenge_6_screen_5_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_5_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_basketball1",
+                            "langKey": "school_challenge_6_screen_5_button_1_title",
                             "imageUrl": "/static/school/basketball.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_headphones2",
+                            "langKey": "school_challenge_6_screen_5_button_2_title",
                             "imageUrl": "/static/school/headphones2.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_scooter",
+                            "langKey": "school_challenge_6_screen_5_button_3_title",
                             "imageUrl": "/static/school/scooter.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_icecream",
+                            "langKey": "school_challenge_6_screen_5_button_4_title",
                             "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 5,
-                            "langKey": "school_picture_title_icehockeystick",
+                            "langKey": "school_challenge_6_screen_5_button_5_title",
                             "imageUrl": "/static/school/icehockeystick.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
-                            "langKey": "school_picture_title_candy1",
+                            "langKey": "school_challenge_6_screen_5_button_6_title",
                             "imageUrl": "/static/school/candyBag.png",
                             "isCorrect": true
                         }
@@ -1077,30 +1077,30 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader6",
-                    "titleLangKey":  "school_challenge_6_ctcm_title6",
+                    "boldTitleLangKey": "school_challenge_6_screen_6_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_6_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_pricetag10pb",
+                            "langKey": "school_challenge_6_screen_6_button_1_title",
                             "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_pricetag25pb",
+                            "langKey": "school_challenge_6_screen_6_button_2_title",
                             "imageUrl": "/static/school/icecream.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_pricetag36pb",
+                            "langKey": "school_challenge_6_screen_6_button_3_title",
                             "imageUrl": "/static/school/icecream.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_pricetag11pb",
+                            "langKey": "school_challenge_6_screen_6_button_4_title",
                             "imageUrl": "/static/school/icecream.png",
                             "isCorrect": false
                         }
@@ -1108,30 +1108,30 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader7",
-                    "titleLangKey":  "school_challenge_6_ctcm_title7",
+                    "boldTitleLangKey": "school_challenge_6_screen_7_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_7_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_pricetag500pb",
+                            "langKey": "school_challenge_6_screen_7_button_1_title",
                             "imageUrl": "/static/school/backpack.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_pricetag250pb",
+                            "langKey": "school_challenge_6_screen_7_button_2_title",
                             "imageUrl": "/static/school/backpack.png",
                             "isCorrect": true
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_pricetag852pb",
+                            "langKey": "school_challenge_6_screen_7_button_3_title",
                             "imageUrl": "/static/school/backpack.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_pricetag460pb",
+                            "langKey": "school_challenge_6_screen_7_button_4_title",
                             "imageUrl": "/static/school/backpack.png",
                             "isCorrect": false
                         }
@@ -1139,30 +1139,30 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader8",
-                    "titleLangKey":  "school_challenge_6_ctcm_title8",
+                    "boldTitleLangKey": "school_challenge_6_screen_8_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_8_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_pricetag80pb",
+                            "langKey": "school_challenge_6_screen_8_button_1_title",
                             "imageUrl": "/static/school/pizza.png",
                             "isCorrect": true
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_pricetag100pb",
+                            "langKey": "school_challenge_6_screen_8_button_2_title",
                             "imageUrl": "/static/school/pizza.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_pricetag120pb",
+                            "langKey": "school_challenge_6_screen_8_button_3_title",
                             "imageUrl": "/static/school/pizza.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_pricetag95pb",
+                            "langKey": "school_challenge_6_screen_8_button_4_title",
                             "imageUrl": "/static/school/pizza.png",
                             "isCorrect": false
                         }
@@ -1170,42 +1170,42 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader9",
-                    "titleLangKey":  "school_challenge_6_ctcm_title9",
+                    "boldTitleLangKey": "school_challenge_6_screen_9_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_9_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_pricetag6pb",
+                            "langKey": "school_challenge_6_screen_9_button_1_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_pricetag10pb",
+                            "langKey": "school_challenge_6_screen_9_button_2_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_pricetag15pb",
+                            "langKey": "school_challenge_6_screen_9_button_3_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_pricetag3pb",
+                            "langKey": "school_challenge_6_screen_9_button_4_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": true
                         },
                         {
                             "id": 5,
-                            "langKey": "school_picture_title_pricetag18pb",
+                            "langKey": "school_challenge_6_screen_9_button_5_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
-                            "langKey": "school_picture_title_pricetag11pb",
+                            "langKey": "school_challenge_6_screen_9_button_6_title",
                             "imageUrl": "/static/school/apple.png",
                             "isCorrect": false
                         }
@@ -1213,42 +1213,42 @@
                 },
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challenge_6_ctcm_boldheader10",
-                    "titleLangKey":  "school_challenge_6_ctcm_title10",
+                    "boldTitleLangKey": "school_challenge_6_screen_10_boldheader",
+                    "titleLangKey":  "school_challenge_6_screen_10_title",
                     "buttons": [
                         {
                             "id": 1,
-                            "langKey": "school_picture_title_pricetag6000pb",
+                            "langKey": "school_challenge_6_screen_10_button_1_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 2,
-                            "langKey": "school_picture_title_pricetag5680pb",
+                            "langKey": "school_challenge_6_screen_10_button_2_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 3,
-                            "langKey": "school_picture_title_pricetag10090pb",
+                            "langKey": "school_challenge_6_screen_10_button_3_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 4,
-                            "langKey": "school_picture_title_pricetag7800pb",
+                            "langKey": "school_challenge_6_screen_10_button_4_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         },
                         {
                             "id": 5,
-                            "langKey": "school_picture_title_pricetag4500pb",
+                            "langKey": "school_challenge_6_screen_10_button_5_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": true
                         },
                         {
                             "id": 6,
-                            "langKey": "school_picture_title_pricetag8349pb",
+                            "langKey": "school_challenge_6_screen_10_button_6_title",
                             "imageUrl": "/static/school/smartPhone.png",
                             "isCorrect": false
                         }
@@ -1264,18 +1264,18 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challenge_7_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_7_screen_title_1",
+                    "boldTitleLangKey": "school_challenge_7_screen_1_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_1_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_7_screen_button_1",
+                            "langKey": "school_challenge_7_screen_1_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_7_screen_button_2",
+                            "langKey": "school_challenge_7_screen_1_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1283,18 +1283,18 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_7_screen_title_2",
+                    "boldTitleLangKey": "school_challenge_7_screen_2_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_2_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_7_screen_2_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_7_screen_2_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1302,18 +1302,18 @@
                 },
                 {
                     "id": 3,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_7_screen_title_3",
+                    "boldTitleLangKey": "school_challenge_7_screen_3_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_3_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_7_screen_3_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_7_screen_3_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1321,18 +1321,18 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challenge_7_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_7_screen_title_4",
+                    "boldTitleLangKey": "school_challenge_7_screen_4_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_4_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_7_screen_button_1",
+                            "langKey": "school_challenge_7_screen_4_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_7_screen_button_2",
+                            "langKey": "school_challenge_7_screen_4_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1340,18 +1340,18 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_7_screen_title_5",
+                    "boldTitleLangKey": "school_challenge_7_screen_5_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_5_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_7_screen_5_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_7_screen_5_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1359,18 +1359,18 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_7_screen_title_6",
+                    "boldTitleLangKey": "school_challenge_7_screen_6_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_6_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_7_screen_6_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_7_screen_6_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1378,18 +1378,18 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challenge_7_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_7_screen_title_7",
+                    "boldTitleLangKey": "school_challenge_7_screen_7_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_7_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_7_screen_button_1",
+                            "langKey": "school_challenge_7_screen_7_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_7_screen_button_2",
+                            "langKey": "school_challenge_7_screen_7_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1397,18 +1397,18 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_7_screen_title_8",
+                    "boldTitleLangKey": "school_challenge_7_screen_8_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_8_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_7_screen_8_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_7_screen_8_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1416,18 +1416,18 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_7_screen_title_9",
+                    "boldTitleLangKey": "school_challenge_7_screen_9_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_9_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_7_screen_9_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_7_screen_9_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1435,18 +1435,18 @@
                 },
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challenge_7_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_7_screen_title_10",
+                    "boldTitleLangKey": "school_challenge_7_screen_10_boldheader",
+                    "titleLangKey": "school_challenge_7_screen_10_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_7_screen_button_1",
+                            "langKey": "school_challenge_7_screen_10_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_7_screen_button_2",
+                            "langKey": "school_challenge_7_screen_10_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1540,18 +1540,18 @@
             "screens": [
                 {
                     "id": 1,
-                    "boldTitleLangKey": "school_challenge_9_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_9_screen_title_1",
+                    "boldTitleLangKey": "school_challenge_9_screen_1_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_1_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/regularAndCrypto.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_9_screen_button_1",
+                            "langKey": "school_challenge_9_screen_1_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_9_screen_button_2",
+                            "langKey": "school_challenge_9_screen_1_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1559,18 +1559,18 @@
                 },
                 {
                     "id": 2,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_9_screen_title_2",
+                    "boldTitleLangKey": "school_challenge_9_screen_2_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_2_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_9_screen_2_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_9_screen_2_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1578,18 +1578,18 @@
                 },
                 {
                     "id": 3,
-                    "boldTitleLangKey": "school_challenge_9_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_9_screen_title_3",
+                    "boldTitleLangKey": "school_challenge_9_screen_3_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_3_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/regularAndCrypto.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_9_screen_button_1",
+                            "langKey": "school_challenge_9_screen_3_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_9_screen_button_2",
+                            "langKey": "school_challenge_9_screen_3_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1597,18 +1597,18 @@
                 },
                 {
                     "id": 4,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_9_screen_title_4",
+                    "boldTitleLangKey": "school_challenge_9_screen_4_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_4_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_9_screen_4_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_9_screen_4_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1616,18 +1616,18 @@
                 },
                 {
                     "id": 5,
-                    "boldTitleLangKey": "school_challenge_9_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_9_screen_title_5",
+                    "boldTitleLangKey": "school_challenge_9_screen_5_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_5_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/regularAndCrypto.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_9_screen_button_1",
+                            "langKey": "school_challenge_9_screen_5_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_9_screen_button_2",
+                            "langKey": "school_challenge_9_screen_5_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1635,18 +1635,18 @@
                 },
                 {
                     "id": 6,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_9_screen_title_6",
+                    "boldTitleLangKey": "school_challenge_9_screen_6_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_6_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_9_screen_6_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_9_screen_6_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1654,18 +1654,18 @@
                 },
                 {
                     "id": 7,
-                    "boldTitleLangKey": "school_challenge_9_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_9_screen_title_7",
+                    "boldTitleLangKey": "school_challenge_9_screen_7_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_7_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/regularAndCrypto.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_9_screen_button_1",
+                            "langKey": "school_challenge_9_screen_7_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_9_screen_button_2",
+                            "langKey": "school_challenge_9_screen_7_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1673,18 +1673,18 @@
                 },
                 {
                     "id": 8,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_9_screen_title_8",
+                    "boldTitleLangKey": "school_challenge_9_screen_8_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_8_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_9_screen_8_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_9_screen_8_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1692,18 +1692,18 @@
                 },
                 {
                     "id": 9,
-                    "boldTitleLangKey": "school_challenge_9_screen_boldheader_1",
-                    "titleLangKey": "school_challenge_9_screen_title_9",
+                    "boldTitleLangKey": "school_challenge_9_screen_9_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_9_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/regularAndCrypto.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_9_screen_button_1",
+                            "langKey": "school_challenge_9_screen_9_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_9_screen_button_2",
+                            "langKey": "school_challenge_9_screen_9_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1711,18 +1711,18 @@
                 },
                 {
                     "id": 10,
-                    "boldTitleLangKey": "school_challenge_boldheader_torf",
-                    "titleLangKey": "school_challenge_9_screen_title_10",
+                    "boldTitleLangKey": "school_challenge_9_screen_10_boldheader",
+                    "titleLangKey": "school_challenge_9_screen_10_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_button_true",
+                            "langKey": "school_challenge_9_screen_10_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_button_false",
+                            "langKey": "school_challenge_9_screen_10_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1744,12 +1744,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_1_button_1",
+                            "langKey": "school_challenge_10_screen_1_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_10_screen_1_button_2",
+                            "langKey": "school_challenge_10_screen_1_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1763,12 +1763,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_2_button_1",
+                            "langKey": "school_challenge_10_screen_2_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_10_screen_2_button_2",
+                            "langKey": "school_challenge_10_screen_2_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1782,12 +1782,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_3_button_1",
+                            "langKey": "school_challenge_10_screen_3_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_10_screen_3_button_2",
+                            "langKey": "school_challenge_10_screen_3_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1801,12 +1801,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_4_button_1",
+                            "langKey": "school_challenge_10_screen_4_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_10_screen_4_button_2",
+                            "langKey": "school_challenge_10_screen_4_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1820,12 +1820,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_5_button_1",
+                            "langKey": "school_challenge_10_screen_5_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_10_screen_5_button_2",
+                            "langKey": "school_challenge_10_screen_5_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1839,12 +1839,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_6_button_1",
+                            "langKey": "school_challenge_10_screen_6_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_10_screen_6_button_2",
+                            "langKey": "school_challenge_10_screen_6_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1858,12 +1858,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_7_button_1",
+                            "langKey": "school_challenge_10_screen_7_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_10_screen_7_button_2",
+                            "langKey": "school_challenge_10_screen_7_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1877,12 +1877,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_8_button_1",
+                            "langKey": "school_challenge_10_screen_8_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_10_screen_8_button_2",
+                            "langKey": "school_challenge_10_screen_8_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1896,12 +1896,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_9_button_1",
+                            "langKey": "school_challenge_10_screen_9_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_10_screen_9_button_2",
+                            "langKey": "school_challenge_10_screen_9_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1915,12 +1915,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_10_screen_10_button_1",
+                            "langKey": "school_challenge_10_screen_10_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_10_screen_10_button_2",
+                            "langKey": "school_challenge_10_screen_10_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1942,12 +1942,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_1_button_1",
+                            "langKey": "school_challenge_11_screen_1_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_11_screen_1_button_2",
+                            "langKey": "school_challenge_11_screen_1_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -1961,12 +1961,12 @@
                     "imageUrl": "/static/school/factory.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_2_button_1",
+                            "langKey": "school_challenge_11_screen_2_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_11_screen_2_button_2",
+                            "langKey": "school_challenge_11_screen_2_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1980,12 +1980,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_3_button_1",
+                            "langKey": "school_challenge_11_screen_3_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_11_screen_3_button_2",
+                            "langKey": "school_challenge_11_screen_3_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -1999,12 +1999,12 @@
                     "imageUrl": "/static/school/scratcher.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_4_button_1",
+                            "langKey": "school_challenge_11_screen_4_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_11_screen_4_button_2",
+                            "langKey": "school_challenge_11_screen_4_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -2018,12 +2018,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_5_button_1",
+                            "langKey": "school_challenge_11_screen_5_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_11_screen_5_button_2",
+                            "langKey": "school_challenge_11_screen_5_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -2037,12 +2037,12 @@
                     "imageUrl": "/static/school/bonus.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_6_button_1",
+                            "langKey": "school_challenge_11_screen_6_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_11_screen_6_button_2",
+                            "langKey": "school_challenge_11_screen_6_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -2056,12 +2056,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_7_button_1",
+                            "langKey": "school_challenge_11_screen_7_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_11_screen_7_button_2",
+                            "langKey": "school_challenge_11_screen_7_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
@@ -2075,12 +2075,12 @@
                     "imageUrl": "/static/school/100bill.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_8_button_1",
+                            "langKey": "school_challenge_11_screen_8_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_11_screen_8_button_2",
+                            "langKey": "school_challenge_11_screen_8_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -2094,12 +2094,12 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_9_button_1",
+                            "langKey": "school_challenge_11_screen_9_button_1_title",
                             "imageUrl": "",
                             "isCorrect": false
                         },
                         {
-                            "langKey": "school_challenge_11_screen_9_button_2",
+                            "langKey": "school_challenge_11_screen_9_button_2_title",
                             "imageUrl": "",
                             "isCorrect": true
                         }
@@ -2113,12 +2113,12 @@
                     "imageUrl": "/static/school/dishes.png",
                     "buttons": [
                         {
-                            "langKey": "school_challenge_11_screen_10_button_1",
+                            "langKey": "school_challenge_11_screen_10_button_1_title",
                             "imageUrl": "",
                             "isCorrect": true
                         },
                         {
-                            "langKey": "school_challenge_11_screen_10_button_2",
+                            "langKey": "school_challenge_11_screen_10_button_2_title",
                             "imageUrl": "",
                             "isCorrect": false
                         }
