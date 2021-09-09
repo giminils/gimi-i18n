@@ -2553,7 +2553,7 @@
   "flash_card_card_instructions_desc": "Lær barnet ditt hvordan du bruker et debetkort på riktig måte",
   "card_instructions_title": "Kortinstruksjoner",
   "card_instructions_desc": "Se instruksjonsfilmene om hvordan du bruker et kort sammen med barnet ditt!",
-  "parent_lesson_popover_title": "Bare barn har tilgang til Superskills Adventure!",
+  "parent_lesson_popover_title": "PLZ_TRANSLATE Only children can access Superskills Adventure!",
   "parent_lesson_popover_desc": "Hvis du vil sjekke det ut, logger du på barnets konto eller får tilgang til det via telefonen deres.",
   "weekly_payout_week_x_from_parent": "Ukepeng uke %1$d fra %2$d",
   "monthly_payout_month_x_from_parent": "Månedpeng %1$d fra %2$d",
