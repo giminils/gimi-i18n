@@ -3548,6 +3548,7 @@
   "school_xp_value_in_total": "PLZ_TRANSLATE %1$d XP in total",
   "school_shop_intro_title": "PLZ_TRANSLATE Welcome to the Gimi store! It’s time to shop.",
   "school_shop_intro_subtitle": "PLZ_TRANSLATE Here in Superskills Adventure we use a currency called Piggybucks (PB). Currency is another word for money.",
+  "school_answer_general_okay": "PLZ_TRANSLATE Okay!",
   "school_chapter_disabled_title": "PLZ_TRANSLATE This chapter isn’t released yet",
   "school_chapter_disabled_subtitle": "PLZ_TRANSLATE Good things comes to those who wait. Redo the other chapters while waiting!",
   "school_lesson_disabled_title": "PLZ_TRANSLATE This is locked! Come back when you have finished the previous destination.",
