@@ -1089,7 +1089,7 @@
   "cant_access_card_info_without_passcode_err_button": "Lag passord",
   "add_a_card_parent_settings_row": "Legg til et kort!",
   "kid_card_action_button_card": "Kortdetaljer",
-  "kid_card_action_button_cloud": "Overfør",
+  "kid_card_action_button_cloud": "PLZ_TRANSLATE Transfer to vault",
   "kid_card_action_button_pin": "Vis PIN-kode",
   "kid_card_action_button_settings": "Innstillinger",
   "buy_premium_kid_setup_title": "Oppgrader %1$d til mesternivå!",

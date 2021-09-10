@@ -1089,7 +1089,7 @@
   "cant_access_card_info_without_passcode_err_button": "Create passcode",
   "add_a_card_parent_settings_row": "Add a card!",
   "kid_card_action_button_card": "Card details",
-  "kid_card_action_button_cloud": "Transfer",
+  "kid_card_action_button_cloud": "Transfer to vault",
   "kid_card_action_button_pin": "View PIN",
   "kid_card_action_button_settings": "Settings",
   "buy_premium_kid_setup_title": "Upgrade %1$d to Master level!",
