@@ -1208,7 +1208,7 @@
   "copied_to_clipboard_success": "Kopierat!",
   "general_topup": "Fyll på",
   "chore_archive_earned_title": "Tjänat: %1$d",
-  "top_up_card_action_button": "Ladda kortet",
+  "top_up_card_action_button": "PLZ_CHECK Transfer to card",
   "general_accept": "Acceptera",
   "payday_amount_desc": "Intjänat den här veckan:",
   "payday_earnt_desc": "Såhär tjänades pengarna in!",

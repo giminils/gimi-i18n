@@ -1208,7 +1208,7 @@
   "copied_to_clipboard_success": "Kopiert til utklippstavle!",
   "general_topup": "Top-up",
   "chore_archive_earned_title": "Tjent: %1$d",
-  "top_up_card_action_button": "Top-up-kort",
+  "top_up_card_action_button": "PLZ_TRANSLATE Transfer to card",
   "general_accept": "Godta",
   "payday_amount_desc": "Hvor mye tjente du denne uken:",
   "payday_earnt_desc": "Slik ble pengene tjent!",
