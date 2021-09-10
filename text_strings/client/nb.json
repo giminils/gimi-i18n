@@ -2701,5 +2701,6 @@
   "edit_chore_package_title": "PLZ_TRANSLATE Want to edit your selected chores?",
   "included_chores_kid": "PLZ_TRANSLATE Choose one to suggest",
   "parent_create_chore_action_title_plural": "PLZ_TRANSLATE Chores created!",
-  "general_view_transactions": "PLZ_TRANSLATE View transactions"
+  "general_view_transactions": "PLZ_TRANSLATE View transactions",
+  "gimi_card_and_vault": "PLZ_TRANSLATE Gimi Card & Vault"
 }

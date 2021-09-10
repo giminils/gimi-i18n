@@ -2701,5 +2701,6 @@
   "edit_chore_package_title": "Want to edit your selected chores?",
   "included_chores_kid": "Choose one to suggest",
   "parent_create_chore_action_title_plural": "Chores created!",
-  "general_view_transactions": "View transactions"
+  "general_view_transactions": "View transactions",
+  "gimi_card_and_vault":"Gimi Card & Vault"
 }

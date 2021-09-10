@@ -2701,5 +2701,6 @@
   "edit_chore_package_title": "Vill du ändra något i dina valda uppgifter?",
   "included_chores_kid": "PLZ_CHECK Choose one to suggest",
   "parent_create_chore_action_title_plural": "PLZ_CHECK Chores created!",
-  "general_view_transactions": "PLZ_CHECK View transactions"
+  "general_view_transactions": "PLZ_CHECK View transactions",
+  "gimi_card_and_vault": "PLZ_CHECK Gimi Card & Vault"
 }
