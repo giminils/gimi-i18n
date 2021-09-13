@@ -2679,7 +2679,7 @@
   "tink_category_pets": "Pets",
   "tink_add_money_desc_placeholder": "Max. 12 characters, only letters and numbers",
   "tink_updated_at": "Updated %1$d",
-  "flash_card_card_add_bank_account_parent_title": "Add you child’s bank account to Gimi",
+  "flash_card_card_add_bank_account_parent_title": "PLZ_COPY Add your child’s bank account to Gimi",
   "flash_card_card_add_bank_account_parent_desc": "Go to bank account settings",
   "general_new_feature": "NEW",
   "general_reservation": "Reservation",
