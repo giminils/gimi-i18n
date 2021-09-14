@@ -2702,5 +2702,7 @@
   "included_chores_kid": "Choose one to suggest",
   "parent_create_chore_action_title_plural": "Chores created!",
   "general_view_transactions": "View transactions",
-  "gimi_card_and_vault":"Gimi Card & Vault"
+  "gimi_card_and_vault":"Gimi Card & Vault",
+  "disable_piggy_bank_warning_desc": "If you hide the piggybank it will disappear from the account view and homepage. You can enable it later in the child´s settings!",
+  "yes_hide_it": "Yes, hide it"
 }

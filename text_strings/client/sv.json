@@ -2702,5 +2702,7 @@
   "included_chores_kid": "Välj en uppgift att föreslå",
   "parent_create_chore_action_title_plural": "Uppgifter skapade!",
   "general_view_transactions": "Se transaktioner",
-  "gimi_card_and_vault": "Gimi-kortet & valvet"
+  "gimi_card_and_vault": "Gimi-kortet & valvet",
+  "disable_piggy_bank_warning_desc": "PLZ_CHECK If you hide the piggybank it will disappear from the account view and homepage. You can enable it later in the child´s settings!",
+  "yes_hide_it": "PLZ_CHECK Yes, hide it"
 }
