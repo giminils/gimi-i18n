@@ -2679,7 +2679,7 @@
   "tink_category_pets": "Kjæledyr",
   "tink_add_money_desc_placeholder": "Maks. 12 tegn, bare bokstaver og tall",
   "tink_updated_at": "Oppdatert %1$d",
-  "flash_card_card_add_bank_account_parent_title": "Legg til ditt barns bankkonto i Gimi",
+  "flash_card_card_add_bank_account_parent_title": "PLZ_TRANSLATE Add your child’s bank account to Gimi",
   "flash_card_card_add_bank_account_parent_desc": "Gå til bankkontoinnstillinger",
   "general_new_feature": "NEW",
   "general_reservation": "Reservasjon",

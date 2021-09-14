@@ -2679,7 +2679,7 @@
   "tink_category_pets": "Husdjur",
   "tink_add_money_desc_placeholder": "Max 12 tecken, endast bokstäver och nummer!",
   "tink_updated_at": "Uppdaterad %1$d",
-  "flash_card_card_add_bank_account_parent_title": "Anslut ditt barns bankkonto till Gimi",
+  "flash_card_card_add_bank_account_parent_title": "PLZ_CHECK Add your child’s bank account to Gimi",
   "flash_card_card_add_bank_account_parent_desc": "Gå till bankkonto-inställningar",
   "general_new_feature": "NEW",
   "general_reservation": "Reserverat",

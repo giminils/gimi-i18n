@@ -2679,7 +2679,7 @@
   "tink_category_pets": "Pets",
   "tink_add_money_desc_placeholder": "Max. 12 characters, only letters and numbers",
   "tink_updated_at": "Updated %1$d",
-  "flash_card_card_add_bank_account_parent_title": "PLZ_COPY Add your child’s bank account to Gimi",
+  "flash_card_card_add_bank_account_parent_title": "Add your child’s bank account to Gimi",
   "flash_card_card_add_bank_account_parent_desc": "Go to bank account settings",
   "general_new_feature": "NEW",
   "general_reservation": "Reservation",
@@ -2702,7 +2702,7 @@
   "included_chores_kid": "Choose one to suggest",
   "parent_create_chore_action_title_plural": "Chores created!",
   "general_view_transactions": "View transactions",
-  "gimi_card_and_vault":"Gimi Card & Vault",
+  "gimi_card_and_vault": "Gimi Card & Vault",
   "disable_piggy_bank_warning_desc": "If you hide the piggybank it will disappear from the account view and homepage. You can enable it later in the child´s settings!",
   "yes_hide_it": "Yes, hide it"
 }
