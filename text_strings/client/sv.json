@@ -2679,7 +2679,7 @@
   "tink_category_pets": "Husdjur",
   "tink_add_money_desc_placeholder": "Max 12 tecken, endast bokstäver och nummer!",
   "tink_updated_at": "Uppdaterad %1$d",
-  "flash_card_card_add_bank_account_parent_title": "PLZ_CHECK Add your child’s bank account to Gimi",
+  "flash_card_card_add_bank_account_parent_title": "Lägg till barnets bankkonto i Gimi",
   "flash_card_card_add_bank_account_parent_desc": "Gå till bankkonto-inställningar",
   "general_new_feature": "NEW",
   "general_reservation": "Reserverat",
@@ -2703,6 +2703,6 @@
   "parent_create_chore_action_title_plural": "Uppgifter skapade!",
   "general_view_transactions": "Se transaktioner",
   "gimi_card_and_vault": "Gimi-kortet & valvet",
-  "disable_piggy_bank_warning_desc": "PLZ_CHECK If you hide the piggybank it will disappear from the account view and homepage. You can enable it later in the child´s settings!",
-  "yes_hide_it": "PLZ_CHECK Yes, hide it"
+  "disable_piggy_bank_warning_desc": "Om du döljer spargrisen kommer den att döljas från kontovyn och startsidan. Du kan ändra detta senare i inställningarna!",
+  "yes_hide_it": "Ja, dölj den"
 }
