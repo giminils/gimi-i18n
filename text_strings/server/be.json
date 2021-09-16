@@ -556,5 +556,7 @@
   "ADPRRE047_notification_title": "PLZ_TRANSLATE Refresh your bank connection, it's about to expire!",
   "ADPRRE047_push_title": "PLZ_TRANSLATE Time to refresh your bank connection!",
   "ADPRRE046_notification_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
-  "ADPRRE046_push_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!"
+  "ADPRRE046_push_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
+  "CHPRRE046_notification_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
+  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!"
 }

@@ -556,5 +556,7 @@
   "ADPRRE047_notification_title": "Du behöver förnya din bankanslutning!",
   "ADPRRE047_push_title": "Du behöver förnya din bankanslutning!",
   "ADPRRE046_notification_title": "PLZ_CHECK See how much {child.nickname} spent with their bank card this week!",
-  "ADPRRE046_push_title": "PLZ_CHECK See how much {child.nickname} spent with their bank card this week!"
+  "ADPRRE046_push_title": "PLZ_CHECK See how much {child.nickname} spent with their bank card this week!",
+  "CHPRRE046_notification_title": "PLZ_CHECK See how much you spent with your bank card this week!",
+  "CHPRRE046_push_title": "PLZ_CHECK See how much you spent with your bank card this week!"
 }
