@@ -2219,7 +2219,7 @@
   "get_started_card_order_card_subtitle": "Upgrade to Gimi Master",
   "general_allowance_amount": "Amount",
   "goal_statistics_title": "My goal",
-  "payday_status_upcoming": "Coming up. Check back on %1$d",
+  "payday_status_upcoming": "Should be paid out on %1$d",
   "payday_status_to_be_paid": "To be paid out today!",
   "payday_status_late": "%1$d days late. Pay today!",
   "total_amount_in": "Total %1$d",
