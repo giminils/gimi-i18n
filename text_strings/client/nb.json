@@ -2219,7 +2219,7 @@
   "get_started_card_order_card_subtitle": "Oppgrader til Gimi Master",
   "general_allowance_amount": "Balansere",
   "goal_statistics_title": "Mitt mål",
-  "payday_status_upcoming": "Kommer snart. Kom tilbake på %1$d",
+  "payday_status_upcoming": "Må betales %1$d",
   "payday_status_to_be_paid": "Skal utbetales i dag!",
   "payday_status_late": "%1$d dager sent. Betal idag!",
   "total_amount_in": "Totalt %1$d",
