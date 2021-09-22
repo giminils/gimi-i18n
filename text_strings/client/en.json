@@ -2393,7 +2393,7 @@
   "open_banking_account_connected_title": "The bank account is now connected!",
   "open_banking_account_connected_subtitle": "Both you and %1$d can now see the account in your Gimi apps!",
   "open_banking_choose_account_title": "Which account do you want to connect?",
-  "open_banking_choose_account_subtitle": "Can’t find your child’s account? Open banking is a new system, and continuously updated. Check back later!",
+  "open_banking_choose_account_subtitle": "Can’t find your child’s account? Let us know in the support chat below!",
   "goal_time_spent_saving": "Time spent saving",
   "goal_amount_saved_per_day": "Average amount saved per day",
   "general_days": "Days",
