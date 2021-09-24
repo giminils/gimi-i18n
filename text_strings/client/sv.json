@@ -881,7 +881,7 @@
   "your_subscription_cancelled_subtitle": "Du kan fortsätta använda Gimi, men du kommer inte att kunna använda ditt kort längre.",
   "already_active_dream_popover_title": "Du har redan lagt till ett mål...",
   "already_active_dream_popover_text": "Om du vill att det här ska vara ditt mål, måste du först radera det nuvarande.",
-  "today_is_pay_day_subtitle": "Du fick precis %1$d",
+  "today_is_pay_day_subtitle": "%1$d lades till i spargrisen!",
   "too_long_name_error": "Namnet är för långt!",
   "wishlist_add_wish_btn": "Lägg till",
   "pfs_manual_deposit_to_card": "Manuell överföring till kort",
