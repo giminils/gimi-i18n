@@ -881,7 +881,7 @@
   "your_subscription_cancelled_subtitle": "You can keep using Gimi, but you won't be able to use your card anymore.",
   "already_active_dream_popover_title": "You already have a goal...",
   "already_active_dream_popover_text": "If you want to make this your goal, you first need to delete your current goal.",
-  "today_is_pay_day_subtitle": "You just got yourself %1$d",
+  "today_is_pay_day_subtitle": "%1$d was added to your piggybank.",
   "too_long_name_error": "That name is too long!",
   "wishlist_add_wish_btn": "Add wish",
   "pfs_manual_deposit_to_card": "Manual transfer to card",
