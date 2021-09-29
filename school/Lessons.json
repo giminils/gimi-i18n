@@ -239,26 +239,6 @@
             "type": "DEFAULT",
             "storyId": 24,
             "challengeId": 24
-        },
-        {
-            "id": 25,
-            "isEnabled": true,
-            "titleLangKey": "school_lesson_25_title",
-            "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
-            "type": "DEFAULT",
-            "storyId": 25,
-            "challengeId": 6
-        },
-        {
-            "id": 26,
-            "isEnabled": true,
-            "titleLangKey": "school_lesson_26_title",
-            "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
-            "type": "DEFAULT",
-            "storyId": 26,
-            "challengeId": 25
         }
     ]
 }
