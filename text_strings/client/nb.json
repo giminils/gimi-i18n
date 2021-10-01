@@ -2708,5 +2708,6 @@
   "general_adventures": "PLZ_TRANSLATE Adventures",
   "quizzes": "PLZ_TRANSLATE Quizzes",
   "assess_your_knowledge": "PLZ_TRANSLATE Assess your knowledge",
-  "family_missions": "PLZ_TRANSLATE Family missions"
+  "family_missions": "PLZ_TRANSLATE Family missions",
+  "number_of_questions": "PLZ_TRANSLATE %1$d questions"
 }

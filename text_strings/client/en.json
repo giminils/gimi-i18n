@@ -2708,5 +2708,6 @@
   "general_adventures": "Adventures",
   "quizzes": "Quizzes",
   "assess_your_knowledge": "Assess your knowledge",
-  "family_missions": "Family missions"
+  "family_missions": "Family missions",
+  "number_of_questions": "%1$d questions"
 }

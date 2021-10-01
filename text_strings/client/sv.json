@@ -2708,5 +2708,6 @@
   "general_adventures": "PLZ_CHECK Adventures",
   "quizzes": "PLZ_CHECK Quizzes",
   "assess_your_knowledge": "PLZ_CHECK Assess your knowledge",
-  "family_missions": "PLZ_CHECK Family missions"
+  "family_missions": "PLZ_CHECK Family missions",
+  "number_of_questions": "PLZ_CHECK %1$d questions"
 }
