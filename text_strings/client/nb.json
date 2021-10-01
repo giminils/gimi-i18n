@@ -2704,5 +2704,6 @@
   "general_view_transactions": "Se transaksjoner",
   "gimi_card_and_vault": "Gimi-kort og hvelv",
   "disable_piggy_bank_warning_desc": "Hvis du skjuler sparegrisen, forsvinner den fra kontovisningen og hjemmesiden. Du kan aktivere det senere i barnets innstillinger!",
-  "yes_hide_it": "Ja, skjul det"
+  "yes_hide_it": "Ja, skjul det",
+  "general_adventures": "PLZ_TRANSLATE Adventures"
 }

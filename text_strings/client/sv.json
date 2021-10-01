@@ -2704,5 +2704,6 @@
   "general_view_transactions": "Se transaktioner",
   "gimi_card_and_vault": "Gimi-kortet & valvet",
   "disable_piggy_bank_warning_desc": "Om du döljer spargrisen kommer den att döljas från kontovyn och startsidan. Du kan ändra detta senare i inställningarna!",
-  "yes_hide_it": "Ja, dölj den"
+  "yes_hide_it": "Ja, dölj den",
+  "general_adventures": "PLZ_CHECK Adventures"
 }
