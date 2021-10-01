@@ -2705,5 +2705,8 @@
   "gimi_card_and_vault": "Gimi-kortet & valvet",
   "disable_piggy_bank_warning_desc": "Om du döljer spargrisen kommer den att döljas från kontovyn och startsidan. Du kan ändra detta senare i inställningarna!",
   "yes_hide_it": "Ja, dölj den",
-  "general_adventures": "PLZ_CHECK Adventures"
+  "general_adventures": "PLZ_CHECK Adventures",
+  "quizzes": "PLZ_CHECK Quizzes",
+  "assess_your_knowledge": "PLZ_CHECK Assess your knowledge",
+  "family_missions": "PLZ_CHECK Family missions"
 }
