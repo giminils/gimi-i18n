@@ -2709,5 +2709,9 @@
   "quizzes": "Quizzes",
   "assess_your_knowledge": "Assess your knowledge",
   "family_missions": "Family missions",
-  "number_of_questions": "%1$d questions"
+  "number_of_questions": "%1$d questions",
+  "adventure_quiz_card_title": "Are you ready for a card?",
+  "adventure_quiz_earn_title": "Test your knowledge:\nEarn quiz!",
+  "adventure_quiz_spend_title": "Test your knowledge:\nSpend quiz!",
+  "adventure_quiz_save_title": "Test your knowledge:\nSave quiz!"
 }

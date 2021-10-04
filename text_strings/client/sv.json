@@ -2709,5 +2709,9 @@
   "quizzes": "PLZ_CHECK Quizzes",
   "assess_your_knowledge": "PLZ_CHECK Assess your knowledge",
   "family_missions": "PLZ_CHECK Family missions",
-  "number_of_questions": "PLZ_CHECK %1$d questions"
+  "number_of_questions": "PLZ_CHECK %1$d questions",
+  "adventure_quiz_card_title": "PLZ_CHECK Are you ready for a card?",
+  "adventure_quiz_earn_title": "PLZ_CHECK Test your knowledge:\nEarn quiz!",
+  "adventure_quiz_spend_title": "PLZ_CHECK Test your knowledge:\nSpend quiz!",
+  "adventure_quiz_save_title": "PLZ_CHECK Test your knowledge:\nSave quiz!"
 }

@@ -2709,5 +2709,9 @@
   "quizzes": "PLZ_TRANSLATE Quizzes",
   "assess_your_knowledge": "PLZ_TRANSLATE Assess your knowledge",
   "family_missions": "PLZ_TRANSLATE Family missions",
-  "number_of_questions": "PLZ_TRANSLATE %1$d questions"
+  "number_of_questions": "PLZ_TRANSLATE %1$d questions",
+  "adventure_quiz_card_title": "PLZ_TRANSLATE Are you ready for a card?",
+  "adventure_quiz_earn_title": "PLZ_TRANSLATE Test your knowledge:\nEarn quiz!",
+  "adventure_quiz_spend_title": "PLZ_TRANSLATE Test your knowledge:\nSpend quiz!",
+  "adventure_quiz_save_title": "PLZ_TRANSLATE Test your knowledge:\nSave quiz!"
 }
