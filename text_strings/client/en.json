@@ -2714,5 +2714,7 @@
   "adventure_quiz_card_title": "Are you ready for a card?",
   "adventure_quiz_earn_title": "Test your knowledge:\nEarn quiz!",
   "adventure_quiz_spend_title": "Test your knowledge:\nSpend quiz!",
-  "adventure_quiz_save_title": "Test your knowledge:\nSave quiz!"
+  "adventure_quiz_save_title": "Test your knowledge:\nSave quiz!",
+  "earn_xp_by_doing_missions": "Earn XP by doing missions",
+  "continue_on_the_x_chapter": "Continue on the %1$d chapter"
 }
