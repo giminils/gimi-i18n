@@ -161,7 +161,7 @@ describe('TextStrings', () => {
 })
 
 const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string) => {
-  const slack = new Slack('https://hooks.slack.com/services/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')
+  const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
     text: 'i18n Language files wtesth languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
     channel: '#i18n_translation_stat',
@@ -173,7 +173,7 @@ const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string
   })
 }
 const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
-  const slack = new Slack('https://hooks.slack.com/services/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')
+  const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
     text,
     channel: '#i18n_translation_tags',
@@ -186,7 +186,7 @@ const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
 }
 
 const SendToNonTech = (text: Array<Object>, languageCode: string) => {
-  const slack = new Slack('https://hooks.slack.com/services/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')
+  const slack = new Slack('https://hooks.slack.com/services/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')
   const attachmentPayload = [
     {
       fallback: 'Found EMMA',
