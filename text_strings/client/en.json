@@ -2716,5 +2716,8 @@
   "adventure_quiz_spend_title": "Test your knowledge:\nSpend quiz!",
   "adventure_quiz_save_title": "Test your knowledge:\nSave quiz!",
   "earn_xp_by_doing_missions": "Earn XP by doing missions",
-  "continue_on_the_x_chapter": "Continue on the %1$d chapter"
+  "continue_on_the_x_chapter": "Continue on the %1$d chapter",
+  "adventure_start_your_journey": "Start your journey",
+  "adventure_continue_on_planet_x": "Continue on planet %1$d",
+  "adventure_lets_go_earn_some_xp": "Let’s go earn some XP"
 }
