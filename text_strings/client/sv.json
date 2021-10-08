@@ -2708,13 +2708,13 @@
   "no_user_terms_link": "https://www.gimitheapp.com/no/terms?cookies=false",
   "general_adventures": "Adventures",
   "quizzes": "Quiz",
-  "assess_your_knowledge": "PLZ_CHECK Assess your knowledge",
-  "family_missions": "PLZ_CHECK Family missions",
+  "assess_your_knowledge": "Testa dina skills!",
+  "family_missions": "Family missions",
   "number_of_questions": "%1$d frågor",
   "adventure_quiz_card_title": "Är du redo för ett kort?",
-  "adventure_quiz_earn_title": "PLZ_CHECK Test your knowledge:\nEarn quiz!",
-  "adventure_quiz_spend_title": "PLZ_CHECK Test your knowledge:\nSpend quiz!",
-  "adventure_quiz_save_title": "PLZ_CHECK Test your knowledge:\nSave quiz!",
-  "earn_xp_by_doing_missions": "PLZ_CHECK Earn XP by doing missions",
-  "continue_on_the_x_chapter": "PLZ_CHECK Continue on the %1$d chapter"
+  "adventure_quiz_earn_title": "Testa dina skills:\nTjäna-quizet!",
+  "adventure_quiz_spend_title": "Testa dina skills:\nSpendera-quizet!",
+  "adventure_quiz_save_title": "Testa dina skills::\nSpara-quizet!",
+  "earn_xp_by_doing_missions": "Tjäna XP genom att göra uppdrag",
+  "continue_on_the_x_chapter": "Fortsätt på %1$d-kapitlet"
 }
