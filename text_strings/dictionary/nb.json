@@ -1,6 +1,6 @@
 {
   "dictionary_chapter_1_barter": "Byttehandel",
-  "dictionary_chapter_1_barter_description": "PLZ_TRANSLATE Å bytte en vare eller et produkt mot et annet. Før det fantes penger, handlet man ting gjennom en byttehandel.",
+  "dictionary_chapter_1_barter_description": "Å bytte en vare eller et produkt mot et annet. Før det fantes penger, handlet man ting gjennom en byttehandel.",
   "dictionary_chapter_1_rawmaterials": "Råvarer",
   "dictionary_chapter_1_rawmaterials_description": "Delene eller materialene et produkt består av. Råvarene blir ofte konvertert til å bli et produkt. For eksempel består brød av gjær, mel og salt. Råvarene blir konvertert gjennom miksing og baking, og ender opp som produktet brød.",
   "dictionary_chapter_1_legaltender": "Betalingsmiddel",
@@ -96,11 +96,11 @@
   "dictionary_chapter_8_stocks": "Aksjer",
   "dictionary_chapter_8_stocks_description": "En liten del av et selskap som du kan kjøp. Når du har aksjer, eiger du en liten del av selskapet. Å selge askjer er med på å styrke selskapet, fordi de mottar penger. Og eiger man akskjer får man sin del av 'kaka' av det selskapet tjener.",
   "dictionary_chapter_8_risk": "Risiko",
-  "dictionary_chapter_8_risk_description": "PLZ_TRANSLATE the probability that something negative or unwanted will happen. Chance is often seen as the opposite, ie the probability that something positive and desired happens.",
-  "dictionary_chapter_8_spreadingrisk": "PLZ_TRANSLATE Spreading the risk",
-  "dictionary_chapter_8_spreadingrisk_description": "PLZ_TRANSLATE To spread your risk. In investing, it is buying shares in several different companies to spread and minimize the risk of losing all the invested money.",
-  "dictionary_chapter_8_fund": "PLZ_TRANSLATE Fund",
-  "dictionary_chapter_8_fund_description": "PLZ_TRANSLATE A portfolio or collection of shares from several companies that you can buy as a whole. Is an easy way of spreading the risk when investing.",
-  "dictionary_chapter_8_fundmanager": "PLZ_TRANSLATE Fund manager",
-  "dictionary_chapter_8_fundmanager_description": "PLZ_TRANSLATE Has responsibility for taking care of funds for a customer. They manage where the customer’s money is to be invested in the funds, so the customer does not have to keep track of it themselves."
+  "dictionary_chapter_8_risk_description": "Sannsynligheten for at no negativt eller ikke ønsket oppstår. Sjanse er ofte sett på som motsatsen, nemlig sannsynligheten for at noe ønskelig eller positivt vil skje.",
+  "dictionary_chapter_8_spreadingrisk": "Spredning av risiko",
+  "dictionary_chapter_8_spreadingrisk_description": "Å spre risikoen. Når man investerer kan man kjøpe akskjer i mange ulike selskaper for å spre ut og minske risikoen for å tape alle de investerte pengene.",
+  "dictionary_chapter_8_fund": "Fond",
+  "dictionary_chapter_8_fund_description": "En portefølge eller sammensetning av aksjer fra mange ulike selskaper som du kan kjøpe under ett. Det er en ekel måte å spre risiko når man investerer.",
+  "dictionary_chapter_8_fundmanager": "Fondsforvalter",
+  "dictionary_chapter_8_fundmanager_description": "Har ansvaret for å forvalte fond for kunder. De har ansvaret og velger hvilke fond kundene sine penger skal bli investert i, så slipper kundene å holde kontroll på det selv."
 }
