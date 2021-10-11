@@ -2717,7 +2717,7 @@
   "adventure_quiz_save_title": "Testa dina skills::\nSpara-quizet!",
   "earn_xp_by_doing_missions": "Tjäna XP genom att göra uppdrag",
   "continue_on_the_x_chapter": "Fortsätt på %1$d-kapitlet",
-  "adventure_start_your_journey": "PLZ_CHECK Start your journey",
-  "adventure_continue_on_planet_x": "PLZ_CHECK Continue on planet %1$d",
-  "adventure_lets_go_earn_some_xp": "PLZ_CHECK Let’s go earn some XP"
+  "adventure_start_your_journey": "Starta din resa",
+  "adventure_continue_on_planet_x": "Fortsätt på planet %1$d",
+  "adventure_lets_go_earn_some_xp": "Dags att tjäna XP"
 }
