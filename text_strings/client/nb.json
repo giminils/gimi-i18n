@@ -2712,12 +2712,12 @@
   "family_missions": "Family missions",
   "number_of_questions": "%1$d spørsmål",
   "adventure_quiz_card_title": "Er du klar for et kort?",
-  "adventure_quiz_earn_title": "PLZ_TRANSLATE Test your knowledge:\nEarn quiz!",
-  "adventure_quiz_spend_title": "PLZ_TRANSLATE Test your knowledge:\nSpend quiz!",
-  "adventure_quiz_save_title": "PLZ_TRANSLATE Test your knowledge:\nSave quiz!",
-  "earn_xp_by_doing_missions": "PLZ_TRANSLATE Earn XP by doing missions",
-  "continue_on_the_x_chapter": "PLZ_TRANSLATE Continue on the %1$d chapter",
-  "adventure_start_your_journey": "PLZ_TRANSLATE Start your journey",
-  "adventure_continue_on_planet_x": "PLZ_TRANSLATE Continue on planet %1$d",
-  "adventure_lets_go_earn_some_xp": "PLZ_TRANSLATE Let’s go earn some XP"
+  "adventure_quiz_earn_title": "Test dine skills:\nTjene quiz!",
+  "adventure_quiz_spend_title": "Test dine skills:\nBruke quiz!",
+  "adventure_quiz_save_title": "Test dine skills:\nSpare quiz!",
+  "earn_xp_by_doing_missions": "Tjen XP ved å fullføre oppdrag",
+  "continue_on_the_x_chapter": "Fortsett på %1$d-kapitlet",
+  "adventure_start_your_journey": "Start reisen din",
+  "adventure_continue_on_planet_x": "Fortsett på planet %1$d",
+  "adventure_lets_go_earn_some_xp": "Begynn å tjene XP"
 }
