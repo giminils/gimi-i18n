@@ -1880,7 +1880,7 @@
   "support_gimi_button": "Support Gimi with one click",
   "dont_support_gimi_button": "I don’t want to support Gimi",
   "general_correct_answers": "Correct answers",
-  "kid_card_test_success": "You nailed the %1$d test!",
+  "kid_card_test_success": "You nailed the %1$d!",
   "kid_card_test_fail": "You failed the %1$d...",
   "parent_kid_card_test_success": "%1$d nailed the %2$d!",
   "parent_kid_card_test_fail": "%1$d failed the %2$d... ",
