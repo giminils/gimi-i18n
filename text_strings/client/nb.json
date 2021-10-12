@@ -1976,6 +1976,7 @@
   "chores_done_first_time_kid_with_parent": "Når dine oppgaver blir godkjent, vil de havne her. Beløpet du har tjent blir lagt til den neste utbetalingen din.",
   "chores_to_do_first_time_parent": "Lær barnet ditt at hardt arbeid lønner seg. Å gjøre oppgaver er nødvendig for å forstå konseptet med å tjene penger. Legg til en oppgave for å komme i gang!",
   "chores_to_pending_time_parent": "Det er her du godkjenner oppgaver. Når barnet ditt har fullført en oppgave, blir det sendt hit for godkjenning.",
+  "chores_to_approve_empty_state": "PLZ_TRANSLATE Once %1$d has completed a chore, it's sent here for approval by you.",
   "chores_done_first_time_parent": "Opptjent beløp blir automatisk lagt til neste utbetaling av uke-/månedpeng. Vi teller!",
   "chore_was_deleted": "Oppgaven slettet!",
   "chore_was_reactivated": "Oppgaven reaktivert!",

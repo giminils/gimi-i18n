@@ -1976,6 +1976,7 @@
   "chores_done_first_time_kid_with_parent": "When the chores are approved, they'll end up here. The amount you've earned is added to your next allowance payout.",
   "chores_to_do_first_time_parent": "Doing chores is necessary to understand the concept of earning money. Add a chore to get started!",
   "chores_to_pending_time_parent": "Once your child has completed a chore, it's sent here for approval by you.",
+  "chores_to_approve_empty_state": "Once %1$d has completed a chore, it's sent here for approval by you.",
   "chores_done_first_time_parent": "The earned amount will be automatically added to the next allowance payout. We'll do the counting!",
   "chore_was_deleted": "Chore deleted!",
   "chore_was_reactivated": "Chore reactivated!",
