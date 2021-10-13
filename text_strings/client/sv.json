@@ -1976,7 +1976,7 @@
   "chores_done_first_time_kid_with_parent": "När uppgifterna godkänns hamnar de här. Summan du har tjänat adderas automatiskt till nästa vecko-/månadspeng!",
   "chores_to_do_first_time_parent": "Att få betalt för uppgifter är nödvändigt för att förstå hur man tjänar pengar. Skapa en uppgift för att komma igång!",
   "chores_to_pending_time_parent": "När barnet har utfört en uppgift, så skickas den hit för ditt godkännande.",
-  "chores_to_approve_empty_state": "PLZ_CHECK Once %1$d has completed a chore, it's sent here for approval by you.",
+  "chores_to_approve_empty_state": "När %1$d har utfört en uppgift, så skickas den hit för ditt godkännande.",
   "chores_done_first_time_parent": "Den tjänade summan kommer automatiskt att betalas ut tillsammans med nästa vecko-/månadspeng. Vi räknar åt er!",
   "chore_was_deleted": "Uppgift raderad!",
   "chore_was_reactivated": "Uppgift återaktiverad!",
