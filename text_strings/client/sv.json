@@ -2517,7 +2517,7 @@
   "delete_tink_account_kid": "Du har tagit bort kopplingen!",
   "parent_connections_needs_setup": "Sätt vecko-/månadspeng",
   "your_bank_account_is_connected": "Ditt bankkonto är tillagt!",
-  "your_bank_account_is_connected_desc": "Du kan nu följa alla dina transaktioner från ditt %1$d-kort direkt i Gimi-appen. Coolt va?",
+  "your_bank_account_is_connected_desc": "Du kan nu följa alla dina transaktioner från ditt %1$d direkt i Gimi-appen. Coolt va?",
   "due_allowance_parent_kid_item": "Ska betalas ut",
   "general_bank_account": "Bankkonto",
   "not_main_parent_warning_title": "Du har inte tillåtelse att byta konto!",
