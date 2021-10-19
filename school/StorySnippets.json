@@ -7,19 +7,19 @@
                     "langKey": "school_story_snippet_1_screen_1_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/alienEmptyTank.png",
-                    "buttonLangKey": "school_answer_general_next"
+                    "buttonLangKey": "school_story_snippet_button_next"
                 },
                 {
                     "langKey": "school_story_snippet_1_screen_2_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/planets.png",
-                    "buttonLangKey": "school_answer_general_next"
+                    "buttonLangKey": "school_story_snippet_button_next"
                 },
                 {
                     "langKey": "school_story_snippet_1_screen_3_title",
                     "subtitleLangKey": "",
                     "imageUrl": "/static/school/dustyRocket.png",
-                    "buttonLangKey": "school_answer_general_next"
+                    "buttonLangKey": "school_story_snippet_button_next"
                 },
                 {
                     "langKey": "school_story_snippet_1_screen_4_title",
