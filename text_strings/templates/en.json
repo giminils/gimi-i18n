@@ -640,15 +640,15 @@
   "task_template_title_weed_the_garden": "Weed the garden",
   "task_template_description_weed_the_garden": "Get motivated to take care of your garden!",
   "task_template_title_prepare_salad_for_dinner": "Prepare salad for dinner",
-  "task_template_description_prepare_salad_for_dinner": "Prepare something fresh for your dinner!",
+  "task_template_description_prepare_salad_for_dinner": "PLZ_COPY The greens are in the fridge!",
   "task_template_title_wash_the_car": "Wash the car",
-  "task_template_description_wash_the_car": "PLZ_COPY Let's give the car some love!",
+  "task_template_description_wash_the_car": "PLZ_COPY It's getting really dirty!",
   "task_template_title_organise_school_supplies": "Organise school supplies",
   "task_template_description_organise_school_supplies": "Make sure you have all the supplies ready!",
   "task_template_title_organise_your_wardrobe": "Organise your wardrobe",
-  "task_template_description_organise_your_wardrobe": "Prepare to rock at school with your outfits.",
+  "task_template_description_organise_your_wardrobe": "PLZ_COPY It will make it easier to find stuff in the mornings!",
   "task_template_title_tidy_up_your_desk_and_bedroom": "Tidy up your desk and bedroom",
-  "task_template_description_tidy_up_your_desk_and_bedroom": "It's important to prepare your environment for the next months.",
+  "task_template_description_tidy_up_your_desk_and_bedroom": "PLZ_COPY It'll help you focus on your homework!",
   "task_template_title_prepare_backpack": "Prepare backpack",
-  "task_template_description_prepare_backpack": "Make sure you don't forget anything for your first day!"
+  "task_template_description_prepare_backpack": "PLZ_COPY Make sure you don't forget anything!"
 }
