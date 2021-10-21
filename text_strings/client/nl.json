@@ -902,7 +902,7 @@
   "education_n_out_of_n_completed": "%1$d/%2$d voltooid",
   "education_more_chapters_coming_soon": "Binnenkort meer!",
   "spending_categories_item_explainer_kid": "Je hebt %1$d uitgegeven aan %2$d deze maand",
-  "spending_categories_item_explainer_parent": "1$d uitgegeven %2$d aan %3$d deze maand",
+  "spending_categories_item_explainer_parent": "%1$d uitgegeven %2$d aan %3$d deze maand",
   "child_ready_for_card_confirmation_message": "%1$d is ready for their own card!",
   "premium_intro_passcode_title": "Safety first",
   "premium_intro_passcode_desc_for_kid": "Gimi keeps your money safe, from now on you’ll need a passcode to the Gimi app. Keep it secret!",
