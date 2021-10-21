@@ -1,0 +1,14 @@
+# Frontend Team
+@gimi-org/frontend
+
+# Developers with knowledge of Node, React, JavaScript, TypeScript, Flow etc.
+*.json @gimi-org/react-devs
+*.js   @gimi-org/react-devs
+*.ts   @gimi-org/react-devs
+
+# Developers with knowledge of iOS, Objective-C, Swift, Xcode etc.
+*.strings @gimi-org/ios-devs
+
+# Developers with knowledge of Android, Java, Kotlin, Android Studio etc.
+*.xml @gimi-org/android-devs
+
