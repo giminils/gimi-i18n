@@ -392,7 +392,7 @@
   "ADGERE039_notification_title": "Je hebt een suggestie voor een klusje van {child.nickname}",
   "CHGERE037_push_title": "Je hebt een nieuw klusje dat wacht om gedaan te worden!",
   "CHGERE037_notification_title": "{parent.nickname} heeft je suggestie voor een klusje aanvaard!",
-  "CHGERE036_notification_title": "{parent.nickname} heeft je suggestie voor een klusje geweigerd",
+  "CHGERE036_notification_title": "{parent.nickname} heeft je suggestie voor een klusje geweigerd: {tasksuggestion.title}. Een nieuwe voorstellen?",
   "CHGERE036_push_title": "Voorgestelde klusje afgewezen!",
   "CHGEPU038_push_title": "Euh-oh! Update Gimi nu in de App Store!",
   "CHGEPU039_push_title": "Euh-oh! Update Gimi nu in de Play Store!",
