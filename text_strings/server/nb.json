@@ -208,7 +208,7 @@
   "push_deposit_made_to_your_cloud": "Penger har blitt lagt til i sparegrisen!",
   "CHGERE027_push_title": "{parent.nickname} lagt {formatted_amount} i din sparegris",
   "event_upgraded_to_premium": "Det er din lykkedag - du har blitt oppgradert til Superskills Pro!",
-  "push_upgraded_to_premium": "Gimi-kortet er på vei! Se i appen for mer informasjon!",
+  "push_upgraded_to_premium": "Jippi! Du har blitt oppgradert til Superskills Pro!",
   "event_not_paid_card_locked": "Du har ikke betaltl abonnementsavgiften for {child.nickname}, kontoen er blokkert inntil du betaler.",
   "event_influence_use_gimi": "Se hvordan influencere bruker Gimi! ",
   "event_allowance_is_set_for_you": "{parent.nickname} har angitt nivået for uke-/månedspenger",
