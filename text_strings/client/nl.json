@@ -2502,6 +2502,7 @@
   "add_a_bonus_rate": "Een bonustarief toevoegen?",
   "bonus_is_paid_togheter_with_weekly_allowance": "De bonus wordt uitbetaald samen met het wekelijkse zakgeld!",
   "bonus_is_paid_togheter_with_monthly_allowance": "De bonus wordt uitbetaald samen met het maandelijkse zakgeld!",
+  "bonus_added_to_next_allowance_amount": "PLZ_TRANSLATE Added to next %1$d allowance based on current %2$d amount: %3$d",
   "bonus_added_to_next_weekly_allowance_based_on_piggybank_amount": "Toegevoegd aan volgende wekelijks zakgeld gebaseerd op huidige bedrag spaarvarken: %1$d",
   "bonus_added_to_next_monthly_allowance_based_on_piggybank_amount": "Toegevoegd aan volgende maandelijks zakgeld gebaseerd op huidige bedrag spaarvarken: %1$d",
   "bonus_how_is_this_calculated": "Hoe wordt dit berekend?",

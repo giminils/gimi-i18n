@@ -2502,6 +2502,7 @@
   "add_a_bonus_rate": "Add a bonus rate?",
   "bonus_is_paid_togheter_with_weekly_allowance": "The bonus will be paid out together with the weekly allowance!",
   "bonus_is_paid_togheter_with_monthly_allowance": "The bonus will be paid out together with the monthly allowance!",
+  "bonus_added_to_next_allowance_amount": "Added to next %1$d allowance based on current %2$d amount: %3$d",
   "bonus_added_to_next_weekly_allowance_based_on_piggybank_amount": "Added to next weekly allowance based on current piggybank amount: %1$d",
   "bonus_added_to_next_monthly_allowance_based_on_piggybank_amount": "Added to next monthly allowance based on current piggybank amount: %1$d",
   "bonus_how_is_this_calculated": "How is this calculated?",
