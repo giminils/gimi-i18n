@@ -12,8 +12,6 @@
     "lili": "yarn run babelize && node ./utils/dest/lili.js",
     "ida ": "yarn run babelize && node ./utils/dest/ida.js",
     "jenny": "yarn run babelize && node ./utils/dest/jenny.js",
-    "emma": "yarn run babelize && node ./utils/dest/emma.js",
-    "taylor": "yarn run babelize && node ./utils/dest/taylor.js",
     "check": "tsc",
     "postinstall": "node ./postinstall.js"
   },
