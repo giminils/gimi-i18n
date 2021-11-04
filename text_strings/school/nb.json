@@ -3564,6 +3564,7 @@
   "school_rocket_wrong_answer": "Feil svar",
   "school_yes_i_will": "Ja, jeg vil!",
   "school_yes_lets_go": "Ja, la oss gå!",
+  "school_rocket_tutorial_screen_1_title": "PLZ_TRANSLATE Good job on the destinations!\nThe rocket is spick and span and ready for launch.",
   "school_rocket_tutorial_screen_1_subtitle": "For at vi skal kunne reise til neste planet, må vi hente drivstoff!",
   "school_rocket_tutorial_screen_2_title": "Her på stasjonen kan vi få det ved å svare riktig på noen spørsmål om økonomi.",
   "school_rocket_tutorial_screen_2_subtitle": "Kan du hjelpe meg? Du ser ut til å ha noen økonomiske superferdigheter! ",
@@ -3581,5 +3582,5 @@
   "school_story_snippet_1_screen_4_title": "Hvis du lærer av Piggy, skal jeg forberede raketten til reise. Da kan vi gå og hente drivstoff sammen! Avtale?",
   "school_story_snippet_button_next": "Neste",
   "school_snippet_skip": "Hopp over",
-  "school_rocket_intro_title": "Bensinstasjon" 
+  "school_rocket_intro_title": "Bensinstasjon"
 }
