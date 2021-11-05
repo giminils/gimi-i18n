@@ -118,7 +118,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} terminó {assignment.task.title}",
   "event_done_with_chore_child": "Terminó {assignment.task.title}",
   "push_payday_child": "¡Payday! ¡Acabas de obtener tu dinero!",
-  "push_suggest_chore_to_parents": "¿Quieres ganar más dinero? ¡Sugiere una tarea a tus padres!",
+  "push_suggest_chore": "¿Quieres ganar más dinero? ¡Sugiere una tarea a tus padres!",
   "push_x_days_until_payday": "¡Tienes {x} días hasta el día de pago! ¡Gana más dinero y haz algunas de tus tareas!",
   "push_checkout_balance": "¡Revisa tu Piggyhucha y mira si tu dinero está creciendo!",
   "push_have_you_bought_something": "¿Tienes que comprar algo para {child.nickname} hoy? ¡Descuéntalo de la Piggyhucha!",

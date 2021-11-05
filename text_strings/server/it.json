@@ -118,7 +118,7 @@
   "event_done_with_chore_parent": " {assignment.child.nickname} ha finito {assignment.task.title}",
   "event_done_with_chore_child": "Hai finito {assignment.task.title}",
   "push_payday_child": "Giorno di paga! Hai appena ottenuto i tuoi soldi!",
-  "push_suggest_chore_to_parents": "Vuoi guadagnare denaro? Suggerisci una faccenda ai tuoi genitori!",
+  "push_suggest_chore": "Vuoi guadagnare denaro? Suggerisci una faccenda ai tuoi genitori!",
   "push_x_days_until_payday": "Hai {x} giorni al Giorno di paga! Guadagna denaro e fai qualcuna delle tue faccende!",
   "push_checkout_balance": "Controlla il tuo salvadanaio e vedi se i tuoi soldi stanno crescendo!",
   "push_have_you_bought_something": "Hai comprato qualcosa per {child.nickname} oggi? Detrai l'importo dal salvadanaio!",

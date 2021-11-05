@@ -118,7 +118,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} on suorittanut askareen {assignment.task.title}",
   "event_done_with_chore_child": "Olet suorittanut askareen {assignment.task.title}",
   "push_payday_child": "Tilipäivä! Sait juuri rahaa!",
-  "push_suggest_chore_to_parents": "Haluatko ansaita lisää rahaa? Ehdota askaretta vanhemmillesi!",
+  "push_suggest_chore": "Haluatko ansaita lisää rahaa? Ehdota askaretta vanhemmillesi!",
   "push_x_days_until_payday": "Sinulla on {x} päivää tilipäivään! Ansaitse lisää rahaa tekemällä askareita!",
   "push_checkout_balance": "Tsekkaa rahojesi tilanne säästöpossusta!",
   "push_have_you_bought_something": "Oletko ostanut tänään jotain lapselle {child.nickname}? Nosta summa hänen säästöpossustaan!",

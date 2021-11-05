@@ -118,7 +118,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} is klaar met het klusje: {assignment.task.title}",
   "event_done_with_chore_child": "Je bent klaar met {assignment.task.title}",
   "push_payday_child": "Betaaldag! Je hebt geld ontvangen!",
-  "push_suggest_chore_to_parents": "Wil je meer geld verdienen? Stel een klusje voor!",
+  "push_suggest_chore": "Wil je meer geld verdienen? Stel een klusje voor!",
   "push_x_days_until_payday": "{x} dagen tot betaaldag! Voer klusjes uit en verdien meer geld!",
   "push_checkout_balance": "Controleer je spaarvarken en kijk of je geld aangroeit!",
   "push_have_you_bought_something": "Heb je vandaag iets gekocht voor {child.nickname}? Trek het af van het spaarvarken!",

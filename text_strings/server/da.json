@@ -118,7 +118,7 @@
   "event_done_with_chore_parent": "{assignment.child.nickname} er færdig med {assignment.task.title}",
   "event_done_with_chore_child": "Du er færdig med {assignment.task.title}",
   "push_payday_child": "Payday! Du har lige fået dine penge!",
-  "push_suggest_chore_to_parents": "Vil du tjene penge? Foreslå en opgave til dine forældre!",
+  "push_suggest_chore": "Vil du tjene penge? Foreslå en opgave til dine forældre!",
   "push_x_days_until_payday": "Du har {x} dage til Payday! Tjen flere penge og lav nogle af dine opgaver!",
   "push_checkout_balance": "Tjek din sparegris og se om dine penge vokser!",
   "push_have_you_bought_something": "Har du købt noget til {child.nickname} i dag? Lav en fratrækning fra sparegrisen!",

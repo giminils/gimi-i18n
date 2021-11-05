@@ -118,7 +118,7 @@
   "event_done_with_chore_parent": "PLZ_TRANSLATE {assignment.child.nickname} är klar med {assignment.task.title}",
   "event_done_with_chore_child": "PLZ_TRANSLATE Du är klar med {assignment.task.title}",
   "push_payday_child": "PLZ_TRANSLATE Payday! You just got your money!",
-  "push_suggest_chore_to_parents": "PLZ_TRANSLATE Want to earn more money? Suggest a chore to your parents!",
+  "push_suggest_chore": "PLZ_TRANSLATE Want to earn more money? Suggest a chore to your parents!",
   "push_x_days_until_payday": "PLZ_TRANSLATE You've got {x} days until Payday! Earn more money and do some of your chores!",
   "push_checkout_balance": "PLZ_TRANSLATE Check your savings and see if your money is growing!",
   "push_have_you_bought_something": "PLZ_TRANSLATE Have you bought something for {child.nickname} today? Make a deduction from savings!",
