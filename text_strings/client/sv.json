@@ -2735,5 +2735,6 @@
   "adventure_continue_on_planet_x": "Fortsätt på planet %1$d",
   "adventure_lets_go_earn_some_xp": "Dags att tjäna XP",
   "general_sneakers": "PLZ_CHECK Sneakers",
-  "general_helicopter_ride": "PLZ_CHECK Helicopter ride"
+  "general_helicopter_ride": "PLZ_CHECK Helicopter ride",
+  "what_can_you_buy_save_month": "PLZ_CHECK Save for %1$d months and you can buy"
 }
