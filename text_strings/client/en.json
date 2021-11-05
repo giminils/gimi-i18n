@@ -2736,5 +2736,8 @@
   "adventure_lets_go_earn_some_xp": "Let’s go earn some XP",
   "general_sneakers":"Sneakers",
   "general_helicopter_ride":"Helicopter ride",
-  "what_can_you_buy_save_month": "Save for %1$d months and you can buy"
+  "what_can_you_buy_save_month": "Save for %1$d months and you can buy",
+  "general_today" :"Today",
+  "general_days_late": "%1$d days late",
+  "general_day_late": "%1$d day late"
 }

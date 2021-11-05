@@ -2736,5 +2736,8 @@
   "adventure_lets_go_earn_some_xp": "Begynn å tjene XP",
   "general_sneakers": "PLZ_TRANSLATE Sneakers",
   "general_helicopter_ride": "PLZ_TRANSLATE Helicopter ride",
-  "what_can_you_buy_save_month": "PLZ_TRANSLATE Save for %1$d months and you can buy"
+  "what_can_you_buy_save_month": "PLZ_TRANSLATE Save for %1$d months and you can buy",
+  "general_today": "PLZ_TRANSLATE Today",
+  "general_days_late": "PLZ_TRANSLATE %1$d days late",
+  "general_day_late": "PLZ_TRANSLATE %1$d day late"
 }
