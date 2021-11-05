@@ -2733,5 +2733,7 @@
   "continue_on_the_x_chapter": "Fortsätt på %1$d-kapitlet",
   "adventure_start_your_journey": "Starta din resa",
   "adventure_continue_on_planet_x": "Fortsätt på planet %1$d",
-  "adventure_lets_go_earn_some_xp": "Dags att tjäna XP"
+  "adventure_lets_go_earn_some_xp": "Dags att tjäna XP",
+  "general_sneakers": "PLZ_CHECK Sneakers",
+  "general_helicopter_ride": "PLZ_CHECK Helicopter ride"
 }
