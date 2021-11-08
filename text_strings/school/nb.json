@@ -2242,58 +2242,58 @@
   "school_challenge_10_screen_2_button_2_title": "Usant"
   "school_challenge_10_screen_3_boldheader": "Har du råd til å kjøpe den?"
   "school_challenge_10_screen_3_title": "Du har en månedslønn på 1500pb. Hvis du sparer alt i 3 måneder, har du råd til en smarttelefon for 4199pb?",
-  "school_challenge_10_screen_3_button_1_title": "PLZ_TRANSLATE Yes",
-  "school_challenge_10_screen_3_button_2_title": "PLZ_TRANSLATE No",
-  "school_challenge_10_screen_4_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_10_screen_4_title": "PLZ_TRANSLATE Doing chores and getting money from your parents, is earning money.",
-  "school_challenge_10_screen_4_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_10_screen_4_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_10_screen_5_boldheader": "PLZ_TRANSLATE Can you afford to buy it?",
-  "school_challenge_10_screen_5_title": "PLZ_TRANSLATE You have done a lot of chores the last 2 months. You earned 300pb the first month and 275pb the second month. Can you afford\nA game for 250pb",
-  "school_challenge_10_screen_5_button_1_title": "PLZ_TRANSLATE Yes",
-  "school_challenge_10_screen_5_button_2_title": "PLZ_TRANSLATE No",
-  "school_challenge_10_screen_6_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_10_screen_6_title": "PLZ_TRANSLATE Interest paid from a bank for saving long term is also earning money.",
-  "school_challenge_10_screen_6_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_10_screen_6_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_10_screen_7_boldheader": "PLZ_TRANSLATE Can you afford to buy it?",
-  "school_challenge_10_screen_7_title": "PLZ_TRANSLATE You have saved 3000pb in a savings account in the bank. You get 10% interest. Can you afford\nA smartphone for 7000pb",
-  "school_challenge_10_screen_7_button_1_title": "PLZ_TRANSLATE Yes",
-  "school_challenge_10_screen_7_button_2_title": "PLZ_TRANSLATE No",
-  "school_challenge_10_screen_8_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_10_screen_8_title": "PLZ_TRANSLATE Selling something for more than you bought it for is just luck, not earning money.",
-  "school_challenge_10_screen_8_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_10_screen_8_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_10_screen_9_boldheader": "PLZ_TRANSLATE Can you afford to buy it?",
-  "school_challenge_10_screen_9_title": "PLZ_TRANSLATE You have saved 500pb for a basketball. You wait until it's on sale and get it 50pb cheaper. From what is left after you buy the basketball, can you afford\nAn ice cream for 32pb",
-  "school_challenge_10_screen_9_button_1_title": "PLZ_TRANSLATE Yes",
-  "school_challenge_10_screen_9_button_2_title": "PLZ_TRANSLATE No",
-  "school_challenge_10_screen_10_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_10_screen_10_title": "PLZ_TRANSLATE If you don't want to work and earn money, it's just as good to buy lottery tickets and try to win.",
-  "school_challenge_10_screen_10_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_10_screen_10_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_11_screen_1_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_11_screen_1_title": "PLZ_TRANSLATE You can not get a job before you turn 18.",
-  "school_challenge_11_screen_1_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_11_screen_1_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_11_screen_2_boldheader": "PLZ_TRANSLATE Is it Earning money or just Luck?",
-  "school_challenge_11_screen_2_title": "PLZ_TRANSLATE Getting paid 35 000pb/month for working in a factory.",
-  "school_challenge_11_screen_2_button_1_title": "PLZ_TRANSLATE Earning",
-  "school_challenge_11_screen_2_button_2_title": "PLZ_TRANSLATE Luck",
-  "school_challenge_11_screen_3_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_11_screen_3_title": "PLZ_TRANSLATE Jobs can be very different, like providing a service or manufacturing products.",
-  "school_challenge_11_screen_3_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_11_screen_3_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_11_screen_4_boldheader": "PLZ_TRANSLATE Is it Earning money or just Luck?",
-  "school_challenge_11_screen_4_title": "PLZ_TRANSLATE Winning 500 000pb in the lottery.",
-  "school_challenge_11_screen_4_button_1_title": "PLZ_TRANSLATE Earning",
-  "school_challenge_11_screen_4_button_2_title": "PLZ_TRANSLATE Luck",
-  "school_challenge_11_screen_5_boldheader": "PLZ_TRANSLATE True or False?",
-  "school_challenge_11_screen_5_title": "PLZ_TRANSLATE You can get a real job when you turn 13, but there are some rules and restrictions.",
-  "school_challenge_11_screen_5_button_1_title": "PLZ_TRANSLATE True",
-  "school_challenge_11_screen_5_button_2_title": "PLZ_TRANSLATE False",
-  "school_challenge_11_screen_6_boldheader": "PLZ_TRANSLATE Is it Earning money or just Luck?",
-  "school_challenge_11_screen_6_title": "PLZ_TRANSLATE Getting interest from a bank account in long term saving.",
+  "school_challenge_10_screen_3_button_1_title": "Ja",
+  "school_challenge_10_screen_3_button_2_title": "Nei"
+  "school_challenge_10_screen_4_boldheader": "Sant eller usant?"
+  "school_challenge_10_screen_4_title": "Å gjøre husarbeid og få penger fra foreldrene dine, er å tjene penger."
+  "school_challenge_10_screen_4_button_1_title": "Sant"
+  "school_challenge_10_screen_4_button_2_title": "Usant",
+  "school_challenge_10_screen_5_boldheader": "Har du råd til å kjøpe det?",
+  "school_challenge_10_screen_5_title": "Du har gjort mange oppgaver de siste 2 månedene. Du tjente 300pb den første måneden og 275pb den andre måneden. Har du råd til et spill for 250pb?",
+  "school_challenge_10_screen_5_button_1_title": "Ja",
+  "school_challenge_10_screen_5_button_2_title": "Nei"
+  "school_challenge_10_screen_6_boldheader": "Sant eller usant?",
+  "school_challenge_10_screen_6_title": "Renter betalt fra en bank, for langsiktig sparing, er også fortjeneste.",
+  "school_challenge_10_screen_6_button_1_title": "Sant"
+  "school_challenge_10_screen_6_button_2_title": "Usant"
+  "school_challenge_10_screen_7_boldheader": "Har du råd til å kjøpe den?",
+  "school_challenge_10_screen_7_title": "Du har spart 3000pb på en sparekonto i banken. Du får 10 % rente. Har du råd til en smarttelefon for 7000pb?"
+  "school_challenge_10_screen_7_button_1_title": "Ja"
+  "school_challenge_10_screen_7_button_2_title": "Nei",
+  "school_challenge_10_screen_8_boldheader": "Sant eller usant?",
+  "school_challenge_10_screen_8_title": "Å selge noe for mer enn du kjøpte det for er bare flaks, ikke å tjene penger.",
+  "school_challenge_10_screen_8_button_1_title": "Sant"
+  "school_challenge_10_screen_8_button_2_title": "Usant"
+  "school_challenge_10_screen_9_boldheader": "Har du råd til å kjøpe den?"
+  "school_challenge_10_screen_9_title": "Du har spart opp 500pb for en basketball. Du venter til den er på salg og får den 50pb billigere. Av det som er igjen etter at du har kjøpt det, har du råd til en is til 32pb?",
+  "school_challenge_10_screen_9_button_1_title": "Ja"
+  "school_challenge_10_screen_9_button_2_title": "Nei"
+  "school_challenge_10_screen_10_boldheader": "Sant eller usant?"
+  "school_challenge_10_screen_10_title": "Hvis du ikke vil jobbe og tjene penger, er det like greit å kjøpe lodd og prøve å vinne.",
+  "school_challenge_10_screen_10_button_1_title": "Sant"
+  "school_challenge_10_screen_10_button_2_title": "Usant"
+  "school_challenge_11_screen_1_boldheader": "Sant eller usant?"
+  "school_challenge_11_screen_1_title": "Du kan ikke få jobb før du fyller 18 år."
+  "school_challenge_11_screen_1_button_1_title": "Sant",
+  "school_challenge_11_screen_1_button_2_title": "Usant"
+  "school_challenge_11_screen_2_boldheader": "Er det å tjene penger eller er det bare flaks?"
+  "school_challenge_11_screen_2_title": "Å få betalt en månedslønn på 35.000pb for å jobbe på en fabrikk."
+  "school_challenge_11_screen_2_button_1_title": "Tjene penger"
+  "school_challenge_11_screen_2_button_2_title": "Flaks"
+  "school_challenge_11_screen_3_boldheader": "Sant eller usant?"
+  "school_challenge_11_screen_3_title": "Jobber kan være veldig forskjellige, som å tilby en tjeneste eller produsere produkter."
+  "school_challenge_11_screen_3_button_1_title": "Sant"
+  "school_challenge_11_screen_3_button_2_title": "Usant",
+  "school_challenge_11_screen_4_boldheader": "Er det å tjene penger eller er det bare flaks?"
+  "school_challenge_11_screen_4_title": "Å vinne 500.000pb i lotteriet.",
+  "school_challenge_11_screen_4_button_1_title": "Tjene penger"
+  "school_challenge_11_screen_4_button_2_title": "Flaks"
+  "school_challenge_11_screen_5_boldheader": "Sant eller usant?",
+  "school_challenge_11_screen_5_title": "Du kan få en skikkelig jobb når du fyller 13 år, men det er noen regler og begrensninger.",
+  "school_challenge_11_screen_5_button_1_title": "Sant",
+  "school_challenge_11_screen_5_button_2_title": "Usant"
+  "school_challenge_11_screen_6_boldheader": "Er det å tjene penger eller er det bare flaks?"
+  "school_challenge_11_screen_6_title": "Få renter fra en bankkonto i langsiktig sparing.",
   "school_challenge_11_screen_6_button_1_title": "PLZ_TRANSLATE Earning",
   "school_challenge_11_screen_6_button_2_title": "PLZ_TRANSLATE Luck",
   "school_challenge_11_screen_7_boldheader": "PLZ_TRANSLATE True or False?",
