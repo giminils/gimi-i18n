@@ -2381,45 +2381,45 @@
   "school_challenge_13_screen_1_button_5_title": "Et eple i butikken",
   "school_challenge_13_screen_1_button_6_title": "En fotball i buskene",
   "school_challenge_13_screen_2_boldheader": "Velg alle rutene med:",
-  "school_challenge_13_screen_2_title": "PLZ_TRANSLATE Mark all the squares that contain addition!",
-  "school_challenge_13_screen_2_button_1_title": "PLZ_TRANSLATE 800-2",
-  "school_challenge_13_screen_2_button_2_title": "PLZ_TRANSLATE 1050+723",
-  "school_challenge_13_screen_2_button_3_title": "PLZ_TRANSLATE 99-9",
-  "school_challenge_13_screen_2_button_4_title": "PLZ_TRANSLATE 5+2",
-  "school_challenge_13_screen_3_boldheader": "PLZ_TRANSLATE Choose the right answer",
-  "school_challenge_13_screen_3_title": "PLZ_TRANSLATE Mark the square with the product you can afford if you save 3pb for 4 months. 3x4=?",
-  "school_challenge_13_screen_3_button_1_title": "PLZ_TRANSLATE 17pb",
-  "school_challenge_13_screen_3_button_2_title": "PLZ_TRANSLATE 25pb",
-  "school_challenge_13_screen_3_button_3_title": "PLZ_TRANSLATE 10pb",
-  "school_challenge_13_screen_3_button_4_title": "PLZ_TRANSLATE 15pb",
-  "school_challenge_13_screen_4_boldheader": "PLZ_TRANSLATE Choose all squares that contain:",
-  "school_challenge_13_screen_4_title": "PLZ_TRANSLATE what you <bold>can't</bold> afford after spending 10pb, if you had 20pb to start with:",
-  "school_challenge_13_screen_4_button_1_title": "PLZ_TRANSLATE 99pb",
-  "school_challenge_13_screen_4_button_2_title": "PLZ_TRANSLATE 5pb",
-  "school_challenge_13_screen_4_button_3_title": "PLZ_TRANSLATE 11pb",
-  "school_challenge_13_screen_4_button_4_title": "PLZ_TRANSLATE 15pb",
-  "school_challenge_13_screen_5_boldheader": "PLZ_TRANSLATE Choose all squares that contain:",
-  "school_challenge_13_screen_5_title": "PLZ_TRANSLATE what you <bold>can't</bold> afford after spending 150pb, if you had 600pb to start with:.",
-  "school_challenge_13_screen_5_button_1_title": "PLZ_TRANSLATE 200pb",
-  "school_challenge_13_screen_5_button_2_title": "PLZ_TRANSLATE 500pb",
-  "school_challenge_13_screen_5_button_3_title": "PLZ_TRANSLATE 600pb",
-  "school_challenge_13_screen_5_button_4_title": "PLZ_TRANSLATE 750pb",
-  "school_challenge_13_screen_6_boldheader": "PLZ_TRANSLATE Choose all squares that contain:",
-  "school_challenge_13_screen_6_title": "PLZ_TRANSLATE Mark all the squares with services!",
-  "school_challenge_13_screen_6_button_1_title": "PLZ_TRANSLATE Video streaming subscription",
-  "school_challenge_13_screen_6_button_2_title": "PLZ_TRANSLATE Have your bike repaired",
-  "school_challenge_13_screen_6_button_3_title": "PLZ_TRANSLATE A flower in the feild",
-  "school_challenge_13_screen_6_button_4_title": "PLZ_TRANSLATE Music streaming subscription",
-  "school_challenge_13_screen_6_button_5_title": "PLZ_TRANSLATE An apple i the grocery store",
-  "school_challenge_13_screen_6_button_6_title": "PLZ_TRANSLATE Fix a broken screen on the phone",
-  "school_challenge_13_screen_7_boldheader": "PLZ_TRANSLATE Choose all squares that contain:",
-  "school_challenge_13_screen_7_title": "PLZ_TRANSLATE Mark all the squares that contain subtraction!",
-  "school_challenge_13_screen_7_button_1_title": "PLZ_TRANSLATE 8-2",
-  "school_challenge_13_screen_7_button_2_title": "PLZ_TRANSLATE 100+52",
-  "school_challenge_13_screen_7_button_3_title": "PLZ_TRANSLATE 800-1",
-  "school_challenge_13_screen_7_button_4_title": "PLZ_TRANSLATE 10-0",
-  "school_challenge_13_screen_8_boldheader": "PLZ_TRANSLATE Choose all squares that contain:",
-  "school_challenge_13_screen_8_title": "PLZ_TRANSLATE services you <bold>can</bold> afford if you save 100pb for 2 months.",
+  "school_challenge_13_screen_2_title": "Velg alle rutene som inneholder addisjon!"
+  "school_challenge_13_screen_2_button_1_title": "800-2",
+  "school_challenge_13_screen_2_button_2_title": "1050+723",
+  "school_challenge_13_screen_2_button_3_title": "99-9",
+  "school_challenge_13_screen_2_button_4_title": "5+2"
+  "school_challenge_13_screen_3_boldheader": "Velg det riktige svaret",
+  "school_challenge_13_screen_3_title": "Hvilket produkt har du råd til hvis du sparer 3pb i 4 måneder?",
+  "school_challenge_13_screen_3_button_1_title": "17pb",
+  "school_challenge_13_screen_3_button_2_title": "25pb",
+  "school_challenge_13_screen_3_button_3_title": "10pb",
+  "school_challenge_13_screen_3_button_4_title": "15pb",
+  "school_challenge_13_screen_4_boldheader": "Velg alle rutene med:",
+  "school_challenge_13_screen_4_title": "det du <bold>ikke</bold> har råd til etter å ha brukt 10pb, hvis du hadde 20pb til å begynne med:"
+  "school_challenge_13_screen_4_button_1_title": "99pb",
+  "school_challenge_13_screen_4_button_2_title": "5pb",
+  "school_challenge_13_screen_4_button_3_title": "11pb",
+  "school_challenge_13_screen_4_button_4_title": "15pb",
+  "school_challenge_13_screen_5_boldheader": "Velg alle rutene med:",
+  "school_challenge_13_screen_5_title": "det du <bold>ikke</bold> har råd til etter å ha brukt 150pb, hvis du hadde 600pb til å begynne med:.",
+  "school_challenge_13_screen_5_button_1_title": "200pb"
+  "school_challenge_13_screen_5_button_2_title": "500pb"
+  "school_challenge_13_screen_5_button_3_title": "600pb"
+  "school_challenge_13_screen_5_button_4_title": "750pb"
+  "school_challenge_13_screen_6_boldheader": "Velg alle rutene med:",
+  "school_challenge_13_screen_6_title": "tjenester"
+  "school_challenge_13_screen_6_button_1_title": "Abonnement på strømmetjeneste"
+  "school_challenge_13_screen_6_button_2_title": "Å få sykkelen reparert"
+  "school_challenge_13_screen_6_button_3_title": "En blomst i engen"
+  "school_challenge_13_screen_6_button_4_title": "Abonnement på musikkstrømmetjeneste"
+  "school_challenge_13_screen_6_button_5_title": "Et eple i butikken"
+  "school_challenge_13_screen_6_button_6_title": "Å fikse en ødelagt skjerm på en telefon",
+  "school_challenge_13_screen_7_boldheader": "Velg alle rutene med:"
+  "school_challenge_13_screen_7_title": "subtrakjson"
+  "school_challenge_13_screen_7_button_1_title": "8-2"
+  "school_challenge_13_screen_7_button_2_title": "100+52"
+  "school_challenge_13_screen_7_button_3_title": "800-1"
+  "school_challenge_13_screen_7_button_4_title": "10-0"
+  "school_challenge_13_screen_8_boldheader": "Velg alle rutene med:"
+  "school_challenge_13_screen_8_title": "Tjenester du <bold>har</bold> råd til hvis du sparer 100pb i 2 måneder.",
   "school_challenge_13_screen_8_button_1_title": "PLZ_TRANSLATE 99pb",
   "school_challenge_13_screen_8_button_2_title": "PLZ_TRANSLATE 900pb",
   "school_challenge_13_screen_8_button_3_title": "PLZ_TRANSLATE 109pb",
