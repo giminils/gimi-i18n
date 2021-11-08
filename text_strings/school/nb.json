@@ -2124,53 +2124,53 @@
   "school_challenge_6_screen_8_button_2_title": "100pb",
   "school_challenge_6_screen_8_button_3_title": "120pb",
   "school_challenge_6_screen_8_button_4_title": "95pb",
-  "school_challenge_6_screen_9_boldheader": "Choose the squares with:",
-  "school_challenge_6_screen_9_title": "the cheapest <bold>and</bold> the most expensive apple!",
-  "school_challenge_6_screen_9_button_1_title": "6pb",
+  "school_challenge_6_screen_9_boldheader": "Velg rutene med:",
+  "school_challenge_6_screen_9_title": "det billigste <bold>og</bold> det dyreste eplet!",
+  "school_challenge_6_screen_9_button_1_title": "6pb"
   "school_challenge_6_screen_9_button_2_title": "10pb",
-  "school_challenge_6_screen_9_button_3_title": "15pb",
-  "school_challenge_6_screen_9_button_4_title": "3pb",
-  "school_challenge_6_screen_9_button_5_title": "18pb",
-  "school_challenge_6_screen_9_button_6_title": "11pb",
-  "school_challenge_6_screen_10_boldheader": "Choose the squares with:",
-  "school_challenge_6_screen_10_title": "the cheapest <bold>and</bold> the most expensive smartphone!",
-  "school_challenge_6_screen_10_button_1_title": "6000pb",
-  "school_challenge_6_screen_10_button_2_title": "5680pb",
-  "school_challenge_6_screen_10_button_3_title": "10090pb",
-  "school_challenge_6_screen_10_button_4_title": "7800pb",
-  "school_challenge_6_screen_10_button_5_title": "4500pb",
-  "school_challenge_6_screen_10_button_6_title": "8349pb",
-  "school_challenge_7_screen_1_boldheader": "Is it a real currency\n or not?",
-  "school_challenge_7_screen_1_title": "Dollar",
-  "school_challenge_7_screen_1_button_1_title": "Real currency",
-  "school_challenge_7_screen_1_button_2_title": "Not a currency",
-  "school_challenge_7_screen_2_boldheader": "True or false?",
-  "school_challenge_7_screen_2_title": "Every country in the world has it's own unique currency.",
-  "school_challenge_7_screen_2_button_1_title": "True",
-  "school_challenge_7_screen_2_button_2_title": "False",
-  "school_challenge_7_screen_3_boldheader": "True or false?",
-  "school_challenge_7_screen_3_title": "The worth of gold and silver coins was decided by their weight.",
-  "school_challenge_7_screen_3_button_1_title": "True",
-  "school_challenge_7_screen_3_button_2_title": "False",
-  "school_challenge_7_screen_4_boldheader": "Is it a real currency\n or not?",
+  "school_challenge_6_screen_9_button_3_title": "15pb"
+  "school_challenge_6_screen_9_button_4_title": "3pb"
+  "school_challenge_6_screen_9_button_5_title": "18pb"
+  "school_challenge_6_screen_9_button_6_title": "11pb"
+  "school_challenge_6_screen_10_boldheader": "Velg rutene med:",
+  "school_challenge_6_screen_10_title": "den billigste <bold>og</bold> den dyreste smarttelefonen!",
+  "school_challenge_6_screen_10_button_1_title": "6000pb"
+  "school_challenge_6_screen_10_button_2_title": "5680pb"
+  "school_challenge_6_screen_10_button_3_title": "10090pb"
+  "school_challenge_6_screen_10_button_4_title": "7800pb
+  "school_challenge_6_screen_10_button_5_title": "4500pb
+  "school_challenge_6_screen_10_button_6_title": "8349pb"
+  "school_challenge_7_screen_1_boldheader": "Er dette en ekte valuta eller ikke?",
+  "school_challenge_7_screen_1_title": "Dollar
+  "school_challenge_7_screen_1_button_1_title": "Ekte",
+  "school_challenge_7_screen_1_button_2_title": "Ikke ekte",
+  "school_challenge_7_screen_2_boldheader": "Sant eller usant?",
+  "school_challenge_7_screen_2_title": "Hvert land i verden har sin egen unike valuta."
+  "school_challenge_7_screen_2_button_1_title": "Sant",
+  "school_challenge_7_screen_2_button_2_title": "Usant"
+  "school_challenge_7_screen_3_boldheader": "Sant eller usant?"
+  "school_challenge_7_screen_3_title": "Verdien av gull- og sølvmynter er bestemt av vekten.",
+  "school_challenge_7_screen_3_button_1_title": "Sant",
+  "school_challenge_7_screen_3_button_2_title": "Usant"
+  "school_challenge_7_screen_4_boldheader": "Er dette en ekte valuta eller ikke?",
   "school_challenge_7_screen_4_title": "Jilni",
-  "school_challenge_7_screen_4_button_1_title": "Real currency",
-  "school_challenge_7_screen_4_button_2_title": "Not a currency",
-  "school_challenge_7_screen_5_boldheader": "True or false?",
-  "school_challenge_7_screen_5_title": "At some point the governments took control of money and decided their looks and worth.",
-  "school_challenge_7_screen_5_button_1_title": "True",
-  "school_challenge_7_screen_5_button_2_title": "False",
-  "school_challenge_7_screen_6_boldheader": "True or false?",
-  "school_challenge_7_screen_6_title": "Money has always looked the same all over the world.",
-  "school_challenge_7_screen_6_button_1_title": "True",
-  "school_challenge_7_screen_6_button_2_title": "False",
-  "school_challenge_7_screen_7_boldheader": "Is it a real currency\n or not?",
+  "school_challenge_7_screen_4_button_1_title": "Ekte",
+  "school_challenge_7_screen_4_button_2_title": "Ikke ekte",
+  "school_challenge_7_screen_5_boldheader": "Sant eller usant?",
+  "school_challenge_7_screen_5_title": "På et tidspunkt tok myndighetene kontroll over penger og bestemte utseende og verdi.",
+  "school_challenge_7_screen_5_button_1_title": "Sant",
+  "school_challenge_7_screen_5_button_2_title": "Usant",
+  "school_challenge_7_screen_6_boldheader": "Sant eller usant?",
+  "school_challenge_7_screen_6_title": "Penger har alltid sett like ut over hele verden."
+  "school_challenge_7_screen_6_button_1_title": "Sant",
+  "school_challenge_7_screen_6_button_2_title": "Usant",
+  "school_challenge_7_screen_7_boldheader": "Er dette en ekte valuta?",
   "school_challenge_7_screen_7_title": "Klonor",
-  "school_challenge_7_screen_7_button_1_title": "Real currency",
-  "school_challenge_7_screen_7_button_2_title": "Not a currency",
-  "school_challenge_7_screen_8_boldheader": "True or false?",
-  "school_challenge_7_screen_8_title": "Banks are now making the money we use in currency factories. They are called berries.",
-  "school_challenge_7_screen_8_button_1_title": "True",
+  "school_challenge_7_screen_7_button_1_title": "Ekte"
+  "school_challenge_7_screen_7_button_2_title": "Ikke ekt
+  "school_challenge_7_screen_8_boldheader": "Sant eller usant?",
+  "school_challenge_7_screen_8_title": "Bankene tjener nå pengene vi bruker i fabrikker. De kalles bær.",
+  "school_challenge_7_screen_8_button_1_title": "Sant",
   "school_challenge_7_screen_8_button_2_title": "False",
   "school_challenge_7_screen_9_boldheader": "True or false?",
   "school_challenge_7_screen_9_title": "Currency is another way of saying that you owe someone money.",
