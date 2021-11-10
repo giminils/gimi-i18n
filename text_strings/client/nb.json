@@ -2737,5 +2737,6 @@
   "what_can_you_buy_save_month": "Spar i %1$d måneder så kan du kjøpe",
   "general_today": "I dag",
   "general_days_late": "%1$d dager sent",
-  "general_day_late": "%1$d dag sen"
+  "general_day_late": "%1$d dag sen",
+  "temp_server_issues_error": "PLZ_TRANSLATE Sorry, we're having some temprary server issues... Check back later!"
 }

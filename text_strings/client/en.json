@@ -2737,5 +2737,6 @@
   "what_can_you_buy_save_month": "Save for %1$d months and you can buy",
   "general_today" :"Today",
   "general_days_late": "%1$d days late",
-  "general_day_late": "%1$d day late"
+  "general_day_late": "%1$d day late",
+  "temp_server_issues_error":"Sorry, we're having some temprary server issues... Check back later!"
 }

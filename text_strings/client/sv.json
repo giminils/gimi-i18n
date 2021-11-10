@@ -2737,5 +2737,6 @@
   "what_can_you_buy_save_month": "Spara i %1$d månader så kan du köpa",
   "general_today": "Idag",
   "general_days_late": "%1$d dagar sen",
-  "general_day_late": "%1$d dag sen"
+  "general_day_late": "%1$d dag sen",
+  "temp_server_issues_error": "PLZ_CHECK Sorry, we're having some temprary server issues... Check back later!"
 }
