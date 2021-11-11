@@ -2738,7 +2738,7 @@
   "general_today": "I dag",
   "general_days_late": "%1$d dager sent",
   "general_day_late": "%1$d dag sen",
-  "temp_server_issues_error": "PLZ_TRANSLATE Sorry, we're having some temprary server issues... Check back later!"
+  "temp_server_issues_error": "PLZ_TRANSLATE Sorry, we're having some temprary server issues... Check back later!",
   "kid_connection_status_not_connected": "PLZ_TRANSLATE Not connected",
   "kid_connection_status_invite_pending": "PLZ_TRANSLATE Invite pending",
   "kid_invite_add_phone_number_for": "PLZ_TRANSLATE Add phone number for %1$d",
