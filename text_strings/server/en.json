@@ -500,7 +500,7 @@
   "ADGEPU016_notification_title": "{child.nickname} completed the card test, check out the score!",
   "ADGEPU016_push_title": "{child.nickname} completed the card test, check out the score!",
   "ADGEPU017_notification_title": "{child.nickname} failed the card test. Better practice before getting a bank card!",
-  "ADGEPU017_push_title": "{child.nickname} failed the card test. Better practice before getting a card",
+  "ADGEPU017_push_title": "{child.nickname} failed the card test. Better practice before getting a bank card!",
   "ADGEON007_notification_title": "Still no child connected. Send another invite?",
   "ADGERE004_push_title": "{child.nickname} is done with {chore.title}. Will be auto approved in 24h",
   "ADGERE042_notification_title": "You got a request from {child.nickname}!",
