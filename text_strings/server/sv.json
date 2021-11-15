@@ -499,7 +499,7 @@
   "CHGEON032_push_title": "Testa dina spenderarskills med Gimis test",
   "ADGEPU016_notification_title": "{child.nickname} har gjort korttestet, spana in resultatet!",
   "ADGEPU016_push_title": "{child.nickname} har gjort korttestet, spana in resultatet!",
-  "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet!",
+  "ADGEPU017_notification_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar ett bankkort!",
   "ADGEPU017_push_title": "{child.nickname} klarade inte korttestet. Bäst att öva innan ni skaffar kortet!",
   "ADGEON007_notification_title": "Fortfarande inget barn ihopkopplat. Skicka en ny inbjudan?",
   "ADGERE004_push_title": "{child.nickname} är klar med {chore.title}. Den kommer att godkännas inom 24h",
