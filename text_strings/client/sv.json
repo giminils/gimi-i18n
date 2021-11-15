@@ -2738,10 +2738,10 @@
   "general_today": "Idag",
   "general_days_late": "%1$d dagar sen",
   "general_day_late": "%1$d dag sen",
-  "temp_server_issues_error": "PLZ_CHECK Sorry, we're having some temprary server issues... Check back later!",
-  "kid_connection_status_not_connected": "PLZ_CHECK Not connected",
-  "kid_connection_status_invite_pending": "PLZ_CHECK Invite pending",
-  "kid_invite_add_phone_number_for": "PLZ_CHECK Add phone number for %1$d",
-  "kid_invite_add_email_for": "PLZ_CHECK Add email for %1$d",
-  "kid_invite_add_email_instead": "PLZ_CHECK Add email instead"
+  "temp_server_issues_error": "Oops! Vi har tillfälliga serverproblem... Kom tillbaka senare!",
+  "kid_connection_status_not_connected": "Ej inbjuden",
+  "kid_connection_status_invite_pending": "Väntar",
+  "kid_invite_add_phone_number_for": "Lägg till telefonnummer åt %1$d",
+  "kid_invite_add_email_for": "Lägg till mail åt %1$d",
+  "kid_invite_add_email_instead": "Använd email"
 }
