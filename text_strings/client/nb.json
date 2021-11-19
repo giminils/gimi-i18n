@@ -838,7 +838,7 @@
   "your_interest": "Din bonus: %1$d%",
   "your_savings": "Dine besparelser: %1$d",
   "interest_colon": "Bonus: %1$d",
-  "phone_login_button": "Logg inn med nummer",
+  "phone_login_button": "PLZ_TRANSLATE Use phone number",
   "add_goal_image_title": "Legg til et bilde av målet ditt!",
   "kid_complete_chore": "Send for godkjenning",
   "dream_achieved_desc_new": "Du har spart %1$d til %2$d",
