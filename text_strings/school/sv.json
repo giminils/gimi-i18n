@@ -3473,5 +3473,7 @@
   "school_snippet_skip": "Hoppa över",
   "school_rocket_intro_title": "Bränslestationen",
   "school_story_x": "PLZ_CHECK Story %1$d",
-  "school_challenge_x": "PLZ_CHECK Challenge %1$d"
+  "school_challenge_x": "PLZ_CHECK Challenge %1$d",
+  "school_feedback_wrong": "PLZ_CHECK Wrong!",
+  "school_feedback_correct": "PLZ_CHECK Correct!"
 }

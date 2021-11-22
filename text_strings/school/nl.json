@@ -3473,5 +3473,7 @@
   "school_snippet_skip": "Sla over",
   "school_rocket_intro_title": "Fuel station",
   "school_story_x": "PLZ_TRANSLATE Story %1$d",
-  "school_challenge_x": "PLZ_TRANSLATE Challenge %1$d"
+  "school_challenge_x": "PLZ_TRANSLATE Challenge %1$d",
+  "school_feedback_wrong": "PLZ_TRANSLATE Wrong!",
+  "school_feedback_correct": "PLZ_TRANSLATE Correct!"
 }

@@ -3473,5 +3473,7 @@
   "school_snippet_skip": "Skip",
   "school_rocket_intro_title": "Fuel station",
   "school_story_x": "Story %1$d",
-  "school_challenge_x": "Challenge %1$d"
+  "school_challenge_x": "Challenge %1$d",
+  "school_feedback_wrong": "Wrong!",
+  "school_feedback_correct": "Correct!"
 }
