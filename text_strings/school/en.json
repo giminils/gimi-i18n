@@ -3477,5 +3477,6 @@
   "school_feedback_wrong": "Wrong!",
   "school_feedback_correct": "Correct!",
   "school_feedback_correct_answer_list_title": "Correct answer:",
-  "school_feedback_good_job": "Good job."
+  "school_feedback_good_job": "Good job.",
+  "school_feedback_double_check_answer": "Double check your answer next time."
 }

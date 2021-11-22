@@ -3477,5 +3477,6 @@
   "school_feedback_wrong": "PLZ_TRANSLATE Wrong!",
   "school_feedback_correct": "PLZ_TRANSLATE Correct!",
   "school_feedback_correct_answer_list_title": "PLZ_TRANSLATE Correct answer:",
-  "school_feedback_good_job": "PLZ_TRANSLATE Good job."
+  "school_feedback_good_job": "PLZ_TRANSLATE Good job.",
+  "school_feedback_double_check_answer": "PLZ_TRANSLATE Double check your answer next time."
 }
