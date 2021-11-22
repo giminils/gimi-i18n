@@ -3475,5 +3475,7 @@
   "school_story_x": "Story %1$d",
   "school_challenge_x": "Challenge %1$d",
   "school_feedback_wrong": "Wrong!",
-  "school_feedback_correct": "Correct!"
+  "school_feedback_correct": "Correct!",
+  "school_feedback_correct_answer_list_title": "Correct answer:",
+  "school_feedback_good_job": "Good job."
 }

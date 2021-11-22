@@ -3475,5 +3475,7 @@
   "school_story_x": "PLZ_CHECK Story %1$d",
   "school_challenge_x": "PLZ_CHECK Challenge %1$d",
   "school_feedback_wrong": "PLZ_CHECK Wrong!",
-  "school_feedback_correct": "PLZ_CHECK Correct!"
+  "school_feedback_correct": "PLZ_CHECK Correct!",
+  "school_feedback_correct_answer_list_title": "PLZ_CHECK Correct answer:",
+  "school_feedback_good_job": "PLZ_CHECK Good job."
 }
