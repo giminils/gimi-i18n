@@ -2742,7 +2742,7 @@
   "temp_server_issues_error": "Sorry, we're having some temprary server issues... Check back later!",
   "kid_connection_status_not_connected": "Not connected",
   "kid_connection_status_invite_pending": "Invite pending",
-  "kid_invite_add_phone_number_for": "Add phone number for %1$d",
-  "kid_invite_add_email_for": "Add email for %1$d",
+  "kid_invite_add_phone_number_for": "PLZ_COPY Invite %1$d through phone number",
+  "kid_invite_add_email_for": "PLZ_COPY Invite %1$d through email",
   "kid_invite_add_email_instead": "Add email instead"
 }
