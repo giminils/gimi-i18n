@@ -2590,7 +2590,7 @@
   "parent_kid_phone_signup_they_have_email": "De har en e-post",
   "parent_add_kid_no_phone_or_email": "Ingen telefonnummer eller e-postadresse",
   "parent_add_kid_title": "La oss opprette en konto for barnet ditt!",
-  "parent_add_kid_subtitle": "Kontoen blir automatisk koblet til deg, og barnet ditt kan logge på det senere på sin egen enhet hvis de vil!",
+  "parent_add_kid_subtitle": "Barnet kan logge inn på egen telefon/tablet senere",
   "parent_kid_already_have_account": "Barnet mitt har allerede en konto",
   "cant_buy_sub_tink_kid_title": "Kan ikke kjøpe abonnement...",
   "cant_buy_sub_tink_kid_desc": "...for et barn som er koblet til bankkonto.",
