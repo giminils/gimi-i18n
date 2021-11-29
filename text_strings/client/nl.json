@@ -2591,6 +2591,13 @@
   "parent_add_kid_no_phone_or_email": "Geen telefoonnummer of e-mail",
   "parent_add_kid_title": "Laten we een account voor je kind aanmaken!",
   "parent_add_kid_subtitle": "De account wordt automatisch met jou verbonden en je kind kan er later op zijn/haar eigen toestel op inloggen als hij/zij dat wil!",
+  "parent_add_kid_invite_title": "PLZ_TRANSLATE What Ellen can do on the child account:",
+  "parent_add_kid_invite_item_1": "PLZ_TRANSLATE Create a goal",
+  "parent_add_kid_invite_item_2": "PLZ_TRANSLATE Chores",
+  "parent_add_kid_invite_item_3": "PLZ_TRANSLATE Evaluate transactions",
+  "parent_add_kid_invite_item_4": "PLZ_TRANSLATE And much more!",
+  "parent_add_kid_invite_later": "PLZ_TRANSLATE I’ll invite later",
+  "parent_add_kid_invite_to_join": "PLZ_TRANSLATE Invite to join Gimi",
   "parent_kid_already_have_account": "Mijn kind heeft al een account",
   "cant_buy_sub_tink_kid_title": "Can't buy subscription...",
   "cant_buy_sub_tink_kid_desc": "...for a child connected to bank account.",
@@ -2744,5 +2751,6 @@
   "kid_connection_status_invite_pending": "PLZ_TRANSLATE Invite pending",
   "kid_invite_add_phone_number_for": "PLZ_TRANSLATE Add phone number for %1$d",
   "kid_invite_add_email_for": "PLZ_TRANSLATE Add email for %1$d",
-  "kid_invite_add_email_instead": "PLZ_TRANSLATE Add email instead"
+  "kid_invite_add_email_instead": "PLZ_TRANSLATE Add email instead",
+  "invite_could_not_be_sent_error": "PLZ_TRANSLATE Could not send invitation to the child. Please check that the phone number or email is correct."
 }

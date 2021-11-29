@@ -2591,6 +2591,13 @@
   "parent_add_kid_no_phone_or_email": "Varken telefonnummer eller mail",
   "parent_add_kid_title": "Skapa ett konto till ditt barn",
   "parent_add_kid_subtitle": "Ditt barn kan logga in på sin egen telefon/surfplatta senare.",
+  "parent_add_kid_invite_title": "PLZ_CHECK What Ellen can do on the child account:",
+  "parent_add_kid_invite_item_1": "PLZ_CHECK Create a goal",
+  "parent_add_kid_invite_item_2": "PLZ_CHECK Chores",
+  "parent_add_kid_invite_item_3": "PLZ_CHECK Evaluate transactions",
+  "parent_add_kid_invite_item_4": "PLZ_CHECK And much more!",
+  "parent_add_kid_invite_later": "PLZ_CHECK I’ll invite later",
+  "parent_add_kid_invite_to_join": "PLZ_CHECK Invite to join Gimi",
   "parent_kid_already_have_account": "Mitt barn har redan ett Gimi-konto",
   "cant_buy_sub_tink_kid_title": "Radera bankkontot först!",
   "cant_buy_sub_tink_kid_desc": "Du kan dessvärre inte prenumerera på Gimi Master om ditt barn har ett bankkonto anslutet.",
@@ -2744,5 +2751,6 @@
   "kid_connection_status_invite_pending": "Väntar",
   "kid_invite_add_phone_number_for": "Lägg till telefonnummer åt %1$d",
   "kid_invite_add_email_for": "Lägg till mail åt %1$d",
-  "kid_invite_add_email_instead": "Använd email"
+  "kid_invite_add_email_instead": "Använd email",
+  "invite_could_not_be_sent_error": "PLZ_CHECK Could not send invitation to the child. Please check that the phone number or email is correct."
 }

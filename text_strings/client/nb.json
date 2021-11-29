@@ -2591,6 +2591,13 @@
   "parent_add_kid_no_phone_or_email": "Ingen telefonnummer eller e-postadresse",
   "parent_add_kid_title": "La oss opprette en konto for barnet ditt!",
   "parent_add_kid_subtitle": "Barnet kan logge inn på egen telefon/tablet senere",
+  "parent_add_kid_invite_title": "PLZ_TRANSLATE What Ellen can do on the child account:",
+  "parent_add_kid_invite_item_1": "PLZ_TRANSLATE Create a goal",
+  "parent_add_kid_invite_item_2": "PLZ_TRANSLATE Chores",
+  "parent_add_kid_invite_item_3": "PLZ_TRANSLATE Evaluate transactions",
+  "parent_add_kid_invite_item_4": "PLZ_TRANSLATE And much more!",
+  "parent_add_kid_invite_later": "PLZ_TRANSLATE I’ll invite later",
+  "parent_add_kid_invite_to_join": "PLZ_TRANSLATE Invite to join Gimi",
   "parent_kid_already_have_account": "Barnet mitt har allerede en konto",
   "cant_buy_sub_tink_kid_title": "Kan ikke kjøpe abonnement...",
   "cant_buy_sub_tink_kid_desc": "...for et barn som er koblet til bankkonto.",
@@ -2744,5 +2751,6 @@
   "kid_connection_status_invite_pending": "Venter",
   "kid_invite_add_phone_number_for": "Legg til telefonnummer til %1$d",
   "kid_invite_add_email_for": "Legg til e-post til %1$d",
-  "kid_invite_add_email_instead": "Bruk e-post i stedet"
+  "kid_invite_add_email_instead": "Bruk e-post i stedet",
+  "invite_could_not_be_sent_error": "PLZ_TRANSLATE Could not send invitation to the child. Please check that the phone number or email is correct."
 }
