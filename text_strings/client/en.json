@@ -2746,7 +2746,7 @@
   "general_today": "Today",
   "general_days_late": "%1$d days late",
   "general_day_late": "%1$d day late",
-  "temp_server_issues_error": "Sorry, we're having some temprary server issues... Check back later!",
+  "temp_server_issues_error": "Sorry, we're having some temporary server issues... Check back later!",
   "kid_connection_status_not_connected": "Not connected",
   "kid_connection_status_invite_pending": "Invite pending",
   "kid_invite_add_phone_number_for": "PLZ_COPY Invite %1$d through phone number",
