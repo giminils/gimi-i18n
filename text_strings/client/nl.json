@@ -2744,5 +2744,5 @@
   "kid_connection_status_invite_pending": "PLZ_TRANSLATE Invite pending",
   "kid_invite_add_phone_number_for": "Voeg telefoonnummer toe voor %1$d",
   "kid_invite_add_email_for": "Voeg email toe voor %1$d",
-  "kid_invite_add_email_instead": "PLZ_TRANSLATE Add email instead"
+  "kid_invite_add_email_instead": "Voeg email toe in plaats van"
 }
