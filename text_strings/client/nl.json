@@ -2752,5 +2752,5 @@
   "kid_invite_add_phone_number_for": "Voeg telefoonnummer toe voor %1$d",
   "kid_invite_add_email_for": "Voeg email toe voor %1$d",
   "kid_invite_add_email_instead": "Voeg email toe in plaats van",
-  "invite_could_not_be_sent_error": "PLZ_TRANSLATE Could not send invitation to the child. Please check that the phone number or email is correct."
+  "invite_could_not_be_sent_error": "Niet mogelijk om de uitnodiging aan het kind te versturen. Controleer of het e-mailadres of telefoonnummer klopt."
 }
