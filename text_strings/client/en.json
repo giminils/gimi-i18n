@@ -2591,7 +2591,7 @@
   "parent_add_kid_no_phone_or_email": "No phone number or email",
   "parent_add_kid_title": "Let's create an account for your child!",
   "parent_add_kid_subtitle": "Your child can login to it later on their own device.",
-  "parent_add_kid_invite_title": "What Ellen can do on the child account:",
+  "parent_add_kid_invite_title": "What %1$d can do on the child account:",
   "parent_add_kid_invite_item_1": "Create a goal",
   "parent_add_kid_invite_item_2": "Chores",
   "parent_add_kid_invite_item_3": "Evaluate transactions",
@@ -2749,8 +2749,8 @@
   "temp_server_issues_error": "Sorry, we're having some temporary server issues... Check back later!",
   "kid_connection_status_not_connected": "Not connected",
   "kid_connection_status_invite_pending": "Invite pending",
-  "kid_invite_add_phone_number_for": "PLZ_COPY Invite %1$d through phone number",
-  "kid_invite_add_email_for": "PLZ_COPY Invite %1$d through email",
+  "kid_invite_add_phone_number_for": "Invite %1$d through phone number",
+  "kid_invite_add_email_for": "Invite %1$d through email",
   "kid_invite_add_email_instead": "Add email instead",
   "invite_could_not_be_sent_error": "Could not send invitation to the child. Please check that the phone number or email is correct."
 }

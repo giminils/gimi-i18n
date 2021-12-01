@@ -2591,7 +2591,7 @@
   "parent_add_kid_no_phone_or_email": "Geen telefoonnummer of e-mail",
   "parent_add_kid_title": "Laten we een account voor je kind aanmaken!",
   "parent_add_kid_subtitle": "De account wordt automatisch met jou verbonden en je kind kan er later op zijn/haar eigen toestel op inloggen als hij/zij dat wil!",
-  "parent_add_kid_invite_title": "PLZ_TRANSLATE What Ellen can do on the child account:",
+  "parent_add_kid_invite_title": "PLZ_TRANSLATE What %1$d can do on the child account:",
   "parent_add_kid_invite_item_1": "Creëer een doel.",
   "parent_add_kid_invite_item_2": "Klusjes",
   "parent_add_kid_invite_item_3": "Evalueer transacties",
@@ -2749,8 +2749,8 @@
   "temp_server_issues_error": "Sorry, we hebben tijdelijke problemen met de server... Check het later weer!",
   "kid_connection_status_not_connected": "Niet gekoppeld",
   "kid_connection_status_invite_pending": "Uitnodiging verzonden",
-  "kid_invite_add_phone_number_for": "Voeg telefoonnummer toe voor %1$d",
-  "kid_invite_add_email_for": "Voeg email toe voor %1$d",
+  "kid_invite_add_phone_number_for": "PLZ_TRANSLATE Invite %1$d through phone number",
+  "kid_invite_add_email_for": "PLZ_TRANSLATE Invite %1$d through email",
   "kid_invite_add_email_instead": "Voeg email toe in plaats van",
   "invite_could_not_be_sent_error": "Niet mogelijk om de uitnodiging aan het kind te versturen. Controleer of het e-mailadres of telefoonnummer klopt."
 }

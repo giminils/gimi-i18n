@@ -2591,7 +2591,7 @@
   "parent_add_kid_no_phone_or_email": "Varken telefonnummer eller mail",
   "parent_add_kid_title": "Skapa ett konto till ditt barn",
   "parent_add_kid_subtitle": "Ditt barn kan logga in på sin egen telefon/surfplatta senare.",
-  "parent_add_kid_invite_title": "PLZ_CHECK What Ellen can do on the child account:",
+  "parent_add_kid_invite_title": "PLZ_CHECK What %1$d can do on the child account:",
   "parent_add_kid_invite_item_1": "PLZ_CHECK Create a goal",
   "parent_add_kid_invite_item_2": "PLZ_CHECK Chores",
   "parent_add_kid_invite_item_3": "PLZ_CHECK Evaluate transactions",
@@ -2749,8 +2749,8 @@
   "temp_server_issues_error": "Oops! Vi har tillfälliga serverproblem... Kom tillbaka senare!",
   "kid_connection_status_not_connected": "Ej inbjuden",
   "kid_connection_status_invite_pending": "Väntar",
-  "kid_invite_add_phone_number_for": "Lägg till telefonnummer åt %1$d",
-  "kid_invite_add_email_for": "Lägg till mail åt %1$d",
+  "kid_invite_add_phone_number_for": "PLZ_CHECK Invite %1$d through phone number",
+  "kid_invite_add_email_for": "PLZ_CHECK Invite %1$d through email",
   "kid_invite_add_email_instead": "Använd email",
   "invite_could_not_be_sent_error": "PLZ_CHECK Could not send invitation to the child. Please check that the phone number or email is correct."
 }
