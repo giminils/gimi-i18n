@@ -83,7 +83,7 @@ export const getFAQStrings = (lang: string): object => {
   }
 }
 
-export const getDictionaryStrings = (lang: string): object => {
+export const getDictionaryStrings = (lang: string): {[key: string]: string} => {
   switch (lang.substring(0, 2)) {
     case 'sv': return require('./text_strings/dictionary/sv.json') // sweden
     case 'nb':
