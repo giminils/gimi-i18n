@@ -3479,5 +3479,7 @@
   "school_feedback_correct_answer_list_title": "Correct answer:",
   "school_feedback_good_job": "Good job.",
   "school_feedback_double_check_answer": "Double check your answer next time.",
-  "school_check": "Check"
+  "school_check": "Check",
+  "school_sound_mute": "Mute",
+  "school_sound_read": "Read"
 }
