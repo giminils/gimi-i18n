@@ -830,7 +830,7 @@
   "chores_help_slider_content_monthly_allowance": "Vil du ha mer enn månedspengene dine? Gjør noen oppgaver! Jo flere oppgaver du gjør, desto mer får du på neste Payday.",
   "interest_help_slider_content": "Når du sparer pengene dine, belønnes du med bonuser på Payday. Jo mer du sparer, desto mer får du i bonus! ",
   "email_login_button": "Logg inn med e-post",
-  "new_number_question": "Nytt nummer?",
+  "new_number_question": "PLZ_TRANSLATE Changed your number?",
   "new_number_popover_title": "Har du et nytt nummer?",
   "new_number_popover_text": "Hvis du er barn og har en voksen kontakt, be dem om å oppdatere telefonnummeret ditt! Bare fortell dem om å gå til innstillingene i deres app. Deretter kan du logge inn med det nye nummeret.",
   "your_weekly_allowance_n": "Dine ukepenger: %1$d",
