@@ -2753,5 +2753,6 @@
   "kid_invite_add_email_for": "Bjud in %1$d med deras email",
   "kid_invite_add_email_instead": "Använd email",
   "invite_could_not_be_sent_error": "Vi kunde inte skicka inbjudan till barnet. Kolla så att numret/mailen är korrekt!",
-  "gimi_master_disabled": "Gimi master är inte tillgängligt just nu. Vi rekommenderar att ansluta barnets bankkonto istället!"
+  "gimi_master_disabled": "Gimi master är inte tillgängligt just nu. Vi rekommenderar att ansluta barnets bankkonto istället!",
+  "broken_payday_notification_error": "PLZ_CHECK Something went wrong, please contact support."
 }

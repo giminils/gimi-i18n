@@ -2753,5 +2753,6 @@
   "kid_invite_add_email_for": "Nodig %1$d uit via email",
   "kid_invite_add_email_instead": "Voeg email toe in plaats van",
   "invite_could_not_be_sent_error": "Niet mogelijk om de uitnodiging aan het kind te versturen. Controleer of het e-mailadres of telefoonnummer klopt.",
-  "gimi_master_disabled": "Gimi master is op dit moment niet beschikbaar. We raden je aan om te verbinden met een bankrekening als alternatief!"
+  "gimi_master_disabled": "Gimi master is op dit moment niet beschikbaar. We raden je aan om te verbinden met een bankrekening als alternatief!",
+  "broken_payday_notification_error": "PLZ_TRANSLATE Something went wrong, please contact support."
 }
