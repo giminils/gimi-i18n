@@ -2661,7 +2661,7 @@
   "cant_get_tink_for_premium_kid_desc": "Dessverre kan du ikke legge til en bankkonto til et barn som har et aktivt Superskills Pro-abonnement. Avslutt det først!",
   "general_to_settings": "Til innstillinger",
   "refresh_now": "Oppdater nå",
-  "refresh_to_unlock": "Oppdater banktilkoblingen for å låse opp",
+  "refresh_to_unlock": "Oppdater banktilkoblingen",
   "bank_connected_expired_title": "Bankforbindelsen din er utløpt...",
   "bank_connected_expired_subtitle": "...og må oppdateres for at barnas kontoinformasjon skal vises. Klikk nedenfor for å oppdatere den!",
   "general_refresh": "Refresh",
