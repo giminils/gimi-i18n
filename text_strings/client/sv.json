@@ -2754,5 +2754,8 @@
   "kid_invite_add_email_instead": "Använd email",
   "invite_could_not_be_sent_error": "Vi kunde inte skicka inbjudan till barnet. Kolla så att numret/mailen är korrekt!",
   "gimi_master_disabled": "Gimi master är inte tillgängligt just nu. Vi rekommenderar att ansluta barnets bankkonto istället!",
-  "broken_payday_notification_error": "PLZ_CHECK Something went wrong, please contact support."
+  "broken_payday_notification_error": "PLZ_CHECK Something went wrong, please contact support.",
+  "faq_chat_with_us": "PLZ_CHECK Chat with us",
+  "faq_chat_with_us_description": "PLZ_CHECK Our support agents will answer your questions!",
+  "faq_open_chat": "PLZ_CHECK Open chat"
 }
