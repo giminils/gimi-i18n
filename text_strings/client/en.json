@@ -2661,7 +2661,7 @@
   "cant_get_tink_for_premium_kid_desc": "Unfortunately you can't add a bank account to a child that has an active Gimi Master subscription. Cancel it first!",
   "general_to_settings": "To settings",
   "refresh_now": "Refresh now",
-  "refresh_to_unlock": "Refresh bank connection to unlock",
+  "refresh_to_unlock": "Refresh to unlock",
   "bank_connected_expired_title": "Your bank connection has expired...",
   "bank_connected_expired_subtitle": "...and needs to be refreshed in order for your children's account information to show. Click below to refresh it!",
   "general_refresh": "Refresh",
