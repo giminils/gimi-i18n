@@ -2757,5 +2757,8 @@
   "broken_payday_notification_error":"Something went wrong, please contact support.",
   "faq_chat_with_us": "Chat with us",
   "faq_chat_with_us_description": "Our support agents will answer your questions!",
-  "faq_open_chat": "Open chat"
+  "faq_open_chat": "Open chat",
+  "faq_general_short": "FAQ",
+  "faq_general_short_description": "What other Gimi users are asking about!",
+  "faq_open_faq": "Open FAQ"
 }

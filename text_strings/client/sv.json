@@ -2757,5 +2757,8 @@
   "broken_payday_notification_error": "PLZ_CHECK Something went wrong, please contact support.",
   "faq_chat_with_us": "PLZ_CHECK Chat with us",
   "faq_chat_with_us_description": "PLZ_CHECK Our support agents will answer your questions!",
-  "faq_open_chat": "PLZ_CHECK Open chat"
+  "faq_open_chat": "PLZ_CHECK Open chat",
+  "faq_general_short": "PLZ_CHECK FAQ",
+  "faq_general_short_description": "PLZ_CHECK What other Gimi users are asking about!",
+  "faq_open_faq": "PLZ_CHECK Open FAQ"
 }
