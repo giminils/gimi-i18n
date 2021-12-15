@@ -2661,7 +2661,7 @@
   "cant_get_tink_for_premium_kid_desc": "Tyvärr kan du inte lägga till ett bankkonto till ett barn som har en aktiv Gimi Master-prenumeration. Avbryt den först!",
   "general_to_settings": "Inställningar",
   "refresh_now": "Förnya",
-  "refresh_to_unlock": "Förnya uppkopplingen till banken",
+  "refresh_to_unlock": "Förnya uppkopplingen",
   "bank_connected_expired_title": "Din anslutning till banken har gått ut...",
   "bank_connected_expired_subtitle": "...och behöver förnyas om dina barns saldo och transaktioner ska visas i Gimi. Klicka nedan för att förnya!",
   "general_refresh": "Förnya",
