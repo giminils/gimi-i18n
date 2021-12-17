@@ -458,7 +458,7 @@
   "card_question_answer_for_kid_11": "Gimi-kortet kan brukes utenlands, online og i butikker, men det virker ikke i minibanker. Vi har også blokkert enkelte forhandlere som vi anser for å være upassende for barn.\n \n- Bro- og bompenger \n- Automatiske bensinpumper \n- Skjenkesteder (alkoholholdig drikke) som barer \n- Øl-, vin-, og brennevinutsalg \n- Dating- og eskortetjenester \n- Online gambling \n- Statsgodkjent heste-/hundeveddeløp\n- Spill- og lotterivirksomhet",
   "choosing_chores_for_kid_subtitle": "Det opptjente beløpet vil også bli utbetalt sammen med uke-/månedspengen",
   "custom_notification_secure_account": "sikre brukerkontoen din",
-  "custom_notification_connect_children": "PLZ_TRANSLATE Add a child",
+  "custom_notification_connect_children": "Legg til et barn",
   "custom_notification__connection_request": "du har fått en invitasjon",
   "custom_notification_add_profile_pic": "legg til et profilbilde",
   "nothing_to_see_here": "tomt her...",
@@ -2754,11 +2754,11 @@
   "kid_invite_add_email_instead": "Bruk e-post i stedet",
   "invite_could_not_be_sent_error": "Vi kunne ikke sende invitasjonen til barnet. Sjekk at nummeret/e-posten er riktig!",
   "gimi_master_disabled": "Gimi master er ikke tilgjengelig akkurat nå. Vi anbefaler å koble til barnets bankkonto i stedet!",
-  "broken_payday_notification_error": "PLZ_TRANSLATE Something went wrong, please contact support.",
-  "faq_chat_with_us": "PLZ_TRANSLATE Chat with us",
-  "faq_chat_with_us_description": "PLZ_TRANSLATE Our support agents will answer your questions!",
-  "faq_open_chat": "PLZ_TRANSLATE Open chat",
-  "faq_general_short": "PLZ_TRANSLATE FAQ",
-  "faq_general_short_description": "PLZ_TRANSLATE What other Gimi users are asking about!",
-  "faq_open_faq": "PLZ_TRANSLATE Open FAQ"
+  "broken_payday_notification_error": "Noe gikk galt, vennligst kontakt supporten!",
+  "faq_chat_with_us": "Chat med oss",
+  "faq_chat_with_us_description": "Våre Customer Support-agenter vil svare på spørsmålene dine!",
+  "faq_open_chat": "Åpne chat",
+  "faq_general_short": "FAQ",
+  "faq_general_short_description": "Hva andre Gimi-brukere spør om!",
+  "faq_open_faq": "Åpne FAQ"
 }
