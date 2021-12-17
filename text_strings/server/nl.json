@@ -2,7 +2,7 @@
   "push_withdrawal_child": "{transaction.created_by.name} afgetrokken {transaction.str_value} van het spaarvarken",
   "push_withdrawal_parent": "{transaction.created_by.name} afgetrokken {transaction.str_value} van {transaction.child.nickname}",
   "push_assignment_created": "Je hebt een nieuw klusje!",
-  "push_assignment_active_again": "Het klusje {assignment.task.title} is opnieuw beschikbaar. Eerst is eerst",
+  "push_assignment_active_again": "Het klusje {assignment.task.title} is opnieuw beschikbaar. Wie het eerst komt, die het eerst maalt.",
   "push_assignment_done": "{assignment.child.nickname} voerde het klusje {assignment.task.title} uit",
   "push_assignment_done_by_other": "Je was niet snel genoeg! {assignment.task.shared_task_completed_by} voerde het klusje {assignment.task.title} uit voor jou",
   "push_assignment_rejected": "{assignment.task.title} werd niet goedgekeurd door {rejected_by.nickname}. Probeer opnieuw!",
