@@ -2587,7 +2587,7 @@
   "question_nickname": "Wat is zijn/haar bijnaam?",
   "question_add_age_to_person": "Hoe oud is %1$d?",
   "question_phone_or_email": "Heeft hij/zij een telefoonnummer of e-mailadres?",
-  "parent_kid_phone_signup_they_have_email": "Ze hebben een e-mail",
+  "parent_kid_phone_signup_they_have_email": "Hij/zij heeft een e-mail",
   "parent_add_kid_no_phone_or_email": "Geen telefoonnummer of e-mail",
   "parent_add_kid_title": "Laten we een account voor je kind aanmaken!",
   "parent_add_kid_subtitle": "De account wordt automatisch met jou verbonden en je kind kan er later op zijn/haar eigen toestel op inloggen als hij/zij dat wil!",
