@@ -1978,7 +1978,7 @@
   "chores_to_do_first_time_parent": "Zodra je kind een klusje heeft voltooid, wordt het hierheen verzonden ter goedkeuring door jou.",
   "chores_to_pending_time_parent": "Zodra je kind een klusje heeft voltooid, wordt het hierheen verzonden ter goedkeuring door jou.",
   "chores_to_approve_empty_state": "Zodra %1$d een klusje heeft voltooid, wordt het hierheen verzonden ter goedkeuring door jou.",
-  "chores_done_first_time_parent": "Het verdiende bedrag zal automatisch worden toegevoegd aan de volgende uitbetaling van het zakgeld. Wij tellen wel!",
+  "chores_done_first_time_parent": "Het verdiende bedrag wordt automatisch toegevoegd aan de volgende uitbetaling van het zakgeld. Wij tellen wel!",
   "chore_was_deleted": "Klusje verwijderd!",
   "chore_was_reactivated": "Klusje opnieuw geactiveerd!",
   "chore_sent_for_approval_from_rejected": "Mooi! Ik hoop dat het deze keer goedgekeurd wordt.",
