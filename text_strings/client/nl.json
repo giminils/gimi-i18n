@@ -2754,11 +2754,11 @@
   "kid_invite_add_email_instead": "Voeg email toe in plaats van",
   "invite_could_not_be_sent_error": "Niet mogelijk om de uitnodiging aan het kind te versturen. Controleer of het e-mailadres of telefoonnummer klopt.",
   "gimi_master_disabled": "Gimi master is op dit moment niet beschikbaar. We raden je aan om te verbinden met een bankrekening als alternatief!",
-  "broken_payday_notification_error": "PLZ_TRANSLATE Something went wrong, please contact support.",
-  "faq_chat_with_us": "PLZ_TRANSLATE Chat with us",
-  "faq_chat_with_us_description": "PLZ_TRANSLATE Our support agents will answer your questions!",
-  "faq_open_chat": "PLZ_TRANSLATE Open chat",
-  "faq_general_short": "PLZ_TRANSLATE FAQ",
+  "broken_payday_notification_error": "Er is iets misgegaan, neem contact op met de klantenservice.",
+  "faq_chat_with_us": "Chat met ons",
+  "faq_chat_with_us_description": "Onze medewerkers zullen je vragen beantwoorden!",
+  "faq_open_chat": "Chat openen",
+  "faq_general_short": "FAQ",
   "faq_general_short_description": "PLZ_TRANSLATE What other Gimi users are asking about!",
-  "faq_open_faq": "PLZ_TRANSLATE Open FAQ"
+  "faq_open_faq": "FAQ openen"
 }
