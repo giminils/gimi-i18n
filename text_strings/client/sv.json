@@ -458,7 +458,7 @@
   "card_question_answer_for_kid_11": "Börja med att kolla ditt saldo i appen för att se om du har tillräckligt med pengar på kortet och att kortet är aktivt. Om du kan utesluta det, kontakta oss så hjälper vi dig!",
   "choosing_chores_for_kid_subtitle": "Det som tjänas in från uppgifterna kommer också att betalas ut tillsammans med vecko-/månadspengen",
   "custom_notification_secure_account": "säkra ditt användarkonto",
-  "custom_notification_connect_children": "PLZ_CHECK Add a child",
+  "custom_notification_connect_children": "Lägg till ett barn",
   "custom_notification__connection_request": "du har en inbjudan",
   "custom_notification_add_profile_pic": "lägg till en profilbild",
   "nothing_to_see_here": "tomt här...",
@@ -2754,11 +2754,11 @@
   "kid_invite_add_email_instead": "Använd email",
   "invite_could_not_be_sent_error": "Vi kunde inte skicka inbjudan till barnet. Kolla så att numret/mailen är korrekt!",
   "gimi_master_disabled": "Gimi master är inte tillgängligt just nu. Vi rekommenderar att ansluta barnets bankkonto istället!",
-  "broken_payday_notification_error": "PLZ_CHECK Something went wrong, please contact support.",
-  "faq_chat_with_us": "PLZ_CHECK Chat with us",
-  "faq_chat_with_us_description": "PLZ_CHECK Our support agents will answer your questions!",
-  "faq_open_chat": "PLZ_CHECK Open chat",
-  "faq_general_short": "PLZ_CHECK FAQ",
-  "faq_general_short_description": "PLZ_CHECK What other Gimi users are asking about!",
-  "faq_open_faq": "PLZ_CHECK Open FAQ"
+  "broken_payday_notification_error": "Något gick fel. Kontakta supporten!",
+  "faq_chat_with_us": "Chatta med oss",
+  "faq_chat_with_us_description": "Våra kundtjänstmedarbetare svarar på dina frågor!",
+  "faq_open_chat": "Öppna chatten",
+  "faq_general_short": "FAQ",
+  "faq_general_short_description": "Vad andra Gimi-användare frågar om!",
+  "faq_open_faq": "Öppna FAQ"
 }
