@@ -2760,5 +2760,10 @@
   "faq_open_chat": "Open chat",
   "faq_general_short": "FAQ",
   "faq_general_short_description": "What other Gimi users are asking about!",
-  "faq_open_faq": "Open FAQ"
+  "faq_open_faq": "Open FAQ",
+  "onboarding_setup_bank_account_or_piggy_bank": "Set up bank account or piggybank",
+  "onboarding_set_allowance": "Set allowance",
+  "onboarding_hand_out_chores": "Hand out chores",
+  "onboarding_setup_account_first": "Set up account first",
+  "onboarding_setup_allowance_first": "Set allowance first"
 }

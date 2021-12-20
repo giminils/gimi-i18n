@@ -2760,5 +2760,10 @@
   "faq_open_chat": "Öppna chatten",
   "faq_general_short": "FAQ",
   "faq_general_short_description": "Vad andra Gimi-användare frågar om!",
-  "faq_open_faq": "Öppna FAQ"
+  "faq_open_faq": "Öppna FAQ",
+  "onboarding_setup_bank_account_or_piggy_bank": "PLZ_CHECK Set up bank account or piggybank",
+  "onboarding_set_allowance": "PLZ_CHECK Set allowance",
+  "onboarding_hand_out_chores": "PLZ_CHECK Hand out chores",
+  "onboarding_setup_account_first": "PLZ_CHECK Set up account first",
+  "onboarding_setup_allowance_first": "PLZ_CHECK Set allowance first"
 }
