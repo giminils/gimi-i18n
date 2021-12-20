@@ -2749,7 +2749,7 @@
   "temp_server_issues_error": "Oops! Vi har tillfälliga serverproblem... Kom tillbaka senare!",
   "kid_connection_status_not_connected": "Ej inbjuden",
   "kid_connection_status_invite_pending": "Väntar",
-  "kid_invite_add_phone_number_for": "Bjud in %1$d med deras mobilnummer",
+  "kid_invite_add_phone_number_for": "Skicka inbjudan till %1$d's mobilnummer",
   "kid_invite_add_email_for": "Bjud in %1$d med deras email",
   "kid_invite_add_email_instead": "Använd email",
   "invite_could_not_be_sent_error": "Vi kunde inte skicka inbjudan till barnet. Kolla så att numret/mailen är korrekt!",
