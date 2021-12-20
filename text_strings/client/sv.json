@@ -2765,5 +2765,10 @@
   "onboarding_set_allowance": "PLZ_CHECK Set allowance",
   "onboarding_hand_out_chores": "PLZ_CHECK Hand out chores",
   "onboarding_setup_account_first": "PLZ_CHECK Set up account first",
-  "onboarding_setup_allowance_first": "PLZ_CHECK Set allowance first"
+  "onboarding_setup_allowance_first": "PLZ_CHECK Set allowance first",
+  "onboarding_select_bank_type_title": "PLZ_CHECK Bank account or piggybank?",
+  "onboarding_select_bank_type_bankaccount_title": "PLZ_CHECK Connect %1$d's bank account",
+  "onboarding_select_bank_type_bankaccount_description": "PLZ_CHECK We currently support the following banks:",
+  "onboarding_select_bank_type_piggybank_title": "PLZ_CHECK Practice with the piggybank",
+  "onboarding_select_bank_type_piggybank_description": "PLZ_CHECK Keep track of how much you owe %1$d with the digital piggybank. You can always connect a bank account later!"
 }
