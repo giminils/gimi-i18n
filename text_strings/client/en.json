@@ -2770,5 +2770,16 @@
   "onboarding_select_bank_type_bankaccount_title": "Connect %1$d's bank account",
   "onboarding_select_bank_type_bankaccount_description": "We currently support the following banks:",
   "onboarding_select_bank_type_piggybank_title": "Practice with the piggybank",
-  "onboarding_select_bank_type_piggybank_description": "Keep track of how much you owe %1$d with the digital piggybank. You can always connect a bank account later!"
+  "onboarding_select_bank_type_piggybank_description": "Keep track of how much you owe %1$d with the digital piggybank. You can always connect a bank account later!",
+  "onboarding_piggybank_popover_title": "How does the piggybank work?",
+  "onboarding_piggybank_info_1": "It visualizes the amount you as a parent have handed out in Gimi",
+  "onboarding_piggybank_info_2": "No bank transfers or withdrawals",
+  "onboarding_piggybank_info_3": "When %1$d wants to spend the piggybank money, you pay and then deduct the amount in Gimi!",
+  "onboarding_bank_account_popover_title": "What connecting your child’s bank account means",
+  "onboarding_bank_account_info_1": "Connect the bank account using the parent’s BankID",
+  "onboarding_bank_account_info_2": "View live balance and transactions",
+  "onboarding_bank_account_info_3": "Top-up the bank account in Gimi",
+  "onboarding_bank_account_info_4": "Transfer the allowance in Gimi",
+  "onboarding_bank_account_info_5": "Get weekly spending reports",
+  "onboarding_bank_account_info_6": "And much more!"
 }
