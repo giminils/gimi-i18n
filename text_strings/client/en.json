@@ -2777,9 +2777,11 @@
   "onboarding_piggybank_info_3": "When %1$d wants to spend the piggybank money, you pay and then deduct the amount in Gimi!",
   "onboarding_bank_account_popover_title": "What connecting your child’s bank account means",
   "onboarding_bank_account_info_1": "Connect the bank account using the parent’s BankID",
-  "onboarding_bank_account_info_2": "View live balance and transactions",
-  "onboarding_bank_account_info_3": "Top-up the bank account in Gimi",
-  "onboarding_bank_account_info_4": "Transfer the allowance in Gimi",
-  "onboarding_bank_account_info_5": "Get weekly spending reports",
-  "onboarding_bank_account_info_6": "And much more!"
+  "onboarding_bank_account_info_2": "Connect the bank account by first authenticating the parent",
+  "onboarding_bank_account_info_3": "View live balance and transactions",
+  "onboarding_bank_account_info_4": "Top-up the bank account in Gimi",
+  "onboarding_bank_account_info_5": "Transfer the allowance in Gimi",
+  "onboarding_bank_account_info_6": "Manage the allowance in Gimi",
+  "onboarding_bank_account_info_7": "Get weekly spending reports",
+  "onboarding_bank_account_info_8": "And much more!"
 }
