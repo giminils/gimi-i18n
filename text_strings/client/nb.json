@@ -2770,5 +2770,20 @@
   "onboarding_select_bank_type_bankaccount_title": "PLZ_TRANSLATE Connect %1$d's bank account",
   "onboarding_select_bank_type_bankaccount_description": "PLZ_TRANSLATE We currently support the following banks:",
   "onboarding_select_bank_type_piggybank_title": "PLZ_TRANSLATE Practice with the piggybank",
-  "onboarding_select_bank_type_piggybank_description": "PLZ_TRANSLATE Keep track of how much you owe %1$d with the digital piggybank. You can always connect a bank account later!"
+  "onboarding_select_bank_type_piggybank_description": "PLZ_TRANSLATE Keep track of how much you owe %1$d with the digital piggybank. You can always connect a bank account later!",
+  "onboarding_piggybank_popover_title": "PLZ_TRANSLATE How does the piggybank work?",
+  "onboarding_piggybank_info_1": "PLZ_TRANSLATE It visualizes the amount you as a parent have handed out in Gimi",
+  "onboarding_piggybank_info_2": "PLZ_TRANSLATE No bank transfers or withdrawals",
+  "onboarding_piggybank_info_3": "PLZ_TRANSLATE When %1$d wants to spend the piggybank money, you pay and then deduct the amount in Gimi!",
+  "onboarding_bank_account_popover_title": "PLZ_TRANSLATE What connecting your child’s bank account means",
+  "onboarding_bank_account_info_1": "PLZ_TRANSLATE Connect the bank account using the parent’s BankID",
+  "onboarding_bank_account_info_2": "PLZ_TRANSLATE Connect the bank account by first authenticating the parent",
+  "onboarding_bank_account_info_3": "PLZ_TRANSLATE View live balance and transactions",
+  "onboarding_bank_account_info_4": "PLZ_TRANSLATE Top-up the bank account in Gimi",
+  "onboarding_bank_account_info_5": "PLZ_TRANSLATE Transfer the allowance in Gimi",
+  "onboarding_bank_account_info_6": "PLZ_TRANSLATE Manage the allowance in Gimi",
+  "onboarding_bank_account_info_7": "PLZ_TRANSLATE Get weekly spending reports",
+  "onboarding_bank_account_info_8": "PLZ_TRANSLATE And much more!",
+  "onboarding_select_piggybank_info_title": "PLZ_TRANSLATE The piggybank shows how much you owe %1$d",
+  "onboarding_select_piggybank_info_subtitle": "PLZ_TRANSLATE No bank transfers or withdrawals. Use it to teach the basics of money managing!"
 }
