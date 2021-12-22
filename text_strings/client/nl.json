@@ -2785,5 +2785,8 @@
   "onboarding_bank_account_info_7": "PLZ_TRANSLATE Get weekly spending reports",
   "onboarding_bank_account_info_8": "PLZ_TRANSLATE And much more!",
   "onboarding_select_piggybank_info_title": "PLZ_TRANSLATE The piggybank shows how much you owe %1$d",
-  "onboarding_select_piggybank_info_subtitle": "PLZ_TRANSLATE No bank transfers or withdrawals. Use it to teach the basics of money managing!"
+  "onboarding_select_piggybank_info_subtitle": "PLZ_TRANSLATE No bank transfers or withdrawals. Use it to teach the basics of money managing!",
+  "onboarding_select_piggybank_topup_title": "PLZ_TRANSLATE How much money does %1$d already have?",
+  "onboarding_select_piggybank_topup_subtitle": "PLZ_TRANSLATE Add it to the piggybank right away, so you can keep track of the money in one place.",
+  "onboarding_select_piggybank_topup_button": "PLZ_TRANSLATE Top up the piggybank"
 }
