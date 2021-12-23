@@ -2788,5 +2788,7 @@
   "onboarding_select_piggybank_info_subtitle": "PLZ_CHECK No bank transfers or withdrawals. Use it to teach the basics of money managing!",
   "onboarding_select_piggybank_topup_title": "PLZ_CHECK How much money does %1$d already have?",
   "onboarding_select_piggybank_topup_subtitle": "PLZ_CHECK Add it to the piggybank right away, so you can keep track of the money in one place.",
-  "onboarding_select_piggybank_topup_button": "PLZ_CHECK Top up the piggybank"
+  "onboarding_select_piggybank_topup_button": "PLZ_CHECK Top up the piggybank",
+  "pis_not_supported_popover_title": "PLZ_CHECK We don’t support payments in your country yet",
+  "pis_not_supported_popover_description": "PLZ_CHECK Pay out the allowance through your bank or a payment app and then mark it as paid!"
 }
