@@ -2764,7 +2764,7 @@
   "onboarding_setup_bank_account_or_piggy_bank": "Velg mellom bankkonto og sparegris",
   "onboarding_set_allowance": "Sett uke-/månedspenger",
   "onboarding_hand_out_chores": "Gi ut oppgaver",
-  "onboarding_setup_account_first": "",
+  "onboarding_setup_account_first": "PLZ_TRANSLATESet up account first",
   "onboarding_setup_allowance_first": "",
   "onboarding_select_bank_type_title": "Bankkonto eller sparegris?",
   "onboarding_select_bank_type_bankaccount_title": "Koble %1$d's bankkonto",

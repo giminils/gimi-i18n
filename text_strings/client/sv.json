@@ -2764,7 +2764,7 @@
   "onboarding_setup_bank_account_or_piggy_bank": "Välj mellan bankkonto och spargris",
   "onboarding_set_allowance": "Sätt vecko-/månadspeng",
   "onboarding_hand_out_chores": "Ge ut uppgifter",
-  "onboarding_setup_account_first": "",
+  "onboarding_setup_account_first": "PLZ_CHECKSet up account first",
   "onboarding_setup_allowance_first": "",
   "onboarding_select_bank_type_title": "Bankkonto eller spargris?",
   "onboarding_select_bank_type_bankaccount_title": "Anslut %1$d's bankkonto",
