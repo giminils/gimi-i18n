@@ -522,7 +522,7 @@
   "CHGERE002_push_title": "Je bent nu verbonden met {parent.nickname}!",
   "CHGERE007_notification_title": "Nieuw klusje! {parent.nickname} vraagt je om: {task.title}",
   "ADFRRE001_notification_title": "Betaaldag voor {child.nickname}! {payday_amount} werd toegevoegd aan zijn/haar spaarvarken",
-  "ADFRRE001_notification_title_v2": "{child.nickname} kreeg net zijn/haar {allowance_frequency}, {formatted_payday_amount} werd toegevoegd aan het spaarvarken!",
+  "ADFRRE001_notification_title_v2": "{child.nickname} heeft net het {allowance_frequency} gekregen, er is {formatted_payday_amount} toegevoegd aan het spaarvarken.",
   "CHGEON014_notification_title": "{parent.nickname} geeft je nu {allowance_frequency} zakgeld!",
   "CHGEON014_notification_title_v2": "{parent.nickname} geeft je nu {allowance_frequency}!",
   "CHGEON014_push_title": "{parent.nickname} geeft je nu {allowance_frequency} zakgeld!",
