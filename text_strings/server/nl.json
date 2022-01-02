@@ -308,7 +308,7 @@
   "CHGEON026_push_title": "{parent.nickname} wil zich met jou verbinden!",
   "push_card_purchase_decline": "🚫Aankoop voor {child.nickname} was afgewezen vanwege te weinig saldo op de kaart!",
   "CHPRPU002_notification_title": "Te weinig saldo op je Gimi-kaart! Waardeer je kaart nu op!",
-  "push_name_made_deposit_to_account": "PLZ_TRANSLATE It's Payday! You got money from {parent.nickname}",
+  "push_name_made_deposit_to_account": "Het is zakgelddag! Je hebt geld ontvangen van {parent.nickname}",
   "ADPRPU002_notification_title": "Vanwege onvoldoende saldo op de kaart is de aankoop bij {pfstransactionstatement.merchant_name} voor {pfstransactionstatement.card.user.nickname} geweigerd",
   "CHGEON009_notification_title": "Wat zou je graag kopen? Stel een doel en begin te sparen!",
   "CHGERE020_notification_title": "{parent.nickname} heeft je suggestie voor een klusje geweigerd: {task.title}. Een nieuwe voorstellen?",
