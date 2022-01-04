@@ -2769,6 +2769,7 @@
   "onboarding_select_bank_type_title": "Bankkonto eller sparegris?",
   "onboarding_select_bank_type_bankaccount_title": "Koble %1$d's bankkonto",
   "onboarding_select_bank_type_bankaccount_description": "Akkurat nå har vi støtte til følgende banker:",
+  "onboarding_select_bank_type_bankaccount_not_available": "PLZ_TRANSLATE Not available in your country yet!",
   "onboarding_select_bank_type_piggybank_title": "Øv med sparegrisen",
   "onboarding_select_bank_type_piggybank_description": "Hold styr over hvor mye du skylder %1$d med den digitale sparegrisen. Du kan alltid koble til en bankkonto senere!",
   "onboarding_piggybank_popover_title": "Hvordan fungerer sparegrisen?",

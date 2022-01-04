@@ -2769,6 +2769,7 @@
   "onboarding_select_bank_type_title": "Bank account or piggybank?",
   "onboarding_select_bank_type_bankaccount_title": "Connect %1$d's bank account",
   "onboarding_select_bank_type_bankaccount_description": "We currently support the following banks:",
+  "onboarding_select_bank_type_bankaccount_not_available": "Not available in your country yet!",
   "onboarding_select_bank_type_piggybank_title": "Practice with the piggybank",
   "onboarding_select_bank_type_piggybank_description": "Keep track of how much you owe %1$d with the digital piggybank. You can always connect a bank account later!",
   "onboarding_piggybank_popover_title": "How does the piggybank work?",

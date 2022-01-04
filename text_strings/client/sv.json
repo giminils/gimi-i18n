@@ -2769,6 +2769,7 @@
   "onboarding_select_bank_type_title": "Bankkonto eller spargris?",
   "onboarding_select_bank_type_bankaccount_title": "Anslut %1$d's bankkonto",
   "onboarding_select_bank_type_bankaccount_description": "Just nu har vi stöd för följande banker:",
+  "onboarding_select_bank_type_bankaccount_not_available": "PLZ_CHECK Not available in your country yet!",
   "onboarding_select_bank_type_piggybank_title": "Öva med spargrisen",
   "onboarding_select_bank_type_piggybank_description": "Håll koll på hur mycket du är skyldig %1$d med den digitala spargrisen. Du kan alltid ansluta ett bankkonto senare!",
   "onboarding_piggybank_popover_title": "Hur fungerar spargrisen?",
