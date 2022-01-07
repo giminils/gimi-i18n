@@ -2798,6 +2798,11 @@
   "onboarding_setup_allowance_piggybank_weekly_subtitle": "PLZ_CHECK Sit back and relax! We’ll notify you on the 1st day of every week.",
   "onboarding_setup_allowance_piggybank_monthly_title": "PLZ_CHECK Set up a monthly automatic allowance",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "PLZ_CHECK Sit back and relax! We’ll notify you on the 1st day of every month.",
+  "onboarding_setup_chore_title": "PLZ_CHECK Start with the basics or create your own?",
+  "onboarding_setup_chore_skip_title": "PLZ_CHECK Skip for now",
+  "onboarding_setup_chore_start_with_the_basics_title": "PLZ_CHECK Start with the basics",
+  "onboarding_setup_chore_create_your_own_title": "PLZ_CHECK Create your own chore",
+  "onboarding_setup_chore_create_your_own_description": "PLZ_CHECK Have your own idea? Name the chore, choose a category and set a reward!",
   "pis_not_supported_popover_title": "Vi har inte stöd för överföringar i ditt land ännu",
   "pis_not_supported_popover_description": "Betala ut vecko-/månadspengen genom din bank- eller betalningsapp och markera den sedan som betald!"
 }
