@@ -232,7 +232,7 @@
   "account_found_title": "Do you want to log in now?",
   "account_found_description": "You seem to have logged in on this device before, do you want to log in as %1$d now?",
   "login_now": "log in now",
-  "question_ready_for_card": "Ready for the Gimi Card? Prove it!",
+  "question_ready_for_card": "PLZ_COPY Ready for a card? Prove it!",
   "general_start": "start",
   "add_dream_placeholader": "Write here",
   "set_price": "Set the reward",
