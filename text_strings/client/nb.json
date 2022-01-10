@@ -232,7 +232,7 @@
   "account_found_title": "vil du logge inn direkte?",
   "account_found_description": "Det virker som om du har logget inn på denne enheten før, vil du logge inn som %1$d nå?",
   "login_now": "logge inn nå",
-  "question_ready_for_card": "Klar for Gimi-kortet? Prøv det! ✌️",
+  "question_ready_for_card": "PLZ_TRANSLATE Ready for a card? Prove it!",
   "general_start": "starte",
   "add_dream_placeholader": "Skriv her",
   "set_price": "sett belønningen",
@@ -2798,11 +2798,6 @@
   "onboarding_setup_allowance_piggybank_weekly_subtitle": "PLZ_TRANSLATE Sit back and relax! We’ll notify you on the 1st day of every week.",
   "onboarding_setup_allowance_piggybank_monthly_title": "PLZ_TRANSLATE Set up a monthly automatic allowance",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "PLZ_TRANSLATE Sit back and relax! We’ll notify you on the 1st day of every month.",
-  "onboarding_setup_chore_title": "PLZ_TRANSLATE Start with the basics or create your own?",
-  "onboarding_setup_chore_skip_title": "PLZ_TRANSLATE Skip for now",
-  "onboarding_setup_chore_start_with_the_basics_title": "PLZ_TRANSLATE Start with the basics",
-  "onboarding_setup_chore_create_your_own_title": "PLZ_TRANSLATE Create your own chore",
-  "onboarding_setup_chore_create_your_own_description": "PLZ_TRANSLATE Have your own idea? Name the chore, choose a category and set a reward!",
   "pis_not_supported_popover_title": "Vi støtter ikke overføringer i landet ditt ennå",
   "pis_not_supported_popover_description": "Betal ut uke-/månedpengene gjennom bank- eller betalingsappen din og merk den som betalt!"
 }

@@ -232,7 +232,7 @@
   "account_found_title": "Do you want to log in now?",
   "account_found_description": "You seem to have logged in on this device before, do you want to log in as %1$d now?",
   "login_now": "log in now",
-  "question_ready_for_card": "PLZ_COPY Ready for a card? Prove it!",
+  "question_ready_for_card": "Ready for a card? Prove it!",
   "general_start": "start",
   "add_dream_placeholader": "Write here",
   "set_price": "Set the reward",
@@ -2798,11 +2798,6 @@
   "onboarding_setup_allowance_piggybank_weekly_subtitle": "Sit back and relax! We’ll notify you on the 1st day of every week.",
   "onboarding_setup_allowance_piggybank_monthly_title": "Set up a monthly automatic allowance",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "Sit back and relax! We’ll notify you on the 1st day of every month.",
-  "onboarding_setup_chore_title": "Start with the basics or create your own?",
-  "onboarding_setup_chore_skip_title": "Skip for now",
-  "onboarding_setup_chore_start_with_the_basics_title": "Start with the basics",
-  "onboarding_setup_chore_create_your_own_title": "Create your own chore",
-  "onboarding_setup_chore_create_your_own_description": "Have your own idea? Name the chore, choose a category and set a reward!",
   "pis_not_supported_popover_title": "We don’t support payments in your country yet",
   "pis_not_supported_popover_description": "Pay out the allowance through your bank or a payment app and then mark it as paid!"
 }
