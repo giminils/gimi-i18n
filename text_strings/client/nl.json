@@ -2584,7 +2584,7 @@
   "delete_tink_account_popover_desc": "Dit zal alle bankrekeningen verwijderen die je hebt toegevoegd aan Gimi",
   "could_not_find_any_accounts_to_connect": "Kon geen accounts vinden om te verbinden...",
   "all_supported_accounts_already_connected": "Je hebt alle ondersteunde accounts al verbonden...",
-  "question_nickname": "Wat is zijn bijnaam?",
+  "question_nickname": "Wat is de naam van je kind?",
   "question_add_age_to_person": "Hoe oud is %1$d?",
   "question_phone_or_email": "Heeft je kind een telefoonnummer of e-mailadres?",
   "parent_kid_phone_signup_they_have_email": "Mijn kind heeft een e-mailadres",
