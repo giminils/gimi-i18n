@@ -2794,6 +2794,7 @@
   "onboarding_setup_allowance_tink_weekly_subtitle": "PLZ_TRANSLATE On the 1st day of every week, we will remind you about paying out the allowance in Gimi.",
   "onboarding_setup_allowance_tink_monthly_title": "PLZ_TRANSLATE Set up monthly allowance!",
   "onboarding_setup_allowance_tink_monthly_subtitle": "PLZ_TRANSLATE On the 1st day of every month, we will remind you about paying out the allowance in Gimi.",
+  "onboarding_setup_allowance_tink_notification_example": "PLZ_TRANSLATE Time to pay out the allowance in Gimi! \nClick here to pay out now",
   "onboarding_setup_allowance_piggybank_weekly_title": "PLZ_TRANSLATE Set up a weekly automatic allowance",
   "onboarding_setup_allowance_piggybank_weekly_subtitle": "PLZ_TRANSLATE Sit back and relax! We’ll notify you on the 1st day of every week.",
   "onboarding_setup_allowance_piggybank_monthly_title": "PLZ_TRANSLATE Set up a monthly automatic allowance",
