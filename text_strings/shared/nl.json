@@ -166,11 +166,11 @@
     "question_6_answer_4": "Je kan nu kopen en nooit betalen",
     "question_7_answer_1": "Thomas heeft geen spaarrekening",
     "question_7_answer_2": "Thomas studeert niet",
-    "question_7_answer_3": "Sara crashed her previous car",
-    "question_7_answer_4": "Sara got fired from a job",
-    "question_8_answer_1": "Yes, it takes two months for the money to be withdrawn",
-    "question_8_answer_2": "Yes, the store doesn't know how much money she has",
-    "question_8_answer_3": "No, $c{200} is missing",
-    "question_8_answer_4": "No, she needs at least $c{1000} on the card"
+    "question_7_answer_3": "Sara heeft haar vorige auto in de prak gereden",
+    "question_7_answer_4": "Sara is ontslagen van haar werk",
+    "question_8_answer_1": "Ja, het duurt twee maanden voordat het geld van je rekening wordt gehaald",
+    "question_8_answer_2": "Ja, de winkel weet niet hoeveel geld ze heeft",
+    "question_8_answer_3": "Nee, ze komt $c{200} tekort",
+    "question_8_answer_4": "Nee, ze heeft minimaal $c{1000} nodig op haar kaart"
   }
 }
