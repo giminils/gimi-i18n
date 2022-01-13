@@ -513,7 +513,7 @@
   "ADGERE001_push_title": "Je bent nu verbonden met {child.nickname}!",
   "CHGERE010_notification_title": "{task.title} werd goedgekeurd, je hebt {task.value} verdiend",
   "CHGERE010_notification_title_v2": "{task.title} werd goedgekeurd, je hebt {formatted_value} verdiend",
-  "CHGERE010_notification_title_v3": "{task.title} is goedgekeurd en {formatted_value} werd toegevoegd aan je volgende {allowance_frequency}",
+  "CHGERE010_notification_title_v3": "Je {task.title} werd goedgekeurd, dus er is {formatted_value} aan je volgende {allowance_frequency}",
   "CHGERE023_notification_title_v2": "{task.title} werd goedgekeurd, je hebt {task.value} verdiend",
   "CHGERE023_notification_title_v3": "{task.title} werd goedgekeurd, je hebt {formatted_value} verdiend",
   "CHPRON016_notification_title": "PLZ_TRANSLATE You have a negative card balance, top-up your card right away",
