@@ -1,5 +1,5 @@
-Hi!
-Enter the code in the Gimi app: {{ verification_token.code }}
+Hoi!
+Voer de code in de Gimi app in: {{ verification_token.code }}
 
 {% if add_verification_url %}
 {{ verification_token.verification_url }}

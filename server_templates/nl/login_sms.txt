@@ -1,3 +1,3 @@
-Vul code {{ token.code }} in de app in of open de link om in te loggen.
+Voer code {{ token.code }} in de app in of open de link om in te loggen.
 
 {{ token.login_url }}

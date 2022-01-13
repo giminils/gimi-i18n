@@ -1,5 +1,5 @@
 Hallo {{ token.user.nickname }},{% if invite %}
 {{ sender.name }} }} heeft je uitgenodigd om Gimi te gebruiken! Klik op de link om te beginnen.{% else %}
-Vul code {{ token.code }} in de app in, of klik op de link om in te loggen.{% endif %}
+Voer code {{ token.code }} in de app in, of klik op de link om in te loggen.{% endif %}
 
 {{ token.login_url }}
