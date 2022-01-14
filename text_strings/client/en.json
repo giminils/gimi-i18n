@@ -2455,7 +2455,7 @@
   "onboarding_setup_allowance_tink_monthly_subtitle": "On the 1st day of every month we will remind you about paying out the allowance in Gimi.",
   "onboarding_setup_allowance_tink_notification_example": "Time to pay out the allowance in Gimi! \nClick here to pay out now",
   "onboarding_setup_allowance_piggybank_weekly_title": "Set up a weekly automatic allowance",
-  "onboarding_setup_allowance_piggybank_weekly_subtitle": "Sit back and relax! We’ll notify you on the 1st day of every week.",
+  "onboarding_setup_allowance_piggybank_weekly_subtitle": "PLZ_COPY Sit back and relax! We’ll notify you every Monday.",
   "onboarding_setup_allowance_piggybank_monthly_title": "Set up a monthly automatic allowance",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "Sit back and relax! We’ll notify you on the 1st day of every month.",
   "pis_not_supported_popover_title": "We don’t support payments in your country yet",
