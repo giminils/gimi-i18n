@@ -2453,11 +2453,11 @@
   "onboarding_setup_allowance_tink_weekly_subtitle": "Varje måndag kommer vi påminna dig om att betala ut veckopengen i Gimi.",
   "onboarding_setup_allowance_tink_monthly_title": "Ställ in månadspengg!",
   "onboarding_setup_allowance_tink_monthly_subtitle": "Första dagen varje månad kommer vi påminna dig om att betala ut månadspengen i Gimi.",
-  "onboarding_setup_allowance_tink_notification_example": "PLZ_CHECK Time to pay out the allowance in Gimi! \nClick here to pay out now",
-  "onboarding_setup_allowance_piggybank_weekly_title": "PLZ_CHECK Set up a weekly automatic allowance",
-  "onboarding_setup_allowance_piggybank_weekly_subtitle": "PLZ_CHECK Sit back and relax! We’ll notify you on the 1st day of every week.",
-  "onboarding_setup_allowance_piggybank_monthly_title": "PLZ_CHECK Set up a monthly automatic allowance",
-  "onboarding_setup_allowance_piggybank_monthly_subtitle": "PLZ_CHECK Sit back and relax! We’ll notify you on the 1st day of every month.",
+  "onboarding_setup_allowance_tink_notification_example": "Dags att betala ut veckopengen i Gimi! \nKlicka här för att betala ut nu",
+  "onboarding_setup_allowance_piggybank_weekly_title": "Ställ in automatisk veckopeng",
+  "onboarding_setup_allowance_piggybank_weekly_subtitle": "Luta dig tillbaka! Vi meddelar dig varje måndag.",
+  "onboarding_setup_allowance_piggybank_monthly_title": "Ställ in automatisk månadspeng",
+  "onboarding_setup_allowance_piggybank_monthly_subtitle": "Luta dig tillbaka! Vi meddelar dig första dagen varje månad.",
   "pis_not_supported_popover_title": "Vi har inte stöd för överföringar i ditt land ännu",
   "pis_not_supported_popover_description": "Betala ut vecko-/månadspengen genom din bank- eller betalningsapp och markera den sedan som betald!"
 }
