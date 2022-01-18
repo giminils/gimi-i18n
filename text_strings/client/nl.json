@@ -2437,7 +2437,7 @@
   "onboarding_piggybank_info_3": "Wanneer %1$d het spaarvarken geld wil uitgeven, betaal jij en trek je het bedrag in Gimi er van af!",
   "onboarding_bank_account_popover_title": "Wat het betekent om de bankrekening van je kind te verbinden",
   "onboarding_bank_account_info_1": "PLZ_TRANSLATE Connect the bank account using the parent’s BankID",
-  "onboarding_bank_account_info_2": "Verbind de bankrekening door eerst de ouder de verifieren", 
+  "onboarding_bank_account_info_2": "Verbind de bankrekening door eerst de ouder de verifieren",
   "onboarding_bank_account_info_3": "Bekijk de het huidige saldo en de transacties",
   "onboarding_bank_account_info_4": "PLZ_TRANSLATE Top-up the bank account in Gimi",
   "onboarding_bank_account_info_5": "Maak het zakgeld over in Gimi",
@@ -2453,12 +2453,11 @@
   "onboarding_setup_allowance_tink_weekly_subtitle": "Op de eerste dag van iedere week, sturen we je een herinnering om het zakgeld naar Gimi over te maken",
   "onboarding_setup_allowance_tink_monthly_title": "Stel maandelijks zakgeld in",
   "onboarding_setup_allowance_tink_monthly_subtitle": "Op de eerste van van iedere maand, sturen we je een herinnering om het zakgeld naar Gimi over te maken",
-  "onboarding_setup_allowance_tink_notification_example": "Tijd om het zakgeld naar Gimi over te maken! \nklik hier om het nu te doen!", 
-  "onboarding_setup_allowance_piggybank_weekly_title": "Stel een automatische overboeking van het wekelijkse zakgeld in", 
+  "onboarding_setup_allowance_tink_notification_example": "Tijd om het zakgeld naar Gimi over te maken! \nklik hier om het nu te doen!",
+  "onboarding_setup_allowance_piggybank_weekly_title": "Stel een automatische overboeking van het wekelijkse zakgeld in",
   "onboarding_setup_allowance_piggybank_weekly_subtitle": "Tijd om te relaxen! Wij sturen je een melding op iedere eerste dag van de week!",
   "onboarding_setup_allowance_piggybank_monthly_title": "Stel een automatische overboeking van het maandelijkse zakgeld in",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "Tijd om te relaxen! Wij sturen je een melding op iedere eerste dag van de maand!",
-  "pis_not_supported_popover_title": "We ondersteunen betalingen in jouw land nog niet", 
+  "pis_not_supported_popover_title": "We ondersteunen betalingen in jouw land nog niet",
   "pis_not_supported_popover_description": "Betaal het zakgeld via je bank of een betalingsapp en markeer het als betaald!"
-
 }
