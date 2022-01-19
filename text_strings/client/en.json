@@ -2463,5 +2463,7 @@
   "phone_number_already_in_use_title": "That number is already in use",
   "phone_number_already_in_use_description": "It belongs to another Gimi account. Try another one!",
   "email_already_in_use_title": "That email is already in use",
-  "email_already_in_use_description": "It belongs to another Gimi account. Try another one!"
+  "email_already_in_use_description": "It belongs to another Gimi account. Try another one!",
+  "pis_not_supported_in_your_country_yet_title": "We don’t support payments in your country yet",
+  "pis_not_supported_in_your_country_yet_subtitle": "Pay out the allowance through your bank or Vipps and then mark it as paid on the next screen!"
 }

@@ -2463,5 +2463,7 @@
   "phone_number_already_in_use_title": "PLZ_CHECK That number is already in use",
   "phone_number_already_in_use_description": "PLZ_CHECK It belongs to another Gimi account. Try another one!",
   "email_already_in_use_title": "PLZ_CHECK That email is already in use",
-  "email_already_in_use_description": "PLZ_CHECK It belongs to another Gimi account. Try another one!"
+  "email_already_in_use_description": "PLZ_CHECK It belongs to another Gimi account. Try another one!",
+  "pis_not_supported_in_your_country_yet_title": "PLZ_CHECK We don’t support payments in your country yet",
+  "pis_not_supported_in_your_country_yet_subtitle": "PLZ_CHECK Pay out the allowance through your bank or Vipps and then mark it as paid on the next screen!"
 }
