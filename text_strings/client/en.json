@@ -2459,5 +2459,9 @@
   "onboarding_setup_allowance_piggybank_monthly_title": "Set up a monthly automatic allowance",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "Sit back and relax! We’ll notify you on the 1st day of every month.",
   "pis_not_supported_popover_title": "We don’t support payments in your country yet",
-  "pis_not_supported_popover_description": "Pay out the allowance through your bank or a payment app and then mark it as paid!"
+  "pis_not_supported_popover_description": "Pay out the allowance through your bank or a payment app and then mark it as paid!",
+  "phone_number_already_in_use_title": "That number is already in use",
+  "phone_number_already_in_use_description": "It belongs to another Gimi account. Try another one!",
+  "email_already_in_use_title": "That email is already in use",
+  "email_already_in_use_description": "It belongs to another Gimi account. Try another one!"
 }

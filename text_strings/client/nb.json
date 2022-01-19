@@ -2459,5 +2459,9 @@
   "onboarding_setup_allowance_piggybank_monthly_title": "Gi automatisk månedspenger i Gimi!",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "Du kan lene deg tilbake! Vi varsler deg den første dagen i hver måned.",
   "pis_not_supported_popover_title": "Vi støtter ikke overføringer i landet ditt ennå",
-  "pis_not_supported_popover_description": "Betal ut uke-/månedpengene gjennom bank- eller betalingsappen din og merk den som betalt!"
+  "pis_not_supported_popover_description": "Betal ut uke-/månedpengene gjennom bank- eller betalingsappen din og merk den som betalt!",
+  "phone_number_already_in_use_title": "PLZ_TRANSLATE That number is already in use",
+  "phone_number_already_in_use_description": "PLZ_TRANSLATE It belongs to another Gimi account. Try another one!",
+  "email_already_in_use_title": "PLZ_TRANSLATE That email is already in use",
+  "email_already_in_use_description": "PLZ_TRANSLATE It belongs to another Gimi account. Try another one!"
 }

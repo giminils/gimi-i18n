@@ -2459,5 +2459,9 @@
   "onboarding_setup_allowance_piggybank_monthly_title": "Stel een automatische overboeking van het maandelijkse zakgeld in",
   "onboarding_setup_allowance_piggybank_monthly_subtitle": "Tijd om te relaxen! Wij sturen je een melding op iedere eerste dag van de maand!",
   "pis_not_supported_popover_title": "We ondersteunen betalingen in jouw land nog niet",
-  "pis_not_supported_popover_description": "Betaal het zakgeld via je bank of een betalingsapp en markeer het als betaald!"
+  "pis_not_supported_popover_description": "Betaal het zakgeld via je bank of een betalingsapp en markeer het als betaald!",
+  "phone_number_already_in_use_title": "PLZ_TRANSLATE That number is already in use",
+  "phone_number_already_in_use_description": "PLZ_TRANSLATE It belongs to another Gimi account. Try another one!",
+  "email_already_in_use_title": "PLZ_TRANSLATE That email is already in use",
+  "email_already_in_use_description": "PLZ_TRANSLATE It belongs to another Gimi account. Try another one!"
 }
