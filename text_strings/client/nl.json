@@ -715,7 +715,7 @@
   "select_parent": "Wie zal het klusje goedkeuren?",
   "added_dream_without_parent_takeover_title": "Je doel is toegevoegd!",
   "added_dream_without_parent_takeover_text": "Je hebt een ouder nodig om geld te krijgen voor je doel.",
-  "parent_no_kids_header": "Welkom bij Gimi!",
+  "parent_no_kids_header": "Welkom bij Gimi",
   "cant_delete_premium_kid_popover_title": "You cannot delete %1$d",
   "cant_delete_premium_kid_popover_text": "You have an active Master subscription, so you cannot delete this connection.",
   "cant_delete_own_premium_account_popover_title": "You cannot delete your account",
