@@ -109,6 +109,7 @@
   "join_signin_button": "Opprette konto/Logg inn",
   "general_welcome_back": "velkommen tilbake",
   "question_phone": "Hva er telefonnummeret ditt?",
+  "question_phone_reason": "PLZ_TRANSLATE Since you're the parent, we need your number and area code!",
   "question_email": "Skriv inn din e-post",
   "add_new_chore": "legg til oppgave",
   "create_new_chore": "lag egen oppgave",
