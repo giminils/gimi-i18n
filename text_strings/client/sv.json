@@ -109,6 +109,7 @@
   "join_signin_button": "Skapa konto/Logga in",
   "general_welcome_back": "välkommen tillbaka",
   "question_phone": "vad är ditt telefonnummer?",
+  "question_phone_reason": "PLZ_CHECK Since you're the parent, we need your number and area code!",
   "question_email": "Skriv in din e-post",
   "add_new_chore": "lägg till uppgift",
   "create_new_chore": "skapa en egen uppgift",

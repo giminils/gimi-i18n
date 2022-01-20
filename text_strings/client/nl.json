@@ -109,6 +109,7 @@
   "join_signin_button": "Word lid/Inloggen",
   "general_welcome_back": "welkom terug",
   "question_phone": "wat is je telefoonnummer?",
+  "question_phone_reason": "PLZ_TRANSLATE Since you're the parent, we need your number and area code!",
   "question_email": "voer je e-mail in",
   "add_new_chore": "klusje toevoegen",
   "create_new_chore": "creëer je eigen klusje",
