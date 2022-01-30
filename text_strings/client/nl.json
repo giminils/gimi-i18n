@@ -2086,7 +2086,7 @@
   "supporters_list_you_owe_money": "Wie is wat verschuldigd?",
   "general_connect_bank_account": "Koppel bank",
   "goal_dream_name": "Naam van het doel",
-  "cancel_sub_to_access_open_banking": "You can’t connect a bank account to a child with an active Gimi Master subscription, cancel it first!",
+  "cancel_sub_to_access_open_banking": "PLZ_TRANSLATE You can’t connect a bank account to a child with an active Gimi Master subscription. Contact support to cancel!",
   "goal_what_do_you_save_for": "Benoem je doel",
   "general_ok_short_expressive": "Oké!",
   "what_can_you_buy_save_emptystate": "Wat je bijvoorbeeld kunt kopen met %1$d aan spaargeld",

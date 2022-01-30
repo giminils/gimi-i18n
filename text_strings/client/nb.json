@@ -2086,7 +2086,7 @@
   "supporters_list_you_owe_money": "Hvem skylder hva?",
   "general_connect_bank_account": "Koble til bankkonto",
   "goal_dream_name": "Navn på målet",
-  "cancel_sub_to_access_open_banking": "Du kan ikke koble en bankkonto til et barn med et aktivt Superskills Pro-abonnement, kanseller det først!",
+  "cancel_sub_to_access_open_banking": "PLZ_TRANSLATE You can’t connect a bank account to a child with an active Gimi Master subscription. Contact support to cancel!",
   "goal_what_do_you_save_for": "Hva heter målet ditt?",
   "general_ok_short_expressive": "OK!",
   "what_can_you_buy_save_emptystate": "Hva du har råd til hvis du når %1$d i besparelser",
