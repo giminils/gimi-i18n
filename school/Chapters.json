@@ -31,6 +31,26 @@
             "storySnippetId": null
         },
         {
+            "id": 6,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_6_title",
+            "subtitleLangKey": "school_chapter_6_subtitle",
+            "imageUrl": "",
+            "lessonIds": [6.1, 6.2, 6.3],
+            "rocketId": 6,
+            "storySnippetId": null
+        },
+        {
+            "id": 7,
+            "isLocked": true,
+            "titleLangKey": "school_chapter_7_title",
+            "subtitleLangKey": "school_chapter_7_subtitle",
+            "imageUrl": "",
+            "lessonIds": [7.1, 7.2, 7.3],
+            "rocketId": 7,
+            "storySnippetId": null
+        },
+        {
             "id": 8,
             "isLocked": true,
             "titleLangKey": "school_chapter_8_title",
