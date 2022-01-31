@@ -2466,5 +2466,7 @@
   "email_already_in_use_title": "E-postadressen er allerede i bruk",
   "email_already_in_use_description": "Den tilhører en annen Gimi-konto. Prøv en annen!",
   "pis_not_supported_in_your_country_yet_title": "Vi støtter ikke betalinger i landet ditt ennå",
-  "pis_not_supported_in_your_country_yet_subtitle": "Betal ut uke-/månedspengene via banken din eller Vipps og merk det som betalt i neste steg!"
+  "pis_not_supported_in_your_country_yet_subtitle_no": "Betal ut uke-/månedspengene via banken din eller Vipps og merk det som betalt i neste steg!",
+  "pis_not_supported_in_your_country_yet_subtitle_nl": "PLZ_TRANSLATE Pay out the allowance through your bank or Tikkie and then mark it as paid on the next screen!",
+  "pis_not_supported_in_your_country_yet_subtitle_fallback": "PLZ_TRANSLATE Pay out the allowance through your bank and then mark it as paid on the next screen!"
 }
