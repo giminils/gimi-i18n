@@ -2468,5 +2468,7 @@
   "pis_not_supported_in_your_country_yet_title": "Vi støtter ikke betalinger i landet ditt ennå",
   "pis_not_supported_in_your_country_yet_subtitle_no": "Betal ut uke-/månedspengene via banken din eller Vipps og merk det som betalt i neste steg!",
   "pis_not_supported_in_your_country_yet_subtitle_nl": "Betal ut uke-/månedspengene via banken din eller Tikkie og merk det som betalt i neste steg!",
-  "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betal ut uke-/månedspengene via banken din og merk det som betalt i neste steg!"
+  "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betal ut uke-/månedspengene via banken din og merk det som betalt i neste steg!",
+  "general_mark_as_paid": "PLZ_TRANSLATE Mark as paid",
+  "marked_as_paid_success_message": "PLZ_TRANSLATE Marked as paid!"
 }
