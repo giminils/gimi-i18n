@@ -2086,7 +2086,7 @@
   "supporters_list_you_owe_money": "Hvem skylder hva?",
   "general_connect_bank_account": "Koble til bankkonto",
   "goal_dream_name": "Navn på målet",
-  "cancel_sub_to_access_open_banking": "PLZ_TRANSLATE You can’t connect a bank account to a child with an active Gimi Master subscription. Contact support to cancel!",
+  "cancel_sub_to_access_open_banking": "Du kan ikke koble en bankkonto til et barn med et aktivt Gimi Master-abonnement. Kontakt med support for å avslutte!",
   "goal_what_do_you_save_for": "Hva heter målet ditt?",
   "general_ok_short_expressive": "OK!",
   "what_can_you_buy_save_emptystate": "Hva du har råd til hvis du når %1$d i besparelser",
@@ -2467,6 +2467,6 @@
   "email_already_in_use_description": "Den tilhører en annen Gimi-konto. Prøv en annen!",
   "pis_not_supported_in_your_country_yet_title": "Vi støtter ikke betalinger i landet ditt ennå",
   "pis_not_supported_in_your_country_yet_subtitle_no": "Betal ut uke-/månedspengene via banken din eller Vipps og merk det som betalt i neste steg!",
-  "pis_not_supported_in_your_country_yet_subtitle_nl": "PLZ_TRANSLATE Pay out the allowance through your bank or Tikkie and then mark it as paid on the next screen!",
-  "pis_not_supported_in_your_country_yet_subtitle_fallback": "PLZ_TRANSLATE Pay out the allowance through your bank and then mark it as paid on the next screen!"
+  "pis_not_supported_in_your_country_yet_subtitle_nl": "Betal ut uke-/månedspengene via banken din eller Tikkie og merk det som betalt i neste steg!",
+  "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betal ut uke-/månedspengene via banken din og merk det som betalt i neste steg!"
 }
