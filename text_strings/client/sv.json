@@ -2469,6 +2469,6 @@
   "pis_not_supported_in_your_country_yet_subtitle_no": "Betala ut vecko-/månadspengen via din bank eller Vipps och markera den som betald i nästa skärm!",
   "pis_not_supported_in_your_country_yet_subtitle_nl": "Betala ut vecko-/månadspengen via din bank eller Tikkie och markera den som betald i nästa skärm!",
   "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betala ut vecko-/månadspengen via din bank och markera den som betald i nästa skärm!",
-  "general_mark_as_paid": "PLZ_CHECK Mark as paid",
-  "marked_as_paid_success_message": "PLZ_CHECK Marked as paid!"
+  "general_mark_as_paid": "Markera som betald",
+  "marked_as_paid_success_message": "Markerad som betald!"
 }
