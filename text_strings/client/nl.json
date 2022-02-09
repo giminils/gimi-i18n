@@ -2360,7 +2360,7 @@
   "tink_category_sport": "Sport",
   "tink_category_pets": "Huisdieren",
   "tink_add_money_desc_placeholder": "Max. 12 tekens alleen letters en cijfers",
-  "tink_updated_at": "Bijgewerkt %1$d",
+  "tink_updated_at": "%1$d bijgewerkt ",
   "flash_card_card_add_bank_account_parent_title": "Voeg de bankrekening van je kind toe",
   "flash_card_card_add_bank_account_parent_desc": "Ga naar de instellingen",
   "general_new_feature": "BETA",
