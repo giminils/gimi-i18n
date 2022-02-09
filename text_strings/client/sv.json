@@ -2185,6 +2185,8 @@
   "bonus_how_is_this_calculated": "Hur är detta uträknat?",
   "the_more_savings_the_bigger_bonus": "Ju mer sparpengar, desto mer i bonus!",
   "current_amount_in_piggybank_with_calculation": "Nuvarande summa i spargrisen: %1$d\n\n%1$d x %2$d% = %3$d",
+  "current_amount_in_savings_account_with_calculation": "PLZ_CHECK Current amount in the vault: %1$d\n\n%1$d x %2$d% = %3$d",
+  "current_amount_in_bank_account_with_calculation": "PLZ_CHECK Current amount on the bank account: %1$d\n\n%1$d x %2$d% = %3$d",
   "bonus_is_zero_if_amount_is_negative": "Bonus är 0 om sparsumman är negativ!",
   "bonus_rates_from_your_supporters": "Bonus från dina föräldrar",
   "divided_between_your_supporters": "Uppdelat mellan dina föräldrar",

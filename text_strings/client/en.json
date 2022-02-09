@@ -2185,6 +2185,8 @@
   "bonus_how_is_this_calculated": "How is this calculated?",
   "the_more_savings_the_bigger_bonus": "The more savings, the bigger the bonus!",
   "current_amount_in_piggybank_with_calculation": "Current amount in the piggybank: %1$d\n\n%1$d x %2$d% = %3$d",
+  "current_amount_in_savings_account_with_calculation": "Current amount in the vault: %1$d\n\n%1$d x %2$d% = %3$d",
+  "current_amount_in_bank_account_with_calculation": "Current amount on the bank account: %1$d\n\n%1$d x %2$d% = %3$d",
   "bonus_is_zero_if_amount_is_negative": "Bonus is 0 if the amount is negative!",
   "bonus_rates_from_your_supporters": "Bonus rates from your parents",
   "divided_between_your_supporters": "Divided between your parents",

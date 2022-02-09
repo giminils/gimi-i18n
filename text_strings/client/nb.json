@@ -2185,6 +2185,8 @@
   "bonus_how_is_this_calculated": "Hvordan beregnes dette?",
   "the_more_savings_the_bigger_bonus": "Jo mer besparelser, jo større bonus!",
   "current_amount_in_piggybank_with_calculation": "Nåværende beløp i sparegrisen: %1$d\n\n%1$d x %2$d% = %3$d",
+  "current_amount_in_savings_account_with_calculation": "PLZ_TRANSLATE Current amount in the vault: %1$d\n\n%1$d x %2$d% = %3$d",
+  "current_amount_in_bank_account_with_calculation": "PLZ_TRANSLATE Current amount on the bank account: %1$d\n\n%1$d x %2$d% = %3$d",
   "bonus_is_zero_if_amount_is_negative": "Bonus er 0 hvis beløpet er negativt!",
   "bonus_rates_from_your_supporters": "Bonus fra foreldrene dine",
   "divided_between_your_supporters": "Delt mellom foreldrene dine",
