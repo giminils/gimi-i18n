@@ -2867,6 +2867,225 @@
             ]
         },
         {
+            "id": 5.1,
+            "challengeId": 5.1,
+            "screens": [
+                {
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_1_title",
+                    "subtitleLangKey": "school_story_5.1_screen_1_subtitle",
+                    "imageUrl": "/static/school/piggyBank.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_1_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_1_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_1_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_1_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_2_title",
+                    "subtitleLangKey": "school_story_5.1_screen_2_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_2_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_2_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_2_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_2_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_3_title",
+                    "subtitleLangKey": "school_story_5.1_screen_3_subtitle",
+                    "imageUrl": "/static/school/coinPouch.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_3_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_3_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_4_title",
+                    "subtitleLangKey": "school_story_5.1_screen_4_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_4_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_4_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_4_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_4_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_5_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_5_button_1_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_6_title",
+                    "subtitleLangKey": "school_story_5.1_screen_6_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_6_button_1_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "type": "PAUSE",
+                    "titleLangKey": "",
+                    "subtitleLangKey": "school_story_1_pause_title",
+                    "imageUrl": "/static/school/piggySwim.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_1_pause_button"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_8_title",
+                    "subtitleLangKey": "school_story_5.1_screen_8_subtitle",
+                    "imageUrl": "/static/school/apple.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_8_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_8_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_9_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "/static/school/budget2.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_9_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_9_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_10_title",
+                    "subtitleLangKey": "school_story_5.1_screen_10_subtitle",
+                    "imageUrl": "/static/school/piggyTeacher.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_10_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_10_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_10_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_10_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_11_title",
+                    "subtitleLangKey": "school_story_5.1_screen_11_subtitle",
+                    "imageUrl": "/static/school/piggyTeacher.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_11_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_11_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_11_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_11_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_12_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "/static/school/eatenApple.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_12_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_5.1_screen_12_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_5.1_screen_13_title",
+                    "subtitleLangKey": "school_story_5.1_screen_13_subtitle",
+                    "imageUrl": "/static/school/warningSign.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_5.1_screen_13_button_1_title"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": 6.1,
             "challengeId": 6.1,
             "screens": [
