@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname $0)/_/husky.sh"
 
-yarn run sara && yarn run lili
+yarn run sara && yarn run lili && git add .
