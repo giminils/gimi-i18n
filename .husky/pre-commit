@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname $0)/_/husky.sh"
+
+yarn run add-new-translations && yarn run update-changed-translations && git add .
