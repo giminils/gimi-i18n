@@ -1,6 +1,17 @@
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 const fs3 = require('fs')
-let templateDirs = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/school', './text_strings/dictionary']
+let templateDirs = [
+  './text_strings/server',
+  './text_strings/templates',
+  './text_strings/gimi-web',
+  './text_strings/client',
+  './text_strings/bot',
+  './text_strings/bot-survey',
+  './text_strings/education',
+  './text_strings/faq',
+  './text_strings/school',
+  './text_strings/dictionary'
+]
 
 let PLZ_CHECK = 'PLZ_CHECK'
 let PLZ_COPY = 'PLZ_COPY'
@@ -8,10 +19,8 @@ let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
 let copyEn: Array<string> = []
 let removePLzCopy = (enTextFile: {[key: string]: string}): any => {
-  Object.keys(enTextFile).forEach(key => {
-    if (enTextFile[key].includes(PLZ_COPY)) {
-      enTextFile[key] = enTextFile[key].replace(PLZ_COPY + ' ', '')
-    }
+  Object.keys(enTextFile).forEach((key) => {
+    if (enTextFile[key].includes(PLZ_COPY)) enTextFile[key] = enTextFile[key].replace(PLZ_COPY + ' ', '')
   })
   return enTextFile
 }
@@ -29,7 +38,7 @@ let removeAndSave = (filePath: string): any => {
   fs3.writeFileSync(langPath, stringifieddUpdateEnTextFile, {encoding: 'utf8'})
 }
 
-let runLili = (filePath: string): any => {
+let runUpdateChangedTranslations = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
   let langPath = getPath('en.json') // Edit here for what language to use
   let lang = fs3.readFileSync(langPath, {encoding: 'utf8'})
@@ -40,14 +49,13 @@ let runLili = (filePath: string): any => {
     if (file === 'default.json') return
     if (file === 'lang.json') return
     const path = getPath(file)
-    let TextStrings = fs3.readFileSync(path, {encoding: 'utf8'})// Textstings file
+    let TextStrings = fs3.readFileSync(path, {encoding: 'utf8'}) // Textstings file
     let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
     // Craete Support§
     let NewTextStrings = {...parsedLang}
-    Object.keys(parsedLang).forEach(key => {
+    Object.keys(parsedLang).forEach((key) => {
       if (parsedLang[key].includes(PLZ_COPY) && !file.includes('en.json')) {
-        if (!file.includes('sv.json'))
-          NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_TRANSLATE)
+        if (!file.includes('sv.json')) NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_TRANSLATE)
         NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_CHECK)
         parsedTextStrings[key] = `${NewTextStrings[key]}`
       }
@@ -68,12 +76,11 @@ let runLili = (filePath: string): any => {
   }
 
   fs3.readdirSync(filePath).forEach((languageCode: string) => {
-    if (languageCode.includes('en.json'))
-      copyEn.push(filePath)
+    if (languageCode.includes('en.json')) copyEn.push(filePath)
     syncTextStrings(languageCode)
   })
 
-  copyEn.forEach(path => {
+  copyEn.forEach((path) => {
     removeAndSave(path)
   })
 
@@ -82,5 +89,5 @@ let runLili = (filePath: string): any => {
   // fs3.writeFileSync(langPath, lang, {encoding: 'utf8'})
 }
 templateDirs.forEach((filePath) => {
-  runLili(filePath)
+  runUpdateChangedTranslations(filePath)
 })
