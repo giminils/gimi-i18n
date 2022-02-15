@@ -2473,5 +2473,7 @@
   "pis_not_supported_in_your_country_yet_subtitle_nl": "Betala ut vecko-/månadspengen via din bank eller Tikkie och markera den som betald i nästa skärm!",
   "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betala ut vecko-/månadspengen via din bank och markera den som betald i nästa skärm!",
   "general_mark_as_paid": "Markera som betald",
-  "marked_as_paid_success_message": "Markerad som betald!"
+  "marked_as_paid_success_message": "Markerad som betald!",
+  "complete_setup_popover_title": "PLZ_CHECK Complete the setup of %1$d first!",
+  "complete_setup_popover_description": "PLZ_CHECK In order to access these settings, you need to finish setting up your child."
 }
