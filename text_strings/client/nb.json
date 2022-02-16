@@ -2474,6 +2474,6 @@
   "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betal ut uke-/månedspengene via banken din og merk det som betalt i neste steg!",
   "general_mark_as_paid": "Merk som betalt",
   "marked_as_paid_success_message": "Merket som betalt!",
-  "complete_setup_popover_title": "PLZ_TRANSLATE Complete the setup of %1$d first!",
-  "complete_setup_popover_description": "PLZ_TRANSLATE In order to access these settings, you need to finish setting up your child."
+  "complete_setup_popover_title": "Fullfør %1$ds profil først!",
+  "complete_setup_popover_description": "Du må gå gjennom de tre trinnene på startsiden før du får tilgang til innstillingene."
 }
