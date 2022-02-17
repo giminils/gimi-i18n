@@ -2472,7 +2472,7 @@
   "pis_not_supported_in_your_country_yet_subtitle_no": "Pay out the allowance through your bank or Vipps and then mark it as paid on the next screen!",
   "pis_not_supported_in_your_country_yet_subtitle_nl": "PLZ_TRANSLATE Pay out the allowance through your bank or Tikkie and then mark it as paid on the next screen!",
   "pis_not_supported_in_your_country_yet_subtitle_fallback": "PLZ_TRANSLATE Pay out the allowance through your bank and then mark it as paid on the next screen!",
-  "general_mark_as_paid": "PLZ_TRANSLATE Mark as paid",
+  "general_mark_as_paid": "Markeer als betaald",
   "marked_as_paid_success_message": "PLZ_TRANSLATE Marked as paid!",
   "complete_setup_popover_title": "PLZ_TRANSLATE Complete the setup of %1$d first!",
   "complete_setup_popover_description": "PLZ_TRANSLATE In order to access these settings, you need to finish setting up your child."
