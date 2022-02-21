@@ -10,6 +10,7 @@
     "fix-lint": "npm run lint -- --fix",
     "add-new-translations": "yarn run babelize && node ./utils/dest/add_new_translations.js",
     "update-changed-translations": "yarn run babelize && node ./utils/dest/update_changed_translations.js",
+    "fix-translations": "yarn run add-new-translations && yarn run update-changed-translations",
     "ida ": "yarn run babelize && node ./utils/dest/ida.js",
     "jenny": "yarn run babelize && node ./utils/dest/jenny.js",
     "check": "tsc",
