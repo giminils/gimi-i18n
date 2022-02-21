@@ -817,7 +817,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_2.1_screen_12_title",
                     "subtitleLangKey": "",
-                    "imageUrl": "/static/school/priceHigher.png",
+                    "imageUrl": "/static/school/pricehigher.png",
                     "buttons": [
                         {
                             "langKey": "school_story_2.1_screen_12_button_1_title"
