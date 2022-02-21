@@ -2201,7 +2201,7 @@
   "not_main_parent_warning_title": "Du har ikke tillatelse til å endre konto!",
   "not_main_parent_warning_desc": "Bare forelderen som koblet til bankkontoen kan endre den. Spør dem!",
   "tink_accept_terms_title": "Jeg har lest og godkjent brukervilkårene",
-  "tink_user_terms_link": "https://gimitheapp.com/en/press/account-information-services?cooBare forelderen som koblet til bankkontoen kan endre den. Spør dem!kies=false",
+  "tink_user_terms_link": "https://terms.gimitheapp.com/no/account-information-services",
   "avatar_creator_title": "Tilpass avataren din",
   "general_save_word": "Lagre",
   "tink_pis_fail_error_view_title": "Noe gikk galt...",
