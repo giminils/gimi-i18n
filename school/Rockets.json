@@ -689,35 +689,35 @@
                 },
                 {
                     "id": 2,
-                    "titleLangKey": "school_rocket_3_screen_3_title",
+                    "titleLangKey": "school_rocket_3_screen_2_title",
                     "buttons": [
                         {
-                            "langKey": "school_rocket_3_screen_3_button_1_title",
+                            "langKey": "school_rocket_3_screen_2_button_1_title",
                             "isCorrect": true,
                             "id": 1
                         },
                         {
-                            "langKey": "school_rocket_3_screen_3_button_2_title",
+                            "langKey": "school_rocket_3_screen_2_button_2_title",
                             "isCorrect": false,
                             "id": 2
                         },
                         {
-                            "langKey": "school_rocket_3_screen_3_button_3_title",
+                            "langKey": "school_rocket_3_screen_2_button_3_title",
                             "isCorrect": false,
                             "id": 3
                         },
                         {
-                            "langKey": "school_rocket_3_screen_3_button_4_title",
+                            "langKey": "school_rocket_3_screen_2_button_4_title",
                             "isCorrect": false,
                             "id": 4
                         },
                         {
-                            "langKey": "school_rocket_3_screen_3_button_5_title",
+                            "langKey": "school_rocket_3_screen_2_button_5_title",
                             "isCorrect": false,
                             "id": 5
                         },
                         {
-                            "langKey": "school_rocket_3_screen_3_button_6_title",
+                            "langKey": "school_rocket_3_screen_2_button_6_title",
                             "isCorrect": false,
                             "id": 6
                         }
