@@ -2437,7 +2437,7 @@
   "onboarding_setup_account_first": "Set up account first",
   "onboarding_setup_allowance_first": "Set allowance first",
   "onboarding_select_bank_type_title": "Bank account or piggybank?",
-  "onboarding_select_bank_type_bankaccount_title": "PLZ_COPY Connect a bank account",
+  "onboarding_select_bank_type_bankaccount_title": "Connect a bank account",
   "onboarding_select_bank_type_bankaccount_description": "We currently support the following banks:",
   "onboarding_select_bank_type_bankaccount_not_available": "Not available in your country yet!",
   "onboarding_select_bank_type_piggybank_title": "Practice with the piggybank",
