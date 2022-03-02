@@ -2248,6 +2248,8 @@
   "tink_crendentials_refreshed_success": "Bankkonto er oppdatert!",
   "delete_tink_account_popover_title": "Er du sikker?",
   "delete_tink_account_popover_desc": "Dette sletter alle bankkontoer du har lagt til i Gimi",
+  "cancel_connect_bank_account_popover_title": "PLZ_TRANSLATE Are you sure?",
+  "cancel_connect_bank_account_popover_desc": "PLZ_TRANSLATE Your bank account connection progress will be reset. You can connect it later!",
   "could_not_find_any_accounts_to_connect": "Kunne ikke finne noen kontoer å koble til...",
   "all_supported_accounts_already_connected": "Du har allerede koblet til alle støttede kontoer...",
   "question_nickname": "Hva heter de?",

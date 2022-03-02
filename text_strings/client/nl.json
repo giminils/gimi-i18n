@@ -2248,6 +2248,8 @@
   "tink_crendentials_refreshed_success": "Bankrekening is vernieuwd!",
   "delete_tink_account_popover_title": "Weet je het zeker?",
   "delete_tink_account_popover_desc": "Dit zal alle bankrekeningen verwijderen die je hebt toegevoegd aan Gimi",
+  "cancel_connect_bank_account_popover_title": "PLZ_TRANSLATE Are you sure?",
+  "cancel_connect_bank_account_popover_desc": "PLZ_TRANSLATE Your bank account connection progress will be reset. You can connect it later!",
   "could_not_find_any_accounts_to_connect": "Kon geen accounts vinden om te verbinden...",
   "all_supported_accounts_already_connected": "Je hebt alle ondersteunde accounts al verbonden...",
   "question_nickname": "Wat is de naam van je kind?",
