@@ -2485,5 +2485,7 @@
   "general_mark_as_paid": "Merk som betalt",
   "marked_as_paid_success_message": "Merket som betalt!",
   "complete_setup_popover_title": "Fullfør %1$ds profil først!",
-  "complete_setup_popover_description": "Du må gå gjennom de tre trinnene på startsiden før du får tilgang til innstillingene."
+  "complete_setup_popover_description": "Du må gå gjennom de tre trinnene på startsiden før du får tilgang til innstillingene.",
+  "onboarding_open_banking_free_for": "PLZ_TRANSLATE Free for customers of:",
+  "onboarding_open_banking_also_available_for": "PLZ_TRANSLATE Also available for:"
 }
