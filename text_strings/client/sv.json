@@ -2076,6 +2076,8 @@
   "open_banking_account_connected_subtitle": "Både du och %1$d kan nu se kontot i era Gimi-appar!",
   "open_banking_choose_account_title": "Vilket konto vill du lägga till?",
   "open_banking_choose_account_subtitle": "Hittar du inte ditt barns konto? Skriv till oss i supportchatten nedan!",
+  "open_banking_almost_done_title": "PLZ_CHECK Almost done...",
+  "open_banking_almost_done_subtitle": "PLZ_CHECK Complete the bank account connection by upgrading to Superskills Pro!",
   "goal_time_spent_saving": "Tid det tog att spara",
   "goal_amount_saved_per_day": "Sparat per dag i snitt",
   "general_days": "Dagar",
@@ -2330,6 +2332,7 @@
   "kid_open_locked_pro_feature_title": "Det här är en låst funktion",
   "kid_open_locked_pro_feature_desc": "Endast Superskills Pro-användare har tillgång till detta. Be dina föräldrar uppgradera!",
   "pro_info_start_trial": "Påbörja min gratisperiod",
+  "pro_info_changed_my_mind": "PLZ_CHECK I changed my mind",
   "dream_save": "Spara",
   "general_superskills_pro": "Superskills Pro",
   "cant_get_tink_for_premium_kid_title": "Avbryt Gimi Master först",
@@ -2484,5 +2487,7 @@
   "general_mark_as_paid": "Markera som betald",
   "marked_as_paid_success_message": "Markerad som betald!",
   "complete_setup_popover_title": "Färdigställ %1$ds profil först!",
-  "complete_setup_popover_description": "Du behöver gå igenom de tre stegen på startsidan innan du kan komma åt inställingarna."
+  "complete_setup_popover_description": "Du behöver gå igenom de tre stegen på startsidan innan du kan komma åt inställingarna.",
+  "onboarding_open_banking_free_for": "PLZ_CHECK Free for customers of:",
+  "onboarding_open_banking_also_available_for": "PLZ_CHECK Also available for:"
 }
