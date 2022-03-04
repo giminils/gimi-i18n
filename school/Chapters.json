@@ -96,18 +96,8 @@
             "titleLangKey": "school_chapter_10_title",
             "subtitleLangKey": "school_chapter_10_subtitle",
             "imageUrl": "",
-            "lessonIds": [10.1, 10.2, 10.3],
+            "lessonIds": [10.1, 10.2, 10.3, 10.4],
             "rocketId": 10,
-            "storySnippetId": null
-        },
-        {
-            "id": 11,
-            "isLocked": true,
-            "titleLangKey": "school_chapter_11_title",
-            "subtitleLangKey": "school_chapter_11_subtitle",
-            "imageUrl": "",
-            "lessonIds": [11.1, 11.2, 11.3],
-            "rocketId": 11,
             "storySnippetId": null
         }
     ]
