@@ -2250,6 +2250,8 @@
   "tink_crendentials_refreshed_success": "Bankkontot är synkat!",
   "delete_tink_account_popover_title": "Är du säker?",
   "delete_tink_account_popover_desc": "Du kommer att radera alla bankkonton du har lagt till i Gimi.",
+  "cancel_connect_bank_account_popover_title": "PLZ_CHECK Are you sure?",
+  "cancel_connect_bank_account_popover_desc": "PLZ_CHECK Your bank account connection progress will be reset. You can connect it later!",
   "could_not_find_any_accounts_to_connect": "Kunde inte hitta några bankkonton att lägga till...",
   "all_supported_accounts_already_connected": "Du har redan lagt till alla möjliga bankkonton...",
   "question_nickname": "Vad är barnets förnamn?",
