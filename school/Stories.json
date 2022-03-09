@@ -1386,7 +1386,7 @@
                     "id": 10,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3.1_screen_10_title",
-                    "subtitleLangKey": "school_story_3.1_screen_9_subtitle",
+                    "subtitleLangKey": "school_story_3.1_screen_10_subtitle",
                     "imageUrl": "/static/school/money.png",
                     "buttons": [
                         {
@@ -1413,7 +1413,7 @@
                     "id": 12,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3.1_screen_12_title",
-                    "subtitleLangKey": "school_story_3.1_screen__subtitle",
+                    "subtitleLangKey": "school_story_3.1_screen_12_subtitle",
                     "imageUrl": "/static/school/shopping.png",
                     "buttons": [
                         {
@@ -5240,12 +5240,6 @@
                         },
                         {
                             "langKey": "school_story_8.2_screen_8_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_8.2_screen_8_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_8.2_screen_8_button_4_title"
                         }
                     ]
                 },
