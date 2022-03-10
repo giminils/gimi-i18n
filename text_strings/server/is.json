@@ -545,7 +545,7 @@
   "ADGEON016_notification_title": "PLZ_TRANSLATE Add a bonus to encourage {child.nickname} to save!",
   "ADGEON017_push_title": "PLZ_TRANSLATE Set up a bonus rate for {child.nickname}",
   "ADGEON017_notification_title": "PLZ_TRANSLATE Set up a bonus rate for {child.nickname}",
-  "CHGEON042_notification_title": "PLZ_TRANSLATE Your bank account has been connected",
+  "CHGEON042_notification_title": "PLZ_TRANSLATE Your {bank_name} account has been connected",
   "CHGEON005_notification_title_v2": "PLZ_TRANSLATE Your bonus has been updated to {child.total_interest_rate}%",
   "CHGEON005_push_title_v2": "PLZ_TRANSLATE Your bonus has been updated in Gimi, check it out!",
   "ADGERE044_notification_title": "PLZ_TRANSLATE {child.nickname} turned {child_age}, update allowance?",
