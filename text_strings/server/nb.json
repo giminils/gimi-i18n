@@ -545,7 +545,7 @@
   "ADGEON016_notification_title": "Legg til en bonus for å motivere {child.nickname} til sparing!",
   "ADGEON017_push_title": "Lag en bonusordning for {child.nickname}",
   "ADGEON017_notification_title": "Lag en bonusordning for {child.nickname}",
-  "CHGEON042_notification_title": "Banken din har blitt koblet til",
+  "CHGEON042_notification_title": "PLZ_TRANSLATE Your {bank_name} account has been connected",
   "CHGEON005_notification_title_v2": "Bonusen din har blitt oppdatert til {child.total_interest_rate}%",
   "CHGEON005_push_title_v2": "Bonusen din har blitt oppdatert i Gimi, sjekk det ut!",
   "ADGERE044_notification_title": "{child.nickname} har blitt {child_age}, oppdatere uke- og månedspenger?",
