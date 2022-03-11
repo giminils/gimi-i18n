@@ -2072,7 +2072,7 @@
   "choose_kid_open_banking_title": "For hvilket barn?",
   "choose_kid_open_banking_subtitle": "Velg ett barn nå, du kan koble til flere kontoer senere!",
   "general_add_goal": "Legg til mål",
-  "open_banking_account_connected_title": "Bankkontoen er nå tilkoblet!",
+  "open_banking_account_connected_title": "PLZ_TRANSLATE The %1$d account is now connected!",
   "open_banking_account_connected_subtitle": "Både du og %1$d kan nå se kontoen i Gimi-appene dine!",
   "open_banking_choose_account_title": "Hvilken konto vil du koble til?",
   "open_banking_choose_account_subtitle": "Kan du ikke finne barnets konto? Skriv til oss i supportchatten nedenfor!",
