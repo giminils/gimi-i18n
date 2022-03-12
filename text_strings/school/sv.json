@@ -15,7 +15,7 @@
   "school_chapter_9_title": "Spendera 2",
   "school_chapter_10_title": "Spara & investera",
   "school_chapter_11_title": "Vad händer om du inte betalar?",
-  "school_lesson_1_title": "Berättelse 1.1",
+  "school_lesson_1.1_title": "Berättelse 1.1",
   "school_lesson_subtitle1": "Läs berättelsen för att låsa upp utmaningen. Ta så lång tid på dig som du behöver! Du kan göra dem båda så många gånger du vill.",
   "school_lesson_1.2_title": "Berättelse 1.2",
   "school_lesson_1.3_title": "Berättelse 1.3",
@@ -4023,7 +4023,5 @@
   "school_feedback_double_check_answer": "Dubbelkolla ditt svar nästa gång.",
   "school_check": "Rätta",
   "school_sound_mute": "Tyst",
-  "school_sound_read": "Lyssna",
-  "school_lesson_25_title": "Berättelse 6.1",
-  "school_lesson_26_title": "Berättelse 6.2"
+  "school_sound_read": "Lyssna"
 }
