@@ -1448,7 +1448,7 @@
   "qr_code_used_popover_title": "Reload code",
   "qr_code_used_popover_text": "Reload the QR code each time you connect with someone.",
   "chore_overview_completed_at": "Completed on: %1$d",
-  "amount_too_high_error": "PLZ_COPY Can't deduct more than what's on the account!",
+  "amount_too_high_error": "Can't deduct more than what's on the account!",
   "overview_un_skip_payday_button": "Un-skip",
   "street_number_letter": "Street, number, letter",
   "purchase_done_redirecting": "Subscription started successfully!",
