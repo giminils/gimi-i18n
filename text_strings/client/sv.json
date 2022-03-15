@@ -1448,7 +1448,7 @@
   "qr_code_used_popover_title": "Ladda om kod",
   "qr_code_used_popover_text": "Ladda om QR-koden varje gång du kopplar ihop med någon.",
   "chore_overview_completed_at": "Färdig: %1$d",
-  "amount_too_high_error": "Beloppet är för högt!",
+  "amount_too_high_error": "PLZ_CHECK Can't deduct more than what's on the account!",
   "overview_un_skip_payday_button": "Återaktivera",
   "street_number_letter": "Gata, nummer, bokstav",
   "purchase_done_redirecting": "Prenumerationen startad!",
