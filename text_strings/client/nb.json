@@ -2224,7 +2224,7 @@
   "general_do_again": "Gjøre om",
   "general_locked": "Låst",
   "friends_emptystate_profile": "Ingen venner enda, legg dem til!",
-  "general_connect_kid_bank_account": "Koble til barnets bankkonto",
+  "general_connect_kid_bank_account": "PLZ_TRANSLATE Connect %1$d's bank account",
   "kid_profile_tab_adventures": "Oppdrag",
   "flash_card_family_missions_title": "Familieoppdrag",
   "flash_card_family_missions_desc": "Gå gjennom det grunnleggende om privatøkonomi sammen med barnet",
