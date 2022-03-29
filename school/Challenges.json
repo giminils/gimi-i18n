@@ -7953,7 +7953,7 @@
                         {
                             "langKey": "school_challenge_11.3_screen_1_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         }
                     ]
                 },
