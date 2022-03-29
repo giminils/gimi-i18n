@@ -681,7 +681,7 @@
                 {
                     "id": 1,
                     "boldTitleLangKey": "school_school_challenge_2.2_screen_1_boldheader",
-                    "titleLangKey": "school_school_challenge_2.2_screen_1_title",
+                    "titleLangKey": "school_challenge_2.2_screen_1_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -1555,12 +1555,12 @@
                         {
                             "langKey": "school_challenge_3.2_screen_8_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "langKey": "school_challenge_3.2_screen_8_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         }
                     ]
                 },
@@ -1829,7 +1829,7 @@
                             "id": 1,
                             "langKey": "school_challenge_3.3_screen_7_button_1_title",
                             "imageUrl": "/static/school/backpack.png",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "id": 2,
@@ -1841,7 +1841,7 @@
                             "id": 3,
                             "langKey": "school_challenge_3.3_screen_7_button_3_title",
                             "imageUrl": "/static/school/backpack.png",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "id": 4,
