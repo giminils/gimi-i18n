@@ -108,7 +108,7 @@
   "signin_button": "Skicka inbjudan",
   "join_signin_button": "Skapa konto/Logga in",
   "general_welcome_back": "välkommen tillbaka",
-  "question_phone": "vad är ditt telefonnummer?",
+  "question_phone": "PLZ_CHECK Type your phone number",
   "question_phone_reason": "Eftersom du är föräldern behöver vi ditt nummer och landskod!",
   "question_email": "Skriv in din e-post",
   "add_new_chore": "lägg till uppgift",

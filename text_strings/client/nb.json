@@ -108,7 +108,7 @@
   "signin_button": "Send invitasjon",
   "join_signin_button": "Opprette konto/Logg inn",
   "general_welcome_back": "velkommen tilbake",
-  "question_phone": "Hva er telefonnummeret ditt?",
+  "question_phone": "PLZ_TRANSLATE Type your phone number",
   "question_phone_reason": "Siden du er forelderen, trenger vi ditt nummer og landskode!",
   "question_email": "Skriv inn din e-post",
   "add_new_chore": "legg til oppgave",
