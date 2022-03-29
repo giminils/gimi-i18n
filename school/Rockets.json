@@ -3575,6 +3575,372 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 6,
+            "subtitleLangKey": "school_rocket_6_subtitle",
+            "screens": [
+                {
+                    "id": 1,
+                    "titleLangKey": "school_rocket_6_screen_1_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_1_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_1_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_1_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_1_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_1_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_1_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titleLangKey": "school_rocket_6_screen_2_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_2_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_2_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_2_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_2_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_2_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_2_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titleLangKey": "school_rocket_6_screen_3_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_3_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_3_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_3_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_3_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_3_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_3_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titleLangKey": "school_rocket_6_screen_4_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_4_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_4_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_4_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_4_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_4_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_4_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titleLangKey": "school_rocket_6_screen_5_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_5_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_5_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_5_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_5_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_5_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_5_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "titleLangKey": "school_rocket_6_screen_6_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_6_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_6_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_6_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_6_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_6_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_6_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "titleLangKey": "school_rocket_6_screen_7_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_7_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_7_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_7_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_7_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_7_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_7_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "titleLangKey": "school_rocket_6_screen_8_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_8_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_8_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_8_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_8_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_8_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_8_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "titleLangKey": "school_rocket_6_screen_9_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_9_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_9_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_9_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_9_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_9_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_9_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "titleLangKey": "school_rocket_6_screen_10_title",
+                    "buttons": [
+                        {
+                            "langKey": "school_rocket_6_screen_10_button_1_title",
+                            "isCorrect": true,
+                            "id": 1
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_10_button_2_title",
+                            "isCorrect": false,
+                            "id": 2
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_10_button_3_title",
+                            "isCorrect": false,
+                            "id": 3
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_10_button_4_title",
+                            "isCorrect": false,
+                            "id": 4
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_10_button_5_title",
+                            "isCorrect": false,
+                            "id": 5
+                        },
+                        {
+                            "langKey": "school_rocket_6_screen_10_button_6_title",
+                            "isCorrect": false,
+                            "id": 6
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
