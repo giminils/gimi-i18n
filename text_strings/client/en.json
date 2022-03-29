@@ -108,7 +108,7 @@
   "signin_button": "Send invite",
   "join_signin_button": "Join/Log in",
   "general_welcome_back": "welcome back",
-  "question_phone": "what's your phone number?",
+  "question_phone": "Type your phone number",
   "question_phone_reason": "Since you're the parent, we need your number and area code!",
   "question_email": "enter your email",
   "add_new_chore": "add chore",

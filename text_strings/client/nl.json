@@ -108,7 +108,7 @@
   "signin_button": "Uitnodiging versturen",
   "join_signin_button": "Word lid/Inloggen",
   "general_welcome_back": "Welkom terug",
-  "question_phone": "Wat is je telefoonnummer?",
+  "question_phone": "PLZ_TRANSLATE Type your phone number",
   "question_phone_reason": "Omdat jij de ouder bent, hebben we je nummer en netnummer nodig!",
   "question_email": "Voer je e-mail in",
   "add_new_chore": "Klusje toevoegen",
