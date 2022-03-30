@@ -4236,7 +4236,7 @@
                     "id": 2,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.1_screen_2_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.1_screen_2_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4263,20 +4263,11 @@
                     "id": 4,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.1_screen_4_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.1_screen_4_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.1_screen_4_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_4_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_4_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_4_button_4_title"
                         }
                     ]
                 },
@@ -4298,20 +4289,32 @@
                 {
                     "id": 6,
                     "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.1_screen_6_title",
+                    "subtitleLangKey": "school_story_7.1_screen_6_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.1_screen_6_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.1_screen_6_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "type": "DEFAULT",
                     "titleLangKey": "school_story_7.1_screen_7_title",
                     "subtitleLangKey": "school_story_7.1_screen_7_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.1_screen_7_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_7_button_2_title"
                         }
                     ]
                 },
                 {
-                    "id": 7,
+                    "id": 8,
                     "type": "PAUSE",
                     "titleLangKey": "",
                     "subtitleLangKey": "school_story_1_pause_title",
@@ -4323,25 +4326,10 @@
                     ]
                 },
                 {
-                    "id": 8,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_7.1_screen_8_title",
-                    "subtitleLangKey": "school_story_7.1_screen_8_subtitle",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_story_7.1_screen_8_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_8_button_2_title"
-                        }
-                    ]
-                },
-                {
                     "id": 9,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.1_screen_9_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.1_screen_9_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4349,6 +4337,12 @@
                         },
                         {
                             "langKey": "school_story_7.1_screen_9_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.1_screen_9_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.1_screen_9_button_4_title"
                         }
                     ]
                 },
@@ -4361,9 +4355,6 @@
                     "buttons": [
                         {
                             "langKey": "school_story_7.1_screen_10_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_10_button_2_title"
                         }
                     ]
                 },
@@ -4392,14 +4383,11 @@
                     "id": 12,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.1_screen_12_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.1_screen_12_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.1_screen_12_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.1_screen_12_button_2_title"
                         }
                     ]
                 },
@@ -4407,14 +4395,14 @@
                     "id": 13,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.1_screen_13_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.1_screen_13_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.1_screen_13_button_1_title"
                         },
                         {
-                            "langKey": "school_story_7.1_screen_13_button_1_title"
+                            "langKey": "school_story_7.1_screen_13_button_2_title"
                         }
                     ]
                 },
@@ -4429,7 +4417,7 @@
                             "langKey": "school_story_7.1_screen_14_button_1_title"
                         },
                         {
-                            "langKey": "school_story_7.1_screen_14_button_1_title"
+                            "langKey": "school_story_7.1_screen_14_button_2_title"
                         }
                     ]
                 },
@@ -4444,7 +4432,22 @@
                             "langKey": "school_story_7.1_screen_15_button_1_title"
                         },
                         {
-                            "langKey": "school_story_7.1_screen_15_button_1_title"
+                            "langKey": "school_story_7.1_screen_15_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.1_screen_16_title",
+                    "subtitleLangKey": "school_story_7.1_screen_16_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.1_screen_16_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.1_screen_16_button_2_title"
                         }
                     ]
                 }
@@ -4458,7 +4461,7 @@
                     "id": 1,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_1_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.2_screen_1_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4466,6 +4469,12 @@
                         },
                         {
                             "langKey": "school_story_7.2_screen_1_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_1_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_1_button_4_title"
                         }
                     ]
                 },
@@ -4473,7 +4482,7 @@
                     "id": 2,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_2_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.2_screen_2_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4481,6 +4490,12 @@
                         },
                         {
                             "langKey": "school_story_7.2_screen_2_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_2_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_2_button_4_title"
                         }
                     ]
                 },
@@ -4488,14 +4503,11 @@
                     "id": 3,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_3_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.2_screen_3_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.2_screen_3_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_3_button_2_title"
                         }
                     ]
                 },
@@ -4518,7 +4530,7 @@
                     "id": 5,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_5_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.2_screen_5_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4533,7 +4545,7 @@
                     "id": 6,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_6_title",
-                    "subtitleLangKey": "school_story_7.2_screen_6_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4553,6 +4565,15 @@
                     "buttons": [
                         {
                             "langKey": "school_story_7.2_screen_7_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_7_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_7_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.2_screen_7_button_4_title"
                         }
                     ]
                 },
@@ -4610,12 +4631,6 @@
                         },
                         {
                             "langKey": "school_story_7.2_screen_11_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_11_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_11_button_4_title"
                         }
                     ]
                 },
@@ -4623,7 +4638,7 @@
                     "id": 12,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_12_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.2_screen_12_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4664,15 +4679,6 @@
                     "buttons": [
                         {
                             "langKey": "school_story_7.2_screen_14_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_14_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_14_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_14_button_4_title"
                         }
                     ]
                 },
@@ -4685,9 +4691,6 @@
                     "buttons": [
                         {
                             "langKey": "school_story_7.2_screen_15_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.2_screen_15_button_2_title"
                         }
                     ]
                 }
@@ -4731,7 +4734,7 @@
                     "id": 3,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.3_screen_3_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.3_screen_3_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4739,6 +4742,12 @@
                         },
                         {
                             "langKey": "school_story_7.3_screen_3_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.3_screen_3_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.3_screen_3_button_4_title"
                         }
                     ]
                 },
@@ -4746,7 +4755,7 @@
                     "id": 4,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.3_screen_4_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.3_screen_4_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -4754,12 +4763,6 @@
                         },
                         {
                             "langKey": "school_story_7.3_screen_4_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_4_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_4_button_4_title"
                         }
                     ]
                 },
@@ -4767,25 +4770,31 @@
                     "id": 5,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.3_screen_5_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.3_screen_5_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.3_screen_5_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_5_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_5_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_5_button_4_title"
                         }
                     ]
                 },
                 {
                     "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.3_screen_6_title",
+                    "subtitleLangKey": "school_story_7.3_screen_6_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.3_screen_6_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.3_screen_6_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
                     "type": "PAUSE",
                     "titleLangKey": "",
                     "subtitleLangKey": "school_story_1_pause_title",
@@ -4797,38 +4806,17 @@
                     ]
                 },
                 {
-                    "id": 7,
-                    "type": "DEFAULT",
-                    "titleLangKey": "school_story_7.3_screen_6_title",
-                    "subtitleLangKey": "",
-                    "imageUrl": "",
-                    "buttons": [
-                        {
-                            "langKey": "school_story_7.3_screen_6_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_6_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_6_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_6_button_4_title"
-                        }
-                    ]
-                },
-                {
                     "id": 8,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_story_7.3_screen_7_title",
-                    "subtitleLangKey": "",
+                    "titleLangKey": "school_story_7.3_screen_8_title",
+                    "subtitleLangKey": "school_story_7.3_screen_8_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_story_7.3_screen_7_button_1_title"
+                            "langKey": "school_story_7.3_screen_8_button_1_title"
                         },
                         {
-                            "langKey": "school_story_7.3_screen_7_button_2_title"
+                            "langKey": "school_story_7.3_screen_8_button_2_title"
                         }
                     ]
                 },
@@ -4857,14 +4845,11 @@
                     "id": 10,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.3_screen_10_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.3_screen_10_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.3_screen_10_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_10_button_2_title"
                         }
                     ]
                 },
@@ -4872,20 +4857,11 @@
                     "id": 11,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.3_screen_11_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_7.3_screen_11_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_7.3_screen_11_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_11_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_11_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_7.3_screen_11_button_4_title"
                         }
                     ]
                 },
@@ -4901,6 +4877,243 @@
                         },
                         {
                             "langKey": "school_story_7.3_screen_12_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.3_screen_12_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.3_screen_12_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.3_screen_13_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.3_screen_13_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.3_screen_13_button_2_title"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7.4,
+            "challengeId": 7.4,
+            "screens": [
+                {
+                    "id": 1,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_1_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_1_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_1_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_2_title",
+                    "subtitleLangKey": "school_story_7.4_screen_2_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_2_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_2_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_2_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_2_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_3_title",
+                    "subtitleLangKey": "school_story_7.4_screen_3_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_3_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_3_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_4_title",
+                    "subtitleLangKey": "school_story_7.4_screen_4_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_4_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_4_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_5_title",
+                    "subtitleLangKey": "school_story_7.4_screen_5_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_5_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_5_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_6_title",
+                    "subtitleLangKey": "school_story_7.4_screen_6_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_6_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_6_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "type": "PAUSE",
+                    "titleLangKey": "",
+                    "subtitleLangKey": "school_story_1_pause_title",
+                    "imageUrl": "/static/school/piggySwim.png",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_1_pause_button"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_8_title",
+                    "subtitleLangKey": "school_story_7.4_screen_8_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_8_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_8_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_9_title",
+                    "subtitleLangKey": "school_story_7.4_screen_9_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_9_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_9_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_9_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_9_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_10_title",
+                    "subtitleLangKey": "school_story_7.4_screen_10_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_10_button_1_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_11_title",
+                    "subtitleLangKey": "school_story_7.4_screen_11_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_11_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_11_button_2_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_12_title",
+                    "subtitleLangKey": "",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_12_button_1_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_13_title",
+                    "subtitleLangKey": "school_story_7.4_screen_13_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_13_button_1_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_7.4_screen_14_title",
+                    "subtitleLangKey": "school_story_7.4_screen_14_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_7.4_screen_14_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_7.4_screen_14_button_2_title"
                         }
                     ]
                 }

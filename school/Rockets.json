@@ -2093,11 +2093,6 @@
                             "langKey": "school_rocket_7_screen_1_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_1_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2129,11 +2124,6 @@
                             "langKey": "school_rocket_7_screen_2_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_2_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2165,11 +2155,6 @@
                             "langKey": "school_rocket_7_screen_3_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_3_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2201,11 +2186,6 @@
                             "langKey": "school_rocket_7_screen_4_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_4_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2237,11 +2217,6 @@
                             "langKey": "school_rocket_7_screen_5_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_5_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2273,11 +2248,6 @@
                             "langKey": "school_rocket_7_screen_6_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_6_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2309,11 +2279,6 @@
                             "langKey": "school_rocket_7_screen_7_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_7_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2345,11 +2310,6 @@
                             "langKey": "school_rocket_7_screen_8_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_8_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2381,11 +2341,6 @@
                             "langKey": "school_rocket_7_screen_9_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_9_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
@@ -2417,47 +2372,6 @@
                             "langKey": "school_rocket_7_screen_10_button_5_title",
                             "isCorrect": false,
                             "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_10_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
-                        }
-                    ]
-                },
-                {
-                    "id": 11,
-                    "titleLangKey": "school_rocket_7_screen_11_title",
-                    "buttons": [
-                        {
-                            "langKey": "school_rocket_7_screen_11_button_1_title",
-                            "isCorrect": true,
-                            "id": 1
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_11_button_2_title",
-                            "isCorrect": false,
-                            "id": 2
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_11_button_3_title",
-                            "isCorrect": false,
-                            "id": 3
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_11_button_4_title",
-                            "isCorrect": false,
-                            "id": 4
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_11_button_5_title",
-                            "isCorrect": false,
-                            "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_7_screen_11_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 }

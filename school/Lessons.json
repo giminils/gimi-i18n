@@ -221,6 +221,16 @@
             "challengeId": 7.3
         },
         {
+            "id": 7.4,
+            "isEnabled": true,
+            "titleLangKey": "school_lesson_7.4_title",
+            "subtitleLangKey": "school_lesson_subtitle1",
+            "imageUrl": "",
+            "type": "DEFAULT",
+            "storyId": 7.4,
+            "challengeId": 7.4
+        },
+        {
             "id": 8.1,
             "isEnabled": true,
             "titleLangKey": "school_lesson_8.1_title",
