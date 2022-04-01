@@ -2446,7 +2446,7 @@
   "onboarding_setup_account_first": "Gjør trinn 1 først",
   "onboarding_setup_allowance_first": "Gjør trinn 2 først",
   "onboarding_select_bank_type_title": "Bankkonto eller sparegris?",
-  "onboarding_select_bank_type_bankaccount_title": "Koble barnets bankkonto",
+  "onboarding_select_bank_type_bankaccount_title": "Koble til %1$ds bankkonto",
   "onboarding_select_bank_type_bankaccount_description": "Akkurat nå har vi støtte til følgende banker:",
   "onboarding_select_bank_type_bankaccount_not_available": "Ikke tilgjengelig i ditt land ennå!",
   "onboarding_select_bank_type_piggybank_title": "Øv med sparegrisen",

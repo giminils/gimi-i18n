@@ -2446,7 +2446,7 @@
   "onboarding_setup_account_first": "Stel eerst het account in",
   "onboarding_setup_allowance_first": "Stel zakgeld in",
   "onboarding_select_bank_type_title": "Bankrekening of spaarvarken?",
-  "onboarding_select_bank_type_bankaccount_title": "Word onze bètatester!",
+  "onboarding_select_bank_type_bankaccount_title": "Maak verbinding met de bankrekening van %1$d's",
   "onboarding_select_bank_type_bankaccount_description": "Momenteel ondersteunen we de volgende banken:",
   "onboarding_select_bank_type_bankaccount_not_available": "Nog niet beschikbaar in jouw land!",
   "onboarding_select_bank_type_piggybank_title": "Oefen met het spaarvarken",

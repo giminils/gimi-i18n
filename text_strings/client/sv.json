@@ -2446,7 +2446,7 @@
   "onboarding_setup_account_first": "Välj kontotyp först",
   "onboarding_setup_allowance_first": "Sätt veckopeng först",
   "onboarding_select_bank_type_title": "Bankkonto eller spargris?",
-  "onboarding_select_bank_type_bankaccount_title": "Anslut barnets bankkonto",
+  "onboarding_select_bank_type_bankaccount_title": "Anslut %1$ds bankkonto",
   "onboarding_select_bank_type_bankaccount_description": "Just nu har vi stöd för följande banker:",
   "onboarding_select_bank_type_bankaccount_not_available": "Inte tillgängligt i ditt land!",
   "onboarding_select_bank_type_piggybank_title": "Öva med spargrisen",
