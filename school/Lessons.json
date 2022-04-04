@@ -283,7 +283,7 @@
         {
             "id": 9.3,
             "isEnabled": true,
-            "titleLangKey": "school_lesson_9.2_title",
+            "titleLangKey": "school_lesson_9.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
             "imageUrl": "",
             "type": "DEFAULT",
@@ -323,7 +323,7 @@
         {
             "id": 10.3,
             "isEnabled": true,
-            "titleLangKey": "school_lesson_10.2_title",
+            "titleLangKey": "school_lesson_10.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
             "imageUrl": "",
             "type": "DEFAULT",
