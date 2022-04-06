@@ -2492,6 +2492,6 @@
   "marked_as_paid_success_message": "Marked as paid!",
   "complete_setup_popover_title": "Complete the setup of %1$d first!",
   "complete_setup_popover_description": "In order to access these settings, you need to finish setting up your child.",
-  "onboarding_open_banking_free_for": "PLZ_COPY Free only for customers of:",
+  "onboarding_open_banking_free_for": "Free only for customers of:",
   "onboarding_open_banking_also_available_for": "Also available for:"
 }
