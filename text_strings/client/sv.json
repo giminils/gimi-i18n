@@ -2494,6 +2494,6 @@
   "marked_as_paid_success_message": "Markerad som betald!",
   "complete_setup_popover_title": "Färdigställ %1$ds profil först!",
   "complete_setup_popover_description": "Du behöver gå igenom de tre stegen på startsidan innan du kan komma åt inställingarna.",
-  "onboarding_open_banking_free_for": "PLZ_CHECK Free only for customers of:",
+  "onboarding_open_banking_free_for": "Gratis endast för kunder från:",
   "onboarding_open_banking_also_available_for": "Även tillgängligt för:"
 }
