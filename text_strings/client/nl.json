@@ -2333,8 +2333,8 @@
   "offering_whats_included_item_3_subtitle": "Vraag je ouders!",
   "offering_whats_included_item_5_title": "Krijg toegang tot Familiemissies",
   "offering_whats_included_item_5_subtitle": "Vraag je ouders!",
-  "offering_verify_customer_popover_title_nl": "PLZ_TRANSLATE Are you an ABN AMRO customer?",
-  "offering_verify_customer_popover_description_nl": "PLZ_TRANSLATE Congratulations - you get Superskills Pro for free! We just need to verify you in the next step.",
+  "offering_verify_customer_popover_title_nl": "Ben je klant bij ABN AMRO?",
+  "offering_verify_customer_popover_description_nl": "Gefeliciteerd - je ontvangt Superskills Pro gratis! We moeten je in de volgende stap alleen even verifiëren.",
   "kid_open_locked_pro_feature_title": "Dit is een vergrendelde functie",
   "kid_open_locked_pro_feature_desc": "Alleen Superskills Pro gebruikers hebben hier toegang toe. Vraag je ouders om een upgrade!",
   "pro_info_start_trial": "Begin mijn gratis proefperiode",
@@ -2494,6 +2494,6 @@
   "marked_as_paid_success_message": "Gemarkeerd als betaald!",
   "complete_setup_popover_title": "Voltooi eerst de setup van %1$d!",
   "complete_setup_popover_description": "Je kunt pas bij deze instellingen als je het account van je kind volledig hebt aangemaakt.",
-  "onboarding_open_banking_free_for": "PLZ_TRANSLATE Free only for customers of:",
+  "onboarding_open_banking_free_for": "Alleen gratis voor klanten van:",
   "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:"
 }
