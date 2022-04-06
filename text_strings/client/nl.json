@@ -2494,6 +2494,6 @@
   "marked_as_paid_success_message": "Gemarkeerd als betaald!",
   "complete_setup_popover_title": "Voltooi eerst de setup van %1$d!",
   "complete_setup_popover_description": "Je kunt pas bij deze instellingen als je het account van je kind volledig hebt aangemaakt.",
-  "onboarding_open_banking_free_for": "Gratis voor klanten van:",
+  "onboarding_open_banking_free_for": "PLZ_TRANSLATE Free only for customers of:",
   "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:"
 }
