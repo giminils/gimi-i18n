@@ -1166,7 +1166,7 @@
   "shareable_upgraded_to_master_title": "Upgraded to Gimi Master",
   "general_subscription_type": "Subscription: %1$d",
   "general_master_forever": "Master Forever",
-  "subscription_will_expire_in": "Subscription will expire in %1$d days. You need an active subscription to use the Gimi card",
+  "subscription_will_expire_in": "Subscription will expire in %1$d days. Renew it now!",
   "general_renew_now": "Renew now!",
   "card_blocked_status_c_popover_title": "Your card has been blocked",
   "card_blocked_status_c_popover_desc": "It could be due to several reasons. Please contact us and we will sort this out!",
