@@ -1689,7 +1689,7 @@
   "chore_suggestion_accepted": "Foreslått oppgave ble lagt til!",
   "swish_not_installed_title": "Swish er ikke installert...",
   "swish_not_installed_subtitle": "Du må installere Swish-appen før du kan gjøre denne betalingen",
-  "chores_to_do_kid_status_message_empty": "Tom her. Foreslå en oppgave til dine supporters!",
+  "chores_to_do_kid_status_message_empty": "Tom her. Foreslå en oppgave til foreldrene dine!",
   "chores_pending_kid_status_message_empty": "Ingen oppgaver venter på godkjenning. Hyggelig, ikke sant?",
   "chores_done_kid_status_message_empty": "Du har ingen fullførte oppgaver ... ennå!",
   "chores_to_do_parent_status_message_more_than_3": "%2$d har %1$d gjøremål å gjøre.",
