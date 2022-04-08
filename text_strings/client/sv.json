@@ -1311,7 +1311,7 @@
   "you_accept_the_terms": "Genom att fortsätta accepterar du",
   "choose_kid_card_title": "Vem ska få prenumerationen?",
   "choose_kid_card_subtitle": "Välj ett barn, du kan uppgradera de andra senare!",
-  "discounted_monthly_disclaimer": "Halva priset första månaden!",
+  "discounted_monthly_disclaimer": "PLZ_CHECK First month free!",
   "overview_skip_payday_button": "Hoppa över",
   "payout_summary_single_kid_subtitle": "Ändra beloppet eller för över direkt!",
   "payout_summary_single_kid_negative_amount_subtitle": "Det verkar som att %1$d inte tjänade några pengar inför denna payday...",
