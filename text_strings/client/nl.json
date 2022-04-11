@@ -2497,5 +2497,6 @@
   "complete_setup_popover_title": "Voltooi eerst de setup van %1$d!",
   "complete_setup_popover_description": "Je kunt pas bij deze instellingen als je het account van je kind volledig hebt aangemaakt.",
   "onboarding_open_banking_free_for": "Alleen gratis voor klanten van:",
-  "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:"
+  "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:",
+  "subscriptions_bank_name_pro": "PLZ_TRANSLATE Subscription: %1$d Pro"
 }
