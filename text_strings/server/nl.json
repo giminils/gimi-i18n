@@ -558,5 +558,7 @@
   "ADPRRE046_notification_title": "Kijk hoeveel {child.nickname} deze week heeft uitgegeven met de bankpas!",
   "ADPRRE046_push_title": "Kijk hoeveel {child.nickname} deze week heeft uitgegeven met de bankpas!",
   "CHPRRE046_notification_title": "Kijk hoeveel je deze week met je bankpas hebt uitgegeven!",
-  "CHPRRE046_push_title": "Kijk hoeveel je deze week met je bankpas hebt uitgegeven!"
+  "CHPRRE046_push_title": "Kijk hoeveel je deze week met je bankpas hebt uitgegeven!",
+  "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
+  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
 }
