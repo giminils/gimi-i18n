@@ -2499,5 +2499,14 @@
   "complete_setup_popover_description": "In order to access these settings, you need to finish setting up your child.",
   "onboarding_open_banking_free_for": "Free only for customers of:",
   "onboarding_open_banking_also_available_for": "Also available for:",
-  "subscriptions_bank_name_pro": "Subscription: %1$d Pro"
+  "subscriptions_bank_name_pro": "Subscription: %1$d Pro",
+  "sign_up_choose_account_type_title": "Choose account type!",
+  "sign_up_choose_account_type_parent": "I’m a parent",
+  "sign_up_choose_account_type_kid": "I’m a child",
+  "sign_up_choose_account_type_give_allowance": "Give allowance",
+  "sign_up_choose_account_type_receive_allowance": "Receive allowance",
+  "sign_up_choose_account_type_hand_out_chores": "Hand out chores",
+  "sign_up_choose_account_type_do_chores": "Do chores to earn extra money",
+  "sign_up_choose_account_type_support": "Support your child’s financial journey",
+  "sign_up_choose_account_type_setup_goals": "Set up savings goals"
 }
