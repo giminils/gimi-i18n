@@ -1776,6 +1776,7 @@
   "general_connect_with_sms": "Verbinden met sms",
   "accounts_connection_lost": "Verbinding verbroken",
   "dream_subtitle_emptystate_parent": "%1$d heeft nog geen doel gecreëerd!",
+  "dream_subtitle_emptystate_parent_not_invited": "PLZ_TRANSLATE Goals can only be created by children. Invite %1$d to download Gimi!",
   "add_suggested_chore_title": "Je hebt een klusje voorgesteld!",
   "general_add_suggest_chore": "Voorgesteld klusje toevoegen",
   "goal_map_graph_title": "Voortgang",
