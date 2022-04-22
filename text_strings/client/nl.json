@@ -2500,13 +2500,13 @@
   "onboarding_open_banking_free_for": "Alleen gratis voor klanten van:",
   "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:",
   "subscriptions_bank_name_pro": "Abonnement: %1$d Pro",
-  "sign_up_choose_account_type_title": "PLZ_TRANSLATE Choose account type!",
-  "sign_up_choose_account_type_parent": "PLZ_TRANSLATE I’m a parent",
-  "sign_up_choose_account_type_kid": "PLZ_TRANSLATE I’m a child",
-  "sign_up_choose_account_type_give_allowance": "PLZ_TRANSLATE Give allowance",
-  "sign_up_choose_account_type_receive_allowance": "PLZ_TRANSLATE Receive allowance",
-  "sign_up_choose_account_type_hand_out_chores": "PLZ_TRANSLATE Hand out chores",
-  "sign_up_choose_account_type_do_chores": "PLZ_TRANSLATE Do chores to earn extra money",
-  "sign_up_choose_account_type_support": "PLZ_TRANSLATE Support your child’s financial journey",
-  "sign_up_choose_account_type_setup_goals": "PLZ_TRANSLATE Set up savings goals"
+  "sign_up_choose_account_type_title": "Kies een accounttype!",
+  "sign_up_choose_account_type_parent": "Ik ben een ouder",
+  "sign_up_choose_account_type_kid": "Ik ben een kind",
+  "sign_up_choose_account_type_give_allowance": "Geef zakgeld",
+  "sign_up_choose_account_type_receive_allowance": "Ontvang zakgeld",
+  "sign_up_choose_account_type_hand_out_chores": "Deel klusjes uit",
+  "sign_up_choose_account_type_do_chores": "Doe klusjes om extra geld te verdienen",
+  "sign_up_choose_account_type_support": "Ondersteun de financiële ontwikkelijk van je kind",
+  "sign_up_choose_account_type_setup_goals": "Stel spaardoelen in"
 }
