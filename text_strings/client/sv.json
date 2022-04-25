@@ -2264,7 +2264,7 @@
   "parent_add_kid_no_phone_or_email": "Varken telefonnummer eller mail",
   "parent_add_kid_title": "Skapa ett konto till ditt barn",
   "parent_add_kid_subtitle": "Ditt barn kan logga in på sin egen telefon/surfplatta senare.",
-  "parent_add_kid_invite_title": "Vad %1$d kan göra på sitt Gimi-konto:",
+  "parent_add_kid_invite_title": "PLZ_CHECK %1$d needs to download Gimi too",
   "parent_add_kid_invite_item_1": "Skapa ett mål",
   "parent_add_kid_invite_item_2": "Uppgifter",
   "parent_add_kid_invite_item_3": "Utvärdera köp",
@@ -2508,5 +2508,6 @@
   "sign_up_choose_account_type_hand_out_chores": "PLZ_CHECK Hand out chores",
   "sign_up_choose_account_type_do_chores": "PLZ_CHECK Do chores to earn extra money",
   "sign_up_choose_account_type_support": "PLZ_CHECK Support your child’s financial journey",
-  "sign_up_choose_account_type_setup_goals": "PLZ_CHECK Set up savings goals"
+  "sign_up_choose_account_type_setup_goals": "PLZ_CHECK Set up savings goals",
+  "create_child_with_no_phone": "PLZ_CHECK My child doesn't have a phone or tablet"
 }
