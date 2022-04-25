@@ -2264,7 +2264,7 @@
   "parent_add_kid_no_phone_or_email": "Varken telefonnummer eller mail",
   "parent_add_kid_title": "Skapa ett konto till ditt barn",
   "parent_add_kid_subtitle": "Ditt barn kan logga in på sin egen telefon/surfplatta senare.",
-  "parent_add_kid_invite_title": "Vad %1$d kan göra på sitt Gimi-konto:",
+  "parent_add_kid_invite_title": "PLZ_CHECK %1$d needs to download Gimi too",
   "parent_add_kid_invite_item_1": "Skapa ett mål",
   "parent_add_kid_invite_item_2": "Uppgifter",
   "parent_add_kid_invite_item_3": "Utvärdera köp",

@@ -2264,7 +2264,7 @@
   "parent_add_kid_no_phone_or_email": "No phone number or email",
   "parent_add_kid_title": "Let's create an account for your child!",
   "parent_add_kid_subtitle": "Your child can login to it later on their own device.",
-  "parent_add_kid_invite_title": "What %1$d can do on the child account:",
+  "parent_add_kid_invite_title": "%1$d needs to download Gimi too",
   "parent_add_kid_invite_item_1": "Create a goal",
   "parent_add_kid_invite_item_2": "Chores",
   "parent_add_kid_invite_item_3": "Evaluate transactions",
