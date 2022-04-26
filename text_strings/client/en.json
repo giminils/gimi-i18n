@@ -2509,5 +2509,6 @@
   "sign_up_choose_account_type_do_chores": "Do chores to earn extra money",
   "sign_up_choose_account_type_support": "Support your child’s financial journey",
   "sign_up_choose_account_type_setup_goals": "Set up savings goals",
-  "create_child_with_no_phone": "My child doesn't have a phone or tablet"
+  "create_child_with_no_phone": "My child doesn't have a phone or tablet",
+  "sign_up_age_explanation": "We are asking so we can give you smart recommendations based on your age!"
 }
