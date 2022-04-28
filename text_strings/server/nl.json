@@ -354,7 +354,7 @@
   "ADGEPU007_push_title": "Nodig meer volwassenen uit",
   "ADGERE016_push_title": "Je uitnodiging is afgewezen ...",
   "CHGERE017_push_title": "Je uitnodiging is afgewezen. Iemand anders uitnodigen?",
-  "ADPRON006_notification_title": "PLZ_TRANSLATE You just got upgraded to Superskills Pro!",
+  "ADPRON006_notification_title": "Je bent zojuist geüpgraded naar Superskills Pro!",
   "CHGERE034_notification_title": "Je bent vandaag jarig!",
   "CHGERE034_push_title": "Gefeliciteerd met je verjaardag! - Piggy",
   "CHPRPU004_notification_title": "{parent.nickname} heeft je abonnement stopgezet. Je hebt {days_count} dagen om je geld uit te geven voordat Superskills Pro afloopt.",
@@ -559,6 +559,6 @@
   "ADPRRE046_push_title": "Kijk hoeveel {child.nickname} deze week heeft uitgegeven met de bankpas!",
   "CHPRRE046_notification_title": "Kijk hoeveel je deze week met je bankpas hebt uitgegeven!",
   "CHPRRE046_push_title": "Kijk hoeveel je deze week met je bankpas hebt uitgegeven!",
-  "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
-  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
+  "ADGERE045_push_title": "Nodig {child.nickname} uit voor Gimi, zodat die je voorgestelde klusjes kan uitvoeren!",
+  "ADGERE045_notification_title": "Nodig {child.nickname} uit voor Gimi, zodat die je voorgestelde klusjes kan uitvoeren!"
 }
