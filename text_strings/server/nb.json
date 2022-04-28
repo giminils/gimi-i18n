@@ -559,6 +559,6 @@
   "ADPRRE046_push_title": "Se hvor mye {child.nickname} brukte med bankkortet sitt denne uken!",
   "CHPRRE046_notification_title": "Se hvor mye du brukte med bankkortet ditt denne uken!",
   "CHPRRE046_push_title": "Se hvor mye du brukte med bankkortet denne uken!",
-  "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
-  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
+  "ADGERE045_push_title": "Inviter {child.nickname} til Gimi slik at de kan fullføre oppgavene du delte ut!",
+  "ADGERE045_notification_title": "Inviter {child.nickname} til Gimi slik at de kan fullføre oppgavene du delte ut!"
 }
