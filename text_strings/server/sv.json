@@ -559,6 +559,6 @@
   "ADPRRE046_push_title": "Spana in hur mycket {child.nickname} spenderade med sitt bankkort denna vecka!",
   "CHPRRE046_notification_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!",
   "CHPRRE046_push_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!",
-  "ADGERE045_push_title": "PLZ_CHECK Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
-  "ADGERE045_notification_title": "PLZ_CHECK Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
+  "ADGERE045_push_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!",
+  "ADGERE045_notification_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!"
 }
