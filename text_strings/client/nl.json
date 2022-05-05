@@ -2254,7 +2254,7 @@
   "delete_tink_account_popover_title": "Weet je het zeker?",
   "delete_tink_account_popover_desc": "Dit zal alle bankrekeningen verwijderen die je hebt toegevoegd aan Gimi",
   "delete_tink_account_for_partner_popover_title": "Weet je het zeker?",
-  "delete_tink_account_for_partner_popover_desc": "Als je de verbinding verwijderd, wordt automatisch je Superskills Pro abonnement stopgezet. Je kunt daarna weer upgraden!",
+  "delete_tink_account_for_partner_popover_desc": "Als je de verbinding met %1$d verwijdert, wordt je Superskills Pro abonnement automatisch stopgezet. Je kunt daarna weer upgraden!",
   "cancel_connect_bank_account_popover_title": "Weet je het zeker?",
   "cancel_connect_bank_account_popover_desc": "De voortgang van het verbinden met je bankrekening zal worden gereset. Je kunt later verbinding maken!",
   "could_not_find_any_accounts_to_connect": "Kon geen accounts vinden om te verbinden...",
