@@ -1,10 +1,20 @@
-
 /* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
 let fs = require('fs')
-let templateDir = ['./text_strings/server', './text_strings/templates', './text_strings/gimi-web', './text_strings/client', './text_strings/bot', './text_strings/bot-survey', './text_strings/education', './text_strings/faq', './text_strings/shared', './text_strings/school', './text_strings/dictionary']
+let templateDir = [
+  './text_strings/server',
+  './text_strings/templates',
+  './text_strings/gimi-web',
+  './text_strings/client',
+  './text_strings/bot',
+  './text_strings/bot-survey',
+  './text_strings/education',
+  './text_strings/faq',
+  './text_strings/shared',
+  './text_strings/school',
+  './text_strings/dictionary'
+]
 
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
-
 
 const syncNewTextStrings = (filePath: string, file: string, lang: {[key: string]: string}, _default: string) => {
   if (file.indexOf('.json') === -1) return
@@ -14,7 +24,7 @@ const syncNewTextStrings = (filePath: string, file: string, lang: {[key: string]
   const path = `${filePath}/${file}`
   const fileString = fs.readFileSync(path)
   let bufferString: string = fileString.toString()
-  const fileObj: { [key: string]: string } = JSON.parse(bufferString)
+  const fileObj: {[key: string]: string} = JSON.parse(bufferString)
 
   // move root keys to sub nodes
   addMissingKeyOnNode(fileObj, fileObj, lang)
@@ -23,9 +33,12 @@ const syncNewTextStrings = (filePath: string, file: string, lang: {[key: string]
   fs.writeFileSync(path, newFileString, {encoding: 'utf8'})
 }
 
-const addMissingKeyOnNode = (rootObj: {[key: string]: string}, nodeObj: {[key: string]: string}, langNodeObj: {[key: string]: string}) => {
-  Object.keys(langNodeObj)
-    .forEach((key) => {
+const addMissingKeyOnNode = (
+  rootObj: {[key: string]: string},
+  nodeObj: {[key: string]: string},
+  langNodeObj: {[key: string]: string}
+) => {
+  Object.keys(langNodeObj).forEach((key) => {
     if (typeof langNodeObj[key] === 'string') {
       if (!!nodeObj[key] && typeof nodeObj[key] === 'string') {
         // some params in translations had double PLZ_TRANSLATE
@@ -39,13 +52,12 @@ const addMissingKeyOnNode = (rootObj: {[key: string]: string}, nodeObj: {[key: s
         return
       }
       nodeObj[key] = createPlzTranslateString(langNodeObj[key])
-      return
     }
     /* if (typeof langNodeObj[key] === 'object') {
       if (!nodeObj[key]) nodeObj[key] = {}
       if (!!nodeObj[key] && typeof nodeObj[key] === 'string') nodeObj[key] = {}
       addMissingKeyOnNode(rootObj, nodeObj[key], langNodeObj[key])
-    }*/
+    } */
   })
 }
 
@@ -54,7 +66,7 @@ const createPlzTranslateString = (str: string) => {
   return str
 }
 
-let runSara = (filePath: string): any => {
+let runAddNewTranslations = (filePath: string): any => {
   // let folderName = filePath.match(/\/[^\s/]*$/g) ? filePath.match(/\/[^\s/]*$/g)[0] + '/' : ''
   let defaultPath = getPath(filePath, 'default.json')
   let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
@@ -62,8 +74,7 @@ let runSara = (filePath: string): any => {
   let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
   let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
   let parsedStrings: {[key: string]: string} = JSON.parse(strings)
-  fs.readdirSync(filePath)
-    .forEach((file: string) => syncTextStrings(filePath, file, parsedStrings, parsed_default))
+  fs.readdirSync(filePath).forEach((file: string) => syncTextStrings(filePath, file, parsedStrings, parsed_default))
 
   // fix swedish TextStrings formatting
   let boll = JSON.stringify(parsedStrings, undefined, 2)
@@ -71,7 +82,12 @@ let runSara = (filePath: string): any => {
   return fs.writeFileSync(stringPath, strings, {encoding: 'utf8'})
 }
 
-let syncTextStrings = (filePath: string, file: string, lang: { [key: string]: string }, _default: {[key: string]: string}) => {
+let syncTextStrings = (
+  filePath: string,
+  file: string,
+  lang: {[key: string]: string},
+  _default: {[key: string]: string}
+) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
@@ -79,7 +95,7 @@ let syncTextStrings = (filePath: string, file: string, lang: { [key: string]: st
   let textStrings = fs.readFileSync(path, {encoding: 'utf8'})
   let parsedStrings: {[key: string]: string} = JSON.parse(textStrings)
   // Delete Support
-  Object.keys({ ...parsedStrings})
+  Object.keys({...parsedStrings})
     .filter((key: string) => lang[key] === undefined)
     .forEach((key: string) => {
       delete parsedStrings[key]
@@ -91,12 +107,15 @@ let syncTextStrings = (filePath: string, file: string, lang: { [key: string]: st
 
   switch (true) {
     case file.includes('sv.json'):
-    case file.includes('en.json'): Object.keys(newTextStrings).forEach(key => (newTextStrings[key] = `PLZ_CHECK ${lang[key]}`)); break
-    default: Object.keys(newTextStrings).forEach(key => (newTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
+    case file.includes('en.json'):
+      Object.keys(newTextStrings).forEach((key) => (newTextStrings[key] = `PLZ_CHECK ${lang[key]}`))
+      break
+    default:
+      Object.keys(newTextStrings).forEach((key) => (newTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
   }
 
-  newTextStrings = { ...newTextStrings, ...parsedStrings}
-  Object.keys(_default).forEach(key => delete parsedStrings[key])
+  newTextStrings = {...newTextStrings, ...parsedStrings}
+  Object.keys(_default).forEach((key) => delete parsedStrings[key])
   let newTextStringsLength = Object.keys(newTextStrings).length
   let TextStringsLength = Object.keys(textStrings).length
   let delta = newTextStringsLength - TextStringsLength
@@ -110,5 +129,5 @@ let syncTextStrings = (filePath: string, file: string, lang: { [key: string]: st
 }
 
 templateDir.forEach((filePath) => {
-  return runSara(filePath)
+  return runAddNewTranslations(filePath)
 })
