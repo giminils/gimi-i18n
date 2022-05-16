@@ -1434,7 +1434,7 @@
                     "id": 13,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_3.1_screen_13_title",
-                    "subtitleLangKey": "school_story_3.1_screen_13_subtitle",
+                    "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
                         {
