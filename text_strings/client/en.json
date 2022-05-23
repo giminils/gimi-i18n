@@ -2512,5 +2512,7 @@
   "sign_up_choose_account_type_support": "Support your child’s financial journey",
   "sign_up_choose_account_type_setup_goals": "Set up savings goals",
   "create_child_with_no_phone": "My child doesn't have a phone or tablet",
-  "sign_up_age_explanation": "We are asking so we can give you smart recommendations based on your age!"
+  "sign_up_age_explanation": "We are asking so we can give you smart recommendations based on your age!",
+  "popover_second_bank_account_not_supported_title": "Upcoming functionality!",
+  "popover_second_bank_account_not_supported_description": "It’s currently not possible to connect more than 1 bank account, but we’re working on it. We’ll make sure to notify you once it’s possible!"
 }
