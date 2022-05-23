@@ -3145,16 +3145,6 @@
                             "langKey": "school_rocket_10_screen_3_button_4_title",
                             "isCorrect": false,
                             "id": 4
-                        },
-                        {
-                            "langKey": "school_rocket_10_screen_3_button_5_title",
-                            "isCorrect": false,
-                            "id": 5
-                        },
-                        {
-                            "langKey": "school_rocket_10_screen_3_button_6_title",
-                            "isCorrect": false,
-                            "id": 6
                         }
                     ]
                 },
