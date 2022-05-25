@@ -113,7 +113,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_4.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyEarning.png",
             "type": "DEFAULT",
             "storyId": 4.1,
             "challengeId": 4.1
@@ -123,7 +123,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_4.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyEarning2.png",
             "type": "DEFAULT",
             "storyId": 4.2,
             "challengeId": 4.2
@@ -133,7 +133,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_4.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyEarning3.png",
             "type": "DEFAULT",
             "storyId": 4.3,
             "challengeId": 4.3
@@ -144,7 +144,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_5.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyBasicSavings.png",
             "type": "DEFAULT",
             "storyId": 5.1,
             "challengeId": 5.1
@@ -155,7 +155,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_5.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyScooter.png",
             "type": "DEFAULT",
             "storyId": 5.2,
             "challengeId": 5.2
@@ -166,7 +166,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_5.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggySavingsHacks.png",
             "type": "DEFAULT",
             "storyId": 5.3,
             "challengeId": 5.3
@@ -220,7 +220,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_7.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyLoan.png",
             "type": "DEFAULT",
             "storyId": 7.2,
             "challengeId": 7.2
@@ -250,7 +250,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_8.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "/static/school/piggyCurrency.png",
+            "imageUrl": "/static/school/piggyEurope.png",
             "type": "DEFAULT",
             "storyId": 8.1,
             "challengeId": 8.1
@@ -260,7 +260,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_8.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "/static/school/piggyEurope.png",
+            "imageUrl": "/static/school/piggyCurrency.png",
             "type": "DEFAULT",
             "storyId": 8.2,
             "challengeId": 8.2
@@ -270,7 +270,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_8.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyEurope.png",
             "type": "DEFAULT",
             "storyId": 8.3,
             "challengeId": 8.3
@@ -280,7 +280,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_9.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyPayingMethods.png",
             "type": "DEFAULT",
             "storyId": 9.1,
             "challengeId": 9.1
@@ -290,7 +290,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_9.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyCreditCard.png",
             "type": "DEFAULT",
             "storyId": 9.2,
             "challengeId": 9.2
@@ -300,7 +300,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_9.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyInvoice.png",
             "type": "DEFAULT",
             "storyId": 9.3,
             "challengeId": 9.3
@@ -322,7 +322,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyStartSaving.png",
             "type": "DEFAULT",
             "storyId": 10.1,
             "challengeId": 10.1
@@ -333,7 +333,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyLoan.png",
             "type": "DEFAULT",
             "storyId": 10.2,
             "challengeId": 10.2
@@ -344,7 +344,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyStocks.png",
             "type": "DEFAULT",
             "storyId": 10.3,
             "challengeId": 10.3
@@ -366,7 +366,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyCollection.png",
             "type": "DEFAULT",
             "storyId": 11.1,
             "challengeId": 11.1
@@ -377,7 +377,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyDeclined.png",
             "type": "DEFAULT",
             "storyId": 11.2,
             "challengeId": 11.2
@@ -388,7 +388,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyCreditReporting.png",
             "type": "DEFAULT",
             "storyId": 11.3,
             "challengeId": 11.3
