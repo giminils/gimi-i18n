@@ -354,7 +354,7 @@
   "ADGEPU007_push_title": "Inviter flere supportere",
   "ADGERE016_push_title": "Din invitation blev afvist... 🙁",
   "CHGERE017_push_title": "Din invitation blev afvist. Inviter en anden?",
-  "ADPRON006_notification_title": "Gimikortet er på vej",
+  "ADPRON006_notification_title": "PLZ_TRANSLATE You just got upgraded to Superskills Pro!",
   "CHGERE034_notification_title": "Det er din fødselsdag!🎉",
   "CHGERE034_push_title": "Tillykke med fødselsdagen!🎁 - Piggy",
   "CHPRPU004_notification_title": "PLZ_TRANSLATE {parent.nickname} cancelled your subscription. You have {days_count} days left to spend your money before Gimi Master expires.",
@@ -558,5 +558,7 @@
   "ADPRRE046_notification_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
   "ADPRRE046_push_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
   "CHPRRE046_notification_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
-  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!"
+  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
+  "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
+  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
 }

@@ -354,7 +354,7 @@
   "ADGEPU007_push_title": "Kutsu lisää tukijoita",
   "ADGERE016_push_title": "Kutsusi hylättiin... 🙁",
   "CHGERE017_push_title": "Kutsusi hylättiin. Kutsu joku toinen?",
-  "ADPRON006_notification_title": "Gimi-kortti on matkalla",
+  "ADPRON006_notification_title": "PLZ_TRANSLATE You just got upgraded to Superskills Pro!",
   "CHGERE034_notification_title": "Tänään on syntymäpäiväsi!🎉",
   "CHGERE034_push_title": "Hyvää syntymäpäivää!🎁 - Piggy",
   "CHPRPU004_notification_title": "PLZ_TRANSLATE {parent.nickname} cancelled your subscription. You have {days_count} days left to spend your money before Gimi Master expires.",
@@ -558,5 +558,7 @@
   "ADPRRE046_notification_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
   "ADPRRE046_push_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
   "CHPRRE046_notification_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
-  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!"
+  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
+  "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
+  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
 }

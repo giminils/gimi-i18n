@@ -354,7 +354,7 @@
   "ADGEPU007_push_title": "Bjud in fler föräldrar",
   "ADGERE016_push_title": "Din inbjudan accepterades inte...",
   "CHGERE017_push_title": "Din inbjudan accepterades inte. Bjud in någon annan?",
-  "ADPRON006_notification_title": "Gimi-kortet är på väg!",
+  "ADPRON006_notification_title": "Du har precis blivit uppgraderad till Superskills Pro!",
   "CHGERE034_notification_title": "Det är din födelsedag!",
   "CHGERE034_push_title": "Grattis på födelsedagen! - Piggy",
   "CHPRPU004_notification_title": "{parent.nickname} avslutade din prenumeration. Du har {days_count} dagar kvar att spendera dina pengar innan Gimi Master avslutas.",
@@ -558,5 +558,7 @@
   "ADPRRE046_notification_title": "Spana in hur mycket {child.nickname} spenderade med sitt bankkort denna vecka!",
   "ADPRRE046_push_title": "Spana in hur mycket {child.nickname} spenderade med sitt bankkort denna vecka!",
   "CHPRRE046_notification_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!",
-  "CHPRRE046_push_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!"
+  "CHPRRE046_push_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!",
+  "ADGERE045_push_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!",
+  "ADGERE045_notification_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!"
 }

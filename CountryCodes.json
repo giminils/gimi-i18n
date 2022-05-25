@@ -10,6 +10,11 @@
      "code":"NO"
   },
   {
+    "name":"Netherlands",
+    "dial_code":"+31",
+    "code":"NL"
+  },
+  {
      "name":"Denmark",
      "dial_code":"+45",
      "code":"DK"
@@ -654,11 +659,6 @@
       "name":"Nepal",
       "dial_code":"+977",
       "code":"NP"
-   },
-   {
-      "name":"Netherlands",
-      "dial_code":"+31",
-      "code":"NL"
    },
    {
       "name":"Netherlands Antilles",

@@ -1,7 +1,8 @@
 {
     "data": [
         {
-            "id": 1.1,
+            "id": 1,
+            "uuid": "b4fed3d3-21a1-4088-a8ad-fb4ceb822dc4",
             "isEnabled": true,
             "titleLangKey": "school_lesson_1.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -12,6 +13,7 @@
         },
         {
             "id": 1.2,
+            "uuid": "52c0d68a-9df7-497d-81a2-76093cd80929",
             "isEnabled": true,
             "titleLangKey": "school_lesson_1.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -22,6 +24,7 @@
         },
         {
             "id": 1.3,
+            "uuid": "884218c9-c3ed-471a-a3d2-b0081784df7e",
             "isEnabled": true,
             "titleLangKey": "school_lesson_1.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -32,6 +35,7 @@
         },
         {
             "id": 2.1,
+            "uuid": "c4346c1d-adae-4608-a5cd-0337a597cde9",
             "isEnabled": true,
             "titleLangKey": "school_lesson_2.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -72,6 +76,7 @@
         },
         {
             "id": 3.2,
+            "uuid": "6a577629-7353-4d7a-94fb-2bde321fcc54",
             "isEnabled": true,
             "titleLangKey": "school_lesson_3.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -82,6 +87,7 @@
         },
         {
             "id": 3.3,
+            "uuid": "27457092-38d2-416f-8b2d-c63aca0faef9",
             "isEnabled": true,
             "titleLangKey": "school_lesson_3.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -92,6 +98,7 @@
         },
         {
             "id": 3.4,
+            "uuid": "f9618c95-2d6f-437a-86a7-df5fe65467e9",
             "isEnabled": true,
             "titleLangKey": "school_lesson_3.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -102,6 +109,7 @@
         },
         {
             "id": 4.1,
+            "uuid": "7d7b6310-38bb-4301-b079-9280a02315bd",
             "isEnabled": true,
             "titleLangKey": "school_lesson_4.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -132,6 +140,7 @@
         },
         {
             "id": 5.1,
+            "uuid": "8b6567d8-606c-413d-8e53-af4db68a242f",
             "isEnabled": true,
             "titleLangKey": "school_lesson_5.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -142,6 +151,7 @@
         },
         {
             "id": 5.2,
+            "uuid": "22272722-71da-4b23-8044-63afa6c4cf34",
             "isEnabled": true,
             "titleLangKey": "school_lesson_5.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -152,6 +162,7 @@
         },
         {
             "id": 5.3,
+            "uuid": "aa5d9a0a-7823-4f71-a3d0-90bf4dcfdeee",
             "isEnabled": true,
             "titleLangKey": "school_lesson_5.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -162,6 +173,7 @@
         },
         {
             "id": 6.1,
+            "uuid": "1089a08d-65a4-4ef7-8e1d-630ba7b1aceb",
             "isEnabled": true,
             "titleLangKey": "school_lesson_6.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -172,6 +184,7 @@
         },
         {
             "id": 6.2,
+            "uuid": "461a790a-3620-4480-af81-419375e76813",
             "isEnabled": true,
             "titleLangKey": "school_lesson_6.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -182,6 +195,7 @@
         },
         {
             "id": 6.3,
+            "uuid": "019285d3-6d4d-4c2a-a471-5dbcae95f8cf",
             "isEnabled": true,
             "titleLangKey": "school_lesson_6.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -192,6 +206,7 @@
         },
         {
             "id": 7.1,
+            "uuid": "2c90c992-4af6-4ec0-9d1d-d6b2d6e1fad7",
             "isEnabled": true,
             "titleLangKey": "school_lesson_7.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -292,6 +307,7 @@
         },
         {
             "id": 9.4,
+            "uuid": "aaa2c468-69a8-4790-a6b3-b76b399c35ab",
             "isEnabled": true,
             "titleLangKey": "school_lesson_9.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -302,6 +318,7 @@
         },
         {
             "id": 10.1,
+            "uuid": "e0a412e8-8027-47d0-abd9-b70611ad5cde",
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -312,6 +329,7 @@
         },
         {
             "id": 10.2,
+            "uuid": "c7ab8499-0043-43f8-a6e3-ce761162142b",
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -322,6 +340,7 @@
         },
         {
             "id": 10.3,
+            "uuid": "238be3fc-6d49-4585-baab-9b64921858db",
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -332,6 +351,7 @@
         },
         {
             "id": 10.4,
+            "uuid": "49afe012-3a58-418d-a8d4-a399fb2728bc",
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -342,6 +362,7 @@
         },
         {
             "id": 11.1,
+            "uuid": "9f06edab-cabc-4e19-bf9a-f3d3b36012b3",
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -352,6 +373,7 @@
         },
         {
             "id": 11.2,
+            "uuid": "72e3e014-ac93-4b09-95d5-a1144fac7d92",
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -362,6 +384,7 @@
         },
         {
             "id": 11.3,
+            "uuid": "dac818e8-b340-42dd-a0c7-0bc599bc88af",
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
@@ -372,6 +395,7 @@
         },
         {
             "id": 11.4,
+            "uuid": "a8f5db04-c1d7-45ea-a7a5-5d469cf65c14",
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",

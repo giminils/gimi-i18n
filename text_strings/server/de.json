@@ -354,7 +354,7 @@
   "ADGEPU007_push_title": "Mehr Unterstützer einladen",
   "ADGERE016_push_title": "Deine Einladung wurde abgelehnt... 🙁",
   "CHGERE017_push_title": "Deine Einladung wurde abgelehnt. Möchtest Du jemand anderen einladen?",
-  "ADPRON006_notification_title": "Die Gimi Card ist unterwegs",
+  "ADPRON006_notification_title": "PLZ_TRANSLATE You just got upgraded to Superskills Pro!",
   "CHGERE034_notification_title": "Heute ist Dein Geburtstag!🎉",
   "CHGERE034_push_title": "Alles Gute zum Geburtstag!🎁 - Piggy",
   "CHPRPU004_notification_title": "PLZ_TRANSLATE {parent.nickname} cancelled your subscription. You have {days_count} days left to spend your money before Gimi Master expires.",
@@ -558,5 +558,7 @@
   "ADPRRE046_notification_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
   "ADPRRE046_push_title": "PLZ_TRANSLATE See how much {child.nickname} spent with their bank card this week!",
   "CHPRRE046_notification_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
-  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!"
+  "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
+  "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
+  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
 }
