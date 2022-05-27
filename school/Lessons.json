@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": 1,
+            "id": 1.1,
             "uuid": "b4fed3d3-21a1-4088-a8ad-fb4ceb822dc4",
             "isEnabled": true,
             "titleLangKey": "school_lesson_1.1_title",
@@ -105,7 +105,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_3.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyBuyNewShoes.png",
             "type": "DEFAULT",
             "storyId": 3.4,
             "challengeId": 3.4
@@ -182,7 +182,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_6.1_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyTransactionSpending.png",
             "type": "DEFAULT",
             "storyId": 6.1,
             "challengeId": 6.1
@@ -193,7 +193,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_6.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyBuyNewShoes.png",
             "type": "DEFAULT",
             "storyId": 6.2,
             "challengeId": 6.2
@@ -204,7 +204,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_6.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyThinkBuying.png",
             "type": "DEFAULT",
             "storyId": 6.3,
             "challengeId": 6.3
@@ -226,7 +226,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_7.2_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "/static/school/piggyLoan.png",
+            "imageUrl": "/static/school/piggyBankAccounts.png",
             "type": "DEFAULT",
             "storyId": 7.2,
             "challengeId": 7.2
@@ -237,7 +237,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_7.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyModernBank.png",
             "type": "DEFAULT",
             "storyId": 7.3,
             "challengeId": 7.3
@@ -248,7 +248,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_7.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyLoan.png",
             "type": "DEFAULT",
             "storyId": 7.4,
             "challengeId": 7.4
@@ -325,7 +325,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_9.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggySavingCar.png",
             "type": "DEFAULT",
             "storyId": 9.4,
             "challengeId": 9.4
@@ -369,7 +369,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_10.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyBankAccounts.png",
             "type": "DEFAULT",
             "storyId": 10.4,
             "challengeId": 10.4
@@ -413,7 +413,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_11.4_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "",
+            "imageUrl": "/static/school/piggyPrivateEconomy.png",
             "type": "DEFAULT",
             "storyId": 11.4,
             "challengeId": 11.4
