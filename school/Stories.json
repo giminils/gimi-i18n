@@ -552,7 +552,7 @@
                     "id": 10,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_1.3_screen_10_title",
-                    "subtitleLangKey": "school_story_1.3_screen_9_subtitle",
+                    "subtitleLangKey": "school_story_1.3_screen_10_subtitle",
                     "imageUrl": "/static/school/budget.png",
                     "buttons": [
                         {
@@ -2796,7 +2796,7 @@
                     "id": 14,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_4.3_screen_14_title",
-                    "subtitleLangKey": "school_story_4.3_screen_20_subtitle",
+                    "subtitleLangKey": "school_story_4.3_screen_14_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -5430,7 +5430,7 @@
                     "id": 9,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_8.2_screen_9_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_8.2_screen_9_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -5510,6 +5510,27 @@
                         },
                         {
                             "langKey": "school_story_8.2_screen_13_button_2_title"
+                        },
+                        {
+                            "langKey": "school_story_8.2_screen_13_button_3_title"
+                        },
+                        {
+                            "langKey": "school_story_8.2_screen_13_button_4_title"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "type": "DEFAULT",
+                    "titleLangKey": "school_story_8.2_screen_14_title",
+                    "subtitleLangKey": "school_story_8.2_screen_14_subtitle",
+                    "imageUrl": "",
+                    "buttons": [
+                        {
+                            "langKey": "school_story_8.2_screen_14_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_8.2_screen_14_button_2_title"
                         }
                     ]
                 }
@@ -5714,7 +5735,7 @@
                     "id": 13,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_8.3_screen_13_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_8.3_screen_13_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -6673,9 +6694,6 @@
                     "buttons": [
                         {
                             "langKey": "school_story_10.1_screen_4_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_10.1_screen_4_button_2_title"
                         }
                     ]
                 },
@@ -6688,15 +6706,6 @@
                     "buttons": [
                         {
                             "langKey": "school_story_10.1_screen_5_button_1_title"
-                        },
-                        {
-                            "langKey": "school_story_10.1_screen_5_button_2_title"
-                        },
-                        {
-                            "langKey": "school_story_10.1_screen_5_button_3_title"
-                        },
-                        {
-                            "langKey": "school_story_10.1_screen_5_button_4_title"
                         }
                     ]
                 },
@@ -6709,6 +6718,9 @@
                     "buttons": [
                         {
                             "langKey": "school_story_10.1_screen_6_button_1_title"
+                        },
+                        {
+                            "langKey": "school_story_10.1_screen_6_button_2_title"
                         }
                     ]
                 },
@@ -6946,7 +6958,7 @@
                 {
                     "id": 5,
                     "type": "DEFAULT",
-                    "titleLangKey": "school_story_10.1_screen_5_title",
+                    "titleLangKey": "school_story_10.2_screen_5_title",
                     "subtitleLangKey": "",
                     "imageUrl": "",
                     "buttons": [
@@ -7266,7 +7278,7 @@
                     "imageUrl": "",
                     "buttons": [
                         {
-                            "langKey": "school_story_10.4_screen_1_title"
+                            "langKey": "school_story_10.4_screen_1_button_1_title"
                         }
                     ]
                 },

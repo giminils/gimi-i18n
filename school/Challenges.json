@@ -149,12 +149,12 @@
                         {
                             "langKey": "school_challenge_1.1_screen_8_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "langKey": "school_challenge_1.1_screen_8_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         }
                     ]
                 },
@@ -248,7 +248,7 @@
                 },
                                 {
                     "titleLangKey": "school_challenge_1.2_screen_7_title",
-                    "price": 80,
+                    "price": 140,
                     "currencyCode": "",
                     "currencyValues": [],
                     "imageUrl": "/static/school/pizza.png"
@@ -425,12 +425,12 @@
                         {
                             "langKey": "school_challenge_1.3_screen_8_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "langKey": "school_challenge_1.3_screen_8_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         }
                     ]
                 },
@@ -745,12 +745,12 @@
                         {
                             "langKey": "school_challenge_2.2_screen_4_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "langKey": "school_challenge_2.2_screen_4_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         }
                     ]
                 },
@@ -1309,12 +1309,12 @@
                         {
                             "langKey": "school_challenge_3.1_screen_6_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "langKey": "school_challenge_3.1_screen_6_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         }
                     ]
                 },
@@ -1498,12 +1498,12 @@
                         {
                             "langKey": "school_challenge_3.2_screen_5_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "langKey": "school_challenge_3.2_screen_5_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         }
                     ]
                 },
@@ -2311,12 +2311,12 @@
                         {
                             "langKey": "school_challenge_4.1_screen_2_button_1_title",
                             "imageUrl": "",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "langKey": "school_challenge_4.1_screen_2_button_2_title",
                             "imageUrl": "",
-                            "isCorrect": true
+                            "isCorrect": false
                         }
                     ]
                 },
