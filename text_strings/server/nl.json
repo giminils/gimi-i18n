@@ -255,6 +255,8 @@
   "push_promo_week_16_parent": "Geef je familie wat liefde vandaag",
   "connect_sms_template_parent": "Hé! {connection_token.created_by.nickname} wacht op je in de Gimi app! {connection_token.accept_url}",
   "connect_sms_template_child": "Hé! {connection_token.created_by.nickname} wacht op je in de Gimi app! {connection_token.accept_url}",
+  "connect_sms_to_parent": "PLZ_TRANSLATE Hi!\n\n{{ connection_token.created_by.name }} has invited you to Gimi - an allowance app for the whole family. Open the link below to accept the invitation.\n\n{{ connection_token.accept_url }}",
+  "connect_sms_to_child": "PLZ_TRANSLATE Hi!\n\n{{ connection_token.created_by.name }} has invited you to Gimi -  check out your allowance in the app! Open the link below to accept the invitation.\n\n{{ connection_token.accept_url }}",
   "ADGEON019_notification_title": "Je staat op de wachtlijst voor de Gimi-pas!",
   "event_short_tutorial": "Hoe Gimi te gebruiken!",
   "push_child_spend": "💳 Je hebt zojuist {pfstransactionstatement.str_amount} uitgegeven bij {pfstransactionstatement.merchant_name}",
