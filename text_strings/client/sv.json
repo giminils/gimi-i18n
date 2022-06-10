@@ -2514,5 +2514,8 @@
   "create_child_with_no_phone": "Mitt barn har ingen telefon eller platta",
   "sign_up_age_explanation": "Vi frågar så att vi kan ge smarta rekommendationer baserat på din ålder!",
   "popover_second_bank_account_not_supported_title": "PLZ_CHECK Upcoming functionality!",
-  "popover_second_bank_account_not_supported_description": "PLZ_CHECK It’s currently not possible to connect more than 1 bank account, but we’re working on it. We’ll make sure to notify you once it’s possible!"
+  "popover_second_bank_account_not_supported_description": "PLZ_CHECK It’s currently not possible to connect more than 1 bank account, but we’re working on it. We’ll make sure to notify you once it’s possible!",
+  "forgot_to_create_account_notification_1": "PLZ_CHECK Busy day? Don’t forget about us. Create your Gimi account now!",
+  "forgot_to_create_account_notification_2": "PLZ_CHECK Knock knock! Who’s there? Don’t know because you haven't created an account yet.",
+  "forgot_to_create_account_notification_3": "PLZ_CHECK Time to start managing allowances on your phone? Create your Gimi account now."
 }
