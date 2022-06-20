@@ -2523,5 +2523,16 @@
   "popover_second_bank_account_not_supported_description": "It’s currently not possible to connect more than 1 bank account, but we’re working on it. We’ll make sure to notify you once it’s possible!",
   "forgot_to_create_account_notification_1": "Busy day? Don’t forget about us. Create your Gimi account now!",
   "forgot_to_create_account_notification_2": "Knock knock! Who’s there? Don’t know because you haven't created an account yet.",
-  "forgot_to_create_account_notification_3": "Time to start managing allowances on your phone? Create your Gimi account now."
+  "forgot_to_create_account_notification_3": "Time to start managing allowances on your phone? Create your Gimi account now.",
+  "paywall_title": "Make more sense of money with Superskills Pro!",
+  "paywall_manage_allowance": "Manage allowances",
+  "paywall_manage_and_reward_chores": "Manage and reward chores",
+  "paywall_connect_bank_account": "Connect a bank account*",
+  "paywall_add_goal": "Add a savings goal",
+  "paywall_finance_lessons": "Personal finance lessons",
+  "paywall_money_mission": "Family money missions",
+  "paywall_savings_bonus": "Savings bonus",
+  "paywall_cancel_any_time": "Cancel anytime, no commitments!",
+  "paywall_read_more": "Read more",
+  "paywall_try_for_free": "Try for %1$d"
 }
