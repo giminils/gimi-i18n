@@ -255,6 +255,8 @@
   "push_promo_week_16_parent": "Dale hoy a tu familia algo adorable",
   "connect_sms_template_parent": "Hola! {connection_token.created_by.nickname} está esperando por ti en la aplicación Gimi. ¡Has clic aquí para que comiencen a manejar dinero juntos! {connection_token.accept_url}",
   "connect_sms_template_child": "Hola! {connection_token.created_by.nickname} está esperando por ti en la aplicación Gimi. ¡Has clic aquí para que comiencen a manejar dinero juntos! {connection_token.accept_url}",
+  "connect_sms_to_parent": "PLZ_TRANSLATE Hi!\n\n{connection_token.created_by.nickname} has invited you to Gimi - an allowance app for the whole family. Open the link below to accept the invitation.\n\n{connection_token.accept_url}",
+  "connect_sms_to_child": "PLZ_TRANSLATE Hi!\n\n{connection_token.created_by.nickname} has invited you to Gimi -  check out your allowance in the app! Open the link below to accept the invitation.\n\n{connection_token.accept_url}",
   "ADGEON019_notification_title": "¡Estás en la lista de espera de la tarjeta Gimi!",
   "event_short_tutorial": "PLZ_TRANSLATE How to use Gimi!",
   "push_child_spend": "💳 Acabas de gastar {pfstransactionstatement.str_amount} en {pfstransactionstatement.merchant_name}",
