@@ -2524,4 +2524,15 @@
   "forgot_to_create_account_notification_1": "Drukke dag? Vergeet ons niet. Maak nu je Gimi account aan!",
   "forgot_to_create_account_notification_2": "Klop Klop! Wie is daar? Weet ik niet, want je hebt nog geen account aangemaakt!",
   "forgot_to_create_account_notification_3": "Tijd om het zakgeld op je telefoon te beheren? Maak je nu je Gimi account aan."
+  "paywall_title": "PLZ_TRANSLATE Make more sense of money with Superskills Pro!",
+  "paywall_manage_allowance": "PLZ_TRANSLATE Manage allowances",
+  "paywall_manage_and_reward_chores": "PLZ_TRANSLATE Manage and reward chores",
+  "paywall_connect_bank_account": "PLZ_TRANSLATE Connect a bank account*",
+  "paywall_add_goal": "PLZ_TRANSLATE Add a savings goal",
+  "paywall_finance_lessons": "PLZ_TRANSLATE Personal finance lessons",
+  "paywall_money_mission": "PLZ_TRANSLATE Family money missions",
+  "paywall_savings_bonus": "PLZ_TRANSLATE Savings bonus",
+  "paywall_cancel_any_time": "PLZ_TRANSLATE Cancel anytime, no commitments!",
+  "paywall_read_more": "PLZ_TRANSLATE Read more",
+  "paywall_try_for_free": "PLZ_TRANSLATE Try for %1$d"
 }

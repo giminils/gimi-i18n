@@ -2523,5 +2523,16 @@
   "popover_second_bank_account_not_supported_description": "PLZ_CHECK It’s currently not possible to connect more than 1 bank account, but we’re working on it. We’ll make sure to notify you once it’s possible!",
   "forgot_to_create_account_notification_1": "PLZ_CHECK Busy day? Don’t forget about us. Create your Gimi account now!",
   "forgot_to_create_account_notification_2": "PLZ_CHECK Knock knock! Who’s there? Don’t know because you haven't created an account yet.",
-  "forgot_to_create_account_notification_3": "PLZ_CHECK Time to start managing allowances on your phone? Create your Gimi account now."
+  "forgot_to_create_account_notification_3": "PLZ_CHECK Time to start managing allowances on your phone? Create your Gimi account now.",
+  "paywall_title": "PLZ_CHECK Make more sense of money with Superskills Pro!",
+  "paywall_manage_allowance": "PLZ_CHECK Manage allowances",
+  "paywall_manage_and_reward_chores": "PLZ_CHECK Manage and reward chores",
+  "paywall_connect_bank_account": "PLZ_CHECK Connect a bank account*",
+  "paywall_add_goal": "PLZ_CHECK Add a savings goal",
+  "paywall_finance_lessons": "PLZ_CHECK Personal finance lessons",
+  "paywall_money_mission": "PLZ_CHECK Family money missions",
+  "paywall_savings_bonus": "PLZ_CHECK Savings bonus",
+  "paywall_cancel_any_time": "PLZ_CHECK Cancel anytime, no commitments!",
+  "paywall_read_more": "PLZ_CHECK Read more",
+  "paywall_try_for_free": "PLZ_CHECK Try for %1$d"
 }
