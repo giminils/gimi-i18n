@@ -2537,6 +2537,17 @@
   "paywall_try_for_free": "Probeer voor 0%1$d",
   "paywall_category_free": "Gratis",
   "paywall_category_pro": "Pro",
+  "paywall_read_more_title": "PLZ_TRANSLATE Get the full learning experience.",
+  "paywall_read_more_connect_bank_title": "PLZ_TRANSLATE Connect a bank account*",
+  "paywall_read_more_connect_bank_description": "PLZ_TRANSLATE Keep track of your child’s balance and transactions in the same place as you manage the allowance. We categorize all their transactions and you will get a spending summary each week. *It currently works for ABN Amro, Rabobank, ING and SNS.",
+  "paywall_read_more_savings_goal_title": "PLZ_TRANSLATE Savings goal",
+  "paywall_read_more_savings_goal_description": "PLZ_TRANSLATE Learning to save is a lesson for life, and visualizing a savings goal makes everything easier. Our research shows that children who save for something manage their money better, which makes this one of the most important features of the Gimi app.",
+  "paywall_read_more_finance_lessons_title": "PLZ_TRANSLATE Personal finance lessons",
+  "paywall_read_more_finance_lessons_description": "PLZ_TRANSLATE Give your child access to 40+ fun lessons and challenges on personal finance topics. The feature is developed by experts in didactics and includes all the basics your child needs to make more sense of money.",
+  "paywall_read_more_family_missions_title": "PLZ_TRANSLATE Family money missions",
+  "paywall_read_more_family_missions_description": "PLZ_TRANSLATE Build strong financial habits with 16+ exercises that you can bring into the everyday life of your family. Organizing a garage sale and budgeting for a family trip are two of many things you can practise with your child!",
+  "paywall_read_more_savings_bonus_title": "PLZ_TRANSLATE Savings bonus",
+  "paywall_read_more_savings_bonus_description": "PLZ_TRANSLATE Encourage your child to save money by adding a savings bonus. The bonus will be paid out together with the allowance and calculated as a % of the savings amount.",
   "child_settings_send_invite": "Verstuur uitnodiging",
   "child_settings_resend_invite": "Verstuurd uitnodiging opnieuw"
 }
