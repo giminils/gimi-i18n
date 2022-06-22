@@ -2534,5 +2534,7 @@
   "paywall_savings_bonus": "PLZ_CHECK Savings bonus",
   "paywall_cancel_any_time": "PLZ_CHECK Cancel anytime, no commitments!",
   "paywall_read_more": "PLZ_CHECK Read more",
-  "paywall_try_for_free": "PLZ_CHECK Try for %1$d"
+  "paywall_try_for_free": "PLZ_CHECK Try for 0%1$d",
+  "paywall_category_free": "PLZ_CHECK Free",
+  "paywall_category_pro": "PLZ_CHECK Pro"
 }
