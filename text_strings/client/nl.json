@@ -2534,5 +2534,7 @@
   "paywall_savings_bonus": "PLZ_TRANSLATE Savings bonus",
   "paywall_cancel_any_time": "PLZ_TRANSLATE Cancel anytime, no commitments!",
   "paywall_read_more": "PLZ_TRANSLATE Read more",
-  "paywall_try_for_free": "PLZ_TRANSLATE Try for %1$d"
+  "paywall_try_for_free": "PLZ_TRANSLATE Try for %1$d",
+  "child_settings_send_invite": "PLZ_TRANSLATE Send invite",
+  "child_settings_resend_invite": "PLZ_TRANSLATE Resend invite"
 }

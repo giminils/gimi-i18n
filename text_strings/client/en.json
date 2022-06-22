@@ -2534,5 +2534,7 @@
   "paywall_savings_bonus": "Savings bonus",
   "paywall_cancel_any_time": "Cancel anytime, no commitments!",
   "paywall_read_more": "Read more",
-  "paywall_try_for_free": "Try for %1$d"
+  "paywall_try_for_free": "Try for %1$d",
+  "child_settings_send_invite": "Send invite",
+  "child_settings_resend_invite": "Resend invite"
 }
