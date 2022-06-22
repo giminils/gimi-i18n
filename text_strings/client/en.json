@@ -2536,5 +2536,7 @@
   "paywall_read_more": "Read more",
   "paywall_try_for_free": "Try for 0%1$d",
   "paywall_category_free": "Free",
-  "paywall_category_pro": "Pro"
+  "paywall_category_pro": "Pro",
+  "child_settings_send_invite": "Send invite",
+  "child_settings_resend_invite": "Resend invite"
 }
