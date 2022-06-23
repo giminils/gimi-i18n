@@ -2549,5 +2549,11 @@
   "paywall_read_more_savings_bonus_title": "Savings bonus",
   "paywall_read_more_savings_bonus_description": "Encourage your child to save money by adding a savings bonus. The bonus will be paid out together with the allowance and calculated as a % of the savings amount.",
   "child_settings_send_invite": "Send invite",
-  "child_settings_resend_invite": "Resend invite"
+  "child_settings_resend_invite": "Resend invite",
+  "setup_open_banking_bullet_title": "How it works",
+  "setup_open_banking_bullet_1": "You as a parent will be authenticated through your bank",
+  "setup_open_banking_bullet_2": "Select the child’s bank account from the list of accounts",
+  "setup_open_banking_bullet_3": "Start your free trial on Superskills Pro",
+  "setup_open_banking_bullet_3_nl": "Start your free trial on Superskills Pro (Free forever for ABN AMRO connected bank accounts)",
+  "setup_open_banking_bullet_4": "Done! Now you and your child can use Gimi with their bank account"
 }
