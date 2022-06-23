@@ -2539,7 +2539,7 @@
   "paywall_category_pro": "Pro",
   "paywall_read_more_title": "PLZ_TRANSLATE Get the full learning experience.",
   "paywall_read_more_connect_bank_title": "PLZ_TRANSLATE Connect a bank account*",
-  "paywall_read_more_connect_bank_description": "PLZ_TRANSLATE Keep track of your child’s balance and transactions in the same place as you manage the allowance. We categorize all their transactions and you will get a spending summary each week. *It currently works for ABN Amro, Rabobank, ING and SNS.",
+  "paywall_read_more_connect_bank_description": "PLZ_TRANSLATE Keep track of your child’s balance and transactions in the same place as you manage the allowance. We categorize all their transactions and you will get a spending summary each week. *It currently works for %1$d.",
   "paywall_read_more_savings_goal_title": "PLZ_TRANSLATE Savings goal",
   "paywall_read_more_savings_goal_description": "PLZ_TRANSLATE Learning to save is a lesson for life, and visualizing a savings goal makes everything easier. Our research shows that children who save for something manage their money better, which makes this one of the most important features of the Gimi app.",
   "paywall_read_more_finance_lessons_title": "PLZ_TRANSLATE Personal finance lessons",

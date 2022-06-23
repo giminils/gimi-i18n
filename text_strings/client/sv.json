@@ -2539,7 +2539,7 @@
   "paywall_category_pro": "Pro",
   "paywall_read_more_title": "För sunda pengavanor.",
   "paywall_read_more_connect_bank_title": "Anslut ett bankkonto*",
-  "paywall_read_more_connect_bank_description": "Håll koll på ditt barns saldo och transaktioner på samma ställe som du hanterar veckopengen. Vi kategoriserar alla transaktioner och du kommer att få en köpsummering varje vecka. *Fungerar just nu för ABN AMRO, Rabobank, ING och SNS.",
+  "paywall_read_more_connect_bank_description": "Håll koll på ditt barns saldo och transaktioner på samma ställe som du hanterar veckopengen. Vi kategoriserar alla transaktioner och du kommer att få en köpsummering varje vecka. *Fungerar just nu för %1$d.",
   "paywall_read_more_savings_goal_title": "Sparmål",
   "paywall_read_more_savings_goal_description": "Att lära sig spara är en lärdom som varar livet ut, och att visualisera sitt sparmål gör allting lättare. Vår forskning visar att barn som sparar till något hanterar sina pengar bättre, vilket gör Sparmålet till en av de viktigaste funktionerna i Gimi.",
   "paywall_read_more_finance_lessons_title": "Lektioner i privatekonomi",
