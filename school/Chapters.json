@@ -8,7 +8,7 @@
             "imageUrl": "",
             "lessonIds": [1.1, 1.2, 1.3],
             "rocketId": 1,
-            "storySnippetId": null
+            "storySnippetId": 1
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "imageUrl": "",
             "lessonIds": [2.1, 2.2, 2.3],
             "rocketId": 2,
-            "storySnippetId": 1
+            "storySnippetId": null
         },
         {
             "id": 3,
