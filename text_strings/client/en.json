@@ -2555,5 +2555,6 @@
   "setup_open_banking_bullet_2": "Select the child’s bank account from the list of accounts",
   "setup_open_banking_bullet_3": "Start your free trial on Superskills Pro",
   "setup_open_banking_bullet_3_nl": "Start your free trial on Superskills Pro (Free forever for ABN AMRO connected bank accounts)",
-  "setup_open_banking_bullet_4": "Done! Now you and your child can use Gimi with their bank account"
+  "setup_open_banking_bullet_4": "Done! Now you and your child can use Gimi with their bank account",
+  "subscription_first_month_free": "0%1$d first month!"
 }
