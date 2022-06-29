@@ -2556,5 +2556,7 @@
   "setup_open_banking_bullet_3": "Påbörja din gratisperiod på Superskills Pro",
   "setup_open_banking_bullet_3_nl": "Påbörja din gratisperiod på Superskills Pro (Gratis för ABN AMRO-kunder)",
   "setup_open_banking_bullet_4": "Klart! Nu kan du och ditt barn använda Gimi med deras bankkonto",
-  "subscription_first_month_free": "PLZ_CHECK 0%1$d first month!"
+  "subscription_first_month_free": "PLZ_CHECK 0%1$d first month!",
+  "onboarding_setup_bank_account": "PLZ_CHECK Set up bank account",
+  "onboarding_setup_piggybank": "PLZ_CHECK Set up piggybank"
 }
