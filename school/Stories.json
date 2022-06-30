@@ -4489,7 +4489,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_7.2_screen_4_title",
                     "subtitleLangKey": "school_story_7.2_screen_4_subtitle",
-                    "imageUrl": "/static/school/lawnMover.png",
+                    "imageUrl": "/static/school/lawnMower.png",
                     "buttons": [
                         {
                             "langKey": "school_story_7.2_screen_4_button_1_title"
@@ -6728,7 +6728,7 @@
                     "id": 7,
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10.1_screen_7_title",
-                    "subtitleLangKey": "",
+                    "subtitleLangKey": "school_story_10.1_screen_7_subtitle",
                     "imageUrl": "",
                     "buttons": [
                         {
@@ -7038,7 +7038,7 @@
                     "type": "DEFAULT",
                     "titleLangKey": "school_story_10.2_screen_11_title",
                     "subtitleLangKey": "school_story_10.2_screen_11_subtitle",
-                    "imageUrl": "/static/school/apple.png",
+                    "imageUrl": "",
                     "buttons": [
                         {
                             "langKey": "school_story_10.2_screen_11_button_1_title"
