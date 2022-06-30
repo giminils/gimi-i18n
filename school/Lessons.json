@@ -281,7 +281,7 @@
             "isEnabled": true,
             "titleLangKey": "school_lesson_8.3_title",
             "subtitleLangKey": "school_lesson_subtitle1",
-            "imageUrl": "/static/school/piggyEurope.png",
+            "imageUrl": "/static/school/piggyTravelCurrencies.png",
             "type": "DEFAULT",
             "storyId": 8.3,
             "challengeId": 8.3
