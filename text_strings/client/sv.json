@@ -2505,7 +2505,7 @@
   "marked_as_paid_success_message": "Markerad som betald!",
   "complete_setup_popover_title": "Färdigställ %1$ds profil först!",
   "complete_setup_popover_description": "Du behöver gå igenom de tre stegen på startsidan innan du kan komma åt inställingarna.",
-  "onboarding_open_banking_free_for": "Gratis endast för kunder från:",
+  "onboarding_open_banking_free_for": "PLZ_CHECK Free for customers of:",
   "onboarding_open_banking_also_available_for": "Även tillgängligt för:",
   "subscriptions_bank_name_pro": "Prenumeration: %1$d Pro",
   "sign_up_choose_account_type_title": "Välj kontotyp!",
@@ -2558,5 +2558,8 @@
   "setup_open_banking_bullet_4": "Klart! Nu kan du och ditt barn använda Gimi med deras bankkonto",
   "subscription_first_month_free": "PLZ_CHECK 0%1$d first month!",
   "onboarding_setup_bank_account": "PLZ_CHECK Set up bank account",
-  "onboarding_setup_piggybank": "PLZ_CHECK Set up piggybank"
+  "onboarding_setup_piggybank": "PLZ_CHECK Set up piggybank",
+  "onboarding_setup_bank_account_description_with_partner": "PLZ_CHECK Better than your mobile banking app!",
+  "onboarding_setup_bank_account_description": "PLZ_CHECK Better than your mobile banking app! We currently support the following banks:",
+  "onboarding_practice_without_real_money": "PLZ_CHECK Practice without “real” money instead"
 }

@@ -2505,7 +2505,7 @@
   "marked_as_paid_success_message": "Gemarkeerd als betaald!",
   "complete_setup_popover_title": "Voltooi eerst de setup van %1$d!",
   "complete_setup_popover_description": "Je kunt pas bij deze instellingen als je het account van je kind volledig hebt aangemaakt.",
-  "onboarding_open_banking_free_for": "Alleen gratis voor klanten van:",
+  "onboarding_open_banking_free_for": "PLZ_TRANSLATE Free for customers of:",
   "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:",
   "subscriptions_bank_name_pro": "Abonnement: %1$d Pro",
   "sign_up_choose_account_type_title": "Kies een accounttype!",
@@ -2558,5 +2558,8 @@
   "setup_open_banking_bullet_4": "Klaar! Nu kunnen je kind en jij Gimi gebruiken met de gekoppelde bankrekening",
   "subscription_first_month_free": " 0%1$d eerste maand!",
   "onboarding_setup_bank_account": "Stel bankrekening in",
-  "onboarding_setup_piggybank": "Stel spaarvarken in"
+  "onboarding_setup_piggybank": "Stel spaarvarken in",
+  "onboarding_setup_bank_account_description_with_partner": "PLZ_TRANSLATE Better than your mobile banking app!",
+  "onboarding_setup_bank_account_description": "PLZ_TRANSLATE Better than your mobile banking app! We currently support the following banks:",
+  "onboarding_practice_without_real_money": "PLZ_TRANSLATE Practice without “real” money instead"
 }

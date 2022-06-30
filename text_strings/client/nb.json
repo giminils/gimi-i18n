@@ -2505,7 +2505,7 @@
   "marked_as_paid_success_message": "Merket som betalt!",
   "complete_setup_popover_title": "Fullfør %1$ds profil først!",
   "complete_setup_popover_description": "Du må gå gjennom de tre trinnene på startsiden før du får tilgang til innstillingene.",
-  "onboarding_open_banking_free_for": "Gratis kun for kunder til:",
+  "onboarding_open_banking_free_for": "PLZ_TRANSLATE Free for customers of:",
   "onboarding_open_banking_also_available_for": "Også tilgjengelig for:",
   "subscriptions_bank_name_pro": "Abonnement: %1$d Pro",
   "sign_up_choose_account_type_title": "Velg kontotype!",
@@ -2558,5 +2558,8 @@
   "setup_open_banking_bullet_4": "Klar! Nå kan du og barnet ditt bruke Gimi med bankkontoen sin",
   "subscription_first_month_free": "PLZ_TRANSLATE 0%1$d first month!",
   "onboarding_setup_bank_account": "PLZ_TRANSLATE Set up bank account",
-  "onboarding_setup_piggybank": "PLZ_TRANSLATE Set up piggybank"
+  "onboarding_setup_piggybank": "PLZ_TRANSLATE Set up piggybank",
+  "onboarding_setup_bank_account_description_with_partner": "PLZ_TRANSLATE Better than your mobile banking app!",
+  "onboarding_setup_bank_account_description": "PLZ_TRANSLATE Better than your mobile banking app! We currently support the following banks:",
+  "onboarding_practice_without_real_money": "PLZ_TRANSLATE Practice without “real” money instead"
 }
