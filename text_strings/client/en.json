@@ -2505,7 +2505,7 @@
   "marked_as_paid_success_message": "Marked as paid!",
   "complete_setup_popover_title": "Complete the setup of %1$d first!",
   "complete_setup_popover_description": "In order to access these settings, you need to finish setting up your child.",
-  "onboarding_open_banking_free_for": "Free only for customers of:",
+  "onboarding_open_banking_free_for": "Free for customers of:",
   "onboarding_open_banking_also_available_for": "Also available for:",
   "subscriptions_bank_name_pro": "Subscription: %1$d Pro",
   "sign_up_choose_account_type_title": "Choose account type!",
@@ -2558,5 +2558,8 @@
   "setup_open_banking_bullet_4": "Done! Now you and your child can use Gimi with their bank account",
   "subscription_first_month_free": "0%1$d first month!",
   "onboarding_setup_bank_account": "Set up bank account",
-  "onboarding_setup_piggybank": "Set up piggybank"
+  "onboarding_setup_piggybank": "Set up piggybank",
+  "onboarding_setup_bank_account_description_with_partner": "Better than your mobile banking app!",
+  "onboarding_setup_bank_account_description": "Better than your mobile banking app! We currently support the following banks:",
+  "onboarding_practice_without_real_money": "Practice without “real” money instead"
 }
