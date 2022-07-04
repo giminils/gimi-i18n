@@ -2566,6 +2566,7 @@
   "onboarding_piggybank_information_1": "PLZ_CHECK The piggybank is a tracker of your child’s money, and works like a simple calculator",
   "onboarding_piggybank_information_2": "PLZ_CHECK No bank transfers or withdrawals",
   "onboarding_piggybank_information_3": "PLZ_CHECK When your child wants to buy something for the piggybank money, you pay and deduct it from Gimi",
-  "onboarding_piggybank_information_4": "PLZ_CHECK The piggybank is for practice - upgrade to a bank account when you’re ready!",
+  "onboarding_piggybank_information_4_1": "PLZ_CHECK The piggybank is for practice - upgrade to a bank account when you’re ready!",
+  "onboarding_piggybank_information_4_2": "PLZ_CHECK The piggybank is for practice - upgrade to a bank account when it's available in your country!",
   "onboarding_setup_piggybank_button": "PLZ_CHECK Set up piggybank"
 }
