@@ -2253,7 +2253,7 @@
   "premium_offer_title_12": "Beloon sparen",
   "premium_offer_subtitle_12": "Leer je kind dat geld kan groeien als je het spaart.",
   "premium_offer_title_13": "Voeg de bankrekening van je kind toe",
-  "premium_offer_subtitle_13": "Gebruik Gimi met echt geld, werkt met de meeste banken.",
+  "premium_offer_subtitle_13": "Gebruik Gimi met echt geld, het werkt met de meeste banken.",
   "tink_crendentials_refreshed_success": "Bankrekening is vernieuwd!",
   "delete_tink_account_popover_title": "Weet je het zeker?",
   "delete_tink_account_popover_desc": "Dit zal alle bankrekeningen verwijderen die je hebt toegevoegd aan Gimi",
@@ -2505,7 +2505,7 @@
   "marked_as_paid_success_message": "Gemarkeerd als betaald!",
   "complete_setup_popover_title": "Voltooi eerst de setup van %1$d!",
   "complete_setup_popover_description": "Je kunt pas bij deze instellingen als je het account van je kind volledig hebt aangemaakt.",
-  "onboarding_open_banking_free_for": "PLZ_TRANSLATE Free for customers of:",
+  "onboarding_open_banking_free_for": "Gratis voor klanten van:",
   "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:",
   "subscriptions_bank_name_pro": "Abonnement: %1$d Pro",
   "sign_up_choose_account_type_title": "Kies een accounttype!",
@@ -2559,7 +2559,7 @@
   "subscription_first_month_free": " 0%1$d eerste maand!",
   "onboarding_setup_bank_account": "Stel bankrekening in",
   "onboarding_setup_piggybank": "Stel spaarvarken in",
-  "onboarding_setup_bank_account_description_with_partner": "PLZ_TRANSLATE Better than your mobile banking app!",
-  "onboarding_setup_bank_account_description": "PLZ_TRANSLATE Better than your mobile banking app! We currently support the following banks:",
-  "onboarding_practice_without_real_money": "PLZ_TRANSLATE Practice without “real” money instead"
+  "onboarding_setup_bank_account_description_with_partner": "Beter dan je internet bankieren app!",
+  "onboarding_setup_bank_account_description": "Beter dan je internet bankieren app! Momenteel ondersteunen we de volgende banken:",
+  "onboarding_practice_without_real_money": "Oefen zonder 'echt' geld in plaats van met"
 }
