@@ -2562,11 +2562,11 @@
   "onboarding_setup_bank_account_description_with_partner": "Bedre enn bankappen din!",
   "onboarding_setup_bank_account_description": "Bedre enn bankappen din! For øyeblikket støtter vi følgende banker:",
   "onboarding_practice_without_real_money": "Øv uten “ekte” penger i stedet",
-  "onboarding_piggybank_information_title": "PLZ_TRANSLATE Practice without “real” money",
+  "onboarding_piggybank_information_title": "Øv uten “ekte” penger",
   "onboarding_piggybank_information_1": "PLZ_TRANSLATE The piggybank is a tracker of your child’s money, and works like a simple calculator",
   "onboarding_piggybank_information_2": "PLZ_TRANSLATE No bank transfers or withdrawals",
   "onboarding_piggybank_information_3": "PLZ_TRANSLATE When your child wants to buy something for the piggybank money, you pay and deduct it from Gimi",
-  "onboarding_piggybank_information_4_1": "PLZ_TRANSLATE The piggybank is for practice - upgrade to a bank account when you’re ready!",
-  "onboarding_piggybank_information_4_2": "PLZ_TRANSLATE The piggybank is for practice - upgrade to a bank account when it's available in your country!",
-  "onboarding_setup_piggybank_button": "PLZ_TRANSLATE Set up piggybank"
+  "onboarding_piggybank_information_4_1": "Sparegrisen er der for å øve med - koble til en bankkonto når dere er klare for det!",
+  "onboarding_piggybank_information_4_2": "Sparegrisen er der for å øve med - koble til en bankkonto når det er tilgjengelig i landet deres!",
+  "onboarding_setup_piggybank_button": "Aktivere sparegrisen"
 }
