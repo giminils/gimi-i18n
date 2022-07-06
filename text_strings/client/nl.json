@@ -2562,11 +2562,11 @@
   "onboarding_setup_bank_account_description_with_partner": "Beter dan je internet bankieren app!",
   "onboarding_setup_bank_account_description": "Beter dan je internet bankieren app! Momenteel ondersteunen we de volgende banken:",
   "onboarding_practice_without_real_money": "Oefen zonder 'echt' geld in plaats van met",
-  "onboarding_piggybank_information_title": "PLZ_TRANSLATE Practice without “real” money",
-  "onboarding_piggybank_information_1": "PLZ_TRANSLATE The piggybank is a tracker of your child’s money, and works like a simple calculator",
-  "onboarding_piggybank_information_2": "PLZ_TRANSLATE No bank transfers or withdrawals",
-  "onboarding_piggybank_information_3": "PLZ_TRANSLATE When your child wants to buy something for the piggybank money, you pay and deduct it from Gimi",
-  "onboarding_piggybank_information_4_1": "PLZ_TRANSLATE The piggybank is for practice - upgrade to a bank account when you’re ready!",
-  "onboarding_piggybank_information_4_2": "PLZ_TRANSLATE The piggybank is for practice - upgrade to a bank account when it's available in your country!",
-  "onboarding_setup_piggybank_button": "PLZ_TRANSLATE Set up piggybank"
+  "onboarding_piggybank_information_title": "Oefen het beheren van geld, zonder 'echt' geld te gebruiken",
+  "onboarding_piggybank_information_1": "Het spaarvarken houdt het geld van je kind bij, en werkt als een simpele rekenmachine",
+  "onboarding_piggybank_information_2": "Geen bankoverboekingen of afschrijvingen",
+  "onboarding_piggybank_information_3": "Wanneer je kind iets wil kopen met geld uit het spaarvarken, betaal jij en trek je het er in Gimi vanaf",
+  "onboarding_piggybank_information_4_1": "Het spaarvarken is om te oefenen - upgrade naar een bankrekening wanneer je er klaar voor bent!",
+  "onboarding_piggybank_information_4_2": "Het spaarvarken is om te oefenen - upgrade naar een bankrekening wanneer het in jouw land beschikbaar is!",
+  "onboarding_setup_piggybank_button": "Stel spaarvarken in"
 }
