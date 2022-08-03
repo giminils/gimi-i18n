@@ -10,7 +10,7 @@ describe('School challenge tests', () => {
     expect(challenges.length).toBeGreaterThan(0)
   })
   test('challenges should have uniqueIDs', () => {
-    let ids: Array<Number> = []
+    let ids: Array<number> = []
     challenges.forEach((challenge) => ids.push(challenge.id))
     expect([...new Set(ids)].length === ids.length).toBeTruthy()
   })
@@ -28,7 +28,7 @@ describe('School challenge tests', () => {
         })
         if (screens)
           test('quiz challenge screen should have exactly 1 correct answer', () => {
-            screens.forEach(({buttons}: {buttons?: Array<Object>}) => {
+            screens.forEach(({buttons}: {buttons?: Array<object>}) => {
               const correctAnwers = buttons?.filter((button: {isCorrect?: boolean}) => button.isCorrect === true).length
               if (correctAnwers !== 1) warnChallengeId(challenge, 'correct answers')
               expect(correctAnwers).toBe(1)
@@ -63,20 +63,20 @@ describe('School challenge tests', () => {
         })
         if (screens)
           test('click to choose multiple/in order challenges screen should have at multiple buttons', () => {
-            screens.forEach(({buttons}: {buttons?: Array<Object>}) => {
+            screens.forEach(({buttons}: {buttons?: Array<object>}) => {
               if (!buttons || buttons.length < 1) warnChallengeId(challenge, 'buttons')
               expect(buttons?.length).toBeGreaterThan(1)
             })
           })
         if (screens)
-          screens.forEach(({buttons}: {buttons?: Array<Object>}) => {
+          screens.forEach(({buttons}: {buttons?: Array<object>}) => {
             if (type === 'CLICK_TO_CHOOSE_MULTIPLE')
               test('click to choose multiple challenge screen should have at least 1 correct answer', () => {
                 const isButtonsValid = buttons?.some((button: {isCorrect?: boolean}) => button.isCorrect === true)
                 if (!isButtonsValid) warnChallengeId(challenge, 'correct answers')
                 expect(isButtonsValid).toBeTruthy()
               })
-            let ids: Array<Number> = []
+            let ids: Array<number> = []
             test('click to choose multiple/in order challenges buttons should have id', () => {
               buttons?.forEach((button: {id?: number}) => {
                 ids.push(button.id ? button.id : 0)

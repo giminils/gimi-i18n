@@ -1,22 +1,27 @@
 /* eslint jest/expect-expect: 0 */
-// @ts-nocheck
 import {getTextStrings, languageCodes, gimiWebLanguageCodes, languageCodesForTranslation} from '../index'
-import {stringLenghtStatistic, stringTranslationTags} from '../TestUtil'
+import {stringLengthStatistic, stringTranslationTags} from '../TestUtil'
 let languageCodesHolder = languageCodes
-var Slack = require('node-slack');
+import Slack from 'node-slack'
 
 jest.disableAutomock()
 
 describe('TextStrings', () => {
   test.skip('test should export in slack the length of text_strings', () => {
-    let stringLengthData: {status: string, data: Array<string>}
+    // let stringLengthData: {status: string; data: Array<string>}
+    let stringLengthData: any
 
-    languageCodes.forEach(languageCode => {
-      stringLengthData = stringLenghtStatistic(getTextStrings('en'), getTextStrings(languageCode), 'en', languageCode)
+    languageCodes.forEach((languageCode) => {
+      stringLengthData = stringLengthStatistic(getTextStrings('en'), getTextStrings(languageCode), 'en', languageCode)
       const attachmentPayload = [
         {
           fallback: 'String lenght data',
-          text: 'Link to gtest "' + languageCode + '"  <https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' + languageCode + '.json|Click here>',
+          text:
+            'Link to gtest "' +
+            languageCode +
+            '"  <https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/client/' +
+            languageCode +
+            '.json|Click here>',
           color: stringLengthData.status ? 'warning' : '#36a64f', // Can etesther be one of 'good', 'warning', 'danger', or any hex color code
           // Fields are displayed in a table on the message
           fields: stringLengthData.data
@@ -28,40 +33,44 @@ describe('TextStrings', () => {
   })
 
   test('test should show where we have PLZ_TRANSLATE', () => {
-    const stringTagData: Array<string> = []
-    const jsonDataCheck: Array<string> = []
-    const jsonDataTranslate: Array<string> = []
-    const jsonEmmaTag: Array<string> = []
+    const stringTagData: Array<any> = []
+    const jsonDataCheck: Array<any> = []
+    const jsonDataTranslate: Array<any> = []
+    const jsonEmmaTag: Array<any> = []
 
     const textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web'] // 'moonshine'
 
-    const textStrings: {[key: string]: string} = {}
-    textStringsTypes.forEach(textStringsType => {
+    const textStrings: Record<string, any> = {}
+    textStringsTypes.forEach((textStringsType) => {
       textStrings[textStringsType] = {}
     })
-    textStringsTypes.forEach(textStringsType => {
+    textStringsTypes.forEach((textStringsType) => {
       if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
       if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
-      languageCodesHolder.forEach(lang => {
+      languageCodesHolder.forEach((lang) => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
-        } catch (e) {
+        } catch (err) {
+          const e = err as Error;
           // eslint-disable-next-line no-console
-          console.error(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('')
+          console.error(`Cant parse ${textStringsType}/${lang} ${e.message}`)
+          throw err
         }
       })
     })
     // server and templates string data
-    textStringsTypes.forEach(textStringsType => {
+    textStringsTypes.forEach((textStringsType) => {
       if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
       if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
-      languageCodesHolder.forEach(languageCode => {
-        stringTagData.push(stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+      languageCodesHolder.forEach((languageCode) => {
+        stringTagData.push(
+          stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType)
+        )
       })
     })
 
     // get plz Check
-    stringTagData.forEach(data => {
+    stringTagData.forEach((data) => {
       const path = data.path ? data.path : 'client'
       let isAdded = false
       if (data.plzCheck > 0) {
@@ -69,12 +78,18 @@ describe('TextStrings', () => {
           if (jsonDataCheck[i].lang === data.lang) {
             jsonDataCheck[i].path.push(path)
             jsonDataCheck[i].count.push(data.plzCheck)
-            jsonDataCheck[i].link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            jsonDataCheck[i].link.push(
+              '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
+                path +
+                '/' +
+                data.lang +
+                '.json|Click>'
+            )
             isAdded = true
           }
 
         if (!isAdded) {
-          const displayObject: object = {
+          const displayObject: any = {
             lang: '',
             path: [],
             count: [],
@@ -83,13 +98,19 @@ describe('TextStrings', () => {
           displayObject.lang = data.lang
           displayObject.path.push(path)
           displayObject.count.push(data.plzCheck)
-          displayObject.link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          displayObject.link.push(
+            '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
+              path +
+              '/' +
+              data.lang +
+              '.json|Click>'
+          )
           jsonDataCheck.push(displayObject)
         }
       }
     })
     // get plzTransalte
-    stringTagData.forEach(data => {
+    stringTagData.forEach((data) => {
       const path = data.path ? data.path : 'client'
       let isAdded = false
       if (data.plzTrans > 0) {
@@ -97,12 +118,18 @@ describe('TextStrings', () => {
           if (jsonDataTranslate[i].lang === data.lang) {
             jsonDataTranslate[i].path.push(path)
             jsonDataTranslate[i].count.push(data.plzTrans)
-            jsonDataTranslate[i].link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            jsonDataTranslate[i].link.push(
+              '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
+                path +
+                '/' +
+                data.lang +
+                '.json|Click>'
+            )
             isAdded = true
           }
 
         if (!isAdded) {
-          const displayObject: object = {
+          const displayObject: any = {
             lang: '',
             path: [],
             count: [],
@@ -111,13 +138,19 @@ describe('TextStrings', () => {
           displayObject.lang = data.lang
           displayObject.path.push(path)
           displayObject.count.push(data.plzTrans)
-          displayObject.link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          displayObject.link.push(
+            '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
+              path +
+              '/' +
+              data.lang +
+              '.json|Click>'
+          )
           jsonDataTranslate.push(displayObject)
         }
       }
     })
     // get plz EMMA
-    stringTagData.forEach(data => {
+    stringTagData.forEach((data) => {
       const path = data.path ? data.path : 'client'
       let isAdded = false
       if (data.emmaTag > 0) {
@@ -125,12 +158,18 @@ describe('TextStrings', () => {
           if (jsonEmmaTag[i].lang === data.lang) {
             jsonEmmaTag[i].path.push(path)
             jsonEmmaTag[i].count.push(data.emmaTag)
-            jsonEmmaTag[i].link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+            jsonEmmaTag[i].link.push(
+              '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
+                path +
+                '/' +
+                data.lang +
+                '.json|Click>'
+            )
             isAdded = true
           }
 
         if (!isAdded) {
-          const displayObject: object = {
+          const displayObject: any = {
             lang: '',
             path: [],
             count: [],
@@ -139,7 +178,13 @@ describe('TextStrings', () => {
           displayObject.lang = data.lang
           displayObject.path.push(path)
           displayObject.count.push(data.emmaTag)
-          displayObject.link.push('<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' + path + '/' + data.lang + '.json|Click>')
+          displayObject.link.push(
+            '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
+              path +
+              '/' +
+              data.lang +
+              '.json|Click>'
+          )
           jsonEmmaTag.push(displayObject)
         }
       }
@@ -153,17 +198,19 @@ describe('TextStrings', () => {
 
     text = text.replace(/['"]+/g, '')
 
-    if (jsonEmmaTag.length > 0)
-      SendToNonTech(textEmma)
+    if (jsonEmmaTag.length > 0) SendToNonTech(textEmma)
 
     SendToSlackTagStats(text)
   })
 })
 
-const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string) => {
+const SendToSlackStats = (attachmentPayload: any, languageCode?: string) => {
   const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
-    text: 'i18n Language files wtesth languageCode "' + languageCode + '" are more than 25% longer then their English counter parts',
+    text:
+      'i18n Language files wtesth languageCode "' +
+      languageCode +
+      '" are more than 25% longer then their English counter parts',
     channel: '#i18n_translation_stat',
     username: 'I18nLangStatistics',
     icon_emoji: ':bread:',
@@ -172,7 +219,7 @@ const SendToSlackStats = (attachmentPayload: Array<Object>, languageCode: string
     link_names: 1
   })
 }
-const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
+const SendToSlackTagStats = (text: any, languageCode?: string) => {
   const slack = new Slack('https://hooks.slack.com/services/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')
   slack.send({
     text,
@@ -185,7 +232,7 @@ const SendToSlackTagStats = (text: Array<Object>, languageCode: string) => {
   })
 }
 
-const SendToNonTech = (text: Array<Object>, languageCode: string) => {
+const SendToNonTech = (text: any, languageCode?: string) => {
   const slack = new Slack('https://hooks.slack.com/services/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')
   const attachmentPayload = [
     {

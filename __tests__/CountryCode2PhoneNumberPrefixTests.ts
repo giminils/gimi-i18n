@@ -1,4 +1,3 @@
-
 import {getPhoneNumberPrefix, getCountryCodeFromLocale} from '../index'
 jest.disableAutomock()
 

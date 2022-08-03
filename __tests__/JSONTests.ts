@@ -1,16 +1,16 @@
-
 /* eslint jest/expect-expect:  0 */
-const fs = require('fs')
+import fs from 'fs'
 import jsonValidator from 'json-dup-key-validator'
 jest.disableAutomock()
 
 describe('JSON files', () => {
-  it('NEED THIS TO PASS', () => { })
+  it('NEED THIS TO PASS', () => {
+    // Ignore
+  })
   let dirs
   try {
     dirs = fs.readdirSync('./text_strings/')
-  }
-  catch (e) {
+  } catch (e) {
     dirs = fs.readdirSync('./i18n/text_strings/')
   }
   dirs.forEach((dir: string) => {
@@ -22,9 +22,11 @@ describe('JSON files', () => {
         const path = `${dir}/${file}`
         console.warn(path)
         it(`it should have valid JSON for ${path}`, () => {
-          const json = fs.readFileSync(path, {
-            encoding: 'utf8'
-          })
+          const json = fs
+            .readFileSync(path, {
+              encoding: 'utf8'
+            })
+            .replace(/\r/, '') // remove any carriage return characters
           jsonValidator.parse(json, false)
         })
       })

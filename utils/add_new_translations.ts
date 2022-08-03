@@ -1,5 +1,4 @@
-/* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-let fs = require('fs')
+import fs from 'fs'
 let templateDir = [
   './text_strings/server',
   './text_strings/templates',
@@ -16,15 +15,15 @@ let templateDir = [
 
 let getPath = (filePath: string, file: string) => `${filePath}/${file}`
 
-const syncNewTextStrings = (filePath: string, file: string, lang: {[key: string]: string}, _default: string) => {
+const syncNewTextStrings = (filePath: string, file: string, lang: Record<string, string>, _default: string) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
   if (file === 'en.json') return
   const path = `${filePath}/${file}`
-  const fileString = fs.readFileSync(path)
+  const fileString = fs.readFileSync(path).toString().replace(/\r/, '')
   let bufferString: string = fileString.toString()
-  const fileObj: {[key: string]: string} = JSON.parse(bufferString)
+  const fileObj: Record<string, string> = JSON.parse(bufferString)
 
   // move root keys to sub nodes
   addMissingKeyOnNode(fileObj, fileObj, lang)
@@ -34,9 +33,9 @@ const syncNewTextStrings = (filePath: string, file: string, lang: {[key: string]
 }
 
 const addMissingKeyOnNode = (
-  rootObj: {[key: string]: string},
-  nodeObj: {[key: string]: string},
-  langNodeObj: {[key: string]: string}
+  rootObj: Record<string, string>,
+  nodeObj: Record<string, string>,
+  langNodeObj: Record<string, string>
 ) => {
   Object.keys(langNodeObj).forEach((key) => {
     if (typeof langNodeObj[key] === 'string') {
@@ -69,11 +68,11 @@ const createPlzTranslateString = (str: string) => {
 let runAddNewTranslations = (filePath: string): any => {
   // let folderName = filePath.match(/\/[^\s/]*$/g) ? filePath.match(/\/[^\s/]*$/g)[0] + '/' : ''
   let defaultPath = getPath(filePath, 'default.json')
-  let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'})
-  let parsed_default: {[key: string]: string} = JSON.parse(_default)
+  let _default = fs.readFileSync(defaultPath, {encoding: 'utf8'}).replace(/\r/, '')
+  let parsed_default: Record<string, string> = JSON.parse(_default)
   let stringPath = getPath(filePath, 'en.json') // Edit here for what language to use
-  let strings = fs.readFileSync(stringPath, {encoding: 'utf8'})
-  let parsedStrings: {[key: string]: string} = JSON.parse(strings)
+  let strings = fs.readFileSync(stringPath, {encoding: 'utf8'}).replace(/\r/, '')
+  let parsedStrings: Record<string, string> = JSON.parse(strings)
   fs.readdirSync(filePath).forEach((file: string) => syncTextStrings(filePath, file, parsedStrings, parsed_default))
 
   // fix swedish TextStrings formatting
@@ -85,15 +84,15 @@ let runAddNewTranslations = (filePath: string): any => {
 let syncTextStrings = (
   filePath: string,
   file: string,
-  lang: {[key: string]: string},
-  _default: {[key: string]: string}
+  lang: Record<string, string>,
+  _default: Record<string, string>
 ) => {
   if (file.indexOf('.json') === -1) return
   if (file === 'default.json') return
   if (file === 'lang.json') return
   let path = getPath(filePath, file)
-  let textStrings = fs.readFileSync(path, {encoding: 'utf8'})
-  let parsedStrings: {[key: string]: string} = JSON.parse(textStrings)
+  let textStrings = fs.readFileSync(path, {encoding: 'utf8'}).replace(/\r/, '')
+  let parsedStrings: Record<string, string> = JSON.parse(textStrings)
   // Delete Support
   Object.keys({...parsedStrings})
     .filter((key: string) => lang[key] === undefined)

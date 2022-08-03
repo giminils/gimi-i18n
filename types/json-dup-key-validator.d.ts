@@ -1,1 +1,1 @@
-declare module 'json-dup-key-validator';
+declare module 'json-dup-key-validator'

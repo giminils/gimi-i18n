@@ -1,4 +1,3 @@
-
 jest.disableAutomock()
 
 describe('includes', () => {

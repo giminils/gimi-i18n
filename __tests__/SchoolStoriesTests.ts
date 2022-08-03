@@ -2,7 +2,7 @@ import {stories} from '../school/School'
 jest.disableAutomock()
 const STORYSCREEN_TYPES = ['DEFAULT', 'PAUSE']
 
-const warnStoryId = (story: { id: number }, prop: string) => {
+const warnStoryId = (story: {id: number}, prop: string) => {
   console.warn(`Story with id: ${story.id} having problems with: ${prop} `)
 }
 
@@ -11,17 +11,17 @@ describe('School stories tests', () => {
     expect(stories.length).toBeGreaterThan(0)
   })
   test('stories should have uniqueIDs', () => {
-    let ids: Array<Number> = []
+    let ids: Array<number> = []
     stories.map((story) => ids.push(story.id))
     expect([...new Set(ids)].length === ids.length).toBeTruthy()
   })
-  stories.map((story) => {
+  stories.forEach((story) => {
     const {screens} = story
     test('stories should have multiple screens', () => {
       if (!screens || screens.length === 0) warnStoryId(story, 'screens length')
       expect(screens.length).toBeGreaterThan(0)
     })
-    screens.map((screen) => {
+    screens.forEach((screen) => {
       const {type, titleLangKey, subtitleLangKey, buttons} = screen
       test('story screen should have an existing type', () => {
         if (!type || STORYSCREEN_TYPES.indexOf(type) === -1) warnStoryId(story, 'type')
@@ -36,7 +36,7 @@ describe('School stories tests', () => {
         expect(buttons.length).toBeGreaterThan(0)
       })
       test('story button should have at least one of: langKey, imageUrl', () => {
-        buttons.forEach((button: {langKey?: string, imageUrl?: string}) => {
+        buttons.forEach((button: {langKey?: string; imageUrl?: string}) => {
           const {langKey, imageUrl} = button
           if (!langKey && !imageUrl) warnStoryId(story, 'button langKey and imageUrl')
           expect(langKey || imageUrl).toBeDefined()

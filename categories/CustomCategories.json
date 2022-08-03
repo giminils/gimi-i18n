@@ -1,8 +1,8 @@
 {
-   "custom":{
-      "id":12,
-      "titleId":"",
-      "image":"/static/categories/uppgift_egen.png",
-      "color":"#F08096"
-   }
- }
+  "custom": {
+    "id": 12,
+    "titleId": "",
+    "image": "/static/categories/uppgift_egen.png",
+    "color": "#F08096"
+  }
+}

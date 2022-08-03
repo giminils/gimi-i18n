@@ -1,8 +1,10 @@
-// @ts-nocheck
 import {getSupportedCurrencyInfos, getDefaultCurrencyCode} from '../index'
-import DefaultCurrencies from '../DefaultCurrencies'
-import ExchangeRates from '../ExchangeRates'
+import _DefaultCurrencies from '../DefaultCurrencies'
+import _ExchangeRates from '../ExchangeRates'
 import Decimal from 'decimal.js-light'
+
+const DefaultCurrencies = _DefaultCurrencies as Record<string, any>
+const ExchangeRates = _ExchangeRates as Record<string, any>
 
 jest.disableAutomock()
 
@@ -23,27 +25,31 @@ describe('Currencies', () => {
   })
 
   it('all currencies in Default CurrencyCodes needs to be in supported Currency Codes', () => {
-    Object.values(DefaultCurrencies).forEach((currencyCode) => expect(getSupportedCurrencyInfos().find((currencyInfo) => currencyInfo.code === currencyCode)).toBeDefined())
+    Object.values(DefaultCurrencies).forEach((currencyCode) =>
+      expect(getSupportedCurrencyInfos().find((currencyInfo) => currencyInfo.code === currencyCode)).toBeDefined()
+    )
   })
 
-  Object.keys(DefaultCurrencies).forEach(key => {
+  Object.keys(DefaultCurrencies).forEach((key) => {
     it(`Should be an exchange rate for ${key} (entry found in default currencies)`, () => {
       expect(ExchangeRates[DefaultCurrencies[key]]).toBeDefined()
     })
   })
 
-  Object.keys(getSupportedCurrencyInfos()).forEach(key => {
-    it(`All defined currencies should have conversion rate ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
-      expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
+  Object.values(getSupportedCurrencyInfos()).forEach((val) => {
+    it(`All defined currencies should have conversion rate ${
+      ExchangeRates[val.code]
+    } `, () => {
+      expect(ExchangeRates[val.code]).toBeDefined()
     })
-  })
 
-  Object.keys(getSupportedCurrencyInfos()).forEach(key => {
-    it(`All defined currencies should be a positive number ${ExchangeRates[getSupportedCurrencyInfos()[key].code]} `, () => {
-      let exchangeRate = new Decimal(ExchangeRates[getSupportedCurrencyInfos()[key].code])
+    it(`All defined currencies should be a positive number ${
+      ExchangeRates[val.code]
+    } `, () => {
+      let exchangeRate = new Decimal(ExchangeRates[val.code])
 
       expect(exchangeRate.isPositive()).toBeTruthy()
-      expect(ExchangeRates[getSupportedCurrencyInfos()[key].code]).toBeDefined()
+      expect(ExchangeRates[val.code]).toBeDefined()
     })
   })
 })
