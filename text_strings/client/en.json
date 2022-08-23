@@ -2569,5 +2569,8 @@
   "onboarding_piggybank_information_4_1": "The piggybank is for practice - upgrade to a bank account when you’re ready!",
   "onboarding_piggybank_information_4_2": "The piggybank is for practice - upgrade to a bank account when it's available in your country!",
   "onboarding_setup_piggybank_button": "Set up piggybank",
-  "start_screen_partner_with": "In samenwerking met"
+  "start_screen_partner_with": "In samenwerking met",
+  "onboarding_compleded_title": "%1$d is now all set up!",
+  "onboarding_compleded_subtitle": "Great job. You have now set the perfect foundation for your child to become money smart!",
+  "onboarding_compleded_back_to_home_screen": "Back to home screen"
 }
