@@ -562,5 +562,9 @@
   "CHPRRE046_notification_title": "See how much you spent with your bank card this week!",
   "CHPRRE046_push_title": "See how much you spent with your bank card this week!",
   "ADGERE045_push_title": "Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
-  "ADGERE045_notification_title": "Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
+  "ADGERE045_notification_title": "Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
+  "app_landing_page_title": "Get financial superskills with Gimi",
+  "app_landing_page_subtitle": "Download the app to get started!",
+  "app_landing_page_retry_text": "Try again!",
+  "app_landing_page_prompt_text": "Download Gimi from the App Store!"
 }

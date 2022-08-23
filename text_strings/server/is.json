@@ -562,5 +562,9 @@
   "CHPRRE046_notification_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
   "CHPRRE046_push_title": "PLZ_TRANSLATE See how much you spent with your bank card this week!",
   "ADGERE045_push_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
-  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!"
+  "ADGERE045_notification_title": "PLZ_TRANSLATE Invite {child.nickname} to Gimi so that they can complete the chores you handed out!",
+  "app_landing_page_title": "PLZ_TRANSLATE Get financial superskills with Gimi",
+  "app_landing_page_subtitle": "PLZ_TRANSLATE Download the app to get started!",
+  "app_landing_page_retry_text": "PLZ_TRANSLATE Try again!",
+  "app_landing_page_prompt_text": "PLZ_TRANSLATE Download Gimi from the App Store!"
 }
