@@ -562,5 +562,9 @@
   "CHPRRE046_notification_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!",
   "CHPRRE046_push_title": "Spana in hur mycket du spenderade med ditt bankkort denna vecka!",
   "ADGERE045_push_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!",
-  "ADGERE045_notification_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!"
+  "ADGERE045_notification_title": "Bjud in {child.nickname} till Gimi så att de kan slutföra uppgifterna du har gett ut!",
+  "app_landing_page_title": "PLZ_CHECK Get financial superskills with Gimi",
+  "app_landing_page_subtitle": "PLZ_CHECK Download the app to get started!",
+  "app_landing_page_retry_text": "PLZ_CHECK Try again!",
+  "app_landing_page_prompt_text": "PLZ_CHECK Download Gimi from the App Store!"
 }
