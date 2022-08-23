@@ -2569,5 +2569,8 @@
   "onboarding_piggybank_information_4_1": "Sparegrisen er der for å øve med - koble til en bankkonto når dere er klare for det!",
   "onboarding_piggybank_information_4_2": "Sparegrisen er der for å øve med - koble til en bankkonto når det er tilgjengelig i landet deres!",
   "onboarding_setup_piggybank_button": "Aktivere sparegrisen",
-  "start_screen_partner_with": "PLZ_TRANSLATE In samenwerking met"
+  "start_screen_partner_with": "PLZ_TRANSLATE In samenwerking met",
+  "onboarding_compleded_title": "PLZ_TRANSLATE %1$d is now all set up!",
+  "onboarding_compleded_subtitle": "PLZ_TRANSLATE Great job. You have now set the perfect foundation for your child to become money smart!",
+  "onboarding_compleded_back_to_home_screen": "PLZ_TRANSLATE Back to home screen"
 }
