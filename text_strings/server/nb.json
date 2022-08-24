@@ -563,8 +563,8 @@
   "CHPRRE046_push_title": "Se hvor mye du brukte med bankkortet denne uken!",
   "ADGERE045_push_title": "Inviter {child.nickname} til Gimi slik at de kan fullføre oppgavene du delte ut!",
   "ADGERE045_notification_title": "Inviter {child.nickname} til Gimi slik at de kan fullføre oppgavene du delte ut!",
-  "app_landing_page_title": "PLZ_TRANSLATE Get financial superskills with Gimi",
-  "app_landing_page_subtitle": "PLZ_TRANSLATE Download the app to get started!",
-  "app_landing_page_retry_text": "PLZ_TRANSLATE Try again!",
-  "app_landing_page_prompt_text": "PLZ_TRANSLATE Download Gimi from the App Store!"
+  "app_landing_page_title": "Skaff økonomiske superskills med Gimi",
+  "app_landing_page_subtitle": "Last ned appen og kom i gang!",
+  "app_landing_page_retry_text": "Prøv igjen",
+  "app_landing_page_prompt_text": "Last ned Gimi fra App Store!"
 }
