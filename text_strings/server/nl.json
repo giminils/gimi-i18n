@@ -563,8 +563,8 @@
   "CHPRRE046_push_title": "Kijk hoeveel je deze week met je bankpas hebt uitgegeven!",
   "ADGERE045_push_title": "Nodig {child.nickname} uit voor Gimi, zodat die je voorgestelde klusjes kan uitvoeren!",
   "ADGERE045_notification_title": "Nodig {child.nickname} uit voor Gimi, zodat die je voorgestelde klusjes kan uitvoeren!",
-  "app_landing_page_title": "PLZ_TRANSLATE Get financial superskills with Gimi",
-  "app_landing_page_subtitle": "PLZ_TRANSLATE Download the app to get started!",
-  "app_landing_page_retry_text": "PLZ_TRANSLATE Try again!",
-  "app_landing_page_prompt_text": "PLZ_TRANSLATE Download Gimi from the App Store!"
+  "app_landing_page_title": "Krijg financiële Superskills met Gimi",
+  "app_landing_page_subtitle": "Download de app om van start te gaan!",
+  "app_landing_page_retry_text": "Probeer opnieuw!",
+  "app_landing_page_prompt_text": "Download Gimi in de App Store!"
 }
