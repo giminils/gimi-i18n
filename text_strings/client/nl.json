@@ -2570,7 +2570,7 @@
   "onboarding_piggybank_information_4_2": "Het spaarvarken is om te oefenen - upgrade naar een bankrekening wanneer het in jouw land beschikbaar is!",
   "onboarding_setup_piggybank_button": "Stel spaarvarken in",
   "start_screen_partner_with": "In samenwerking met",
-  "onboarding_compleded_title": "PLZ_TRANSLATE %1$d is now all set up!",
-  "onboarding_compleded_subtitle": "PLZ_TRANSLATE Great job. You have now set the perfect foundation for your child to become money smart!",
-  "onboarding_compleded_back_to_home_screen": "PLZ_TRANSLATE Back to home screen"
+  "onboarding_compleded_title": "Het account van %1$d is helemaal ingesteld!",
+  "onboarding_compleded_subtitle": "Goed gedaan. Je hebt nu de perfecte basis om je kind te leren slim met geld om te gaan!",
+  "onboarding_compleded_back_to_home_screen": "Terug naar startpagina"
 }
