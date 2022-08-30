@@ -2572,5 +2572,6 @@
   "start_screen_partner_with": "In samenwerking met",
   "onboarding_compleded_title": "%1$d is now all set up!",
   "onboarding_compleded_subtitle": "Great job. You have now set the perfect foundation for your child to become money smart!",
-  "onboarding_compleded_back_to_home_screen": "Back to home screen"
+  "onboarding_compleded_back_to_home_screen": "Back to home screen",
+  "upgrade_to_bank_account_instead": "Upgrade to bank account instead!"
 }

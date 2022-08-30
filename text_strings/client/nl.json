@@ -2572,5 +2572,6 @@
   "start_screen_partner_with": "In samenwerking met",
   "onboarding_compleded_title": "Het account van %1$d is helemaal ingesteld!",
   "onboarding_compleded_subtitle": "Goed gedaan. Je hebt nu de perfecte basis om je kind te leren slim met geld om te gaan!",
-  "onboarding_compleded_back_to_home_screen": "Terug naar startpagina"
+  "onboarding_compleded_back_to_home_screen": "Terug naar startpagina",
+  "upgrade_to_bank_account_instead": "PLZ_TRANSLATE Upgrade to bank account instead!"
 }
