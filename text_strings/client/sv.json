@@ -2570,8 +2570,8 @@
   "onboarding_piggybank_information_4_2": "Spargrisen är till för att öva med - uppgradera till ett bankkonto när det blir tillgängligt i ert land!",
   "onboarding_setup_piggybank_button": "Aktivera spargrisen",
   "start_screen_partner_with": "PLZ_CHECK In samenwerking met",
-  "onboarding_compleded_title": "PLZ_CHECK %1$d is now all set up!",
-  "onboarding_compleded_subtitle": "PLZ_CHECK Great job. You have now set the perfect foundation for your child to become money smart!",
-  "onboarding_compleded_back_to_home_screen": "PLZ_CHECK Back to home screen",
-  "upgrade_to_bank_account_instead": "PLZ_CHECK Upgrade to bank account instead!"
+  "onboarding_compleded_title": "%1$d är klar för start!",
+  "onboarding_compleded_subtitle": "Snyggt jobbat. Du har nu satt den perfekta grunden för ditt barn att bli pengasmart!",
+  "onboarding_compleded_back_to_home_screen": "Tillbaka till hemskärmen",
+  "upgrade_to_bank_account_instead": "Uppgradera till bankkonto istället!"
 }
