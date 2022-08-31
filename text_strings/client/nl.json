@@ -2404,6 +2404,7 @@
   "child_no_parents_invite_another_parent": "PLZ_TRANSLATE Do you want to invite another parent?",
   "child_no_parents_invite_btn": "PLZ_TRANSLATE Invite a parent",
   "child_no_parents_invite_another_btn": "PLZ_TRANSLATE Invite another parent",
+  "child_no_parents_invite_pending": "PLZ_TRANSLATE Invite is pending...",
   "tink_deposit_success_title": "Je storting is succesvol verlopen",
   "tink_deposit_success_subtitle": "Het kan 2 tot 3 bankdagen duren voordat de storting is verwerkt.",
   "openbanking_spending_summary_title": "Overzicht uitgaven",

@@ -2404,6 +2404,7 @@
   "child_no_parents_invite_another_parent": "PLZ_CHECK Do you want to invite another parent?",
   "child_no_parents_invite_btn": "PLZ_CHECK Invite a parent",
   "child_no_parents_invite_another_btn": "PLZ_CHECK Invite another parent",
+  "child_no_parents_invite_pending": "PLZ_CHECK Invite is pending...",
   "tink_deposit_success_title": "Överföringen lyckades!",
   "tink_deposit_success_subtitle": "Notera att det kan ta upp till 2-3 bankdagar för transaktionen att nå kontot.",
   "openbanking_spending_summary_title": "Veckosummering",
