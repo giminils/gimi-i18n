@@ -566,5 +566,6 @@
   "app_landing_page_title": "Skaff økonomiske superskills med Gimi",
   "app_landing_page_subtitle": "Last ned appen og kom i gang!",
   "app_landing_page_retry_text": "Prøv igjen",
-  "app_landing_page_prompt_text": "Last ned Gimi fra App Store!"
+  "app_landing_page_prompt_text": "Last ned Gimi fra App Store!",
+  "ADGERE046_notification_title": "PLZ_TRANSLATE {month_name} is up! See how {child_name} managed money last month"
 }
