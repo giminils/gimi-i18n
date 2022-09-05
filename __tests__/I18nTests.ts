@@ -11,7 +11,7 @@ import {
   searchHtml
 } from '../TestUtil'
 
-type DataStruct = {key: string; lang: string; path: string};
+type DataStruct = {key: string; lang: string; path: string}
 
 let stringTagData: Array<{
   data: Array<DataStruct>
@@ -51,7 +51,7 @@ describe('should be able to find files', () => {
       try {
         textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
       } catch (err) {
-        const e = err as Error;
+        const e = err as Error
         test('should not have not defined strings', () => {
           expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('')
         })

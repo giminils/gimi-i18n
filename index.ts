@@ -202,8 +202,7 @@ export const translationHelperEMMA = 'EMMA'
 export const getRegions = () => Regions
 export const getCities = () => Cities
 export const getCountries = () => CountryCodes
-export const getCountry = (countryCode: string) =>
-  CountryCodes.find((country) => country.code === countryCode)
+export const getCountry = (countryCode: string) => CountryCodes.find((country) => country.code === countryCode)
 export const getPhoneNumberPrefix = (country: string) => {
   let prefixes: Record<string, string> = countryCodes2PhoneNumberPrefixes
   return parseInt(prefixes[country.toUpperCase()])

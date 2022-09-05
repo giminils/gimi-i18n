@@ -279,11 +279,7 @@ export const stringLengthStatistic = (
   return {data: longTextSlackData, status: veryLongText}
 }
 
-export const stringTranslationTags = (
-  lang: Record<string, string>,
-  languageCode: string,
-  textStringsType: string
-) => {
+export const stringTranslationTags = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
   let numberPlzCheck = 0
   let numberPlzTransalte = 0
@@ -367,7 +363,7 @@ export const searchBrokenPlzCopy = (
         (lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('COPY') !== -1) &&
         lang[key].indexOf('TRANSLATE') === -1 &&
         lang[key].indexOf('CHECK') === -1
-      ) 
+      )
         if (!lang[key].includes(PLZ_COPY)) {
           numberBrokenPlzCopy++
           arrayPlzCopy.push({
@@ -376,7 +372,6 @@ export const searchBrokenPlzCopy = (
             path: textStringsType
           })
         }
-      
   })
   return {data: arrayPlzCopy, brokenPLZCopy: numberBrokenPlzCopy}
 }
@@ -397,7 +392,7 @@ export const searchBrokenPlzTranslate = (
         (lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('TRANSLATE') !== -1) &&
         lang[key].indexOf('COPY') === -1 &&
         lang[key].indexOf('CHECK') === -1
-      ) 
+      )
         if (!lang[key].includes(PLZ_TRANSLATE)) {
           numberBrokenPlzTranslate++
           arrayPlzTranslate.push({
@@ -406,7 +401,6 @@ export const searchBrokenPlzTranslate = (
             path: textStringsType
           })
         }
-      
   })
   return {
     data: arrayPlzTranslate,
@@ -414,11 +408,7 @@ export const searchBrokenPlzTranslate = (
   }
 }
 
-export const searchBrokenPlzCheck = (
-  lang: Record<string, string>,
-  languageCode: string,
-  textStringsType: string
-) => {
+export const searchBrokenPlzCheck = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
 
   const arrayPlzCheck: Array<any> = []
@@ -430,7 +420,7 @@ export const searchBrokenPlzCheck = (
         (lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('CHECK') !== -1) &&
         lang[key].indexOf('COPY') === -1 &&
         lang[key].indexOf('TRANSLATE') === -1
-      ) 
+      )
         if (!lang[key].includes(PLZ_CHECK)) {
           numberBrokenPlzCheck++
           arrayPlzCheck.push({
@@ -439,16 +429,11 @@ export const searchBrokenPlzCheck = (
             path: textStringsType
           })
         }
-      
   })
   return {data: arrayPlzCheck, brokenPLZCheck: numberBrokenPlzCheck}
 }
 
-export const checkStringEmptySpace = (
-  lang: Record<string, string>,
-  languageCode: string,
-  textStringsType: string
-) => {
+export const checkStringEmptySpace = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
 
   const arrayEmptySpace: Array<any> = []
@@ -467,11 +452,7 @@ export const checkStringEmptySpace = (
   })
   return {data: arrayEmptySpace, countStartsEmptySpace: numberEmptySpace}
 }
-export const searchBreakingSymbols = (
-  lang: Record<string, string>,
-  languageCode: string,
-  textStringsType: string
-) => {
+export const searchBreakingSymbols = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
   const arrayBreakingSymbols: Array<any> = []
   let numberBreakingSymbols = 0
@@ -529,6 +510,8 @@ export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectorie
       })
         // remove any carriage return characters
         .replace(/\r/, '')
+        // remove superfluous spaces
+        .trim()
         .split('\n')
       return [...cur, ...nextStrings]
     }, [] as string[])

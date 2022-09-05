@@ -13,6 +13,5 @@
     "resolveJsonModule": true, // Required for JSON files
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
-  },
-  "exclude": ["node_modules", "**/*.spec.ts"]
+  }
 }

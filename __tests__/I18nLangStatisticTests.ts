@@ -51,7 +51,7 @@ describe('TextStrings', () => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
         } catch (err) {
-          const e = err as Error;
+          const e = err as Error
           // eslint-disable-next-line no-console
           console.error(`Cant parse ${textStringsType}/${lang} ${e.message}`)
           throw err

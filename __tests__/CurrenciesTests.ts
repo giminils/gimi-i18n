@@ -37,15 +37,11 @@ describe('Currencies', () => {
   })
 
   Object.values(getSupportedCurrencyInfos()).forEach((val) => {
-    it(`All defined currencies should have conversion rate ${
-      ExchangeRates[val.code]
-    } `, () => {
+    it(`All defined currencies should have conversion rate ${ExchangeRates[val.code]} `, () => {
       expect(ExchangeRates[val.code]).toBeDefined()
     })
 
-    it(`All defined currencies should be a positive number ${
-      ExchangeRates[val.code]
-    } `, () => {
+    it(`All defined currencies should be a positive number ${ExchangeRates[val.code]} `, () => {
       let exchangeRate = new Decimal(ExchangeRates[val.code])
 
       expect(exchangeRate.isPositive()).toBeTruthy()

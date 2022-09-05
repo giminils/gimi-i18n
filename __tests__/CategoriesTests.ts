@@ -4,15 +4,15 @@ import _WithdrawCategories from '../categories/WithdrawCategories.json'
 import _DepositCategories from '../categories/DepositCategories.json'
 import _TaskCategories from '../categories/TaskCategories.json'
 
-const CategoryGroups = _CategoryGroups as Record<string, any>;
-const SavingsGoalCategories = _SavingsGoalCategories as Record<string, any>;
-const WithdrawCategories = _WithdrawCategories as Record<string, any>;
-const DepositCategories = _DepositCategories as Record<string, any>;
-const TaskCategories = _TaskCategories as Record<string, any>;
+const CategoryGroups = _CategoryGroups as Record<string, any>
+const SavingsGoalCategories = _SavingsGoalCategories as Record<string, any>
+const WithdrawCategories = _WithdrawCategories as Record<string, any>
+const DepositCategories = _DepositCategories as Record<string, any>
+const TaskCategories = _TaskCategories as Record<string, any>
 
 let categoryGroupArray: Array<string> = []
 Object.keys(CategoryGroups).forEach(function (key) {
-  categoryGroupArray.push((CategoryGroups)[key])
+  categoryGroupArray.push(CategoryGroups[key])
 })
 
 // Make a simple array of ids for easy compairing
