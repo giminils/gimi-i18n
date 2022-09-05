@@ -1,8 +1,14 @@
-const CategoryGroups = require('../categories/CategoryGroups.json')
-const SavingsGoalCategories = require('../categories/SavingsGoalCategories.json')
-const WithdrawCategories = require('../categories/WithdrawCategories.json')
-const DepositCategories = require('../categories/DepositCategories.json')
-const TaskCategories = require('../categories/TaskCategories.json')
+import _CategoryGroups from '../categories/CategoryGroups.json'
+import _SavingsGoalCategories from '../categories/SavingsGoalCategories.json'
+import _WithdrawCategories from '../categories/WithdrawCategories.json'
+import _DepositCategories from '../categories/DepositCategories.json'
+import _TaskCategories from '../categories/TaskCategories.json'
+
+const CategoryGroups = _CategoryGroups as Record<string, any>
+const SavingsGoalCategories = _SavingsGoalCategories as Record<string, any>
+const WithdrawCategories = _WithdrawCategories as Record<string, any>
+const DepositCategories = _DepositCategories as Record<string, any>
+const TaskCategories = _TaskCategories as Record<string, any>
 
 let categoryGroupArray: Array<string> = []
 Object.keys(CategoryGroups).forEach(function (key) {
@@ -154,26 +160,22 @@ describe('CategoriesTest', () => {
   it('CategoryGroup must exist in CategoryGroups object or be undefined', () => {
     Object.keys(SavingsGoalCategories).forEach(function (key) {
       let categoryGroup = SavingsGoalCategories[key].categoryGroup
-      if (categoryGroup)
-        expect(categoryGroupArray).toContain(categoryGroup)
+      if (categoryGroup) expect(categoryGroupArray).toContain(categoryGroup)
     })
 
     Object.keys(WithdrawCategories).forEach(function (key) {
       let categoryGroup = WithdrawCategories[key].categoryGroup
-      if (categoryGroup)
-        expect(categoryGroupArray).toContain(categoryGroup)
+      if (categoryGroup) expect(categoryGroupArray).toContain(categoryGroup)
     })
 
     Object.keys(DepositCategories).forEach(function (key) {
       let categoryGroup = DepositCategories[key].categoryGroup
-      if (categoryGroup)
-        expect(categoryGroupArray).toContain(categoryGroup)
+      if (categoryGroup) expect(categoryGroupArray).toContain(categoryGroup)
     })
 
     Object.keys(TaskCategories).forEach(function (key) {
       let categoryGroup = TaskCategories[key].categoryGroup
-      if (categoryGroup)
-        expect(categoryGroupArray).toContain(categoryGroup)
+      if (categoryGroup) expect(categoryGroupArray).toContain(categoryGroup)
     })
   })
 })

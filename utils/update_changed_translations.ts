@@ -1,5 +1,4 @@
-/* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-const fs3 = require('fs')
+import fs3 from 'fs'
 let templateDirs = [
   './text_strings/server',
   './text_strings/templates',
@@ -18,7 +17,7 @@ let PLZ_COPY = 'PLZ_COPY'
 let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
 let copyEn: Array<string> = []
-let removePLzCopy = (enTextFile: {[key: string]: string}): any => {
+let removePLzCopy = (enTextFile: Record<string, string>): any => {
   Object.keys(enTextFile).forEach((key) => {
     if (enTextFile[key].includes(PLZ_COPY)) enTextFile[key] = enTextFile[key].replace(PLZ_COPY + ' ', '')
   })
@@ -28,21 +27,23 @@ let removePLzCopy = (enTextFile: {[key: string]: string}): any => {
 let removeAndSave = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
   let langPath = getPath('en.json') // Edit here for what language to use
-  let enTextFile = fs3.readFileSync(langPath, {encoding: 'utf8'})
-  let parsedText: {[key: string]: string} = JSON.parse(enTextFile)
+  let enTextFile = fs3.readFileSync(langPath, {encoding: 'utf8'}).replace(/\r/g, '')
+  let parsedText: Record<string, string> = JSON.parse(enTextFile)
   let updateEnTextFile = {...parsedText}
 
   updateEnTextFile = removePLzCopy(updateEnTextFile)
   let stringifieddUpdateEnTextFile = JSON.stringify(updateEnTextFile, undefined, 2)
   fs3.unlinkSync(langPath)
-  fs3.writeFileSync(langPath, stringifieddUpdateEnTextFile, {encoding: 'utf8'})
+  fs3.writeFileSync(langPath, stringifieddUpdateEnTextFile, {
+    encoding: 'utf8'
+  })
 }
 
 let runUpdateChangedTranslations = (filePath: string): any => {
   let getPath = (file: string) => `${filePath}/${file}`
   let langPath = getPath('en.json') // Edit here for what language to use
   let lang = fs3.readFileSync(langPath, {encoding: 'utf8'})
-  let parsedLang: {[key: string]: string} = JSON.parse(lang)
+  let parsedLang: Record<string, string> = JSON.parse(lang)
 
   let syncTextStrings = (file: string) => {
     if (file.indexOf('.json') === -1) return
@@ -50,8 +51,8 @@ let runUpdateChangedTranslations = (filePath: string): any => {
     if (file === 'lang.json') return
     const path = getPath(file)
     let TextStrings = fs3.readFileSync(path, {encoding: 'utf8'}) // Textstings file
-    let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
-    // Craete Support§
+    let parsedTextStrings: Record<string, string> = JSON.parse(TextStrings)
+    // Create Support§
     let NewTextStrings = {...parsedLang}
     Object.keys(parsedLang).forEach((key) => {
       if (parsedLang[key].includes(PLZ_COPY) && !file.includes('en.json')) {

@@ -1,19 +1,28 @@
-
 /* eslint no-console:0 */
-import {compareKeys, compareKeysWithinTextStrings, checkTemplateLenght, checkBirgittaInconsistencies, checkTemplateRule} from '../TestUtil'
-const {languageCodes} = require('..')
+import {
+  compareKeys,
+  compareKeysWithinTextStrings,
+  checkTemplateLenght,
+  checkBirgittaInconsistencies,
+  checkTemplateRule
+} from '../TestUtil'
+import {languageCodes} from '..'
 let langCodes = languageCodes
 jest.disableAutomock()
 
 let textStringsTypes = ['server', 'templates', 'share-image-generator']
 
-let textStrings: {[key: string]: {[key: string]: {[key: string]: string}}} = {}
-textStringsTypes.forEach(textStringsType => { textStrings[textStringsType] = {} })
-textStringsTypes.forEach(textStringsType => {
-  langCodes.forEach((lang: string) => { textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`) })
+let textStrings: {[key: string]: {[key: string]: Record<string, string>}} = {}
+textStringsTypes.forEach((textStringsType) => {
+  textStrings[textStringsType] = {}
+})
+textStringsTypes.forEach((textStringsType) => {
+  langCodes.forEach((lang: string) => {
+    textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
+  })
 })
 
-textStringsTypes.forEach(textStringsType => {
+textStringsTypes.forEach((textStringsType) => {
   describe(`${textStringsType} TextStrings`, () => {
     langCodes.forEach((lang: string) => {
       test(`it should return Text Strings for ${textStringsType} ${lang}`, () => {
@@ -21,16 +30,30 @@ textStringsTypes.forEach(textStringsType => {
       })
 
       test('all textstrings should have a equivalent string in all other languages', () => {
-        langCodes.forEach((lang2: string) => compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
-        langCodes.forEach((lang2: string) => compareKeysWithinTextStrings(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2))
+        langCodes.forEach((lang2: string) =>
+          compareKeys(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2)
+        )
+        langCodes.forEach((lang2: string) =>
+          compareKeysWithinTextStrings(
+            textStrings[textStringsType][lang],
+            textStrings[textStringsType][lang2],
+            lang,
+            lang2
+          )
+        )
         expect([]).toEqual([])
       })
 
       test('should not have any birgitta inconsistencies', () => {
-        let errorMessages: {[key: string]: string} = {}
+        let errorMessages: Record<string, string> = {}
         langCodes.forEach((lang2: string) => {
-          let errorArray = checkBirgittaInconsistencies(textStrings[textStringsType][lang], textStrings[textStringsType][lang2], lang, lang2)
-          errorArray.forEach(key => {
+          let errorArray = checkBirgittaInconsistencies(
+            textStrings[textStringsType][lang],
+            textStrings[textStringsType][lang2],
+            lang,
+            lang2
+          )
+          errorArray.forEach((key) => {
             errorMessages[key] = ''
           })
         })

@@ -1,4 +1,3 @@
-
 /**
  * This is an updated take on education courses and has replaced courses.js!
  */
@@ -33,7 +32,8 @@ export default [
           learningOutcomesLangKey: 'earn_chapter_1_learning_outcome',
           onCompletion: 'earn_chapter_1_on_completion',
           extras: 'earn_chapter_1_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -79,7 +79,8 @@ export default [
           learningOutcomesLangKey: 'earn_chapter_2_learning_outcome',
           onCompletion: 'earn_chapter_2_on_completion',
           extras: 'earn_chapter_2_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -129,7 +130,8 @@ export default [
           learningOutcomesLangKey: 'earn_chapter_3_learning_outcome',
           onCompletion: 'earn_chapter_3_on_completion',
           extras: 'earn_chapter_3_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -169,7 +171,8 @@ export default [
           learningOutcomesLangKey: 'earn_chapter_4_learning_outcome',
           onCompletion: 'earn_chapter_4_on_completion',
           extras: 'earn_chapter_4_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -214,7 +217,8 @@ export default [
           learningOutcomesLangKey: 'earn_chapter_5_learning_outcome',
           onCompletion: 'earn_chapter_5_on_completion',
           extras: 'earn_chapter_5_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -255,7 +259,8 @@ export default [
           learningOutcomesLangKey: 'earn_chapter_6_learning_outcome',
           onCompletion: 'earn_chapter_6_on_completion',
           extras: 'earn_chapter_6_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -312,7 +317,8 @@ export default [
           learningOutcomesLangKey: 'save_chapter_1_learning_outcome',
           onCompletion: 'save_chapter_1_on_completion',
           extras: 'save_chapter_1_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -357,7 +363,8 @@ export default [
           learningOutcomesLangKey: 'save_chapter_2_learning_outcome',
           onCompletion: 'save_chapter_2_on_completion',
           extras: 'save_chapter_2_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -402,7 +409,8 @@ export default [
           learningOutcomesLangKey: 'save_chapter_3_learning_outcome',
           onCompletion: 'save_chapter_3_on_completion',
           extras: 'save_chapter_3_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -452,7 +460,8 @@ export default [
           learningOutcomesLangKey: 'save_chapter_4_learning_outcome',
           onCompletion: 'save_chapter_4_on_completion',
           extras: 'save_chapter_4_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -502,7 +511,8 @@ export default [
           learningOutcomesLangKey: 'save_chapter_5_learning_outcome',
           onCompletion: 'save_chapter_5_on_completion',
           extras: 'save_chapter_5_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -553,7 +563,8 @@ export default [
           learningOutcomesLangKey: 'save_chapter_6_learning_outcome',
           onCompletion: 'save_chapter_6_on_completion',
           extras: 'save_chapter_6_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -606,7 +617,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_1_learning_outcome',
           onCompletion: 'spend_chapter_1_on_completion',
           extras: 'spend_chapter_1_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -651,7 +663,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_2_learning_outcome',
           onCompletion: 'spend_chapter_2_on_completion',
           extras: 'spend_chapter_2_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -696,7 +709,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_3_learning_outcome',
           onCompletion: 'spend_chapter_3_on_completion',
           extras: 'spend_chapter_3_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -741,7 +755,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_4_learning_outcome',
           onCompletion: 'spend_chapter_4_on_completion',
           extras: 'spend_chapter_4_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -788,7 +803,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_5_learning_outcome',
           onCompletion: 'spend_chapter_5_on_completion',
           extras: 'spend_chapter_5_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -835,7 +851,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_6_learning_outcome',
           onCompletion: 'spend_chapter_6_on_completion',
           extras: 'spend_chapter_6_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'
@@ -886,7 +903,8 @@ export default [
           learningOutcomesLangKey: 'spend_chapter_7_learning_outcome',
           onCompletion: 'spend_chapter_7_on_completion',
           extras: 'spend_chapter_7_extra',
-          relatedLinks: [ // NEW
+          relatedLinks: [
+            // NEW
             // {
             //   displayLangKey: 'general_name',
             //   url: 'https://matzielab.com'

@@ -1,8 +1,30 @@
-    //@ts-nocheck
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
-import {searchPlzTranslate, searchBreakingSymbols, checkUpperCaseLetters, searchPlzCopy, checkStringEmptySpace, searchBrokenPlzCopy, searchBrokenPlzTranslate, searchBrokenPlzCheck, searchHtml} from '../TestUtil'
+import {
+  searchPlzTranslate,
+  searchBreakingSymbols,
+  checkUpperCaseLetters,
+  searchPlzCopy,
+  checkStringEmptySpace,
+  searchBrokenPlzCopy,
+  searchBrokenPlzTranslate,
+  searchBrokenPlzCheck,
+  searchHtml
+} from '../TestUtil'
 
-let stringTagData: Array<{count: number|undefined, data: Array<{ key: string, lang: string, path: string }>, plzTrans: number | undefined, plzCopy: number | undefined, countUpperCase: number | undefined, countStartsEmptySpace: number | undefined, brokenPLZCopy: number | undefined, brokenPLZTranslate: number | undefined, brokenPLZCheck: number | undefined, countHtmlStrings: number | undefined}> = []
+type DataStruct = {key: string; lang: string; path: string}
+
+let stringTagData: Array<{
+  data: Array<DataStruct>
+  count?: number | undefined
+  plzTrans?: number | undefined
+  plzCopy?: number | undefined
+  countUpperCase?: number | undefined
+  countStartsEmptySpace?: number | undefined
+  brokenPLZCopy?: number | undefined
+  brokenPLZTranslate?: number | undefined
+  brokenPLZCheck?: number | undefined
+  countHtmlStrings?: number | undefined
+}> = []
 let jsonDataTranslate: Array<object> = []
 let jsonDataCopy: Array<object> = []
 let jsonDataBrokenCopy: Array<object> = []
@@ -14,20 +36,22 @@ let jsonArrayEmptySpaces: Array<object> = []
 let jsonDataHtml: Array<object> = []
 
 let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
-let textStrings: {[key: string]: {[key: string]: {[key: string]: string}}} = {}
-textStringsTypes.forEach(textStringsType => {
+let textStrings: {[key: string]: {[key: string]: Record<string, string>}} = {}
+textStringsTypes.forEach((textStringsType) => {
   textStrings[textStringsType] = {}
 })
 describe('should be able to find files', () => {
-  textStringsTypes.forEach(textStringsType => {
+  textStringsTypes.forEach((textStringsType) => {
     let languageCodesHolder = languageCodes
     if (textStringsType === 'client') languageCodesHolder = languageCodes
     if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
-    if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
-    languageCodesHolder.forEach(lang => {
+    if (textStringsType !== 'gimi-web' && textStringsType !== 'client')
+      languageCodesHolder = languageCodesForTranslation
+    languageCodesHolder.forEach((lang) => {
       try {
         textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
-      } catch (e) {
+      } catch (err) {
+        const e = err as Error
         test('should not have not defined strings', () => {
           expect(`Cant parse ${textStringsType}/${lang} ${e.message}`).toEqual('')
         })
@@ -36,25 +60,29 @@ describe('should be able to find files', () => {
   })
 })
 // server and templates string data
-textStringsTypes.forEach(textStringsType => {
+textStringsTypes.forEach((textStringsType) => {
   let languageCodesHolder = languageCodes
   if (textStringsType === 'client') languageCodesHolder = languageCodes
   if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
   if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
 
-  languageCodesHolder.forEach(languageCode => {
+  languageCodesHolder.forEach((languageCode) => {
     if (languageCode === 'sv' || languageCode === 'en')
       stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(checkStringEmptySpace(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBrokenPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
-    stringTagData.push(searchBrokenPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+    stringTagData.push(
+      searchBrokenPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType)
+    )
     stringTagData.push(searchBrokenPlzCheck(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchHtml(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
-      stringTagData.push(checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType))
+      stringTagData.push(
+        checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType)
+      )
   })
 })
 

@@ -1,30 +1,54 @@
-
 /* eslint no-console:0 */
 /* eslint jest/expect-expect:  0 */
 import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
-import {compareKeysForLanguages, findDuplicateJSONKeysInFolders, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
-const fs = require('fs')
-import * as path from 'path'
+import {
+  compareKeysForLanguages,
+  findDuplicateJSONKeysInFolders,
+  findDuplicateJSONKeys,
+  compareDollarSigns,
+  checkBirgittaInconsistencies,
+  checkStringLength
+} from '../TestUtil'
+import fs from 'fs'
+import path from 'path'
 jest.disableAutomock()
 // let flatten = require('flat')
 
 describe('TextStrings', () => {
   test('should not allow duplicate keys in JSON', () => {
-    gimiWebLanguageCodes.forEach(lang => {
-      let fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web/${lang}.json`), {encoding: 'utf8'}).split('\n')
+    gimiWebLanguageCodes.forEach((lang) => {
+      let fileText = fs
+        .readFileSync(path.join(__dirname, `../text_strings/gimi-web/${lang}.json`), {encoding: 'utf8'})
+        // remove any carriage return characters
+        .replace(/\r/, '')
+        .split('\n')
       const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
 
-    languageCodes.forEach(lang => {
-      let fileText = fs.readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'}).split('\n')
+    languageCodes.forEach((lang) => {
+      let fileText = fs
+        .readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'})
+        // remove any carriage return characters
+        .replace(/\r/, '')
+        .split('\n')
       const errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
   })
 
   test('should not have duplicate keys in textStrings', () => {
-    findDuplicateJSONKeysInFolders('./text_strings/', (dir) => dir !== 'ios' && dir !== 'server' && dir !== 'templates' && dir !== 'gimi-web' && dir !== 'gimi-web-redux' && dir !== 'bot_new_structure' && dir !== 'shared')
+    findDuplicateJSONKeysInFolders(
+      './text_strings/',
+      (dir) =>
+        dir !== 'ios' &&
+        dir !== 'server' &&
+        dir !== 'templates' &&
+        dir !== 'gimi-web' &&
+        dir !== 'gimi-web-redux' &&
+        dir !== 'bot_new_structure' &&
+        dir !== 'shared'
+    )
   })
   test('all textstrings should have a equivalent string in all other languages', () => {
     compareKeysForLanguages(supportedLanguageCodes, getTextStrings, languageCodes)
@@ -47,9 +71,9 @@ describe('TextStrings', () => {
         ['<boldBlueUnderline>', '</boldBlueUnderline>']
       ]
 
-      return !htmlTagPairs.some(pair =>
-        pair.some((tag) => testString.includes(tag)) &&
-        !pair.every((tag) => testString.includes(tag)))
+      return !htmlTagPairs.some(
+        (pair) => pair.some((tag) => testString.includes(tag)) && !pair.every((tag) => testString.includes(tag))
+      )
     }
 
     let index = 0
@@ -59,37 +83,36 @@ describe('TextStrings', () => {
       if (!lang) return
 
       test('should return Text Strings', () => {
-      // eslint-disable-next-line jest/prefer-to-be-undefined
         expect(getTextStrings(lang)).not.toEqual(undefined)
       })
 
       test('all textstrings should have right amount of $d and $c and $s signs signs', () => {
         if (lang === 'sv')
-          supportedLanguageCodes.forEach(lang2 => {
+          supportedLanguageCodes.forEach((lang2) => {
             if (lang2 === 'en') compareDollarSigns(getTextStrings(lang), getTextStrings(lang2), lang, lang2, '$')
           })
 
         if (lang === 'sv')
-          supportedLanguageCodes.forEach(lang2 => {
+          supportedLanguageCodes.forEach((lang2) => {
             if (lang2 === 'en') compareDollarSigns(getTextStrings(lang), getTextStrings(lang2), lang, lang2, '$d')
           })
 
         if (lang === 'sv')
-          supportedLanguageCodes.forEach(lang2 => {
+          supportedLanguageCodes.forEach((lang2) => {
             if (lang2 === 'en') compareDollarSigns(getTextStrings(lang), getTextStrings(lang2), lang, lang2, '$s')
           })
       })
 
       test.skip('Text strings should not be more than 20% longer in other languages', () => {
-        checkStringLenght(getTextStrings('en'), getTextStrings(lang), 'en', lang)
+        checkStringLength(getTextStrings('en'), getTextStrings(lang), 'en', lang)
       })
 
       test('should not have any birgitta inconsistencies', () => {
-        let errorMessages: {[key: string]: string} = {}
+        let errorMessages: Record<string, string> = {}
 
         supportedLanguageCodes.forEach((lang2, j) => {
           let errorArray = checkBirgittaInconsistencies(getTextStrings(lang), getTextStrings(lang2), lang, lang2)
-          errorArray.forEach(key => {
+          errorArray.forEach((key) => {
             errorMessages[key] = ''
           })
         })
@@ -113,7 +136,7 @@ describe('TextStrings', () => {
       test('should have valid html tags', () => {
         let errors: Array<string> = []
 
-        let textStrings: {[key: string]: string} = getTextStrings(lang)
+        let textStrings: Record<string, string> = getTextStrings(lang)
         Object.keys(textStrings).forEach((key) => {
           let text = textStrings[key]
           let valid = validateHTMLTag(text)
@@ -127,7 +150,7 @@ describe('TextStrings', () => {
 
       describe('should have proper textStrings', () => {
         const enTextStrings = getTextStrings('en')
-        Object.keys(enTextStrings).forEach(key => {
+        Object.keys(enTextStrings).forEach((key) => {
           if (lang === 'en') return undefined
           const testingString = getText(key, [], 'capitalize', enTextStrings)
           const variablePartialMatches = testingString.match(/\$d/gm) || []

@@ -1,7 +1,7 @@
 import {rockets} from '../school/School'
 jest.disableAutomock()
 
-const warnRocketId = (rocket: { id: number }, prop: string) => {
+const warnRocketId = (rocket: {id: number}, prop: string) => {
   console.warn(`Rocket with id: ${rocket.id} having problems with: ${prop} `)
 }
 
@@ -10,20 +10,20 @@ describe('School rocket tests', () => {
     expect(rockets.length).toBeGreaterThan(0)
   })
   test('rockets should have uniqueIDs', () => {
-    let ids: Array<Number> = []
+    let ids: Array<number> = []
     rockets.map((rocket) => ids.push(rocket.id))
     expect([...new Set(ids)].length === ids.length).toBeTruthy()
   })
-  rockets.map((rocket) => {
+  rockets.forEach((rocket) => {
     const {subtitleLangKey, screens} = rocket
 
     test('rockets should have subtitleLangKey', () => {
-      if ((!subtitleLangKey)) warnRocketId(rocket, 'subtitleLangKey')
+      if (!subtitleLangKey) warnRocketId(rocket, 'subtitleLangKey')
       expect(subtitleLangKey).toBeDefined()
     })
 
     test('rockets should have screens', () => {
-      if ((!screens || screens.length === 0)) warnRocketId(rocket, 'screens')
+      if (!screens || screens.length === 0) warnRocketId(rocket, 'screens')
       expect(screens).toBeDefined()
     })
 
@@ -31,13 +31,13 @@ describe('School rocket tests', () => {
       screens.forEach((screen) => {
         const {buttons} = screen
         test('rockets screen should have buttons', () => {
-          if ((!buttons || buttons.length === 0)) warnRocketId(rocket, 'buttons')
+          if (!buttons || buttons.length === 0) warnRocketId(rocket, 'buttons')
           expect(buttons).toBeDefined()
         })
 
         if (buttons) {
           test('buttons should have uniqueIDs', () => {
-            let ids: Array<Number> = []
+            let ids: Array<number> = []
             buttons.forEach((button) => ids.push(button.id))
             expect([...new Set(ids)].length === ids.length).toBeTruthy()
           })

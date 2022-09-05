@@ -7,7 +7,7 @@ describe('School tests', () => {
   })
   test('getLesson should return single lesson from lessons', () => {
     let lessonIds = getAllLessons().map((lesson) => lesson.id)
-    lessonIds.map((id) => {
+    lessonIds.forEach((id) => {
       expect(getLesson(id)).toBeDefined()
     })
   })

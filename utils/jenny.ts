@@ -1,5 +1,6 @@
-/* eslint no-console: ["error", { allow: ["warn", "error", "log"] }] */
-const fs1 = require('fs')
+import fs1 from 'fs'
+import {exec} from 'child_process'
+
 let keysToIgnore = [
   'child_about_data_tracking_title',
   'child_about_data_tracking_content',
@@ -85,25 +86,23 @@ let rootDir = '..'
 let dirsToCheck = ['components', 'libs', 'hocs', 'i18n', 'config', 'reducers', 'consts']
 let textStringsEnFilePath = './text_strings/client/en.json'
 let storeUnUsedTextStrings = './cleanup_strings/unusedLangkeys.json'
-let TextStrings = fs1.readFileSync(textStringsEnFilePath, {encoding: 'utf8'})
-let parsedTextStrings: {[key: string]: string} = JSON.parse(TextStrings)
+let TextStrings = fs1.readFileSync(textStringsEnFilePath, {encoding: 'utf8'}).replace(/\r/g, '')
+let parsedTextStrings: Record<string, string> = JSON.parse(TextStrings)
 let foundKeys = 0
 let matchedKeys = 0
 let ignoredKeys = 0
 
 let checkFile = (file: string, key: string) => {
-  let fileContents = fs1.readFileSync(file, {encoding: 'utf8'})
+  let fileContents = fs1.readFileSync(file, {encoding: 'utf8'}).replace(/\r/g, '')
 
   let isOk = false
 
   if (fileContents.indexOf(key) !== -1) isOk = true
 
   if (key.includes('kid_faq_section_')) isOk = true
-  if (key.indexOf('_parent') !== -1)
-    if (fileContents.indexOf(key.split('_parent')[0]) !== -1) isOk = true
+  if (key.indexOf('_parent') !== -1) if (fileContents.indexOf(key.split('_parent')[0]) !== -1) isOk = true
 
-  if (key.indexOf('_child') !== -1)
-    if (fileContents.indexOf(key.split('_child')[0]) !== -1) isOk = true
+  if (key.indexOf('_child') !== -1) if (fileContents.indexOf(key.split('_child')[0]) !== -1) isOk = true
 
   return isOk
 }
@@ -116,8 +115,7 @@ let checkIfTextStringIsObsolete = (key: string) => {
       try {
         file = `${dir}/${file}`
         // console.log(`Reading file: "${file}"`)
-        if (checkFile(file, key))
-          isOk = true
+        if (checkFile(file, key)) isOk = true
       } catch (e) {
         // console.log(`Failed reading file: "${file}"`)
         // console.log(e.message)
@@ -127,7 +125,8 @@ let checkIfTextStringIsObsolete = (key: string) => {
 
   // text string is probably obsolete
   if (!isOk)
-    if (keysToIgnore.some(ignoredKey => key.indexOf(ignoredKey) !== -1)) { ignoredKeys++ } else {
+    if (keysToIgnore.some((ignoredKey) => key.indexOf(ignoredKey) !== -1)) ignoredKeys++
+    else {
       foundKeys++
       keysToDelete.push(key)
       console.log(`${key}\t\t\t\t\t\t${parsedTextStrings[key].replace('\n', '')}`)
@@ -137,16 +136,18 @@ let checkIfTextStringIsObsolete = (key: string) => {
 let checkIfIsStoredInUnUsed = (key: string) => {
   let isOk = true
   keysToDelete.forEach((notUsedKey) => {
-   if (notUsedKey === key) isOk = false
+    if (notUsedKey === key) isOk = false
   })
   // text string is probably obsolete
   if (isOk)
-   if (keysToIgnore.some(ignoredKey => key.indexOf(ignoredKey) !== -1)) { ignoredKeys++ } else {
+    if (keysToIgnore.some((ignoredKey) => key.indexOf(ignoredKey) !== -1)) ignoredKeys++
+    else {
       removeMatchedKeys.push(key)
       console.log(` string is used \t\t${key}\t\t\t`)
     }
   if (!isOk)
-    if (keysToIgnore.some(ignoredKey => key.indexOf(ignoredKey) !== -1)) { ignoredKeys++ } else {
+    if (keysToIgnore.some((ignoredKey) => key.indexOf(ignoredKey) !== -1)) ignoredKeys++
+    else {
       matchedKeys++
       keysThatAreNotUsed.push(key)
       console.log(`strings is not used \t\t${key}\t\t\t`)
@@ -154,13 +155,13 @@ let checkIfIsStoredInUnUsed = (key: string) => {
 }
 console.log('****** Begin Scan ********\n')
 
-Object.keys(parsedTextStrings).forEach(key => checkIfTextStringIsObsolete(key))
+Object.keys(parsedTextStrings).forEach((key) => checkIfTextStringIsObsolete(key))
 
 console.log('****** Scan Complete ********')
 console.log(`
   Ignored text_strings: ${ignoredKeys}
   Found text_strings to delete: ${foundKeys}`)
-if (process.argv.some(x => x === 'f')) {
+if (process.argv.some((x) => x === 'f')) {
   /** ****** Deleting TextStrings *******/
   console.log(`Removing ${foundKeys} text_strings from ${textStringsEnFilePath}..`)
   console.warn()
@@ -170,16 +171,22 @@ if (process.argv.some(x => x === 'f')) {
 
   let stringifieddUpdateEnTextFile = JSON.stringify(parsedTextStrings, undefined, 2)
   fs1.unlinkSync(textStringsEnFilePath)
-  fs1.writeFileSync(textStringsEnFilePath, stringifieddUpdateEnTextFile, {encoding: 'utf8'})
+  fs1.writeFileSync(textStringsEnFilePath, stringifieddUpdateEnTextFile, {
+    encoding: 'utf8'
+  })
 
-  console.log(`Done`)
+  console.log('Done')
 } else console.log(`run with f to remove ${foundKeys} text_strings from ${textStringsEnFilePath}`)
 
-  if (process.argv.some(x => x === 's')) {
+if (process.argv.some((x) => x === 's')) {
   /** ****** Storing TextStrings that can be matched  to new enviroment *******/
   console.log(`Storing ${foundKeys} text_strings from ${textStringsEnFilePath} to ${textStringsEnFilePath} ..`)
-  let storeStrings = fs1.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
-  let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
+  let storeStrings = fs1
+    .readFileSync(storeUnUsedTextStrings, {
+      encoding: 'utf8'
+    })
+    .replace(/\r/g, '')
+  let parsedStoreStrings: Record<string, string> = JSON.parse(storeStrings)
 
   keysToDelete.forEach((key) => {
     parsedStoreStrings[key] = `${parsedTextStrings[key]}`
@@ -189,15 +196,19 @@ if (process.argv.some(x => x === 'f')) {
   fs1.unlinkSync(storeStringstoSave)
   fs1.writeFileSync(storeStringstoSave, storeStrings, {encoding: 'utf8'})
 
-  console.log(`Done`)
+  console.log('Done')
 }
 
-if (process.argv.some(x => x === 'm')) {
-/** ****** Matching Text strings and removing used strings *******/
+if (process.argv.some((x) => x === 'm')) {
+  /** ****** Matching Text strings and removing used strings *******/
   console.log(`Matching text_strings from ${textStringsEnFilePath} to saved strings ${storeUnUsedTextStrings}`)
-  let storeStrings = fs1.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
-  let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
-  Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
+  let storeStrings = fs1
+    .readFileSync(storeUnUsedTextStrings, {
+      encoding: 'utf8'
+    })
+    .replace(/\r/g, '')
+  let parsedStoreStrings: Record<string, string> = JSON.parse(storeStrings)
+  Object.keys(storeStrings).forEach((key) => checkIfIsStoredInUnUsed(key))
 
   removeMatchedKeys.forEach((key) => {
     // console.log(`remove matched key', ${key}`)
@@ -207,15 +218,19 @@ if (process.argv.some(x => x === 'm')) {
   fs1.unlinkSync(storeStringsToSave)
   fs1.writeFileSync(storeStringsToSave, storeStrings, {encoding: 'utf8'})
 
-  console.log(`Done`)
+  console.log('Done')
 } else console.log(`run with d to remove ${matchedKeys} text_strings from ${storeUnUsedTextStrings}`)
 
-if (process.argv.some(x => x === 'd')) {
+if (process.argv.some((x) => x === 'd')) {
   /** ****** Deleting TextStrings *******/
   console.log(`Removing ${matchedKeys} text_strings from ${textStringsEnFilePath} ..`)
-  let storeStrings = fs1.readFileSync(storeUnUsedTextStrings, {encoding: 'utf8'})
-  let parsedStoreStrings: {[key: string]: string} = JSON.parse(storeStrings)
-  Object.keys(storeStrings).forEach(key => checkIfIsStoredInUnUsed(key))
+  let storeStrings = fs1
+    .readFileSync(storeUnUsedTextStrings, {
+      encoding: 'utf8'
+    })
+    .replace(/\r/g, '')
+  let parsedStoreStrings: Record<string, string> = JSON.parse(storeStrings)
+  Object.keys(storeStrings).forEach((key) => checkIfIsStoredInUnUsed(key))
 
   keysThatAreNotUsed.forEach((key) => {
     delete parsedStoreStrings[key]
@@ -229,18 +244,17 @@ if (process.argv.some(x => x === 'd')) {
   TextStrings = JSON.stringify(TextStrings, undefined, 2)
   fs1.unlinkSync(textStringsEnFilePath)
   fs1.writeFileSync(textStringsEnFilePath, TextStrings, {encoding: 'utf8'})
-  console.log(`run with f to remove found strings`)
-  console.log(`run with s to store found strings`)
-  console.log(`run with m match strings found and stored`)
-  console.log(`run with d to remove stored strings`)
+  console.log('run with f to remove found strings')
+  console.log('run with s to store found strings')
+  console.log('run with m match strings found and stored')
+  console.log('run with d to remove stored strings')
 }
 
-if (process.argv.some(x => x === 'a')) {
-  let exec = require('child_process').exec
-  let log = (output: string) => console.log(output)
+if (process.argv.some((x) => x === 'a')) {
+  // let log = (output: string) => console.log(output)
   let execute = (command: string, callback: (message: string) => void) => {
     // eslint-disable-next-line
-    exec(command, function (error: () => void, stdout: string, stderr: () => void) {
+    exec(command, (error, stdout: string, stderr) => {
       callback(stdout)
     })
   }

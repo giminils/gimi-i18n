@@ -9,7 +9,7 @@ test('should get dictionary strings', () => {
   expect(dictionaryStrings).toBeDefined()
 })
 
-Object.keys(dictionaryStrings).map((key: string) => {
+Object.keys(dictionaryStrings).forEach((key: string) => {
   test('dictionary key should should have format dictionary_chapter_{number}_{word}', () => {
     const keyArr = key.split('_')
     expect(keyArr[0]).toBe('dictionary')

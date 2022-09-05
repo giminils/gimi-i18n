@@ -11,20 +11,33 @@ import ConfigUSD from '../config/config_USD.json'
 import ConfigISK from '../config/config_ISK.json'
 import ConfigCHF from '../config/config_CHF.json'
 
-export const getCurrencyConfig = (currencyCode: string | undefined) => {
+export const getCurrencyConfig = (currencyCode: string | undefined): Record<string, any> => {
   switch (currencyCode) {
-    case 'EUR': return {...ConfigEUR, currencyCode}
-    case 'CHF': return {...ConfigCHF, currencyCode}
-    case 'NOK': return {...ConfigNOK, currencyCode}
-    case 'DKK': return {...ConfigDKK, currencyCode}
-    case 'SEK': return {...ConfigSEK, currencyCode}
-    case 'GBP': return {...ConfigGBP, currencyCode}
-    case 'USD': return {...ConfigUSD, currencyCode}
-    case 'AUD': return {...ConfigAUD, currencyCode}
-    case 'CAD': return {...ConfigCAD, currencyCode}
-    case 'NZD': return {...ConfigNZD, currencyCode}
-    case 'INR': return {...ConfigINR, currencyCode}
-    case 'ISK': return {...ConfigISK, currencyCode}
-    default : return {...ConfigEUR, currencyCode: 'EUR'}
+    case 'EUR':
+      return {...ConfigEUR, currencyCode}
+    case 'CHF':
+      return {...ConfigCHF, currencyCode}
+    case 'NOK':
+      return {...ConfigNOK, currencyCode}
+    case 'DKK':
+      return {...ConfigDKK, currencyCode}
+    case 'SEK':
+      return {...ConfigSEK, currencyCode}
+    case 'GBP':
+      return {...ConfigGBP, currencyCode}
+    case 'USD':
+      return {...ConfigUSD, currencyCode}
+    case 'AUD':
+      return {...ConfigAUD, currencyCode}
+    case 'CAD':
+      return {...ConfigCAD, currencyCode}
+    case 'NZD':
+      return {...ConfigNZD, currencyCode}
+    case 'INR':
+      return {...ConfigINR, currencyCode}
+    case 'ISK':
+      return {...ConfigISK, currencyCode}
+    default:
+      return {...ConfigEUR, currencyCode: 'EUR'}
   }
 }
