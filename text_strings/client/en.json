@@ -2579,5 +2579,15 @@
   "onboarding_compleded_title": "%1$d is now all set up!",
   "onboarding_compleded_subtitle": "Great job. You have now set the perfect foundation for your child to become money smart!",
   "onboarding_compleded_back_to_home_screen": "Back to home screen",
-  "upgrade_to_bank_account_instead": "Upgrade to bank account instead!"
+  "upgrade_to_bank_account_instead": "Upgrade to bank account instead!",
+  "money_statistics_title": "Money statistics",
+  "money_statistics_kid_underspent": "This month %1$d saved %2$d",
+  "money_statistics_kid_overspent": "This month %1$d spent %2$d more than he received",
+  "money_statistics_kid_no_transactions": "This month %1$d didn’t spend or receive any money",
+  "money_statistics_kid_spent_received_same_amount": "This month %1$d spent and received the same amount",
+  "money_statistics_money_in": "Money in",
+  "money_statistics_money_out": "Money out",
+  "money_statistics_spending_categories": "Spending categories",
+  "money_statistics_most_expensive_category_again": "This is the %1$d month were %2$d is the most expensive category.",
+  "money_statistics_most_expensive_transactions": "Most expensive transactions"
 }

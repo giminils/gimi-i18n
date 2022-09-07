@@ -2579,5 +2579,15 @@
   "onboarding_compleded_title": "%1$d är klar för start!",
   "onboarding_compleded_subtitle": "Snyggt jobbat. Du har nu satt den perfekta grunden för ditt barn att bli pengasmart!",
   "onboarding_compleded_back_to_home_screen": "Tillbaka till hemskärmen",
-  "upgrade_to_bank_account_instead": "Uppgradera till bankkonto istället!"
+  "upgrade_to_bank_account_instead": "Uppgradera till bankkonto istället!",
+  "money_statistics_title": "PLZ_CHECK Money statistics",
+  "money_statistics_kid_underspent": "PLZ_CHECK This month %1$d saved %2$d",
+  "money_statistics_kid_overspent": "PLZ_CHECK This month %1$d spent %2$d more than he received",
+  "money_statistics_kid_no_transactions": "PLZ_CHECK This month %1$d didn’t spend or receive any money",
+  "money_statistics_kid_spent_received_same_amount": "PLZ_CHECK This month %1$d spent and received the same amount",
+  "money_statistics_money_in": "PLZ_CHECK Money in",
+  "money_statistics_money_out": "PLZ_CHECK Money out",
+  "money_statistics_spending_categories": "PLZ_CHECK Spending categories",
+  "money_statistics_most_expensive_category_again": "PLZ_CHECK This is the %1$d month were %2$d is the most expensive category.",
+  "money_statistics_most_expensive_transactions": "PLZ_CHECK Most expensive transactions"
 }
