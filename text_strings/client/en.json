@@ -2589,5 +2589,6 @@
   "money_statistics_money_out": "Money out",
   "money_statistics_spending_categories": "Spending categories",
   "money_statistics_most_expensive_category_again": "This is the %1$d month were %2$d is the most expensive category.",
-  "money_statistics_most_expensive_transactions": "Most expensive transactions"
+  "money_statistics_most_expensive_transactions": "Most expensive transactions",
+  "money_statistics_no_money_spent": "No money was spent this month"
 }

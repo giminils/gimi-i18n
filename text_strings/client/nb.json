@@ -2589,5 +2589,6 @@
   "money_statistics_money_out": "PLZ_TRANSLATE Money out",
   "money_statistics_spending_categories": "PLZ_TRANSLATE Spending categories",
   "money_statistics_most_expensive_category_again": "PLZ_TRANSLATE This is the %1$d month were %2$d is the most expensive category.",
-  "money_statistics_most_expensive_transactions": "PLZ_TRANSLATE Most expensive transactions"
+  "money_statistics_most_expensive_transactions": "PLZ_TRANSLATE Most expensive transactions",
+  "money_statistics_no_money_spent": "PLZ_TRANSLATE No money was spent this month"
 }
