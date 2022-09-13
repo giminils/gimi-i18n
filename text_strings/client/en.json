@@ -2582,7 +2582,7 @@
   "upgrade_to_bank_account_instead": "Upgrade to bank account instead!",
   "money_statistics_title": "Money statistics",
   "money_statistics_kid_underspent": "This month %1$d saved %2$d",
-  "money_statistics_kid_overspent": "This month %1$d spent %2$d more than he received",
+  "money_statistics_kid_overspent": "This month %1$d spent %2$d more than they received",
   "money_statistics_kid_no_transactions": "This month %1$d didn’t spend or receive any money",
   "money_statistics_kid_spent_received_same_amount": "This month %1$d spent and received the same amount",
   "money_statistics_money_in": "Money in",
