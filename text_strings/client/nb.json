@@ -2036,6 +2036,7 @@
   "general_week_days_5": "Fredager",
   "general_week_days_6": "Lørdag",
   "general_week_days_7": "Søndager",
+  "general_nth_day_of_each_month": "PLZ_TRANSLATE %1$d of each month",
   "what_can_you_buy_for_n": "For %1$d kan du for eksempel kjøpe",
   "what_can_you_buy_save": "Spar i %1$d år og du kan kjøpe",
   "general_basketball": "basketball",
