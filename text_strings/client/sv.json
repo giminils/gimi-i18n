@@ -2374,6 +2374,7 @@
   "tink_category_ghost": "Okänd",
   "tink_category_home": "Hem",
   "tink_category_expenses": "Utgifter",
+  "tink_category_miscellaneous": "PLZ_CHECK Other expenses",
   "tink_category_food": "Mat",
   "tink_category_income": "Inkomst",
   "tink_category_vacation": "Semester",
