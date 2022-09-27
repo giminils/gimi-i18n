@@ -436,7 +436,7 @@
   "cash_payout": "Kontant utbetaling",
   "weekly_allowance_amount": "sum",
   "monthly_allowance_amount": "sum",
-  "kid_needs_migration": "Legg til uke-/månedspenger",
+  "add_allowance": "Legg til uke-/månedspenger",
   "no_connections_yet": "Ingen kontakter ennå! \nGimi er bedre med din familie i appen.",
   "general_remove_goal": "Fjern mål",
   "error_could_not_complete_connection": "vi kunne ikke legge til kontakten!",

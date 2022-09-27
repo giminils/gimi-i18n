@@ -436,7 +436,7 @@
   "cash_payout": "Contante uitbetaling",
   "weekly_allowance_amount": "Bedrag",
   "monthly_allowance_amount": "Bedrag",
-  "kid_needs_migration": "Voeg zakgeld toe",
+  "add_allowance": "Voeg zakgeld toe",
   "no_connections_yet": "Nog geen contacten! \nGimi is leuker met je familie in de app.",
   "general_remove_goal": "Verwijder doel",
   "error_could_not_complete_connection": "Het contact kon niet worden toegevoegd!",

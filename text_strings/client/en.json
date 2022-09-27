@@ -436,7 +436,7 @@
   "cash_payout": "cash payout",
   "weekly_allowance_amount": "amount",
   "monthly_allowance_amount": "amount",
-  "kid_needs_migration": "Add allowance",
+  "add_allowance": "Add allowance",
   "no_connections_yet": "No contacts yet! \nGimi is more fun with your family in the app.",
   "general_remove_goal": "Remove goal",
   "error_could_not_complete_connection": "The contact could not be added!",

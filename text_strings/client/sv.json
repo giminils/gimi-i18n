@@ -436,7 +436,7 @@
   "cash_payout": "Markera kontant utbetalning",
   "weekly_allowance_amount": "summa",
   "monthly_allowance_amount": "summa",
-  "kid_needs_migration": "Lägg till veckopeng",
+  "add_allowance": "Lägg till veckopeng",
   "no_connections_yet": "Inga kontakter än! \nGimi är bättre med din familj i appen.",
   "general_remove_goal": "Radera mål",
   "error_could_not_complete_connection": "vi kunde inte lägga till kontakten!",
