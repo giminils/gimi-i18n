@@ -2593,5 +2593,7 @@
   "money_statistics_spending_categories": "Spending categories",
   "money_statistics_most_expensive_category_again": "This is the %1$d month were %2$d is the most expensive category.",
   "money_statistics_most_expensive_transactions": "Most expensive transactions",
-  "money_statistics_no_money_spent": "No money was spent this month"
+  "money_statistics_no_money_spent": "No money was spent this month",
+  "allowance_all_set_title": "All set!",
+  "allowance_all_set_subtitle": "We’ll remind you to pay out the allowance every friday. Click on Next allowance on the dashboard to see what’s included."
 }
