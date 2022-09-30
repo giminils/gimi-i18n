@@ -2593,5 +2593,7 @@
   "money_statistics_spending_categories": "Köpkategorier",
   "money_statistics_most_expensive_category_again": "Detta är den %1$d månaden där %2$d är den dyraste kategorin.",
   "money_statistics_most_expensive_transactions": "Dyraste transaktionerna",
-  "money_statistics_no_money_spent": "Inga pengar spenderades denna månad"
+  "money_statistics_no_money_spent": "Inga pengar spenderades denna månad",
+  "allowance_all_set_title": "PLZ_CHECK All set!",
+  "allowance_all_set_subtitle": "PLZ_CHECK We’ll remind you to pay out the allowance every friday. Click on Next allowance on the dashboard to see what’s included."
 }

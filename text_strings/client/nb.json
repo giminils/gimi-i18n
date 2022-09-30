@@ -2593,5 +2593,7 @@
   "money_statistics_spending_categories": "Kjøpskategorier",
   "money_statistics_most_expensive_category_again": "Dette er %1$d måneden der %2$d er den dyreste kategorien.",
   "money_statistics_most_expensive_transactions": "Dyreste transaksjonene",
-  "money_statistics_no_money_spent": "Ingen penger brukt denne måneden"
+  "money_statistics_no_money_spent": "Ingen penger brukt denne måneden",
+  "allowance_all_set_title": "PLZ_TRANSLATE All set!",
+  "allowance_all_set_subtitle": "PLZ_TRANSLATE We’ll remind you to pay out the allowance every friday. Click on Next allowance on the dashboard to see what’s included."
 }
