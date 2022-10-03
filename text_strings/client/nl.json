@@ -2595,5 +2595,8 @@
   "money_statistics_most_expensive_transactions": "Duurste transacties",
   "money_statistics_no_money_spent": "Er is deze maand geen geld uitgegeven",
   "allowance_all_set_title": "PLZ_TRANSLATE All set!",
-  "allowance_all_set_subtitle": "PLZ_TRANSLATE We’ll remind you to pay out the allowance every friday. Click on Next allowance on the dashboard to see what’s included."
+  "allowance_all_set_subtitle_bank_account_weekly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
+  "allowance_all_set_subtitle_bank_account_monthly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
+  "allowance_all_set_subtitle_piggy_bank_weekly": "PLZ_TRANSLATE The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
+  "allowance_all_set_subtitle_piggy_bank_monthly": "PLZ_TRANSLATE The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included"
 }
