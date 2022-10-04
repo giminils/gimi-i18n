@@ -2595,5 +2595,7 @@
   "allowance_all_set_subtitle_bank_account_weekly": "Vi minner deg om å betale ukepengen hver %1$d. Klikk på Neste ukepeng på hjemmesiden for å se detaljene.",
   "allowance_all_set_subtitle_bank_account_monthly": "Vi minner deg om å betale månedpengen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene.",
   "allowance_all_set_subtitle_piggy_bank_weekly": "Ukepengen legges automatisk til sparegrisen hver %1$d. Klikk på Neste ukepeng på hjemmesiden for å se detaljene.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "Månedpengen legges automatisk til sparegrisen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene."
+  "allowance_all_set_subtitle_piggy_bank_monthly": "Månedpengen legges automatisk til sparegrisen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene.",
+  "allowance_currently_not_possible_to_edit_this_title": "PLZ_TRANSLATE It's currently not possible to edit this",
+  "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_TRANSLATE We're working on it. You can change the amount though!"
 }

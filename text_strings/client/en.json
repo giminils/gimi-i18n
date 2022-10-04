@@ -2595,5 +2595,7 @@
   "allowance_all_set_subtitle_bank_account_weekly": "We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
   "allowance_all_set_subtitle_bank_account_monthly": "We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
   "allowance_all_set_subtitle_piggy_bank_weekly": "The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included"
+  "allowance_all_set_subtitle_piggy_bank_monthly": "The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included",
+  "allowance_currently_not_possible_to_edit_this_title": "It's currently not possible to edit this",
+  "allowance_currently_not_possible_to_edit_this_subtitle": "We're working on it. You can change the amount though!"
 }
