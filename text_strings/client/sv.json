@@ -2594,9 +2594,9 @@
   "money_statistics_most_expensive_category_again": "Detta är den %1$d månaden där %2$d är den dyraste kategorin.",
   "money_statistics_most_expensive_transactions": "Dyraste transaktionerna",
   "money_statistics_no_money_spent": "Inga pengar spenderades denna månad",
-  "allowance_all_set_title": "PLZ_CHECK All set!",
-  "allowance_all_set_subtitle_bank_account_weekly": "PLZ_CHECK We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
-  "allowance_all_set_subtitle_bank_account_monthly": "PLZ_CHECK We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
-  "allowance_all_set_subtitle_piggy_bank_weekly": "PLZ_CHECK The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "PLZ_CHECK The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included"
+  "allowance_all_set_title": "Allt klart!",
+  "allowance_all_set_subtitle_bank_account_weekly": "Vi kommer påminna dig om att betala ut veckopengen varje %1$d. Klicka på Nästa veckopeng på startsidan för att se detaljerna.",
+  "allowance_all_set_subtitle_bank_account_monthly": "Vi kommer påminna dig om att betala ut månadspengen den %1$d varje månad. Klicka på Nästa månadspeng på startsidan för att se detaljerna.",
+  "allowance_all_set_subtitle_piggy_bank_weekly": "Veckopengen kommer läggas till automatiskt i spargrisen varje %1$d. Klicka på Nästa veckopeng på startsidan för att se detaljerna.",
+  "allowance_all_set_subtitle_piggy_bank_monthly": "Månadspengen kommer läggas till automatiskt i spargrisen den %1$d varje månad. Klicka på Nästa månadspeng på startsidan för att se detaljerna."
 }
