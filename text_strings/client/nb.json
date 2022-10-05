@@ -2594,9 +2594,9 @@
   "money_statistics_most_expensive_category_again": "Dette er %1$d måneden der %2$d er den dyreste kategorien.",
   "money_statistics_most_expensive_transactions": "Dyreste transaksjonene",
   "money_statistics_no_money_spent": "Ingen penger brukt denne måneden",
-  "allowance_all_set_title": "PLZ_TRANSLATE All set!",
-  "allowance_all_set_subtitle_bank_account_weekly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
-  "allowance_all_set_subtitle_bank_account_monthly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
-  "allowance_all_set_subtitle_piggy_bank_weekly": "PLZ_TRANSLATE The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "PLZ_TRANSLATE The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included"
+  "allowance_all_set_title": "Alt klart!",
+  "allowance_all_set_subtitle_bank_account_weekly": "Vi minner deg om å betale ukepengen hver %1$d. Klikk på Neste ukepeng på hjemmesiden for å se detaljene.",
+  "allowance_all_set_subtitle_bank_account_monthly": "Vi minner deg om å betale månedpengen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene.",
+  "allowance_all_set_subtitle_piggy_bank_weekly": "Ukepengen legges automatisk til sparegrisen hver %1$d. Klikk på Neste ukepeng på hjemmesiden for å se detaljene.",
+  "allowance_all_set_subtitle_piggy_bank_monthly": "Månedpengen legges automatisk til sparegrisen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene."
 }
