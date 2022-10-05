@@ -1722,6 +1722,7 @@
   "chore_suggestion_sent_for_approval": "You suggested a chore!",
   "next_weekly_allowance": "Next allowance",
   "next_monthly_allowance": "Next allowance",
+  "next_allowance": "Next allowance",
   "general_accounts": "Accounts",
   "general_card_balance": "Card balance",
   "general_amount": "Amount",
@@ -1903,8 +1904,8 @@
   "currency_idr": "Indonesian Rupiahs",
   "currency_chf": "Swiss Franc",
   "currency_cop": "Colombian Peso",
-  "allowance_settings_setup_title": "%1$d already has allowance settings",
-  "allowance_settings_setup_subtitle": "You can add an additonal allowance in the next step",
+  "allowance_settings_setup_title": "%1$d already has allowance",
+  "allowance_settings_setup_subtitle": "You can add an additional allowance in the next step",
   "dont_add_allowance": "Don’t add allowance",
   "general_supporter": "Parent",
   "day_of_allowance": "Day of allowance",
@@ -1994,10 +1995,6 @@
   "activate_new_card_parent": "Activate card",
   "general_report_lost": "Report lost",
   "general_total": "Total",
-  "allowance_settings_setup_title_monthly": "%1$d already has monthly allowance",
-  "allowance_settings_setup_title_weekly": "%1$d already has weekly allowance",
-  "allowance_settings_setup_subtitle_weekly": "You can add an additonal allowance in the next step",
-  "allowance_settings_setup_subtitle_monthly": "You can add an additonal allowance in the next step",
   "i_redid_it": "I redid it",
   "premium_add_money_desc_placeholder": "Where does the money come from?",
   "freemium_add_money_desc_placeholder": "Where does the money come from?",
@@ -2598,5 +2595,7 @@
   "allowance_all_set_subtitle_bank_account_weekly": "We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
   "allowance_all_set_subtitle_bank_account_monthly": "We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
   "allowance_all_set_subtitle_piggy_bank_weekly": "The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included"
+  "allowance_all_set_subtitle_piggy_bank_monthly": "The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included",
+  "allowance_currently_not_possible_to_edit_this_title": "It's currently not possible to edit this",
+  "allowance_currently_not_possible_to_edit_this_subtitle": "We're working on it. You can change the amount though!"
 }

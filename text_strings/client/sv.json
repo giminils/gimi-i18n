@@ -1722,6 +1722,7 @@
   "chore_suggestion_sent_for_approval": "Du har föreslagit en uppgift!",
   "next_weekly_allowance": "Nästa veckopeng",
   "next_monthly_allowance": "Nästa månadspeng",
+  "next_allowance": "PLZ_CHECK Next allowance",
   "general_accounts": "Konton",
   "general_card_balance": "Kortsaldo",
   "general_amount": "Saldo",
@@ -1994,10 +1995,6 @@
   "activate_new_card_parent": "Aktivera kort",
   "general_report_lost": "Anmäl",
   "general_total": "Totalt",
-  "allowance_settings_setup_title_monthly": "%1$d får redan månadspeng",
-  "allowance_settings_setup_title_weekly": "%1$d får redan veckopeng",
-  "allowance_settings_setup_subtitle_weekly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
-  "allowance_settings_setup_subtitle_monthly": "Du kan lägga till en egen vecko-/månadspeng i nästa steg",
   "i_redid_it": "Gjort om",
   "premium_add_money_desc_placeholder": "Var kommer pengarna ifrån?",
   "freemium_add_money_desc_placeholder": "Var kommer pengarna ifrån?",
@@ -2598,5 +2595,7 @@
   "allowance_all_set_subtitle_bank_account_weekly": "Vi kommer påminna dig om att betala ut veckopengen varje %1$d. Klicka på Nästa veckopeng på startsidan för att se detaljerna.",
   "allowance_all_set_subtitle_bank_account_monthly": "Vi kommer påminna dig om att betala ut månadspengen den %1$d varje månad. Klicka på Nästa månadspeng på startsidan för att se detaljerna.",
   "allowance_all_set_subtitle_piggy_bank_weekly": "Veckopengen kommer läggas till automatiskt i spargrisen varje %1$d. Klicka på Nästa veckopeng på startsidan för att se detaljerna.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "Månadspengen kommer läggas till automatiskt i spargrisen den %1$d varje månad. Klicka på Nästa månadspeng på startsidan för att se detaljerna."
+  "allowance_all_set_subtitle_piggy_bank_monthly": "Månadspengen kommer läggas till automatiskt i spargrisen den %1$d varje månad. Klicka på Nästa månadspeng på startsidan för att se detaljerna.",
+  "allowance_currently_not_possible_to_edit_this_title": "PLZ_CHECK It's currently not possible to edit this",
+  "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_CHECK We're working on it. You can change the amount though!"
 }

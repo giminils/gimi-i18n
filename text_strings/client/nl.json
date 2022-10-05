@@ -1722,6 +1722,7 @@
   "chore_suggestion_sent_for_approval": "Je hebrt een klusje voorgesteld!",
   "next_weekly_allowance": "Volgend zakgeld",
   "next_monthly_allowance": "Volgend zakgeld",
+  "next_allowance": "PLZ_TRANSLATE Next allowance",
   "general_accounts": "Rekeningen",
   "general_card_balance": "Card balance",
   "general_amount": "Bedrag",
@@ -1903,7 +1904,7 @@
   "currency_idr": "Indonesian Rupiahs",
   "currency_chf": "Swiss Franc",
   "currency_cop": "Colombian Peso",
-  "allowance_settings_setup_title": "%1$d heeft al instellingen voor zakgeld",
+  "allowance_settings_setup_title": "%1$d heeft al zakgeld",
   "allowance_settings_setup_subtitle": "Je kan extra zakgeld toevoegen in de volgende stap",
   "dont_add_allowance": "Voeg geen zakgeld toe",
   "general_supporter": "Ouder",
@@ -1994,10 +1995,6 @@
   "activate_new_card_parent": "Activate card",
   "general_report_lost": "Blokkeer",
   "general_total": "Totaal",
-  "allowance_settings_setup_title_monthly": "%1$d heeft al maandelijks zakgeld",
-  "allowance_settings_setup_title_weekly": "%1$d heeft al wekelijks zakgeld",
-  "allowance_settings_setup_subtitle_weekly": "Je kunt extra zakgeld toevoegen in de volgende stap",
-  "allowance_settings_setup_subtitle_monthly": "Je kunt extra zakgeld toevoegen in de volgende stap",
   "i_redid_it": "Opnieuw proberen",
   "premium_add_money_desc_placeholder": "Waar komt dit geld vandaan?",
   "freemium_add_money_desc_placeholder": "Waar komt dit geld vandaan?",
@@ -2598,5 +2595,7 @@
   "allowance_all_set_subtitle_bank_account_weekly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
   "allowance_all_set_subtitle_bank_account_monthly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
   "allowance_all_set_subtitle_piggy_bank_weekly": "PLZ_TRANSLATE The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "PLZ_TRANSLATE The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included"
+  "allowance_all_set_subtitle_piggy_bank_monthly": "PLZ_TRANSLATE The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included",
+  "allowance_currently_not_possible_to_edit_this_title": "PLZ_TRANSLATE It's currently not possible to edit this",
+  "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_TRANSLATE We're working on it. You can change the amount though!"
 }
