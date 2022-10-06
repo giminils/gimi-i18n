@@ -1,0 +1,19 @@
+name: Node.js CI
+on:
+  # TODO: Remove master when it is renamed to main
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: 'yarn'
+      - run: yarn install
+      - run: yarn test
