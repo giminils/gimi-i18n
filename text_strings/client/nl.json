@@ -1722,7 +1722,7 @@
   "chore_suggestion_sent_for_approval": "Je hebrt een klusje voorgesteld!",
   "next_weekly_allowance": "Volgend zakgeld",
   "next_monthly_allowance": "Volgend zakgeld",
-  "next_allowance": "PLZ_TRANSLATE Next allowance",
+  "next_allowance": "Volgend zakgeld",
   "general_accounts": "Rekeningen",
   "general_card_balance": "Card balance",
   "general_amount": "Bedrag",
@@ -2591,11 +2591,11 @@
   "money_statistics_most_expensive_category_again": "Dit is de %1$d maand waar %2$d de duurste categorie is.",
   "money_statistics_most_expensive_transactions": "Duurste transacties",
   "money_statistics_no_money_spent": "Er is deze maand geen geld uitgegeven",
-  "allowance_all_set_title": "PLZ_TRANSLATE All set!",
-  "allowance_all_set_subtitle_bank_account_weekly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance every %1$d. Click on Next allowance on the dashboard to see what’s included.",
-  "allowance_all_set_subtitle_bank_account_monthly": "PLZ_TRANSLATE We’ll remind you to pay out the allowance the %1$d of each month. Click on Next allowance on your dashboard to see what’s included.",
-  "allowance_all_set_subtitle_piggy_bank_weekly": "PLZ_TRANSLATE The allowance will be added to the piggybank every %1$d. Click on Next allowance on the dashboard to see what's included.",
-  "allowance_all_set_subtitle_piggy_bank_monthly": "PLZ_TRANSLATE The allowance will be added to the piggybank the %1$d of each month. Click on Next allowance on the dashboard to see what's included",
-  "allowance_currently_not_possible_to_edit_this_title": "PLZ_TRANSLATE It's currently not possible to edit this",
-  "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_TRANSLATE We're working on it. You can change the amount though!"
+  "allowance_all_set_title": "Klaar!",
+  "allowance_all_set_subtitle_bank_account_weekly": "We zullen je eraan herinneren het zakgeld iedere %1$d te betalen. Klik op Volgend zakgeld op de profielpagina om te zien wat inbegrepen is ",
+  "allowance_all_set_subtitle_bank_account_monthly": "We zullen je eraan herinneren het zakgeld iedere %1$d van de maand over te maken. Klik op Volgend zakgeld op de profielpagina om te zien wat inbegrepen is",
+  "allowance_all_set_subtitle_piggy_bank_weekly": "Het zakgeld zal iedere %1$d worden toegevoegd. Klik op Volgend zakgeld op de profielpagina om te zien wat inbegrepen is",
+  "allowance_all_set_subtitle_piggy_bank_monthly": "Het zakgeld zal iedere %1$d van de maand worden toegevoegd aan het Spaarvarken. Klik op Volgend zakgeld op de profielpagina om te zien wat inbegrepen is",
+  "allowance_currently_not_possible_to_edit_this_title": "Het is momenteel niet mogelijk dit te veranderen",
+  "allowance_currently_not_possible_to_edit_this_subtitle": "We werken hier tijdelijk aan. Je kunt wel het bedrag aanpassen!"
 }
