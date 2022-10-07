@@ -2255,6 +2255,8 @@
   "premium_offer_title_13": "Koble til barnets bankkonto",
   "premium_offer_subtitle_13": "Bruk Gimi med ekte penger, fungerer med de fleste banker.",
   "tink_crendentials_refreshed_success": "Bankkonto er oppdatert!",
+  "delete_tink_user_popover_title": "Er du sikker?",
+  "delete_tink_user_popover_desc": "PLZ_TRANSLATE This will delete the bank connection. You can reconnect later!",
   "delete_tink_account_popover_title": "Er du sikker?",
   "delete_tink_account_popover_desc": "Dette sletter alle bankkontoer du har lagt til i Gimi",
   "delete_tink_account_for_partner_popover_title": "PLZ_TRANSLATE Are you sure?",
@@ -2597,5 +2599,6 @@
   "allowance_all_set_subtitle_piggy_bank_weekly": "Ukepengen legges automatisk til sparegrisen hver %1$d. Klikk på Neste ukepeng på hjemmesiden for å se detaljene.",
   "allowance_all_set_subtitle_piggy_bank_monthly": "Månedpengen legges automatisk til sparegrisen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene.",
   "allowance_currently_not_possible_to_edit_this_title": "PLZ_TRANSLATE It's currently not possible to edit this",
-  "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_TRANSLATE We're working on it. You can change the amount though!"
+  "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_TRANSLATE We're working on it. You can change the amount though!",
+  "open_banking_settings_my_connected_bank": "PLZ_TRANSLATE My connected bank"
 }
