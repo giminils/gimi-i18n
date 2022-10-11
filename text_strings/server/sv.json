@@ -220,5 +220,10 @@
   "app_landing_page_retry_text": "Prova igen",
   "app_landing_page_prompt_text": "Ladda ned Gimi från App Store!",
   "event_premium_payday_parent": "Det är Payday! Gör en insättning till dina barn",
-  "ADGERE046_notification_title": "{month_name} är förbi! Spana in hur {child_name} hanterade sina pengar förra månaden"
+  "ADGERE046_notification_title": "{month_name} är förbi! Spana in hur {child_name} hanterade sina pengar förra månaden",
+  "email_footer_origin_text": "Du har fått det här mejlet som registrerad användare av appen Gimi",
+  "connect_email_title": "PLZ_CHECK Hi!",
+  "connect_email_paragraph_child": "PLZ_CHECK {child_name} has invited you to Gimi - an allowance app for the whole family. Click the button below to accept the invitation.",
+  "connect_email_paragraph_parent": "PLZ_CHECK {parent_name} has invited you to Gimi, check out your allowance in the app! Open the link below to accept the invitation.",
+  "connect_email_button_text": "PLZ_CHECK Accept invitation"
 }
