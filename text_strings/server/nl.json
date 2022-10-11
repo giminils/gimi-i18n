@@ -220,5 +220,6 @@
   "app_landing_page_retry_text": "Probeer opnieuw!",
   "app_landing_page_prompt_text": "Download Gimi in de App Store!",
   "event_premium_payday_parent": "Het is Zakgelddag! Maak geld over naar je kinderen",
-  "ADGERE046_notification_title": "{month_name} is voorbij! Bekijk hoe {child_name} afgelopen maand het zakgeld heeft beheert"
+  "ADGERE046_notification_title": "{month_name} is voorbij! Bekijk hoe {child_name} afgelopen maand het zakgeld heeft beheert",
+  "email_footer_origin_text": "Je hebt deze mail ontvangen omdat je een geregistreerde gebruiker van de Gimi app bent"
 }

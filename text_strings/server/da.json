@@ -220,5 +220,6 @@
   "app_landing_page_retry_text": "PLZ_TRANSLATE Try again!",
   "app_landing_page_prompt_text": "PLZ_TRANSLATE Download Gimi from the App Store!",
   "event_premium_payday_parent": "Det er payday! 💫 Overfør penge til dine børn",
-  "ADGERE046_notification_title": "PLZ_TRANSLATE {month_name} is up! See how {child_name} managed money last month"
+  "ADGERE046_notification_title": "PLZ_TRANSLATE {month_name} is up! See how {child_name} managed money last month",
+  "email_footer_origin_text": "Du modtager denne email som registreret bruger af Gimi appen"
 }
