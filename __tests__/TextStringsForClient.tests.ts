@@ -15,24 +15,26 @@ jest.disableAutomock()
 // let flatten = require('flat')
 
 describe('TextStrings', () => {
-  test('should not allow duplicate keys in JSON', () => {
+  test('should not allow duplicate keys in gimi-web JSON', () => {
     gimiWebLanguageCodes.forEach((lang) => {
       let fileText = fs
         .readFileSync(path.join(__dirname, `../text_strings/gimi-web/${lang}.json`), {encoding: 'utf8'})
         // remove any carriage return characters
         .replace(/\r/, '')
         .split('\n')
-      const errors = findDuplicateJSONKeys(fileText, [])
+      const errors = findDuplicateJSONKeys(fileText, [], lang)
       expect(errors).toEqual([])
     })
+  })
 
+  test('should not allow duplicate keys in client JSON', () => {
     languageCodes.forEach((lang) => {
       let fileText = fs
         .readFileSync(path.join(__dirname, `../text_strings/client/${lang}.json`), {encoding: 'utf8'})
         // remove any carriage return characters
         .replace(/\r/, '')
         .split('\n')
-      const errors = findDuplicateJSONKeys(fileText, [])
+      const errors = findDuplicateJSONKeys(fileText, [], lang)
       expect(errors).toEqual([])
     })
   })
