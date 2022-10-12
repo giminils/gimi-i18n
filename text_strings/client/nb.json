@@ -2601,5 +2601,7 @@
   "allowance_scheduling_title": "PLZ_TRANSLATE Schedule allowance",
   "allowance_reset_popover_title": "PLZ_TRANSLATE This will reset the current allowance",
   "allowance_reset_popover_description": "PLZ_TRANSLATE %1$d's upcoming allowance will be deleted and replaced with the new one!",
-  "settings_allowance_scheduling": "PLZ_TRANSLATE Scheduling"
+  "settings_allowance_scheduling": "PLZ_TRANSLATE Scheduling",
+  "allowance_scheduling_monthly_text": "PLZ_TRANSLATE Monthly on the %1$d",
+  "allowance_scheduling_weekly_text": "PLZ_TRANSLATE Weekly on %1$d"
 }
