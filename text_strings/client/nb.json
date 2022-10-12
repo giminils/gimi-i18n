@@ -2600,5 +2600,11 @@
   "allowance_all_set_subtitle_piggy_bank_monthly": "Månedpengen legges automatisk til sparegrisen den %1$d i hver måned. Klikk på Neste månedpeng på hjemmesiden for å se detaljene.",
   "allowance_currently_not_possible_to_edit_this_title": "PLZ_TRANSLATE It's currently not possible to edit this",
   "allowance_currently_not_possible_to_edit_this_subtitle": "PLZ_TRANSLATE We're working on it. You can change the amount though!",
-  "open_banking_settings_my_connected_bank": "PLZ_TRANSLATE My connected bank"
+  "open_banking_settings_my_connected_bank": "PLZ_TRANSLATE My connected bank",
+  "allowance_scheduling_title": "PLZ_TRANSLATE Schedule allowance",
+  "allowance_reset_popover_title": "PLZ_TRANSLATE This will reset the current allowance",
+  "allowance_reset_popover_description": "PLZ_TRANSLATE %1$d's upcoming allowance will be deleted and replaced with the new one!",
+  "settings_allowance_scheduling": "PLZ_TRANSLATE Scheduling",
+  "allowance_scheduling_monthly_text": "PLZ_TRANSLATE Monthly on the %1$d",
+  "allowance_scheduling_weekly_text": "PLZ_TRANSLATE Weekly on %1$d"
 }
