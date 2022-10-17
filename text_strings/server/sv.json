@@ -225,5 +225,6 @@
   "connect_email_title": "PLZ_CHECK Hi!",
   "connect_email_paragraph_child": "PLZ_CHECK {child_name} has invited you to Gimi - an allowance app for the whole family. Click the button below to accept the invitation.",
   "connect_email_paragraph_parent": "PLZ_CHECK {parent_name} has invited you to Gimi, check out your allowance in the app! Open the link below to accept the invitation.",
-  "connect_email_button_text": "PLZ_CHECK Accept invitation"
+  "connect_email_button_text": "PLZ_CHECK Accept invitation",
+  "CHGEON043_notification_title": "PLZ_CHECK Piggy’s got some money saving hacks for you. Click here to learn more about money in Superskills Adventure!"
 }
