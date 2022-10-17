@@ -2606,5 +2606,6 @@
   "allowance_reset_popover_description": "%1$d's aankomende zakgeld zal worden verwijderd en vervangen met de nieuwe!",
   "settings_allowance_scheduling": "Frequentie",
   "allowance_scheduling_monthly_text": "Maandelijks op de %1$d",
-  "allowance_scheduling_weekly_text": "Wekelijks op %1$d"
+  "allowance_scheduling_weekly_text": "Wekelijks op %1$d",
+  "paywall_takeover_reminder_title": "PLZ_TRANSLATE Upgrade to Superskills Pro - free for ABN AMRO!"
 }

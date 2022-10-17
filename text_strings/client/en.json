@@ -2606,5 +2606,6 @@
   "allowance_reset_popover_description": "%1$d's upcoming allowance will be deleted and replaced with the new one!",
   "settings_allowance_scheduling": "Scheduling",
   "allowance_scheduling_monthly_text": "Monthly on the %1$d",
-  "allowance_scheduling_weekly_text": "Weekly on %1$d"
+  "allowance_scheduling_weekly_text": "Weekly on %1$d",
+  "paywall_takeover_reminder_title": "Upgrade to Superskills Pro - free for ABN AMRO!"
 }
