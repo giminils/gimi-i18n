@@ -226,5 +226,6 @@
   "connect_email_paragraph_child": "PLZ_TRANSLATE {child_name} has invited you to Gimi - an allowance app for the whole family. Click the button below to accept the invitation.",
   "connect_email_paragraph_parent": "PLZ_TRANSLATE {parent_name} has invited you to Gimi, check out your allowance in the app! Open the link below to accept the invitation.",
   "connect_email_button_text": "PLZ_TRANSLATE Accept invitation",
-  "CHGEON043_notification_title": "PLZ_TRANSLATE Piggy’s got some money saving hacks for you. Click here to learn more about money in Superskills Adventure!"
+  "CHGEON043_notification_title": "PLZ_TRANSLATE Piggy’s got some money saving hacks for you. Click here to learn more about money in Superskills Adventure!",
+  "ADGEON019_notification_title": "PLZ_TRANSLATE {child_name} is learning about the basics of money in Superskills Adventure! Click here to learn more"
 }
