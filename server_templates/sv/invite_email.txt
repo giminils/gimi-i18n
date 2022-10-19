@@ -1,5 +1,0 @@
-Hej!
-{{ invite.sender.name }} har bjudit in dig till Gimi.
-
-Öppna länken nedan för att ladda ner appen. Tryck sedan på länken igen och ni blir ihopkopplade:
-{{ invite.accept_url }}

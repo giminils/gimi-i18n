@@ -1,4 +1,0 @@
-Hallo!
-{{ invite.sender.name }} venter på deg i Gimi appen. Klikk på linken under for å få kontroll over pengene sammen!
-
-{{ invite.accept_url }}

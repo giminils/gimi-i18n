@@ -1,2 +1,0 @@
-Hej! {{ invite.sender.name }} venter på dig i Gimi app'en. Klik her, så I kan begynde samarbejdet om penge!
-{{ invite.accept_url }}

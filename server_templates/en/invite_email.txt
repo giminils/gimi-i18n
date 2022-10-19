@@ -1,4 +1,0 @@
-Hi!
-{{ invite.sender.name }} is waiting for you in Gimi. Click below to download the app and start earning, saving and managing money together!
-
-{{ invite.accept_url }}

@@ -1,5 +1,0 @@
-Hej!
-{{ connection_token.created_by.name }} har bjudit in dig till Gimi.
-
-Öppna länken nedan för att ladda ner appen. Tryck sedan på länken igen och ni blir ihopkopplade:
-{{ connection_token.accept_url }}

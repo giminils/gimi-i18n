@@ -1,4 +1,0 @@
-Hi!
-{{ connection_token.created_by.nickname }} is waiting for you in Gimi. Click below to download the app and start earning, saving and managing money together!
-
-{{ connection_token.accept_url }}

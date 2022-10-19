@@ -1,2 +1,0 @@
-Hello! {{ invite.sender.name }} has invited you to use Gimi so that you can control your money together. Find out more:
-{{ invite.accept_url }}

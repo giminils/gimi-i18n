@@ -1,4 +1,0 @@
-Hallo!
-{{ connection_token.created_by.name }} erwartet Dich in der Gimi App. Klicke auf den aufgeführten Link, um ab sofort gemeinsam Geld zu verwalten!
-
-{{ connection_token.accept_url }}

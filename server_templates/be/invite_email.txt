@@ -1,5 +1,0 @@
-Hello!
-{{ invite.sender.name }} has invited you to use Gimi.
-
-Open the link to download app. Press the link and you will be connected:
-{{ invite.accept_url }}

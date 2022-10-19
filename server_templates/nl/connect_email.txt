@@ -1,4 +1,0 @@
-Hoi!
-{{ connection_token.created_by.name }} wacht op je in de Gimi-app. Klik op de onderstaande link om samen geld te beheren!
-
-{{ connection_token.accept_url }}

@@ -1,2 +1,0 @@
-Hei! {{ invite.sender.name }} odottaa sinua Gimi-sovelluksessa. Klikkaa tästä, jotta voitte alkaa hallitsemaan rahaa yhdessä!
-{{ invite.accept_url }}
