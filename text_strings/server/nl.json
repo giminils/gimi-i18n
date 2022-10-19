@@ -222,10 +222,10 @@
   "event_premium_payday_parent": "Het is Zakgelddag! Maak geld over naar je kinderen",
   "ADGERE046_notification_title": "{month_name} is voorbij! Bekijk hoe {child_name} afgelopen maand het zakgeld heeft beheert",
   "email_footer_origin_text": "Je hebt deze mail ontvangen omdat je een geregistreerde gebruiker van de Gimi app bent",
-  "connect_email_title": "PLZ_TRANSLATE Hi!",
-  "connect_email_paragraph_child": "PLZ_TRANSLATE {child_name} has invited you to Gimi - an allowance app for the whole family. Click the button below to accept the invitation.",
-  "connect_email_paragraph_parent": "PLZ_TRANSLATE {parent_name} has invited you to Gimi, check out your allowance in the app! Open the link below to accept the invitation.",
-  "connect_email_button_text": "PLZ_TRANSLATE Accept invitation",
-  "CHGEON043_notification_title": "PLZ_TRANSLATE Piggy’s got some money saving hacks for you. Click here to learn more about money in Superskills Adventure!",
-  "ADGEON019_notification_title": "PLZ_TRANSLATE {child_name} is learning about the basics of money in Superskills Adventure! Click here to learn more"
+  "connect_email_title": "Hoi!",
+  "connect_email_paragraph_child": "{child_name} heeft je uitgenodigd voor Gimi - een zakgeld-app voor de hele familie. Klik onderaan op de knop om de uitnodiging te accepteren.",
+  "connect_email_paragraph_parent": "{parent_name} heeft je uitgenodigd voor Gimi, bekijk je zakgeld in de app! Open de link onderdaan om de uitnodiging te accepteren.",
+  "connect_email_button_text": "Accepteer uitnodiging",
+  "CHGEON043_notification_title": "Piggy heeft wat leuke tips over geld sparen voor je. Klik hier om meer over geld te leren in Superskills Adventure!",
+  "ADGEON019_notification_title": "{child_name} is over de basis van geld aan het leren in Superskills Adventure! Klik hier om meer te weten te komen."
 }
