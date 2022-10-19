@@ -2603,7 +2603,7 @@
   "open_banking_settings_my_connected_bank": "Min anslutna bank",
   "allowance_scheduling_title": "Schemalägg vecko-/månadspengen",
   "allowance_reset_popover_title": "Vecko-/månadspengen kommer återställas",
-  "allowance_reset_popover_description": "%1$d's nästa vecko-/månadspeng kommer raderas och ersättas med en ny!",
+  "allowance_reset_popover_description": "%1$ds kommande vecko-/månadspeng kommer raderas och ersättas med en ny!",
   "settings_allowance_scheduling": "När?",
   "allowance_scheduling_monthly_text": "Månadsvis den %1$d",
   "allowance_scheduling_weekly_text": "Veckovis på %1$d",
