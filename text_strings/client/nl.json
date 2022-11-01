@@ -2212,7 +2212,7 @@
   "avatar_creator_title": "Pas je avatar aan",
   "general_save_word": "Sla op",
   "tink_pis_fail_error_view_title": "Er is iets mis gegaan...",
-  "tink_pis_fail_error_view_subtitle": "Dit ging niet zoals verwacht... Neem contact op met de klantendienst als deze fout zich blijft voordoen",
+  "tink_pis_fail_error_view_subtitle": "Dit ging niet zoals verwacht... Neem contact op met de klantenservice als deze fout zich blijft voordoen",
   "school_xp_level": "Lvl %1$d",
   "x_xp_to_next_level": "Nog %1$d XP nodig tot het volgende level!",
   "general_level_x": "Lvl %1$d",
@@ -2608,7 +2608,7 @@
   "allowance_scheduling_monthly_text": "Maandelijks op de %1$d",
   "allowance_scheduling_weekly_text": "Wekelijks op %1$d",
   "paywall_takeover_reminder_title": "Upgrade naar Superskills Pro - gratis voor klanten van ABN AMRO!",
-  "education_paywall_takeover_title": "PLZ_TRANSLATE Help %1$d become money smart",
-  "education_paywall_takeover_subtitle": "PLZ_TRANSLATE %1$d learned what bills are made of and got introduced to the basics of money. Upgrade to Superskills Pro so they can master earning, saving and spending too!",
-  "education_paywall_takeover_button_text": "PLZ_TRANSLATE Upgrade to Superskills Pro"
+  "education_paywall_takeover_title": "Help %1$d om handig te worden met geld",
+  "education_paywall_takeover_subtitle": "%1$d heeft geleerd wat briefgeld is en een introductie gehad over de basis van geld. Upgrade naar Superskills Pro, zodat je kind alles kan leren over sparen, verdienen en uitgeven!",
+  "education_paywall_takeover_button_text": "Upgrade naar Superskills Pro"
 }
