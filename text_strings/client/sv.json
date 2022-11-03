@@ -2608,8 +2608,8 @@
   "allowance_scheduling_monthly_text": "Månadsvis den %1$d",
   "allowance_scheduling_weekly_text": "Veckovis på %1$d",
   "paywall_takeover_reminder_title": "Uppgradera till Superskills Pro - gratis för ABN AMRO!",
-  "education_paywall_takeover_title": "PLZ_CHECK Help %1$d become money smart",
-  "education_paywall_takeover_subtitle": "PLZ_CHECK %1$d learned what bills are made of and got introduced to the basics of money. Upgrade to Superskills Pro so they can master earning, saving and spending too!",
-  "education_paywall_takeover_button_text": "PLZ_CHECK Upgrade to Superskills Pro"
+  "education_paywall_takeover_title": "Hjälp %1$d att bli pengasmart",
+  "education_paywall_takeover_subtitle": "%1$d lärde sig vad sedlar är gjorda av och introducerades till grunderna i privatekonomi. Uppgradera till Superskills Pro så de kan lära sig att tjäna, spara och spendera också!",
+  "education_paywall_takeover_button_text": "Uppgradera till Superskills Pro"
 }
 
