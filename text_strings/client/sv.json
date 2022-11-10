@@ -86,7 +86,8 @@
   "settings_currency": "valuta",
   "settings_pin": "PIN-kod",
   "settings_sign_in_as": "logga in som %1$d",
-  "user_terms_link": "https://www.gimitheapp.com/sv/terms?cookies=false",
+  "user_terms_link": "https://www.gimi.com/sv/user-terms?cookies=false",
+  "privacy_policy_link": "https://www.gimi.com/sv/privacy-policy?cookies=false",
   "who_will_be_paying_person": "Hur stor del av vecko-/månadspeng ska du betala till %1$d?",
   "pay_full_allowance": "hela",
   "pay_half_allowance": "halva",
@@ -1410,6 +1411,7 @@
   "accept_terms_title": "Godkänn användarvillkoren",
   "kyc_user_terms_link_title": "Användarvillkor",
   "kyc_privacy_terms_link_title": "Integritetspolicy",
+  "general_privacy_policy": "Integritetspolicy",
   "bad_jwt_title": "Extra säkerhet",
   "bad_jwt_desc": "Du måste logga ut och in igen för att ta emot den senaste säkerhetsuppdateringen från Gimi. Gör det nu?",
   "klarna_error_code_title_unattainable": "Kan inte ansluta till BankID",
@@ -2612,4 +2614,3 @@
   "education_paywall_takeover_subtitle": "%1$d lärde sig vad sedlar är gjorda av och introducerades till grunderna i privatekonomi. Uppgradera till Superskills Pro så de kan lära sig att tjäna, spara och spendera också!",
   "education_paywall_takeover_button_text": "Uppgradera till Superskills Pro"
 }
-
