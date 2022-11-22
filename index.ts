@@ -263,17 +263,16 @@ export const getExperimentalCourses = () => ExperimentalCourses
 
 export function getText(
   langKey: string,
-  values: Array<string | number>,
+  values?: Array<string | number>,
   textTransform = 'capitalize',
-  textStrings: Record<string, string>
+  textStrings?: Record<string, string>
 ): string {
-  if (typeof textStrings === 'undefined') return ''
   if (!textStrings || !langKey) return ''
   let text = textStrings[langKey]
   if (!text) return ''
   text = removeTranslationHelpers(text)
   text = text.trim()
-  text = applyValues(text, values)
+  if (values) text = applyValues(text, values)
   text = applyTransform(text, textTransform)
   return text
 }
