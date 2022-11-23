@@ -219,8 +219,8 @@ export const getDefaultCurrencyCode = (userCountryCode?: string): string => {
   return userCountryCode ? currencies[userCountryCode] || 'EUR' : 'EUR'
 }
 
-export const getSupportedTimeZones = () => {
-  let shortList: Array<object> = []
+export const getSupportedTimeZones = (): typeof Timezones => {
+  let shortList: typeof Timezones = []
   Timezones.map((zone) => {
     if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1) shortList.push(zone)
     return zone
