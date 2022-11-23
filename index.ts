@@ -51,7 +51,13 @@ export let supportedTimeZonesAndroid = [
   'Africa/Cairo'
 ]
 
-export const getSupportedCurrencyInfos = (): Array<Record<string, any>> => [
+export type CurrencyInfo = {
+  code: string
+  name: string
+  langKey: string
+}
+
+export const getSupportedCurrencyInfos = (): Array<CurrencyInfo> => [
   {code: 'SEK', name: 'Swedish Krona', langKey: 'currency_sek'},
   {code: 'NOK', name: 'Norwegian Krone', langKey: 'currency_nok'},
   {code: 'DKK', name: 'Danish Krone', langKey: 'currency_dkk'},
