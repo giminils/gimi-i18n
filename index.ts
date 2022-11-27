@@ -246,7 +246,7 @@ export const getCardTestAnswer = (
   step: number,
   lang: string | undefined = 'en',
   currencyCode: string | undefined = 'SEK'
-) => getCardAnswer(step, lang, currencyCode)
+): Array<{title: string; valid: boolean}> => getCardAnswer(step, lang, currencyCode)
 
 export const getFinLitTestQuestion = (
   testType: number,
@@ -262,8 +262,7 @@ export const getFinLitTestAnswer = (
   currencyCode: string | undefined = 'SEK'
 ) => getFinLitAnswer(testType, step, lang, currencyCode)
 
-export const getInfluencerAnswer = (step: number, lang: string | undefined = 'en') =>
-  getInfluencerPortalAnswer(step, lang)
+export const getInfluencerAnswer = (step: number) => getInfluencerPortalAnswer(step)
 
 export const getExperimentalCourses = () => ExperimentalCourses
 

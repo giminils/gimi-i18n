@@ -50,7 +50,11 @@ export const getCardQuestion = (step: number, lang = 'en', currencyCode: string)
   return getText(`CardTest.card_test_question_${step}`, [...getStringQuestionValues(step, currencyCode)], textStrings)
 }
 
-export const getCardAnswer = (step: number, lang = 'en', currencyCode: string): Array<object> => {
+export const getCardAnswer = (
+  step: number,
+  lang = 'en',
+  currencyCode: string
+): Array<{title: string; valid: boolean}> => {
   const textStrings = getSharedStrings(lang)
   const answers = []
   for (let i = 0; i < 3; i++)
@@ -69,7 +73,7 @@ export const getCardAnswer = (step: number, lang = 'en', currencyCode: string): 
   return answers
 }
 
-export const getInfluencerPortalAnswer = (step: number, lang = 'en'): any => {
+export const getInfluencerPortalAnswer = (step: number): any => {
   if (step !== 1) return undefined
   return [
     {title: 'Instagram', valid: true},
