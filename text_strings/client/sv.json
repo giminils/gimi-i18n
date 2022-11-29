@@ -2634,11 +2634,5 @@
   "add_child_invitation_by_sms_search_text": "PLZ_CHECK Search contacts",
   "add_child_invitation_by_sms_access_text": "PLZ_CHECK Get access to contact list",
   "add_child_invitation_success_notification_text": "PLZ_CHECK Invite sent!",
-  "add_child_send_invite_text": "PLZ_CHECK Send invite!",
-  "why_to_add_a_child_main_heading": "PLZ_CHECK We chreated Gimi for the children",
-  "why_to_add_a_child_heading_description": "PLZ_CHECK For your child to be able to use Gimi, they need to login to this account you're creating with a unique phone number or email.",
-  "why_to_add_a_child_paragraph_one_subheading": "PLZ_CHECK What %1$d can do on their account in Gimi",
-  "why_to_add_a_child_paragraph_one": "PLZ_CHECK The child view in the Gimi app is different from what you as a parent see. Your child will be able to view their account balance, create a savings goal, suggest chores, learn about money in the Superskills Adventure, and more educational features.",
-  "why_to_add_a_child_paragraph_two_subheading": "PLZ_CHECK If %1$d doesn't have a phone",
-  "why_to_add_a_child_paragraph_two": "PLZ_CHECK We suggest to create an email for your child, or use the email or a phone number of a family member that doesn't use Gimi. Gimi can be downloaded on both phones and tablets."
+  "add_child_send_invite_text": "PLZ_CHECK Send invite!"
 }
