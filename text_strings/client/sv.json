@@ -2621,7 +2621,7 @@
   "invite_child_send_invite_sms_description": "Om de skapade sitt konto med telefonnummer",
   "invite_child_send_invite_email_description": "Om de skapade sitt konto med mail",
   "invite_child_send_invite_qr_code_subheading": "Skanna QR-kod",
-  "invite_child_send_invite_qr_code_description": "Om ni är bredvid varandra",
+  "invite_child_send_invite_qr_code_description": "Om ni är bredvid varandra!",
   "add_child_add_name_heading": "Vad heter barnet?",
   "add_child_invitation_type_heading": "Välj hur du vill bjuda in %1$d?",
   "add_child_invitation_type_sms_description": "Skicka en inbjudningslänk till deras telefonnummer",
