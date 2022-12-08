@@ -2623,11 +2623,11 @@
   "invite_child_send_invite_qr_code_subheading": "Skanna QR-kod",
   "invite_child_send_invite_qr_code_description": "Om ni är bredvid varandra!",
   "add_child_add_name_heading": "Vad heter barnet?",
-  "add_child_invitation_type_heading": "Välj hur du vill bjuda in %1$d?",
+  "add_child_invitation_type_heading": "Välj hur du vill bjuda in %1$d",
   "add_child_invitation_type_sms_description": "Skicka en inbjudningslänk till deras telefonnummer",
   "add_child_invitation_type_email_description": "Skicka en inbjudningslänk till deras mail",
   "add_child_invitation_why_link_text": "Varför behöver jag bjuda in mitt barn?",
-  "add_child_by_email_heading": "Vad är %1$d?s mail?",
+  "add_child_by_email_heading": "Vad är %1$d's mail?",
   "add_child_invitation_by_sms_text": "Bjud in via SMS",
   "add_child_invitation_by_sms_access_text": "Ge åtkomst till mina kontakter",
   "add_child_invitation_success_notification_text": "Inbjudan skickad!"
