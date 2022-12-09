@@ -2623,11 +2623,11 @@
   "invite_child_send_invite_qr_code_subheading": "Skann QR kode",
   "invite_child_send_invite_qr_code_description": "Hvis dere er i nærheten av hverandre!",
   "add_child_add_name_heading": "Hva heter barnet ditt?",
-  "add_child_invitation_type_heading": "Velg hvordan du vil invitere %1$d?",
+  "add_child_invitation_type_heading": "Velg hvordan du vil invitere %1$d",
   "add_child_invitation_type_sms_description": "Send en invitasjonslenke til deres telefonnummer",
   "add_child_invitation_type_email_description": "Send en invitasjonslenke til deres e-post",
   "add_child_invitation_why_link_text": "Hvorfor trenger jeg å invitere mitt barn?",
-  "add_child_by_email_heading": "Hva er %1$d?s e-post?",
+  "add_child_by_email_heading": "Hva er %1$d's e-post?",
   "add_child_invitation_by_sms_text": "Invitere med SMS",
   "add_child_invitation_by_sms_access_text": "Gi tilgang til mine kontakter",
   "add_child_invitation_success_notification_text": "Invitasjon sendt!"
