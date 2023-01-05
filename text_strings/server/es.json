@@ -189,5 +189,9 @@
   "connect_email_paragraph_parent": "PLZ_TRANSLATE {parent_name} has invited you to Gimi, check out your allowance in the app! Open the link below to accept the invitation.",
   "connect_email_button_text": "PLZ_TRANSLATE Accept invitation",
   "CHGEON043_notification_title": "PLZ_TRANSLATE Piggy’s got some money saving hacks for you. Click here to learn more about money in Superskills Adventure!",
-  "ADGEON019_notification_title": "PLZ_TRANSLATE {child_name} is learning about the basics of money in Superskills Adventure! Click here to learn more"
+  "ADGEON019_notification_title": "PLZ_TRANSLATE {child_name} is learning about the basics of money in Superskills Adventure! Click here to learn more",
+  "login_email_greeting": "Hola",
+  "login_email_paragraph_part_1": "Ingresa el código",
+  "login_email_paragraph_part_2": "en tu aplicación Gimi o haz clic en el siguiente botón para iniciar sesión. ¡Nos vemos del otro lado! 👋",
+  "login_email_button_text": "INICIAR SESIÓN"
 }

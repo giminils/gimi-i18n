@@ -189,5 +189,9 @@
   "connect_email_paragraph_parent": "{parent_name} har bjudit in dig till Gimi, spana in din veckopeng i appen! Öppna länken nedan för att acceptera inbjudan.",
   "connect_email_button_text": "Acceptera inbjudan",
   "CHGEON043_notification_title": "Piggy har några spartips åt dig. Klicka här för att lära dig mer om pengar i Superskills Adventure!",
-  "ADGEON019_notification_title": "{child_name} lär sig om grunderna i pengar i Superskills Adventure! Klicka här för att läsa mer"
+  "ADGEON019_notification_title": "{child_name} lär sig om grunderna i pengar i Superskills Adventure! Klicka här för att läsa mer",
+  "login_email_greeting": "Hej",
+  "login_email_paragraph_part_1": "Ange koden",
+  "login_email_paragraph_part_2": "i appen eller klicka på länken nedan för att logga in. Vi ses på andra sidan! 👋",
+  "login_email_button_text": "LOGGA IN"
 }
