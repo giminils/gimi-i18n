@@ -2595,7 +2595,7 @@
   "money_statistics_most_expensive_category_again": "Detta är den %1$d månaden där %2$d är den dyraste kategorin.",
   "money_statistics_most_expensive_transactions": "Dyraste transaktionerna",
   "money_statistics_no_money_spent": "Inga pengar spenderades denna månad",
-  "allowance_all_set_title": "Allt klart!",
+  "allowance_all_set_title": "PLZ_CHECK Allowance is all set!",
   "allowance_all_set_subtitle_bank_account_weekly": "Vi kommer påminna dig om att betala ut veckopengen varje %1$d. Klicka på Nästa veckopeng på startsidan för att se detaljerna.",
   "allowance_all_set_subtitle_bank_account_monthly": "Vi kommer påminna dig om att betala ut månadspengen den %1$d varje månad. Klicka på Nästa månadspeng på startsidan för att se detaljerna.",
   "allowance_all_set_subtitle_piggy_bank_weekly": "Veckopengen kommer läggas till automatiskt i spargrisen varje %1$d. Klicka på Nästa veckopeng på startsidan för att se detaljerna.",
