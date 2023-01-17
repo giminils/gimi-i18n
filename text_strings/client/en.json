@@ -2629,5 +2629,9 @@
   "add_child_by_email_heading": "What’s %1$d's email address?",
   "add_child_invitation_by_sms_text": "Invite by SMS",
   "add_child_invitation_by_sms_access_text": "Get access to contact list",
-  "add_child_invitation_success_notification_text": "Invite sent!"
+  "add_child_invitation_success_notification_text": "Invite sent!",
+  "phone_number_already_in_use_title": "That number is already in use",
+  "phone_number_already_in_use_description": "It belongs to another Gimi account. Try another one!",
+  "email_already_in_use_title": "That email is already in use",
+  "email_already_in_use_description": "It belongs to another Gimi account. Try another one!"
 }

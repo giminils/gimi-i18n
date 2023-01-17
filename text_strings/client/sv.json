@@ -2629,5 +2629,9 @@
   "add_child_by_email_heading": "Vad är %1$d's mail?",
   "add_child_invitation_by_sms_text": "Bjud in via SMS",
   "add_child_invitation_by_sms_access_text": "Ge åtkomst till mina kontakter",
-  "add_child_invitation_success_notification_text": "Inbjudan skickad!"
+  "add_child_invitation_success_notification_text": "Inbjudan skickad!",
+  "phone_number_already_in_use_title": "Telefonnumret används redan",
+  "phone_number_already_in_use_description": "Det tillhör ett annat Gimi-konto. Prova med ett annat!",
+  "email_already_in_use_title": "E-mailadressen används redan",
+  "email_already_in_use_description": "Den tillhör ett annat Gimi-konto. Prova med en annan!"
 }

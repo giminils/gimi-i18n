@@ -2629,5 +2629,9 @@
   "add_child_by_email_heading": "Wat is %1$d's e-mailadres?",
   "add_child_invitation_by_sms_text": "Nodig uit via SMS",
   "add_child_invitation_by_sms_access_text": "Krijg toegang tot de lijst met contacten",
-  "add_child_invitation_success_notification_text": "Uitnodiging verstuurd!"
+  "add_child_invitation_success_notification_text": "Uitnodiging verstuurd!",
+  "phone_number_already_in_use_title": "Dat nummer is al in gebruik",
+  "phone_number_already_in_use_description": "Het hoort bij een ander Gimi account. Probeer een ander!",
+  "email_already_in_use_title": "Dat e‑mailadres is al in gebruik",
+  "email_already_in_use_description": "Het hoort bij een ander Gimi account. Probeer een ander!"
 }
