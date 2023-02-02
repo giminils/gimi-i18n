@@ -2633,5 +2633,6 @@
   "phone_number_already_in_use_title": "Telefonnummeret er allerede i bruk",
   "phone_number_already_in_use_description": "Det tilhører en annen Gimi-konto. Prøv et annet!",
   "email_already_in_use_title": "E-postadressen er allerede i bruk",
-  "email_already_in_use_description": "Den tilhører en annen Gimi-konto. Prøv en annen!"
+  "email_already_in_use_description": "Den tilhører en annen Gimi-konto. Prøv en annen!",
+  "transaction_success_or_regret": "PLZ_TRANSLATE Was it a success or regret?"
 }
