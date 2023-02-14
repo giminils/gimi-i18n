@@ -2635,5 +2635,6 @@
   "phone_number_already_in_use_description": "Det tillhör ett annat Gimi-konto. Prova med ett annat!",
   "email_already_in_use_title": "E-mailadressen används redan",
   "email_already_in_use_description": "Den tillhör ett annat Gimi-konto. Prova med en annan!",
-  "transaction_success_or_regret": "PLZ_CHECK Was it a success or regret?"
+  "transaction_success_or_regret": "PLZ_CHECK Was it a success or regret?",
+  "general_savings_goal": "PLZ_CHECK Savings goal"
 }

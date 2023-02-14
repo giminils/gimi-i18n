@@ -2635,5 +2635,6 @@
   "phone_number_already_in_use_description": "It belongs to another Gimi account. Try another one!",
   "email_already_in_use_title": "That email is already in use",
   "email_already_in_use_description": "It belongs to another Gimi account. Try another one!",
-  "transaction_success_or_regret": "Was it a success or regret?"
+  "transaction_success_or_regret": "Was it a success or regret?",
+  "general_savings_goal": "Savings goal"
 }
