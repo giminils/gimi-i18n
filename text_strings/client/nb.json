@@ -2220,7 +2220,7 @@
   "x_xp_to_next_level": "%1$d XP trengs til neste level",
   "general_level_x": "Lvl %1$d",
   "kid_profile_tab_skills": "Superskills",
-  "kid_profile_tab_earn": "PLZ_TRANSLATE Earn",
+  "kid_profile_tab_earn": "Samle stjerner",
   "kid_profile_tab_friends": "Venner",
   "kid_profile_tab_evaluations": "Evalueringer",
   "sucess_regret_help_text_parent": "Slik vurderte barnet transaksjonene sine!",
@@ -2229,7 +2229,7 @@
   "general_add_friend": "Legge til venn",
   "general_my_friends": "Mine venner",
   "general_financial_badges": "Utmerkelser",
-  "general_money_quizzes": "PLZ_TRANSLATE Money quizzes",
+  "general_money_quizzes": "Quiz om penger",
   "general_lessons_title": "Superskills Adventure",
   "general_do_again": "Gjøre om",
   "general_locked": "Låst",
@@ -2638,7 +2638,7 @@
   "phone_number_already_in_use_description": "Det tilhører en annen Gimi-konto. Prøv et annet!",
   "email_already_in_use_title": "E-postadressen er allerede i bruk",
   "email_already_in_use_description": "Den tilhører en annen Gimi-konto. Prøv en annen!",
-  "transaction_success_or_regret": "PLZ_TRANSLATE Was it a success or regret?",
-  "general_savings_goal": "PLZ_TRANSLATE Savings goal",
-  "approved_chores_out_of_total_chores": "PLZ_TRANSLATE %1$d/%2$d approved"
+  "transaction_success_or_regret": "Var kjøpet ris eller rose?",
+  "general_savings_goal": "Sparemål",
+  "approved_chores_out_of_total_chores": "%1$d/%2$d godkjente"
 }
