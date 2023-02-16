@@ -2220,7 +2220,7 @@
   "x_xp_to_next_level": "%1$d XP kvar till nästa level!",
   "general_level_x": "Lvl %1$d",
   "kid_profile_tab_skills": "Superskills",
-  "kid_profile_tab_earn": "PLZ_CHECK Earn",
+  "kid_profile_tab_earn": "Samla stjärnor",
   "kid_profile_tab_friends": "Vänner",
   "kid_profile_tab_evaluations": "Utvärderingar",
   "sucess_regret_help_text_parent": "Så här utvärderade barnet sina transaktioner!",
@@ -2229,7 +2229,7 @@
   "general_add_friend": "Lägg till vän",
   "general_my_friends": "Mina vänner",
   "general_financial_badges": "Utmärkelser",
-  "general_money_quizzes": "PLZ_CHECK Money quizzes",
+  "general_money_quizzes": "Quiz om pengar",
   "general_lessons_title": "Superskills Adventure",
   "general_do_again": "Gör om",
   "general_locked": "Låst",
@@ -2638,7 +2638,7 @@
   "phone_number_already_in_use_description": "Det tillhör ett annat Gimi-konto. Prova med ett annat!",
   "email_already_in_use_title": "E-mailadressen används redan",
   "email_already_in_use_description": "Den tillhör ett annat Gimi-konto. Prova med en annan!",
-  "transaction_success_or_regret": "PLZ_CHECK Was it a success or regret?",
-  "general_savings_goal": "PLZ_CHECK Savings goal",
-  "approved_chores_out_of_total_chores": "PLZ_CHECK %1$d/%2$d approved"
+  "transaction_success_or_regret": "Var det en flipp eller flopp?",
+  "general_savings_goal": "Sparmål",
+  "approved_chores_out_of_total_chores": "%1$d/%2$d godkända"
 }
