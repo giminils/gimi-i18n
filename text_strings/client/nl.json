@@ -2182,7 +2182,7 @@
   "bonus_from_other_supporters": "Van andere ouders",
   "bonus_total": "Totaal bonus: %1$d",
   "bonus_piggy_info": "Hoe meer geld je in je spaarvarken hebt, hoe meer bonus je elke %1$d krijgt!",
-  "bonus_bank_account_piggy_info": "PLZ_TRANSLATE The more money you have on your bank account, the more bonus you will get every %1$d!",
+  "bonus_bank_account_info": "PLZ_TRANSLATE The more money you have on your bank account, the more bonus you will get every %1$d!",
   "no_bonus_added": "Geen bonus toegevoegd...",
   "bonus_next_weekly_allowance": "Volgend zakgeld: %1$d",
   "bonus_next_monthly_allowance": "Volgend zakgeld: %1$d",

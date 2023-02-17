@@ -2182,7 +2182,7 @@
   "bonus_from_other_supporters": "Från andra föräldrar",
   "bonus_total": "Total bonus: %1$d",
   "bonus_piggy_info": "Ju mer pengar du har i din spargris, ju mer bonus får du varje %1$d!",
-  "bonus_bank_account_piggy_info": "PLZ_CHECK The more money you have on your bank account, the more bonus you will get every %1$d!",
+  "bonus_bank_account_info": "PLZ_CHECK The more money you have on your bank account, the more bonus you will get every %1$d!",
   "no_bonus_added": "Ingen bonus tillagd...",
   "bonus_next_weekly_allowance": "Nästa veckopeng: %1$d",
   "bonus_next_monthly_allowance": "Nästa månadspeng: %1$d",

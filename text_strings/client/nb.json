@@ -2182,7 +2182,7 @@
   "bonus_from_other_supporters": "Fra andre foreldre",
   "bonus_total": "Total bonus: %1$d",
   "bonus_piggy_info": "Jo mer penger du har i sparegrisen din, jo mer bonus får du hver %1$d!",
-  "bonus_bank_account_piggy_info": "PLZ_TRANSLATE The more money you have on your bank account, the more bonus you will get every %1$d!",
+  "bonus_bank_account_info": "PLZ_TRANSLATE The more money you have on your bank account, the more bonus you will get every %1$d!",
   "no_bonus_added": "Ingen bonus lagt til ...",
   "bonus_next_weekly_allowance": "Neste ukepeng: %1$d",
   "bonus_next_monthly_allowance": "Neste månedspeng: %1$d",

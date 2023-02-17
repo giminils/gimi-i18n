@@ -2182,7 +2182,7 @@
   "bonus_from_other_supporters": "From other parents",
   "bonus_total": "Total bonus: %1$d",
   "bonus_piggy_info": "The more money you have in your piggybank, the more bonus you will get every %1$d!",
-  "bonus_bank_account_piggy_info": "The more money you have on your bank account, the more bonus you will get every %1$d!",
+  "bonus_bank_account_info": "The more money you have on your bank account, the more bonus you will get every %1$d!",
   "no_bonus_added": "No bonus added...",
   "bonus_next_weekly_allowance": "Next weekly allowance: %1$d",
   "bonus_next_monthly_allowance": "Next monthly allowance: %1$d",
