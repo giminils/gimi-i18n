@@ -2641,5 +2641,6 @@
   "email_already_in_use_description": "Den tilhører en annen Gimi-konto. Prøv en annen!",
   "transaction_success_or_regret": "Var kjøpet ris eller rose?",
   "general_savings_goal": "Sparemål",
-  "approved_chores_out_of_total_chores": "%1$d/%2$d godkjente"
+  "approved_chores_out_of_total_chores": "%1$d/%2$d godkjente",
+  "click_on_child_to_enter_settings": "PLZ_TRANSLATE Click on a child to enter their settings!"
 }

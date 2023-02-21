@@ -2641,5 +2641,6 @@
   "email_already_in_use_description": "It belongs to another Gimi account. Try another one!",
   "transaction_success_or_regret": "Was it a success or regret?",
   "general_savings_goal": "Savings goal",
-  "approved_chores_out_of_total_chores": "%1$d/%2$d approved"
+  "approved_chores_out_of_total_chores": "%1$d/%2$d approved",
+  "click_on_child_to_enter_settings": "Click on a child to enter their settings!"
 }
