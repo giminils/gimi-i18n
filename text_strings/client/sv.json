@@ -42,6 +42,7 @@
   "general_allowance": "vecko-/månadspeng",
   "send_invite": "bjud in",
   "general_error_message": "Något gick fel. Försök igen lite senare",
+  "transaction_error_message": "PLZ_CHECK Couldn't load more transactions. Try again!",
   "daypicker_monday": "måndag",
   "daypicker_tuesday": "tisdag",
   "daypicker_wednesday": "onsdag",

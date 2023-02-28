@@ -42,6 +42,7 @@
   "general_allowance": "allowance",
   "send_invite": "invite",
   "general_error_message": "Something went wrong. Please try again later.",
+  "transaction_error_message": "Couldn't load more transactions. Try again!",
   "daypicker_monday": "Monday",
   "daypicker_tuesday": "Tuesday",
   "daypicker_wednesday": "Wednesday",
