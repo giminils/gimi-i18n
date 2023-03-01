@@ -42,6 +42,7 @@
   "general_allowance": "uke- eller månedspenger",
   "send_invite": "invitere",
   "general_error_message": "Noe gikk galt. Prøv igjen senere.",
+  "transaction_error_message": "PLZ_TRANSLATE Couldn't load more transactions. Try again!",
   "daypicker_monday": "mandag",
   "daypicker_tuesday": "tirsdag",
   "daypicker_wednesday": "onsdag",
