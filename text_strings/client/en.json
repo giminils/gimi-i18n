@@ -2644,5 +2644,6 @@
   "transaction_success_or_regret": "Was it a success or regret?",
   "general_savings_goal": "Savings goal",
   "approved_chores_out_of_total_chores": "%1$d/%2$d approved",
-  "click_on_child_to_enter_settings": "Click on a child to enter their settings!"
+  "click_on_child_to_enter_settings": "Click on a child to enter their settings!",
+  "widget_selector_add_to_kid_dashoard": "Add to %1$d's dashboard"
 }
