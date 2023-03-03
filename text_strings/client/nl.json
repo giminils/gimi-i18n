@@ -42,7 +42,7 @@
   "general_allowance": "Zakgeld",
   "send_invite": "Nodig uit",
   "general_error_message": "Er is iets fout gegaan. Probeer het later opnieuw.",
-  "transaction_error_message": "PLZ_TRANSLATE Couldn't load more transactions. Try again!",
+  "transaction_error_message": "We konden geen transacties meer laden. Probeer het opnieuw!",
   "daypicker_monday": "Maandag",
   "daypicker_tuesday": "Dinsdag",
   "daypicker_wednesday": "Woensdag",
@@ -113,7 +113,7 @@
   "question_phone_reason": "Omdat jij de ouder bent, hebben we je nummer en netnummer nodig!",
   "question_email": "Voer je e‑mail in",
   "add_new_chore": "Klusje toevoegen",
-  "add_widget": "PLZ_TRANSLATE Add widget",
+  "add_widget": "Voeg een widget toe",
   "create_new_chore": "Creëer je eigen klusje",
   "copy_current": "Kopiëren",
   "choose_latest": "Toevoegen vanuit nieuwste versie",
@@ -2644,5 +2644,6 @@
   "transaction_success_or_regret": "Was het een succes of spijt?",
   "general_savings_goal": "Spaardoel",
   "approved_chores_out_of_total_chores": "%1$d/%2$d goedgekeurd",
-  "click_on_child_to_enter_settings": "Klik op een kind om zijn instellingen te bereiken!"
+  "click_on_child_to_enter_settings": "Klik op een kind om zijn instellingen te bereiken!",
+  "widget_selector_add_to_kid_dashoard": "PLZ_TRANSLATE Add to %1$d's dashboard"
 }

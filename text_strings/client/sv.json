@@ -42,7 +42,7 @@
   "general_allowance": "vecko-/månadspeng",
   "send_invite": "bjud in",
   "general_error_message": "Något gick fel. Försök igen lite senare",
-  "transaction_error_message": "PLZ_CHECK Couldn't load more transactions. Try again!",
+  "transaction_error_message": "Kunde inte ladda fler transaktioner. Försök igen!",
   "daypicker_monday": "måndag",
   "daypicker_tuesday": "tisdag",
   "daypicker_wednesday": "onsdag",
@@ -113,7 +113,7 @@
   "question_phone_reason": "Eftersom du är föräldern behöver vi ditt nummer och landskod!",
   "question_email": "Skriv in din e-post",
   "add_new_chore": "lägg till uppgift",
-  "add_widget": "PLZ_CHECK Add widget",
+  "add_widget": "Lägg till widget",
   "create_new_chore": "skapa en egen uppgift",
   "copy_current": "kopiera",
   "choose_latest": "välj från tidigare",
@@ -2644,5 +2644,6 @@
   "transaction_success_or_regret": "Var det en flipp eller flopp?",
   "general_savings_goal": "Sparmål",
   "approved_chores_out_of_total_chores": "%1$d/%2$d godkända",
-  "click_on_child_to_enter_settings": "Klicka på ett barn för att komma till dess inställningar!"
+  "click_on_child_to_enter_settings": "Klicka på ett barn för att komma till dess inställningar!",
+  "widget_selector_add_to_kid_dashoard": "PLZ_CHECK Add to %1$d's dashboard"
 }
