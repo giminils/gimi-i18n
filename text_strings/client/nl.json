@@ -2644,5 +2644,6 @@
   "transaction_success_or_regret": "Was het een succes of spijt?",
   "general_savings_goal": "Spaardoel",
   "approved_chores_out_of_total_chores": "%1$d/%2$d goedgekeurd",
-  "click_on_child_to_enter_settings": "Klik op een kind om zijn instellingen te bereiken!"
+  "click_on_child_to_enter_settings": "Klik op een kind om zijn instellingen te bereiken!",
+  "widget_selector_add_to_kid_dashoard": "PLZ_TRANSLATE Add to %1$d's dashboard"
 }
