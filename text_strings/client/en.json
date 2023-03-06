@@ -2645,5 +2645,8 @@
   "general_savings_goal": "Savings goal",
   "approved_chores_out_of_total_chores": "%1$d/%2$d approved",
   "click_on_child_to_enter_settings": "Click on a child to enter their settings!",
-  "widget_selector_add_to_kid_dashoard": "Add to %1$d's dashboard"
+  "widget_selector_add_to_kid_dashoard": "Add to %1$d's dashboard",
+  "account_widget_demo_account": "Demo account",
+  "account_widget_bank_account_description": "Connect %1$d's existing bank account to Gimi...",
+  "account_widget_demo_account_description": "...or practice with demo money. No bank transfers, just a virtual tracker."
 }
