@@ -2648,5 +2648,6 @@
   "widget_selector_add_to_kid_dashoard": "PLZ_TRANSLATE Add to %1$d's dashboard",
   "widget_title_demo_account": "PLZ_TRANSLATE Demo account",
   "widget_description_bank_account": "PLZ_TRANSLATE Connect %1$d's existing bank account to Gimi...",
-  "widget_description_demo_account": "PLZ_TRANSLATE ...or practice with demo money. No bank transfers, just a virtual tracker."
+  "widget_description_demo_account": "PLZ_TRANSLATE ...or practice with demo money. No bank transfers, just a virtual tracker.",
+  "widget_selector_you_have_added_all_available_widgets": "PLZ_TRANSLATE You have added all available widgets!"
 }
