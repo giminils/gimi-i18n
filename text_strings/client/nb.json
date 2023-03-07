@@ -2645,5 +2645,6 @@
   "general_savings_goal": "Sparemål",
   "approved_chores_out_of_total_chores": "%1$d/%2$d godkjente",
   "click_on_child_to_enter_settings": "Klikk på et barn for å gå til dets innstillinger!",
-  "widget_selector_add_to_kid_dashoard": "PLZ_TRANSLATE Add to %1$d's dashboard"
+  "widget_selector_add_to_kid_dashoard": "PLZ_TRANSLATE Add to %1$d's dashboard",
+  "widget_selector_you_have_added_all_available_widgets": "PLZ_TRANSLATE You have added all available widgets!"
 }
