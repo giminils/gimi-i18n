@@ -2646,5 +2646,7 @@
   "approved_chores_out_of_total_chores": "%1$d/%2$d goedgekeurd",
   "click_on_child_to_enter_settings": "Klik op een kind om zijn instellingen te bereiken!",
   "widget_selector_add_to_kid_dashoard": "PLZ_TRANSLATE Add to %1$d's dashboard",
-  "widget_selector_you_have_added_all_available_widgets": "PLZ_TRANSLATE You have added all available widgets!"
+  "widget_selector_you_have_added_all_available_widgets": "PLZ_TRANSLATE You have added all available widgets!",
+  "widget_description_chores": "PLZ_TRANSLATE Encourage %1$d to learn about earning money by doing chores for rewards!",
+  "widget_description_chores_locked": "PLZ_TRANSLATE Set up allowance first!"
 }
