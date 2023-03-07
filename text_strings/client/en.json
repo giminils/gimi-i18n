@@ -2648,6 +2648,7 @@
   "chore_was_sent_out": "The chore was sent to %1$d!",
   "chore_was_sent_out_multiple": "The chores were sent to %1$d!",
   "chore_was_sent_out_description": "Great job. You have now set the perfect foundation for your child to learn about earning money!",
+  "back_to_the_dashboard": "Back to the dashboard",
   "widget_selector_add_to_kid_dashoard": "Add to %1$d's dashboard",
   "widget_selector_you_have_added_all_available_widgets": "You have added all available widgets!",
   "widget_description_chores": "Encourage %1$d to learn about earning money by doing chores for rewards!",
