@@ -2650,6 +2650,10 @@
   "chore_was_sent_out_description": "Great job. You have now set the perfect foundation for your child to learn about earning money!",
   "back_to_the_dashboard": "Back to the dashboard",
   "widget_selector_add_to_kid_dashoard": "Add to %1$d's dashboard",
+  "widget_title_demo_account": "Demo account",
+  "widget_title_demo_account_status_marker": "Refresh connection",
+  "widget_description_bank_account": "Connect %1$d's existing bank account to Gimi...",
+  "widget_description_demo_account": "...or practice with demo money. No bank transfers, just a virtual tracker.",
   "widget_selector_you_have_added_all_available_widgets": "You have added all available widgets!",
   "widget_description_chores": "Encourage %1$d to learn about earning money by doing chores for rewards!",
   "widget_description_chores_locked": "Set up allowance first!"
