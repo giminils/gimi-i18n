@@ -2656,5 +2656,7 @@
   "widget_description_demo_account": "PLZ_CHECK ...or practice with demo money. No bank transfers, just a virtual tracker.",
   "widget_selector_you_have_added_all_available_widgets": "PLZ_CHECK You have added all available widgets!",
   "widget_description_chores": "PLZ_CHECK Encourage %1$d to learn about earning money by doing chores for rewards!",
-  "widget_description_chores_locked": "PLZ_CHECK Set up allowance first!"
+  "widget_description_chores_locked": "PLZ_CHECK Set up allowance first!",
+  "shop_takeover_title": "PLZ_CHECK Buy avatar skins for your stars in the Shop!",
+  "shop_takeover_button_text": "PLZ_CHECK Go to the Shop"
 }
