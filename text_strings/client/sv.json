@@ -2659,5 +2659,7 @@
   "widget_description_chores": "Uppmuntra %1$d att lära sig tjäna pengar genom att ge ut uppgifter mot belöning!",
   "widget_description_chores_locked": "Lägg till vecko-/månadspeng först!",
   "shop_takeover_title": "Köp nya avatarer för dina stjärnor i Shoppen!",
-  "shop_takeover_button_text": "Gå till Shoppen"
+  "shop_takeover_button_text": "Gå till Shoppen",
+  "shop_is_empty_description": "PLZ_CHECK Shop is empty! You have purchased all available skins.",
+  "kid_profile_tab_shop": "PLZ_CHECK Shop"
 }

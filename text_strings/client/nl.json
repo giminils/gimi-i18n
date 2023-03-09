@@ -2659,5 +2659,7 @@
   "widget_description_chores": "PLZ_TRANSLATE Encourage %1$d to learn about earning money by doing chores for rewards!",
   "widget_description_chores_locked": "PLZ_TRANSLATE Set up allowance first!",
   "shop_takeover_title": "PLZ_TRANSLATE Buy avatar skins for your stars in the Shop!",
-  "shop_takeover_button_text": "PLZ_TRANSLATE Go to the Shop"
+  "shop_takeover_button_text": "PLZ_TRANSLATE Go to the Shop",
+  "shop_is_empty_description": "PLZ_TRANSLATE Shop is empty! You have purchased all available skins.",
+  "kid_profile_tab_shop": "PLZ_TRANSLATE Shop"
 }

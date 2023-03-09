@@ -2659,5 +2659,7 @@
   "widget_description_chores": "Encourage %1$d to learn about earning money by doing chores for rewards!",
   "widget_description_chores_locked": "Set up allowance first!",
   "shop_takeover_title": "Buy avatar skins for your stars in the Shop!",
-  "shop_takeover_button_text": "Go to the Shop"
+  "shop_takeover_button_text": "Go to the Shop",
+  "shop_is_empty_description": "Shop is empty! You have purchased all available skins.",
+  "kid_profile_tab_shop": "Shop"
 }

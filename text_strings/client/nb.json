@@ -2659,5 +2659,7 @@
   "widget_description_chores": "Oppmuntre %1$d til å lære å tjene penger ved å gi ut oppgaver for belønning!",
   "widget_description_chores_locked": "Legg til ukepenger først!",
   "shop_takeover_title": "Kjøp nye avatarer for stjernene dine i Shoppen",
-  "shop_takeover_button_text": "Gå til Shoppen"
+  "shop_takeover_button_text": "Gå til Shoppen",
+  "shop_is_empty_description": "PLZ_TRANSLATE Shop is empty! You have purchased all available skins.",
+  "kid_profile_tab_shop": "PLZ_TRANSLATE Shop"
 }
