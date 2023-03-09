@@ -2654,6 +2654,7 @@
   "widget_title_demo_account_status_marker": "Förnya anslutning",
   "widget_description_bank_account": "Anslut %1$d's existerande bankkonto till Gimi...",
   "widget_description_demo_account": "...eller öva med demopengar. Inga banköverföringar, endast en virtuell räknare.",
+  "widget_description_demo_account_when_bank_account_disabled": "PLZ_CHECK Keep track of %1$d's savings with demo money. No bank transfers, just a virtual tracker.",
   "widget_selector_you_have_added_all_available_widgets": "Du har lagt till alla tillgängliga widgets!",
   "widget_description_chores": "Uppmuntra %1$d att lära sig tjäna pengar genom att ge ut uppgifter mot belöning!",
   "widget_description_chores_locked": "Lägg till vecko-/månadspeng först!",

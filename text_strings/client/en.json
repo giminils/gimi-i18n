@@ -2654,6 +2654,7 @@
   "widget_title_demo_account_status_marker": "Refresh connection",
   "widget_description_bank_account": "Connect %1$d's existing bank account to Gimi...",
   "widget_description_demo_account": "...or practice with demo money. No bank transfers, just a virtual tracker.",
+  "widget_description_demo_account_when_bank_account_disabled": "Keep track of %1$d's savings with demo money. No bank transfers, just a virtual tracker.",
   "widget_selector_you_have_added_all_available_widgets": "You have added all available widgets!",
   "widget_description_chores": "Encourage %1$d to learn about earning money by doing chores for rewards!",
   "widget_description_chores_locked": "Set up allowance first!",
