@@ -2660,6 +2660,9 @@
   "widget_description_chores_locked": "Legg til ukepenger først!",
   "shop_takeover_title": "Kjøp nye avatarer for stjernene dine i Shoppen",
   "shop_takeover_button_text": "Gå til Shoppen",
+  "widget_description_allowance_locked_notink_nodemo": "PLZ_TRANSLATE Connect a bank account or activate the demo account first!",
+  "widget_description_allowance_locked_nodemo": "PLZ_TRANSLATE Activate the demo account first!",
+  "widget_description_allowance": "PLZ_TRANSLATE Set up a weekly or monthly recurring allowance for %1$d.",
   "shop_is_empty_description": "PLZ_TRANSLATE Shop is empty! You have purchased all available skins.",
   "kid_profile_tab_shop": "PLZ_TRANSLATE Shop"
 }

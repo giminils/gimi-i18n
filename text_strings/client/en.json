@@ -2660,6 +2660,9 @@
   "widget_description_chores_locked": "Set up allowance first!",
   "shop_takeover_title": "Buy avatar skins for your stars in the Shop!",
   "shop_takeover_button_text": "Go to the Shop",
+  "widget_description_allowance_locked_notink_nodemo": "Connect a bank account or activate the demo account first!",
+  "widget_description_allowance_locked_nodemo": "Activate the demo account first!",
+  "widget_description_allowance": "Set up a weekly or monthly recurring allowance for %1$d.",
   "shop_is_empty_description": "Shop is empty! You have purchased all available skins.",
   "kid_profile_tab_shop": "Shop"
 }
