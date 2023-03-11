@@ -2664,5 +2664,7 @@
   "widget_description_allowance_locked_nodemo": "PLZ_TRANSLATE Activate the demo account first!",
   "widget_description_allowance": "PLZ_TRANSLATE Set up a weekly or monthly recurring allowance for %1$d.",
   "shop_is_empty_description": "PLZ_TRANSLATE Shop is empty! You have purchased all available skins.",
-  "kid_profile_tab_shop": "PLZ_TRANSLATE Shop"
+  "kid_profile_tab_shop": "PLZ_TRANSLATE Shop",
+  "demo_account_will_be_deleted_popover": "PLZ_TRANSLATE The demo account will be deleted",
+  "demo_account_will_be_deleted_popover_description": "PLZ_TRANSLATE %1$d’s demo account currently contains %2$d. Why not screenshot this to remember?"
 }
