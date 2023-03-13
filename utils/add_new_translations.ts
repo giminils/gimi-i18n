@@ -104,14 +104,7 @@ let syncTextStrings = (
   // Craete Support
   let newTextStrings = {...lang}
 
-  switch (true) {
-    case file.includes('sv.json'):
-    case file.includes('en.json'):
-      Object.keys(newTextStrings).forEach((key) => (newTextStrings[key] = `PLZ_CHECK ${lang[key]}`))
-      break
-    default:
-      Object.keys(newTextStrings).forEach((key) => (newTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
-  }
+  Object.keys(newTextStrings).forEach((key) => (newTextStrings[key] = `PLZ_TRANSLATE ${lang[key]}`))
 
   newTextStrings = {...newTextStrings, ...parsedStrings}
   Object.keys(_default).forEach((key) => delete parsedStrings[key])

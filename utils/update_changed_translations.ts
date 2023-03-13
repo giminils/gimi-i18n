@@ -12,7 +12,6 @@ let templateDirs = [
   './text_strings/dictionary'
 ]
 
-let PLZ_CHECK = 'PLZ_CHECK'
 let PLZ_COPY = 'PLZ_COPY'
 let PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 
@@ -56,8 +55,7 @@ let runUpdateChangedTranslations = (filePath: string): any => {
     let NewTextStrings = {...parsedLang}
     Object.keys(parsedLang).forEach((key) => {
       if (parsedLang[key].includes(PLZ_COPY) && !file.includes('en.json')) {
-        if (!file.includes('sv.json')) NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_TRANSLATE)
-        NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_CHECK)
+        NewTextStrings[key] = NewTextStrings[key].replace(PLZ_COPY, PLZ_TRANSLATE)
         parsedTextStrings[key] = `${NewTextStrings[key]}`
       }
     })

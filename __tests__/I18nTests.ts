@@ -1,13 +1,11 @@
 import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
 import {
-  searchPlzTranslate,
   searchBreakingSymbols,
   checkUpperCaseLetters,
   searchPlzCopy,
   checkStringEmptySpace,
   searchBrokenPlzCopy,
   searchBrokenPlzTranslate,
-  searchBrokenPlzCheck,
   searchHtml
 } from '../TestUtil'
 
@@ -16,20 +14,16 @@ type DataStruct = {key: string; lang: string; path: string}
 let stringTagData: Array<{
   data: Array<DataStruct>
   count?: number | undefined
-  plzTrans?: number | undefined
   plzCopy?: number | undefined
   countUpperCase?: number | undefined
   countStartsEmptySpace?: number | undefined
   brokenPLZCopy?: number | undefined
   brokenPLZTranslate?: number | undefined
-  brokenPLZCheck?: number | undefined
   countHtmlStrings?: number | undefined
 }> = []
-let jsonDataTranslate: Array<object> = []
 let jsonDataCopy: Array<object> = []
 let jsonDataBrokenCopy: Array<object> = []
 let jsonDataBrokenTranslate: Array<object> = []
-let jsonDataBrokenCheck: Array<object> = []
 let jsonBreakingSumbols: Array<object> = []
 let jsonArrayUpperCase: Array<object> = []
 let jsonArrayEmptySpaces: Array<object> = []
@@ -67,8 +61,6 @@ textStringsTypes.forEach((textStringsType) => {
   if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach((languageCode) => {
-    if (languageCode === 'sv' || languageCode === 'en')
-      stringTagData.push(searchPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchBreakingSymbols(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(checkStringEmptySpace(textStrings[textStringsType][languageCode], languageCode, textStringsType))
@@ -76,7 +68,6 @@ textStringsTypes.forEach((textStringsType) => {
     stringTagData.push(
       searchBrokenPlzTranslate(textStrings[textStringsType][languageCode], languageCode, textStringsType)
     )
-    stringTagData.push(searchBrokenPlzCheck(textStrings[textStringsType][languageCode], languageCode, textStringsType))
     stringTagData.push(searchHtml(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
     if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
@@ -86,13 +77,8 @@ textStringsTypes.forEach((textStringsType) => {
   })
 })
 
-// get plzTransalte
 stringTagData.forEach((data) => {
   if (!data) return
-  if (!!data.plzTrans && data.plzTrans > 0) {
-    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-    jsonDataTranslate.push(foo)
-  }
   if (!!data.plzCopy && data.plzCopy > 0) {
     const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
     jsonDataCopy.push(foo)
@@ -117,10 +103,6 @@ stringTagData.forEach((data) => {
     const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
     jsonDataBrokenTranslate.push(foo)
   }
-  if (!!data.brokenPLZCheck && data.brokenPLZCheck > 0) {
-    const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
-    jsonDataBrokenCheck.push(foo)
-  }
   if (!!data.countHtmlStrings && data.countHtmlStrings > 0) {
     const foo = data.data.map(({key, lang, path}) => `key: ${key}, path: ${path}, lang: ${lang}`)
     jsonDataHtml.push(foo)
@@ -139,16 +121,8 @@ test('it should not have broken PLZ_COPY', () => {
   expect(jsonDataBrokenCopy).toEqual([])
 })
 
-test('it should not have broken PLZ_CHECK', () => {
-  expect(jsonDataBrokenCheck).toEqual([])
-})
-
 test('it should not have broken PLZ_TRANSLATE', () => {
   expect(jsonDataBrokenTranslate).toEqual([])
-})
-
-test('it should not have PLZ_TRANSLATE in sv and en', () => {
-  expect(jsonDataTranslate).toEqual([])
 })
 
 test('it should not have uppercase in string keys', () => {

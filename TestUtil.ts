@@ -14,7 +14,6 @@ export const serverTextStringNames = [
   'goal_template_title',
   'goal_template_description'
 ]
-export const PLZ_CHECK = 'PLZ_CHECK'
 export const PLZ_TRANSLATE = 'PLZ_TRANSLATE'
 export const PLZ_COPY = 'PLZ_COPY'
 
@@ -40,13 +39,6 @@ export const compareKeys = (
     if (secondLang[key].indexOf('$ ') !== -1)
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
 
-    if (
-      secondLang[key] === 'PLZ_CHECK' &&
-      firstLang[key] === 'PLZ_CHECK' &&
-      firstLangName !== 'sv' &&
-      secondLangName === 'sv'
-    )
-      return true
     return true
   })
 
@@ -156,7 +148,7 @@ export const checkTemplateLenght = (langs: Record<string, string>, langName = ''
   const errorMessages: Array<string> = []
   keys.forEach((key) => {
     if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key)) {
-      langs[key] = langs[key].replace(PLZ_TRANSLATE, '').replace(PLZ_CHECK, '')
+      langs[key] = langs[key].replace(PLZ_TRANSLATE, '')
 
       if (langs[key].length > 30)
         errorMessages.push(`Lang: '${langName}', String: '${key}' exeeds 30 characters '${langs[key].length}'`)
@@ -191,7 +183,6 @@ export const checkBirgittaInconsistencies = (
   const errorMessages: Array<string> = []
 
   keys.forEach((key) => {
-    // if (firstLang[key].includes(PLZ_CHECK)) errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${PLZ_CHECK}`)
     // if (firstLang[key].startsWith(' ')) errorMessages.push(`lang: ${firstLangName} text_id:${key}  starts with a space`)
     if (firstLangName === 'en' && firstLang[key].includes(PLZ_TRANSLATE))
       errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${PLZ_TRANSLATE}`)
@@ -244,8 +235,6 @@ export const countTranslationTemplates = (lang: Record<string, string>, langName
   const countUsesTranslate = []
   keys.forEach((key) => {
     if (lang[key].includes(PLZ_TRANSLATE)) countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
-
-    if (lang[key].includes(PLZ_CHECK)) countUsesCheck.push(`Lang: ${langName}, Key: ${key}`)
   })
   return {
     lang: langName,
@@ -284,20 +273,17 @@ export const stringLengthStatistic = (
 
 export const stringTranslationTags = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
-  let numberPlzCheck = 0
   let numberPlzTransalte = 0
   let numberAnnaTranslation = 0
   let numberEmmaStrings = 0
   keys.forEach((key) => {
     if (languageCode) {
-      if (lang[key].includes(PLZ_CHECK)) numberPlzCheck++
       if (lang[key].includes(PLZ_TRANSLATE)) numberPlzTransalte++
       if (lang[key].includes(annaTranslationTag)) numberAnnaTranslation++
       if (lang[key].includes(emmaTranslationTag)) numberEmmaStrings++
     }
   })
   return {
-    plzCheck: numberPlzCheck,
     plzTrans: numberPlzTransalte,
     lang: languageCode,
     path: textStringsType,
@@ -409,31 +395,6 @@ export const searchBrokenPlzTranslate = (
     data: arrayPlzTranslate,
     brokenPLZTranslate: numberBrokenPlzTranslate
   }
-}
-
-export const searchBrokenPlzCheck = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
-  const keys = Object.keys(lang)
-
-  const arrayPlzCheck: Array<any> = []
-
-  let numberBrokenPlzCheck = 0
-  keys.forEach((key) => {
-    if (languageCode)
-      if (
-        (lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('CHECK') !== -1) &&
-        lang[key].indexOf('COPY') === -1 &&
-        lang[key].indexOf('TRANSLATE') === -1
-      )
-        if (!lang[key].includes(PLZ_CHECK)) {
-          numberBrokenPlzCheck++
-          arrayPlzCheck.push({
-            key: key,
-            lang: languageCode,
-            path: textStringsType
-          })
-        }
-  })
-  return {data: arrayPlzCheck, brokenPLZCheck: numberBrokenPlzCheck}
 }
 
 export const checkStringEmptySpace = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {

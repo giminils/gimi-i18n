@@ -34,7 +34,6 @@ describe('TextStrings', () => {
 
   test('test should show where we have PLZ_TRANSLATE', () => {
     const stringTagData: Array<any> = []
-    const jsonDataCheck: Array<any> = []
     const jsonDataTranslate: Array<any> = []
     const jsonEmmaTag: Array<any> = []
 
@@ -69,47 +68,7 @@ describe('TextStrings', () => {
       })
     })
 
-    // get plz Check
-    stringTagData.forEach((data) => {
-      const path = data.path ? data.path : 'client'
-      let isAdded = false
-      if (data.plzCheck > 0) {
-        for (let i = 0; i < jsonDataCheck.length; i++)
-          if (jsonDataCheck[i].lang === data.lang) {
-            jsonDataCheck[i].path.push(path)
-            jsonDataCheck[i].count.push(data.plzCheck)
-            jsonDataCheck[i].link.push(
-              '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
-                path +
-                '/' +
-                data.lang +
-                '.json|Click>'
-            )
-            isAdded = true
-          }
-
-        if (!isAdded) {
-          const displayObject: any = {
-            lang: '',
-            path: [],
-            count: [],
-            link: []
-          }
-          displayObject.lang = data.lang
-          displayObject.path.push(path)
-          displayObject.count.push(data.plzCheck)
-          displayObject.link.push(
-            '<https://gtesthub.com/Barnpengar/veckopengen-app-i18n-text-strings-/blob/master/text_strings/' +
-              path +
-              '/' +
-              data.lang +
-              '.json|Click>'
-          )
-          jsonDataCheck.push(displayObject)
-        }
-      }
-    })
-    // get plzTransalte
+    // get plzTranslate
     stringTagData.forEach((data) => {
       const path = data.path ? data.path : 'client'
       let isAdded = false
@@ -189,9 +148,7 @@ describe('TextStrings', () => {
         }
       }
     })
-    let text = `PLZ_CHECK
-    ${jsonDataCheck.map((i) => JSON.stringify(i)).join('\n')}
-    PLZ_TRANSLATE
+    let text = `PLZ_TRANSLATE
     ${jsonDataTranslate.map((i) => JSON.stringify(i)).join('\n')}`
     const textEmma = `Found Emma ${jsonEmmaTag.map((i) => JSON.stringify(i)).join('\n')}`
     // eslint-disable-next-line

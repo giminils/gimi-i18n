@@ -194,14 +194,12 @@ export const removeTranslationHelpers = (text: string): string => {
   text = text.replace(/\[.*?\]/g, '').trim()
   text = text.replace(new RegExp(translationHelpTemplate, 'g'), '')
   text = text.replace(new RegExp(translationHelperEMMA, 'g'), '')
-  text = text.replace(new RegExp(PLZ_CHECK, 'g'), '')
   text = text.replace(new RegExp(PLZ_COPY, 'g'), '')
   text = text.trim()
   return text
 }
 
 export const translationHelpTemplate = 'PLZ_TRANSLATE'
-export const PLZ_CHECK = 'PLZ_CHECK'
 export const PLZ_COPY = 'PLZ_COPY'
 export const translationHelperEMMA = 'EMMA'
 
