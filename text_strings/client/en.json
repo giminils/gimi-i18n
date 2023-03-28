@@ -2679,5 +2679,7 @@
   "shop_item_type_avatar_skin": "Avatar skin pack",
   "kid_profile_tab_shop": "Shop",
   "demo_account_will_be_deleted_popover": "The demo account will be deleted",
-  "demo_account_will_be_deleted_popover_description": "%1$d’s demo account currently contains %2$d. Why not screenshot this to remember?"
+  "demo_account_will_be_deleted_popover_description": "%1$d’s demo account currently contains %2$d. Why not screenshot this to remember?",
+  "confirm_purchase_skin_title": "Buy %1$d skin pack",
+  "confirm_purchase_skin_text": "The amount of stars will be deducted from your total!"
 }
