@@ -2676,6 +2676,7 @@
   "shop_takeover_title": "Koop skins voor je avatar in de Shop!",
   "shop_takeover_button_text": "Ga naar de Shop",
   "shop_is_empty_description": "Shop is leeg! Je hebt alle mogelijke skins gekocht.",
+  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin pack",
   "kid_profile_tab_shop": "Shop",
   "demo_account_will_be_deleted_popover": "PLZ_TRANSLATE The demo account will be deleted",
   "demo_account_will_be_deleted_popover_description": "PLZ_TRANSLATE %1$d’s demo account currently contains %2$d. Why not screenshot this to remember?"

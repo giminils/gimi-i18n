@@ -2676,6 +2676,7 @@
   "shop_takeover_title": "Buy avatar skins for your stars in the Shop!",
   "shop_takeover_button_text": "Go to the Shop",
   "shop_is_empty_description": "Shop is empty! You have purchased all available skins.",
+  "shop_item_type_avatar_skin": "Avatar skin pack",
   "kid_profile_tab_shop": "Shop",
   "demo_account_will_be_deleted_popover": "The demo account will be deleted",
   "demo_account_will_be_deleted_popover_description": "%1$d’s demo account currently contains %2$d. Why not screenshot this to remember?"

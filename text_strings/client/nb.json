@@ -2676,6 +2676,7 @@
   "shop_takeover_title": "Kjøp nye avatarer for stjernene dine i Shoppen",
   "shop_takeover_button_text": "Gå til Shoppen",
   "shop_is_empty_description": "Shoppen er tom! Du har kjøpt alle tilgjengelige avatarer.",
+  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin pack",
   "kid_profile_tab_shop": "Shop",
   "demo_account_will_be_deleted_popover": "PLZ_TRANSLATE The demo account will be deleted",
   "demo_account_will_be_deleted_popover_description": "PLZ_TRANSLATE %1$d’s demo account currently contains %2$d. Why not screenshot this to remember?"
