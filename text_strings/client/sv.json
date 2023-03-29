@@ -2678,8 +2678,8 @@
   "shop_is_empty_description": "Shoppen är tom! Du har köpt alla tillgängliga avatarer.",
   "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin pack",
   "kid_profile_tab_shop": "Shop",
-  "demo_account_will_be_deleted_popover": "PLZ_TRANSLATE The demo account will be deleted",
-  "demo_account_will_be_deleted_popover_description": "PLZ_TRANSLATE %1$d’s demo account currently contains %2$d. Why not screenshot this to remember?",
+  "demo_account_is_now_hidden_popover": "PLZ_TRANSLATE %1$d’s demo account is now hidden!",
+  "demo_account_is_now_hidden_popover_description": "PLZ_TRANSLATE It contained %1$d. Why not screenshot this to remember?",
   "confirm_purchase_skin_title": "PLZ_TRANSLATE Buy %1$d skin pack",
   "confirm_purchase_skin_text": "PLZ_TRANSLATE The amount of stars will be deducted from your total!"
 }
