@@ -2684,5 +2684,8 @@
   "demo_account_is_now_hidden_popover": "PLZ_TRANSLATE %1$d’s demo account is now hidden!",
   "demo_account_is_now_hidden_popover_description": "PLZ_TRANSLATE It contained %1$d. Why not screenshot this to remember?",
   "confirm_purchase_skin_title": "PLZ_TRANSLATE Buy %1$d skin pack",
-  "confirm_purchase_skin_text": "PLZ_TRANSLATE The amount of stars will be deducted from your total!"
+  "confirm_purchase_skin_text": "PLZ_TRANSLATE The amount of stars will be deducted from your total!",
+  "confirm_delete_bank_account_with_allowance_and_chores_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted, as well as the Allowance widget and Chores widget. You can always re-add the widgets later!",
+  "confirm_delete_bank_account_with_allowance_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted, as well as the Allowance widget. You can always re-add the widgets later!",
+  "confirm_delete_bank_account_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted. You can always re-add the widget later!"
 }
