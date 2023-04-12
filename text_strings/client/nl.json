@@ -2679,7 +2679,7 @@
   "shop_takeover_title": "Koop skins voor je avatar in de Shop!",
   "shop_takeover_button_text": "Ga naar de Shop",
   "shop_is_empty_description": "Shop is leeg! Je hebt alle mogelijke skins gekocht.",
-  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin pack",
+  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin",
   "kid_profile_tab_shop": "Shop",
   "demo_account_is_now_hidden_popover": "PLZ_TRANSLATE %1$d’s demo account is now hidden!",
   "demo_account_is_now_hidden_popover_description": "PLZ_TRANSLATE It contained %1$d. Why not screenshot this to remember?",
@@ -2689,3 +2689,4 @@
   "confirm_delete_bank_account_with_allowance_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted, as well as the Allowance widget. You can always re-add the widgets later!",
   "confirm_delete_bank_account_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted. You can always re-add the widget later!"
 }
+

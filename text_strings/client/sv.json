@@ -2679,7 +2679,7 @@
   "shop_takeover_title": "Köp nya avatarer för dina stjärnor i Shoppen!",
   "shop_takeover_button_text": "Gå till Shoppen",
   "shop_is_empty_description": "Shoppen är tom! Du har köpt alla tillgängliga avatarer.",
-  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin pack",
+  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin",
   "kid_profile_tab_shop": "Shop",
   "demo_account_is_now_hidden_popover": "%1$d’s demokonto är nu dolt!",
   "demo_account_is_now_hidden_popover_description": "Det innehöll %1$d. Varför inte ta en skärmdump för att komma ihåg?",
@@ -2689,3 +2689,4 @@
   "confirm_delete_bank_account_with_allowance_description": "All information i bankkonto-widgeten kommer raderas, inklusive widget för Vecko-/månadspeng. Du kan alltid lägga till widgets igen senare!",
   "confirm_delete_bank_account_description": "All information i bankkonto-widgeten kommer raderas. Du kan alltid lägga till widgets igen senare!"
 }
+

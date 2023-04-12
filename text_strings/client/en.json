@@ -2679,7 +2679,7 @@
   "shop_takeover_title": "Buy avatar skins for your stars in the Shop!",
   "shop_takeover_button_text": "Go to the Shop",
   "shop_is_empty_description": "Shop is empty! You have purchased all available skins.",
-  "shop_item_type_avatar_skin": "Avatar skin pack",
+  "shop_item_type_avatar_skin": "Avatar skin",
   "kid_profile_tab_shop": "Shop",
   "demo_account_is_now_hidden_popover": "%1$d’s demo account is now hidden!",
   "demo_account_is_now_hidden_popover_description": "It contained %1$d. Why not screenshot this to remember?",
@@ -2689,3 +2689,4 @@
   "confirm_delete_bank_account_with_allowance_description": "All data in the bank account widget will be deleted, as well as the Allowance widget. You can always re-add the widgets later!",
   "confirm_delete_bank_account_description": "All data in the bank account widget will be deleted. You can always re-add the widget later!"
 }
+
