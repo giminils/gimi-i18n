@@ -2687,6 +2687,9 @@
   "confirm_purchase_skin_text": "De hoeveelheid sterren zal worden afgetrokken van je totale aantal!",
   "confirm_delete_bank_account_with_allowance_and_chores_description": "Alle data van de Bankrekeningwidget zullen worden verwijderd, net als de Zakgeldwidget en de Klusjeswidget. Je kunt altijd later opnieuw widgets toevoegen!",
   "confirm_delete_bank_account_with_allowance_description": "Alle data van de Bankrekeningwidget zullen worden verwijderd, net als de Zakgeldwidget en de Klusjeswidget. Je kunt altijd later opnieuw widgets toevoegen!",
-  "confirm_delete_bank_account_description": "Alle data van de Bankrekeningwidget zullen worden verwijderd. Je kunt altijd later opnieuw widgets toevoegen!"
+  "confirm_delete_bank_account_description": "Alle data van de Bankrekeningwidget zullen worden verwijderd. Je kunt altijd later opnieuw widgets toevoegen!",
+  "skills_earn_x_stars": "PLZ_TRANSLATE Earn %1$d",
+  "skills_passed": "PLZ_TRANSLATE Passed!",
+  "skills_failed": "PLZ_TRANSLATE Failed!"
 }
 

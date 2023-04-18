@@ -2687,6 +2687,9 @@
   "confirm_purchase_skin_text": "PLZ_TRANSLATE The amount of stars will be deducted from your total!",
   "confirm_delete_bank_account_with_allowance_and_chores_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted, as well as the Allowance widget and Chores widget. You can always re-add the widgets later!",
   "confirm_delete_bank_account_with_allowance_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted, as well as the Allowance widget. You can always re-add the widgets later!",
-  "confirm_delete_bank_account_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted. You can always re-add the widget later!"
+  "confirm_delete_bank_account_description": "PLZ_TRANSLATE All data in the bank account widget will be deleted. You can always re-add the widget later!",
+  "skills_earn_x_stars": "PLZ_TRANSLATE Earn %1$d",
+  "skills_passed": "PLZ_TRANSLATE Passed!",
+  "skills_failed": "PLZ_TRANSLATE Failed!"
 }
 

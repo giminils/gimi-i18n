@@ -2687,6 +2687,9 @@
   "confirm_purchase_skin_text": "Antalet stjärnor kommer dras av från det du tjänat in!",
   "confirm_delete_bank_account_with_allowance_and_chores_description": "All information i bankkonto-widgeten kommer raderas, inklusive widget för Vecko-/månadspeng och widget för Sysslor. Du kan alltid lägga till widgets igen senare!",
   "confirm_delete_bank_account_with_allowance_description": "All information i bankkonto-widgeten kommer raderas, inklusive widget för Vecko-/månadspeng. Du kan alltid lägga till widgets igen senare!",
-  "confirm_delete_bank_account_description": "All information i bankkonto-widgeten kommer raderas. Du kan alltid lägga till widgets igen senare!"
+  "confirm_delete_bank_account_description": "All information i bankkonto-widgeten kommer raderas. Du kan alltid lägga till widgets igen senare!",
+  "skills_earn_x_stars": "PLZ_TRANSLATE Earn %1$d",
+  "skills_passed": "PLZ_TRANSLATE Passed!",
+  "skills_failed": "PLZ_TRANSLATE Failed!"
 }
 
