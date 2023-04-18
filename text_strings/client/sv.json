@@ -2679,17 +2679,17 @@
   "shop_takeover_title": "Köp nya avatarer för dina stjärnor i Shoppen!",
   "shop_takeover_button_text": "Gå till Shoppen",
   "shop_is_empty_description": "Shoppen är tom! Du har köpt alla tillgängliga avatarer.",
-  "shop_item_type_avatar_skin": "PLZ_TRANSLATE Avatar skin",
+  "shop_item_type_avatar_skin": "Avatarpaket",
   "kid_profile_tab_shop": "Shop",
   "demo_account_is_now_hidden_popover": "%1$d’s demokonto är nu dolt!",
   "demo_account_is_now_hidden_popover_description": "Det innehöll %1$d. Varför inte ta en skärmdump för att komma ihåg?",
-  "confirm_purchase_skin_title": "Köp %1$d skin pack",
+  "confirm_purchase_skin_title": "Köp paketet %1$d",
   "confirm_purchase_skin_text": "Antalet stjärnor kommer dras av från det du tjänat in!",
   "confirm_delete_bank_account_with_allowance_and_chores_description": "All information i bankkonto-widgeten kommer raderas, inklusive widget för Vecko-/månadspeng och widget för Sysslor. Du kan alltid lägga till widgets igen senare!",
   "confirm_delete_bank_account_with_allowance_description": "All information i bankkonto-widgeten kommer raderas, inklusive widget för Vecko-/månadspeng. Du kan alltid lägga till widgets igen senare!",
   "confirm_delete_bank_account_description": "All information i bankkonto-widgeten kommer raderas. Du kan alltid lägga till widgets igen senare!",
-  "skills_earn_x_stars": "PLZ_TRANSLATE Earn %1$d",
-  "skills_passed": "PLZ_TRANSLATE Passed!",
-  "skills_failed": "PLZ_TRANSLATE Failed!"
+  "skills_earn_x_stars": "Tjäna %1$d",
+  "skills_passed": "Godkänd!",
+  "skills_failed": "Ej godkänd!"
 }
 
