@@ -2664,7 +2664,7 @@
   "widget_description_allowance_locked_nodemo": "Activate the demo account first!",
   "widget_description_allowance": "Set up a weekly or monthly recurring allowance for %1$d.",
   "widget_description_learning_progress": "View %1$d’s learning progress in the different educational features in Gimi.",
-  "widget_activation_learning_progress_title": "Encourage %1$d to boost their financial learning through:",
+  "widget_activation_learning_progress_title": "Encourage %1$d to boost their financial learning",
   "widget_activation_learning_progress_button": "Add Learning Progress",
   "widget_activation_learning_progress_bullet_1": "40+ lessons and challenges in the Superskills Adventure",
   "widget_activation_learning_progress_bullet_2": "Financial Literacy quizzes",
