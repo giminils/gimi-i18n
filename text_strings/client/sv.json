@@ -2656,7 +2656,7 @@
   "widget_description_bank_account": "Anslut %1$ds existerande bankkonto till Gimi...",
   "widget_description_demo_account": "...eller öva med demopengar. Inga banköverföringar, endast en virtuell räknare.",
   "widget_description_demo_account_when_bank_account_disabled": "Håll koll på %1$ds besparingar med demopengar. Inga banköverföringar, bara en virtuell tracker.",
-  "widget_selector_you_have_added_all_available_widgets": "Du har lagt till alla tillgängliga widgets!",
+  "widget_selector_you_have_added_all_available_widgets": "Just nu finns inga fler widgets att lägga till, men vi jobbar på det. Kom tillbaka senare!",
   "widget_description_chores": "Uppmuntra %1$d att lära sig tjäna pengar genom att ge ut sysslor mot belöning!",
   "widget_description_chores_locked": "Lägg till vecko-/månadspeng först!",
   "widget_description_chores_for_second_parent_locked": "Sysslor betalas ut med vecko-/månadspengen. Ställ in den till minst %1$d för att aktivera den!",
