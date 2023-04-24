@@ -2664,7 +2664,7 @@
   "widget_description_allowance_locked_nodemo": "Aktiver demokontoen først!",
   "widget_description_allowance": "Sett en gjentakende ukepeng til %1$d.",
   "widget_description_learning_progress": "Hold oversikt over %1$ds fremgang i de ulike pedagogiske funksjonene i Gimi.",
-  "widget_activation_learning_progress_title": "Oppmuntre %1$d til å øke sine økonomiske ferdigheter gjennom:",
+  "widget_activation_learning_progress_title": "Oppmuntre %1$d til å øke sine økonomiske ferdigheter",
   "widget_activation_learning_progress_button": "Legg til Skills",
   "widget_activation_learning_progress_bullet_1": "40+ leksjoner og utfordringer i Superskills Adventure",
   "widget_activation_learning_progress_bullet_2": "Quiz om penger",
