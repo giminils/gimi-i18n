@@ -1,7 +1,7 @@
 {
-  "financial_literacy_test_1_name": "Korttest",
+  "financial_literacy_test_1_name": "Kort-testet",
   "financial_literacy_test_1_title": "Redo för ett kort? Bevisa det!",
-  "financial_literacy_test_1_description": "Ta korttestet! Visa dina skills! Berätta för hela världen!",
+  "financial_literacy_test_1_description": "Ta kort-testet! Visa dina skills! Berätta för hela världen!",
   "financial_literacy_test_1_question_1": "Hur kommer pengar in på ett kort?",
   "financial_literacy_test_1_question_2": "Kan du köpa hörlurar för 249kr om ditt saldo är 239kr?",
   "financial_literacy_test_1_question_3": "Vad ska du göra med kortets PIN-kod?",
@@ -143,7 +143,7 @@
   "financial_literacy_test_3_question_10_option_2": "Hon tar en risk",
   "financial_literacy_test_3_question_10_option_3": "Hon tjänar ränta",
   "financial_literacy_test_3_question_10_option_4": "Hon gör en investering",
-  "financial_literacy_test_4_name": "Spending test",
+  "financial_literacy_test_4_name": "Spendera-testet",
   "financial_literacy_test_4_title": "Hur är dina pengarskills?",
   "financial_literacy_test_4_description": "Gör Spendera-testet och få finansiella superskills!",
   "financial_literacy_test_4_question_1": "Maria ska shoppa inför skolstarten. Hur får hon pengarna att räcka?",
