@@ -2656,7 +2656,7 @@
   "widget_description_bank_account": "Koppel %1$d's bestaande bankrekening aan Gimi...",
   "widget_description_demo_account": "...of oefen met demo-geld. Geen banktransacties, alleen een virtuele geldtracker.",
   "widget_description_demo_account_when_bank_account_disabled": "Houd al %1$d's spaargeld bij met demo-zakgeld. Geen banktransacties, alleen een virtuele geldtracker.",
-  "widget_selector_you_have_added_all_available_widgets": "Je hebt alle mogelijke widgets toegevoegd!",
+  "widget_selector_you_have_added_all_available_widgets": "Je hebt alle mogelijke widgets toegevoegd, maar we werken aan nieuwe. Kom alsjeblieft later terug!",
   "widget_description_chores": "Moedig %1$d aan om te leren over geld verdienen door klusjes te doen voor belongingen!",
   "widget_description_chores_locked": "Stel eerst het zakgeld in!",
   "widget_description_chores_for_second_parent_locked": "Klusjes worden uitbetaald met het zakgeld. Verander het zakgeld minimaal naar %1$d om het te activeren!",
