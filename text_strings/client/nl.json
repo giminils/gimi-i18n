@@ -2690,6 +2690,14 @@
   "confirm_delete_bank_account_description": "Alle data van de Bankrekeningwidget zullen worden verwijderd. Je kunt altijd later opnieuw widgets toevoegen!",
   "skills_earn_x_stars": "PLZ_TRANSLATE Earn %1$d",
   "skills_passed": "PLZ_TRANSLATE Passed!",
-  "skills_failed": "PLZ_TRANSLATE Failed!"
+  "skills_failed": "PLZ_TRANSLATE Failed!",
+  "quiz_result_you_earned": "PLZ_TRANSLATE You earned:",
+  "quiz_result_you_earned_parent": "PLZ_TRANSLATE Earned:",
+  "quiz_result_correct_answers": "PLZ_TRANSLATE Correct answers:",
+  "quiz_result_correct_answers_parent": "PLZ_TRANSLATE Best result:",
+  "quiz_result_text_failed": "PLZ_TRANSLATE Oh no! You didn't pass. %1$d correct answers is needed. Try again!",
+  "quiz_result_text_failed_parent": "PLZ_TRANSLATE %1$d correct answers is needed to pass. Encourage your child to try again",
+  "quiz_result_text_passed": "PLZ_TRANSLATE Great work! You mastered this quiz and earned %1$d stars.",
+  "quiz_result_text_passed_parent": "PLZ_TRANSLATE Nice! Your child has learnt some new financial skills",
+  "quiz_result_text_passed_no_stars": "PLZ_TRANSLATE No more stars to earn here! You only earn stars the first time you pass"
 }
-
