@@ -2699,5 +2699,10 @@
   "quiz_result_text_failed_parent": "%1$d juiste antwoorden zijn nodig om te slagen. Moedig je kind aan het nog eens te proberen",
   "quiz_result_text_passed": "Goed gedaan! Je hebt de quiz gehaald en %1$d sterren verdiend.",
   "quiz_result_text_passed_parent": "Je kind heeft wat nieuwe financiële vaardigheden geleerd!",
-  "quiz_result_text_passed_no_stars": "Hier zijn geen sterren meer te verdienen! Je verdiend alleen de eerste keer dat je slaagt sterren"
+  "quiz_result_text_passed_no_stars": "Hier zijn geen sterren meer te verdienen! Je verdiend alleen de eerste keer dat je slaagt sterren",
+  "make_deposit_title": "PLZ_TRANSLATE How the deposit is made",
+  "make_deposit_info_title_1": "PLZ_TRANSLATE Choose your bank and authentificate yourself",
+  "make_deposit_info_title_2": "PLZ_TRANSLATE Select account to make the payment from",
+  "make_deposit_info_title_3": "PLZ_TRANSLATE Done! The payment will deposit shortly",
+  "make_deposit_info_title_4": "PLZ_TRANSLATE Done! The payment will deposit shortly"
 }

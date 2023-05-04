@@ -2699,5 +2699,10 @@
   "quiz_result_text_failed_parent": "%1$d correct answers is needed to pass. Encourage your child to try again",
   "quiz_result_text_passed": "Great work! You mastered this quiz and earned %1$d stars.",
   "quiz_result_text_passed_parent": "Nice! Your child has learnt some new financial skills",
-  "quiz_result_text_passed_no_stars": "No more stars to earn here! You only earn stars the first time you pass"
+  "quiz_result_text_passed_no_stars": "No more stars to earn here! You only earn stars the first time you pass",
+  "make_deposit_title": "How the deposit is made",
+  "make_deposit_info_title_1": "Specify the amount you wish to deposit",
+  "make_deposit_info_title_2": "Choose your bank and authentificate yourself",
+  "make_deposit_info_title_3": "Select account to make the payment from",
+  "make_deposit_info_title_4": "Done! The payment will deposit shortly"
 }
