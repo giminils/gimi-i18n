@@ -2694,7 +2694,7 @@
   "skills_result_you_earned": "Du tjente:",
   "skills_result_you_earned_parent": "Opptjent:",
   "skills_result_correct_answers": "Antall riktige svar:",
-  "skills_result_correct_answers_parent": "Beste result så langt:",
+  "skills_result_correct_answers_parent": "Beste resultat så langt:",
   "quiz_result_text_failed": "Så synd! Du besto ikke. %1$d riktige svar er nødvendig. Prøv igjen!",
   "quiz_result_text_failed_parent": "%1$d riktige svar kreves for å bestå. Oppmuntre barnet ditt til å prøve igjen.",
   "quiz_result_text_passed": "Godt jobbet! Du besto quizen og fikk %1$d stjerner.",
