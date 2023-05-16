@@ -2704,8 +2704,8 @@
   "challenge_result_text_passed": "Bra jobbat! Du tjänade %1$d stjärnor. Gå vidare till nästa berättelse för att lära dig mer.",
   "challenge_result_text_passed_no_stars": "Inga fler stjärnor att tjäna här! Du tjänar bara stjärnor första gången du blir godkänd.",
   "make_deposit_title": "PLZ_TRANSLATE How the deposit is made",
-  "make_deposit_info_title_1": "PLZ_TRANSLATE Choose your bank and authentificate yourself",
+  "make_deposit_info_title_1": "PLZ_TRANSLATE Specify the amount you wish to deposit",
   "make_deposit_info_title_2": "PLZ_TRANSLATE Choose your bank and authenticate yourself",
-  "make_deposit_info_title_3": "PLZ_TRANSLATE Done! The payment will deposit shortly",
+  "make_deposit_info_title_3": "PLZ_TRANSLATE Select account to make the payment from",
   "make_deposit_info_title_4": "PLZ_TRANSLATE Done! The payment will deposit shortly"
 }
