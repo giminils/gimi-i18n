@@ -2703,9 +2703,9 @@
   "challenge_result_text_failed": "Så synd! Du besto ikke. %1$d riktige svar er nødvendig. Gjenta utfordringen og forbedre poengsummen din!",
   "challenge_result_text_passed": "Godt jobbet! Du har fått %1$d stjerner. Fortsett til neste historie for å laere mer.",
   "challenge_result_text_passed_no_stars": "Ingen flere stjerner å tjene her! Du tjener kun stjerner første gang du består.",
-  "make_deposit_title": "PLZ_TRANSLATE How the deposit is made",
-  "make_deposit_info_title_1": "PLZ_TRANSLATE Specify the amount you wish to deposit",
-  "make_deposit_info_title_2": "PLZ_TRANSLATE Choose your bank and authenticate yourself",
-  "make_deposit_info_title_3": "PLZ_TRANSLATE Select account to make the payment from",
-  "make_deposit_info_title_4": "PLZ_TRANSLATE Done! The payment will deposit shortly"
+  "make_deposit_title": "Hvordan betalingen gjøres",
+  "make_deposit_info_title_1": "Skriv inn beløpet du ønsker å fylle på",
+  "make_deposit_info_title_2": "Velg din bank og autentiser",
+  "make_deposit_info_title_3": "Velg konto å betale fra",
+  "make_deposit_info_title_4": "Klar! Betalingen din vil bli behandlet snart"
 }
