@@ -2264,7 +2264,7 @@
   "premium_offer_subtitle_12": "Teach your child that money can grow if they save it.",
   "premium_offer_title_13": "Connect child’s bank account",
   "premium_offer_subtitle_13": "Use Gimi with real money, works with most banks.",
-  "tink_crendentials_refreshed_success": "Bank account is refreshed!",
+  "tink_credentials_refreshed_success": "Bank account is refreshed!",
   "delete_tink_user_popover_title": "Are you sure?",
   "delete_tink_user_popover_desc": "This will delete the bank connection. You can reconnect later!",
   "delete_tink_account_popover_title": "Are you sure?",
@@ -2705,5 +2705,12 @@
   "make_deposit_info_title_1": "Specify the amount you wish to top-up",
   "make_deposit_info_title_2": "Choose your bank and authenticate yourself",
   "make_deposit_info_title_3": "Select account to make the payment from",
-  "make_deposit_info_title_4": "Done! The payment will deposit shortly"
+  "make_deposit_info_title_4": "Done! The payment will deposit shortly",
+  "missing_bank_account_button_text": "I can't find the bank account",
+  "missing_bank_account_info_popover_title": "Bank account missing",
+  "missing_bank_account_info_popover_desc": "If the account is missing in the list it can be due to the following reasons:",
+  "missing_bank_account_info_popover_text_1": "• Your bank does not support connection to youth accounts.",
+  "missing_bank_account_info_popover_text_2": "• You are trying to connect a savings account. They are mostly not supported.",
+  "missing_bank_account_info_popover_text_3": "• You have some technical troubles with the bank connection. Refreshing the connection can help.",
+  "missing_bank_account_info_popover_refresh_button": "Refresh connection"
 }

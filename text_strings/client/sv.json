@@ -2264,7 +2264,7 @@
   "premium_offer_subtitle_12": "Lär ditt barn att pengar kan växa om man sparar dem.",
   "premium_offer_title_13": "Anslut barnets bankkonto",
   "premium_offer_subtitle_13": "Använd Gimi med riktiga pengar, funkar med de flesta banker.",
-  "tink_crendentials_refreshed_success": "Bankkontot är synkat!",
+  "tink_credentials_refreshed_success": "Bankkontot är synkat!",
   "delete_tink_user_popover_title": "Är du säker?",
   "delete_tink_user_popover_desc": "Bankanslutningen kommer raderas. Du kan återansluta senare!",
   "delete_tink_account_popover_title": "Är du säker?",
@@ -2705,5 +2705,12 @@
   "make_deposit_info_title_1": "Ange den summa du vill fylla på",
   "make_deposit_info_title_2": "Välj din bank och koppla med hjälp av bank-ID",
   "make_deposit_info_title_3": "Välj konto att betala från",
-  "make_deposit_info_title_4": "Klart! Din insättning kommer genomföras inom kort"
+  "make_deposit_info_title_4": "Klart! Din insättning kommer genomföras inom kort",
+  "missing_bank_account_button_text": "PLZ_TRANSLATE I can't find the bank account",
+  "missing_bank_account_info_popover_title": "PLZ_TRANSLATE Bank account missing",
+  "missing_bank_account_info_popover_desc": "PLZ_TRANSLATE If the account is missing in the list it can be due to the following reasons:",
+  "missing_bank_account_info_popover_text_1": "PLZ_TRANSLATE • Your bank does not support connection to youth accounts.",
+  "missing_bank_account_info_popover_text_2": "PLZ_TRANSLATE • You are trying to connect a savings account. They are mostly not supported.",
+  "missing_bank_account_info_popover_text_3": "PLZ_TRANSLATE • You have some technical troubles with the bank connection. Refreshing the connection can help.",
+  "missing_bank_account_info_popover_refresh_button": "PLZ_TRANSLATE Refresh connection"
 }
