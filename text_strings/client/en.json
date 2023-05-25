@@ -2689,6 +2689,7 @@
   "skills_earn_x_stars": "Earn %1$d",
   "skills_passed": "Passed!",
   "skills_failed": "Failed!",
+  "skills_not_started": "Not started",
   "skills_result_you_earned": "You earned:",
   "skills_result_you_earned_parent": "Earned:",
   "skills_result_correct_answers": "Correct answers:",

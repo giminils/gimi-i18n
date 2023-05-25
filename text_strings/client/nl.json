@@ -2689,6 +2689,7 @@
   "skills_earn_x_stars": "Verdien %1$d",
   "skills_passed": "Geslaagd!",
   "skills_failed": "Mislukt!",
+  "skills_not_started": "PLZ_TRANSLATE Not started",
   "skills_result_you_earned": "Je hebt verdiend:",
   "skills_result_you_earned_parent": "Verdiend:",
   "skills_result_correct_answers": "Juiste antwoorden:",
