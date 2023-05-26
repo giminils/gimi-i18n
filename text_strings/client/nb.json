@@ -2689,7 +2689,7 @@
   "skills_earn_x_stars": "Tjene %1$d",
   "skills_passed": "Godkjent!",
   "skills_failed": "Ikke godkjent!",
-  "skills_not_started": "PLZ_TRANSLATE Not started",
+  "skills_not_started": "Ikke begynt",
   "skills_result_you_earned": "Du tjente:",
   "skills_result_you_earned_parent": "Opptjent:",
   "skills_result_correct_answers": "Antall riktige svar:",
@@ -2707,11 +2707,11 @@
   "make_deposit_info_title_2": "Velg din bank og autentiser",
   "make_deposit_info_title_3": "Velg konto å betale fra",
   "make_deposit_info_title_4": "Klar! Betalingen din vil bli behandlet snart",
-  "missing_bank_account_button_text": "PLZ_TRANSLATE I can't find the bank account",
-  "missing_bank_account_info_popover_title": "PLZ_TRANSLATE Bank account missing",
-  "missing_bank_account_info_popover_desc": "PLZ_TRANSLATE If the account is missing in the list it can be due to the following reasons:",
-  "missing_bank_account_info_popover_text_1": "PLZ_TRANSLATE • Your bank does not support connection to youth accounts.",
-  "missing_bank_account_info_popover_text_2": "PLZ_TRANSLATE • You are trying to connect a savings account. They are mostly not supported.",
-  "missing_bank_account_info_popover_text_3": "PLZ_TRANSLATE • You have some technical troubles with the bank connection. Refreshing the connection can help.",
-  "missing_bank_account_info_popover_refresh_button": "PLZ_TRANSLATE Refresh connection"
+  "missing_bank_account_button_text": "Jeg finner ikke bankkontoen",
+  "missing_bank_account_info_popover_title": "Jeg finner ikke bankkontoen",
+  "missing_bank_account_info_popover_desc": "Hvis kontoen mangler i listen kan det skyldes følgende årsaker:",
+  "missing_bank_account_info_popover_text_1": "• Banken din støtter ikke tilknytning til barne- eller ungdomskontoer.",
+  "missing_bank_account_info_popover_text_2": "• Du prøver å koble til en sparekonto. De støttes stort sett ikke.",
+  "missing_bank_account_info_popover_text_3": "• Du har noen tekniske problemer med bankforbindelsen. Det kan hjelpe å oppdatere tilkoblingen.",
+  "missing_bank_account_info_popover_refresh_button": "Oppdatere tilkoblingen"
 }
