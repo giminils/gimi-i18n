@@ -2689,7 +2689,7 @@
   "skills_earn_x_stars": "Tjäna %1$d",
   "skills_passed": "Godkänd!",
   "skills_failed": "Ej godkänd!",
-  "skills_not_started": "PLZ_TRANSLATE Not started",
+  "skills_not_started": "Ej påbörjad",
   "skills_result_you_earned": "Du tjänade:",
   "skills_result_you_earned_parent": "Tjänade:",
   "skills_result_correct_answers": "Antal rätta svar:",
