@@ -2689,7 +2689,7 @@
   "skills_earn_x_stars": "Tjäna %1$d",
   "skills_passed": "Godkänd!",
   "skills_failed": "Ej godkänd!",
-  "skills_not_started": "PLZ_TRANSLATE Not started",
+  "skills_not_started": "Ej påbörjad",
   "skills_result_you_earned": "Du tjänade:",
   "skills_result_you_earned_parent": "Tjänade:",
   "skills_result_correct_answers": "Antal rätta svar:",
@@ -2707,11 +2707,11 @@
   "make_deposit_info_title_2": "Välj din bank och koppla med hjälp av bank-ID",
   "make_deposit_info_title_3": "Välj konto att betala från",
   "make_deposit_info_title_4": "Klart! Din insättning kommer genomföras inom kort",
-  "missing_bank_account_button_text": "PLZ_TRANSLATE I can't find the bank account",
-  "missing_bank_account_info_popover_title": "PLZ_TRANSLATE Bank account missing",
-  "missing_bank_account_info_popover_desc": "PLZ_TRANSLATE If the account is missing in the list it can be due to the following reasons:",
-  "missing_bank_account_info_popover_text_1": "PLZ_TRANSLATE • Your bank does not support connection to youth accounts.",
-  "missing_bank_account_info_popover_text_2": "PLZ_TRANSLATE • You are trying to connect a savings account. They are mostly not supported.",
-  "missing_bank_account_info_popover_text_3": "PLZ_TRANSLATE • You have some technical troubles with the bank connection. Refreshing the connection can help.",
-  "missing_bank_account_info_popover_refresh_button": "PLZ_TRANSLATE Refresh connection"
+  "missing_bank_account_button_text": "Jag kan inte se bankkontot",
+  "missing_bank_account_info_popover_title": "Jag kan inte se bankkontot",
+  "missing_bank_account_info_popover_desc": "Om kontot saknas kan det vara av följande anledningar:",
+  "missing_bank_account_info_popover_text_1": "• Din bank stöder inte anslutning av barn-/ungdomskonton.",
+  "missing_bank_account_info_popover_text_2": "• Du försöker ansluta ett sparkonto. Den anslutningen stöds oftast inte.",
+  "missing_bank_account_info_popover_text_3": "• Du har tekniska problem med bankanslutningen. Att förnya anslutningen kan hjälpa.",
+  "missing_bank_account_info_popover_refresh_button": "Förnya anslutning"
 }
