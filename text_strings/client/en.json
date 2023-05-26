@@ -2708,7 +2708,7 @@
   "make_deposit_info_title_3": "Select account to make the payment from",
   "make_deposit_info_title_4": "Done! The payment will deposit shortly",
   "missing_bank_account_button_text": "I can't find the bank account",
-  "missing_bank_account_info_popover_title": "Bank account missing",
+  "missing_bank_account_info_popover_title": "I can't find the bank account",
   "missing_bank_account_info_popover_desc": "If the account is missing in the list it can be due to the following reasons:",
   "missing_bank_account_info_popover_text_1": "• Your bank does not support connection to youth accounts.",
   "missing_bank_account_info_popover_text_2": "• You are trying to connect a savings account. They are mostly not supported.",
