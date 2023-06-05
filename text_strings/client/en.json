@@ -2690,6 +2690,7 @@
   "skills_passed": "Passed!",
   "skills_failed": "Failed!",
   "skills_not_started": "Not started",
+  "skills_in_progress": "In progress",
   "skills_result_you_earned": "You earned:",
   "skills_result_you_earned_parent": "Earned:",
   "skills_result_correct_answers": "Correct answers:",

@@ -2690,6 +2690,7 @@
   "skills_passed": "Godkänd!",
   "skills_failed": "Ej godkänd!",
   "skills_not_started": "Ej påbörjad",
+  "skills_in_progress": "PLZ_TRANSLATE In progress",
   "skills_result_you_earned": "Du tjänade:",
   "skills_result_you_earned_parent": "Tjänade:",
   "skills_result_correct_answers": "Antal rätta svar:",
