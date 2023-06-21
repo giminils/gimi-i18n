@@ -2714,5 +2714,6 @@
   "missing_bank_account_info_popover_text_1": "• Your bank does not support connection to youth accounts.",
   "missing_bank_account_info_popover_text_2": "• You are trying to connect a savings account. They are mostly not supported.",
   "missing_bank_account_info_popover_text_3": "• You have some technical troubles with the bank connection. Refreshing the connection can help.",
-  "missing_bank_account_info_popover_refresh_button": "Refresh connection"
+  "missing_bank_account_info_popover_refresh_button": "Refresh connection",
+  "general_bank_accounts": "Bank accounts"
 }

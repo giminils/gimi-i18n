@@ -2714,5 +2714,6 @@
   "missing_bank_account_info_popover_text_1": "• Din bank stöder inte anslutning av barn-/ungdomskonton.",
   "missing_bank_account_info_popover_text_2": "• Du försöker ansluta ett sparkonto. Den anslutningen stöds oftast inte.",
   "missing_bank_account_info_popover_text_3": "• Du har tekniska problem med bankanslutningen. Att förnya anslutningen kan hjälpa.",
-  "missing_bank_account_info_popover_refresh_button": "Förnya anslutning"
+  "missing_bank_account_info_popover_refresh_button": "Förnya anslutning",
+  "general_bank_accounts": "Bankkonton"
 }

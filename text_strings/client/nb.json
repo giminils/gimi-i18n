@@ -2714,5 +2714,6 @@
   "missing_bank_account_info_popover_text_1": "• Banken din støtter ikke tilknytning til barne- eller ungdomskontoer.",
   "missing_bank_account_info_popover_text_2": "• Du prøver å koble til en sparekonto. De støttes stort sett ikke.",
   "missing_bank_account_info_popover_text_3": "• Du har noen tekniske problemer med bankforbindelsen. Det kan hjelpe å oppdatere tilkoblingen.",
-  "missing_bank_account_info_popover_refresh_button": "Oppdatere tilkoblingen"
+  "missing_bank_account_info_popover_refresh_button": "Oppdatere tilkoblingen",
+  "general_bank_accounts": "Bankkontoer"
 }

@@ -2714,5 +2714,6 @@
   "missing_bank_account_info_popover_text_1": "• Je bank ondersteund geen jongerenrekeningen.",
   "missing_bank_account_info_popover_text_2": "• Je probeert een spaarrekening te koppelen. Deze worden meestal niet ondersteund.",
   "missing_bank_account_info_popover_text_3": "• Je ervaart technische problemen met de bankverbinding. Het vernieuwen van de verbinding kan helpen.",
-  "missing_bank_account_info_popover_refresh_button": "Vernieuw verbinding"
+  "missing_bank_account_info_popover_refresh_button": "Vernieuw verbinding",
+  "general_bank_accounts": "Bankrekeningen"
 }
