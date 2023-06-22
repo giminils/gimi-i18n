@@ -2715,5 +2715,8 @@
   "missing_bank_account_info_popover_text_2": "• Du prøver å koble til en sparekonto. De støttes stort sett ikke.",
   "missing_bank_account_info_popover_text_3": "• Du har noen tekniske problemer med bankforbindelsen. Det kan hjelpe å oppdatere tilkoblingen.",
   "missing_bank_account_info_popover_refresh_button": "Oppdatere tilkoblingen",
-  "general_bank_accounts": "Bankkontoer"
+  "general_bank_accounts": "Bankkontoer",
+  "transaction_details_takeover_title": "PLZ_TRANSLATE Deep dive into your purchases - follow your money in a new way!",
+  "transaction_details_takeover_primary_button": "PLZ_TRANSLATE View Transactions",
+  "transaction_details_takeover_secondary_button": "PLZ_TRANSLATE Skip for now"
 }

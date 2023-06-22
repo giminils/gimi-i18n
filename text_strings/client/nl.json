@@ -2715,5 +2715,8 @@
   "missing_bank_account_info_popover_text_2": "• Je probeert een spaarrekening te koppelen. Deze worden meestal niet ondersteund.",
   "missing_bank_account_info_popover_text_3": "• Je ervaart technische problemen met de bankverbinding. Het vernieuwen van de verbinding kan helpen.",
   "missing_bank_account_info_popover_refresh_button": "Vernieuw verbinding",
-  "general_bank_accounts": "Bankrekeningen"
+  "general_bank_accounts": "Bankrekeningen",
+  "transaction_details_takeover_title": "PLZ_TRANSLATE Deep dive into your purchases - follow your money in a new way!",
+  "transaction_details_takeover_primary_button": "PLZ_TRANSLATE View Transactions",
+  "transaction_details_takeover_secondary_button": "PLZ_TRANSLATE Skip for now"
 }
