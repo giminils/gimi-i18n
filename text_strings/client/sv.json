@@ -2718,5 +2718,6 @@
   "general_bank_accounts": "Bankkonton",
   "transaction_details_takeover_title": "Se din pengaresa på ett nytt sätt – djupdyk köp för köp!",
   "transaction_details_takeover_primary_button": "Se mina köp",
-  "transaction_details_takeover_secondary_button": "Hoppa över"
+  "transaction_details_takeover_secondary_button": "Hoppa över",
+  "transaction_evaluation_title": "PLZ_TRANSLATE Evaluation by %1$d"
 }

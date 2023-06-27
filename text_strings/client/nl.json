@@ -2718,5 +2718,6 @@
   "general_bank_accounts": "Bankrekeningen",
   "transaction_details_takeover_title": "PLZ_TRANSLATE Deep dive into your purchases - follow your money in a new way!",
   "transaction_details_takeover_primary_button": "PLZ_TRANSLATE View Transactions",
-  "transaction_details_takeover_secondary_button": "PLZ_TRANSLATE Skip for now"
+  "transaction_details_takeover_secondary_button": "PLZ_TRANSLATE Skip for now",
+  "transaction_evaluation_title": "PLZ_TRANSLATE Evaluation by %1$d"
 }
