@@ -2716,8 +2716,8 @@
   "missing_bank_account_info_popover_text_3": "• Je ervaart technische problemen met de bankverbinding. Het vernieuwen van de verbinding kan helpen.",
   "missing_bank_account_info_popover_refresh_button": "Vernieuw verbinding",
   "general_bank_accounts": "Bankrekeningen",
-  "transaction_details_takeover_title": "PLZ_TRANSLATE Deep dive into your purchases - follow your money in a new way!",
-  "transaction_details_takeover_primary_button": "PLZ_TRANSLATE View Transactions",
-  "transaction_details_takeover_secondary_button": "PLZ_TRANSLATE Skip for now",
-  "transaction_evaluation_title": "PLZ_TRANSLATE Evaluation by %1$d"
+  "transaction_details_takeover_title": "Duik in je aankopen - volg je geld op een nieuwe manier!",
+  "transaction_details_takeover_primary_button": "Bekijk transacties",
+  "transaction_details_takeover_secondary_button": "Sla voorlopig over",
+  "transaction_evaluation_title": "Evaluatie door %1$d"
 }
