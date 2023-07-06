@@ -2719,5 +2719,9 @@
   "transaction_details_takeover_title": "Deep dive into your purchases - follow your money in a new way!",
   "transaction_details_takeover_primary_button": "View Transactions",
   "transaction_details_takeover_secondary_button": "Skip for now",
-  "transaction_evaluation_title": "Evaluation by %1$d"
+  "transaction_evaluation_title": "Evaluation by %1$d",
+  "cannot_connect_to_other_child_popover_title": "Cannot connect to another child",
+  "cannot_connect_to_other_child_popover_text": "The contact you selected is already a gimi child user. You cannot connect to another child.",
+  "could_not_invite_all_contacts_popover_title": "One or more contacts could not be invited",
+  "could_not_invite_all_contacts_popover_text": "The following phone numbers could not be invited: %1$d"
 }
