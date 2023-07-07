@@ -2720,10 +2720,10 @@
   "transaction_details_takeover_primary_button": "Se mine kjøp",
   "transaction_details_takeover_secondary_button": "Hopp over",
   "transaction_evaluation_title": "Evaluering av %1$d",
-  "cannot_connect_to_other_child_popover_title": "PLZ_TRANSLATE Cannot connect to another child",
-  "cannot_connect_to_other_child_popover_text": "PLZ_TRANSLATE The contact you selected is already a gimi child user. You cannot connect to another child.",
-  "could_not_invite_all_contacts_popover_title": "PLZ_TRANSLATE One or more contacts could not be invited",
-  "could_not_invite_all_contacts_popover_text": "PLZ_TRANSLATE The following phone numbers could not be invited: %1$d",
-  "cannot_connect_with_yourself_error_text": "PLZ_TRANSLATE You cannot connect with yourself",
-  "cannot_connect_with_another_parent_error_text": "PLZ_TRANSLATE You cannot connect with another parent"
+  "cannot_connect_to_other_child_popover_title": "Kan ikke koble til et annet barn",
+  "cannot_connect_to_other_child_popover_text": "Kontakten du valgte er allerede en gimi-barnebruker. Du kan ikke koble til et annet barn.",
+  "could_not_invite_all_contacts_popover_title": "En eller flere kontakter kunne ikke inviteres",
+  "could_not_invite_all_contacts_popover_text": "Det oppsto problemer med følgende telefonnumre: %1$d",
+  "cannot_connect_with_yourself_error_text": "Du kan ikke koble til deg selv",
+  "cannot_connect_with_another_parent_error_text": "Du kan ikke koble til en annen forelder"
 }
