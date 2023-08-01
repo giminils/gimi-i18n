@@ -2725,5 +2725,7 @@
   "could_not_invite_all_contacts_popover_title": "En eller flere kontakter kunne ikke inviteres",
   "could_not_invite_all_contacts_popover_text": "Det oppsto problemer med følgende telefonnumre: %1$d",
   "cannot_connect_with_yourself_error_text": "Du kan ikke koble til deg selv",
-  "cannot_connect_with_another_parent_error_text": "Du kan ikke koble til en annen forelder"
+  "cannot_connect_with_another_parent_error_text": "Du kan ikke koble til en annen forelder",
+  "shop_purchased_items_header": "Kjøpte varer",
+  "shop_purchased_items_button": "Kjøpt"
 }

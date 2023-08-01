@@ -2725,5 +2725,7 @@
   "could_not_invite_all_contacts_popover_title": "One or more contacts could not be invited",
   "could_not_invite_all_contacts_popover_text": "The following phone numbers could not be invited: %1$d",
   "cannot_connect_with_yourself_error_text": "You cannot connect with yourself",
-  "cannot_connect_with_another_parent_error_text": "You cannot connect with another parent"
+  "cannot_connect_with_another_parent_error_text": "You cannot connect with another parent",
+  "shop_purchased_items_header": "Purchased items",
+  "shop_purchased_items_button": "Owned"
 }
