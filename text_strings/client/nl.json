@@ -2727,5 +2727,8 @@
   "cannot_connect_with_yourself_error_text": "Je kunt geen verbinding maken met jezelf",
   "cannot_connect_with_another_parent_error_text": "Je kunt geen verbinding maken met een andere ouder",
   "shop_purchased_items_header": "Gekochte artikelen",
-  "shop_purchased_items_button": "Eigendom"
+  "shop_purchased_items_button": "Eigendom",
+  "general_user_account": "PLZ_TRANSLATE Your account",
+  "weekly_events_count": "PLZ_TRANSLATE %1$d events this week",
+  "weekly_transactions_count": "PLZ_TRANSLATE %1$d transactions this week"
 }

@@ -2727,5 +2727,8 @@
   "cannot_connect_with_yourself_error_text": "Du kan inte koppla ihop med dig själv",
   "cannot_connect_with_another_parent_error_text": "Du kan inte koppla ihop med en annan förälder",
   "shop_purchased_items_header": "Köpta varor",
-  "shop_purchased_items_button": "Köpt"
+  "shop_purchased_items_button": "Köpt",
+  "general_user_account": "Ditt konto",
+  "weekly_events_count": "%1$d händelser denna vecka",
+  "weekly_transactions_count": "%1$d transaktioner denna vecka"
 }

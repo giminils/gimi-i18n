@@ -2727,5 +2727,8 @@
   "cannot_connect_with_yourself_error_text": "Du kan ikke koble til deg selv",
   "cannot_connect_with_another_parent_error_text": "Du kan ikke koble til en annen forelder",
   "shop_purchased_items_header": "Kjøpte varer",
-  "shop_purchased_items_button": "Kjøpt"
+  "shop_purchased_items_button": "Kjøpt",
+  "general_user_account": "Kontoen din",
+  "weekly_events_count": "%1$d hendelser denne uken",
+  "weekly_transactions_count": "%1$d transaksjoner denne uken"
 }

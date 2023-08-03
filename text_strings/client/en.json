@@ -2727,5 +2727,8 @@
   "cannot_connect_with_yourself_error_text": "You cannot connect with yourself",
   "cannot_connect_with_another_parent_error_text": "You cannot connect with another parent",
   "shop_purchased_items_header": "Purchased items",
-  "shop_purchased_items_button": "Owned"
+  "shop_purchased_items_button": "Owned",
+  "general_user_account": "Your account",
+  "weekly_events_count": "%1$d events this week",
+  "weekly_transactions_count": "%1$d transactions this week"
 }
