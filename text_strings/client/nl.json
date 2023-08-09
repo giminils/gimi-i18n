@@ -2711,7 +2711,7 @@
   "missing_bank_account_button_text": "Ik kan de bankrekening niet vinden",
   "missing_bank_account_info_popover_title": "Er mist een bankrekening",
   "missing_bank_account_info_popover_desc": "Als de rekening mist uit de lijst, kan dat door de volgende redenen komen:",
-  "missing_bank_account_info_popover_text_1": "• Je bank ondersteund geen jongerenrekeningen.",
+  "missing_bank_account_info_popover_text_1": "• Je bank ondersteunt geen jongerenrekeningen.",
   "missing_bank_account_info_popover_text_2": "• Je probeert een spaarrekening te koppelen. Deze worden meestal niet ondersteund.",
   "missing_bank_account_info_popover_text_3": "• Je ervaart technische problemen met de bankverbinding. Het vernieuwen van de verbinding kan helpen.",
   "missing_bank_account_info_popover_refresh_button": "Vernieuw verbinding",
@@ -2728,7 +2728,7 @@
   "cannot_connect_with_another_parent_error_text": "Je kunt geen verbinding maken met een andere ouder",
   "shop_purchased_items_header": "Gekochte artikelen",
   "shop_purchased_items_button": "Eigendom",
-  "general_user_account": "PLZ_TRANSLATE Your account",
-  "weekly_events_count": "PLZ_TRANSLATE %1$d events this week",
-  "weekly_transactions_count": "PLZ_TRANSLATE %1$d transactions this week"
+  "general_user_account": "Je account",
+  "weekly_events_count": "%1$d evenementen deze week",
+  "weekly_transactions_count": "%1$d Transacties deze week"
 }
