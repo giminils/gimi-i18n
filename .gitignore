@@ -16,3 +16,6 @@ yarn-error.log
 package-lock.json
 
 utils/dest/*
+
+# Ignore volta dir
+~/
