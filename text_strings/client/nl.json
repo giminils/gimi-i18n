@@ -2748,5 +2748,11 @@
   "pfs_take_over_bonus_p2": "PLZ_TRANSLATE Sparbonus",
   "pfs_take_over_superskills_p2": "PLZ_TRANSLATE Superskills adventure",
   "pfs_take_over_family_missions_p2": "PLZ_TRANSLATE Familjeuppdrag",
-  "pfs_take_over_news_p2": "PLZ_TRANSLATE Nyhet"
+  "pfs_take_over_news_p2": "PLZ_TRANSLATE Nyhet",
+  "pfs_take_over_header_p3": "PLZ_TRANSLATE Vad händer när?",
+  "pfs_take_over_first_paragraph_p3": "PLZ_TRANSLATE Gott om tid att skaffa nytt ungdomskonto åt ditt barn om ni inte redan har ett. De banker som i dagsläget fungerar bäst med Gimi är Handelsbanken, Ica Banken och Danske Bank.",
+  "pfs_take_over_second_paragraph_p3": "PLZ_TRANSLATE Nu öppnas möjligheten för dig som kortanvändare att koppla ett bankkonto till Gimi och få appen precis som du är van vid!",
+  "pfs_take_over_third_paragraph_p3": "PLZ_TRANSLATE Betala går fortfarande. Det är inte längre möjligt att fylla på pengar på ditt Gimi-kort.",
+  "pfs_take_over_fouth_paragraph_p3": "PLZ_TRANSLATE Ditt Gimi-kort slutar att fungera och din prenumeration kommer fortsätta till det lägre priset.",
+  "pfs_take_over_link_paragraph_p3": "PLZ_TRANSLATE Läs uppsägningsmeddelandet här."
 }
