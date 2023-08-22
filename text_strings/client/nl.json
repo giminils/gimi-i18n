@@ -2731,6 +2731,7 @@
   "shop_purchased_items_header": "Gekochte artikelen",
   "shop_purchased_items_button": "Eigendom",
   "general_user_account": "Je account",
+  "pfs_information_banner_text": "PLZ_TRANSLATE Important information about your Gimi-card",
   "weekly_events_count": "%1$d evenementen deze week",
   "weekly_transactions_count": "%1$d Transacties deze week"
 }

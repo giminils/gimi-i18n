@@ -2731,6 +2731,7 @@
   "shop_purchased_items_header": "Purchased items",
   "shop_purchased_items_button": "Owned",
   "general_user_account": "Your account",
+  "pfs_information_banner_text": "Important information about your Gimi-card",
   "weekly_events_count": "%1$d events this week",
   "weekly_transactions_count": "%1$d transactions this week"
 }

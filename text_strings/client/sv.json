@@ -2731,6 +2731,7 @@
   "shop_purchased_items_header": "Köpta varor",
   "shop_purchased_items_button": "Köpt",
   "general_user_account": "Ditt konto",
+  "pfs_information_banner_text": "Viktig information om ditt Gimi-kort",
   "weekly_events_count": "%1$d händelser denna vecka",
   "weekly_transactions_count": "%1$d transaktioner denna vecka"
 }
