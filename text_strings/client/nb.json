@@ -2737,5 +2737,5 @@
   "pfs_take_over_header_p1": "PLZ_TRANSLATE Gimi-kortet läggs ned",
   "pfs_take_over_first_paragraph_p1": "PLZ_TRANSLATE Kortet som följt med din prenumeration av Gimi kommer att försvinna. Förändringen är ett steg i att göra appen mer fokuserad på finansiell utbildning för barn.",
   "pfs_take_over_reduction_percent_banner_p1": "PLZ_TRANSLATE Vi sänker din prenumeration med %1$d%",
-  "pfs_take_over_second_paragraph_p1": "PLZ_TRANSLATE Som tack för att du är en trogen Gimi-användare sänker vi idag priset på din prenumeration från %1$d/mån till %1$d/mån."
+  "pfs_take_over_second_paragraph_p1": "PLZ_TRANSLATE Som tack för att du är en trogen Gimi-användare sänker vi idag priset på din prenumeration från %1$d/mån till %2$d/mån."
 }
