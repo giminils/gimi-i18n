@@ -2755,5 +2755,11 @@
   "pfs_take_over_second_paragraph_p3": "PLZ_TRANSLATE Nu öppnas möjligheten för dig som kortanvändare att koppla ett bankkonto till Gimi och få appen precis som du är van vid!",
   "pfs_take_over_third_paragraph_p3": "PLZ_TRANSLATE Betala går fortfarande. Det är inte längre möjligt att fylla på pengar på ditt Gimi-kort.",
   "pfs_take_over_fouth_paragraph_p3": "PLZ_TRANSLATE Ditt Gimi-kort slutar att fungera och din prenumeration kommer fortsätta till det lägre priset.",
-  "pfs_take_over_link_paragraph_p3": "PLZ_TRANSLATE Läs hela uppsägningsmeddelandet från Gimi."
+  "pfs_take_over_link_paragraph_p3": "PLZ_TRANSLATE Läs hela uppsägningsmeddelandet från Gimi.",
+  "pfs_take_over_header_p4": "PLZ_TRANSLATE Vi hjälper dig",
+  "pfs_take_over_question_1_p4": "PLZ_TRANSLATE Hur får jag tillbaka kvarvarande saldo på kortet och valvet?",
+  "pfs_take_over_question_2_p4": "PLZ_TRANSLATE Hur gör jag om jag vill avsluta min prenumeration? ",
+  "pfs_take_over_question_3_p4": "PLZ_TRANSLATE Vilken bank ska jag välja till mitt barn?",
+  "pfs_take_over_text_banner_p4": "PLZ_TRANSLATE Har du andra frågor?",
+  "pfs_take_over_footer_text_p4": "PLZ_TRANSLATE Vår support finns nära till hands, <bold>läs mer i vår FAQ eller ställ din frågor direkt till oss.</bold>"
 }
