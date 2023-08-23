@@ -524,7 +524,7 @@
   "general_yes_leave": "Ja, lämna",
   "go_back": "Gå tillbaka",
   "question_cancel_subscription": "Är du säker på att du vill avsluta Gimi Master?",
-  "cancel_subscription_descr": "Gimi-kortet kommer att stängas när perioden du har betalat för är slut. Gå till App Store eller Play Store för att avsluta!",
+  "cancel_subscription_descr": "Gå till App Store eller Play Store för att avsluta!",
   "general_yes_cancel": "Ja, avsluta",
   "wrong_pin_entered": "Fel lösenkod",
   "card_settings_active": "Kortet är aktiverat",
