@@ -524,7 +524,7 @@
   "general_yes_leave": "Yes, leave",
   "go_back": "Go back",
   "question_cancel_subscription": "Are you sure you want to cancel the subscription?",
-  "cancel_subscription_descr": "The Gimi card will be closed when the period you've paid for is over. Go to App Store or Play Store to cancel!",
+  "cancel_subscription_descr": "Go to App Store or Play Store to cancel!",
   "general_yes_cancel": "Yes, cancel",
   "wrong_pin_entered": "Wrong passcode",
   "card_settings_active": "Card is active",
