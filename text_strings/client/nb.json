@@ -524,7 +524,7 @@
   "general_yes_leave": "Ja, avbryt",
   "go_back": "Gå tilbake",
   "question_cancel_subscription": "Er du sikker på at du vil si opp abonnementet?",
-  "cancel_subscription_descr": "Gimi-kortet stenges når perioden du har betalt for er over. Gå til App Store eller Play Store for å avbryte!",
+  "cancel_subscription_descr": "Gå til App Store eller Play Store for å avbryte!",
   "general_yes_cancel": "Ja, avbestill",
   "wrong_pin_entered": "Feil kode",
   "card_settings_active": "Kortet er aktivt",
