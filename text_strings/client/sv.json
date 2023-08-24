@@ -2762,5 +2762,11 @@
   "pfs_take_over_question_2_p4": "Hur gör jag om jag vill avsluta min prenumeration? ",
   "pfs_take_over_question_3_p4": "Vilken bank ska jag välja till mitt barn?",
   "pfs_take_over_text_banner_p4": "Har du andra frågor?",
-  "pfs_take_over_footer_text_p4": "Vår support finns nära till hands, <bold>läs mer i vår FAQ eller ställ din frågor direkt till oss.</bold>"
+  "pfs_take_over_footer_text_p4": "Vår support finns nära till hands, <bold>läs mer i vår FAQ eller ställ din frågor direkt till oss.</bold>",
+  "pro_take_over_header_p1": "Tack för att du är en superförälder!",
+  "pro_take_over_banner1_p1": "Barn som använder bankkonto",
+  "pro_take_over_banner2_p1": "blir bättre på ekonomi",
+  "pro_take_over_banner3_p1": "Nu lanseras Pro!",
+  "pro_take_over_offer_text_p1": "Just nu får du %1$d% rabatt!",
+  "pro_take_over_upgrade_p1": "Uppgradera"
 }
