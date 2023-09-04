@@ -193,5 +193,6 @@
   "login_email_greeting": "Hola",
   "login_email_paragraph_part_1": "Ingresa el código",
   "login_email_paragraph_part_2": "en tu aplicación Gimi o haz clic en el siguiente botón para iniciar sesión. ¡Nos vemos del otro lado! 👋",
-  "login_email_button_text": "INICIAR SESIÓN"
+  "login_email_button_text": "INICIAR SESIÓN",
+  "push_pro_launch": "PLZ_TRANSLATE Viktig information om förändringar i Gimi-appen – nu lanseras Pro"
 }

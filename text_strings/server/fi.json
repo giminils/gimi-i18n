@@ -193,5 +193,6 @@
   "login_email_greeting": "Hei",
   "login_email_paragraph_part_1": "Syötä koodi",
   "login_email_paragraph_part_2": "Gimi-sovelluksessa tai klikkaa alla olevaa painiketta kirjautuaksesi sisään. Nähdään siellä! 👋",
-  "login_email_button_text": "KIRJAUDU SISÄÄN"
+  "login_email_button_text": "KIRJAUDU SISÄÄN",
+  "push_pro_launch": "PLZ_TRANSLATE Viktig information om förändringar i Gimi-appen – nu lanseras Pro"
 }
