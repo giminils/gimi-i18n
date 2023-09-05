@@ -2787,5 +2787,19 @@
   "pro_take_over_disclaimer_p2": "Priset gäller per barn och om du tecknar prenumeration före 7 oktober.",
   "pro_take_over_question_1_p4": "Vilka banker funkar att koppla till Gimi?",
   "pro_take_over_question_2_p4": "Vad händer med mina funktioner om jag inte börjar prenumerera?",
-  "pro_take_over_question_3_p4": "Hur länge gäller det här priset om jag väljer att uppgradera till Pro?"
+  "pro_take_over_question_3_p4": "Hur länge gäller det här priset om jag väljer att uppgradera till Pro?",
+  "pfs_take_over_title_p5": "Med Dreams kan familjens drömmar bli verklighet!",
+  "pfs_take_over_offer_p5": "Gör ert sparande automatiskt och kul på samma gång. Skaffa Dreamskortet och få 100 kronor i startbonus.",
+  "pfs_take_over_offer_1_p5": "Ladda ner Dreams och aktivera kortet",
+  "pfs_take_over_offer_2_p5": "Ange koden “Gimi100” vid inlogg",
+  "pfs_take_over_offer_3_p5": "Börja spara och få 100 kr i bonus!",
+  "pfs_take_over_circle_p5": "+100 kr",
+  "pfs_take_over_offer_disclaimer_p5": "Erbjudandet gäller från XXXXXX t.o.m XXXXXX – endast för nya Dreamskunder! Den som tecknar måste vara minst 18 år.",
+  "pfs_take_over_offer_banner_p5": "Uppfyll familjens drömmar med Dreams",
+  "pfs_take_over_offer_dreams_card_p5": "Dreamskortet ger er möjlighet att enkelt skapa sparrutiner, nå sparmål och uppfylla era drömmar.",
+  "pfs_take_over_offer_dreams_card_1_p5": "Få tillgång till roliga sparhack som hjälper er att spendera mindre",
+  "pfs_take_over_offer_dreams_card_2_p5": "Få upp till 500 kr cashback varje månad på era gröna köp (SJ, Blocket, Tradera)",
+  "pfs_take_over_offer_dreams_card_3_p5": "Få full koll på era utgifter med vårt smarta budgetverktyg",
+  "pfs_go_to_offer_button_p5": "Ta del av erbjudandet",
+  "general_offer": "Erbjudande"
 }
