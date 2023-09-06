@@ -2741,7 +2741,7 @@
   "pfs_take_over_reduction_percent_banner_p1": "Your Gimi will be %1$d% cheaper",
   "pfs_take_over_second_paragraph_p1": "As a consequence of the card closing we will compensate you by lowering the price for your subscription. Current price: From %1$d/mon. New price: From %2$d/mon.",
   "pfs_take_over_header_p2": "The new deal",
-  "pfs_take_over_blue_box_p2": "All functions you have now, except the Gimi card and the Vault, for only %1$d/mon instead of the current %2$d/mon.",
+  "pfs_take_over_blue_box_p2": "All functions you have now, except the Gimi card and the Vault, but to a lower price.",
   "pfs_take_over_bank_account_p2": "Connect a youth account from a bank to Gimi",
   "pfs_take_over_bank_account_bullet1_p2": "View balance and transactions",
   "pfs_take_over_bank_account_bullet2_p2": "Weekly stats and overview",
