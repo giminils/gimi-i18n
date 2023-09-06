@@ -194,5 +194,6 @@
   "login_email_paragraph_part_1": "Inserisci il codice",
   "login_email_paragraph_part_2": "nella tua app Gimi o clicca il tasto qui sotto per fare l’accesso. Ci vediamo dall’altra parte! 👋",
   "login_email_button_text": "ACCEDI",
-  "push_pro_launch": "PLZ_TRANSLATE Viktig information om förändringar i Gimi-appen – nu lanseras Pro"
+  "push_pro_launch": "PLZ_TRANSLATE Viktig information om förändringar i Gimi-appen – nu lanseras Pro",
+  "push_pfs_shutdown": "PLZ_TRANSLATE Viktig information om ditt Gimi-kort"
 }
