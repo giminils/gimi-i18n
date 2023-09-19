@@ -2802,5 +2802,9 @@
   "pfs_take_over_offer_dreams_card_2_p5": "Få upp till 500 kr cashback varje månad på era gröna köp (SJ, Blocket, Tradera)",
   "pfs_take_over_offer_dreams_card_3_p5": "Få full koll på era utgifter med vårt smarta budgetverktyg",
   "pfs_go_to_offer_button_p5": "Ta del av erbjudandet",
-  "general_offer": "Erbjudande"
+  "general_offer": "Erbjudande",
+  "feedback_intercom_popup_title": "PLZ_TRANSLATE We would love to hear your ideas",
+  "feedback_intercom_popup_description": "PLZ_TRANSLATE We need your input to make Gimi as good as it can be! Help us by letting us know how we can improve?",
+  "feedback_intercom_popup_proceed_btn": "PLZ_TRANSLATE Give feedback",
+  "feedback_intercom_popup_close_btn": "PLZ_TRANSLATE Not now"
 }

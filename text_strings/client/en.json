@@ -2802,5 +2802,9 @@
   "pfs_take_over_offer_dreams_card_2_p5": "Get up to 500 kr cashback each month on your green choices (SJ, Blocket, Tradera)",
   "pfs_take_over_offer_dreams_card_3_p5": "Keep track of your expenses with our smart budgeting tool",
   "pfs_go_to_offer_button_p5": "Take the offer",
-  "general_offer": "Offer"
+  "general_offer": "Offer",
+  "feedback_intercom_popup_title": "We would love to hear your ideas",
+  "feedback_intercom_popup_description": "We need your input to make Gimi as good as it can be! Help us by letting us know how we can improve?",
+  "feedback_intercom_popup_proceed_btn": "Give feedback",
+  "feedback_intercom_popup_close_btn": "Not now"
 }
