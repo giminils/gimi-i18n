@@ -1178,7 +1178,7 @@
   "shareable_upgraded_to_master_title": "Uppgraderad till Pro",
   "general_subscription_type": "Prenumeration: %1$d",
   "general_master_forever": "Gimi Forever",
-  "subscription_will_expire_in": "Du behöver en aktiv prenumeration för att använda Gimi-kortet. Denna går ut om %1$d dagar. ",
+  "subscription_will_expire_in": "Din prenumeration går ut om %1$d dagar. ",
   "general_renew_now": "Förnya",
   "card_blocked_status_c_popover_title": "Ditt kort har spärrats",
   "card_blocked_status_c_popover_desc": "Det kan bero på flera saker. Kontakta oss så hjälper vi dig!",
