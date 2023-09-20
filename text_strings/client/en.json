@@ -2806,5 +2806,9 @@
   "feedback_intercom_popup_title": "We would love to hear your ideas",
   "feedback_intercom_popup_description": "We need your input to make Gimi as good as it can be! Help us by letting us know how we can improve?",
   "feedback_intercom_popup_proceed_btn": "Give feedback",
-  "feedback_intercom_popup_close_btn": "Not now"
+  "feedback_intercom_popup_close_btn": "Not now",
+  "user_satisfaction_popover_title": "What do you think of Gimi?",
+  "user_satisfaction_popover_button_1": "I really like Gimi!",
+  "user_satisfaction_popover_button_2": "I like Gimi, but I think it can improve.",
+  "user_satisfaction_popover_button_3": "I’m not pleased with Gimi."
 }
