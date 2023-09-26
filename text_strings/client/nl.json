@@ -879,7 +879,7 @@
   "qr_code_used_popover_title": "Herlaad code",
   "qr_code_used_popover_text": "Herlaad de QR code elke keer als je met iemand verbind.",
   "chore_overview_completed_at": "Voltooid op: %1$d",
-  "amount_too_high_error": "Je kunt niet meer aftrekken dan er op rekening staat!",
+  "amount_too_high_error": "Te hoog bedrag – probeer een lager!",
   "purchase_done_redirecting": "Aankoop van abonnement succesvol!",
   "iap_scroll_to_read_terms": "Met doorgaan accepteer je de gebruiksvoorwaarden",
   "kid_help_card_invite_title": "Verzamel de familie",
