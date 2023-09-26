@@ -1724,12 +1724,12 @@
   "pfs_take_over_offer_dreams_card_3_p5": "Keep track of your expenses with our smart budgeting tool",
   "pfs_go_to_offer_button_p5": "Take the offer",
   "general_offer": "Offer",
-  "feedback_intercom_popup_title": "PLZ_TRANSLATE We would love to hear your ideas",
-  "feedback_intercom_popup_description": "PLZ_TRANSLATE We need your input to make Gimi as good as it can be! Help us by letting us know how we can improve?",
-  "feedback_intercom_popup_proceed_btn": "PLZ_TRANSLATE Give feedback",
-  "feedback_intercom_popup_close_btn": "PLZ_TRANSLATE Not now",
-  "user_satisfaction_popover_title": "PLZ_TRANSLATE What do you think of Gimi?",
-  "user_satisfaction_popover_button_1": "PLZ_TRANSLATE I really like Gimi!",
-  "user_satisfaction_popover_button_2": "PLZ_TRANSLATE I like Gimi, but I think it can improve.",
-  "user_satisfaction_popover_button_3": "PLZ_TRANSLATE I’m not pleased with Gimi."
+  "feedback_intercom_popup_title": "Hjelp oss å bli bedre",
+  "feedback_intercom_popup_description": ""Vi ønsker å høre dine synspunkter for å skjerpe oss. Skriv en setning eller to, så kan det hjelpe alle!"?",
+  "feedback_intercom_popup_proceed_btn": "Jeg vil hjelpe",
+  "feedback_intercom_popup_close_btn": "Ikke nå",
+  "user_satisfaction_popover_title": "Hva synes du om Gimi?",
+  "user_satisfaction_popover_button_1": "Jeg liker veldig godt Gimi!",
+  "user_satisfaction_popover_button_2": "Jeg liker Gimi, men jeg tror det kan bli bedre.",
+  "user_satisfaction_popover_button_3": "Jeg er ikke fornøyd med Gimi."
 }
