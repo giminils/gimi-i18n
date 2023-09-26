@@ -879,7 +879,7 @@
   "qr_code_used_popover_title": "Reload code",
   "qr_code_used_popover_text": "Reload the QR code each time you connect with someone.",
   "chore_overview_completed_at": "Completed on: %1$d",
-  "amount_too_high_error": "Can't deduct more than what's on the account!",
+  "amount_too_high_error": "Too high amount – try a lower!",
   "purchase_done_redirecting": "Subscription started successfully!",
   "iap_scroll_to_read_terms": "By continuing, you accept the user terms",
   "kid_help_card_invite_title": "Let's get your family in here too!",
