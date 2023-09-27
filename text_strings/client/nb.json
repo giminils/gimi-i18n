@@ -879,7 +879,7 @@
   "qr_code_used_popover_title": "Last inn koden på nytt",
   "qr_code_used_popover_text": "Last inn QR-koden på nytt hver gang du kobler til noen.",
   "chore_overview_completed_at": "Fullført den: %1$d",
-  "amount_too_high_error": "Kan ikke trekke mer enn beløpet på kontoen!",
+  "amount_too_high_error": "For høyt beløp – prøv et lavere!",
   "purchase_done_redirecting": "Abonnementet startet!",
   "iap_scroll_to_read_terms": "Ved å fortsette godtar du brukerbetingelsene",
   "kid_help_card_invite_title": "Samle hele familien",
