@@ -1732,6 +1732,9 @@
   "user_satisfaction_popover_button_1": "I really like Gimi!",
   "user_satisfaction_popover_button_2": "I like Gimi, but I think it can improve.",
   "user_satisfaction_popover_button_3": "I’m not pleased with Gimi.",
+  "rate_in_app_store_popover_title": "Would you mind rating Gimi?",
+  "rate_in_app_store_popover_description": "We are very happy to hear that you enjoy using Gimi! We would really appreciate if you could give us a rating!",
+  "rate_in_app_store_popover_button": "Rate",
   "session_expired_title": "You have been logged out",
   "session_expired_description": "Please log in again to continue using Gimi."
 }
