@@ -1731,5 +1731,7 @@
   "user_satisfaction_popover_title": "Hva synes du om Gimi?",
   "user_satisfaction_popover_button_1": "Jeg liker veldig godt Gimi!",
   "user_satisfaction_popover_button_2": "Jeg liker Gimi, men jeg tror det kan bli bedre.",
-  "user_satisfaction_popover_button_3": "Jeg er ikke fornøyd med Gimi."
+  "user_satisfaction_popover_button_3": "Jeg er ikke fornøyd med Gimi.",
+  "session_expired_title": "PLZ_TRANSLATE You have been logged out",
+  "session_expired_description": "PLZ_TRANSLATE Please log in again to continue using Gimi."
 }
