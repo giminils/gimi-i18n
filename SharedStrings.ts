@@ -4,13 +4,7 @@ import ExchangeRates from './ExchangeRates'
 import sv from './text_strings/shared/sv.json'
 import en from './text_strings/shared/en.json'
 import no from './text_strings/shared/nb.json'
-import da from './text_strings/shared/da.json'
-import fr from './text_strings/shared/fr.json'
 import nl from './text_strings/shared/nl.json'
-import fi from './text_strings/shared/fi.json'
-import it from './text_strings/shared/it.json'
-import es from './text_strings/shared/es.json'
-import de from './text_strings/shared/de.json'
 import {flatten} from './lib/flatten'
 
 export const getFinLitQuestion = (
@@ -227,23 +221,11 @@ const getSharedStrings = memoize((lang: string): object => {
   switch (lang.substring(0, 2)) {
     case 'sv':
       return flatten(sv)
-    case 'da':
-      return flatten(da)
     case 'nb':
     case 'no':
       return flatten(no)
-    case 'fr':
-      return flatten(fr)
     case 'nl':
       return flatten(nl)
-    case 'fi':
-      return flatten(fi)
-    case 'it':
-      return flatten(it)
-    case 'es':
-      return flatten(es)
-    case 'de':
-      return flatten(de)
     default:
       return flatten(en)
   }
