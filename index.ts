@@ -6,13 +6,6 @@ import defaultNativeErrorMessages from './native/error-messages/default.json'
 import Accounting from 'accounting'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
-import {
-  getCardQuestion,
-  getCardAnswer,
-  getInfluencerPortalAnswer,
-  getFinLitQuestion,
-  getFinLitAnswer
-} from './SharedStrings'
 import Cities from './Cities.json'
 import Timezones from './TimeZones.json'
 import LanguageCodes from './LanguageCodes.json'
@@ -232,34 +225,6 @@ export const getSupportedTimeZones = (): typeof Timezones => {
 }
 
 export const exchangeRates = ExchangeRates
-
-export const getCardTestQuestion = (
-  step: number,
-  lang: string | undefined = 'en',
-  currencyCode: string | undefined = 'SEK'
-) => getCardQuestion(step, lang, currencyCode)
-
-export const getCardTestAnswer = (
-  step: number,
-  lang: string | undefined = 'en',
-  currencyCode: string | undefined = 'SEK'
-): Array<{title: string; valid: boolean}> => getCardAnswer(step, lang, currencyCode)
-
-export const getFinLitTestQuestion = (
-  testType: number,
-  step: number,
-  lang: string | undefined = 'en',
-  currencyCode: string | undefined = 'SEK'
-) => getFinLitQuestion(testType, step, lang, currencyCode)
-
-export const getFinLitTestAnswer = (
-  testType: number,
-  step: number,
-  lang: string | undefined = 'en',
-  currencyCode: string | undefined = 'SEK'
-) => getFinLitAnswer(testType, step, lang, currencyCode)
-
-export const getInfluencerAnswer = (step: number) => getInfluencerPortalAnswer(step)
 
 export const getExperimentalCourses = () => ExperimentalCourses
 
