@@ -1,7 +1,6 @@
 /* eslint jest/expect-expect: 0 */
-import {getTextStrings, languageCodes, gimiWebLanguageCodes, languageCodesForTranslation} from '../index'
+import {getTextStrings, languageCodes, languageCodesForTranslation} from '../index'
 import {stringLengthStatistic, stringTranslationTags} from '../TestUtil'
-let languageCodesHolder = languageCodes
 import Slack from 'node-slack'
 
 jest.disableAutomock()
@@ -37,16 +36,14 @@ describe('TextStrings', () => {
     const jsonDataTranslate: Array<any> = []
     const jsonEmmaTag: Array<any> = []
 
-    const textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web'] // 'moonshine'
+    const textStringsTypes = ['server', 'templates', 'client', 'share-image-generator', 'bot'] // 'moonshine'
 
     const textStrings: Record<string, any> = {}
     textStringsTypes.forEach((textStringsType) => {
       textStrings[textStringsType] = {}
     })
     textStringsTypes.forEach((textStringsType) => {
-      if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
-      if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
-      languageCodesHolder.forEach((lang) => {
+      languageCodesForTranslation.forEach((lang) => {
         try {
           textStrings[textStringsType][lang] = require(`../text_strings/${textStringsType}/${lang}`)
         } catch (err) {
@@ -59,9 +56,7 @@ describe('TextStrings', () => {
     })
     // server and templates string data
     textStringsTypes.forEach((textStringsType) => {
-      if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
-      if (textStringsType !== 'gimi-web') languageCodesHolder = languageCodesForTranslation
-      languageCodesHolder.forEach((languageCode) => {
+      languageCodesForTranslation.forEach((languageCode) => {
         stringTagData.push(
           stringTranslationTags(textStrings[textStringsType][languageCode], languageCode, textStringsType)
         )

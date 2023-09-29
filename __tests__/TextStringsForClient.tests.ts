@@ -1,6 +1,6 @@
 /* eslint no-console:0 */
 /* eslint jest/expect-expect:  0 */
-import {getTextStrings, getText, supportedLanguageCodes, gimiWebLanguageCodes, languageCodes} from '../index'
+import {getTextStrings, getText, supportedLanguageCodes, languageCodes} from '../index'
 import {
   compareKeysForLanguages,
   findDuplicateJSONKeysInFolders,
@@ -15,18 +15,6 @@ jest.disableAutomock()
 // let flatten = require('flat')
 
 describe('TextStrings', () => {
-  test('should not allow duplicate keys in gimi-web JSON', () => {
-    gimiWebLanguageCodes.forEach((lang) => {
-      let fileText = fs
-        .readFileSync(path.join(__dirname, `../text_strings/gimi-web/${lang}.json`), {encoding: 'utf8'})
-        // remove any carriage return characters
-        .replace(/\r/, '')
-        .split('\n')
-      const errors = findDuplicateJSONKeys(fileText, [], lang)
-      expect(errors).toEqual([])
-    })
-  })
-
   test('should not allow duplicate keys in client JSON', () => {
     languageCodes.forEach((lang) => {
       let fileText = fs
@@ -46,8 +34,6 @@ describe('TextStrings', () => {
         dir !== 'ios' &&
         dir !== 'server' &&
         dir !== 'templates' &&
-        dir !== 'gimi-web' &&
-        dir !== 'gimi-web-redux' &&
         dir !== 'bot_new_structure' &&
         dir !== 'shared'
     )

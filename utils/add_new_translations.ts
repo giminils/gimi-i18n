@@ -2,7 +2,6 @@ import fs from 'fs'
 let templateDir = [
   './text_strings/server',
   './text_strings/templates',
-  './text_strings/gimi-web',
   './text_strings/client',
   './text_strings/bot',
   './text_strings/bot-survey',

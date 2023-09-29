@@ -24,7 +24,6 @@ import * as School from './school/School'
 import AllowanceSuggestions from './AllowanceSuggestions'
 
 export const supportedLanguageCodes = ['sv', 'nb', 'en', 'nl']
-export const gimiWebLanguageCodes = ['en', 'sv', 'no', 'nl']
 
 export const languageCodes = ['sv', 'nb', 'en', 'nl']
 export const languageCodesForTranslation = ['sv', 'nb', 'en', 'nl']

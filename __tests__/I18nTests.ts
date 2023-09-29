@@ -1,4 +1,4 @@
-import {languageCodes, languageCodesForTranslation, gimiWebLanguageCodes} from '../index'
+import {languageCodes, languageCodesForTranslation} from '../index'
 import {
   searchBreakingSymbols,
   checkUpperCaseLetters,
@@ -29,7 +29,7 @@ let jsonArrayUpperCase: Array<object> = []
 let jsonArrayEmptySpaces: Array<object> = []
 let jsonDataHtml: Array<object> = []
 
-let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'share-image-generator', 'bot', 'gimi-web']
+let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'share-image-generator', 'bot']
 let textStrings: {[key: string]: {[key: string]: Record<string, string>}} = {}
 textStringsTypes.forEach((textStringsType) => {
   textStrings[textStringsType] = {}
@@ -38,8 +38,7 @@ describe('should be able to find files', () => {
   textStringsTypes.forEach((textStringsType) => {
     let languageCodesHolder = languageCodes
     if (textStringsType === 'client') languageCodesHolder = languageCodes
-    if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
-    if (textStringsType !== 'gimi-web' && textStringsType !== 'client')
+    if (textStringsType !== 'client')
       languageCodesHolder = languageCodesForTranslation
     languageCodesHolder.forEach((lang) => {
       try {
@@ -57,8 +56,7 @@ describe('should be able to find files', () => {
 textStringsTypes.forEach((textStringsType) => {
   let languageCodesHolder = languageCodes
   if (textStringsType === 'client') languageCodesHolder = languageCodes
-  if (textStringsType === 'gimi-web') languageCodesHolder = gimiWebLanguageCodes
-  if (textStringsType !== 'gimi-web' && textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
+  if (textStringsType !== 'client') languageCodesHolder = languageCodesForTranslation
 
   languageCodesHolder.forEach((languageCode) => {
     stringTagData.push(searchPlzCopy(textStrings[textStringsType][languageCode], languageCode, textStringsType))
@@ -70,7 +68,7 @@ textStringsTypes.forEach((textStringsType) => {
     )
     stringTagData.push(searchHtml(textStrings[textStringsType][languageCode], languageCode, textStringsType))
 
-    if (languageCode === 'en' && textStringsType !== 'gimi-web' && textStringsType !== 'server')
+    if (languageCode === 'en' && textStringsType !== 'server')
       stringTagData.push(
         checkUpperCaseLetters(textStrings[textStringsType][languageCode], languageCode, textStringsType)
       )
