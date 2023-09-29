@@ -29,7 +29,7 @@ let jsonArrayUpperCase: Array<object> = []
 let jsonArrayEmptySpaces: Array<object> = []
 let jsonDataHtml: Array<object> = []
 
-let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'share-image-generator', 'bot']
+let textStringsTypes: Array<string> = ['server', 'templates', 'client', 'bot']
 let textStrings: {[key: string]: {[key: string]: Record<string, string>}} = {}
 textStringsTypes.forEach((textStringsType) => {
   textStrings[textStringsType] = {}

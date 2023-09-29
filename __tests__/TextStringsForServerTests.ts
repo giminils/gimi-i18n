@@ -10,7 +10,7 @@ import {languageCodes} from '..'
 let langCodes = languageCodes
 jest.disableAutomock()
 
-let textStringsTypes = ['server', 'templates', 'share-image-generator']
+let textStringsTypes = ['server', 'templates']
 
 let textStrings: {[key: string]: {[key: string]: Record<string, string>}} = {}
 textStringsTypes.forEach((textStringsType) => {
