@@ -7,7 +7,6 @@ let templateDir = [
   './text_strings/bot-survey',
   './text_strings/education',
   './text_strings/faq',
-  './text_strings/shared',
   './text_strings/school',
   './text_strings/dictionary'
 ]
