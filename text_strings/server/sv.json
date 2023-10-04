@@ -179,5 +179,7 @@
   "login_email_button_text": "LOGGA IN",
   "push_pro_launch": "Viktig information om förändringar i Gimi-appen – nu lanseras Pro",
   "push_pfs_shutdown": "Påminnelse: Gimi-kortet kommer stängas ned. Se till att ha senaste app-versionen och läs mer där om vad du behöver göra",
-  "push_pro_discount": "Sista chansen att uppgradera till Pro med 51 % rabatt"
+  "push_pro_discount": "Sista chansen att uppgradera till Pro med 51 % rabatt",
+  "weekly_allowance_v2": "veckopeng",
+  "monthly_allowance_v2": "månadspeng"
 }
