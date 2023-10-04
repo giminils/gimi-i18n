@@ -1741,5 +1741,14 @@
   "rate_in_app_store_popover_description": "We are very happy to hear that you enjoy using Gimi! We would really appreciate if you could give us a rating!",
   "rate_in_app_store_popover_button": "Rate",
   "session_expired_title": "You have been logged out",
-  "session_expired_description": "Please log in again to continue using Gimi."
+  "session_expired_description": "Please log in again to continue using Gimi.",
+  "widget_account_statistics_title": "Account statistics",
+  "widget_account_statistics_description_enabled": "Follow %1$d’s spending behaviour",
+  "widget_account_statistics_description_disabled": "Connect a bank account first!",
+  "widget_activation_account_statistics_title": "Get an overview of the spending behavior for %1$d",
+  "widget_activation_account_statistics_bullet_1": "Monthly report in a digestible format",
+  "widget_activation_account_statistics_bullet_2": "Keep track of money transfers and how much money is spent",
+  "widget_activation_account_statistics_bullet_3": "Get insights about the most expensive purchases",
+  "widget_activation_account_statistics_bullet_4": "Go back in time month by month",
+  "widget_activation_account_statistics_button": "Add Account statistics"
 }

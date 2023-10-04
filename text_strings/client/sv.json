@@ -1741,5 +1741,14 @@
   "rate_in_app_store_popover_description": "Vi är väldigt glada att du gillar Gimi och skulle uppskatta det mycket ifall du tog dig tid.",
   "rate_in_app_store_popover_button": "Betygsätt",
   "session_expired_title": "Du har loggats ut",
-  "session_expired_description": "Vänligen logga in igen för att fortsätta använda Gimi."
+  "session_expired_description": "Vänligen logga in igen för att fortsätta använda Gimi.",
+  "widget_account_statistics_title": "PLZ_TRANSLATE Account statistics",
+  "widget_account_statistics_description_enabled": "PLZ_TRANSLATE Follow %1$d’s spending behaviour",
+  "widget_account_statistics_description_disabled": "PLZ_TRANSLATE Connect a bank account first!",
+  "widget_activation_account_statistics_title": "PLZ_TRANSLATE Get an overview of the spending behavior for %1$d",
+  "widget_activation_account_statistics_bullet_1": "PLZ_TRANSLATE Monthly report in a digestible format",
+  "widget_activation_account_statistics_bullet_2": "PLZ_TRANSLATE Keep track of money transfers and how much money is spent",
+  "widget_activation_account_statistics_bullet_3": "PLZ_TRANSLATE Get insights about the most expensive purchases",
+  "widget_activation_account_statistics_bullet_4": "PLZ_TRANSLATE Go back in time month by month",
+  "widget_activation_account_statistics_button": "PLZ_TRANSLATE Add Account statistics"
 }
