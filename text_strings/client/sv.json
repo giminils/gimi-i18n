@@ -1758,5 +1758,9 @@
   "widget_activation_account_statistics_bullet_2": "Håll koll på överföringar och hur mycket pengar som gått åt",
   "widget_activation_account_statistics_bullet_3": "Se var de största utgifterna kommit",
   "widget_activation_account_statistics_bullet_4": "Historik - månad för månad",
-  "widget_activation_account_statistics_button": "Lägg till Statistik"
+  "widget_activation_account_statistics_button": "Lägg till Statistik",
+  "shop_or_drop_title_child": "Borde du shoppa eller droppa?",
+  "shop_or_drop_subtitle_child": "Quizza för smartare köp",
+  "shop_or_drop_title_parent": "Shoppa eller droppa - nytt utbildningsquiz!",
+  "shop_or_drop_subtitle_parent": "Quizza tillsammans"
 }

@@ -1758,5 +1758,9 @@
   "widget_activation_account_statistics_bullet_2": "Keep track of money transfers and how much money is spent",
   "widget_activation_account_statistics_bullet_3": "Get insights about the most expensive purchases",
   "widget_activation_account_statistics_bullet_4": "Go back in time month by month",
-  "widget_activation_account_statistics_button": "Add Account statistics"
+  "widget_activation_account_statistics_button": "Add Account statistics",
+  "shop_or_drop_title_child": "PLZ_TRANSLATE Borde du shoppa eller droppa?",
+  "shop_or_drop_subtitle_child": "PLZ_TRANSLATE Quizza för smartare köp",
+  "shop_or_drop_title_parent": "PLZ_TRANSLATE Shoppa eller droppa - nytt utbildningsquiz!",
+  "shop_or_drop_subtitle_parent": "PLZ_TRANSLATE Quizza tillsammans"
 }
