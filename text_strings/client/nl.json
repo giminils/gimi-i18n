@@ -1467,6 +1467,7 @@
   "marked_as_paid_success_message": "Gemarkeerd als betaald!",
   "onboarding_open_banking_free_for": "Gratis voor klanten van:",
   "onboarding_open_banking_also_available_for": "Ook beschikbaar voor:",
+  "onboarding_open_banking_supported_for": "PLZ_TRANSLATE Supported for",
   "subscriptions_bank_name_pro": "Abonnement: %1$d Pro",
   "sign_up_choose_account_type_title": "Kies een accounttype!",
   "sign_up_choose_account_type_parent": "Ik ben een ouder",

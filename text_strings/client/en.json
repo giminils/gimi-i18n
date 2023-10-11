@@ -1467,6 +1467,7 @@
   "marked_as_paid_success_message": "Marked as paid!",
   "onboarding_open_banking_free_for": "Free for customers of:",
   "onboarding_open_banking_also_available_for": "Also available for:",
+  "onboarding_open_banking_supported_for": "Supported for",
   "subscriptions_bank_name_pro": "Subscription: %1$d Pro",
   "sign_up_choose_account_type_title": "Choose account type!",
   "sign_up_choose_account_type_parent": "I’m a parent",
