@@ -181,5 +181,6 @@
   "push_pfs_shutdown": "Påminnelse: Gimi-kortet kommer stängas ned. Se till att ha senaste app-versionen och läs mer där om vad du behöver göra",
   "push_pro_discount": "Sista chansen att uppgradera till Pro med 51 % rabatt • Sparmål och bankkonto-koppling kommer att kräva ett abonnemang",
   "weekly_allowance_v2": "veckopeng",
-  "monthly_allowance_v2": "månadspeng"
+  "monthly_allowance_v2": "månadspeng",
+  "CHGEON044_notification_text": "Viktig info: Om du märker att något förändras i din app kan det bero på att delar av Gimi från och med 25 oktober kräver prenumeration – bland annat att koppla Bankkonto och att skapa Sparmål. Däremot fungerar Demokonto, Veckopeng och Sysslor som vanligt!"
 }
