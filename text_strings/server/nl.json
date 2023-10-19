@@ -179,8 +179,8 @@
   "login_email_button_text": "LOG IN",
   "push_pro_launch": "PLZ_TRANSLATE Viktig information om förändringar i Gimi-appen – nu lanseras Pro",
   "push_pfs_shutdown": "Reminder: The Gimi card will be shut down. Make sure to have the latest app version, and read more there about what you need to do",
-  "push_pro_discount": "PLZ_TRANSLATE Sista chansen att uppgradera till Pro med 51 % rabatt",
+  "push_pro_discount": "Final chance to upgrade to Pro at a 51% discount • In three days Goals and bank-account connections will require a subscription",
   "weekly_allowance_v2": "wekelijks zakgeld",
   "monthly_allowance_v2": "maandelijks zakgeld",
-  "CHGEON044_notification_text": "PLZ_TRANSLATE "
+  "CHGEON044_notification_text": "Important info: If you notice that something changes in your app, it may be because parts of Gimi require a subscription as of October 25 - including connecting a bank account and creating a Savings goal. However, Demo account, Allowance and Chores work as usual!"
 }
