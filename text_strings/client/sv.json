@@ -1777,5 +1777,8 @@
   "shop_or_drop_title_child": "Borde du shoppa eller droppa?",
   "shop_or_drop_subtitle_child": "Quizza för smartare köp",
   "shop_or_drop_title_parent": "Shoppa eller droppa - nytt utbildningsquiz!",
-  "shop_or_drop_subtitle_parent": "Quizza tillsammans"
+  "shop_or_drop_subtitle_parent": "Quizza tillsammans",
+  "general_login": "PLZ_TRANSLATE log in",
+  "start_screen_sign_up_btn_text": "PLZ_TRANSLATE New to Gimi? Get started",
+  "start_screen_sign_up_partnership_btn_text": "PLZ_TRANSLATE Get started with Gimi"
 }
