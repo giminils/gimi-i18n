@@ -1790,5 +1790,8 @@
   "sign_in_no_registered_number_popover_p1": "Heb je het juiste telefoonnummer ingevoerd? Dit nummer is nog niet geregistreerd.",
   "sign_in_no_registered_number_popover_p2": "Ga terug om het nog eens te proberen, of ga door naar account aanmaken als je wilt voortzetten.",
   "phone_number_is_registered_popover_title": "Dit nummer is al geregistreerd",
-  "phone_number_is_registered_popover_description": "Log in bij het geregistreerde account of ga terug en gebruik een ander nummer!"
+  "phone_number_is_registered_popover_description": "Log in bij het geregistreerde account of ga terug en gebruik een ander nummer!",
+  "sign_in_no_registered_email_popover_title": "PLZ_TRANSLATE Email is not registred",
+  "sign_in_no_registered_email_popover_p1": "PLZ_TRANSLATE Have you entered the correct email? This email is not yet registrered.",
+  "sign_in_no_registered_email_popover_p2": "PLZ_TRANSLATE Go back to try again or continue to create account if you want to proceed."
 }

@@ -1790,5 +1790,8 @@
   "sign_in_no_registered_number_popover_p1": "PLZ_TRANSLATE Have you entered the correct phone number? This number is not yet registrered.",
   "sign_in_no_registered_number_popover_p2": "PLZ_TRANSLATE Go back to try again or continue to create account if you want to proceed.",
   "phone_number_is_registered_popover_title": "PLZ_TRANSLATE This number is already registered",
-  "phone_number_is_registered_popover_description": "PLZ_TRANSLATE Log in to the registered account or go back and use another number!"
+  "phone_number_is_registered_popover_description": "PLZ_TRANSLATE Log in to the registered account or go back and use another number!",
+  "sign_in_no_registered_email_popover_title": "PLZ_TRANSLATE Email is not registred",
+  "sign_in_no_registered_email_popover_p1": "PLZ_TRANSLATE Have you entered the correct email? This email is not yet registrered.",
+  "sign_in_no_registered_email_popover_p2": "PLZ_TRANSLATE Go back to try again or continue to create account if you want to proceed."
 }
