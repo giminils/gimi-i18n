@@ -1795,5 +1795,6 @@
   "phone_number_is_registered_popover_description": "Logga in på den användaren, eller gå tillbaka för att skriva in ett annat nummer",
   "sign_in_no_registered_email_popover_title": "E-postadressen finns inte registrerad",
   "sign_in_no_registered_email_popover_p1": "Om du inte använt Gimi förut, skapa istället en ny användare.",
-  "sign_in_no_registered_email_popover_p2": "För att göra ett nytt försök, klicka på Tillbaka."
+  "sign_in_no_registered_email_popover_p2": "För att göra ett nytt försök, klicka på Tillbaka.",
+  "general_yearly": "PLZ_TRANSLATE yearly"
 }

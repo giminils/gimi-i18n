@@ -1795,5 +1795,6 @@
   "phone_number_is_registered_popover_description": "Log in to that user, or go back and use another number!",
   "sign_in_no_registered_email_popover_title": "Email is not registered",
   "sign_in_no_registered_email_popover_p1": "If you havn't used Gimi before, try to instead create a new user.",
-  "sign_in_no_registered_email_popover_p2": "To make a new try, choose Back."
+  "sign_in_no_registered_email_popover_p2": "To make a new try, choose Back.",
+  "general_yearly": "yearly"
 }
