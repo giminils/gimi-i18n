@@ -1530,7 +1530,7 @@
   "onboarding_setup_piggybank_button": "Set up demo account",
   "start_screen_partner_with": "In samenwerking met",
   "upgrade_to_bank_account_instead": "Upgrade to bank account instead!",
-  "money_statistics_title": "Money statistics",
+  "money_statistics_title": "Statistics",
   "money_statistics_kid_underspent": "This month %1$d saved %2$d",
   "money_statistics_kid_overspent": "This month %1$d spent %2$d more than they received",
   "money_statistics_kid_no_transactions": "This month %1$d didn’t spend or receive any money",
@@ -1796,5 +1796,7 @@
   "sign_in_no_registered_email_popover_title": "Email is not registered",
   "sign_in_no_registered_email_popover_p1": "If you havn't used Gimi before, try to instead create a new user.",
   "sign_in_no_registered_email_popover_p2": "To make a new try, choose Back.",
-  "general_yearly": "yearly"
+  "general_yearly": "yearly",
+  "general_var_per_year": "%1$d billed yearly",
+  "general_per_month": "per month"
 }
