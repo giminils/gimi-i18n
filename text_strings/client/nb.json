@@ -1796,5 +1796,7 @@
   "sign_in_no_registered_email_popover_title": "E-post er ikke registrert",
   "sign_in_no_registered_email_popover_p1": "Hvis du ikke har brukt Gimi før, opprett en ny bruker i stedet.",
   "sign_in_no_registered_email_popover_p2": "For å prøve igjen, klikk på tilbake.",
-  "general_yearly": "PLZ_TRANSLATE yearly"
+  "general_yearly": "PLZ_TRANSLATE yearly",
+  "general_var_per_year": "PLZ_TRANSLATE %1$d billed yearly",
+  "general_per_month": "PLZ_TRANSLATE per month"
 }

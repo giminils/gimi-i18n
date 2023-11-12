@@ -1796,5 +1796,7 @@
   "sign_in_no_registered_email_popover_title": "E-postadressen finns inte registrerad",
   "sign_in_no_registered_email_popover_p1": "Om du inte använt Gimi förut, skapa istället en ny användare.",
   "sign_in_no_registered_email_popover_p2": "För att göra ett nytt försök, klicka på Tillbaka.",
-  "general_yearly": "PLZ_TRANSLATE yearly"
+  "general_yearly": "PLZ_TRANSLATE yearly",
+  "general_var_per_year": "PLZ_TRANSLATE %1$d billed yearly",
+  "general_per_month": "PLZ_TRANSLATE per month"
 }
