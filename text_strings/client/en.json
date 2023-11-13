@@ -811,7 +811,7 @@
   "suggested_chore_dont_accept_button": "Don't accept",
   "suggested_chore_accept_button": "Accept & add to chores",
   "shareable_birthday_image_title": "It's my birthday!",
-  "general_return": "Try again",
+  "general_return": "Reject",
   "returned_chore_header": "Not approved",
   "returned_chore_header_disable_approval": "Not approved",
   "archive_chore_returned": "Not approved",
