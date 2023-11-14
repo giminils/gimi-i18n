@@ -512,7 +512,7 @@
   "beta_tester_confirmation_message": "Vi kontakter deg!",
   "connected_to_parent_takeover_title": "Du er koblet til %1$d",
   "your_subscription_cancelled_title": "Ditt abonnement er kansellert.",
-  "your_subscription_cancelled_subtitle": "Du kan fortsatt bruke Gimi, men kortet kan du ikke lenger bruke.",
+  "your_subscription_cancelled_subtitle": "Du kan fortsatt bruke Gimi, men noen av funksjonene dine er begrenset.",
   "already_active_dream_popover_title": "Du har allerede et mål...",
   "already_active_dream_popover_text": "Hvis du vil gjøre dette til ditt mål, må du først slette det nåværende målet.",
   "today_is_pay_day_subtitle": "Du har akkurat fått %1$d.",
@@ -1797,6 +1797,6 @@
   "sign_in_no_registered_email_popover_p1": "Hvis du ikke har brukt Gimi før, opprett en ny bruker i stedet.",
   "sign_in_no_registered_email_popover_p2": "For å prøve igjen, klikk på tilbake.",
   "general_yearly": "Årlig",
-  "general_var_per_year": "PLZ_TRANSLATE %1$d billed yearly",
-  "general_per_month": "PLZ_TRANSLATE per month"
+  "general_var_per_year": "%1$d betales årlig",
+  "general_per_month": "per måned"
 }
