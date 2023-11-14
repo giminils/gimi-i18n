@@ -512,7 +512,7 @@
   "beta_tester_confirmation_message": "Vi kommer att kontakta dig!",
   "connected_to_parent_takeover_title": "Du är ihopkopplad med %1$d",
   "your_subscription_cancelled_title": "Din prenumeration har avslutats",
-  "your_subscription_cancelled_subtitle": "Du kan fortsätta använda Gimi, men du kommer inte att kunna använda ditt kort längre.",
+  "your_subscription_cancelled_subtitle": "Du kan fortsätta använda Gimi, men en del av dina funktioner har begränsats.",
   "already_active_dream_popover_title": "Du har redan lagt till ett mål...",
   "already_active_dream_popover_text": "Om du vill att det här ska vara ditt mål, måste du först radera det nuvarande.",
   "today_is_pay_day_subtitle": "%1$d lades till i demokontot!",
@@ -1797,6 +1797,6 @@
   "sign_in_no_registered_email_popover_p1": "Om du inte använt Gimi förut, skapa istället en ny användare.",
   "sign_in_no_registered_email_popover_p2": "För att göra ett nytt försök, klicka på Tillbaka.",
   "general_yearly": "Årsvis",
-  "general_var_per_year": "PLZ_TRANSLATE %1$d billed yearly",
-  "general_per_month": "PLZ_TRANSLATE per month"
+  "general_var_per_year": "%1$d betalas årsvis",
+  "general_per_month": "per månad"
 }
