@@ -92,7 +92,7 @@
   "CHGERE017_push_title": "Invitasjonen din ble avvist. Vil du invitere noen andre?",
   "CHGERE034_notification_title": "Det er bursdagen din!",
   "CHGERE034_push_title": "Gratulerer med dagen! - Piggy",
-  "CHPRPU004_notification_title": "{parent.nickname} kansellerte ditt abbonemen. Du har {days_count} dager igjen på å bruke pengene dine før Superskills Pro opphører.",
+  "CHPRPU004_notification_title": "{parent.nickname} kansellerte ditt abbonemen. Du har {days_count} dager igjen før noen av Gimis funksjoner slutter å være tilgjengelige for deg.",
   "CHPRPU004_push_title": "Superskills Pro har blitt kansellert",
   "CHPRPU002_notification_title_v2": "Lav saldo på kortet! Fyll på kortet ditt for å fullføre kjøpet på {pfstransactionstatement.merchant_name}.",
   "CHPRPU002_push_title": " 🚫Lav saldo! Fyll på Gimi-kortet ditt for å fullføre kjøpet på {pfstransactionstatement.merchant_name}.",
