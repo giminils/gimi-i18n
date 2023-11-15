@@ -92,7 +92,7 @@
   "CHGERE017_push_title": "Je uitnodiging is afgewezen. Iemand anders uitnodigen?",
   "CHGERE034_notification_title": "Je bent vandaag jarig!",
   "CHGERE034_push_title": "Gefeliciteerd met je verjaardag! - Piggy",
-  "CHPRPU004_notification_title": "{parent.nickname} heeft je abonnement stopgezet. Je hebt {days_count} dagen om je geld uit te geven voordat Superskills Pro afloopt.",
+  "CHPRPU004_notification_title": "{parent.nickname} heeft je abonnement stopgezet. Je hebt {days_count} dagen voordat je toegang tot sommige functies van Gimi verloopt.",
   "CHPRPU004_push_title": "Superskills Pro is stopgezet",
   "CHPRPU002_notification_title_v2": "Het tegoed op de pas is te laag! Waardeer je pas op om je aankoop bij {pfstransactionstatement.merchant_name} te kunnen doen.",
   "CHPRPU002_push_title": "🚫Het saldo is te laag! Waardeer je Gimi-pas op om je aankoop bij {pfstransactionstatement.merchant_name} te kunnen doen.",
