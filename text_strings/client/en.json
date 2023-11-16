@@ -738,7 +738,7 @@
   "pay_via_swish_option_desc": "Swisha - easiest way to send money!",
   "swish_set_as_payment_method_confirmation_message": "Swish it is!",
   "default_pfs_transaction": "Transaction",
-  "locked_until_subscription_is_paid": "The subscription for %1$d has expired",
+  "locked_until_subscription_is_paid": "The subscription for %1$d has expired and needs to be renewed. Please contact our support if you have any questions.",
   "shareable_today_is_payday_title_weekly": "It's time for weekly allowance!",
   "shareable_today_is_payday_title_monthly": "It's time for monthly allowance!",
   "shareable_card_activated_title": "I have a Gimi card!",
