@@ -738,7 +738,7 @@
   "pay_via_swish_option_desc": "Swisha - enklaste sättet att skicka pengar!",
   "swish_set_as_payment_method_confirmation_message": "Ändrat till Swish!",
   "default_pfs_transaction": "Transaktion",
-  "locked_until_subscription_is_paid": "%1$d är låst tills att prenumerationen har betalats",
+  "locked_until_subscription_is_paid": "Prenumerationen för %1$d har löpt ut",
   "shareable_today_is_payday_title_weekly": "Idag är det dags för veckopeng!",
   "shareable_today_is_payday_title_monthly": "Idag är det dags för månadspeng!",
   "shareable_card_activated_title": "Jag har ett Gimi-kort!",
