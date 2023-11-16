@@ -1435,7 +1435,7 @@
   "faq_general_short_description": "What other Gimi users are asking about!",
   "faq_open_faq": "Open FAQ",
   "onboarding_set_allowance": "Set allowance",
-  "onboarding_select_bank_type_bankaccount_title": "Connect %1$d's bank account",
+  "onboarding_select_bank_type_bankaccount_title": "%1$d's account in a child friendly place",
   "onboarding_piggybank_info_1": "It visualizes the amount you as a parent have handed out in Gimi",
   "onboarding_piggybank_info_2": "No bank transfers or withdrawals",
   "onboarding_piggybank_info_3": "When %1$d wants to spend the demo account “money“, you pay and then deduct the amount in Gimi!",
