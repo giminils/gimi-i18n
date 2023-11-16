@@ -738,7 +738,7 @@
   "pay_via_swish_option_desc": "Swisha - den enkleste måten å sende penger på!",
   "swish_set_as_payment_method_confirmation_message": "Swish er tingen!",
   "default_pfs_transaction": "Transaksjon",
-  "locked_until_subscription_is_paid": "%1$d er sperret inntil Superskills Pro-abonnement er betalt",
+  "locked_until_subscription_is_paid": "Abonnementet på %1$d er utløpt og må fornyes. Ta gjerne kontakt med vår support hvis du har spørsmål.",
   "shareable_today_is_payday_title_weekly": "Tid for ukepeng!",
   "shareable_today_is_payday_title_monthly": "Tid for månedspeng!",
   "shareable_card_activated_title": "Jeg har et Gimi-kort!",
