@@ -1799,5 +1799,7 @@
   "sign_in_no_registered_email_popover_p2": "Ga terug om het opnieuw te proberen, of ga door naar accuont aanmaken als je verder wilt gaan.",
   "general_yearly": "Jaarlijks",
   "general_var_per_year": "%1$d jaarlijkst gefactureerd",
-  "general_per_month": "Per maand"
+  "general_per_month": "Per maand",
+  "dreams_flash_card_title": "PLZ_TRANSLATE Learn how to save & get cashback with Dreams!",
+  "dreams_flash_card_subtitle": "PLZ_TRANSLATE Read about the offer"
 }

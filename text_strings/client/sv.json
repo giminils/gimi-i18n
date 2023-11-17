@@ -1799,5 +1799,7 @@
   "sign_in_no_registered_email_popover_p2": "För att göra ett nytt försök, klicka på Tillbaka.",
   "general_yearly": "Årsvis",
   "general_var_per_year": "%1$d betalas årsvis",
-  "general_per_month": "per månad"
+  "general_per_month": "per månad",
+  "dreams_flash_card_title": "PLZ_TRANSLATE Learn how to save & get cashback with Dreams!",
+  "dreams_flash_card_subtitle": "PLZ_TRANSLATE Read about the offer"
 }
