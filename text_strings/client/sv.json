@@ -1803,5 +1803,10 @@
   "dreams_flash_card_title": "Smarta sparhack för familjen med Dreams!",
   "dreams_flash_card_subtitle": "Läs om erbjudandet",
   "describing_headline_start_screen_option1": "Pengaskills för nästa generation",
-  "describing_headline_start_screen_option2": "Bästa appen för pengasmarta familjer"
+  "describing_headline_start_screen_option2": "Bästa appen för pengasmarta familjer",
+  "input_field_min_value": "PLZ_TRANSLATE Min %1$d",
+  "input_field_max_value": "PLZ_TRANSLATE Max %1$d",
+  "input_field_money_title": "PLZ_TRANSLATE Amount",
+  "input_field_error_field_is_required": "PLZ_TRANSLATE The field is required",
+  "input_field_error_invalid_number": "PLZ_TRANSLATE The number is not valid"
 }
