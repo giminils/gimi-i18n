@@ -1808,5 +1808,9 @@
   "input_field_max_value": "PLZ_TRANSLATE Max %1$d",
   "input_field_money_title": "PLZ_TRANSLATE Amount",
   "input_field_error_field_is_required": "PLZ_TRANSLATE The field is required",
-  "input_field_error_invalid_number": "PLZ_TRANSLATE The number is not valid"
+  "input_field_error_invalid_number": "PLZ_TRANSLATE The number is not valid",
+  "virtual_account_spending": "PLZ_TRANSLATE Spending account",
+  "virtual_account_savings": "PLZ_TRANSLATE Saved",
+  "virutal_account_total_balance_on": "PLZ_TRANSLATE Total in %1$d",
+  "virutal_account_new_feature_pill": "PLZ_TRANSLATE New!"
 }

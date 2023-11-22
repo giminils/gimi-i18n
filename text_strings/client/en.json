@@ -1808,5 +1808,9 @@
   "input_field_max_value": "Max %1$d",
   "input_field_money_title": "Amount",
   "input_field_error_field_is_required": "The field is required",
-  "input_field_error_invalid_number": "The number is not valid"
+  "input_field_error_invalid_number": "The number is not valid",
+  "virtual_account_spending": "Spending account",
+  "virtual_account_savings": "Saved",
+  "virutal_account_total_balance_on": "Total in %1$d",
+  "virutal_account_new_feature_pill": "New!"
 }
