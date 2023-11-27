@@ -1812,5 +1812,9 @@
   "virtual_account_spending": "Spending account",
   "virtual_account_savings": "Saved",
   "virutal_account_total_balance_on": "Total in %1$d",
-  "virutal_account_new_feature_pill": "New!"
+  "virutal_account_new_feature_pill": "New!",
+  "virtual_account_kid_takeover_title": "New savings feature in the app!",
+  "virtual_account_kid_takeover_subtitle_1": "You can now put money aside",
+  "virtual_account_kid_takeover_subtitle_2": "for your dreams!",
+  "virtual_account_kid_takeover_button": "OK, nice!"
 }

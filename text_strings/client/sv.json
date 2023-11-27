@@ -1812,5 +1812,9 @@
   "virtual_account_spending": "PLZ_TRANSLATE Spending account",
   "virtual_account_savings": "PLZ_TRANSLATE Saved",
   "virutal_account_total_balance_on": "PLZ_TRANSLATE Total in %1$d",
-  "virutal_account_new_feature_pill": "PLZ_TRANSLATE New!"
+  "virutal_account_new_feature_pill": "PLZ_TRANSLATE New!",
+  "virtual_account_kid_takeover_title": "PLZ_TRANSLATE New savings feature in the app!",
+  "virtual_account_kid_takeover_subtitle_1": "PLZ_TRANSLATE You can now put money aside",
+  "virtual_account_kid_takeover_subtitle_2": "PLZ_TRANSLATE for your dreams!",
+  "virtual_account_kid_takeover_button": "PLZ_TRANSLATE OK, nice!"
 }
