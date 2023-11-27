@@ -1816,5 +1816,10 @@
   "virtual_account_kid_takeover_title": "PLZ_TRANSLATE New savings feature in the app!",
   "virtual_account_kid_takeover_subtitle_1": "PLZ_TRANSLATE You can now put money aside",
   "virtual_account_kid_takeover_subtitle_2": "PLZ_TRANSLATE for your dreams!",
-  "virtual_account_kid_takeover_button": "PLZ_TRANSLATE OK, nice!"
+  "virtual_account_kid_takeover_button": "PLZ_TRANSLATE OK, nice!",
+  "virtual_account_parent_takeover_title": "PLZ_TRANSLATE New savings feature in the children's app!",
+  "virtual_account_parent_subtitle_1": "PLZ_TRANSLATE Now it will be easier for your child",
+  "virtual_account_parent_subtitle_2": "PLZ_TRANSLATE to put aside money!",
+  "virtual_account_parent_subtitle_3": "PLZ_TRANSLATE Open the children's app and get started!",
+  "virtual_account_parent_takeover_button": "PLZ_TRANSLATE OK, nice!"
 }
