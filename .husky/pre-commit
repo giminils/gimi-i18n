@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname $0)/_/husky.sh"
 
-yarn fix-translations && git add *.json && yarn lint-staged
+yarn fix-translations && yarn lint-staged && git add *.json

@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "test": "jest -w 8",
+    "test": "yarn run jest && yarn run tsc",
+    "jest:debug": "cross-env TZ=UTC jest --detectOpenHandles --runInBand --verbose",
+    "jest": "cross-env TZ=UTC jest --maxWorkers=20%",
     "lint": "eslint .",
-    "fix-lint": "yarn run lint --fix",
+    "lint:fix": "yarn run lint --fix",
     "format": "prettier --write '**/*.{js,jsx,json,md,ts,tsx}'",
     "add-new-translations": "ts-node ./utils/add_new_translations.ts",
     "update-changed-translations": "ts-node ./utils/update_changed_translations.ts",
@@ -27,25 +29,37 @@
   },
   "homepage": "https://github.com/Barnpengar/veckopengen-app-i18n#readme",
   "devDependencies": {
+    "@dword-design/eslint-plugin-import-alias": "^4.0.9",
     "@types/accounting": "^0.4.2",
     "@types/jest": "^27.0.0",
-    "@types/node": "^16.11.57",
+    "@types/json-dup-key-validator": "^1.0.2",
+    "@types/node": "^18.18.9",
     "@types/node-slack": "^0.0.31",
     "@types/prettier": "^2.7.0",
-    "@typescript-eslint/eslint-plugin": "^5.36.1",
-    "@typescript-eslint/parser": "^5.36.1",
-    "eslint": "^8.23.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jest": "^27.0.1",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-universe": "^12.0.0",
+    "eslint-import-resolver-babel-module": "^5.3.2",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-jest": "^27.6.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-no-unused-react-component-methods": "^1.1.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.0.1",
-    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-native": "^4.1.0",
+    "eslint-plugin-unicorn": "^49.0.0",
+    "eslint-plugin-unused-imports": "^3.0.0",
     "husky": "^7.0.4",
-    "jest": "^27",
-    "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "jest": "^29.7.0",
+    "lint-staged": "^15.1.0",
+    "prettier": "^3.1.0"
   },
   "dependencies": {
     "accounting": "^0.4.1",
@@ -54,14 +68,20 @@
     "json-dup-key-validator": "^1.0.3",
     "json-loader": "^0.5.7",
     "node-slack": "^0.0.7",
-    "ts-jest": "^27",
+    "ts-jest": "^29.1.1",
     "ts-node": "^10.9.1",
-    "typescript": "^4.8.2"
+    "typescript": "^5.3.2"
   },
   "lint-staged": {
-    "*.{json,js,ts,tsx,md,yml,yaml}": [
+    "*.{js,jsx,json,ts,tsx}": [
+      "eslint --fix",
       "prettier --write"
-    ]
+    ],
+    "{Gemfile,Fastfile,Podfile,*.{md,yml,yaml,rb}}": "prettier --write"
   },
-  "packageManager": "yarn@3.2.2"
+  "packageManager": "yarn@4.0.1",
+  "volta": {
+    "node": "18.15.0",
+    "yarn": "1.22.19"
+  }
 }

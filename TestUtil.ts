@@ -1,8 +1,8 @@
 import path from 'path'
 import {readdirSync, readFileSync} from 'fs'
 import IgnoredTextStrings from './IgnoredTextStrings.json'
-import {supportedLanguageCodes} from './index'
 import defaultTextStrings from './text_strings/client/default.json'
+import {supportedLanguageCodes} from './index'
 
 export const serverTextStringNames = [
   'task_group_name',
@@ -28,7 +28,7 @@ export const compareKeys = (
   secondLangName = ''
 ) => {
   const keys = Object.keys(firstLang)
-  const errorMessages: Array<string> = []
+  const errorMessages: string[] = []
 
   keys.forEach((key) => {
     if ((secondLang[key] === undefined || secondLang[key] === '') && !IgnoredTextStrings.includes(key)) {
@@ -36,8 +36,9 @@ export const compareKeys = (
       return true
     }
 
-    if (secondLang[key].indexOf('$ ') !== -1)
+    if (secondLang[key].indexOf('$ ') !== -1) {
       errorMessages.push(`Lang: '${firstLangName}', Key: '${key}' has a $ and whitespace, do you mean $s, $d or $c ?`)
+    }
 
     return true
   })
@@ -52,8 +53,8 @@ export const findDuplicateKeyValues = (
   secondLangName = ''
 ) => {
   const keys = Object.keys(firstLang)
-  const errorMessages: Array<string> = []
-  let defaults: Record<string, string> = defaultTextStrings
+  const errorMessages: string[] = []
+  const defaults: Record<string, string> = defaultTextStrings
   keys.forEach((key) => {
     if (
       secondLang[key] === firstLang[key] &&
@@ -62,8 +63,9 @@ export const findDuplicateKeyValues = (
       !IgnoredTextStrings.includes(key) &&
       !defaults[key] &&
       supportedLanguageCodes.includes(firstLangName)
-    )
+    ) {
       errorMessages.push(`Lang: '${secondLang[key]}', Key: '${key}' is equal to: '${firstLang[key]}'`)
+    }
 
     return true
   })
@@ -71,12 +73,16 @@ export const findDuplicateKeyValues = (
   expect(errorMessages).toEqual([])
 }
 
-export const findDuplicateJSONKeys = (fileText: Array<string>, errors: Array<string>, lang: string) => {
+export const findDuplicateJSONKeys = (fileText: string[], errors: string[], lang: string) => {
   const keys = fileText
     .filter((line) => line !== '')
     .map((line) => line.split(':')[0])
     .sort()
-  for (let i = 0; i < keys.length - 1; i++) if (keys[i + 1] === keys[i]) errors.push(`lang:${lang} - key:${keys[i]}`)
+  for (let i = 0; i < keys.length - 1; i++) {
+    if (keys[i + 1] === keys[i]) {
+      errors.push(`lang:${lang} - key:${keys[i]}`)
+    }
+  }
   return errors
 }
 
@@ -88,18 +94,23 @@ export const compareDollarSigns = (
   template = '$'
 ) => {
   const keys = Object.keys(firstLang)
-  const errorMessages: Array<string> = []
+  const errorMessages: string[] = []
   keys.forEach((key) => {
     if (!IgnoredTextStrings.includes(key)) {
-      if (firstLang[key] === undefined) return true
-      if (secondLang[key] === undefined) return true
+      if (firstLang[key] === undefined) {
+        return true
+      }
+      if (secondLang[key] === undefined) {
+        return true
+      }
       if (
         !ignoredKeys.includes(key) &&
         firstLang[key].split(template).length !== secondLang[key].split(template).length
-      )
+      ) {
         errorMessages.push(
           `Lang: '${secondLangName}', Key: '${key}' has not the same amount of ${template} signs as text string in ${firstLangName} lang, plz check`
         )
+      }
     }
     return true
   })
@@ -108,18 +119,21 @@ export const compareDollarSigns = (
 }
 
 const testCompareKeysWithinTextString = (textString1: string, textString2: string, textStringName: string) => {
-  let keys1 = textString1.match(/\{(.*?)\}/g) || []
-  let keys2 = textString2.match(/\{(.*?)\}/g) || []
+  let keys1: string[] = textString1.match(/{(.*?)}/g) ?? []
+  let keys2: string[] = textString2.match(/{(.*?)}/g) ?? []
 
   // remove :possessive
   keys1 = keys1.map((key) => key.replace(':possessive', ''))
   keys2 = keys2.map((key) => key.replace(':possessive', ''))
 
   const errorMessages = keys1.map((key1) => {
-    if (key1.indexOf(' ') !== -1) return undefined
+    if (key1.indexOf(' ') !== -1) {
+      return undefined
+    }
 
-    if (!keys2.includes(key1))
+    if (!keys2.includes(key1)) {
       return `Problem in Text string: ${textStringName}. Cant find {${key1}} in: '${textString2}, {${key1}} key was found in: '${textString1}'`
+    }
 
     return undefined
   })
@@ -145,13 +159,14 @@ export const compareKeysWithinTextStrings = (
 export const checkTemplateLenght = (langs: Record<string, string>, langName = '') => {
   const keys = Object.keys(langs)
   const patternTemplates = 'template_title'
-  const errorMessages: Array<string> = []
+  const errorMessages: string[] = []
   keys.forEach((key) => {
     if (key.includes(patternTemplates) && !IgnoredTextStrings.includes(key)) {
       langs[key] = langs[key].replace(PLZ_TRANSLATE, '')
 
-      if (langs[key].length > 30)
+      if (langs[key].length > 30) {
         errorMessages.push(`Lang: '${langName}', String: '${key}' exeeds 30 characters '${langs[key].length}'`)
+      }
     }
   })
   expect(errorMessages).toEqual([])
@@ -159,7 +174,7 @@ export const checkTemplateLenght = (langs: Record<string, string>, langName = ''
 
 export const checkTemplateRule = (langs: Record<string, string>, langName = '') => {
   const keys = Object.keys(langs)
-  const errorMessages: Array<string> = []
+  const errorMessages: string[] = []
   serverTextStringNames.forEach((serverSring) => {
     keys.forEach((key) => {
       if (!IgnoredTextStrings.includes(key)) {
@@ -180,12 +195,13 @@ export const checkBirgittaInconsistencies = (
   secondLangName = ''
 ) => {
   const keys = Object.keys(firstLang)
-  const errorMessages: Array<string> = []
+  const errorMessages: string[] = []
 
   keys.forEach((key) => {
     // if (firstLang[key].startsWith(' ')) errorMessages.push(`lang: ${firstLangName} text_id:${key}  starts with a space`)
-    if (firstLangName === 'en' && firstLang[key].includes(PLZ_TRANSLATE))
+    if (firstLangName === 'en' && firstLang[key].includes(PLZ_TRANSLATE)) {
       errorMessages.push(`lang: ${firstLangName} text_id:${key} contains ${PLZ_TRANSLATE}`)
+    }
   })
 
   return errorMessages
@@ -196,14 +212,16 @@ export const checkStringLength = (
   secondLang: Record<string, string>,
   firstLangName: string,
   secondLangName: string
-): Array<any> => {
+): any[] => {
   const keys = Object.keys(firstLang)
 
-  const longTextWarning: Array<string> = []
-  const longTextSlackData: Array<object> = []
+  const longTextWarning: string[] = []
+  const longTextSlackData: object[] = []
   keys.forEach((key) => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
-      if (secondLang[key].includes(PLZ_TRANSLATE)) secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
+      if (secondLang[key].includes(PLZ_TRANSLATE)) {
+        secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
+      }
       const differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.2) {
@@ -234,7 +252,9 @@ export const countTranslationTemplates = (lang: Record<string, string>, langName
   const countUsesCheck = []
   const countUsesTranslate = []
   keys.forEach((key) => {
-    if (lang[key].includes(PLZ_TRANSLATE)) countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
+    if (lang[key].includes(PLZ_TRANSLATE)) {
+      countUsesTranslate.push(`Lang: ${langName}, Key: ${key}`)
+    }
   })
   return {
     lang: langName,
@@ -251,16 +271,20 @@ export const stringLengthStatistic = (
 ): object => {
   const keys = Object.keys(firstLang)
 
-  const longTextWarning: Array<string> = []
-  const longTextSlackData: Array<object> = []
+  const longTextWarning: string[] = []
+  const longTextSlackData: object[] = []
   let veryLongText = false
   keys.forEach((key) => {
     if (firstLangName === 'en' && secondLangName !== 'en') {
-      if (secondLang[key].includes(PLZ_TRANSLATE)) secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
+      if (secondLang[key].includes(PLZ_TRANSLATE)) {
+        secondLang[key] = secondLang[key].replace(PLZ_TRANSLATE, '')
+      }
       let differencePerc = (firstLang[key].length - secondLang[key].length) / 100
 
       if (Math.abs(differencePerc) >= 0.25) {
-        if (Math.abs(differencePerc) >= 0.8) veryLongText = true
+        if (Math.abs(differencePerc) >= 0.8) {
+          veryLongText = true
+        }
         differencePerc = differencePerc * 100
         const actIncr = Math.abs(differencePerc) + '%'
         longTextWarning.push(`Lang: ${firstLangName}, Key: ${key} is 20% longer than: ${secondLangName} -> ${actIncr}`)
@@ -278,9 +302,15 @@ export const stringTranslationTags = (lang: Record<string, string>, languageCode
   let numberEmmaStrings = 0
   keys.forEach((key) => {
     if (languageCode) {
-      if (lang[key].includes(PLZ_TRANSLATE)) numberPlzTransalte++
-      if (lang[key].includes(annaTranslationTag)) numberAnnaTranslation++
-      if (lang[key].includes(emmaTranslationTag)) numberEmmaStrings++
+      if (lang[key].includes(PLZ_TRANSLATE)) {
+        numberPlzTransalte++
+      }
+      if (lang[key].includes(annaTranslationTag)) {
+        numberAnnaTranslation++
+      }
+      if (lang[key].includes(emmaTranslationTag)) {
+        numberEmmaStrings++
+      }
     }
   })
   return {
@@ -304,15 +334,16 @@ export const searchPlzTranslate = (
   const arrayPlzTranslate: Array<{key: string; lang: string; path: string}> = []
   let numberPlzTranslate = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (lang[key].includes(PLZ_TRANSLATE)) {
         numberPlzTranslate++
         arrayPlzTranslate.push({
-          key: key,
+          key,
           lang: languageCode,
           path: textStringsType
         })
       }
+    }
   })
   return {data: arrayPlzTranslate, plzTrans: numberPlzTranslate}
 }
@@ -320,19 +351,20 @@ export const searchPlzTranslate = (
 export const searchPlzCopy = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
 
-  const arrayPlzCopy: Array<any> = []
+  const arrayPlzCopy: any[] = []
 
   let numberPlzCopy = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (lang[key].includes(PLZ_COPY)) {
         numberPlzCopy++
         arrayPlzCopy.push({
-          key: key,
+          key,
           lang: languageCode,
           path: textStringsType
         })
       }
+    }
   })
   return {data: arrayPlzCopy, plzCopy: numberPlzCopy}
 }
@@ -343,24 +375,26 @@ export const searchBrokenPlzCopy = (
 ): any => {
   const keys = Object.keys(lang)
 
-  const arrayPlzCopy: Array<object> = []
+  const arrayPlzCopy: object[] = []
 
   let numberBrokenPlzCopy = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (
         (lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('COPY') !== -1) &&
         lang[key].indexOf('TRANSLATE') === -1 &&
         lang[key].indexOf('CHECK') === -1
-      )
+      ) {
         if (!lang[key].includes(PLZ_COPY)) {
           numberBrokenPlzCopy++
           arrayPlzCopy.push({
-            key: key,
+            key,
             lang: languageCode,
             path: textStringsType
           })
         }
+      }
+    }
   })
   return {data: arrayPlzCopy, brokenPLZCopy: numberBrokenPlzCopy}
 }
@@ -372,24 +406,26 @@ export const searchBrokenPlzTranslate = (
 ): any => {
   const keys = Object.keys(lang)
 
-  const arrayPlzTranslate: Array<object> = []
+  const arrayPlzTranslate: object[] = []
 
   let numberBrokenPlzTranslate = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (
         (lang[key].indexOf('PLZ') !== -1 || lang[key].indexOf('TRANSLATE') !== -1) &&
         lang[key].indexOf('COPY') === -1 &&
         lang[key].indexOf('CHECK') === -1
-      )
+      ) {
         if (!lang[key].includes(PLZ_TRANSLATE)) {
           numberBrokenPlzTranslate++
           arrayPlzTranslate.push({
-            key: key,
+            key,
             lang: languageCode,
             path: textStringsType
           })
         }
+      }
+    }
   })
   return {
     data: arrayPlzTranslate,
@@ -400,48 +436,50 @@ export const searchBrokenPlzTranslate = (
 export const checkStringEmptySpace = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
 
-  const arrayEmptySpace: Array<any> = []
+  const arrayEmptySpace: any[] = []
 
   let numberEmptySpace = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (lang[key].startsWith(' ')) {
         numberEmptySpace++
         arrayEmptySpace.push({
-          key: key,
+          key,
           lang: languageCode,
           path: textStringsType
         })
       }
+    }
   })
   return {data: arrayEmptySpace, countStartsEmptySpace: numberEmptySpace}
 }
 export const searchBreakingSymbols = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
-  const arrayBreakingSymbols: Array<any> = []
+  const arrayBreakingSymbols: any[] = []
   let numberBreakingSymbols = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (lang[key].includes('&#')) {
         numberBreakingSymbols++
         arrayBreakingSymbols.push({
-          key: key,
+          key,
           lang: languageCode,
           path: textStringsType
         })
       }
+    }
   })
   return {data: arrayBreakingSymbols, count: numberBreakingSymbols}
 }
 export const checkUpperCaseLetters = (lang: object, languageCode: string, textStringsType: string) => {
   const keys = Object.keys(lang)
-  const arrayUpperCase: Array<any> = []
+  const arrayUpperCase: any[] = []
   let numberUpperCaseKeys = 0
   keys.forEach((key) => {
     if (hasUpperCase(key)) {
       numberUpperCaseKeys++
       arrayUpperCase.push({
-        key: key,
+        key,
         lang: languageCode,
         path: textStringsType
       })
@@ -451,14 +489,16 @@ export const checkUpperCaseLetters = (lang: object, languageCode: string, textSt
 }
 
 export const compareKeysForLanguages = (
-  languages: Array<string>,
+  languages: string[],
   getStrings: (arg0: string) => Record<string, string>,
-  languageCodes: Array<string>
+  languageCodes: string[]
 ) => {
   languages.forEach((lang1) => {
     languages.forEach((lang2) => {
       compareKeys(getStrings(lang1), getStrings(lang2), lang1, lang2)
-      if (!languageCodes.includes(lang1)) findDuplicateKeyValues(getStrings(lang1), getStrings(lang2), lang1, lang2)
+      if (!languageCodes.includes(lang1)) {
+        findDuplicateKeyValues(getStrings(lang1), getStrings(lang2), lang1, lang2)
+      }
     })
   })
 }
@@ -468,7 +508,9 @@ export const findDuplicateJSONKeysInFolders = (dirPath: string, filterDirectorie
   const dirs = readdirSync(path.join(__dirname, dirPath)).filter(filterDirectories)
   const allStrings = dirs
     .reduce((cur, file: string) => {
-      if (file === '.DS_Store') return cur
+      if (file === '.DS_Store') {
+        return cur
+      }
       const nextStrings = readFileSync(path.join(__dirname, `${dirPath}/${file}/en.json`), {
         encoding: 'utf8'
       })
@@ -490,20 +532,21 @@ const hasUpperCase = (str: string) => {
 
 export const searchHtml = (lang: Record<string, string>, languageCode: string, textStringsType: string) => {
   // eslint-disable-next-line no-useless-escape
-  const isHtml = /<[a-z/][sS]*>/
+  const isHtml = /<[/a-z][Ss]*>/
   const keys = Object.keys(lang)
-  const arrayContainsHtml: Array<any> = []
+  const arrayContainsHtml: any[] = []
   let numberHtmlStrings = 0
   keys.forEach((key) => {
-    if (languageCode)
+    if (languageCode) {
       if (lang[key].match(isHtml)) {
         numberHtmlStrings++
         arrayContainsHtml.push({
-          key: key,
+          key,
           lang: languageCode,
           path: textStringsType
         })
       }
+    }
   })
   return {data: arrayContainsHtml, countHtmlStrings: numberHtmlStrings}
 }
