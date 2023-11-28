@@ -1811,8 +1811,8 @@
   "input_field_error_invalid_number": "Het nummer is niet geldig",
   "virtual_account_spending": "Uitgavenrekening",
   "virtual_account_savings": "Gespaard",
-  "virutal_account_total_balance_on": "Totaal op %1$d",
-  "virutal_account_new_feature_pill": "Nieuw!",
+  "virtual_account_total_balance_on": "Totaal op %1$d",
+  "virtual_account_new_feature_pill": "Nieuw!",
   "virtual_account_kid_takeover_title": "Nieuwe spaarfunctie in de app!",
   "virtual_account_kid_takeover_subtitle_1": "Je kunt nu geld opzij zetten",
   "virtual_account_kid_takeover_subtitle_2": "Voor je dromen!",
@@ -1822,5 +1822,10 @@
   "virtual_account_parent_subtitle_2": "Om geld opzij te zetten!",
   "virtual_account_parent_subtitle_3": "Open de kinderapp en ga van start!",
   "virtual_account_parent_takeover_button": "Oke, leuk!",
-  "virtual_account_available_to_spend": "Beschikbaar om uit te geven"
+  "virtual_account_available_to_spend": "Beschikbaar om uit te geven",
+  "edit_savings_header": "PLZ_TRANSLATE Edit savings",
+  "edit_savings_available_to_spend": "PLZ_TRANSLATE Available to spend",
+  "edit_savings_saved": "PLZ_TRANSLATE Saved",
+  "edit_savings_adjust_your_savings": "PLZ_TRANSLATE Adjust your savings",
+  "edit_savings_explainer_text": "PLZ_TRANSLATE Choose how much you want to transfer between your accounts"
 }
