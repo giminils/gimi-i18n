@@ -1827,5 +1827,8 @@
   "edit_savings_available_to_spend": "PLZ_TRANSLATE Available to spend",
   "edit_savings_saved": "PLZ_TRANSLATE Saved",
   "edit_savings_adjust_your_savings": "PLZ_TRANSLATE Adjust your savings",
-  "edit_savings_explainer_text": "PLZ_TRANSLATE Choose how much you want to transfer between your accounts"
+  "edit_savings_explainer_text": "PLZ_TRANSLATE Choose how much you want to transfer between your accounts",
+  "you_have_overspent_title": "PLZ_TRANSLATE You have overspent!",
+  "you_have_overspent_description": "PLZ_TRANSLATE The following amount needs to be deducted from your savings jar.",
+  "you_have_overspent_button": "PLZ_TRANSLATE Move %1$d"
 }

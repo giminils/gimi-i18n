@@ -1827,5 +1827,8 @@
   "edit_savings_available_to_spend": "Available to spend",
   "edit_savings_saved": "Saved",
   "edit_savings_adjust_your_savings": "Adjust your savings",
-  "edit_savings_explainer_text": "Choose how much you want to transfer between your accounts"
+  "edit_savings_explainer_text": "Choose how much you want to transfer between your accounts",
+  "you_have_overspent_title": "You have overspent!",
+  "you_have_overspent_description": "The following amount needs to be deducted from your savings jar.",
+  "you_have_overspent_button": "Move %1$d"
 }
