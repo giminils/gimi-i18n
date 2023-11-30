@@ -1830,5 +1830,7 @@
   "edit_savings_explainer_text": "PLZ_TRANSLATE Choose how much you want to transfer between your accounts",
   "you_have_overspent_title": "PLZ_TRANSLATE You have overspent!",
   "you_have_overspent_description": "PLZ_TRANSLATE The following amount needs to be deducted from your savings jar.",
-  "you_have_overspent_button": "PLZ_TRANSLATE Move %1$d"
+  "you_have_overspent_button": "PLZ_TRANSLATE Move %1$d",
+  "your_account_is_out_of_funds_title": "PLZ_TRANSLATE Your demo account is out of funds",
+  "your_account_is_out_of_funds_description": "PLZ_TRANSLATE In order to be able to add money to savings, you need to have a positive amount."
 }
