@@ -182,5 +182,6 @@
   "push_pro_discount": "I morgon lanseras Pro! Sista chansen att uppgradera för att behålla sparmål, bankkonto-koppling och lektioner • Få 51 % rabatt",
   "weekly_allowance_v2": "veckopeng",
   "monthly_allowance_v2": "månadspeng",
-  "CHGEON044_notification_text": "Viktig info: Om du märker att något förändras i din app kan det bero på att delar av Gimi från och med 25 oktober kräver prenumeration – bland annat att koppla Bankkonto och att skapa Sparmål. Däremot fungerar Demokonto, Veckopeng och Sysslor som vanligt!"
+  "CHGEON044_notification_text": "Viktig info: Om du märker att något förändras i din app kan det bero på att delar av Gimi från och med 25 oktober kräver prenumeration – bland annat att koppla Bankkonto och att skapa Sparmål. Däremot fungerar Demokonto, Veckopeng och Sysslor som vanligt!",
+  "CHGERE045_notification_text": "Pengar är på väg till dig från {parent.nickname}"
 }
