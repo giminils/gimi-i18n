@@ -1,4 +1,0 @@
-För att slutföra aktiveringen av Apple Pay på ditt kort med slutsiffrorna {{ last_four_card_number }}, begär en ny verifieringskod.
-1. Öppna Wallet
-2. Tryck på ditt kort
-3. Tryck på Välj ett annat verifieringsalternativ
