@@ -1833,5 +1833,6 @@
   "you_have_overspent_button": "Flytta %1$d",
   "you_have_overspent_transfer_successful": "Sparpengar uttagna!",
   "your_account_is_out_of_funds_title": "Ditt konto saknar pengar",
-  "your_account_is_out_of_funds_description": "För att kunna flytta pengar till Valvet behöver du ett belopp högre än 0."
+  "your_account_is_out_of_funds_description": "För att kunna flytta pengar till Valvet behöver du ett belopp högre än 0.",
+  "trust_badge_text": "PLZ_TRANSLATE Trusted by 300 000 families"
 }

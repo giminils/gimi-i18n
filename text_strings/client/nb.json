@@ -1833,5 +1833,6 @@
   "you_have_overspent_button": "PLZ_TRANSLATE Move %1$d",
   "you_have_overspent_transfer_successful": "PLZ_TRANSLATE Saved money transfered",
   "your_account_is_out_of_funds_title": "PLZ_TRANSLATE Your demo account is out of funds",
-  "your_account_is_out_of_funds_description": "PLZ_TRANSLATE In order to be able to add money to savings, you need to have a positive amount."
+  "your_account_is_out_of_funds_description": "PLZ_TRANSLATE In order to be able to add money to savings, you need to have a positive amount.",
+  "trust_badge_text": "PLZ_TRANSLATE Trusted by 300 000 families"
 }
