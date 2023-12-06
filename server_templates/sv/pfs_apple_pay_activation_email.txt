@@ -1,6 +1,0 @@
-För att aktivera {{ wallet_provider }}, öppna Wallet-appen, tryck på ditt Gimi kort, tryck på Ange Kod och skriv in {{ activation_code }}.
-Denna kod upphör att gälla 30 minuter och gäller för kort med slutsiffrorna {{ last_four_card_number }}.
-Om du inte har gjort denna begäran, vänligen kontakta oss på +460877700550.
-
-Hälsningar,
-Gimi
