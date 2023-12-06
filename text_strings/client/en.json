@@ -1832,6 +1832,6 @@
   "you_have_overspent_description": "The following amount needs to be deducted from the Vault.",
   "you_have_overspent_button": "Deduct %1$d",
   "you_have_overspent_transfer_successful": "Saved money transfered",
-  "your_account_is_out_of_funds_title": "Your demo account is out of funds",
+  "your_account_is_out_of_funds_title": "Your account is out of funds",
   "your_account_is_out_of_funds_description": "In order to be able to add money to savings, you need to have a positive amount."
 }
