@@ -1810,7 +1810,7 @@
   "input_field_error_field_is_required": "Fältet behöver fyllas i",
   "input_field_error_invalid_number": "Ange en annan siffra",
   "virtual_account_spending": "Att handla för",
-  "virtual_account_savings": "Valvet",
+  "virtual_account_savings": "I Valvet",
   "virtual_account_total_balance_on": "Totalt på %1$d",
   "virtual_account_new_feature_pill": "Nyhet!",
   "virtual_account_kid_takeover_title": "Ny sparfunktion i din app!",
@@ -1831,8 +1831,8 @@
   "you_have_overspent_title": "Du har gått över din köpgräns!",
   "you_have_overspent_description": "Följande summa behöver flyttas från ditt sparande.",
   "you_have_overspent_button": "Flytta %1$d",
-  "you_have_overspent_transfer_successful": "Sparpengar uttagna!",
+  "you_have_overspent_transfer_successful": "Pengar uttagna ur Valvet!",
   "your_account_is_out_of_funds_title": "Ditt konto saknar pengar",
   "your_account_is_out_of_funds_description": "För att kunna flytta pengar till Valvet behöver du ett belopp högre än 0.",
-  "trust_badge_text": "PLZ_TRANSLATE Trusted by \n 300 000 families"
+  "trust_badge_text": "Använd av över \n 300 000 familjer"
 }
