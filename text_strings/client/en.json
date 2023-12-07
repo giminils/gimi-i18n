@@ -1810,7 +1810,7 @@
   "input_field_error_field_is_required": "The field is required",
   "input_field_error_invalid_number": "The number is not valid",
   "virtual_account_spending": "Available to spend",
-  "virtual_account_savings": "The Vault",
+  "virtual_account_savings": "In the Vault",
   "virtual_account_total_balance_on": "Total on %1$d",
   "virtual_account_new_feature_pill": "New!",
   "virtual_account_kid_takeover_title": "New savings feature in the app!",
