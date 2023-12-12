@@ -1834,8 +1834,8 @@
   "you_have_overspent_button": "Deduct %1$d",
   "you_have_overspent_transfer_successful": "Saved money transfered",
   "your_account_is_out_of_funds_title": "Your account is out of funds",
-  "your_account_is_out_of_funds_description": "In order to be able to add money to savings, you need to have a positive amount.",
-  "trust_badge_text": "Trusted by \n300 000 families",
+  "your_account_is_out_of_funds_description": "In order to be able to add savings to the Vault, you need to have money on the account.",
+  "trust_badge_text": "Trusted by over \n300 000 families",
   "general_upgrade_to_pro": "Upgrade to Pro",
   "upgrade_banner_description": "Give your child the complete skillset"
 }
