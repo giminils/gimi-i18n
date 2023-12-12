@@ -1837,5 +1837,9 @@
   "your_account_is_out_of_funds_description": "PLZ_TRANSLATE In order to be able to add money to savings, you need to have a positive amount.",
   "trust_badge_text": "PLZ_TRANSLATE Trusted by \n300 000 families",
   "general_upgrade_to_pro": "PLZ_TRANSLATE Upgrade to Pro",
-  "upgrade_banner_description": "PLZ_TRANSLATE Give your child the complete skillset"
+  "upgrade_banner_description": "PLZ_TRANSLATE Give your child the complete skillset",
+  "upgrade_banner_one_pro_kid_siblings_offer_title": "PLZ_TRANSLATE Upgrade to Pro",
+  "upgrade_banner_one_pro_kid_siblings_offer_description": "PLZ_TRANSLATE Siblings 50% off",
+  "upgrade_banner_free_user_siblings_offer_title": "PLZ_TRANSLATE Upgrade to Pro",
+  "upgrade_banner_free_user_siblings_offer_description": "PLZ_TRANSLATE Siblings 50% off"
 }
