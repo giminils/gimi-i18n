@@ -1841,5 +1841,6 @@
   "upgrade_banner_one_pro_kid_siblings_offer_title": "PLZ_TRANSLATE Upgrade to Pro",
   "upgrade_banner_one_pro_kid_siblings_offer_description": "PLZ_TRANSLATE Siblings 50% off",
   "upgrade_banner_free_user_siblings_offer_title": "PLZ_TRANSLATE Upgrade to Pro",
-  "upgrade_banner_free_user_siblings_offer_description": "PLZ_TRANSLATE Siblings 50% off"
+  "upgrade_banner_free_user_siblings_offer_description": "PLZ_TRANSLATE Siblings 50% off",
+  "siblings_discount_applied": "PLZ_TRANSLATE Siblings discount applied"
 }
