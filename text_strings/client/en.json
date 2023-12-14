@@ -1837,10 +1837,12 @@
   "your_account_is_out_of_funds_description": "In order to be able to add savings to the Vault, you need to have money on the account.",
   "trust_badge_text": "Trusted by over \n300 000 families",
   "general_upgrade_to_pro": "Upgrade to Pro",
-  "upgrade_banner_description": "Give your child the complete skillset",
+  "upgrade_banner_description": "Give your child the full skillset",
   "upgrade_banner_one_pro_kid_siblings_offer_title": "Upgrade to Pro",
   "upgrade_banner_one_pro_kid_siblings_offer_description": "Siblings 50% off",
   "upgrade_banner_free_user_siblings_offer_title": "Upgrade to Pro",
   "upgrade_banner_free_user_siblings_offer_description": "Siblings 50% off",
-  "siblings_discount_applied": "Siblings discount applied"
+  "siblings_discount_applied": "Siblings discount applied",
+  "kid_monthly_stats_title": "Account statistics",
+  "kid_monthly_stats_description": "See month by month"
 }

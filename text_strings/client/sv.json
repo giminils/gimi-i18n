@@ -1837,10 +1837,12 @@
   "your_account_is_out_of_funds_description": "För att kunna lägga till sparande i Valvet behöver du ha pengar på kontot.",
   "trust_badge_text": "Använd av över \n300 000 familjer",
   "general_upgrade_to_pro": "Uppgradera till Pro",
-  "upgrade_banner_description": "Ge ditt barn de bästa förutsättningarna",
+  "upgrade_banner_description": "Ge ditt barn alla verktyg",
   "upgrade_banner_one_pro_kid_siblings_offer_title": "Uppgradera till Pro",
   "upgrade_banner_one_pro_kid_siblings_offer_description": "50% syskonrabatt",
   "upgrade_banner_free_user_siblings_offer_title": "Uppgradera till Pro",
   "upgrade_banner_free_user_siblings_offer_description": "50% syskonrabatt",
-  "siblings_discount_applied": "Syskonrabatt inkluderad"
+  "siblings_discount_applied": "Syskonrabatt inkluderad",
+  "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
+  "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month"
 }
