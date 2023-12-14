@@ -1,9 +1,8 @@
 // calendar
+import Accounting from 'accounting'
 import defaultCalendar from './text_strings/calendar/default.json'
 // native error messages
 import defaultNativeErrorMessages from './native/error-messages/default.json'
-
-import Accounting from 'accounting'
 import CountryCodes from './CountryCodes.json'
 import Regions from './Regions.json'
 import Cities from './Cities.json'
@@ -21,7 +20,7 @@ export const supportedLanguageCodes = ['sv', 'nb', 'en', 'nl']
 export const languageCodes = ['sv', 'nb', 'en', 'nl']
 export const languageCodesForTranslation = ['sv', 'nb', 'en', 'nl']
 
-export let supportedTimeZonesAndroid = [
+export const supportedTimeZonesAndroid = [
   'Europe/Stockholm',
   'Europe/Oslo',
   'Europe/Helsinki',
@@ -49,7 +48,7 @@ export type CurrencyInfo = {
   langKey: string
 }
 
-export const getSupportedCurrencyInfos = (): Array<CurrencyInfo> => [
+export const getSupportedCurrencyInfos = (): CurrencyInfo[] => [
   {code: 'SEK', name: 'Swedish Krona', langKey: 'currency_sek'},
   {code: 'NOK', name: 'Norwegian Krone', langKey: 'currency_nok'},
   {code: 'DKK', name: 'Danish Krone', langKey: 'currency_dkk'},
@@ -183,7 +182,7 @@ export const getNativeErrorMessageStrings = (lang: string): Record<string, strin
 export const getEnBotSurveyStrings = () => require('./text_strings/bot-survey/en.json')
 
 export const removeTranslationHelpers = (text: string): string => {
-  text = text.replace(/\[.*?\]/g, '').trim()
+  text = text.replace(/\[.*?]/g, '').trim()
   text = text.replace(new RegExp(translationHelpTemplate, 'g'), '')
   text = text.replace(new RegExp(translationHelperEMMA, 'g'), '')
   text = text.replace(new RegExp(PLZ_COPY, 'g'), '')
@@ -200,7 +199,7 @@ export const getCities = () => Cities
 export const getCountries = () => CountryCodes
 export const getCountry = (countryCode: string) => CountryCodes.find((country) => country.code === countryCode)
 export const getPhoneNumberPrefix = (country: string) => {
-  let prefixes: Record<string, string> = countryCodes2PhoneNumberPrefixes
+  const prefixes: Record<string, string> = countryCodes2PhoneNumberPrefixes
   return parseInt(prefixes[country.toUpperCase()])
 }
 export const getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
@@ -211,14 +210,16 @@ export const getLanguageCodes = () =>
       supportedLanguageCodes.indexOf(languageCode.code) !== -1
   )
 export const getDefaultCurrencyCode = (userCountryCode?: string): string => {
-  let currencies: Record<string, string> = DefaultCurrencies
+  const currencies: Record<string, string> = DefaultCurrencies
   return userCountryCode ? currencies[userCountryCode] || 'EUR' : 'EUR'
 }
 
 export const getSupportedTimeZones = (): typeof Timezones => {
-  let shortList: typeof Timezones = []
+  const shortList: typeof Timezones = []
   Timezones.map((zone) => {
-    if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1) shortList.push(zone)
+    if (supportedTimeZonesAndroid.indexOf(zone.value) !== -1) {
+      shortList.push(zone)
+    }
     return zone
   })
   return shortList || Timezones
@@ -234,26 +235,35 @@ export function getText(
   textTransform = 'capitalize',
   textStrings?: Record<string, string>
 ): string {
-  if (!textStrings || !langKey) return ''
+  if (!textStrings || !langKey) {
+    return ''
+  }
   let text = textStrings[langKey]
-  if (!text) return ''
+  if (!text) {
+    return ''
+  }
   text = removeTranslationHelpers(text)
   text = text.trim()
-  if (values) text = applyValues(text, values)
+  if (values) {
+    text = applyValues(text, values)
+  }
   text = applyTransform(text, textTransform)
   return text
 }
 
 export const applyValues = (text: string, values: Array<string | number>): string => {
-  if (!!values && Array.isArray(values))
+  if (!!values && Array.isArray(values)) {
     values.forEach((item, index) => {
       text = text.split(`%${index + 1}$d`).join(item !== undefined ? item.toString() : '')
     })
+  }
   return text
 }
 
 export const applyTransform = (text: string, textTransform: string | undefined = 'capitalize'): string => {
-  if (!textTransform) return text
+  if (!textTransform) {
+    return text
+  }
   switch (textTransform) {
     case 'uppercase':
       return text.toUpperCase()
@@ -266,7 +276,7 @@ export const applyTransform = (text: string, textTransform: string | undefined =
   }
 }
 
-export let getClienStrings = (lang: string) => {
+export const getClienStrings = (lang: string) => {
   switch (lang.substring(0, 2)) {
     case 'sv':
       return require('./text_strings/client/sv.json') // sweden
@@ -281,7 +291,7 @@ export let getClienStrings = (lang: string) => {
 }
 
 export function formatMoney(value: number, currencyCode: string | undefined): string {
-  let currencySymbol = getCurrencySymbol(currencyCode || '')
+  const currencySymbol = getCurrencySymbol(currencyCode || '')
   switch (currencyCode) {
     // no decimals
     case 'SEK':
@@ -385,8 +395,10 @@ export function getCurrencySymbol(currencyCode: string): string {
 }
 
 export function formatDecimals(value: number): number {
-  let decimalValue = value - Math.floor(value)
-  if (decimalValue === 0) return 0
+  const decimalValue = value - Math.floor(value)
+  if (decimalValue === 0) {
+    return 0
+  }
   return 2
 }
 

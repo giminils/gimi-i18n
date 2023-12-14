@@ -1843,6 +1843,8 @@
   "upgrade_banner_free_user_siblings_offer_title": "Oppgrader til Pro",
   "upgrade_banner_free_user_siblings_offer_description": "50% søskenrabatt",
   "siblings_discount_applied": "Søskenrabatt inkludert",
+  "siblings_discount": "PLZ_TRANSLATE Siblings discount",
+  "siblings_discount_explainer": "PLZ_TRANSLATE 50% on every sibling!",
   "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
   "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month"
 }

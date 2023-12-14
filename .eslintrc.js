@@ -76,7 +76,8 @@ module.exports = {
         '@typescript-eslint/no-explicit-any': 'off',
         // We should probably turn this on at some point
         'jest/prefer-expect-assertions': 'off',
-        'jest/consistent-test-it': ['warn', {fn: 'it', withinDescribe: 'it'}]
+        'jest/consistent-test-it': ['warn', {fn: 'it', withinDescribe: 'it'}],
+        'jest/no-conditional-expect': 'warn'
       }
     },
     {
