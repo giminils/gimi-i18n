@@ -183,5 +183,6 @@
   "weekly_allowance_v2": "ukepenger",
   "monthly_allowance_v2": "månedspenger",
   "CHGEON044_notification_text": "Viktig info: Hvis du legger merke til at noe har endret seg i appen kan det skyldes at Gimi krever abonnement fra 25. oktober – blant annet for å kunne bruke Sparemål og Bankkontoer. Men Demokontoen, Ukepenger og Oppgaver vil fortsette å fungere akkurat som før.",
-  "CHGERE045_notification_text": "Penger er på vei til deg fra {parent.nickname}"
+  "CHGERE045_notification_text": "Penger er på vei til deg fra {parent.nickname}",
+  "CHGERE046_notification_text": "PLZ_TRANSLATE {month_name} is up! Check out what happened to your money last month"
 }

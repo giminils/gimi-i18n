@@ -183,5 +183,6 @@
   "weekly_allowance_v2": "weekly allowance",
   "monthly_allowance_v2": "monthly allowance",
   "CHGEON044_notification_text": "Important info: If you notice that something has changed in the app, it could be due to Gimi requiring a subscription from the 25th of October - among other things to be able to use Goals and Bank accounts. However, the Demo account, Allowance and Chores will continue to work just as before.",
-  "CHGERE045_notification_text": "Money is on the way to you from {parent.nickname}"
+  "CHGERE045_notification_text": "Money is on the way to you from {parent.nickname}",
+  "CHGERE046_notification_text": "{month_name} is up! Check out what happened to your money last month"
 }
