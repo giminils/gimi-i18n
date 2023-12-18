@@ -184,5 +184,5 @@
   "monthly_allowance_v2": "månadspeng",
   "CHGEON044_notification_text": "Viktig info: Om du märker att något förändras i din app kan det bero på att delar av Gimi från och med 25 oktober kräver prenumeration – bland annat att koppla Bankkonto och att skapa Sparmål. Däremot fungerar Demokonto, Veckopeng och Sysslor som vanligt!",
   "CHGERE045_notification_text": "Pengar är på väg till dig från {parent.nickname}",
-  "CHGERE046_notification_text": "PLZ_TRANSLATE {month_name} is up! Check out what happened to your money last month"
+  "CHGERE046_notification_text": "{month_name} är förbi! Spana in hur det gick för dina pengar förra månaden"
 }
