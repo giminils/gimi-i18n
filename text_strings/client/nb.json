@@ -1846,5 +1846,6 @@
   "siblings_discount": "Søskenrabatt",
   "siblings_discount_explainer": "50% fra det andre barnet",
   "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
-  "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month"
+  "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month",
+  "upcoming_transactions_title": "Innkommende"
 }
