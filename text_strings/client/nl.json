@@ -1847,5 +1847,7 @@
   "siblings_discount_explainer": "PLZ_TRANSLATE 50% on every sibling!",
   "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
   "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month",
+  "kid_monthly_stats_dashboard_tab_title": "PLZ_TRANSLATE Your month",
+  "kid_monthly_stats_dashboard_tab_description": "PLZ_TRANSLATE Check how it went?",
   "upcoming_transactions_title": "PLZ_TRANSLATE In progress"
 }
