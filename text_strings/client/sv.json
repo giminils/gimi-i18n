@@ -1843,8 +1843,8 @@
   "upgrade_banner_free_user_siblings_offer_title": "Uppgradera till Pro",
   "upgrade_banner_free_user_siblings_offer_description": "50% syskonrabatt",
   "siblings_discount_applied": "Syskonrabatt inkluderad",
-  "siblings_discount": "PLZ_TRANSLATE Siblings discount",
-  "siblings_discount_explainer": "PLZ_TRANSLATE 50% on every sibling!",
+  "siblings_discount": "Syskonrabatt",
+  "siblings_discount_explainer": "50% från andra barnet!",
   "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
   "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month"
 }
