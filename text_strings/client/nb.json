@@ -1845,9 +1845,9 @@
   "siblings_discount_applied": "Søskenrabatt inkludert",
   "siblings_discount": "Søskenrabatt",
   "siblings_discount_explainer": "50% fra det andre barnet",
-  "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
-  "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month",
-  "kid_monthly_stats_dashboard_tab_title": "PLZ_TRANSLATE Your month",
-  "kid_monthly_stats_dashboard_tab_description": "PLZ_TRANSLATE Check how it went?",
+  "kid_monthly_stats_title": "Statistikk",
+  "kid_monthly_stats_description": "Se måned for måned",
+  "kid_monthly_stats_dashboard_tab_title": "Måneden din",
+  "kid_monthly_stats_dashboard_tab_description": "Sjekk hvordan det gikk?",
   "upcoming_transactions_title": "Innkommende"
 }
