@@ -182,6 +182,8 @@
   "push_pro_discount": "Tomorrow Pro is being launched! Last chance to upgrade to keep Savings goal, Bank account connection and lessons • Get 51% discount",
   "weekly_allowance_v2": "wekelijks zakgeld",
   "monthly_allowance_v2": "maandelijks zakgeld",
+  "weekly_allowance_v3": "Wekelijks zakgeld",
+  "monthly_allowance_v3": "Maandelijks zakgeld",
   "CHGEON044_notification_text": "Important info: If you notice that something changes in your app, it may be because parts of Gimi require a subscription as of October 25 - including connecting a bank account and creating a Savings goal. However, Demo account, Allowance and Chores work as usual!",
   "CHGERE045_notification_text": "Er is geld naar jou onderweg van {parent.nickname}",
   "CHGERE046_notification_text": "PLZ_TRANSLATE {month_name} is up! Check out what happened to your money last month"
