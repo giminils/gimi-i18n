@@ -1845,9 +1845,9 @@
   "siblings_discount_applied": "Syskonrabatt inkluderad",
   "siblings_discount": "Syskonrabatt",
   "siblings_discount_explainer": "50% från andra barnet!",
-  "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
-  "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month",
-  "kid_monthly_stats_dashboard_tab_title": "PLZ_TRANSLATE Your month",
-  "kid_monthly_stats_dashboard_tab_description": "PLZ_TRANSLATE Check how it went?",
+  "kid_monthly_stats_title": "Statistik",
+  "kid_monthly_stats_description": "Se månad för månad",
+  "kid_monthly_stats_dashboard_tab_title": "Din månad",
+  "kid_monthly_stats_dashboard_tab_description": "Kolla hur den gick?",
   "upcoming_transactions_title": "Inkommande"
 }
