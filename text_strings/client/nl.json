@@ -1843,11 +1843,11 @@
   "upgrade_banner_free_user_siblings_offer_title": "Upgraden naar Pro",
   "upgrade_banner_free_user_siblings_offer_description": "Broer/zus korting 50%",
   "siblings_discount_applied": "Broer/zuskorting inbegrepen",
-  "siblings_discount": "PLZ_TRANSLATE Siblings discount",
-  "siblings_discount_explainer": "PLZ_TRANSLATE 50% on every sibling!",
-  "kid_monthly_stats_title": "PLZ_TRANSLATE Account statistics",
-  "kid_monthly_stats_description": "PLZ_TRANSLATE See month by month",
-  "kid_monthly_stats_dashboard_tab_title": "PLZ_TRANSLATE Your month",
-  "kid_monthly_stats_dashboard_tab_description": "PLZ_TRANSLATE Check how it went?",
-  "upcoming_transactions_title": "PLZ_TRANSLATE In progress"
+  "siblings_discount": "Broer/zus korting",
+  "siblings_discount_explainer": "50% van de andere broer of zus",
+  "kid_monthly_stats_title": "Statistieken",
+  "kid_monthly_stats_description": "Bekijk per maand",
+  "kid_monthly_stats_dashboard_tab_title": "Jouw maand",
+  "kid_monthly_stats_dashboard_tab_description": "Checken hoe het ging?",
+  "upcoming_transactions_title": "In uitvoering"
 }
