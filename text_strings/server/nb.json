@@ -73,7 +73,7 @@
   "ADPRRE011_push_title": "En påminnelse om å betale abbonementet ditt ellers vil Superskills Pro opphøre!",
   "CHGERE017_notification_title": "Invitasjonen din ble avvist. Ønsker du å invitere andre?",
   "ADGERE016_notification_title": "Invitasjonen din ble avvist. Ønsker du å invitere andre?",
-  "CHFRRE001_notification_title_v3": "{allowance_frequency}! {formatted_amount} ble satt inn – hvor mye vil du spare, og hvor mye vil du handle for? Test den nye Sparesafen i Gimi",
+  "CHFRRE001_notification_title_v3": "{allowance_frequency}! {formatted_amount} ble satt inn. Vil du spare eller handle? Test den nye Sparesafen i Gimi",
   "CHFRRE001_push_title": "{allowance_frequency}! Perfekt tid for å prøve den nye Sparesafen. Hvor mye vil du legge til side?",
   "ADGERE011_notification_title": "{child.nickname} har nådd et mål",
   "ADGERE021_push_title_v2": "Ikke glem å sette opp belønningen {child.nickname} i appen",
