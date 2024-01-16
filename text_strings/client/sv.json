@@ -453,7 +453,7 @@
   "seperated_parents": "skilda föräldrar",
   "general_general_settings": "användarinställningar",
   "delete_recurring_popover_title": "Är du säker på att du vill radera %1$d?",
-  "delete_recurring_popover_text": "Detta innebär att du raderar den för alla dagar den är aktiv, samt alla redan godkända sysslor. Pengarna i Payday som tidigare tjänats på denna syssla kommer därmed dras bort. Om du bara vill ändra när den är tillgänglig, gå till inställningar för Sysslor!",
+  "delete_recurring_popover_text": "Detta innebär att du raderar den för alla dagar den är aktiv, samt alla nyligen godkända tillfällen. Pengarna som tjänats på denna syssla, men som inte ännu betalats ut, kommer därmed dras bort.",
   "general_delete_all": "Radera allt",
   "payday_takeover_multiple_parents_info": "%1$d har andra kontakter. Du kan se vad de betalar i transaktionslistan.",
   "payday_takeover_subtitle_parent_weekly": "Din veckopeng har lagts till i demokontot!",
