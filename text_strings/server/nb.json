@@ -186,5 +186,9 @@
   "monthly_allowance_v3": "Månedspenger",
   "CHGEON044_notification_text": "Viktig info: Hvis du legger merke til at noe har endret seg i appen kan det skyldes at Gimi krever abonnement fra 25. oktober – blant annet for å kunne bruke Sparemål og Bankkontoer. Men Demokontoen, Ukepenger og Oppgaver vil fortsette å fungere akkurat som før.",
   "CHGERE045_notification_text": "Penger er på vei til deg fra {parent.nickname}",
-  "CHGERE046_notification_text": "{month_name} er over! Sjekk hva som skjedde med pengene dine forrige måned"
+  "CHGERE046_notification_text": "{month_name} er over! Sjekk hva som skjedde med pengene dine forrige måned",
+  "CHGERE047_notification_title": "Piggy-melding",
+  "CHGERE047_notification_text": "Hei {child_name}. Høre en vits? Hvorfor spiste eleven leksene? Ja det var ‘en piece of cake’ 🙂 Kom til chatten, så snakker vi om bedre måter å bli pengesmart på",
+  "CHGERE048_notification_title": "Lyst til å tjene penger? 💰",
+  "CHGERE048_notification_text": "Gjør det tusenvis av Gimi-kids allerede gjør: Foreslå en oppgave og øk kontoen din med fine ekstra penger!"
 }

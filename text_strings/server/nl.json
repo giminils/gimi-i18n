@@ -186,5 +186,9 @@
   "monthly_allowance_v3": "Maandelijks zakgeld",
   "CHGEON044_notification_text": "Important info: If you notice that something changes in your app, it may be because parts of Gimi require a subscription as of October 25 - including connecting a bank account and creating a Savings goal. However, Demo account, Allowance and Chores work as usual!",
   "CHGERE045_notification_text": "Er is geld naar jou onderweg van {parent.nickname}",
-  "CHGERE046_notification_text": "PLZ_TRANSLATE {month_name} is up! Check out what happened to your money last month"
+  "CHGERE046_notification_text": "PLZ_TRANSLATE {month_name} is up! Check out what happened to your money last month",
+  "CHGERE047_notification_title": "PLZ_TRANSLATE PLZ_TRANSLATE Piggy-message",
+  "CHGERE047_notification_text": "PLZ_TRANSLATE PLZ_TRANSLATE Hi {child_name}. Wanna hear a joke? Why did the student eat their homework? It was a piece of cake 🙂 Come in to the chat, I’ll tell you better ways to become money smart",
+  "CHGERE048_notification_title": "PLZ_TRANSLATE PLZ_TRANSLATE Earning-time! 💰",
+  "CHGERE048_notification_text": "PLZ_TRANSLATE PLZ_TRANSLATE Do what thousands of Gimi-kids already do: Suggest a chore and give your allowance a boost!"
 }

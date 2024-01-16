@@ -186,5 +186,9 @@
   "monthly_allowance_v3": "Monthly allowance",
   "CHGEON044_notification_text": "Important info: If you notice that something has changed in the app, it could be due to Gimi requiring a subscription from the 25th of October - among other things to be able to use Goals and Bank accounts. However, the Demo account, Allowance and Chores will continue to work just as before.",
   "CHGERE045_notification_text": "Money is on the way to you from {parent.nickname}",
-  "CHGERE046_notification_text": "{month_name} is up! Check out what happened to your money last month"
+  "CHGERE046_notification_text": "{month_name} is up! Check out what happened to your money last month",
+  "CHGERE047_notification_title": "Piggy-message",
+  "CHGERE047_notification_text": "Hi {child_name}. Wanna hear a joke? Why did the student eat their homework? It was a piece of cake 🙂 Come in to the chat, I’ll tell you better ways to become money smart",
+  "CHGERE048_notification_title": "Earning-time! 💰",
+  "CHGERE048_notification_text": "Do what thousands of Gimi-kids already do: Suggest a chore and give your allowance a boost!"
 }

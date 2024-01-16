@@ -186,5 +186,9 @@
   "monthly_allowance_v3": "Månadspeng",
   "CHGEON044_notification_text": "Viktig info: Om du märker att något förändras i din app kan det bero på att delar av Gimi från och med 25 oktober kräver prenumeration – bland annat att koppla Bankkonto och att skapa Sparmål. Däremot fungerar Demokonto, Veckopeng och Sysslor som vanligt!",
   "CHGERE045_notification_text": "Pengar är på väg till dig från {parent.nickname}",
-  "CHGERE046_notification_text": "{month_name} är förbi! Spana in hur det gick för dina pengar förra månaden"
+  "CHGERE046_notification_text": "{month_name} är förbi! Spana in hur det gick för dina pengar förra månaden",
+  "CHGERE047_notification_title": "Piggy säger halloj",
+  "CHGERE047_notification_text": "Hej {child_name}. Skämtdags! Varför åt eleven upp läxan? Jo, den var lätt som en plätt 🙂 Kom in till chatten så berättar jag om bättre sätt att bli pengasmart",
+  "CHGERE048_notification_title": "Tjäna-läge 💰",
+  "CHGERE048_notification_text": "Gör som tusentals Gimi-kids redan gör: Föreslå en syssla och boosta ditt konto med sköna extrapengar!"
 }
