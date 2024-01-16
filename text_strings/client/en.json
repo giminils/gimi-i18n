@@ -453,7 +453,7 @@
   "seperated_parents": "Separated parents",
   "general_general_settings": "General settings",
   "delete_recurring_popover_title": "You sure you want to delete %1$d?",
-  "delete_recurring_popover_text": "This means deleting it on all its active days, as well as all completed chores. It will also deduct the money previously earned through this chore from Payday. If you only want to change the frequency, go to chore settings!",
+  "delete_recurring_popover_text": "This means deleting it on all its active days, as well as all recently completed. It will also deduct the money earned through this chore that are not yet paid out.",
   "general_delete_all": "Delete all",
   "payday_takeover_multiple_parents_info": "%1$d has other connections. You can see what they pay in the transaction list.",
   "payday_takeover_subtitle_parent_weekly": "Your weekly allowance has been added to the demo account.",
