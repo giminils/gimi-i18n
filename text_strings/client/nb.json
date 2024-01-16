@@ -453,7 +453,7 @@
   "seperated_parents": "Skilte foreldre",
   "general_general_settings": "Generelle innstillinger",
   "delete_recurring_popover_title": "Er du sikker på at du vil slette %1$d?",
-  "delete_recurring_popover_text": "Det betyr at du sletter det på alle aktive dager, samt alle allerede godkjente oppgaver. Pengene i Payday som tidligere er tjent på denne oppgaven, vil dermed bli slettet. Hvis du bare vil endre hyppigheten, gå til oppgaveinnstillinger!",
+  "delete_recurring_popover_text": "Det betyr at du sletter den for alle dagene den er aktiv, samt alle nylig godkjente. Pengene som er tjent på denne oppgaven, men som ennå ikke er utbetalt, vil dermed bli slettet.",
   "general_delete_all": "Slett alt",
   "payday_takeover_multiple_parents_info": "%1$d har andre kontakter. Du kan se hva de betaler i transaksjonslisten.",
   "payday_takeover_subtitle_parent_weekly": "Din ukepeng er lagt til demokontoen.",
