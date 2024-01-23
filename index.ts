@@ -15,10 +15,10 @@ import ExperimentalCourses from './Education'
 import * as School from './school/School'
 import AllowanceSuggestions from './AllowanceSuggestions'
 
-export const supportedLanguageCodes = ['sv', 'nb', 'en', 'nl']
+export const supportedLanguageCodes = ['sv', 'nb', 'en', 'nl', 'el']
 
-export const languageCodes = ['sv', 'nb', 'en', 'nl']
-export const languageCodesForTranslation = ['sv', 'nb', 'en', 'nl']
+export const languageCodes = ['sv', 'nb', 'en', 'nl', 'el']
+export const languageCodesForTranslation = ['sv', 'nb', 'en', 'nl', 'el']
 
 export const supportedTimeZonesAndroid = [
   'Europe/Stockholm',
@@ -72,6 +72,8 @@ export const getEducationStrings = (lang: string) => {
       return require('./text_strings/education/nb.json')
     case 'nl':
       return require('./text_strings/education/nl.json')
+    case 'el':
+      return require('./text_strings/education/el.json')
     default:
       return require('./text_strings/education/en.json')
   }
@@ -110,6 +112,16 @@ export const getTextStrings = (lang: string) => {
         ...require('./text_strings/faq/nl.json'),
         ...require('./text_strings/school/nl.json')
       }
+    case 'el':
+      return {
+        ...require('./text_strings/client/default.json'),
+        ...require('./text_strings/client/el.json'),
+        ...require('./text_strings/bot/el.json'),
+        ...require('./text_strings/bot-survey/el.json'),
+        ...require('./text_strings/education/el.json'),
+        ...require('./text_strings/faq/el.json'),
+        ...require('./text_strings/school/el.json')
+      } // Greece
     default:
       return {
         ...require('./text_strings/client/default.json'),
@@ -132,6 +144,8 @@ export const getCalendarStrings = (lang: string) => {
       return {...defaultCalendar, ...require('./text_strings/calendar/nb.json')} // norway
     case 'nl':
       return {...defaultCalendar, ...require('./text_strings/calendar/nl.json')}
+    case 'el':
+      return {...defaultCalendar, ...require('./text_strings/calendar/el.json')} //greece
     default:
       return {...defaultCalendar, ...require('./text_strings/calendar/en.json')}
   }
@@ -146,6 +160,8 @@ export const getFAQStrings = (lang: string): object => {
       return require('./text_strings/faq/nb.json') // norway
     case 'nl':
       return require('./text_strings/faq/nl.json')
+    case 'el':
+      return require('./text_strings/faq/el.json')
     default:
       return require('./text_strings/faq/en.json')
   }
@@ -160,6 +176,8 @@ export const getDictionaryStrings = (lang: string): Record<string, string> => {
       return require('./text_strings/dictionary/nb.json') // norway
     case 'nl':
       return require('./text_strings/dictionary/nl.json')
+    case 'el':
+      return require('./text_strings/dictionary/el.json') // greece
     default:
       return require('./text_strings/dictionary/en.json')
   }
@@ -174,6 +192,8 @@ export const getNativeErrorMessageStrings = (lang: string): Record<string, strin
       return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/nb.json')} // norway
     case 'nl':
       return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/nl.json')}
+    case 'el':
+      return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/el.json')} //greece
     default:
       return {...defaultNativeErrorMessages, ...require('./text_strings/calendar/en.json')}
   }
@@ -273,20 +293,6 @@ export const applyTransform = (text: string, textTransform: string | undefined =
       return text.toLowerCase()
     default:
       return text
-  }
-}
-
-export const getClienStrings = (lang: string) => {
-  switch (lang.substring(0, 2)) {
-    case 'sv':
-      return require('./text_strings/client/sv.json') // sweden
-    case 'nb':
-    case 'nn':
-      return require('./text_strings/client/nb.json') // norway
-    case 'nl':
-      return require('./text_strings/client/nl.json')
-    default:
-      return require('./text_strings/client/en.json')
   }
 }
 
