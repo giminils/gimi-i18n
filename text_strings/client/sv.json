@@ -651,7 +651,7 @@
   "add_card_details": "Lägg till kort",
   "debt_explainer_removed_confirmation": "Borttagen!",
   "itunes_disclaimer_title": "Löpande månadsavgift, avsluta när du vill.",
-  "itunes_disclaimer": "All subscriptions are automatically renewed and charged to your Apple ID account within 24 hours prior to the end of the billing period. Manage or cancel your subscriptions in your App Store account settings. For more information, please see our terms of service and privacy policy.",
+  "itunes_disclaimer": "Alla prenumerationer förnyas automatiskt och dras från ditt Apple ID-konto inom 24 timmar närmast före slutet av din betalningsperiod. Hantera eller avbryt dina prenumerationer i dina App Store-inställningar. För mer info, läs våra användarvillkor och integritetspolicy.",
   "popular_iap_banner": "Populärast",
   "general_timezone": "Tidszon",
   "by_name": "Aktiverat av %1$d",
