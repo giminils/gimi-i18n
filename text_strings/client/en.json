@@ -1843,6 +1843,8 @@
   "upgrade_banner_one_pro_kid_siblings_offer_description": "Siblings 50% off",
   "upgrade_banner_free_user_siblings_offer_title": "Upgrade to Pro",
   "upgrade_banner_free_user_siblings_offer_description": "Siblings 50% off",
+  "upgrade_banner_partnership_title": "Offer from %1$d",
+  "upgrade_banner_partnership_description": "Get Gimi Pro for free if you connect a child account from %1$d",
   "siblings_discount_applied": "Siblings discount applied",
   "siblings_discount": "Siblings discount",
   "siblings_discount_explainer": "50% from the second child!",

@@ -1843,6 +1843,8 @@
   "upgrade_banner_one_pro_kid_siblings_offer_description": "50% søskenrabatt",
   "upgrade_banner_free_user_siblings_offer_title": "Oppgrader til Pro",
   "upgrade_banner_free_user_siblings_offer_description": "50% søskenrabatt",
+  "upgrade_banner_partnership_title": "PLZ_TRANSLATE Offer from %1$d",
+  "upgrade_banner_partnership_description": "PLZ_TRANSLATE Get Gimi Pro for free if you connect a child account from %1$d",
   "siblings_discount_applied": "Søskenrabatt inkludert",
   "siblings_discount": "Søskenrabatt",
   "siblings_discount_explainer": "50% fra det andre barnet",
