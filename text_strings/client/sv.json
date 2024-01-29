@@ -1852,5 +1852,7 @@
   "kid_monthly_stats_description": "Se månad för månad",
   "kid_monthly_stats_dashboard_tab_title": "Din månad",
   "kid_monthly_stats_dashboard_tab_description": "Kolla hur den gick?",
-  "upcoming_transactions_title": "Inkommande"
+  "upcoming_transactions_title": "Inkommande",
+  "general_unsaved_changes_popover_title": "Vill du spara ändringarna?",
+  "general_unsaved_changes_popover_description": "Vi ser att dina senaste uppdateringar ej är sparade än."
 }

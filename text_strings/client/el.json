@@ -1852,5 +1852,7 @@
   "kid_monthly_stats_description": "See month by month",
   "kid_monthly_stats_dashboard_tab_title": "Your month",
   "kid_monthly_stats_dashboard_tab_description": "Check how it went?",
-  "upcoming_transactions_title": "In progress"
+  "upcoming_transactions_title": "In progress",
+  "general_unsaved_changes_popover_title": "PLZ_TRANSLATE Save before you go?",
+  "general_unsaved_changes_popover_description": "PLZ_TRANSLATE We see that you have unsaved changes."
 }

@@ -1852,5 +1852,7 @@
   "kid_monthly_stats_description": "Bekijk per maand",
   "kid_monthly_stats_dashboard_tab_title": "Jouw maand",
   "kid_monthly_stats_dashboard_tab_description": "Checken hoe het ging?",
-  "upcoming_transactions_title": "In uitvoering"
+  "upcoming_transactions_title": "In uitvoering",
+  "general_unsaved_changes_popover_title": "Opslaan voor je vertrekt?",
+  "general_unsaved_changes_popover_description": "We zien dat je onopgeslagen veranderingen hebt."
 }

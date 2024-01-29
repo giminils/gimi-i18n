@@ -1852,5 +1852,7 @@
   "kid_monthly_stats_description": "Se måned for måned",
   "kid_monthly_stats_dashboard_tab_title": "Måneden din",
   "kid_monthly_stats_dashboard_tab_description": "Sjekk hvordan det gikk?",
-  "upcoming_transactions_title": "Innkommende"
+  "upcoming_transactions_title": "Innkommende",
+  "general_unsaved_changes_popover_title": "Vil du lagre endringene?",
+  "general_unsaved_changes_popover_description": "Vi ser at de siste oppdateringene dine ikke er lagret."
 }
