@@ -1407,5 +1407,9 @@
   "kid_monthly_stats_dashboard_tab_description": "Checken hoe het ging?",
   "upcoming_transactions_title": "In uitvoering",
   "general_unsaved_changes_popover_title": "Opslaan voor je vertrekt?",
-  "general_unsaved_changes_popover_description": "We zien dat je onopgeslagen veranderingen hebt."
+  "general_unsaved_changes_popover_description": "We zien dat je onopgeslagen veranderingen hebt.",
+  "account-not-found-title": "We konden geen bankrekeningen vinden",
+  "account-not-found-description": "Er zijn geen rekeningen gevonden bij %1$d. Probeer te verbinden met een andere bank, of vraag een nieuwe rekening aan bij %1$d.",
+  "apply-for-partner-account-text": "PLZ_TRANSLATE Apply for %1$d account",
+  "connect-with-another-bank-text": "Verbind met een andere bank"
 }

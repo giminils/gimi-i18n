@@ -1407,5 +1407,9 @@
   "kid_monthly_stats_dashboard_tab_description": "Sjekk hvordan det gikk?",
   "upcoming_transactions_title": "Innkommende",
   "general_unsaved_changes_popover_title": "Vil du lagre endringene?",
-  "general_unsaved_changes_popover_description": "Vi ser at de siste oppdateringene dine ikke er lagret."
+  "general_unsaved_changes_popover_description": "Vi ser at de siste oppdateringene dine ikke er lagret.",
+  "account-not-found-title": "PLZ_TRANSLATE We could not find any bank accounts",
+  "account-not-found-description": "PLZ_TRANSLATE No accounts were found at %1$d. Try connecting to another bank, or apply for a new account at %1$d.",
+  "apply-for-partner-account-text": "PLZ_TRANSLATE Apply for %1$d account",
+  "connect-with-another-bank-text": "PLZ_TRANSLATE Connect with another bank"
 }

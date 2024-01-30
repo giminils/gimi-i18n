@@ -1407,5 +1407,9 @@
   "kid_monthly_stats_dashboard_tab_description": "Check how it went?",
   "upcoming_transactions_title": "In progress",
   "general_unsaved_changes_popover_title": "PLZ_TRANSLATE Save before you go?",
-  "general_unsaved_changes_popover_description": "PLZ_TRANSLATE We see that you have unsaved changes."
+  "general_unsaved_changes_popover_description": "PLZ_TRANSLATE We see that you have unsaved changes.",
+  "account-not-found-title": "PLZ_TRANSLATE We could not find any bank accounts",
+  "account-not-found-description": "PLZ_TRANSLATE No accounts were found at %1$d. Try connecting to another bank, or apply for a new account at %1$d.",
+  "apply-for-partner-account-text": "PLZ_TRANSLATE Apply for %1$d account",
+  "connect-with-another-bank-text": "PLZ_TRANSLATE Connect with another bank"
 }

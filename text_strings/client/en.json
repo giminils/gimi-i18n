@@ -1407,5 +1407,9 @@
   "kid_monthly_stats_dashboard_tab_description": "Check how it went?",
   "upcoming_transactions_title": "In progress",
   "general_unsaved_changes_popover_title": "Save before you go?",
-  "general_unsaved_changes_popover_description": "We see that you have unsaved changes."
+  "general_unsaved_changes_popover_description": "We see that you have unsaved changes.",
+  "account-not-found-title": "We could not find any bank accounts",
+  "account-not-found-description": "No accounts were found at %1$d. Try connecting to another bank, or apply for a new account at %1$d.",
+  "apply-for-partner-account-text": "Apply for %1$d account",
+  "connect-with-another-bank-text": "Connect with another bank"
 }

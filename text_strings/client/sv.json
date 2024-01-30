@@ -1407,5 +1407,9 @@
   "kid_monthly_stats_dashboard_tab_description": "Kolla hur den gick?",
   "upcoming_transactions_title": "Inkommande",
   "general_unsaved_changes_popover_title": "Vill du spara ändringarna?",
-  "general_unsaved_changes_popover_description": "Vi ser att dina senaste uppdateringar ej är sparade än."
+  "general_unsaved_changes_popover_description": "Vi ser att dina senaste uppdateringar ej är sparade än.",
+  "account-not-found-title": "Vi kunde inte hitta några bankkonton",
+  "account-not-found-description": "Inga konton hittades på %1$d. Pröva att koppla mot en annan bank, eller ansök om nytt konto på %1$d.",
+  "apply-for-partner-account-text": "Ansök om %1$d-konto",
+  "connect-with-another-bank-text": "Koppla en annan bank"
 }
