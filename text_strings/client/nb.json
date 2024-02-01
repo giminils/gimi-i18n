@@ -1426,5 +1426,6 @@
   "partnership_signup_popover_content": "PLZ_TRANSLATE The %1$d application can take some minutes. Do you want to continue or save the link for later?\n\nThe link is unique and a prerequisite for the Gimi offer.",
   "partnership_signup_popover_button_1": "PLZ_TRANSLATE I’ll do it now",
   "general_copy_link": "PLZ_TRANSLATE Copy link",
-  "general_link_copied": "PLZ_TRANSLATE Link copied!"
+  "general_link_copied": "PLZ_TRANSLATE Link copied!",
+  "general_var_per_month": "%1$d/Måned"
 }

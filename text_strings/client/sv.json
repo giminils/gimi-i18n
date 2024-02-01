@@ -1426,5 +1426,6 @@
   "partnership_signup_popover_content": "%1$ds ansökan tar några minuter. Vill du börja direkt eller spara länken till senare?\n\nLänken är unik och en förutsättning för Gimi-erbjudandet.",
   "partnership_signup_popover_button_1": "Börja direkt",
   "general_copy_link": "Kopiera länk",
-  "general_link_copied": "Länk kopierad!"
+  "general_link_copied": "Länk kopierad!",
+  "general_var_per_month": "%1$d/månad"
 }
