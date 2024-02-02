@@ -788,7 +788,7 @@
   "make_transaction_default_placeholder": "Skriv något för att komma ihåg!",
   "chore_suggestion_deleted": "Sysslan är redan raderad",
   "chore_suggestion_added": "Sysslan är redan tillagd",
-  "general_completed_on": "Utfördes på %1$d",
+  "general_completed_on": "Utförd: %1$d",
   "general_add_photo": "Lägg till bildbevis",
   "parent_add_bonus_flash_card_title": "Uppmuntra sparande med en bonus!",
   "parent_add_bonus_flash_card_text": "Lägg till en bonus här",
