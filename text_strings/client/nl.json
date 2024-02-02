@@ -1427,5 +1427,7 @@
   "partnership_signup_popover_button_1": "PLZ_TRANSLATE I’ll do it now",
   "general_copy_link": "PLZ_TRANSLATE Copy link",
   "general_link_copied": "PLZ_TRANSLATE Link copied!",
-  "general_var_per_month": "%1$d/maand"
+  "general_var_per_month": "%1$d/maand",
+  "alpha_survey_banner_title": "PLZ_TRANSLATE You are one of our first users!",
+  "alpha_survey_banner_description": "PLZ_TRANSLATE Give us 30 seconds feedback – earn 30 stars for your children"
 }
