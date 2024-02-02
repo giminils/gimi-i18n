@@ -129,7 +129,7 @@
   "CHGECU001_push_title": "Ditt Gimi kort har blitt slettet. Velkommen tilbake når som helst!",
   "CHGERE032_notification_title": " {parent.nickname} koblet fra deg!",
   "ADGERE001_push_title": "Du er nå koblet sammen med {child.nickname}!",
-  "CHGERE010_notification_title_v3": "{task.title} ble godkjent, {formatted_value} ble lagt til din neste {allowance_frequency}",
+  "CHGERE010_notification_title_v3": "{task.title} ble godkjent, {formatted_value} ble lagt til dine neste {allowance_frequency}",
   "CHGERE023_notification_title_v3": " {task.title} ble godkjent, du tjente {formatted_value}",
   "CHPRON015_notification_title": "Kortet ditt er aktivert. Du må bruke PIN-kode første gangen. Etter det kan du starte tastingen!",
   "CHPRRE045_push_title": "Sjekk saldoen din i Gimi appen!",
