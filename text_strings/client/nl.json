@@ -1425,8 +1425,8 @@
   "partnership_signup_popover_title": "PLZ_TRANSLATE Before we start",
   "partnership_signup_popover_content": "PLZ_TRANSLATE The %1$d application can take some minutes. Do you want to continue or save the link for later?\n\nThe link is unique and a prerequisite for the Gimi offer.",
   "partnership_signup_popover_button_1": "PLZ_TRANSLATE I’ll do it now",
-  "general_copy_link": "PLZ_TRANSLATE Copy link",
-  "general_link_copied": "PLZ_TRANSLATE Link copied!",
+  "general_copy_link": "Kopieer link",
+  "general_link_copied": "Link gekopieerd!",
   "general_var_per_month": "%1$d/maand",
   "alpha_survey_banner_title": "PLZ_TRANSLATE You are one of our first users!",
   "alpha_survey_banner_description": "PLZ_TRANSLATE Give us 30 seconds feedback – earn 30 stars for your children"
