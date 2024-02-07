@@ -54,7 +54,7 @@
   "event_got_a_new_chore": "Μια νέα μικροεργασία σου έχει σταλθεί! Τσέκαρέ την.",
   "push_got_a_new_chore": "Μια νέα μικροεργασία σου έχει σταλθεί! Τσέκαρέ την",
   "push_chore_was_not_approved": " Η μικροεργασία: {chore.title} απορρίφθηκε",
-  "push_chore_was_approved": "{Η μικροεργασία: {chore.title} εγκρίθηκε!",
+  "push_chore_was_approved": "Η μικροεργασία: {chore.title} εγκρίθηκε!",
   "event_reached_a_dream": "Τέλεια! Πέτυχες τον στόχο σου! Συγχαρητήρια!",
   "CHGERE026_push_title": "Το ποσό των {formatted_amount} έχει αφαιρεθεί από τον Gimi λογαριασμό σας",
   "CHGERE027_push_title": "Το ποσό των {formatted_amount} έχει προστεθεί στον Gimi λογαριασμό σας",
