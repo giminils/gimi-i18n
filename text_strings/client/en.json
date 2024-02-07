@@ -1429,5 +1429,10 @@
   "general_link_copied": "Link copied!",
   "general_var_per_month": "%1$d/Month",
   "alpha_survey_banner_title": "You are one of our first users!",
-  "alpha_survey_banner_description": "Give us 30 seconds feedback – earn 30 stars for your children"
+  "alpha_survey_banner_description": "Give us 30 seconds feedback – earn 30 stars for your children",
+  "subscription_purchase_loading_text_1": "Purchasing..",
+  "subscription_purchase_loading_text_2": "Hold on..",
+  "subscription_purchase_loading_button": "Taking too long?",
+  "subscription_purchase_loading_popover_title": "Waiting for confirmation",
+  "subscription_purchase_loading_popover_description": "We're waiting for a payment response from %1$d. If the delay gets much longer and your subscription is not confirmed, please try to restart the app.\n\nIf the problem remains, contact support."
 }

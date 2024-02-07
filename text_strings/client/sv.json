@@ -1429,5 +1429,10 @@
   "general_link_copied": "Länk kopierad!",
   "general_var_per_month": "%1$d/månad",
   "alpha_survey_banner_title": "PLZ_TRANSLATE You are one of our first users!",
-  "alpha_survey_banner_description": "PLZ_TRANSLATE Give us 30 seconds feedback – earn 30 stars for your children"
+  "alpha_survey_banner_description": "PLZ_TRANSLATE Give us 30 seconds feedback – earn 30 stars for your children",
+  "subscription_purchase_loading_text_1": "PLZ_TRANSLATE Purchasing..",
+  "subscription_purchase_loading_text_2": "PLZ_TRANSLATE Hold on..",
+  "subscription_purchase_loading_button": "PLZ_TRANSLATE Taking too long?",
+  "subscription_purchase_loading_popover_title": "PLZ_TRANSLATE Waiting for confirmation",
+  "subscription_purchase_loading_popover_description": "PLZ_TRANSLATE We're waiting for a payment response from %1$d. If the delay gets much longer and your subscription is not confirmed, please try to restart the app.\n\nIf the problem remains, contact support."
 }
