@@ -1086,7 +1086,7 @@
   "pis_not_supported_in_your_country_yet_subtitle_fallback": "Betal ut uke-/månedspengene via banken din og merk det som betalt i neste steg!",
   "general_mark_as_paid": "Merk som betalt",
   "marked_as_paid_success_message": "Merket som betalt!",
-  "onboarding_open_banking_free_for": "Gratis for brukere med:",
+  "onboarding_open_banking_free_for": "Gratis for barn med:",
   "onboarding_open_banking_also_available_for": "Også tilgjengelig for:",
   "onboarding_open_banking_supported_for": "Mest brukte banker",
   "subscriptions_bank_name_pro": "Abonnement: %1$d Pro",
