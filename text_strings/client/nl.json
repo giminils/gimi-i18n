@@ -1136,7 +1136,7 @@
   "setup_open_banking_bullet_3": "Begin je gratis Pro proefperiode",
   "setup_open_banking_bullet_4": "Klaar! Nu kunnen je kind en jij Gimi gebruiken met de gekoppelde bankrekening",
   "setup_open_banking_partnership_bullet_1": "PLZ_TRANSLATE You as a parent will be authenticated through your bank",
-  "setup_open_banking_partnership_bullet_2": "PLZ_TRANSLATE Select bank account for %1$d from the list of accounts",
+  "setup_open_banking_partnership_bullet_2": "PLZ_TRANSLATE Select the child's bank account from the list of accounts",
   "setup_open_banking_partnership_bullet_3": "PLZ_TRANSLATE Done! You and your child can now use Gimi with their bank account.\n\nYou have now also access to all Pro features in Gimi, such as Savings goal, Lessons and Savings bonus for all of your children. Enjoy!🚀🥳",
   "setup_open_banking_partnership_subtitle": "PLZ_TRANSLATE To unlock Gimi Pro for free we need you to verify that you have a child account at %1$d",
   "setup_open_banking_partnership_banner": "PLZ_TRANSLATE 3 steps & you’re Pro!",
